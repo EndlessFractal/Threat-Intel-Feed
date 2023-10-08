@@ -25,6 +25,8 @@ jobs:
 
       - name: Set git config
         run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@github.com"
           git config --global credential.helper 'store --file ~/.my-credentials'
           echo "https://github.com:${{ secrets.PAT_TOKEN }}" > ~/.my-credentials
 
