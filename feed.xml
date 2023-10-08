@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 50 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Oct 2023 06:16:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Oct 2023 08:14:40 +0000</lastBuildDate>
+    <item>
+      <title>Wireshark 4.2.0 First Release Candidate, (Sun, Oct 8th)</title>
+      <link>https://isc.sans.edu/diary/rss/30292</link>
+      <pubDate>Sun, 08 Oct 2023 07:14:59 +0000</pubDate>
+    </item>
     <item>
       <title>Susie Squier: You're never alone. [President]</title>
       <link>https://thecyberwire.com/podcasts/career-notes/170/notes</link>
@@ -251,11 +256,6 @@
       <title>ISC Stormcast For Friday, October 6th, 2023 https://isc.sans.edu/podcastdetail/8690, (Fri, Oct 6th)</title>
       <link>https://isc.sans.edu/diary/rss/30286</link>
       <pubDate>Fri, 06 Oct 2023 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>New tool: le-hex-to-ip.py, (Thu, Oct 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/30284</link>
-      <pubDate>Thu, 05 Oct 2023 21:16:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
