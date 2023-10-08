@@ -5,7 +5,6 @@ on:
   schedule:
     - cron: "0 */1 * * *"
 
-    
 jobs:
   update_hosts:
     runs-on: ubuntu-latest
@@ -38,3 +37,18 @@ jobs:
           git add feed.xml
           git commit -am "Update RSS feed"
           git push
+
+      - name: Cleanup Old Workflow Runs
+        run: |
+          runsToDelete=$(curl -s -X GET \
+            -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/runs" | \
+            jq -r '.workflow_runs | sort_by(.created_at) | .[:-5] | .[] | .id')
+          
+          for runId in $runsToDelete; do
+            curl -s -X DELETE \
+              -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/runs/$runId"
+          done
+        env:
+          RUNNER_OS: ubuntu-latest
