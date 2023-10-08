@@ -5,19 +5,18 @@ on:
   schedule:
     - cron: "0 */2 * * *"
 
-    
 jobs:
   update_hosts:
     runs-on: ubuntu-latest
 
     steps:
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v4.7.1
         with:
           python-version: '3.11'
 
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.1.0
 
       - name: Install dependencies
         run: |
@@ -26,8 +25,8 @@ jobs:
 
       - name: Set git config
         run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@github.com"
+          git config --global credential.helper 'store --file ~/.my-credentials'
+          echo "https://github.com:${{ secrets.PAT_TOKEN }}" > ~/.my-credentials
 
       - name: Run Parser
         run: |
@@ -37,4 +36,4 @@ jobs:
         run: |
           git add feed.xml
           git commit -am "Update RSS feed"
-          git push
+          git push --config credential.helper="store --file ~/.my-credentials"
