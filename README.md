@@ -19,6 +19,12 @@ The script performs the following steps:
    - Generates an XML representation of the feed.
 5. Finally, the script reads a list of RSS feed URLs from 'list.txt', combines the feeds, creates a new feed with the most recent articles, and saves it to 'feed.xml'.
 
+## Usage
+
+Just import the following link into your favorite RSS reader!
+
+> https://raw.githubusercontent.com/EndlessFractal/Threat-Intel-Feed/main/feed.xml
+
 ## Sources
 
 The script retrieves feeds from the following sources:
