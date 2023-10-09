@@ -1,6 +1,6 @@
 # EndlessFractal's Threat Intel Feed
 
-Retrieves a list of domain names from various sources and filters them to create a consolidated list of unique domains. The filtered list is then saved to a file called `hosts.txt`.
+This automated feed retrieves a list of feeds from various sources, consolidates them and saves to a file called `feed.xml`.
 
 ## Description
 
