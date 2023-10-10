@@ -6,16 +6,71 @@
     <description>A combined RSS feed of the 50 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Oct 2023 10:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 12:30:11 +0000</lastBuildDate>
+    <item>
+      <title>Ukraine at D+593: Middle Eastern war's implications for the war in Ukraine.</title>
+      <link>https://thecyberwire.com/stories/85a585e4afcc458bbedd0c4b2834f35a/ukraine-at-d593</link>
+      <pubDate>Tue, 10 Oct 2023 12:22:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>HTTP/2 Rapid Reset: deconstructing the record-breaking attack</title>
+      <link>http://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/</link>
+      <pubDate>Tue, 10 Oct 2023 12:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>HTTP/2 Zero-Day Vulnerability Results in Record-Breaking DDoS Attacks</title>
+      <link>http://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/</link>
+      <pubDate>Tue, 10 Oct 2023 12:02:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half of CISOs Now Report to CEO as Influence Grows</title>
+      <link>https://www.infosecurity-magazine.com/news/half-cisos-report-ceo-influence/</link>
+      <pubDate>Tue, 10 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model Extraction Attack on Neural Networks</title>
+      <link>https://www.schneier.com/blog/archives/2023/10/model-extraction-attack-on-neural-networks.html</link>
+      <pubDate>Tue, 10 Oct 2023 11:09:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Former Israeli National Security Advisor” – with Uzi Arad</title>
+      <link>https://thecyberwire.com/podcasts/spycast/606/notes</link>
+      <pubDate>Tue, 10 Oct 2023 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Report: Child Sexual Abuse Content and Online Risks to Children on the Rise</title>
+      <link>https://thehackernews.com/2023/10/new-report-child-sexual-abuse-content.html</link>
+      <pubDate>Tue, 10 Oct 2023 10:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover Grayling APT's Ongoing Attack Campaign Across Industries</title>
+      <link>https://thehackernews.com/2023/10/researchers-uncover-grayling-apts.html</link>
+      <pubDate>Tue, 10 Oct 2023 10:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 tips for cultivating a winning IT culture</title>
+      <link>https://www.cio.com/article/654910/8-tips-for-cultivating-a-winning-it-culture.html</link>
+      <pubDate>Tue, 10 Oct 2023 10:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Threat Actor “Grayling” Blamed For Espionage Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/threat-actor-grayling-espionage/</link>
       <pubDate>Tue, 10 Oct 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The CIO’s primary job: Developing future IT leaders</title>
+      <link>https://www.cio.com/article/654915/the-cios-primary-job-developing-future-it-leaders.html</link>
+      <pubDate>Tue, 10 Oct 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Grayling: Previously Unseen Threat Actor Targets Multiple Organizations in Taiwan</title>
       <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/grayling-taiwan-cyber-attacks</link>
       <pubDate>Tue, 10 Oct 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>College of Southern Nevada deploys AI avatar to better engage students</title>
+      <link>https://www.cio.com/article/654919/college-of-southern-nevada-deploys-ai-avatar-to-better-engage-students.html</link>
+      <pubDate>Tue, 10 Oct 2023 09:59:00 +0000</pubDate>
     </item>
     <item>
       <title>New Magecart Campaign Alters 404 Error Pages to Steal Shoppers' Credit Cards</title>
@@ -81,6 +136,11 @@
       <title>PEACHPIT: Massive Ad Fraud Botnet Powered by Millions of Hacked Android and iOS</title>
       <link>https://thehackernews.com/2023/10/peachpit-massive-ad-fraud-botnet.html</link>
       <pubDate>Mon, 09 Oct 2023 16:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanded Microsoft Security Experts offerings provide comprehensive protection</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/10/09/expanded-microsoft-security-experts-offerings-provide-comprehensive-protection/</link>
+      <pubDate>Mon, 09 Oct 2023 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MGM Resorts Reveals Over $100M in Costs After Ransomware Attack</title>
@@ -446,66 +506,6 @@
       <title>Qakbot Gang Still Active Despite FBI Takedown</title>
       <link>https://www.infosecurity-magazine.com/news/qakbot-gang-still-active-despite/</link>
       <pubDate>Fri, 06 Oct 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is a business analyst? A key role for business-IT efficiency</title>
-      <link>https://www.cio.com/article/276798/project-management-what-do-business-analysts-actually-do-for-software-implementation-projects.html</link>
-      <pubDate>Fri, 06 Oct 2023 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and NSA Publish Top 10 Misconfigurations</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-nsa-publish-top-10/</link>
-      <pubDate>Fri, 06 Oct 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake friends and followers on social media – and how to spot them</title>
-      <link>https://www.welivesecurity.com/en/social-media/fake-friends-followers-social-media-how-spot-them/</link>
-      <pubDate>Fri, 06 Oct 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub's Secret Scanning Feature Now Covers AWS, Microsoft, Google, and Slack</title>
-      <link>https://thehackernews.com/2023/10/githubs-secret-scanning-feature-now.html</link>
-      <pubDate>Fri, 06 Oct 2023 08:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Issues Emergency Patches for More Zero-Day Bugs</title>
-      <link>https://www.infosecurity-magazine.com/news/apple-issues-emergency-patches/</link>
-      <pubDate>Fri, 06 Oct 2023 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 368</title>
-      <link>https://www.troyhunt.com/weekly-update-368/</link>
-      <pubDate>Fri, 06 Oct 2023 07:49:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deepfake Election Interference in Slovakia</title>
-      <link>https://www.schneier.com/blog/archives/2023/10/deepfake-election-interference-in-slovakia.html</link>
-      <pubDate>Fri, 06 Oct 2023 07:04:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using ISO 27002: 2022 to Improve Information Security Practices | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-iso27002</link>
-      <pubDate>Fri, 06 Oct 2023 06:59:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unpacking ISO 31010: Effective Risk Assessment Techniques | UpGuard</title>
-      <link>https://www.upguard.com/blog/unpacking-iso-31010</link>
-      <pubDate>Fri, 06 Oct 2023 06:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Write the Executive Summary of a Cybersecurity Report | UpGuard</title>
-      <link>https://www.upguard.com/blog/writing-a-cybersecurity-executive-summary</link>
-      <pubDate>Fri, 06 Oct 2023 06:31:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why is Executive Reporting in Cybersecurity Important in 2023? | UpGuard</title>
-      <link>https://www.upguard.com/blog/why-is-executive-reporting-in-cybersecurity-important</link>
-      <pubDate>Fri, 06 Oct 2023 06:30:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is Cyber Risk Quantification? Definition + Calculation Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-cyber-risk-quantification</link>
-      <pubDate>Fri, 06 Oct 2023 06:29:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
