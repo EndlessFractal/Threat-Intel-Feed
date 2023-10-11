@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 50 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Oct 2023 22:14:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 01:06:10 +0000</lastBuildDate>
+    <item>
+      <title>Patch Tuesday, October 2023 Edition</title>
+      <link>https://krebsonsecurity.com/2023/10/patch-tuesday-october-2023-edition/</link>
+      <pubDate>Tue, 10 Oct 2023 22:51:31 +0000</pubDate>
+    </item>
     <item>
       <title>New ‘HTTP/2 Rapid Reset’ technique behind record-breaking DDoS attacks</title>
       <link>https://securityaffairs.com/152278/hacking/ddos-http-2-rapid-reset-technique.html</link>
@@ -188,6 +193,11 @@
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Releases October 2023 Security Updates</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/10/10/microsoft-releases-october-2023-security-updates</link>
+      <pubDate>Tue, 10 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Adds Five Known Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-adds-five-known-vulnerabilities-catalog</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0000</pubDate>
@@ -311,11 +321,6 @@
       <title>PEACHPIT: Massive Ad Fraud Botnet Powered by Millions of Hacked Android and iOS</title>
       <link>https://thehackernews.com/2023/10/peachpit-massive-ad-fraud-botnet.html</link>
       <pubDate>Mon, 09 Oct 2023 16:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expanded Microsoft Security Experts offerings provide comprehensive protection</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2023/10/09/expanded-microsoft-security-experts-offerings-provide-comprehensive-protection/</link>
-      <pubDate>Mon, 09 Oct 2023 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MGM Resorts Reveals Over $100M in Costs After Ransomware Attack</title>
@@ -501,11 +506,6 @@
       <title>Wireshark 4.2.0 First Release Candidate, (Sun, Oct 8th)</title>
       <link>https://isc.sans.edu/diary/rss/30292</link>
       <pubDate>Sun, 08 Oct 2023 07:14:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suzie Squier: You're never alone. [President]</title>
-      <link>https://thecyberwire.com/podcasts/career-notes/170/notes</link>
-      <pubDate>Sun, 08 Oct 2023 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
