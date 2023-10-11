@@ -15,7 +15,7 @@ The script performs the following steps:
 4. After combining and sorting the articles, the script creates a new RSS feed with specific metadata:
    - It sets the title and description for the new feed.
    - Provides a link to the feed.
-   - Adds the most recent 50 articles to the feed.
+   - Adds the most recent 100 articles to the feed.
    - Generates an XML representation of the feed.
 5. Finally, the script reads a list of RSS feed URLs from 'list.txt', combines the feeds, creates a new feed with the most recent articles, and saves it to 'feed.xml'.
 
