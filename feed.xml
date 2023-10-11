@@ -6,11 +6,56 @@
     <description>A combined RSS feed of the 50 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Oct 2023 14:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 16:20:01 +0000</lastBuildDate>
+    <item>
+      <title>10 zero-day vulnerabilities in industrial cell router could lead to code execution, buffer overflows</title>
+      <link>https://blog.talosintelligence.com/vulnerability-roundup-webkit-and-yifan-router/</link>
+      <pubDate>Wed, 11 Oct 2023 16:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusive: Inside Ukraine’s secret drone factories</title>
+      <link>https://therecord.media/ukraine-secret-drone-factories-click-here</link>
+      <pubDate>Wed, 11 Oct 2023 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hybrid wars in the Middle East and Ukraine. Rapid Reset DDoS. Credential phishing. Patch Tuesday.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/193</link>
+      <pubDate>Wed, 11 Oct 2023 15:42:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Australia’s Banking Sector Can Embrace Cross-Collaboration to Combat the Scam Epidemic</title>
+      <link>https://www.techrepublic.com/article/how-australian-it-pros-in-finance-can-address-the-current-regulatory-environment/</link>
+      <pubDate>Wed, 11 Oct 2023 15:40:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Curl Releases Fixes For High-Severity Vulnerability</title>
+      <link>https://www.infosecurity-magazine.com/news/curl-releases-fixes-high-severity/</link>
+      <pubDate>Wed, 11 Oct 2023 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Government Issues Open-Source Security Guidance for Critical Infrastructure</title>
+      <link>https://www.infosecurity-magazine.com/news/us-govt-open-source-security/</link>
+      <pubDate>Wed, 11 Oct 2023 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding Cloud Workload Protection (CWP) In Under 10 Minutes</title>
+      <link>https://www.sentinelone.com/blog/understanding-cloud-workload-protection-cwp-in-under-10-minutes/</link>
+      <pubDate>Wed, 11 Oct 2023 14:21:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>That day you find you’re suddenly in charge of Facebook’s official UK account</title>
+      <link>https://grahamcluley.com/that-day-you-find-youre-suddenly-in-charge-of-facebooks-official-uk-account/</link>
+      <pubDate>Wed, 11 Oct 2023 14:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ukraine at D+594: Opportunisic misdirection.</title>
       <link>https://thecyberwire.com/stories/dadf27e5cd7046babb79277bd65847a1/ukraine-at-d594</link>
       <pubDate>Wed, 11 Oct 2023 13:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mirai-based DDoS botnet IZ1H9 added 13 payloads to target routers</title>
+      <link>https://securityaffairs.com/152333/malware/mirai-based-iz1h9-botnet-surge.html</link>
+      <pubDate>Wed, 11 Oct 2023 13:55:55 +0000</pubDate>
     </item>
     <item>
       <title>The Human Side of Cybersecurity: Unmasking the Alarming Stress &amp; Burnout</title>
@@ -248,11 +293,6 @@
       <pubDate>Tue, 10 Oct 2023 17:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hacktivists take sides in Israel-Palestinian war</title>
-      <link>https://therecord.media/hacktivists-take-sides-israel-palestinian</link>
-      <pubDate>Tue, 10 Oct 2023 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>A flaw in libcue library impacts GNOME Linux systems</title>
       <link>https://securityaffairs.com/152239/hacking/libcue-flaw-gnome-linux-systems.html</link>
       <pubDate>Tue, 10 Oct 2023 16:59:46 +0000</pubDate>
@@ -466,46 +506,6 @@
       <title>C-suite weighs in on generative AI and security</title>
       <link>https://securityintelligence.com/posts/c-suite-weighs-generative-ai-security/</link>
       <pubDate>Tue, 10 Oct 2023 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Magecart Hackers Hide in 404 Error Pages</title>
-      <link>https://www.infosecurity-magazine.com/news/magecart-hackers-hide-404-error/</link>
-      <pubDate>Tue, 10 Oct 2023 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>libcue Library Flaw Opens GNOME Linux Systems Vulnerable to RCE Attacks</title>
-      <link>https://thehackernews.com/2023/10/libcue-library-flaw-opens-gnome-linux.html</link>
-      <pubDate>Tue, 10 Oct 2023 06:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacktivists in Palestine and Israel after SCADA and other industrial control systems</title>
-      <link>https://securityaffairs.com/152224/hacktivism/hacktivists-palestine-israel-after-scada-ics.html</link>
-      <pubDate>Tue, 10 Oct 2023 06:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix Devices Under Attack: NetScaler Flaw Exploited to Capture User Credentials</title>
-      <link>https://thehackernews.com/2023/10/citrix-devices-under-attack-netscaler.html</link>
-      <pubDate>Tue, 10 Oct 2023 05:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity First Principles w/Rick Howard</title>
-      <link>https://thecyberwire.com/podcasts/8th-layer-insights/39/notes</link>
-      <pubDate>Tue, 10 Oct 2023 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, October 10th, 2023 https://isc.sans.edu/podcastdetail/8694, (Tue, Oct 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/30298</link>
-      <pubDate>Tue, 10 Oct 2023 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is External Attack Surface Management (EASM)?  | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-external-attack-surface-management</link>
-      <pubDate>Tue, 10 Oct 2023 00:28:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Private Internet Access VPN: A Comprehensive Review for 2023</title>
-      <link>https://www.techrepublic.com/article/private-internet-access-vpn-review/</link>
-      <pubDate>Mon, 09 Oct 2023 22:44:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
