@@ -68,7 +68,7 @@ def create_rss_feed(combined_feed):
     # Create an instance of FeedGenerator
     fg = FeedGenerator()
     fg.title("EndlessFractal's Threat Intel Feed")
-    fg.description("A combined RSS feed of the 50 most recent articles from various sources")
+    fg.description("A combined RSS feed of the 100 most recent articles from various sources")
     fg.link(href="https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml", rel="alternate")
 
     # Add the entries from the combined feed to the RSS feed
@@ -91,7 +91,7 @@ def main():
     with open('list.txt', 'r') as file:
         feed_urls = [line.strip() for line in file]
 
-    # Get the combined RSS feed with the 50 most recent articles from all feeds
+    # Get the combined RSS feed with the 100 most recent articles from all feeds
     combined_feed = combine_rss_feeds(feed_urls)
 
     # Create an RSS feed from the combined entries and save it to a file
