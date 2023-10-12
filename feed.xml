@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Oct 2023 14:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2023 16:20:07 +0000</lastBuildDate>
+    <item>
+      <title>The heat is on for a sustainable future at Siemens Gamesa</title>
+      <link>https://www.cio.com/article/655434/the-heat-is-on-for-a-sustainable-future-at-siemens-gamesa.html</link>
+      <pubDate>Thu, 12 Oct 2023 16:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability Exposed in WordPress Plugin User Submitted Posts</title>
+      <link>https://www.infosecurity-magazine.com/news/wp-plugin-user-submitted-posts/</link>
+      <pubDate>Thu, 12 Oct 2023 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>California Enacts “Delete Act” For Data Privacy</title>
+      <link>https://www.infosecurity-magazine.com/news/california-enacts-delete-act/</link>
+      <pubDate>Thu, 12 Oct 2023 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber phases of the conflict between Hamas and Israel. Disinformation and content control. Cyberespionage and supply chain vulnerability.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/194</link>
+      <pubDate>Thu, 12 Oct 2023 15:23:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Roundup - Akira</title>
+      <link>https://feeds.fortinet.com/~/799146137/0/fortinet/blog/threat-research~Ransomware-Roundup-Akira</link>
+      <pubDate>Thu, 12 Oct 2023 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Angels | ESXi Ransomware Borrows Code &amp; Victimology From RagnarLocker</title>
+      <link>https://www.sentinelone.com/blog/dark-angels-esxi-ransomware-borrows-code-victimology-from-ragnarlocker/</link>
+      <pubDate>Thu, 12 Oct 2023 14:41:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Curl and Libcurl vulnerabilities.</title>
+      <link>https://thecyberwire.com</link>
+      <pubDate>Thu, 12 Oct 2023 14:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Storm0062 exploits Atlassian 0-day.</title>
+      <link>https://thecyberwire.com/stories/ec0980403cd94c3081301b110565375d/storm0062-exploits-atlassian-0-day</link>
+      <pubDate>Thu, 12 Oct 2023 14:20:07 +0000</pubDate>
+    </item>
     <item>
       <title>Ukraine at D+595: Sabotage in the Baltic Sea.</title>
       <link>https://thecyberwire.com/stories/5b62d6434ea64ce28c81a042ec560de9/ukraine-at-d595</link>
@@ -80,6 +120,11 @@
     <item>
       <title>Schneider Electric IGSS</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-16</link>
+      <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Nineteen Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-nineteen-industrial-control-systems-advisories</link>
       <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -263,6 +308,11 @@
       <pubDate>Wed, 11 Oct 2023 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ransomware review: October 2023</title>
+      <link>https://www.malwarebytes.com/blog/threat-intelligence/2023/10/ransomware-review-october-2023</link>
+      <pubDate>Wed, 11 Oct 2023 15:15:00 +0000</pubDate>
+    </item>
+    <item>
       <title>US Government Issues Open-Source Security Guidance for Critical Infrastructure</title>
       <link>https://www.infosecurity-magazine.com/news/us-govt-open-source-security/</link>
       <pubDate>Wed, 11 Oct 2023 14:30:00 +0000</pubDate>
@@ -428,14 +478,9 @@
       <pubDate>Wed, 11 Oct 2023 09:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Air Europa Asks Customers to Cancel Cards After Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/air-europa-customers-cancel-cards/</link>
-      <pubDate>Wed, 11 Oct 2023 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tech Giants Reveal Record-Breaking “Rapid Reset” DDoS Bug</title>
-      <link>https://www.infosecurity-magazine.com/news/recordbreaking-rapid-reset-ddos-bug/</link>
-      <pubDate>Wed, 11 Oct 2023 08:30:00 +0000</pubDate>
+      <title>Stalkerware activity drops as glaring spying problem is revealed</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/10/stalkerware-activity-drops-but-glaring-problem-with-spying-revealed</link>
+      <pubDate>Wed, 11 Oct 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>#OpIsrael, #FreePalestine &amp; #OpSaudiArabia – How Cyber Actors Capitalize On War Actions Via Psy-Ops</title>
@@ -461,51 +506,6 @@
       <title>Peach Sandstorm</title>
       <link>https://thecyberwire.com/podcasts/microsoft-threat-intelligence/1/notes</link>
       <pubDate>Wed, 11 Oct 2023 07:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases October 2023 Patches for 103 Flaws, Including 2 Active Exploits</title>
-      <link>https://thehackernews.com/2023/10/microsoft-releases-october-2023-patches.html</link>
-      <pubDate>Wed, 11 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Johnson Controls Ransomware Attack; McLaren Health Care Data Breach; Unpatched Exim Vulnerability; Lazarus LinkedIn Attack; NATO Cyber Breach</title>
-      <link>https://blog.eclecticiq.com/johnson-controls-ransomware-attack-lazarus-linkedin-attack-nato-cyber-breach</link>
-      <pubDate>Wed, 11 Oct 2023 06:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Warns of Nation-State Hackers Exploiting Critical Atlassian Confluence Vulnerability</title>
-      <link>https://thehackernews.com/2023/10/microsoft-warns-of-nation-state-hackers.html</link>
-      <pubDate>Wed, 11 Oct 2023 04:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RH-ISAC CISO of the Year, Security Control Validation with Aaron’s, Inc., and Credit Card Fraud Landscape with SecurityScorecard</title>
-      <link>https://thecyberwire.com/podcasts/rh-isac/37/notes</link>
-      <pubDate>Wed, 11 Oct 2023 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is a Data Leak? Stop Giving Cybercriminals Free Access | UpGuard</title>
-      <link>https://www.upguard.com/blog/data-leak</link>
-      <pubDate>Wed, 11 Oct 2023 02:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, October 11th, 2023 https://isc.sans.edu/podcastdetail/8696, (Wed, Oct 11th)</title>
-      <link>https://isc.sans.edu/diary/rss/30302</link>
-      <pubDate>Wed, 11 Oct 2023 02:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Capabilities to Create a Unified View of Your Threat Landscape, Prioritize Relevant Threats, and Accelerate Response to Threats</title>
-      <link>https://www.recordedfuture.com/new-capabilities-threat-landscape-prioritize-threats</link>
-      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch Tuesday, October 2023 Edition</title>
-      <link>https://krebsonsecurity.com/2023/10/patch-tuesday-october-2023-edition/</link>
-      <pubDate>Tue, 10 Oct 2023 22:51:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ‘HTTP/2 Rapid Reset’ technique behind record-breaking DDoS attacks</title>
-      <link>https://securityaffairs.com/152278/hacking/ddos-http-2-rapid-reset-technique.html</link>
-      <pubDate>Tue, 10 Oct 2023 21:19:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
