@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Oct 2023 12:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2023 14:14:21 +0000</lastBuildDate>
     <item>
-      <title>Siemens Xpedition Layout Browser</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-04</link>
-      <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+      <title>Ukraine at D+595: Sabotage in the Baltic Sea.</title>
+      <link>https://thecyberwire.com/stories/5b62d6434ea64ce28c81a042ec560de9/ukraine-at-d595</link>
+      <pubDate>Thu, 12 Oct 2023 14:09:22 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens SIMATIC CP products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-01</link>
-      <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+      <title>Malicious NuGet Package Targeting .NET Developers with SeroXen RAT</title>
+      <link>https://thehackernews.com/2023/10/malicious-nuget-package-targeting-net.html</link>
+      <pubDate>Thu, 12 Oct 2023 13:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese APT ToddyCat Targets Asian Telecoms, Governments</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-apt-toddycat-asian/</link>
+      <pubDate>Thu, 12 Oct 2023 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I got started: Attack surface management</title>
+      <link>https://securityintelligence.com/articles/how-i-got-started-attack-surface-management/</link>
+      <pubDate>Thu, 12 Oct 2023 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Balada Injector Malware Campaign Detection: Hackers Exploit a tagDiv Composer Vulnerability Infecting Thousands of WordPress Sites</title>
+      <link>https://socprime.com/blog/balada-injector-malware-campaign-detection-hackers-exploit-a-tagdiv-composer-vulnerability-infecting-thousands-of-wordpress-sites/</link>
+      <pubDate>Thu, 12 Oct 2023 12:36:42 +0000</pubDate>
     </item>
     <item>
       <title>Weintek cMT3000 HMI Web CGI</title>
@@ -38,6 +53,11 @@
       <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Hikvision Access Control and Intercom Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-14</link>
+      <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Siemens Mendix Forgot Password Module</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-11</link>
       <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
@@ -55,6 +75,11 @@
     <item>
       <title>Siemens SCALANCE W1750D</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-02</link>
+      <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric IGSS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-16</link>
       <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -166,6 +191,16 @@
       <title>Smashing Security podcast #343: Four-legged girlfriends, LoveGPT, and a military intelligence failure</title>
       <link>https://grahamcluley.com/smashing-security-podcast-343/</link>
       <pubDate>Wed, 11 Oct 2023 23:03:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Santesoft Sante FFT Imaging</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-23-285-02</link>
+      <pubDate>Wed, 11 Oct 2023 21:53:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Santesoft Sante DICOM Viewer Pro</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-23-285-01</link>
+      <pubDate>Wed, 11 Oct 2023 21:50:23 +0000</pubDate>
     </item>
     <item>
       <title>Mirai-based botnet updates ‘arsenal of exploits’ on routers, IoT devices</title>
@@ -471,41 +506,6 @@
       <title>New ‘HTTP/2 Rapid Reset’ technique behind record-breaking DDoS attacks</title>
       <link>https://securityaffairs.com/152278/hacking/ddos-http-2-rapid-reset-technique.html</link>
       <pubDate>Tue, 10 Oct 2023 21:19:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manufacturing services tech giant hit with cyberattack</title>
-      <link>https://therecord.media/manufacturing-giant-hit-with-cyberattack</link>
-      <pubDate>Tue, 10 Oct 2023 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The cyber phases of two wars show signs of intersecting. Developments in cyberespionage and cybercrime.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1923/notes</link>
-      <pubDate>Tue, 10 Oct 2023 20:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 2023 Microsoft Patch Tuesday Summary, (Tue, Oct 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/30300</link>
-      <pubDate>Tue, 10 Oct 2023 18:03:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exposed security cameras in Israel and Palestine pose significant risks</title>
-      <link>https://securityaffairs.com/152265/hacking/security-cameras-israel-and-palestine.html</link>
-      <pubDate>Tue, 10 Oct 2023 17:47:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>A flaw in libcue library impacts GNOME Linux systems</title>
-      <link>https://securityaffairs.com/152239/hacking/libcue-flaw-gnome-linux-systems.html</link>
-      <pubDate>Tue, 10 Oct 2023 16:59:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wireshark Tutorial: Identifying Hosts and Users</title>
-      <link>https://unit42.paloaltonetworks.com/using-wireshark-identifying-hosts-and-users/</link>
-      <pubDate>Tue, 10 Oct 2023 16:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>#StopRansomware: AvosLocker Ransomware (Update)</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-284a</link>
-      <pubDate>Tue, 10 Oct 2023 16:42:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
