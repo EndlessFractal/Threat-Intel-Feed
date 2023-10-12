@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Oct 2023 02:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2023 04:18:12 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Thursday, October 12th, 2023 https://isc.sans.edu/podcastdetail/8698, (Thu, Oct 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/30306</link>
+      <pubDate>Thu, 12 Oct 2023 02:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>What to know about the HTTP/2 Rapid Reset DDoS attacks</title>
       <link>https://blog.talosintelligence.com/http-2-rapid-reset-ddos-attacks/</link>
@@ -500,11 +505,6 @@
     <item>
       <title>CISA Adds Five Known Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-adds-five-known-vulnerabilities-catalog</link>
-      <pubDate>Tue, 10 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/10/10/citrix-releases-security-updates-multiple-products</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0000</pubDate>
     </item>
   </channel>
