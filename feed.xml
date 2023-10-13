@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 18:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2023 20:16:22 +0000</lastBuildDate>
+    <item>
+      <title>Mike Walters, VP of Vulnerability and Threat Research and co-founder of Action1, is talking about the 20th anniversary of Patch Tuesday.</title>
+      <link>https://thecyberwire.com/podcasts/interview-selects/181/notes</link>
+      <pubDate>Fri, 13 Oct 2023 20:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacktivism in the war between Hamas and Israel, with a possibility of escalation. Healthcare cybersecurity. Looting FTX. CISA releases resources to counter ransomware.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/1926/notes</link>
+      <pubDate>Fri, 13 Oct 2023 20:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Guide to ISO 22301: Business Continuity Management Systems | UpGuard</title>
+      <link>https://www.upguard.com/blog/iso-22301-guide</link>
+      <pubDate>Fri, 13 Oct 2023 19:48:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is External Attack Surface Management (EASM)?  | UpGuard</title>
+      <link>https://www.upguard.com/blog/what-is-external-attack-surface-management</link>
+      <pubDate>Fri, 13 Oct 2023 19:41:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is a Hard Token? Hardware Security Tokens Vs Soft Tokens | UpGuard</title>
+      <link>https://www.upguard.com/blog/hard-tokens</link>
+      <pubDate>Fri, 13 Oct 2023 19:39:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is the Infosec Registered Assessors Program (IRAP)? | UpGuard</title>
+      <link>https://www.upguard.com/blog/irap</link>
+      <pubDate>Fri, 13 Oct 2023 19:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is the Difference Between Compliance and Auditing in Information Security? | UpGuard</title>
+      <link>https://www.upguard.com/blog/difference-between-compliance-and-auditing-in-information-security</link>
+      <pubDate>Fri, 13 Oct 2023 18:29:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Perform a Cybersecurity Audit for Colleges &amp; Universities | UpGuard</title>
+      <link>https://www.upguard.com/blog/how-to-perform-a-cybersecurity-audit-colleges-universities</link>
+      <pubDate>Fri, 13 Oct 2023 18:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Perform a Cybersecurity Audit: A 3-Step Guide | UpGuard</title>
+      <link>https://www.upguard.com/blog/how-to-perform-a-cybersecurity-audit</link>
+      <pubDate>Fri, 13 Oct 2023 18:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Choosing the Best Tool for Cybersecurity Audits | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-tool-for-cybersecurity-audits</link>
+      <pubDate>Fri, 13 Oct 2023 18:25:33 +0000</pubDate>
+    </item>
     <item>
       <title>UK fines Equifax $13.6 million for 2017 data breach</title>
       <link>https://therecord.media/uk-fines-equifax-millions-for-2017-data-breach</link>
@@ -51,6 +101,11 @@
       <title>Meeting the Third-Party Requirements of the Essential Eight | UpGuard</title>
       <link>https://www.upguard.com/blog/essential-eight-tprm</link>
       <pubDate>Fri, 13 Oct 2023 17:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's Normal: MAC Addresses, (Fri, Oct 13th)</title>
+      <link>https://isc.sans.edu/diary/rss/30310</link>
+      <pubDate>Fri, 13 Oct 2023 17:12:31 +0000</pubDate>
     </item>
     <item>
       <title>EPA says litigation from Republicans, water companies forced withdrawal of cybersecurity memo</title>
@@ -118,7 +173,7 @@
       <pubDate>Fri, 13 Oct 2023 11:12:23 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware attacks doubled year on year. Are organizations equipped to handle the evolution of Ransomware in 2023?</title>
+      <title>Ransomware Attacks Double: Are Companies Prepared for 2024's Cyber Threats?</title>
       <link>https://thehackernews.com/2023/10/ransomware-attacks-doubled-year-on-year.html</link>
       <pubDate>Fri, 13 Oct 2023 11:07:00 +0000</pubDate>
     </item>
@@ -451,61 +506,6 @@
       <title>European Police Hackathon Hunts Down Traffickers</title>
       <link>https://www.infosecurity-magazine.com/news/european-police-hackathon-hunts/</link>
       <pubDate>Thu, 12 Oct 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover Malware Posing as WordPress Caching Plugin</title>
-      <link>https://thehackernews.com/2023/10/researchers-uncover-malware-posing-as.html</link>
-      <pubDate>Thu, 12 Oct 2023 09:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fifth of UK Cybersecurity Pros Work Excessive Hours</title>
-      <link>https://www.infosecurity-magazine.com/news/fifth-uk-cybersecurity-pros-work/</link>
-      <pubDate>Thu, 12 Oct 2023 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Smashes Annual Data Breach Record With Three Months Left</title>
-      <link>https://www.infosecurity-magazine.com/news/us-smashes-data-breach-record/</link>
-      <pubDate>Thu, 12 Oct 2023 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing, the campaigns that are targeting Italy</title>
-      <link>https://securityaffairs.com/152372/cyber-crime/phishing-campaigns-targt-italy.html</link>
-      <pubDate>Thu, 12 Oct 2023 07:52:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new Magecart campaign hides the malicious code in 404 error page</title>
-      <link>https://securityaffairs.com/152387/cyber-crime/magecart-default-404-error-page.html</link>
-      <pubDate>Thu, 12 Oct 2023 07:23:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover Ongoing Attacks Targeting Asian Governments and Telecom Giants</title>
-      <link>https://thehackernews.com/2023/10/researchers-uncover-ongoing.html</link>
-      <pubDate>Thu, 12 Oct 2023 06:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Issues in cybersecurity policy.</title>
-      <link>https://thecyberwire.com/podcasts/caveat/190/notes</link>
-      <pubDate>Thu, 12 Oct 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two High-Risk Security Flaws Discovered in Curl Library - New Patches Released</title>
-      <link>https://thehackernews.com/2023/10/two-high-risk-security-flaws-discovered.html</link>
-      <pubDate>Thu, 12 Oct 2023 04:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update now! Atlassian Confluence vulnerability is being actively exploited</title>
-      <link>https://www.malwarebytes.com/blog/news/2023/10/atlassian-confluence-zero-day</link>
-      <pubDate>Thu, 12 Oct 2023 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, October 12th, 2023 https://isc.sans.edu/podcastdetail/8698, (Thu, Oct 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/30306</link>
-      <pubDate>Thu, 12 Oct 2023 02:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Giant health insurer struck by ransomware didn't have antivirus protection</title>
-      <link>https://www.malwarebytes.com/blog/news/2023/10/health-insurer-left-defenceless-against-ransomware-attack</link>
-      <pubDate>Thu, 12 Oct 2023 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
