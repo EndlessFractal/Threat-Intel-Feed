@@ -44,9 +44,13 @@ def combine_rss_feeds(feed_urls):
     def fetch_feed(url):
         try:
             feed = feedparser.parse(url)
-            return feed.entries
-        except AttributeError as e:
-            print(f"An AttributeError occurred for URL: {url}")
+            if 'entries' in feed:
+                return feed.entries
+            else:
+                print(f"No entries found for URL: {url}")
+                return []
+        except Exception as e:
+            print(f"An error occurred for URL: {url}")
             print(e)
             return []
 

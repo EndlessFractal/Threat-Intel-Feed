@@ -29,6 +29,7 @@ Just import the following link into your favorite RSS reader!
 
 The script retrieves feeds from the following sources:
 
+- [AhnLab ASEC Feed](https://asec.ahnlab.com/en/feed/)
 - [AT&T Cybersecurity Blog](https://cybersecurity.att.com/site/blog-all-rss)
 - [Bitdefender Labs Blog](https://www.bitdefender.com/blog/api/rss/labs/)
 - [Broadcom SED Blog](https://sed-cms.broadcom.com/rss/v1/blogs/rss.xml)
