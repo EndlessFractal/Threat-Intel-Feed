@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Oct 2023 16:17:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2023 18:18:29 +0000</lastBuildDate>
+    <item>
+      <title>The Alphv ransomware gang stole 5TB of data from the Morrison Community Hospital</title>
+      <link>https://securityaffairs.com/152486/cyber-crime/alphv-ransomware-morrison-community-hospital.html</link>
+      <pubDate>Sun, 15 Oct 2023 16:02:28 +0000</pubDate>
+    </item>
     <item>
       <title>Where Next for States on All Things IT and Security?</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/where-next-for-states-on-all-things-it-and-security</link>
@@ -66,11 +71,6 @@
       <title>Meeting the Third-Party Requirements of the Essential Eight | UpGuard</title>
       <link>https://www.upguard.com/blog/essential-eight-tprm</link>
       <pubDate>Fri, 13 Oct 2023 22:33:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: On Squid Intelligence</title>
-      <link>https://www.schneier.com/blog/archives/2023/10/friday-squid-blogging-on-squid-intelligence.html</link>
-      <pubDate>Fri, 13 Oct 2023 21:09:31 +0000</pubDate>
     </item>
     <item>
       <title>Mike Walters, VP of Vulnerability and Threat Research and co-founder of Action1, is talking about the 20th anniversary of Patch Tuesday.</title>
@@ -231,11 +231,6 @@
       <title>UK Regulator Fines Equifax £11m for 2017 Data Breach</title>
       <link>https://www.infosecurity-magazine.com/news/regulator-fine-equifax-data-breach/</link>
       <pubDate>Fri, 13 Oct 2023 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacking the High School Grading System</title>
-      <link>https://www.schneier.com/blog/archives/2023/10/hacking-the-high-school-grading-system.html</link>
-      <pubDate>Fri, 13 Oct 2023 11:12:23 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Attacks Double: Are Companies Prepared for 2024's Cyber Threats?</title>
@@ -505,6 +500,11 @@
     <item>
       <title>Siemens Simcenter Amesim</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-05</link>
+      <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SCALANCE W1750D</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-02</link>
       <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
     </item>
   </channel>
