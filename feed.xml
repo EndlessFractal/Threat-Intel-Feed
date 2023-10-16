@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Oct 2023 10:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2023 12:31:16 +0000</lastBuildDate>
+    <item>
+      <title>The Fast Evolution of SaaS Security from 2020 to 2024 (Told Through Video)</title>
+      <link>https://thehackernews.com/2023/10/the-fast-evolution-of-saas-security.html</link>
+      <pubDate>Mon, 16 Oct 2023 11:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Healthcare Sector Warned About New Ransomware Group NoEscape</title>
+      <link>https://www.infosecurity-magazine.com/news/healthcare-warned-ransomware/</link>
+      <pubDate>Mon, 16 Oct 2023 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New RomCom Backdoor Targets Female Political Leaders</title>
+      <link>https://www.infosecurity-magazine.com/news/romcom-backdoor-female-political/</link>
+      <pubDate>Mon, 16 Oct 2023 11:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coin Flips Are Biased</title>
+      <link>https://www.schneier.com/blog/archives/2023/10/coin-flips-are-biased.html</link>
+      <pubDate>Mon, 16 Oct 2023 11:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why IT projects still fail</title>
+      <link>https://www.cio.com/article/230427/why-it-projects-still-fail.html</link>
+      <pubDate>Mon, 16 Oct 2023 10:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hybrid meetings: 5 best practices for better outcomes</title>
+      <link>https://www.cio.com/article/305353/6-tips-for-better-hybrid-meetings.html</link>
+      <pubDate>Mon, 16 Oct 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cedar Fair’s digital strategy based on ‘frictionless fun’</title>
+      <link>https://www.cio.com/article/655652/cedar-fairs-digital-strategy-based-on-frictionless-fun.html</link>
+      <pubDate>Mon, 16 Oct 2023 09:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Signal Debunks Zero-Day Vulnerability Reports, Finds No Evidence</title>
+      <link>https://thehackernews.com/2023/10/signal-debunks-zero-day-vulnerability.html</link>
+      <pubDate>Mon, 16 Oct 2023 09:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HUAWEI eKit makes digital business easy for distributors</title>
+      <link>https://www.cio.com/article/655777/huawei-ekit-makes-digital-business-easy-for-distributors.html</link>
+      <pubDate>Mon, 16 Oct 2023 08:47:49 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Defender thwarted Akira ransomware attack on an industrial engineering firm</title>
       <link>https://securityaffairs.com/152501/malware/akira-ransomware-attack-blocked.html</link>
@@ -21,6 +66,11 @@
       <title>Are typos still relevant as an indicator of phishing&amp;#x3f;, (Mon, Oct 16th)</title>
       <link>https://isc.sans.edu/diary/rss/30316</link>
       <pubDate>Mon, 16 Oct 2023 07:17:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The strategy behind becoming a manufacturing superpower</title>
+      <link>https://www.cio.com/article/655762/the-strategy-behind-becoming-a-manufacturing-superpower.html</link>
+      <pubDate>Mon, 16 Oct 2023 06:50:49 +0000</pubDate>
     </item>
     <item>
       <title>Dawn of a new day for Africa: building a modern digital economy</title>
@@ -456,56 +506,6 @@
       <title>Curl and Libcurl vulnerabilities.</title>
       <link>https://thecyberwire.com</link>
       <pubDate>Thu, 12 Oct 2023 14:31:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Storm0062 exploits Atlassian 0-day.</title>
-      <link>https://thecyberwire.com/stories/ec0980403cd94c3081301b110565375d/storm0062-exploits-atlassian-0-day</link>
-      <pubDate>Thu, 12 Oct 2023 14:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine at D+595: Sabotage in the Baltic Sea.</title>
-      <link>https://thecyberwire.com/stories/5b62d6434ea64ce28c81a042ec560de9/ukraine-at-d595</link>
-      <pubDate>Thu, 12 Oct 2023 14:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious NuGet Package Targeting .NET Developers with SeroXen RAT</title>
-      <link>https://thehackernews.com/2023/10/malicious-nuget-package-targeting-net.html</link>
-      <pubDate>Thu, 12 Oct 2023 13:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese APT ToddyCat Targets Asian Telecoms, Governments</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-apt-toddycat-asian/</link>
-      <pubDate>Thu, 12 Oct 2023 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How I got started: Attack surface management</title>
-      <link>https://securityintelligence.com/articles/how-i-got-started-attack-surface-management/</link>
-      <pubDate>Thu, 12 Oct 2023 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Balada Injector Malware Campaign Detection: Hackers Exploit a tagDiv Composer Vulnerability Infecting Thousands of WordPress Sites</title>
-      <link>https://socprime.com/blog/balada-injector-malware-campaign-detection-hackers-exploit-a-tagdiv-composer-vulnerability-infecting-thousands-of-wordpress-sites/</link>
-      <pubDate>Thu, 12 Oct 2023 12:36:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weintek cMT3000 HMI Web CGI</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-12</link>
-      <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens CPCI85 Firmware of SICAM A8000 Devices</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-09</link>
-      <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SICAM PAS/PQS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-06</link>
-      <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SICAM A8000 Devices</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-285-03</link>
-      <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
