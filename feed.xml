@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Oct 2023 16:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 18:20:56 +0000</lastBuildDate>
     <item>
       <title>Delete-your-data laws have a perennial problem: Data brokers who fail to register</title>
       <link>https://therecord.media/state-data-broker-registries-california-vermont</link>
       <pubDate>Tue, 24 Oct 2023 15:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2023-20198 zero-day widely exploited to install implants on Cisco IOS XE systems</title>
+      <link>https://securityaffairs.com/152626/hacking/cve-2023-20198-cisco-ios-xe-devices.html</link>
+      <pubDate>Tue, 17 Oct 2023 17:51:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia’s Sandworm hacking unit targets Ukrainian telecom providers</title>
+      <link>https://therecord.media/russia-sandworm-hacking-ukraine-telecom-internet-providers</link>
+      <pubDate>Tue, 17 Oct 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t make the biggest mistake in application modernization projects</title>
+      <link>https://www.cio.com/article/655971/dont-make-the-biggest-mistake-in-application-modernization-projects.html</link>
+      <pubDate>Tue, 17 Oct 2023 16:52:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 4 pillars of the Zscaler Zero Trust Exchange: Customers share their successes</title>
+      <link>https://www.cio.com/article/655969/the-4-pillars-of-the-zscaler-zero-trust-exchange-customers-share-their-successes.html</link>
+      <pubDate>Tue, 17 Oct 2023 16:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech CEO Sentenced to 5 Years in IP Address Scheme</title>
+      <link>https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/</link>
+      <pubDate>Tue, 17 Oct 2023 16:23:25 +0000</pubDate>
     </item>
     <item>
       <title>Why logging is one of the most overlooked aspects of incident response, and how Cisco Talos IR can help</title>
@@ -20,6 +45,11 @@
     <item>
       <title>Persistent Espionage Campaign Targets APAC Governments</title>
       <link>https://www.infosecurity-magazine.com/news/espionage-campaign-targets-apac/</link>
+      <pubDate>Tue, 17 Oct 2023 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NetSuite adds generative AI to its entire ERP suite</title>
+      <link>https://www.cio.com/article/655912/netsuite-adds-generative-ai-to-its-entire-erp-suite.html</link>
       <pubDate>Tue, 17 Oct 2023 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -41,6 +71,11 @@
       <title>Is Collaboration The Key To Aussie Tech Challenges?</title>
       <link>https://www.techrepublic.com/article/cross-collaboration-australian-it-service-providers/</link>
       <pubDate>Tue, 17 Oct 2023 15:22:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>CIOs must safeguard organizations with a validated Zero Trust solution</title>
+      <link>https://www.cio.com/article/655938/cios-must-safeguard-organizations-with-a-validated-zero-trust-solution.html</link>
+      <pubDate>Tue, 17 Oct 2023 15:06:10 +0000</pubDate>
     </item>
     <item>
       <title>Russia wants to isolate its internet, but experts warn it won’t be easy</title>
@@ -388,11 +423,6 @@
       <pubDate>Mon, 16 Oct 2023 13:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>US Treasury inks cybersecurity agreement with United Arab Emirates</title>
-      <link>https://therecord.media/treasury-deal-with-uae-cybersecurity</link>
-      <pubDate>Mon, 16 Oct 2023 13:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Signal debunks online rumours of zero-day security vulnerability</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/signal-debunks-online-rumours-of-zero-day-security-vulnerability/</link>
       <pubDate>Mon, 16 Oct 2023 13:28:15 +0000</pubDate>
@@ -473,39 +503,9 @@
       <pubDate>Mon, 16 Oct 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cedar Fair’s digital strategy based on ‘frictionless fun’</title>
-      <link>https://www.cio.com/article/655652/cedar-fairs-digital-strategy-based-on-frictionless-fun.html</link>
-      <pubDate>Mon, 16 Oct 2023 09:59:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Signal Debunks Zero-Day Vulnerability Reports, Finds No Evidence</title>
       <link>https://thehackernews.com/2023/10/signal-debunks-zero-day-vulnerability.html</link>
       <pubDate>Mon, 16 Oct 2023 09:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender thwarted Akira ransomware attack on an industrial engineering firm</title>
-      <link>https://securityaffairs.com/152501/malware/akira-ransomware-attack-blocked.html</link>
-      <pubDate>Mon, 16 Oct 2023 08:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>DarkGate malware campaign abuses Skype and Teams</title>
-      <link>https://securityaffairs.com/152513/cyber-crime/darkgate-campaign-messaging-platforms.html</link>
-      <pubDate>Mon, 16 Oct 2023 07:18:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are typos still relevant as an indicator of phishing&amp;#x3f;, (Mon, Oct 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/30316</link>
-      <pubDate>Mon, 16 Oct 2023 07:17:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The strategy behind becoming a manufacturing superpower</title>
-      <link>https://www.cio.com/article/655762/the-strategy-behind-becoming-a-manufacturing-superpower.html</link>
-      <pubDate>Mon, 16 Oct 2023 06:50:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dawn of a new day for Africa: building a modern digital economy</title>
-      <link>https://www.cio.com/article/650572/dawn-of-a-new-day-for-africa-building-a-modern-digital-economy.html</link>
-      <pubDate>Mon, 16 Oct 2023 06:14:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
