@@ -6,11 +6,66 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Oct 2023 10:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 12:30:46 +0000</lastBuildDate>
+    <item>
+      <title>Snapshot fuzzing direct composition with WTF</title>
+      <link>https://blog.talosintelligence.com/snapshot-fuzzing-direct-composition-with-wtf/</link>
+      <pubDate>Tue, 17 Oct 2023 12:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rising AI-Fueled Phishing Drives Demand for Password Alternatives</title>
+      <link>https://www.infosecurity-magazine.com/news/rising-ai-phishing-drives-demand/</link>
+      <pubDate>Tue, 17 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinar: Locking Down Financial and Accounting Data — Best Data Security Strategies</title>
+      <link>https://thehackernews.com/2023/10/webinar-locking-down-financial-and.html</link>
+      <pubDate>Tue, 17 Oct 2023 11:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Vulnerability of Switzerland’s E-Voting System</title>
+      <link>https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html</link>
+      <pubDate>Tue, 17 Oct 2023 11:11:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall v20: Azure AD Enhancements</title>
+      <link>https://news.sophos.com/en-us/2023/10/17/sophos-firewall-v20-azure-ad-enhancements/</link>
+      <pubDate>Tue, 17 Oct 2023 11:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Warns of Critical Vulnerability in IOS XE Software</title>
+      <link>https://www.infosecurity-magazine.com/news/cisco-critical-vulnerability-ios/</link>
+      <pubDate>Tue, 17 Oct 2023 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“The Intelligence Legacy of the Yom Kippur War” – with Uri Bar-Joseph</title>
+      <link>https://thecyberwire.com/podcasts/spycast/607/notes</link>
+      <pubDate>Tue, 17 Oct 2023 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring the Realm of Malicious Generative AI: A New Digital Security Challenge</title>
+      <link>https://thehackernews.com/2023/10/exploring-realm-of-malicious-generative.html</link>
+      <pubDate>Tue, 17 Oct 2023 10:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts Warn of Severe Flaws Affecting Milesight Routers and Titan SFTP Servers</title>
+      <link>https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html</link>
+      <pubDate>Tue, 17 Oct 2023 10:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 cloud market trends and how they will impact IT</title>
+      <link>https://www.cio.com/article/655693/7-cloud-market-trends-and-how-they-will-impact-it.html</link>
+      <pubDate>Tue, 17 Oct 2023 10:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>APT trends report Q3 2023</title>
       <link>https://securelist.com/apt-trends-report-q3-2023/110752/</link>
       <pubDate>Tue, 17 Oct 2023 10:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to get internal employee poaching right</title>
+      <link>https://www.cio.com/article/655698/how-to-get-internal-employee-poaching-right.html</link>
+      <pubDate>Tue, 17 Oct 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware realities in 2023: one employee mistake can cost a company millions</title>
@@ -268,11 +323,6 @@
       <pubDate>Mon, 16 Oct 2023 12:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Mon, 16 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cisco Releases Security Advisory for IOS XE Software Web UI</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/10/16/cisco-releases-security-advisory-ios-xe-software-web-ui</link>
       <pubDate>Mon, 16 Oct 2023 12:00:00 +0000</pubDate>
@@ -280,6 +330,16 @@
     <item>
       <title>CISA, FBI, and MS-ISAC Release Joint Advisory on Atlassian Confluence Vulnerability CVE-2023-22515</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-fbi-and-ms-isac-release-joint-advisory-atlassian-confluence-vulnerability-cve-2023-22515</link>
+      <pubDate>Mon, 16 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Mon, 16 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA, NSA, FBI, and International Partners Release Updated Secure by Design Guidance</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-nsa-fbi-and-international-partners-release-updated-secure-design-guidance</link>
       <pubDate>Mon, 16 Oct 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -446,66 +506,6 @@
       <title>What is the InfoSec Registered Assessors Program (IRAP)? | UpGuard</title>
       <link>https://www.upguard.com/blog/irap</link>
       <pubDate>Fri, 13 Oct 2023 22:34:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meeting the Third-Party Requirements of the Essential Eight | UpGuard</title>
-      <link>https://www.upguard.com/blog/essential-eight-tprm</link>
-      <pubDate>Fri, 13 Oct 2023 22:33:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Atlassian Confluence CVE-2023-22515 for Initial Access to Networks</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-289a</link>
-      <pubDate>Fri, 13 Oct 2023 21:44:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: On Squid Intelligence</title>
-      <link>https://www.schneier.com/blog/archives/2023/10/friday-squid-blogging-on-squid-intelligence.html</link>
-      <pubDate>Fri, 13 Oct 2023 21:09:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mike Walters, VP of Vulnerability and Threat Research and co-founder of Action1, is talking about the 20th anniversary of Patch Tuesday.</title>
-      <link>https://thecyberwire.com/podcasts/interview-selects/181/notes</link>
-      <pubDate>Fri, 13 Oct 2023 20:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacktivism in the war between Hamas and Israel, with a possibility of escalation. Healthcare cybersecurity. Looting FTX. CISA releases resources to counter ransomware.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1926/notes</link>
-      <pubDate>Fri, 13 Oct 2023 20:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Guide to ISO 22301: Business Continuity Management Systems | UpGuard</title>
-      <link>https://www.upguard.com/blog/iso-22301-guide</link>
-      <pubDate>Fri, 13 Oct 2023 19:48:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is External Attack Surface Management (EASM)?  | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-external-attack-surface-management</link>
-      <pubDate>Fri, 13 Oct 2023 19:41:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is a Hard Token? Hardware Security Tokens Vs Soft Tokens | UpGuard</title>
-      <link>https://www.upguard.com/blog/hard-tokens</link>
-      <pubDate>Fri, 13 Oct 2023 19:39:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is the Difference Between Compliance and Auditing in Information Security? | UpGuard</title>
-      <link>https://www.upguard.com/blog/difference-between-compliance-and-auditing-in-information-security</link>
-      <pubDate>Fri, 13 Oct 2023 18:29:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Perform a Cybersecurity Audit for Colleges &amp; Universities | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-perform-a-cybersecurity-audit-colleges-universities</link>
-      <pubDate>Fri, 13 Oct 2023 18:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Perform a Cybersecurity Audit: A 3-Step Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-perform-a-cybersecurity-audit</link>
-      <pubDate>Fri, 13 Oct 2023 18:27:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Choosing the Best Tool for Cybersecurity Audits | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-tool-for-cybersecurity-audits</link>
-      <pubDate>Fri, 13 Oct 2023 18:25:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
