@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Oct 2023 06:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 08:20:12 +0000</lastBuildDate>
+    <item>
+      <title>Building Secure Tech from the Start</title>
+      <link>https://thecyberwire.com/podcasts/afternoon-cyber-tea/83/notes</link>
+      <pubDate>Tue, 17 Oct 2023 07:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malware-laced ‘RedAlert – Rocket Alerts’ app targets Israeli users</title>
+      <link>https://securityaffairs.com/152569/malware/redalert-rocket-alerts-spyware.html</link>
+      <pubDate>Tue, 17 Oct 2023 06:24:44 +0000</pubDate>
+    </item>
     <item>
       <title>CERT-UA Reports: 11 Ukrainian Telecom Providers Hit by Cyberattacks</title>
       <link>https://thehackernews.com/2023/10/cert-ua-reports-11-ukrainian-telecom.html</link>
@@ -496,16 +506,6 @@
       <title>Top 8 Australian Cybersecurity Frameworks in 2023 | UpGuard</title>
       <link>https://www.upguard.com/blog/australian-cybersecurity-frameworks</link>
       <pubDate>Fri, 13 Oct 2023 17:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Essential Eight Compliance Guide (Updated for 2023) | UpGuard</title>
-      <link>https://www.upguard.com/blog/essential-eight</link>
-      <pubDate>Fri, 13 Oct 2023 17:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's Normal: MAC Addresses, (Fri, Oct 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/30310</link>
-      <pubDate>Fri, 13 Oct 2023 17:12:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
