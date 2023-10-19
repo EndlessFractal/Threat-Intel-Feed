@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Oct 2023 02:21:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 04:18:07 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Thursday, October 19th, 2023 https://isc.sans.edu/podcastdetail/8708, (Thu, Oct 19th)</title>
+      <link>https://isc.sans.edu/diary/rss/30326</link>
+      <pubDate>Thu, 19 Oct 2023 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Brief: Cisco IOS XE Web UI Privilege Escalation Vulnerability</title>
       <link>https://unit42.paloaltonetworks.com/threat-brief-cve-2023-20198-cisco-ios-xe/</link>
@@ -501,11 +506,6 @@
       <title>Operation King TUT: The universe of threats in LATAM</title>
       <link>https://www.welivesecurity.com/en/eset-research/operation-king-tut-universe-threats-latam/</link>
       <pubDate>Tue, 17 Oct 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware realities in 2023: one employee mistake can cost a company millions</title>
-      <link>https://securityaffairs.com/152603/cyber-crime/ransomware-attack-economic-impact.html</link>
-      <pubDate>Tue, 17 Oct 2023 09:26:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
