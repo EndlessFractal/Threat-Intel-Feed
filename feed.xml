@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Oct 2023 22:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 01:06:35 +0000</lastBuildDate>
+    <item>
+      <title>Threat Brief: Cisco IOS XE Web UI Privilege Escalation Vulnerability</title>
+      <link>https://unit42.paloaltonetworks.com/threat-brief-cve-2023-20198-cisco-ios-xe/</link>
+      <pubDate>Thu, 19 Oct 2023 00:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moldovan accused of running cybercrime marketplace to face charges in US</title>
+      <link>https://therecord.media/moldovan-accused-of-running-cybercrime-marketplace-e-root-extradited</link>
+      <pubDate>Wed, 18 Oct 2023 23:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Basta ransomware is out and about, again.</title>
+      <link>https://thecyberwire.com/stories/e1ef0210a4b24e3cbb704bebb790ebd6/black-basta-ransomware-is-out-and-about-again</link>
+      <pubDate>Wed, 18 Oct 2023 23:16:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #344: What’s cooking at Booking.com? And a podcast built by AI</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-344/</link>
+      <pubDate>Wed, 18 Oct 2023 23:01:20 +0000</pubDate>
+    </item>
     <item>
       <title>JetBrains vulnerability being exploited by North Korean gov’t hackers, Microsoft says</title>
       <link>https://therecord.media/teamcity-vulnerability-targeted-by-nk-hackers</link>
@@ -46,11 +66,6 @@
       <title>Google Play Protect Bolsters Security Against Malicious Apps</title>
       <link>https://www.infosecurity-magazine.com/news/google-play-protect-bolsters/</link>
       <pubDate>Wed, 18 Oct 2023 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pro-Ukraine group says it took down Trigona ransomware website</title>
-      <link>https://therecord.media/trigona-ransomware-group-website-takedown-ukrainian-cyber-alliance</link>
-      <pubDate>Wed, 18 Oct 2023 15:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Russia and China-linked hackers exploit WinRAR bug</title>
@@ -491,21 +506,6 @@
       <title>Ransomware realities in 2023: one employee mistake can cost a company millions</title>
       <link>https://securityaffairs.com/152603/cyber-crime/ransomware-attack-economic-impact.html</link>
       <pubDate>Tue, 17 Oct 2023 09:26:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Third of Organizations Not Ready to Comply with NIS2</title>
-      <link>https://www.infosecurity-magazine.com/news/third-organizations-comply-nis2/</link>
-      <pubDate>Tue, 17 Oct 2023 09:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky Threat Group Uses RDP to Control Infected Systems</title>
-      <link>https://asec.ahnlab.com/en/57873/</link>
-      <pubDate>Tue, 17 Oct 2023 09:08:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Secure Tech from the Start</title>
-      <link>https://thecyberwire.com/podcasts/afternoon-cyber-tea/83/notes</link>
-      <pubDate>Tue, 17 Oct 2023 07:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
