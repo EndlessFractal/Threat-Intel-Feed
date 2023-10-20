@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Oct 2023 20:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2023 22:13:58 +0000</lastBuildDate>
+    <item>
+      <title>Five Eyes Coalition Release Guidelines for Business Leaders on Securing Intellectual Property</title>
+      <link>https://www.techrepublic.com/article/five-eyes-five-principles-secure-innovation/</link>
+      <pubDate>Fri, 20 Oct 2023 21:22:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: Why There Are No Giant Squid in Aquariums</title>
+      <link>https://www.schneier.com/blog/archives/2023/10/friday-squid-blogging-why-there-are-no-giant-squid-in-aquariums.html</link>
+      <pubDate>Fri, 20 Oct 2023 21:03:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is the InfoSec Registered Assessors Program (IRAP)? | UpGuard</title>
+      <link>https://www.upguard.com/blog/irap</link>
+      <pubDate>Fri, 20 Oct 2023 21:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Okta says hackers used stolen credentials to view customer files</title>
+      <link>https://therecord.media/hackers-used-stolen-credentials-okta</link>
+      <pubDate>Fri, 20 Oct 2023 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is a Hard Token? Hardware Security Tokens Vs Soft Tokens | UpGuard</title>
+      <link>https://www.upguard.com/blog/hard-tokens</link>
+      <pubDate>Fri, 20 Oct 2023 20:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solution Spotlight: Simone Petrella is speaking with Tatyana Bolton from Google about ways to tackle the cyber talent gap.</title>
+      <link>https://thecyberwire.com/podcasts/interview-selects/182/notes</link>
+      <pubDate>Fri, 20 Oct 2023 20:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>Disinformation and its often overlooked potential for denial-of-services.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1931/notes</link>
@@ -26,6 +56,11 @@
       <title>Hackers Stole Access Tokens from Okta’s Support Unit</title>
       <link>https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/</link>
       <pubDate>Fri, 20 Oct 2023 18:39:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco identifies another IOS XE vulnerability, with patches coming this weekend</title>
+      <link>https://therecord.media/cisco-ios-xe-vulnerability-patches-coming</link>
+      <pubDate>Fri, 20 Oct 2023 18:30:00 +0000</pubDate>
     </item>
     <item>
       <title>NordVPN vs. ExpressVPN: Which VPN Is Best for 2023?</title>
@@ -66,16 +101,6 @@
       <title>A patient cyberespionage campaign is revealed, and there's significant police and criminal action in the C2C market.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/12/201</link>
       <pubDate>Fri, 20 Oct 2023 16:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Casio says customers in 148 countries affected by breach</title>
-      <link>https://therecord.media/casio-data-breach-classpad-education-app</link>
-      <pubDate>Fri, 20 Oct 2023 15:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>War crimes tribunal says September cyberattack was act of espionage</title>
-      <link>https://therecord.media/war-crimes-tribunal-cyberattack-espionage</link>
-      <pubDate>Fri, 20 Oct 2023 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Casio discloses breach of customer data.</title>
@@ -481,31 +506,6 @@
       <title>Microsoft Warns of North Korean Attacks Exploiting JetBrains TeamCity Flaw</title>
       <link>https://thehackernews.com/2023/10/microsoft-warns-of-north-korean-attacks.html</link>
       <pubDate>Thu, 19 Oct 2023 07:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple APT groups exploited WinRAR flaw CVE-2023-38831</title>
-      <link>https://securityaffairs.com/152669/apt/apt-groups-winrar-flaw.html</link>
-      <pubDate>Thu, 19 Oct 2023 05:23:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Getting on track with DNS.</title>
-      <link>https://thecyberwire.com/podcasts/caveat/191/notes</link>
-      <pubDate>Thu, 19 Oct 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoring cybersecurity in the NFL.</title>
-      <link>https://thecyberwire.com/podcasts/hacking-humans/262/notes</link>
-      <pubDate>Thu, 19 Oct 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google TAG Detects State-Backed Threat Actors Exploiting WinRAR Flaw</title>
-      <link>https://thehackernews.com/2023/10/google-tag-detects-state-backed-threat.html</link>
-      <pubDate>Thu, 19 Oct 2023 04:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, October 19th, 2023 https://isc.sans.edu/podcastdetail/8708, (Thu, Oct 19th)</title>
-      <link>https://isc.sans.edu/diary/rss/30326</link>
-      <pubDate>Thu, 19 Oct 2023 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
