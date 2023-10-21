@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Oct 2023 14:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2023 16:18:20 +0000</lastBuildDate>
+    <item>
+      <title>Threat actors breached Okta support system and stole customers’ data</title>
+      <link>https://securityaffairs.com/152803/data-breach/okta-support-system-breached.html</link>
+      <pubDate>Sat, 21 Oct 2023 15:06:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Dismantles Ragnar Locker Ransomware Infrastructure, Nabs Key Developer</title>
+      <link>https://thehackernews.com/2023/10/europol-dismantles-ragnar-locker.html</link>
+      <pubDate>Sat, 21 Oct 2023 13:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>US DoJ seized domains used by North Korean IT workers to defraud businesses worldwide</title>
       <link>https://securityaffairs.com/152790/security/north-korean-it-workers-scammers.html</link>
@@ -91,6 +101,11 @@
       <title>How to manage data integration during an acquisition</title>
       <link>https://www.cio.com/article/656490/how-to-manage-data-integration-during-an-acquisition.html</link>
       <pubDate>Fri, 20 Oct 2023 19:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ragnar Locker ransomware group taken down</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/10/ragnar-locker-taken-down</link>
+      <pubDate>Fri, 20 Oct 2023 18:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Stole Access Tokens from Okta’s Support Unit</title>
@@ -491,21 +506,6 @@
       <title>Ukraine at D+602: A hacktivist auxiliary versus a privateer.</title>
       <link>https://thecyberwire.com/stories/7277ef1979b245f1bfd4cd7221c6fbd8/ukraine-at-d602</link>
       <pubDate>Thu, 19 Oct 2023 10:57:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea-linked APT groups actively exploit JetBrains TeamCity flaw</title>
-      <link>https://securityaffairs.com/152697/apt/north-korea-linked-apt-groups-actively-exploit-jetbrains-teamcity-flaw.html</link>
-      <pubDate>Thu, 19 Oct 2023 10:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Attackers Exploiting Critical CI/CD Vulnerability</title>
-      <link>https://www.infosecurity-magazine.com/news/north-korean-exploiting-critical/</link>
-      <pubDate>Thu, 19 Oct 2023 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-Linked OilRig Targets Middle East Governments in 8-Month Cyber Campaign</title>
-      <link>https://thehackernews.com/2023/10/iran-linked-oilrig-targets-middle-east.html</link>
-      <pubDate>Thu, 19 Oct 2023 10:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
