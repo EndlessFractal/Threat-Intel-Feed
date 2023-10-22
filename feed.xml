@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Oct 2023 06:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 08:17:28 +0000</lastBuildDate>
+    <item>
+      <title>base64dump.py Handles More Encodings Than Just BASE64, (Sun, Oct 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/30332</link>
+      <pubDate>Sun, 22 Oct 2023 07:57:47 +0000</pubDate>
+    </item>
     <item>
       <title>Jennifer Reed: Balance the gender scales. [Principal]</title>
       <link>https://thecyberwire.com/podcasts/career-notes/172/notes</link>
@@ -501,11 +506,6 @@
       <title>US Charge Man with Running Stolen Credentials Marketplace</title>
       <link>https://www.infosecurity-magazine.com/news/us-charge-man-stolen-credentials/</link>
       <pubDate>Thu, 19 Oct 2023 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former Uber CISO Appealing His Conviction</title>
-      <link>https://www.schneier.com/blog/archives/2023/10/former-uber-ciso-appealing-his-conviction.html</link>
-      <pubDate>Thu, 19 Oct 2023 11:08:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
