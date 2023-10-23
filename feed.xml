@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Oct 2023 01:06:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2023 02:22:47 +0000</lastBuildDate>
+    <item>
+      <title>2023 Aug – Threat Trend Report on APT Groups</title>
+      <link>https://asec.ahnlab.com/en/57930/</link>
+      <pubDate>Mon, 23 Oct 2023 02:22:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Aug – Threat Trend Report on Kimsuky Group</title>
+      <link>https://asec.ahnlab.com/en/57938/</link>
+      <pubDate>Mon, 23 Oct 2023 02:21:45 +0000</pubDate>
+    </item>
     <item>
       <title>MI5 chief warns of Chinese cyber espionage reached an unprecedented scale</title>
       <link>https://securityaffairs.com/152855/intelligence/mi5-warns-chinese-cyber-espionage.html</link>
@@ -428,6 +438,11 @@
       <pubDate>Thu, 19 Oct 2023 16:02:39 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Security Copilot Early Access Program: Harnessing generative AI to empower security teams</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/10/19/microsoft-security-copilot-early-access-program-harnessing-generative-ai-to-empower-security-teams/</link>
+      <pubDate>Thu, 19 Oct 2023 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>QR Codes Used in 22% of Phishing Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/qr-codes-used-22-phishing-attacks/</link>
       <pubDate>Thu, 19 Oct 2023 16:00:00 +0000</pubDate>
@@ -490,21 +505,6 @@
     <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA, NSA, FBI, and MS-ISAC Release Update to #StopRansomware Guide</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-nsa-fbi-and-ms-isac-release-update-stopransomware-guide</link>
-      <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle Releases October 2023 Critical Patch Update Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/10/19/oracle-releases-october-2023-critical-patch-update-advisory</link>
-      <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-releases-one-industrial-control-systems-advisory</link>
       <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
     </item>
   </channel>
