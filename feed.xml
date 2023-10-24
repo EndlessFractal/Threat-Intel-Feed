@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Oct 2023 10:16:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 12:29:29 +0000</lastBuildDate>
+    <item>
+      <title>Norway issues warning after ‘important businesses’ affected by Cisco zero-days</title>
+      <link>https://therecord.media/norway-advisory-cisco-zero-days-important-businesses</link>
+      <pubDate>Tue, 24 Oct 2023 12:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attacks on web applications spike in third quarter, new Talos IR data shows</title>
+      <link>https://blog.talosintelligence.com/talos-ir-trends-q3-2023/</link>
+      <pubDate>Tue, 24 Oct 2023 12:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>GraphRunner Activity Detection: Hackers Apply a Post-Exploitation Toolset to Abuse Microsoft 365 Default Configurations</title>
+      <link>https://socprime.com/blog/graphrunner-activity-detection-hackers-apply-a-post-exploitation-toolset-to-abuse-microsoft-365-default-configurations/</link>
+      <pubDate>Tue, 24 Oct 2023 11:39:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>EPA Won’t Force Water Utilities to Audit Their Cybersecurity</title>
+      <link>https://www.schneier.com/blog/archives/2023/10/epa-wont-force-water-utilities-to-audit-their-cybersecurity.html</link>
+      <pubDate>Tue, 24 Oct 2023 11:02:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative AI Can Write Phishing Emails, But Humans Are Better At It, IBM X-Force Finds</title>
+      <link>https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/</link>
+      <pubDate>Tue, 24 Oct 2023 11:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative AI Can Save Phishers Two Days of Work</title>
+      <link>https://www.infosecurity-magazine.com/news/genai-can-save-phishers-two-days/</link>
+      <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>34 Cybercriminals Arrested in Spain for Multi-Million Dollar Online Scams</title>
+      <link>https://thehackernews.com/2023/10/34-cybercriminals-arrested-in-spain-for.html</link>
+      <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Sayeret Matkal: Israel’s Top-Secret Elite Commando Unit” – with Aviram Halevi</title>
+      <link>https://thecyberwire.com/podcasts/spycast/608/notes</link>
+      <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI vs. human deceit: Unravelling the new age of phishing tactics</title>
+      <link>https://securityintelligence.com/posts/ai-vs-human-deceit-unravelling-new-age-phishing-tactics/</link>
+      <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Make API Management Less Scary for Your Organization</title>
+      <link>https://thehackernews.com/2023/10/make-api-management-less-scary-for-your.html</link>
+      <pubDate>Tue, 24 Oct 2023 10:59:00 +0000</pubDate>
+    </item>
     <item>
       <title>Stealer for PIX payment system, new Lumar stealer and Rhysida ransomware</title>
       <link>https://securelist.com/crimeware-report-gopix-lumar-rhysida/110871/</link>
@@ -18,7 +68,7 @@
       <pubDate>Tue, 24 Oct 2023 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Operation Triangulation: Experts Uncover Deeper Insights into iOS Zero-Day Attacks</title>
+      <title>iOS Zero-Day Attacks: Experts Uncover Deeper Insights into Operation Triangulation</title>
       <link>https://thehackernews.com/2023/10/operation-triangulation-experts-uncover.html</link>
       <pubDate>Tue, 24 Oct 2023 08:37:00 +0000</pubDate>
     </item>
@@ -136,11 +186,6 @@
       <title>How to Enable Passkeys For Your Google Account</title>
       <link>https://www.techrepublic.com/article/how-to-enable-passkeys-google-account/</link>
       <pubDate>Mon, 23 Oct 2023 17:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine security services involved in hack of Russia’s largest private bank</title>
-      <link>https://therecord.media/sbu-involved-in-alfa-bank-hack</link>
-      <pubDate>Mon, 23 Oct 2023 17:15:00 +0000</pubDate>
     </item>
     <item>
       <title>&amp;&amp;#x23;xa;How an AppleTV may take down your (&amp;#x23;IPv6) network, (Mon, Oct 23rd)</title>
@@ -338,6 +383,11 @@
       <pubDate>Mon, 23 Oct 2023 09:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>One login to rule them all: Should you sign in with Google or Facebook on other websites?</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/one-login-rule-them-all-should-sign-in-google-facebook-other-websites/</link>
+      <pubDate>Mon, 23 Oct 2023 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Okta Breached Via Stolen Credential</title>
       <link>https://www.infosecurity-magazine.com/news/okta-reveals-breach-via-stolen/</link>
       <pubDate>Mon, 23 Oct 2023 09:00:00 +0000</pubDate>
@@ -456,56 +506,6 @@
       <title>Cisco Zero-Day Exploited to Implant Malicious Lua Backdoor on Thousands of Devices</title>
       <link>https://thehackernews.com/2023/10/cisco-zero-day-exploited-to-implant.html</link>
       <pubDate>Sat, 21 Oct 2023 03:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Essential Eight Compliance: Key Metrics To Track | UpGuard</title>
-      <link>https://www.upguard.com/blog/essential-eight-compliance-metrics</link>
-      <pubDate>Fri, 20 Oct 2023 23:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vendor Offboarding: Best Practices for Ensuring Security | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-offboarding-security</link>
-      <pubDate>Fri, 20 Oct 2023 23:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five Eyes Coalition Release Guidelines for Business Leaders on Securing Intellectual Property</title>
-      <link>https://www.techrepublic.com/article/five-eyes-five-principles-secure-innovation/</link>
-      <pubDate>Fri, 20 Oct 2023 21:22:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Why There Are No Giant Squid in Aquariums</title>
-      <link>https://www.schneier.com/blog/archives/2023/10/friday-squid-blogging-why-there-are-no-giant-squid-in-aquariums.html</link>
-      <pubDate>Fri, 20 Oct 2023 21:03:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is the InfoSec Registered Assessors Program (IRAP)? | UpGuard</title>
-      <link>https://www.upguard.com/blog/irap</link>
-      <pubDate>Fri, 20 Oct 2023 21:01:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is a Hard Token? Hardware Security Tokens Vs Soft Tokens | UpGuard</title>
-      <link>https://www.upguard.com/blog/hard-tokens</link>
-      <pubDate>Fri, 20 Oct 2023 20:59:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Solution Spotlight: Simone Petrella is speaking with Tatyana Bolton from Google about ways to tackle the cyber talent gap.</title>
-      <link>https://thecyberwire.com/podcasts/interview-selects/182/notes</link>
-      <pubDate>Fri, 20 Oct 2023 20:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disinformation and its often overlooked potential for denial-of-services.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1931/notes</link>
-      <pubDate>Fri, 20 Oct 2023 20:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Roundup for October 13 to October 20</title>
-      <link>https://blog.talosintelligence.com/threat-roundup-1013-1020/</link>
-      <pubDate>Fri, 20 Oct 2023 19:38:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to manage data integration during an acquisition</title>
-      <link>https://www.cio.com/article/656490/how-to-manage-data-integration-during-an-acquisition.html</link>
-      <pubDate>Fri, 20 Oct 2023 19:13:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
