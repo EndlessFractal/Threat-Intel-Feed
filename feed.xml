@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Oct 2023 12:29:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 14:13:09 +0000</lastBuildDate>
+    <item>
+      <title>Ukraine at D+607: Hacktivism and trolling online; raids and penal battalions on the ground.</title>
+      <link>https://thecyberwire.com/stories/16e15a57c6fe471e987a462932523aba/ukraine-at-d607</link>
+      <pubDate>Tue, 24 Oct 2023 13:39:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insurance firm reports cyber incident.</title>
+      <link>https://thecyberwire.com</link>
+      <pubDate>Tue, 24 Oct 2023 13:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos ZTNA on Sophos Firewall is now available</title>
+      <link>https://news.sophos.com/en-us/2023/10/24/sophos-ztna-on-sophos-firewall-is-now-available/</link>
+      <pubDate>Tue, 24 Oct 2023 13:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update on the District of Columbia voter data compromise.</title>
+      <link>https://thecyberwire.com/stories/831fdc72bfbb47f0a74bf77e89144b02/update-on-the-district-of-columbia-voter-data-compromise</link>
+      <pubDate>Tue, 24 Oct 2023 13:00:15 +0000</pubDate>
+    </item>
     <item>
       <title>Norway issues warning after ‘important businesses’ affected by Cisco zero-days</title>
       <link>https://therecord.media/norway-advisory-cisco-zero-days-important-businesses</link>
@@ -58,9 +78,19 @@
       <pubDate>Tue, 24 Oct 2023 10:59:00 +0000</pubDate>
     </item>
     <item>
+      <title>7 sins of digital transformation</title>
+      <link>https://www.cio.com/article/656508/7-sins-of-digital-transformation.html</link>
+      <pubDate>Tue, 24 Oct 2023 10:01:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Stealer for PIX payment system, new Lumar stealer and Rhysida ransomware</title>
       <link>https://securelist.com/crimeware-report-gopix-lumar-rhysida/110871/</link>
       <pubDate>Tue, 24 Oct 2023 10:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 ways diversity and inclusion help teams perform better</title>
+      <link>https://www.cio.com/article/189194/5-ways-diversity-and-inclusion-help-teams-perform-better.html</link>
+      <pubDate>Tue, 24 Oct 2023 09:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Police Dismantle Multimillion-Dollar Scam Gang</title>
@@ -191,6 +221,11 @@
       <title>&amp;&amp;#x23;xa;How an AppleTV may take down your (&amp;#x23;IPv6) network, (Mon, Oct 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/30336</link>
       <pubDate>Mon, 23 Oct 2023 17:11:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Services Offers Incident Response Executive Preparation Checklist</title>
+      <link>https://www.crowdstrike.com/blog/crowdstrike-incident-response-executive-prep-checklist/</link>
+      <pubDate>Mon, 23 Oct 2023 17:01:37 +0000</pubDate>
     </item>
     <item>
       <title>What is a Content Security Policy (CSP)? | UpGuard</title>
@@ -471,41 +506,6 @@
       <title>FedRAMP, StateRAMP and Cloud Security Compliance: An Overview</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/fedramp-stateramp-and-cloud-security-compliance-an-overview</link>
       <pubDate>Sun, 22 Oct 2023 09:42:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>base64dump.py Handles More Encodings Than Just BASE64, (Sun, Oct 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/30332</link>
-      <pubDate>Sun, 22 Oct 2023 07:57:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jennifer Reed: Balance the gender scales. [Principal]</title>
-      <link>https://thecyberwire.com/podcasts/career-notes/172/notes</link>
-      <pubDate>Sun, 22 Oct 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol Dismantles Ragnar Locker Ransomware Infrastructure, Nabs Key Developer</title>
-      <link>https://thehackernews.com/2023/10/europol-dismantles-ragnar-locker.html</link>
-      <pubDate>Sat, 21 Oct 2023 13:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okta's Support System Breach Exposes Customer Data to Unidentified Threat Actors</title>
-      <link>https://thehackernews.com/2023/10/oktas-support-system-breach-exposes.html</link>
-      <pubDate>Sat, 21 Oct 2023 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AMBERSQUID hides in the depths.</title>
-      <link>https://thecyberwire.com/podcasts/research-saturday/304/notes</link>
-      <pubDate>Sat, 21 Oct 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democratic governments take down cybercriminals. Authoritarian regimes collude with their underworlds.</title>
-      <link>https://thecyberwire.com/newsletters/week-that-was/7/41</link>
-      <pubDate>Sat, 21 Oct 2023 04:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Zero-Day Exploited to Implant Malicious Lua Backdoor on Thousands of Devices</title>
-      <link>https://thehackernews.com/2023/10/cisco-zero-day-exploited-to-implant.html</link>
-      <pubDate>Sat, 21 Oct 2023 03:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
