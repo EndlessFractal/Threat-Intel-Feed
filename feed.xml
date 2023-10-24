@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Oct 2023 14:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 16:19:35 +0000</lastBuildDate>
+    <item>
+      <title>API Security Flaw Impacted Grammarly, Vidio and Bukalapak</title>
+      <link>https://www.infosecurity-magazine.com/news/api-security-flaw-grammarly-vidio/</link>
+      <pubDate>Tue, 24 Oct 2023 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Philadelphia Alerts Public to Recent Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/philadelphia-alert-may-data-breach/</link>
+      <pubDate>Tue, 24 Oct 2023 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber ops in two hybrid wars, with an excursus on the mobilization of bed bugs.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/203</link>
+      <pubDate>Tue, 24 Oct 2023 15:05:02 +0000</pubDate>
+    </item>
     <item>
       <title>Ukraine at D+607: Hacktivism and trolling online; raids and penal battalions on the ground.</title>
       <link>https://thecyberwire.com/stories/16e15a57c6fe471e987a462932523aba/ukraine-at-d607</link>
@@ -36,6 +51,16 @@
       <title>Attacks on web applications spike in third quarter, new Talos IR data shows</title>
       <link>https://blog.talosintelligence.com/talos-ir-trends-q3-2023/</link>
       <pubDate>Tue, 24 Oct 2023 12:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Stratix 5800 and Stratix 5200</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-297-01</link>
+      <pubDate>Tue, 24 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases One Industrial Control Systems Advisory</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/10/24/cisa-releases-one-industrial-control-systems-advisory</link>
+      <pubDate>Tue, 24 Oct 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>GraphRunner Activity Detection: Hackers Apply a Post-Exploitation Toolset to Abuse Microsoft 365 Default Configurations</title>
@@ -156,6 +181,11 @@
       <title>CIO-Application security: the 3 pillars of securing your engineering ecosystem</title>
       <link>https://www.cio.com/article/656740/cio-application-security-the-3-pillars-of-securing-your-engineering-ecosystem.html</link>
       <pubDate>Mon, 23 Oct 2023 22:35:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome wants to hide your IP address</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/10/google-wants-to-introduce-ip-protection-feature-for-chrome</link>
+      <pubDate>Mon, 23 Oct 2023 21:30:00 +0000</pubDate>
     </item>
     <item>
       <title>What is Network Segmentation? Virtual &amp; Physical Segmentation | UpGuard</title>
@@ -423,6 +453,11 @@
       <pubDate>Mon, 23 Oct 2023 09:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>MGM attack is too late a wake-up call for businesses, says James Fair: Lock and Code S04E22</title>
+      <link>https://www.malwarebytes.com/blog/podcast/2023/10/mgm-attack-is-too-late-a-wakeup-call-lock-and-code-s04e22</link>
+      <pubDate>Mon, 23 Oct 2023 09:15:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Okta Breached Via Stolen Credential</title>
       <link>https://www.infosecurity-magazine.com/news/okta-reveals-breach-via-stolen/</link>
       <pubDate>Mon, 23 Oct 2023 09:00:00 +0000</pubDate>
@@ -453,6 +488,11 @@
       <pubDate>Mon, 23 Oct 2023 06:50:23 +0000</pubDate>
     </item>
     <item>
+      <title>Battling a new DarkGate malware campaign with Malwarebytes MDR</title>
+      <link>https://www.malwarebytes.com/blog/business/2023/10/on-the-frontlines-battling-an-in-the-wild-darkgate-infection-with-malwarebytes-mdr</link>
+      <pubDate>Mon, 23 Oct 2023 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A stern glance from all Five Eyes.</title>
       <link>https://thecyberwire.com/stories/b9135676d48340ed84cde1416281e0ff/a-stern-glance-from-all-five-eyes</link>
       <pubDate>Mon, 23 Oct 2023 02:53:00 +0000</pubDate>
@@ -466,46 +506,6 @@
       <title>2023 Jul – Deep Web and Dark Web Threat Trend Report</title>
       <link>https://asec.ahnlab.com/en/57934/</link>
       <pubDate>Mon, 23 Oct 2023 02:22:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>2023 Aug – Threat Trend Report on APT Groups</title>
-      <link>https://asec.ahnlab.com/en/57930/</link>
-      <pubDate>Mon, 23 Oct 2023 02:22:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>2023 Aug – Threat Trend Report on Kimsuky Group</title>
-      <link>https://asec.ahnlab.com/en/57938/</link>
-      <pubDate>Mon, 23 Oct 2023 02:21:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, October 23rd, 2023 https://isc.sans.edu/podcastdetail/8712, (Mon, Oct 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/30334</link>
-      <pubDate>Mon, 23 Oct 2023 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>MI5 chief warns of Chinese cyber espionage reached an unprecedented scale</title>
-      <link>https://securityaffairs.com/152855/intelligence/mi5-warns-chinese-cyber-espionage.html</link>
-      <pubDate>Sun, 22 Oct 2023 17:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple’s Face ID: Cheat Sheet (free PDF)</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/apple-s-face-id-cheat-sheet/</link>
-      <pubDate>Sun, 22 Oct 2023 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple’s Face ID: An Insider’s Guide (Free PDF)</title>
-      <link>https://www.techrepublic.com/resource-library/ebooks/apple-s-face-id-an-insider-s-guide-free-pdf/</link>
-      <pubDate>Sun, 22 Oct 2023 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Penetration Testing and Scanning Policy</title>
-      <link>https://www.techrepublic.com/resource-library/whitepapers/penetration-testing-and-scanning-policy/</link>
-      <pubDate>Sun, 22 Oct 2023 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FedRAMP, StateRAMP and Cloud Security Compliance: An Overview</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/fedramp-stateramp-and-cloud-security-compliance-an-overview</link>
-      <pubDate>Sun, 22 Oct 2023 09:42:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
