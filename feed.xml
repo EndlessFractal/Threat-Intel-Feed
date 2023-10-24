@@ -6,10 +6,40 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Oct 2023 16:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 18:20:15 +0000</lastBuildDate>
+    <item>
+      <title>Experts released PoC exploit code for VMware Aria Operations for Logs flaw. Patch it now!</title>
+      <link>https://securityaffairs.com/152977/hacking/vmware-aria-operations-for-logs-flaw-poc.html</link>
+      <pubDate>Tue, 24 Oct 2023 17:50:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Finland says Chinese ship to blame for subsea pipeline break</title>
+      <link>https://therecord.media/finland-pipeline-break-chinese-ship</link>
+      <pubDate>Tue, 24 Oct 2023 17:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fireside Chat: Creating a Holistic Risk Mitigation Strategy</title>
+      <link>https://news.sophos.com/en-us/2023/10/24/fireside-chat-creating-a-holistic-risk-mitigation-strategy/</link>
+      <pubDate>Tue, 24 Oct 2023 17:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity regulations for passenger and freight railroads renewed by TSA</title>
+      <link>https://therecord.media/tsa-renews-cybersecurity-regulations-passenger-freight-railroads</link>
+      <pubDate>Tue, 24 Oct 2023 17:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada says China-linked influence campaign targeted lawmakers, prime minister</title>
+      <link>https://therecord.media/china-linked-influence-campaign-canada-trudeau</link>
+      <pubDate>Tue, 24 Oct 2023 16:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>API Security Flaw Impacted Grammarly, Vidio and Bukalapak</title>
       <link>https://www.infosecurity-magazine.com/news/api-security-flaw-grammarly-vidio/</link>
+      <pubDate>Tue, 24 Oct 2023 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative AI and the Transformation of Everything</title>
+      <link>https://www.cio.com/article/656741/generative-ai-and-the-transformation-of-everything.html</link>
       <pubDate>Tue, 24 Oct 2023 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -43,6 +73,11 @@
       <pubDate>Tue, 24 Oct 2023 13:00:15 +0000</pubDate>
     </item>
     <item>
+      <title>Ex-NSA Employee Pleads Guilty to Leaking Classified Data to Russia</title>
+      <link>https://thehackernews.com/2023/10/ex-nsa-employee-pleads-guilty-to.html</link>
+      <pubDate>Tue, 24 Oct 2023 12:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Norway issues warning after ‘important businesses’ affected by Cisco zero-days</title>
       <link>https://therecord.media/norway-advisory-cisco-zero-days-important-businesses</link>
       <pubDate>Tue, 24 Oct 2023 12:14:00 +0000</pubDate>
@@ -73,7 +108,7 @@
       <pubDate>Tue, 24 Oct 2023 11:02:03 +0000</pubDate>
     </item>
     <item>
-      <title>Generative AI Can Write Phishing Emails, But Humans Are Better At It, IBM X-Force Finds</title>
+      <title>Generative AI Can Write Phishing Emails, But Humans are Better at It, IBM X-Force Finds</title>
       <link>https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/</link>
       <pubDate>Tue, 24 Oct 2023 11:00:07 +0000</pubDate>
     </item>
@@ -178,7 +213,7 @@
       <pubDate>Mon, 23 Oct 2023 22:49:47 +0000</pubDate>
     </item>
     <item>
-      <title>CIO-Application security: the 3 pillars of securing your engineering ecosystem</title>
+      <title>Fortifying your engineering ecosystem: The three pillars of application security</title>
       <link>https://www.cio.com/article/656740/cio-application-security-the-3-pillars-of-securing-your-engineering-ecosystem.html</link>
       <pubDate>Mon, 23 Oct 2023 22:35:45 +0000</pubDate>
     </item>
@@ -201,21 +236,6 @@
       <title>University of Michigan warns that personal information was leaked during cyberattack</title>
       <link>https://therecord.media/michigan-university-warns-that-info-leaked</link>
       <pubDate>Mon, 23 Oct 2023 20:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA working on updated National Cyber Incident Response Plan</title>
-      <link>https://therecord.media/cisa-working-on-national-incident-response-plan</link>
-      <pubDate>Mon, 23 Oct 2023 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers ‘may have had access to the full voter roll,’ Washington, DC officials say</title>
-      <link>https://therecord.media/washington-dc-voter-roles-hackers</link>
-      <pubDate>Mon, 23 Oct 2023 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spanish police arrest 34 alleged cybercriminals for scamming operation</title>
-      <link>https://therecord.media/spanish-police-arrest-34-scams</link>
-      <pubDate>Mon, 23 Oct 2023 20:30:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA adds second Cisco IOS XE flaw to its Known Exploited Vulnerabilities catalog</title>
@@ -448,11 +468,6 @@
       <pubDate>Mon, 23 Oct 2023 09:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>One login to rule them all: Should you sign in with Google or Facebook on other websites?</title>
-      <link>https://www.welivesecurity.com/en/cybersecurity/one-login-rule-them-all-should-sign-in-google-facebook-other-websites/</link>
-      <pubDate>Mon, 23 Oct 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MGM attack is too late a wake-up call for businesses, says James Fair: Lock and Code S04E22</title>
       <link>https://www.malwarebytes.com/blog/podcast/2023/10/mgm-attack-is-too-late-a-wakeup-call-lock-and-code-s04e22</link>
       <pubDate>Mon, 23 Oct 2023 09:15:00 +0000</pubDate>
@@ -461,11 +476,6 @@
       <title>Okta Breached Via Stolen Credential</title>
       <link>https://www.infosecurity-magazine.com/news/okta-reveals-breach-via-stolen/</link>
       <pubDate>Mon, 23 Oct 2023 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The strategy behind becoming a manufacturing superpower</title>
-      <link>https://www.cio.com/article/655762/the-strategy-behind-becoming-a-manufacturing-superpower.html</link>
-      <pubDate>Mon, 23 Oct 2023 08:36:56 +0000</pubDate>
     </item>
     <item>
       <title>Police Dismantle Ragnar Locker Ransomware Group</title>
@@ -496,16 +506,6 @@
       <title>A stern glance from all Five Eyes.</title>
       <link>https://thecyberwire.com/stories/b9135676d48340ed84cde1416281e0ff/a-stern-glance-from-all-five-eyes</link>
       <pubDate>Mon, 23 Oct 2023 02:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2023 Aug – Threat Trend Report on Ransomware Statistics and Major Issues</title>
-      <link>https://asec.ahnlab.com/en/57944/</link>
-      <pubDate>Mon, 23 Oct 2023 02:24:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>2023 Jul – Deep Web and Dark Web Threat Trend Report</title>
-      <link>https://asec.ahnlab.com/en/57934/</link>
-      <pubDate>Mon, 23 Oct 2023 02:22:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
