@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Oct 2023 04:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 06:20:43 +0000</lastBuildDate>
+    <item>
+      <title>Spain police dismantled a cybercriminal group who stole the data of 4 million individuals</title>
+      <link>https://securityaffairs.com/152946/cyber-crime/spanish-police-dismantled-cybercriminal-group.html</link>
+      <pubDate>Tue, 24 Oct 2023 05:23:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>1Password Detects Suspicious Activity Following Okta Support Breach</title>
+      <link>https://thehackernews.com/2023/10/1password-detects-suspicious-activity.html</link>
+      <pubDate>Tue, 24 Oct 2023 04:55:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, October 24th, 2023 https://isc.sans.edu/podcastdetail/8714, (Tue, Oct 24th)</title>
       <link>https://isc.sans.edu/diary/rss/30338</link>
@@ -288,6 +298,11 @@
       <pubDate>Mon, 23 Oct 2023 09:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>One login to rule them all: Should you sign in with Google or Facebook on other websites?</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/one-login-rule-them-all-should-sign-in-google-facebook-other-websites/</link>
+      <pubDate>Mon, 23 Oct 2023 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Okta Breached Via Stolen Credential</title>
       <link>https://www.infosecurity-magazine.com/news/okta-reveals-breach-via-stolen/</link>
       <pubDate>Mon, 23 Oct 2023 09:00:00 +0000</pubDate>
@@ -393,11 +408,6 @@
       <pubDate>Sun, 22 Oct 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A threat actor is selling access to Facebook and Instagram’s Police Portal</title>
-      <link>https://securityaffairs.com/152811/cyber-crime/facebook-and-instagrams-police-portal-access.html</link>
-      <pubDate>Sat, 21 Oct 2023 17:16:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Europol Dismantles Ragnar Locker Ransomware Infrastructure, Nabs Key Developer</title>
       <link>https://thehackernews.com/2023/10/europol-dismantles-ragnar-locker.html</link>
       <pubDate>Sat, 21 Oct 2023 13:10:00 +0000</pubDate>
@@ -496,16 +506,6 @@
       <title>A patient cyberespionage campaign is revealed, and there's significant police and criminal action in the C2C market.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/12/201</link>
       <pubDate>Fri, 20 Oct 2023 16:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Casio discloses breach of customer data.</title>
-      <link>https://thecyberwire.com</link>
-      <pubDate>Fri, 20 Oct 2023 14:57:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>RagnarLocker taken down by international law enforcement action.</title>
-      <link>https://thecyberwire.com/stories/c198ebcdf59141089053dd2b200d8bba/ragnarlocker-taken-down-by-international-law-enforcement-action</link>
-      <pubDate>Fri, 20 Oct 2023 14:44:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
