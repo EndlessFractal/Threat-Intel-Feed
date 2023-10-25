@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Oct 2023 18:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 20:15:52 +0000</lastBuildDate>
+    <item>
+      <title>AI ain’t misbehavin’, except when it does. Also, privateers and hacktivist auxiliaries get busy.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/1934/notes</link>
+      <pubDate>Wed, 25 Oct 2023 20:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RTX (formerly known as Raytheon) is selling its cybersecurity business. Accenture acquires MNEMO Mexico. CISO challenges, across sectors.</title>
+      <link>https://thecyberwire.com/newsletters/business-briefing/5/43</link>
+      <pubDate>Wed, 25 Oct 2023 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kazakhstan-based hackers targeting gov’t websites in Central Asia, Cisco says</title>
+      <link>https://therecord.media/kazakhstan-hackers-target-governments-commonwealth-of-independent-states-yorotrooper-cisco</link>
+      <pubDate>Wed, 25 Oct 2023 19:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seiko says ransomware attack led to leak of 60,000 ‘items’ of personal data</title>
+      <link>https://therecord.media/seiko-ransomware-attack-leaked-60000-pieces-of-data</link>
+      <pubDate>Wed, 25 Oct 2023 19:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco's Zero-Day Vulnerability (CVE-2023-20198) | UpGuard</title>
+      <link>https://www.upguard.com/blog/cisco-cve-2023</link>
+      <pubDate>Wed, 25 Oct 2023 19:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches Everything. Releases iOS 17.1, MacOS 14.1 and updates for older versions fixing exploited vulnerability, (Wed, Oct 25th)</title>
+      <link>https://isc.sans.edu/diary/rss/30344</link>
+      <pubDate>Wed, 25 Oct 2023 19:01:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Responsible AI at HackerOne</title>
+      <link>https://www.hackerone.com/thought-leadership/responsible-ai</link>
+      <pubDate>Wed, 25 Oct 2023 17:52:10 +0000</pubDate>
+    </item>
     <item>
       <title>What Is a Man-in-the-Middle Attack? Prevention Tips and Guide | UpGuard</title>
       <link>https://www.upguard.com/blog/man-in-the-middle-attack</link>
@@ -148,11 +183,6 @@
       <pubDate>Wed, 25 Oct 2023 12:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>Saving Ukraine’s cultural heritage with a click</title>
-      <link>https://therecord.media/ukraine-culture-heritage-3d-chernihiv-library-click-here</link>
-      <pubDate>Wed, 25 Oct 2023 12:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2023-4966 Detection: Critical Citrix NetScaler Vulnerability Actively Exploited In the Wild</title>
       <link>https://socprime.com/blog/cve-2023-4966-detection-critical-citrix-netscaler-vulnerability-actively-exploited-in-the-wild/</link>
       <pubDate>Wed, 25 Oct 2023 12:11:35 +0000</pubDate>
@@ -165,11 +195,6 @@
     <item>
       <title>Mozilla Releases Security Advisories for Multiple Products</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/10/25/mozilla-releases-security-advisories-multiple-products</link>
-      <pubDate>Wed, 25 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Espionage group uses webmail server zero-day to target European governments</title>
-      <link>https://therecord.media/winter-vivern-hackers-roundcube-webmail-zero-day</link>
       <pubDate>Wed, 25 Oct 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -481,31 +506,6 @@
       <title>CISA Releases One Industrial Control Systems Advisory</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/10/24/cisa-releases-one-industrial-control-systems-advisory</link>
       <pubDate>Tue, 24 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GraphRunner Activity Detection: Hackers Apply a Post-Exploitation Toolset to Abuse Microsoft 365 Default Configurations</title>
-      <link>https://socprime.com/blog/graphrunner-activity-detection-hackers-apply-a-post-exploitation-toolset-to-abuse-microsoft-365-default-configurations/</link>
-      <pubDate>Tue, 24 Oct 2023 11:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>EPA Won’t Force Water Utilities to Audit Their Cybersecurity</title>
-      <link>https://www.schneier.com/blog/archives/2023/10/epa-wont-force-water-utilities-to-audit-their-cybersecurity.html</link>
-      <pubDate>Tue, 24 Oct 2023 11:02:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generative AI Can Write Phishing Emails, But Humans are Better at It, IBM X-Force Finds</title>
-      <link>https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/</link>
-      <pubDate>Tue, 24 Oct 2023 11:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generative AI Can Save Phishers Two Days of Work</title>
-      <link>https://www.infosecurity-magazine.com/news/genai-can-save-phishers-two-days/</link>
-      <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>34 Cybercriminals Arrested in Spain for Multi-Million Dollar Online Scams</title>
-      <link>https://thehackernews.com/2023/10/34-cybercriminals-arrested-in-spain-for.html</link>
-      <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
