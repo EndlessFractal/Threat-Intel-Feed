@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Oct 2023 06:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2023 08:18:57 +0000</lastBuildDate>
+    <item>
+      <title>Humans Need to Rethink Trust in the Wake of Generative AI</title>
+      <link>https://www.infosecurity-magazine.com/news/humans-to-rethink-trust-generative/</link>
+      <pubDate>Thu, 26 Oct 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #345: Cyber sloppiness, and why does Google really want to hide your IP address?</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-345/</link>
+      <pubDate>Thu, 26 Oct 2023 06:42:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is the Cost of a Data Breach in 2023? | UpGuard</title>
+      <link>https://www.upguard.com/blog/cost-of-data-breach</link>
+      <pubDate>Thu, 26 Oct 2023 06:20:19 +0000</pubDate>
+    </item>
     <item>
       <title>Vendor Risk Management Checklist (Updated 2023) | UpGuard</title>
       <link>https://www.upguard.com/blog/vendor-risk-management-checklist</link>
@@ -128,6 +143,11 @@
       <pubDate>Wed, 25 Oct 2023 17:27:25 +0000</pubDate>
     </item>
     <item>
+      <title>Octo Tempest crosses boundaries to facilitate extortion, encryption, and destruction</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/</link>
+      <pubDate>Wed, 25 Oct 2023 16:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing UpGuard's New SIG Lite Questionnaire | UpGuard</title>
       <link>https://www.upguard.com/blog/sig-lite-launch</link>
       <pubDate>Wed, 25 Oct 2023 16:22:58 +0000</pubDate>
@@ -141,6 +161,11 @@
       <title>9 vulnerabilities found in VPN software, including 1 critical issue that could lead to remote code execution</title>
       <link>https://blog.talosintelligence.com/vulnerability-roundup-oct-25-2023/</link>
       <pubDate>Wed, 25 Oct 2023 16:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top insights and best practices from the new Microsoft Data Security Index report</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/10/25/top-insights-and-best-practices-from-the-new-microsoft-data-security-index-report/</link>
+      <pubDate>Wed, 25 Oct 2023 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Winter Vivern: Zero-Day XSS Exploit Targets Roundcube Servers</title>
@@ -306,6 +331,11 @@
       <title>Citrix warns admins to patch NetScaler CVE-2023-4966 bug immediately</title>
       <link>https://securityaffairs.com/153016/security/citrix-warns-patch-cve-2023-4966.html</link>
       <pubDate>Wed, 25 Oct 2023 09:56:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Winter Vivern exploits zero-day vulnerability in Roundcube Webmail servers</title>
+      <link>https://www.welivesecurity.com/en/eset-research/winter-vivern-exploits-zero-day-vulnerability-roundcube-webmail-servers/</link>
+      <pubDate>Wed, 25 Oct 2023 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Purchase Scams Surge as Fraud Losses Hit £580m</title>
@@ -476,36 +506,6 @@
       <title>Utilizing AI to defend the Black Hat NOC</title>
       <link>https://www.cio.com/article/656765/utilizing-ai-to-defend-the-black-hat-noc.html</link>
       <pubDate>Tue, 24 Oct 2023 18:37:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploring the pros and cons of cloud-based large language models</title>
-      <link>https://www.cio.com/article/656762/exploring-the-pros-and-cons-of-cloud-based-large-language-models.html</link>
-      <pubDate>Tue, 24 Oct 2023 18:31:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unveiling the risks of OT systems and how to secure them</title>
-      <link>https://www.cio.com/article/656751/unveiling-the-risks-of-ot-systems-and-how-to-secure-them.html</link>
-      <pubDate>Tue, 24 Oct 2023 18:21:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts released PoC exploit code for VMware Aria Operations for Logs flaw. Patch it now!</title>
-      <link>https://securityaffairs.com/152977/hacking/vmware-aria-operations-for-logs-flaw-poc.html</link>
-      <pubDate>Tue, 24 Oct 2023 17:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fireside Chat: Creating a Holistic Risk Mitigation Strategy</title>
-      <link>https://news.sophos.com/en-us/2023/10/24/fireside-chat-creating-a-holistic-risk-mitigation-strategy/</link>
-      <pubDate>Tue, 24 Oct 2023 17:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elevate CVE Remediation with EPSS, Now Integrated in HackerOne Hacktivity</title>
-      <link>https://www.hackerone.com/vulnerability-management/hacktivity-epss-integration</link>
-      <pubDate>Tue, 24 Oct 2023 16:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>API Security Flaw Impacted Grammarly, Vidio and Bukalapak</title>
-      <link>https://www.infosecurity-magazine.com/news/api-security-flaw-grammarly-vidio/</link>
-      <pubDate>Tue, 24 Oct 2023 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
