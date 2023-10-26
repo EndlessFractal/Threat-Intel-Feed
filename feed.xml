@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Oct 2023 18:18:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2023 20:16:03 +0000</lastBuildDate>
+    <item>
+      <title>Challenges of securing privacy without infringing other liberties.</title>
+      <link>https://thecyberwire.com/newsletters/caveat-briefing/1/6</link>
+      <pubDate>Thu, 26 Oct 2023 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What IT executives are saying about vendor consolidation</title>
+      <link>https://www.cio.com/article/657327/what-it-executives-are-saying-about-vendor-consolidation.html</link>
+      <pubDate>Thu, 26 Oct 2023 19:17:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA: Agencies seeing steep decrease in known exploited vulnerabilities on federal networks</title>
+      <link>https://therecord.media/cisa-decrease-in-known-exploited-vulnerabilities-on-government-systems</link>
+      <pubDate>Thu, 26 Oct 2023 19:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phony Corsair job vacancy targets LinkedIn users with DarkGate malware</title>
+      <link>https://www.tripwire.com/state-of-security/phony-job-vacancy-targets-linkedin-users-darkgate-malware</link>
+      <pubDate>Thu, 26 Oct 2023 18:24:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare mitigated 89 hyper-volumetric HTTP distributed DDoS attacks exceeding 100 million rps</title>
+      <link>https://securityaffairs.com/153082/hacking/cloudflare-hyper-volumetric-http-distributed-ddos-attacks.html</link>
+      <pubDate>Thu, 26 Oct 2023 18:10:34 +0000</pubDate>
+    </item>
     <item>
       <title>How helpful are estimates about how much cyber attacks cost?</title>
       <link>https://blog.talosintelligence.com/threat-source-newsletter-oct-26-2023/</link>
       <pubDate>Thu, 26 Oct 2023 18:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adventures in Validating IPv4 Addresses, (Thu, Oct 26th)</title>
+      <link>https://isc.sans.edu/diary/rss/30348</link>
+      <pubDate>Thu, 26 Oct 2023 17:14:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>With generative AI, IT must deliver knowledge…not just technology</title>
+      <link>https://www.cio.com/article/657311/with-generative-ai-it-must-deliver-knowledgenot-just-technology.html</link>
+      <pubDate>Thu, 26 Oct 2023 17:05:18 +0000</pubDate>
     </item>
     <item>
       <title>iLeakage: New Safari Exploit Impacts Apple iPhones and Macs with A and M-Series CPUs</title>
@@ -23,9 +58,19 @@
       <pubDate>Thu, 26 Oct 2023 16:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Run Generative AI on-premises, with a cloud experience</title>
+      <link>https://www.cio.com/article/657307/run-generative-ai-on-premises-with-a-cloud-experience.html</link>
+      <pubDate>Thu, 26 Oct 2023 16:18:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Everything You Need to Know About Microsoft’s New $5 Billion Investment in Australia</title>
       <link>https://www.techrepublic.com/article/microsoft-invests-cloud-computing-australia/</link>
       <pubDate>Thu, 26 Oct 2023 16:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why IT needs to be in the driver’s seat with generative AI</title>
+      <link>https://www.cio.com/article/657297/why-it-needs-to-be-in-the-drivers-seat-with-generative-ai.html</link>
+      <pubDate>Thu, 26 Oct 2023 15:50:28 +0000</pubDate>
     </item>
     <item>
       <title>Operation Triangulation iOS Attack Details Revealed</title>
@@ -33,7 +78,7 @@
       <pubDate>Thu, 26 Oct 2023 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberespionage as misdirection: false flags and the schrewd pretense of dumb criminality.</title>
+      <title>Cyberespionage as misdirection: false flags and the screwd pretense of dumb criminality.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/12/205</link>
       <pubDate>Thu, 26 Oct 2023 15:29:20 +0000</pubDate>
     </item>
@@ -353,11 +398,6 @@
       <pubDate>Wed, 25 Oct 2023 19:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>Seiko says ransomware attack led to leak of 60,000 ‘items’ of personal data</title>
-      <link>https://therecord.media/seiko-ransomware-attack-leaked-60000-pieces-of-data</link>
-      <pubDate>Wed, 25 Oct 2023 19:40:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cisco's Zero-Day Vulnerability (CVE-2023-20198) | UpGuard</title>
       <link>https://www.upguard.com/blog/cisco-cve-2023</link>
       <pubDate>Wed, 25 Oct 2023 19:21:03 +0000</pubDate>
@@ -466,46 +506,6 @@
       <title>VMware addressed critical vCenter flaw also for End-of-Life products</title>
       <link>https://securityaffairs.com/153031/security/vmware-fix-critical-vcenter-flaw.html</link>
       <pubDate>Wed, 25 Oct 2023 14:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is AI’s current impact on cybersecurity?</title>
-      <link>https://www.cio.com/article/656987/what-is-ais-current-impact-on-cybersecurity.html</link>
-      <pubDate>Wed, 25 Oct 2023 13:59:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware's effect on healthcare downtime.</title>
-      <link>https://thecyberwire.com/stories/5e8dc88423f741079cb1b35a8f9638a2/ransomwares-effect-on-healthcare-downtime</link>
-      <pubDate>Wed, 25 Oct 2023 13:46:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decrypting SentinelOne’s Detection | An In-depth Look at Our Real-Time CWPP Static AI Engine</title>
-      <link>https://www.sentinelone.com/blog/decrypting-sentinelones-detection-an-in-depth-look-at-our-real-time-cwpp-static-ai-engine/</link>
-      <pubDate>Wed, 25 Oct 2023 13:32:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nation State Hackers Exploiting Zero-Day in Roundcube Webmail Software</title>
-      <link>https://thehackernews.com/2023/10/nation-state-hackers-exploiting-zero.html</link>
-      <pubDate>Wed, 25 Oct 2023 13:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine at D+608: Privateers are rising.</title>
-      <link>https://thecyberwire.com/stories/b78b6c6d1a7444518538d15719b6961e/ukraine-at-d608</link>
-      <pubDate>Wed, 25 Oct 2023 13:09:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical OAuth Flaws Uncovered in Grammarly, Vidio, and Bukalapak Platforms</title>
-      <link>https://thehackernews.com/2023/10/critical-oauth-flaws-uncovered-in.html</link>
-      <pubDate>Wed, 25 Oct 2023 13:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS: Security Not a Priority For a Third of SMBs</title>
-      <link>https://www.infosecurity-magazine.com/news/aws-security-not-a-priority-third/</link>
-      <pubDate>Wed, 25 Oct 2023 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cost of a data breach: The evolving role of law enforcement</title>
-      <link>https://securityintelligence.com/articles/cost-of-a-data-breach-the-evolving-role-of-law-enforcement/</link>
-      <pubDate>Wed, 25 Oct 2023 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
