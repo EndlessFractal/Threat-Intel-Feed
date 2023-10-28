@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Oct 2023 10:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Oct 2023 12:26:29 +0000</lastBuildDate>
+    <item>
+      <title>Size Matters for Many Security Controls, (Sat, Oct 28th)</title>
+      <link>https://isc.sans.edu/diary/rss/30352</link>
+      <pubDate>Sat, 28 Oct 2023 11:54:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bug hunters earned $1,038,250 for 58 unique 0-days at Pwn2Own Toronto 2023</title>
+      <link>https://securityaffairs.com/153169/hacking/pwn2own-toronto-2023-ended.html</link>
+      <pubDate>Sat, 28 Oct 2023 10:11:30 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Uncover Wiretapping of XMPP-Based Instant Messaging Service</title>
       <link>https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html</link>
@@ -141,6 +151,11 @@
       <title>Octo Tempest: a gang with an international reach.</title>
       <link>https://thecyberwire.com/stories/245c97cb0c884c038eff6a61b7c94a7f/octo-tempest-a-gang-with-an-international-reach</link>
       <pubDate>Fri, 27 Oct 2023 14:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roundcube Webmail servers under attack – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/zero-day-roundcube-webmail-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 27 Oct 2023 13:47:16 +0000</pubDate>
     </item>
     <item>
       <title>France agency ANSSI warns of Russia-linked APT28 attacks on French entities</title>
@@ -490,21 +505,6 @@
     <item>
       <title>VMware Releases Security Advisory for vCenter Server</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/10/26/vmware-releases-security-advisory-vcenter-server</link>
-      <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Nine Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Releases Security Advisories for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/10/26/apple-releases-security-advisories-multiple-products</link>
-      <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
     </item>
   </channel>
