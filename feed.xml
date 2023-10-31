@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Oct 2023 14:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 16:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Malware mealkits, and other commodity criminal tools.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/207</link>
+      <pubDate>Tue, 31 Oct 2023 15:22:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple Layers of Anti-Sandboxing Techniques, (Tue, Oct 31st)</title>
+      <link>https://isc.sans.edu/diary/rss/30362</link>
+      <pubDate>Tue, 31 Oct 2023 14:51:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>WiHD leak exposes details of all torrent users</title>
+      <link>https://securityaffairs.com/153296/deep-web/wihd-data-leak.html</link>
+      <pubDate>Tue, 31 Oct 2023 14:38:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro-Ukraine group says it breached Russian card payment system</title>
+      <link>https://therecord.media/russia-mir-payment-system-attack-pro-ukraine-group</link>
+      <pubDate>Tue, 31 Oct 2023 14:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arid Viper Targeting Arabic Android Users with Spyware Disguised as Dating App</title>
+      <link>https://thehackernews.com/2023/10/arid-viper-targeting-arabic-android.html</link>
+      <pubDate>Tue, 31 Oct 2023 14:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ukraine at D+614: Riots and disinformation.</title>
       <link>https://thecyberwire.com/stories/9205f37054a9468eaff891582430632a/ukraine-at-d614</link>
@@ -56,6 +81,16 @@
       <title>Experts released PoC exploit code for Cisco IOS XE flaw CVE-2023-20198</title>
       <link>https://securityaffairs.com/153285/hacking/cisco-ios-xe-cve-2023-20198-poc.html</link>
       <pubDate>Tue, 31 Oct 2023 12:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zavio IP Camera</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-304-03</link>
+      <pubDate>Tue, 31 Oct 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>INEA ME RTU</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-304-02</link>
+      <pubDate>Tue, 31 Oct 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apple warns Indian opposition figures over state-sponsored hacking attempts</title>
@@ -193,6 +228,11 @@
       <pubDate>Mon, 30 Oct 2023 20:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Scaling security: How to build security into the entire development pipeline</title>
+      <link>https://www.cio.com/article/657554/scaling-security-how-to-build-security-into-the-entire-development-pipeline.html</link>
+      <pubDate>Mon, 30 Oct 2023 20:04:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Florida man sentenced to prison for SIM Swapping conspiracy that led to theft of $1M in cryptocurrency</title>
       <link>https://securityaffairs.com/153257/cyber-crime/florida-man-sentenced-sim-swapping.html</link>
       <pubDate>Mon, 30 Oct 2023 19:19:07 +0000</pubDate>
@@ -201,11 +241,6 @@
       <title>White House Executive Order on AI Provides Guidelines for AI Privacy and Safety</title>
       <link>https://www.techrepublic.com/article/white-house-executive-order-ai-privacy/</link>
       <pubDate>Mon, 30 Oct 2023 18:49:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alleged sex abuse victims win settlement in data mishandling case</title>
-      <link>https://therecord.media/norwich-diocese-sex-abuse-case-data-privacy-settlement</link>
-      <pubDate>Mon, 30 Oct 2023 18:44:00 +0000</pubDate>
     </item>
     <item>
       <title>Lazarus Group Malware Targets Legitimate Software</title>
@@ -471,41 +506,6 @@
       <title>Nicole Sundin: Women helping women. [Chief Product Officer]</title>
       <link>https://thecyberwire.com/podcasts/career-notes/173/notes</link>
       <pubDate>Sun, 29 Oct 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spooky, scary, skeletons at the movies.</title>
-      <link>https://thecyberwire.com/podcasts/hacking-humans-goes-to-the-movies/23/notes</link>
-      <pubDate>Sun, 29 Oct 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Size Matters for Many Security Controls, (Sat, Oct 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/30352</link>
-      <pubDate>Sat, 28 Oct 2023 11:54:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bug hunters earned $1,038,250 for 58 unique 0-days at Pwn2Own Toronto 2023</title>
-      <link>https://securityaffairs.com/153169/hacking/pwn2own-toronto-2023-ended.html</link>
-      <pubDate>Sat, 28 Oct 2023 10:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover Wiretapping of XMPP-Based Instant Messaging Service</title>
-      <link>https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html</link>
-      <pubDate>Sat, 28 Oct 2023 07:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No rest for the wicked HiatusRAT.</title>
-      <link>https://thecyberwire.com/podcasts/research-saturday/305/notes</link>
-      <pubDate>Sat, 28 Oct 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sorting out the threat actors: spies, privateers, contractors, hacktivists, and crooks.</title>
-      <link>https://thecyberwire.com/newsletters/week-that-was/7/42</link>
-      <pubDate>Sat, 28 Oct 2023 04:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploring TPRM in Singapore's Personal Data Protection Act | UpGuard</title>
-      <link>https://www.upguard.com/blog/tprm-in-singapores-personal-data-protection-act</link>
-      <pubDate>Fri, 27 Oct 2023 23:02:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
