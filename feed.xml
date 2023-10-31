@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Oct 2023 04:18:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 06:19:53 +0000</lastBuildDate>
+    <item>
+      <title>test post</title>
+      <link>https://www.malwarebytes.com/blog/uncategorized/2023/10/test-post</link>
+      <pubDate>Tue, 31 Oct 2023 06:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada bans WeChat and Kaspersky apps on government-issued mobile devices</title>
+      <link>https://securityaffairs.com/153274/intelligence/canada-ban-wechat-kaspersky.html</link>
+      <pubDate>Tue, 31 Oct 2023 05:58:44 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, October 31st, 2023 https://isc.sans.edu/podcastdetail/8724, (Tue, Oct 31st)</title>
       <link>https://isc.sans.edu/diary/rss/30360</link>
@@ -478,11 +488,6 @@
       <pubDate>Fri, 27 Oct 2023 11:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Collect Market Intelligence with Residential Proxies?</title>
-      <link>https://securityaffairs.com/153127/security/collect-market-intelligence-via-residential-proxies.html</link>
-      <pubDate>Fri, 27 Oct 2023 11:01:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Messaging Service Wiretap Discovered through Expired TLS Cert</title>
       <link>https://www.schneier.com/blog/archives/2023/10/messaging-service-wiretap-discovered-through-expired-tls-cert.html</link>
       <pubDate>Fri, 27 Oct 2023 11:01:00 +0000</pubDate>
@@ -501,11 +506,6 @@
       <title>ISC Stormcast For Friday, October 27th, 2023 https://isc.sans.edu/podcastdetail/8720, (Fri, Oct 27th)</title>
       <link>https://isc.sans.edu/diary/rss/30350</link>
       <pubDate>Fri, 27 Oct 2023 10:45:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lufthansa’s digital future takes flight with ‘Digital Hangar’</title>
-      <link>https://www.cio.com/article/656815/lufthansas-digital-future-takes-flight-with-digital-hangar.html</link>
-      <pubDate>Fri, 27 Oct 2023 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
