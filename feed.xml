@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 10:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 12:29:46 +0000</lastBuildDate>
+    <item>
+      <title>Hands on Review: LayerX's Enterprise Browser Security Extension</title>
+      <link>https://thehackernews.com/2023/11/hands-on-review-layerxs-enterprise.html</link>
+      <pubDate>Wed, 01 Nov 2023 11:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Reveals New Features in Russian APT Turla's Kazuar Backdoor</title>
+      <link>https://www.infosecurity-magazine.com/news/palo-alto-features-russian-turla/</link>
+      <pubDate>Wed, 01 Nov 2023 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Cyber Espionage Group Targets Financial and Government Sectors in Middle East</title>
+      <link>https://thehackernews.com/2023/11/iranian-cyber-espionage-group-targets.html</link>
+      <pubDate>Wed, 01 Nov 2023 11:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NHS Trust Reprimanded After Delays to Thousands of Referrals</title>
+      <link>https://www.infosecurity-magazine.com/news/nhs-trust-slammed-delays-thousands/</link>
+      <pubDate>Wed, 01 Nov 2023 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>British Library suffers major outage due to cyberattack</title>
+      <link>https://securityaffairs.com/153309/hacking/british-library-cyber-attack.html</link>
+      <pubDate>Wed, 01 Nov 2023 10:15:10 +0000</pubDate>
+    </item>
     <item>
       <title>British Library Still Reeling After Major Cyber Incident</title>
       <link>https://www.infosecurity-magazine.com/news/british-library-still-reeling/</link>
@@ -16,6 +41,16 @@
       <title>Conducting Robust Learning for Empire Command and Control Detection</title>
       <link>https://unit42.paloaltonetworks.com/empire-c2-helps-train-machine-learning-framework/</link>
       <pubDate>Wed, 01 Nov 2023 10:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>CIOs still grapple with what gen AI can do for the enterprise</title>
+      <link>https://www.cio.com/article/657479/cios-still-grapple-with-what-gen-ai-can-do-for-the-enterprise.html</link>
+      <pubDate>Wed, 01 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital pragmatism at Volvo means more control and less agile</title>
+      <link>https://www.cio.com/article/657395/digital-pragmatism-at-volvo-means-more-control-and-less-agile.html</link>
+      <pubDate>Wed, 01 Nov 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Active visibility into OT systems.</title>
@@ -28,7 +63,7 @@
       <pubDate>Wed, 01 Nov 2023 09:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>North Korean Hackers Tageting Crypto Experts with KANDYKORN macOS Malware</title>
+      <title>North Korean Hackers Targeting Crypto Experts with KANDYKORN macOS Malware</title>
       <link>https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html</link>
       <pubDate>Wed, 01 Nov 2023 09:02:00 +0000</pubDate>
     </item>
@@ -178,6 +213,11 @@
       <pubDate>Tue, 31 Oct 2023 16:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>From classroom to cyberfront: Unlocking the potential of the next generation of cyber defenders</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/10/31/from-classroom-to-cyberfront-unlocking-the-potential-of-the-next-generation-of-cyber-defenders/</link>
+      <pubDate>Tue, 31 Oct 2023 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Malware mealkits, and other commodity criminal tools.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/12/208</link>
       <pubDate>Tue, 31 Oct 2023 15:22:05 +0000</pubDate>
@@ -303,6 +343,11 @@
       <pubDate>Tue, 31 Oct 2023 10:55:00 +0000</pubDate>
     </item>
     <item>
+      <title>Closing the gender gap: 7 ways to attract more women into cybersecurity</title>
+      <link>https://www.welivesecurity.com/en/we-live-progress/closing-gender-gap-7-ways-attract-more-women-cybersecurity/</link>
+      <pubDate>Tue, 31 Oct 2023 10:30:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Half of Execs Request Security Bypass Over Past Year</title>
       <link>https://www.infosecurity-magazine.com/news/half-execs-request-security-bypass/</link>
       <pubDate>Tue, 31 Oct 2023 10:30:00 +0000</pubDate>
@@ -418,11 +463,6 @@
       <pubDate>Mon, 30 Oct 2023 16:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>Biden Issues Executive Order on Safe, Secure AI</title>
-      <link>https://www.infosecurity-magazine.com/news/biden-issues-executive-order-on/</link>
-      <pubDate>Mon, 30 Oct 2023 16:09:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The PEAK Threat Hunting Framework</title>
       <link>https://www.techrepublic.com/resource-library/ebooks/the-peak-threat-hunting-framework/</link>
       <pubDate>Mon, 30 Oct 2023 16:00:00 +0000</pubDate>
@@ -466,46 +506,6 @@
       <title>US AI policy is announced (and some of it is relevant to cybersecurity).</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/12/207</link>
       <pubDate>Mon, 30 Oct 2023 15:32:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flying under the Radar: The Privacy Impact of multicast DNS, (Mon, Oct 30th)</title>
-      <link>https://isc.sans.edu/diary/rss/30358</link>
-      <pubDate>Mon, 30 Oct 2023 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The US Executive Order on artificial intelligence is out.</title>
-      <link>https://thecyberwire.com/stories/94e9617a396b4bf1a8bb6c4ace46d052/the-us-executive-order-on-artificial-intelligence-is-out</link>
-      <pubDate>Mon, 30 Oct 2023 15:26:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wiki-Slack attack allows redirecting business professionals to malicious websites</title>
-      <link>https://securityaffairs.com/153245/hacking/wiki-slack-attack.html</link>
-      <pubDate>Mon, 30 Oct 2023 15:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Want AI? Here’s how to get your data and infrastructure AI-ready</title>
-      <link>https://www.cio.com/article/657494/want-ai-heres-how-to-get-your-data-and-infrastructure-ai-ready.html</link>
-      <pubDate>Mon, 30 Oct 2023 15:02:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Roundup - Knight</title>
-      <link>https://feeds.fortinet.com/~/803737226/0/fortinet/blog/threat-research~Ransomware-Roundup-Knight</link>
-      <pubDate>Mon, 30 Oct 2023 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Power for the People | Cyber Threats in the Energy Sector and How To Defend Against Them</title>
-      <link>https://www.sentinelone.com/blog/power-for-the-people-cyber-threats-in-the-energy-sector-and-how-to-defend-against-them/</link>
-      <pubDate>Mon, 30 Oct 2023 14:51:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (October 23 &amp;#8211; October 29)</title>
-      <link>https://www.malwarebytes.com/blog/news/2023/10/a-week-in-security-october-23-october-29-2</link>
-      <pubDate>Mon, 30 Oct 2023 14:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Passkeys as successors to passwords.</title>
-      <link>https://thecyberwire.com/stories/cfc959975d84402aa69206d9a2370a59/passkeys-as-successors-to-passwords</link>
-      <pubDate>Mon, 30 Oct 2023 13:59:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
