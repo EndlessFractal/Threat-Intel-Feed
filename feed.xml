@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 20:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 22:13:50 +0000</lastBuildDate>
+    <item>
+      <title>Threat Brief: Citrix Bleed CVE-2023-4966</title>
+      <link>https://unit42.paloaltonetworks.com/threat-brief-cve-2023-4966-netscaler-citrix-bleed/</link>
+      <pubDate>Wed, 01 Nov 2023 22:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is data security posture management?</title>
+      <link>https://securityintelligence.com/posts/what-is-data-security-posture-management/</link>
+      <pubDate>Wed, 01 Nov 2023 21:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacktivism in two hybrid wars (with an excursus on gastropods).</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/1939/notes</link>
+      <pubDate>Wed, 01 Nov 2023 20:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commerce Department promises safeguards to prevent surveillance tech sales abroad</title>
+      <link>https://therecord.media/commerce-safeguards-on-surveillance-tech</link>
+      <pubDate>Wed, 01 Nov 2023 20:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing Cybersecurity First Principles course featuring Rick Howard, N2K Chief Security Officer.</title>
+      <link>https://thecyberwire.com/stories/fb6cefc6c7f74ff7b6f6f9d8f5774dc5/announcing-cybersecurity-first-principles-course-featuring-rick-howard-n2k-chief-security-officer</link>
+      <pubDate>Wed, 01 Nov 2023 20:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Mexican airport confirms experts are working to address cyberattack</title>
+      <link>https://therecord.media/queretaro-international-airport-mexico-cyberattack</link>
+      <pubDate>Wed, 01 Nov 2023 20:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>A ‘kill switch’ deliberately shut down notorious Mozi botnet, researchers say</title>
       <link>https://therecord.media/mozi-botnet-killswitch-shut-down</link>
@@ -26,16 +56,6 @@
       <title>Probe of school surveillance software finds privacy abuses, inaccurate results</title>
       <link>https://therecord.media/goguardian-student-surveillance-eff-report</link>
       <pubDate>Wed, 01 Nov 2023 18:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dallas County ‘interrupted’ data exfiltration, prevented encryption after attack</title>
-      <link>https://therecord.media/dallas-county-combats-ransomware-attack</link>
-      <pubDate>Wed, 01 Nov 2023 18:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An info-stealer campaign is now targeting Facebook users with revealing photos</title>
-      <link>https://therecord.media/nodestealer-malware-campaign-facebook-advertising</link>
-      <pubDate>Wed, 01 Nov 2023 18:08:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA adds two F5 BIG-IP flaws to its Known Exploited Vulnerabilities catalog</title>
@@ -93,11 +113,6 @@
       <pubDate>Wed, 01 Nov 2023 14:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>Fighting fire with…data</title>
-      <link>https://www.cio.com/article/657743/fighting-fire-withdata.html</link>
-      <pubDate>Wed, 01 Nov 2023 14:52:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Pro-Hamas hacktivist group targets Israel with BiBi-Linux wiper</title>
       <link>https://securityaffairs.com/153341/malware/pro-hamas-group-bibi-linux-wiper.html</link>
       <pubDate>Wed, 01 Nov 2023 14:44:52 +0000</pubDate>
@@ -105,11 +120,6 @@
     <item>
       <title>28 Countries Sign Bletchley Declaration on Responsible Development of AI</title>
       <link>https://www.infosecurity-magazine.com/news/28-countries-bletchley-declaration/</link>
-      <pubDate>Wed, 01 Nov 2023 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is data security posture management?</title>
-      <link>https://securityintelligence.com/posts/what-is-data-security-posture-management/</link>
       <pubDate>Wed, 01 Nov 2023 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -443,6 +453,11 @@
       <pubDate>Tue, 31 Oct 2023 10:55:00 +0000</pubDate>
     </item>
     <item>
+      <title>Closing the gender gap: 7 ways to attract more women into cybersecurity</title>
+      <link>https://www.welivesecurity.com/en/we-live-progress/closing-gender-gap-7-ways-attract-more-women-cybersecurity/</link>
+      <pubDate>Tue, 31 Oct 2023 10:30:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Half of Execs Request Security Bypass Over Past Year</title>
       <link>https://www.infosecurity-magazine.com/news/half-execs-request-security-bypass/</link>
       <pubDate>Tue, 31 Oct 2023 10:30:00 +0000</pubDate>
@@ -491,21 +506,6 @@
       <title>ISC Stormcast For Tuesday, October 31st, 2023 https://isc.sans.edu/podcastdetail/8724, (Tue, Oct 31st)</title>
       <link>https://isc.sans.edu/diary/rss/30360</link>
       <pubDate>Tue, 31 Oct 2023 00:05:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>OneView updates: Dive into Report 2.0 &amp;amp; the new Global Site Filter</title>
-      <link>https://www.malwarebytes.com/blog/business/2023/10/oneview-updates-dive-into-report-2-0-the-new-global-site-filter</link>
-      <pubDate>Mon, 30 Oct 2023 22:51:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Resolve SSL Configuration Risks | UpGuard</title>
-      <link>https://www.upguard.com/blog/ssl-configuration</link>
-      <pubDate>Mon, 30 Oct 2023 22:35:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free Template: HIPAA Questionnaire | UpGuard</title>
-      <link>https://www.upguard.com/blog/free-hipaa-questionnaire-template</link>
-      <pubDate>Mon, 30 Oct 2023 22:29:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
