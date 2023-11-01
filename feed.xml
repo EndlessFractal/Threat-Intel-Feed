@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 04:18:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 06:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Alert: F5 Warns of Active Attacks Exploiting BIG-IP Vulnerability</title>
+      <link>https://thehackernews.com/2023/11/alert-f5-warns-of-active-attacks.html</link>
+      <pubDate>Wed, 01 Nov 2023 04:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warning Against Infostealer Infections Upon Executing Legitimate EXE Files (DLL Hijacking)</title>
+      <link>https://asec.ahnlab.com/en/58319/</link>
+      <pubDate>Wed, 01 Nov 2023 04:29:21 +0000</pubDate>
+    </item>
     <item>
       <title>Meeting the Third-Party Risk Requirements of NIST CSF in 2023 | UpGuard</title>
       <link>https://www.upguard.com/blog/nist-csf-third-party-risk-requirements</link>
@@ -496,16 +506,6 @@
       <title>HackerOne awarded over $300 million bug hunters</title>
       <link>https://securityaffairs.com/153221/security/hackerone-bug-bounty-programs.html</link>
       <pubDate>Mon, 30 Oct 2023 11:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine at D+613: ISPs disrupted in occupied territories.</title>
-      <link>https://thecyberwire.com/stories/9e6a9dfd309a4b1283d464c396ab9747/ukraine-at-d613</link>
-      <pubDate>Mon, 30 Oct 2023 11:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacking Scandinavian Alcohol Tax</title>
-      <link>https://www.schneier.com/blog/archives/2023/10/hacking-scandinavian-alcohol-tax.html</link>
-      <pubDate>Mon, 30 Oct 2023 11:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
