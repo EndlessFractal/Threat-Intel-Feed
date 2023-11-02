@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Nov 2023 14:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2023 16:20:43 +0000</lastBuildDate>
+    <item>
+      <title>Reaching consensus on AI governance.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/210</link>
+      <pubDate>Thu, 02 Nov 2023 15:33:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arabic-speaking WhatsApp users targeted with spyware</title>
+      <link>https://therecord.media/whatsapp-mods-android-spyware</link>
+      <pubDate>Thu, 02 Nov 2023 15:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Okta discloses a new data breach after a third-party vendor was hacked</title>
+      <link>https://securityaffairs.com/153478/data-breach/okta-data-breach-third-party-vendor.html</link>
+      <pubDate>Thu, 02 Nov 2023 15:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>So, State-Sponsored Attackers Are Targeting Your Mobile Device. Now What?</title>
+      <link>https://www.sentinelone.com/blog/so-state-sponsored-attackers-are-targeting-your-mobile-device-now-what/</link>
+      <pubDate>Thu, 02 Nov 2023 14:24:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK AI Safety Summit: Global Powers Make ‘Landmark’ Pledge to AI Safety</title>
+      <link>https://www.techrepublic.com/article/uk-ai-safety-summit/</link>
+      <pubDate>Thu, 02 Nov 2023 14:18:03 +0000</pubDate>
+    </item>
     <item>
       <title>G7 Countries Establish Voluntary AI Code of Conduct</title>
       <link>https://www.techrepublic.com/article/g7-countries-ai-code-conduct/</link>
       <pubDate>Thu, 02 Nov 2023 14:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>SASE success: Avoid confusion and embrace a single-vendor solution</title>
+      <link>https://www.cio.com/article/657887/sase-success-avoid-confusion-and-embrace-a-single-vendor-solution.html</link>
+      <pubDate>Thu, 02 Nov 2023 14:04:26 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2023-46604 Detection: HelloKitty Ransomware Maintainers Exploits RCE Vulnerability in Apache ActiveMQ</title>
@@ -83,9 +113,44 @@
       <pubDate>Thu, 02 Nov 2023 12:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>Boeing says cyber incident affects parts and distribution business</title>
-      <link>https://therecord.media/boeing-cyberattack-parts-distribution-business</link>
-      <pubDate>Thu, 02 Nov 2023 11:59:00 +0000</pubDate>
+      <title>Franklin Fueling System TS-550</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-306-04</link>
+      <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Red Lion Crimson</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-306-01</link>
+      <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric SpaceLogic C-Bus Toolkit</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-306-06</link>
+      <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric MELSEC Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-306-03</link>
+      <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weintek EasyBuilder Pro</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-306-05</link>
+      <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric MELSEC iQ-F Series CPU Module</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-306-02</link>
+      <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Six Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Attackers use JavaScript URLs, API forms and more to scam users in popular online game “Roblox”</title>
@@ -441,71 +506,6 @@
       <title>Warning Against HWP Documents Embedded with Malicious OLE Objects</title>
       <link>https://asec.ahnlab.com/en/58335/</link>
       <pubDate>Wed, 01 Nov 2023 01:45:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extend DLP Policies to Home-Grown Apps</title>
-      <link>https://symantec-enterprise-blogs.security.com/expert-perspectives/extend-dlp-policies-home-grown-apps</link>
-      <pubDate>Tue, 31 Oct 2023 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extend DLP Policies to Home-Grown Apps</title>
-      <link>https://symantec-enterprise-blogs.security.com/expert-perspectives/extend-dlp-policies-home-grown-apps</link>
-      <pubDate>Tue, 31 Oct 2023 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extend DLP Policies to Home-Grown Apps</title>
-      <link>https://symantec-enterprise-blogs.security.com/expert-perspectives/extend-dlp-policies-home-grown-apps</link>
-      <pubDate>Tue, 31 Oct 2023 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navigating Cloud Cost Complexity and Security</title>
-      <link>https://www.cio.com/article/657672/navigating-cloud-cost-complexity-and-security.html</link>
-      <pubDate>Tue, 31 Oct 2023 20:49:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Atlassian Confluence flaw can lead to significant data loss</title>
-      <link>https://securityaffairs.com/153300/security/atlassian-confluence-data-center-flaw.html</link>
-      <pubDate>Tue, 31 Oct 2023 20:29:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>What would it take to get you kids into a nice, late-model malware mealkit?</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1938/notes</link>
-      <pubDate>Tue, 31 Oct 2023 20:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Step-by-step through the Money Message ransomware</title>
-      <link>https://news.sophos.com/en-us/2023/10/31/step-by-step-through-the-money-message-ransomware/</link>
-      <pubDate>Tue, 31 Oct 2023 19:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond DevSecOps: Why fintech companies need to consider DevSecRegOps</title>
-      <link>https://www.cio.com/article/657628/beyond-devsecops-why-fintech-companies-need-to-consider-devsecregops.html</link>
-      <pubDate>Tue, 31 Oct 2023 19:43:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Offers Bug Bounties for Generative AI Security Vulnerabilities</title>
-      <link>https://www.techrepublic.com/article/google-ai-bug-bounty-program/</link>
-      <pubDate>Tue, 31 Oct 2023 19:36:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The US Executive Order and international cooperation on AI standards.</title>
-      <link>https://thecyberwire.com/stories/c5e2a1a9cc4047c1ba2190a2a31fbc64/the-us-executive-order-and-international-cooperation-on-ai-standards</link>
-      <pubDate>Tue, 31 Oct 2023 19:32:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consumer protection in the US Executive Order on artificial intelligence.</title>
-      <link>https://thecyberwire.com/stories/3314296660a447c382ef58122ff8dc05/consumer-protection-in-the-us-executive-order-on-artificial-intelligence</link>
-      <pubDate>Tue, 31 Oct 2023 19:10:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s biggest data breach? Hacking gang claims to have stolen 815 million people’s personal information</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/indias-biggest-data-breach-hacking-gang-claims-to-have-stolen-815-million-peoples-personal-information/</link>
-      <pubDate>Tue, 31 Oct 2023 18:59:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Developing AI tools that can enhance cybersecurity.</title>
-      <link>https://thecyberwire.com/stories/496e9cbc12cc4354931bfc2be8963a84/developing-ai-tools-that-can-enhance-cybersecurity</link>
-      <pubDate>Tue, 31 Oct 2023 18:39:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
