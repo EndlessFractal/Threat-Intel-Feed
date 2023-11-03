@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Nov 2023 18:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2023 20:16:32 +0000</lastBuildDate>
+    <item>
+      <title>In the offense-defense see-saw, the defense seems to be rising.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/1941/notes</link>
+      <pubDate>Fri, 03 Nov 2023 20:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solution Spotlight: Simone Petrella and Rick Howard speaking with Ben Rothke about "Is there really an information security jobs crisis?"</title>
+      <link>https://thecyberwire.com/podcasts/interview-selects/184/notes</link>
+      <pubDate>Fri, 03 Nov 2023 20:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Okta customer support system breach impacted 134 customers</title>
+      <link>https://securityaffairs.com/153581/data-breach/okta-customer-support-system-breach-customers.html</link>
+      <pubDate>Fri, 03 Nov 2023 20:04:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Free SolarWinds Vendor Questionnaire Template (2024 Edition) | UpGuard</title>
+      <link>https://www.upguard.com/blog/solarwinds-vendor-questionnaire-template</link>
+      <pubDate>Fri, 03 Nov 2023 19:57:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>US sanctions Russian accused of laundering virtual currency for ransomware affiliate</title>
+      <link>https://therecord.media/russian-sanctioned-ofac-treasury-money-launering-ryuk</link>
+      <pubDate>Fri, 03 Nov 2023 19:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EleKtra-Leak Campaign Uses AWS Cloud Keys Found on Public GitHub Repositories to Run Cryptomining Operation</title>
+      <link>https://www.techrepublic.com/article/elektra-leak-aws-cloud-keys-crytomining/</link>
+      <pubDate>Fri, 03 Nov 2023 19:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is a VPN? Definition, How It Works, and More</title>
+      <link>https://www.techrepublic.com/article/what-is-vpn/</link>
+      <pubDate>Fri, 03 Nov 2023 18:39:38 +0000</pubDate>
+    </item>
     <item>
       <title>Cyber experts and officials raise alarms about exploits against Citrix and Apache products</title>
       <link>https://therecord.media/cyber-officials-raise-alarms-citrix-apache</link>
@@ -56,11 +91,6 @@
       <title>Corrupt police intel analyst jailed for tipping off criminal about EncroChat hack</title>
       <link>https://therecord.media/uk-police-intel-analyst-jailed-encrochat-tipoff</link>
       <pubDate>Fri, 03 Nov 2023 14:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Singapore public health services hit by DDoS attacks</title>
-      <link>https://therecord.media/singapore-public-health-services-ddos-attack</link>
-      <pubDate>Fri, 03 Nov 2023 14:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Healthcare Data Breaches Impact 88 Million Americans</title>
@@ -261,6 +291,11 @@
       <title>Okta discloses a new data breach after a third-party vendor was hacked</title>
       <link>https://securityaffairs.com/153478/data-breach/okta-data-breach-third-party-vendor.html</link>
       <pubDate>Thu, 02 Nov 2023 15:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing Microsoft Secure Future Initiative to advance security engineering</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/11/02/announcing-microsoft-secure-future-initiative-to-advance-security-engineering/</link>
+      <pubDate>Thu, 02 Nov 2023 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>So, State-Sponsored Attackers Are Targeting Your Mobile Device. Now What?</title>
@@ -471,41 +506,6 @@
       <title>FIRST Announces CVSS 4.0 - New Vulnerability Scoring System</title>
       <link>https://thehackernews.com/2023/11/first-announces-cvss-40-new.html</link>
       <pubDate>Thu, 02 Nov 2023 05:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI all around.</title>
-      <link>https://thecyberwire.com/podcasts/caveat/193/notes</link>
-      <pubDate>Thu, 02 Nov 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weaponizing your out-of-office replies.</title>
-      <link>https://thecyberwire.com/podcasts/hacking-humans/264/notes</link>
-      <pubDate>Thu, 02 Nov 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HelloKitty Ransomware Group Exploiting Apache ActiveMQ Vulnerability</title>
-      <link>https://thehackernews.com/2023/11/hellokitty-ransomware-group-exploiting.html</link>
-      <pubDate>Thu, 02 Nov 2023 04:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP unveils tools to help enterprises build their own gen AI apps</title>
-      <link>https://www.cio.com/article/657687/sap-unveils-tools-to-help-enterprises-build-their-own-gen-ai-apps.html</link>
-      <pubDate>Thu, 02 Nov 2023 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Bletchley Declaration follows the US Executive Order on artificial intelligence.</title>
-      <link>https://thecyberwire.com/stories/0b08fec705fb481394928144fa63fbab/the-bletchley-declaration-follows-the-us-executive-order-on-artificial-intelligence</link>
-      <pubDate>Thu, 02 Nov 2023 03:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, November 2nd, 2023 https://isc.sans.edu/podcastdetail/8728, (Thu, Nov 2nd)</title>
-      <link>https://isc.sans.edu/diary/rss/30368</link>
-      <pubDate>Thu, 02 Nov 2023 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #346: How hackers are breaching Booking.com, and the untrustworthy reviews</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-346/</link>
-      <pubDate>Thu, 02 Nov 2023 00:01:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
