@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Nov 2023 10:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 12:31:23 +0000</lastBuildDate>
+    <item>
+      <title>Data brokers are selling US service members’ secrets, researchers find</title>
+      <link>https://therecord.media/data-brokers-are-selling-military-secrets</link>
+      <pubDate>Mon, 06 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers use Google Calendar RAT to abuse Calendar service as C2 infrastructure</title>
+      <link>https://securityaffairs.com/153700/hacking/google-calendar-rat-attacks.html</link>
+      <pubDate>Mon, 06 Nov 2023 11:27:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medical research data Advarra stolen after SIM swap</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/11/medical-research-data-advarra-stolen-after-sim-swap</link>
+      <pubDate>Mon, 06 Nov 2023 11:27:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agonizing Serpens (Aka Agrius) Targeting the Israeli Higher Education and Tech Sectors</title>
+      <link>https://unit42.paloaltonetworks.com/agonizing-serpens-targets-israeli-tech-higher-ed-sectors/</link>
+      <pubDate>Mon, 06 Nov 2023 11:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Hackers Launches Destructive Cyberattacks on Israeli Tech and Education Sectors</title>
+      <link>https://thehackernews.com/2023/11/iranian-hackers-launches-destructive.html</link>
+      <pubDate>Mon, 06 Nov 2023 10:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defeating Little Brother requires a new outlook on privacy: Lock and Code S04E23</title>
+      <link>https://www.malwarebytes.com/blog/podcast/2023/11/defeating-little-brother-requires-a-new-outlook-on-privacy-lock-and-code-s04e23</link>
+      <pubDate>Mon, 06 Nov 2023 10:25:49 +0000</pubDate>
+    </item>
     <item>
       <title>IT leader’s survival guide: 8 tips to thrive in the years ahead</title>
       <link>https://www.cio.com/article/219661/it-leaders-survival-guide.html</link>
@@ -71,6 +101,11 @@
       <title>US govt sanctioned a Russian woman for laundering virtual currency on behalf of threat actors</title>
       <link>https://securityaffairs.com/153649/breaking-news/russian-woman-virtual-currency-money-laundering.html</link>
       <pubDate>Sun, 05 Nov 2023 18:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Incident Response Policy</title>
+      <link>https://www.techrepublic.com/resource-library/whitepapers/security-incident-response-policy/</link>
+      <pubDate>Sun, 05 Nov 2023 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Security Affairs newsletter Round 444 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
@@ -233,11 +268,6 @@
       <pubDate>Fri, 03 Nov 2023 16:41:44 +0000</pubDate>
     </item>
     <item>
-      <title>Apple warns Armenians of state-sponsored hacking attempts</title>
-      <link>https://therecord.media/apple-warns-armenians-state-sponsored-hacking-attempts-azerbaijan</link>
-      <pubDate>Fri, 03 Nov 2023 16:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How AI can drive efficiencies in your supply chain</title>
       <link>https://www.cio.com/article/658689/how-ai-can-drive-efficiencies-in-your-supply-chain.html</link>
       <pubDate>Fri, 03 Nov 2023 15:27:14 +0000</pubDate>
@@ -348,11 +378,6 @@
       <pubDate>Fri, 03 Nov 2023 09:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>MuddyWater has been spotted targeting two Israeli entities</title>
-      <link>https://securityaffairs.com/153475/apt/muddywater-targets-israeli-entities.html</link>
-      <pubDate>Fri, 03 Nov 2023 08:59:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Weekly Update 372</title>
       <link>https://www.troyhunt.com/weekly-update-372/</link>
       <pubDate>Fri, 03 Nov 2023 06:48:23 +0000</pubDate>
@@ -443,6 +468,11 @@
       <pubDate>Thu, 02 Nov 2023 15:33:41 +0000</pubDate>
     </item>
     <item>
+      <title>Announcing Microsoft Secure Future Initiative to advance security engineering</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/11/02/announcing-microsoft-secure-future-initiative-to-advance-security-engineering/</link>
+      <pubDate>Thu, 02 Nov 2023 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>So, State-Sponsored Attackers Are Targeting Your Mobile Device. Now What?</title>
       <link>https://www.sentinelone.com/blog/so-state-sponsored-attackers-are-targeting-your-mobile-device-now-what/</link>
       <pubDate>Thu, 02 Nov 2023 14:24:07 +0000</pubDate>
@@ -476,36 +506,6 @@
       <title>Mysterious Kill Switch Disrupts Mozi IoT Botnet Operations</title>
       <link>https://thehackernews.com/2023/11/mysterious-kill-switch-disrupts-mozi.html</link>
       <pubDate>Thu, 02 Nov 2023 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus Group prospects blockchain engineers with KANDYKORN.</title>
-      <link>https://thecyberwire.com/stories/2fadf6cb2f084714ab3ae40bb8b2f889/lazarus-group-prospects-blockchain-engineers-with-kandykorn</link>
-      <pubDate>Thu, 02 Nov 2023 13:29:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>1-15 September 2023 Cyber Attacks Timeline</title>
-      <link>https://www.hackmageddon.com/2023/11/02/1-15-september-2023-cyber-attacks-timeline/</link>
-      <pubDate>Thu, 02 Nov 2023 13:12:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defense in depth: Layering your security coverage</title>
-      <link>https://securityintelligence.com/articles/defense-in-depth-layering-your-security-coverage/</link>
-      <pubDate>Thu, 02 Nov 2023 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[updated] Atlassian: &amp;#8220;Take immediate action&amp;#8221; to patch your Confluence Data Center and Server instances</title>
-      <link>https://www.malwarebytes.com/blog/news/2023/11/atlassian-take-immediate-action-to-patch-your-confluence-data-center-and-server-instances</link>
-      <pubDate>Thu, 02 Nov 2023 12:54:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Safety Summit: Biden-Harris Administration Launches US AI Safety Institute</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-safety-summit-biden-launch/</link>
-      <pubDate>Thu, 02 Nov 2023 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is your data strategy ready for gen AI? LOB leaders may disagree</title>
-      <link>https://www.cio.com/article/657840/is-your-data-strategy-ready-for-gen-ai-lob-leaders-may-disagree.html</link>
-      <pubDate>Thu, 02 Nov 2023 12:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
