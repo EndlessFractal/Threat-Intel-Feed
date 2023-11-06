@@ -6,16 +6,56 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Nov 2023 14:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 16:21:06 +0000</lastBuildDate>
+    <item>
+      <title>Incident response and suggestions for more resilience.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/212</link>
+      <pubDate>Mon, 06 Nov 2023 16:07:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>US, Japan and South Korea Unite to Counter North Korean Cyber Activities</title>
+      <link>https://www.infosecurity-magazine.com/news/us-japan-south-korea-north-korea/</link>
+      <pubDate>Mon, 06 Nov 2023 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Okta security incident: assessments.</title>
+      <link>https://thecyberwire.com</link>
+      <pubDate>Mon, 06 Nov 2023 14:59:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crashing iPhones with a Flipper Zero</title>
+      <link>https://www.schneier.com/blog/archives/2023/11/crashing-iphones-with-a-flipper-zero.html</link>
+      <pubDate>Mon, 06 Nov 2023 14:45:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>QNAP fixed two critical vulnerabilities in QTS OS and apps</title>
+      <link>https://securityaffairs.com/153714/security/qnap-command-injection-flaws.html</link>
+      <pubDate>Mon, 06 Nov 2023 14:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>SecuriDropper: New Android Dropper-as-a-Service Bypasses Google's Defenses</title>
+      <link>https://thehackernews.com/2023/11/securidropper-new-android-dropper-as.html</link>
+      <pubDate>Mon, 06 Nov 2023 14:09:00 +0000</pubDate>
+    </item>
     <item>
       <title>Major US mortgage lender sustains cyberattack.</title>
       <link>https://thecyberwire.com/stories/883443f1ae584cb0a97d8fd73d8ebe1d/major-us-mortgage-lender-sustains-cyberattack</link>
       <pubDate>Mon, 06 Nov 2023 14:08:25 +0000</pubDate>
     </item>
     <item>
+      <title>Sophos Firewall v20 is now available</title>
+      <link>https://news.sophos.com/en-us/2023/11/06/sophos-firewall-v20-is-now-available/</link>
+      <pubDate>Mon, 06 Nov 2023 14:00:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Who’s Behind the SWAT USA Reshipping Service?</title>
       <link>https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/</link>
       <pubDate>Mon, 06 Nov 2023 13:51:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploit Activity for CVE-2023-22518, Atlassian Confluence Data Center and Server, (Mon, Nov 6th)</title>
+      <link>https://isc.sans.edu/diary/rss/30376</link>
+      <pubDate>Mon, 06 Nov 2023 13:40:13 +0000</pubDate>
     </item>
     <item>
       <title>Over Half of Users Report Kubernetes/Container Security Incidents</title>
@@ -358,11 +398,6 @@
       <pubDate>Fri, 03 Nov 2023 11:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>Russian FSB arrested Russian hackers who supported Ukrainian cyber operations</title>
-      <link>https://securityaffairs.com/153539/cyber-warfare-2/fsb-arrested-russian-hackers-supported-ukraine.html</link>
-      <pubDate>Fri, 03 Nov 2023 11:21:38 +0000</pubDate>
-    </item>
-    <item>
       <title>Securing the future of Industry 4.0: WALLIX white paper reveals key strategies – get your copy today!</title>
       <link>https://grahamcluley.com/feed-sponsor-wallix/</link>
       <pubDate>Fri, 03 Nov 2023 11:13:11 +0000</pubDate>
@@ -471,41 +506,6 @@
       <title>Your biggest barriers to digital transformation aren’t technical…they’re cultural</title>
       <link>https://www.cio.com/article/657921/your-biggest-barriers-to-digital-transformation-arent-technicaltheyre-cultural.html</link>
       <pubDate>Thu, 02 Nov 2023 16:54:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spy Module Discovered in WhatsApp Mods</title>
-      <link>https://www.infosecurity-magazine.com/news/spy-module-whatsapp-mods/</link>
-      <pubDate>Thu, 02 Nov 2023 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quick Tip For Artificially Inflated PE Files, (Thu, Nov 2nd)</title>
-      <link>https://isc.sans.edu/diary/rss/30370</link>
-      <pubDate>Thu, 02 Nov 2023 15:51:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reaching consensus on AI governance.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/12/210</link>
-      <pubDate>Thu, 02 Nov 2023 15:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Announcing Microsoft Secure Future Initiative to advance security engineering</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2023/11/02/announcing-microsoft-secure-future-initiative-to-advance-security-engineering/</link>
-      <pubDate>Thu, 02 Nov 2023 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>So, State-Sponsored Attackers Are Targeting Your Mobile Device. Now What?</title>
-      <link>https://www.sentinelone.com/blog/so-state-sponsored-attackers-are-targeting-your-mobile-device-now-what/</link>
-      <pubDate>Thu, 02 Nov 2023 14:24:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>G7 Countries Establish Voluntary AI Code of Conduct</title>
-      <link>https://www.techrepublic.com/article/g7-countries-ai-code-conduct/</link>
-      <pubDate>Thu, 02 Nov 2023 14:09:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>SASE success: Avoid confusion and embrace a single-vendor solution</title>
-      <link>https://www.cio.com/article/657887/sase-success-avoid-confusion-and-embrace-a-single-vendor-solution.html</link>
-      <pubDate>Thu, 02 Nov 2023 14:04:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
