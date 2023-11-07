@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Nov 2023 18:19:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2023 20:16:07 +0000</lastBuildDate>
+    <item>
+      <title>Dallas County reviewing data leaked by ransomware gang</title>
+      <link>https://therecord.media/dallas-county-reviewing-stolen-data-ransomware</link>
+      <pubDate>Tue, 07 Nov 2023 19:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speedify Review 2023: Features, Security &amp; Performance</title>
+      <link>https://www.techrepublic.com/article/speedify-vpn-review/</link>
+      <pubDate>Tue, 07 Nov 2023 19:15:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlassian confirms ransomware is exploiting latest Confluence bug</title>
+      <link>https://therecord.media/atlassian-confirms-ransomware-using-confluence-bug-cerber</link>
+      <pubDate>Tue, 07 Nov 2023 19:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marina Bay Sands Luxury Hotel in Singapore Suffers a Data Breach</title>
+      <link>https://securityaffairs.com/153828/data-breach/marina-bay-sands-data-breach.html</link>
+      <pubDate>Tue, 07 Nov 2023 18:48:10 +0000</pubDate>
+    </item>
     <item>
       <title>Generative AI hallucinations: What can IT do?</title>
       <link>https://www.cio.com/article/1107880/generative-ai-hallucinations-what-can-it-do.html</link>
@@ -120,6 +140,11 @@
     <item>
       <title>GE MiCOM S1 Agile</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-311-23</link>
+      <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966</link>
       <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -258,24 +283,24 @@
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>10 essential tips for bolstering cloud security in your business</title>
+      <link>https://www.cio.com/article/977620/10-essential-tips-for-bolstering-cloud-security-in-your-business.html</link>
+      <pubDate>Mon, 06 Nov 2023 23:17:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guarding the gates: a look at critical infrastructure security in 2023</title>
+      <link>https://www.cio.com/article/980544/guarding-the-gates-a-look-at-critical-infrastructure-security-in-2023.html</link>
+      <pubDate>Mon, 06 Nov 2023 23:05:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Free Template: COBIT 5 Framework Questionnaire | UpGuard</title>
       <link>https://www.upguard.com/blog/free-template-cobit-5-questionnaire</link>
       <pubDate>Mon, 06 Nov 2023 22:24:54 +0000</pubDate>
     </item>
     <item>
-      <title>Mortgage giant Mr. Cooper using alternative payment options after cyberattack</title>
-      <link>https://therecord.media/mortgage-giant-mr-cooper-cyberattack</link>
-      <pubDate>Mon, 06 Nov 2023 22:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Free Template: HIPAA Questionnaire | UpGuard</title>
       <link>https://www.upguard.com/blog/free-hipaa-questionnaire-template</link>
       <pubDate>Mon, 06 Nov 2023 22:02:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judge unseals FTC complaint against Kochava alleging ‘staggering’ data broker practices</title>
-      <link>https://therecord.media/ftc-complaint-against-kochava-unsealed</link>
-      <pubDate>Mon, 06 Nov 2023 21:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Precautions, preparations, and resilience against cybercrime and hacktivism.</title>
@@ -473,11 +498,6 @@
       <pubDate>Sun, 05 Nov 2023 13:07:58 +0000</pubDate>
     </item>
     <item>
-      <title>Lazarus targets blockchain engineers with new KandyKorn macOS Malware</title>
-      <link>https://securityaffairs.com/153622/hacking/lazarus-kandykorn-malware.html</link>
-      <pubDate>Sun, 05 Nov 2023 12:14:11 +0000</pubDate>
-    </item>
-    <item>
       <title>Artificial Intelligence Executive Order: Industry Reactions</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/artificial-intelligence-executive-order-industry-reactions</link>
       <pubDate>Sun, 05 Nov 2023 11:00:00 +0000</pubDate>
@@ -486,26 +506,6 @@
       <title>Jeffrey Wheatman: Sometimes you just need to open the raincoat.</title>
       <link>https://thecyberwire.com/podcasts/career-notes/174/notes</link>
       <pubDate>Sun, 05 Nov 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CyberCon 2023: A unique mix of critical infrastructure and cybersecurity.</title>
-      <link>https://thecyberwire.com/podcasts/special-edition/55/notes</link>
-      <pubDate>Sun, 05 Nov 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>StripedFly Malware Operated Unnoticed for 5 Years, Infecting 1 Million Devices</title>
-      <link>https://thehackernews.com/2023/11/stripedfly-malware-operated-unnoticed.html</link>
-      <pubDate>Sat, 04 Nov 2023 09:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okta's Recent Customer Support Data Breach Impacted 134 Customers</title>
-      <link>https://thehackernews.com/2023/11/oktas-recent-customer-support-data.html</link>
-      <pubDate>Sat, 04 Nov 2023 06:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>I resist sharenting on social media. Does that mean my son and I are missing out, or is it just safer? | Rhiannon Lucy Cosslett</title>
-      <link>https://www.theguardian.com/commentisfree/2023/nov/04/resist-sharenting-social-media-missing-out-or-safer</link>
-      <pubDate>Sat, 04 Nov 2023 06:00:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
