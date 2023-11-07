@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Nov 2023 14:14:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2023 16:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Data broker risks, and new malware developments.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/213</link>
+      <pubDate>Tue, 07 Nov 2023 16:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salesforce Automotive Cloud adds Einstein Studio, Fleet Management</title>
+      <link>https://www.cio.com/article/1093228/salesforce-automotive-cloud-adds-einstein-studio-fleet-management.html</link>
+      <pubDate>Tue, 07 Nov 2023 15:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech Trailblazers: Female Perspectives on Forging Careers Into Cyber</title>
+      <link>https://news.sophos.com/en-us/2023/11/07/tech-trailblazers-female-perspectives-on-forging-careers-into-cyber/</link>
+      <pubDate>Tue, 07 Nov 2023 15:41:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's Normal: New uses of DNS, Discovery of Designated Resolvers (DDR), (Tue, Nov 7th)</title>
+      <link>https://isc.sans.edu/diary/rss/30380</link>
+      <pubDate>Tue, 07 Nov 2023 15:38:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bipartisan bill aims to have wide impact on federal surveillance efforts</title>
+      <link>https://therecord.media/bipartisan-legislation-congress-renew-overhaul-surveillance-section-702</link>
+      <pubDate>Tue, 07 Nov 2023 15:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New BlueNoroff Malware Variant Targets Cryptocurrency Exchanges</title>
+      <link>https://www.infosecurity-magazine.com/news/bluenoroff-malware-targets/</link>
+      <pubDate>Tue, 07 Nov 2023 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IT Pros in Australian Crypto Need to Brace for Regulation</title>
+      <link>https://www.techrepublic.com/article/crypto-regulations-australia/</link>
+      <pubDate>Tue, 07 Nov 2023 14:37:07 +0000</pubDate>
+    </item>
     <item>
       <title>NIST’s security transformation: How to keep up</title>
       <link>https://securityintelligence.com/articles/nist-security-transformation-how-to-keep-up/</link>
       <pubDate>Tue, 07 Nov 2023 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>N. Korea's BlueNoroff Blamed for Hacking macOS Machines with ObjCShellz Malware</title>
+      <link>https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html</link>
+      <pubDate>Tue, 07 Nov 2023 13:58:00 +0000</pubDate>
     </item>
     <item>
       <title>Ukraine at D+621: Infiltration tactics require a trained force.</title>
@@ -23,7 +63,7 @@
       <pubDate>Tue, 07 Nov 2023 13:25:47 +0000</pubDate>
     </item>
     <item>
-      <title>ThreatDown: A new chapter for Malwarebytes</title>
+      <title>Introducing ThreatDown: A new chapter for Malwarebytes</title>
       <link>https://www.malwarebytes.com/blog/news/2023/11/threatdown-a-new-chapter-for-malwarebytes</link>
       <pubDate>Tue, 07 Nov 2023 13:00:00 +0000</pubDate>
     </item>
@@ -46,6 +86,16 @@
       <title>Spaf on the Morris Worm</title>
       <link>https://www.schneier.com/blog/archives/2023/11/spaf-on-the-morris-worm.html</link>
       <pubDate>Tue, 07 Nov 2023 12:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases One Industrial Control Systems Advisory</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory</link>
+      <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>“Agent of Betrayal, FBI Spy Robert Hanssen” – with CBS’ Major Garrett and Friends</title>
@@ -83,8 +133,23 @@
       <pubDate>Tue, 07 Nov 2023 10:21:00 +0000</pubDate>
     </item>
     <item>
+      <title>Breaking down data silos for digital success</title>
+      <link>https://www.cio.com/article/657969/breaking-down-data-silos-for-digital-success.html</link>
+      <pubDate>Tue, 07 Nov 2023 10:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The CIO’s fatal flaw: Too much leadership, not enough management</title>
+      <link>https://www.cio.com/article/657973/the-cios-fatal-flaw-too-much-leadership-not-enough-management.html</link>
+      <pubDate>Tue, 07 Nov 2023 10:01:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SIM Box Fraud to Drive 700% Surge in Roaming Scams</title>
       <link>https://www.infosecurity-magazine.com/news/sim-box-fraud-700-surg-roaming/</link>
+      <pubDate>Tue, 07 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is Kyndryl? IBM’s managed infrastructure services spin-off explained</title>
+      <link>https://www.cio.com/article/189224/what-is-kyndryl-ibms-managed-infrastructure-services-spin-off-explained.html</link>
       <pubDate>Tue, 07 Nov 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
@@ -131,11 +196,6 @@
       <title>Critical Flaws Discovered in Veeam ONE IT Monitoring Software – Patch Now</title>
       <link>https://thehackernews.com/2023/11/critical-flaws-discovered-in-veeam-one.html</link>
       <pubDate>Tue, 07 Nov 2023 05:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Landscape During the Holidays &amp; Michael Francess Member Spotlight</title>
-      <link>https://thecyberwire.com/podcasts/rh-isac/39/notes</link>
-      <pubDate>Tue, 07 Nov 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Sam Bankman-Fried trial is over. What happens now?</title>
@@ -196,11 +256,6 @@
       <title>Iran-linked hackers attack Israeli education and tech organizations</title>
       <link>https://therecord.media/iran-linked-hackers-target-israel-education-tech-sectors</link>
       <pubDate>Mon, 06 Nov 2023 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers spot an increase in Jupyter infostealer infections</title>
-      <link>https://therecord.media/jupyter-infostealer-increase-infections-education-healthcare</link>
-      <pubDate>Mon, 06 Nov 2023 20:39:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical Confluence flaw exploited in ransomware attacks</title>
@@ -451,61 +506,6 @@
       <title>Free Template: Essential Eight Compliance Questionnaire | UpGuard</title>
       <link>https://www.upguard.com/blog/free-template-essential-eight-compliance-questionnaire</link>
       <pubDate>Fri, 03 Nov 2023 21:39:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Roundup for October 27 to November 3</title>
-      <link>https://blog.talosintelligence.com/threat-roundup-1027-1103/</link>
-      <pubDate>Fri, 03 Nov 2023 21:15:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Eating Dancing Squid</title>
-      <link>https://www.schneier.com/blog/archives/2023/11/friday-squid-blogging-eating-dancing-squid.html</link>
-      <pubDate>Fri, 03 Nov 2023 21:05:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free GDPR Vendor Security Questionnaire Template (2024 Edition) | UpGuard</title>
-      <link>https://www.upguard.com/blog/gdpr-vendor-security-questionnaire-template</link>
-      <pubDate>Fri, 03 Nov 2023 20:34:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free SolarWinds Vendor Questionnaire Template (2024 Edition) | UpGuard</title>
-      <link>https://www.upguard.com/blog/solarwinds-vendor-questionnaire-template</link>
-      <pubDate>Fri, 03 Nov 2023 20:33:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free Template: NIST 800-53 Security Standard Questionnaire | UpGuard</title>
-      <link>https://www.upguard.com/blog/template-nist-800-53-security-standard-questionnaire</link>
-      <pubDate>Fri, 03 Nov 2023 20:33:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>In the offense-defense see-saw, the defense seems to be rising.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1941/notes</link>
-      <pubDate>Fri, 03 Nov 2023 20:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Solution Spotlight: Simone Petrella and Rick Howard speaking with Ben Rothke about "Is there really an information security jobs crisis?"</title>
-      <link>https://thecyberwire.com/podcasts/interview-selects/184/notes</link>
-      <pubDate>Fri, 03 Nov 2023 20:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EleKtra-Leak Campaign Uses AWS Cloud Keys Found on Public GitHub Repositories to Run Cryptomining Operation</title>
-      <link>https://www.techrepublic.com/article/elektra-leak-aws-cloud-keys-crytomining/</link>
-      <pubDate>Fri, 03 Nov 2023 19:31:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is a VPN? Definition, How It Works, and More</title>
-      <link>https://www.techrepublic.com/article/what-is-vpn/</link>
-      <pubDate>Fri, 03 Nov 2023 18:39:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating data exfiltration…</title>
-      <link>https://news.sophos.com/en-us/2023/11/03/investigating-data-exfiltration/</link>
-      <pubDate>Fri, 03 Nov 2023 17:09:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>First handset with MTE on the market</title>
-      <link>https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html</link>
-      <pubDate>Fri, 03 Nov 2023 17:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
