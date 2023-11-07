@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Nov 2023 12:29:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2023 14:14:03 +0000</lastBuildDate>
+    <item>
+      <title>NIST’s security transformation: How to keep up</title>
+      <link>https://securityintelligence.com/articles/nist-security-transformation-how-to-keep-up/</link>
+      <pubDate>Tue, 07 Nov 2023 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+621: Infiltration tactics require a trained force.</title>
+      <link>https://thecyberwire.com/stories/90d050eff8fd4c4ba81010ff286fbb49/ukraine-at-d621</link>
+      <pubDate>Tue, 07 Nov 2023 13:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2023-22518 Detection: Exploitation of a New Critical Vulnerability in Atlassian Confluence Leads to Cerber Ransomware Deployment</title>
+      <link>https://socprime.com/blog/cve-2023-22518-detection-exploitation-of-a-new-critical-vulnerability-in-atlassian-confluence-leads-to-cerber-ransomware-deployment/</link>
+      <pubDate>Tue, 07 Nov 2023 13:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatDown: A new chapter for Malwarebytes</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/11/threatdown-a-new-chapter-for-malwarebytes</link>
+      <pubDate>Tue, 07 Nov 2023 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navigating Cyber Challenges: Biden's AI Executive Order, Ransomware Attack on German Municipalities</title>
+      <link>https://blog.eclecticiq.com/navigating-cyber-challenges-bidens-ai-executive-order-ransomware-attack-on-german-municipalities</link>
+      <pubDate>Tue, 07 Nov 2023 12:55:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK government fails to bring forward promised cyber laws in King’s Speech</title>
+      <link>https://therecord.media/cyber-laws-uk-kings-speech-2023</link>
+      <pubDate>Tue, 07 Nov 2023 12:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New GootLoader Malware Variant Evades Detection and Spreads Rapidly</title>
+      <link>https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html</link>
+      <pubDate>Tue, 07 Nov 2023 12:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>Spaf on the Morris Worm</title>
       <link>https://www.schneier.com/blog/archives/2023/11/spaf-on-the-morris-worm.html</link>
@@ -16,6 +51,11 @@
       <title>“Agent of Betrayal, FBI Spy Robert Hanssen” – with CBS’ Major Garrett and Friends</title>
       <link>https://thecyberwire.com/podcasts/spycast/610/notes</link>
       <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Confidence in File Upload Security is Alarmingly Low. Why?</title>
+      <link>https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html</link>
+      <pubDate>Tue, 07 Nov 2023 11:56:00 +0000</pubDate>
     </item>
     <item>
       <title>Veeam fixed multiple flaws in Veeam ONE, including critical issues</title>
@@ -43,23 +83,8 @@
       <pubDate>Tue, 07 Nov 2023 10:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>Breaking down data silos for digital success</title>
-      <link>https://www.cio.com/article/657969/breaking-down-data-silos-for-digital-success.html</link>
-      <pubDate>Tue, 07 Nov 2023 10:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The CIO’s fatal flaw: Too much leadership, not enough management</title>
-      <link>https://www.cio.com/article/657973/the-cios-fatal-flaw-too-much-leadership-not-enough-management.html</link>
-      <pubDate>Tue, 07 Nov 2023 10:01:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SIM Box Fraud to Drive 700% Surge in Roaming Scams</title>
       <link>https://www.infosecurity-magazine.com/news/sim-box-fraud-700-surg-roaming/</link>
-      <pubDate>Tue, 07 Nov 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is Kyndryl? IBM’s managed infrastructure services spin-off explained</title>
-      <link>https://www.cio.com/article/189224/what-is-kyndryl-ibms-managed-infrastructure-services-spin-off-explained.html</link>
       <pubDate>Tue, 07 Nov 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
@@ -178,11 +203,6 @@
       <pubDate>Mon, 06 Nov 2023 20:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>Palo Alto Networks to acquire Israeli enterprise browser security firm Talon</title>
-      <link>https://therecord.media/palo-alto-talon-acquisition</link>
-      <pubDate>Mon, 06 Nov 2023 19:40:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Critical Confluence flaw exploited in ransomware attacks</title>
       <link>https://securityaffairs.com/153732/security/confluence-flaw-ransomware-attacks.html</link>
       <pubDate>Mon, 06 Nov 2023 19:09:38 +0000</pubDate>
@@ -291,11 +311,6 @@
       <title>Iranian Hackers Launch Destructive Cyber Attacks on Israeli Tech and Education Sectors</title>
       <link>https://thehackernews.com/2023/11/iranian-hackers-launches-destructive.html</link>
       <pubDate>Mon, 06 Nov 2023 10:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navigating the security and privacy challenges of large language models</title>
-      <link>https://www.welivesecurity.com/en/business-security/security-privacy-challenges-large-language-models/</link>
-      <pubDate>Mon, 06 Nov 2023 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Defeating Little Brother requires a new outlook on privacy: Lock and Code S04E23</title>
@@ -491,21 +506,6 @@
       <title>First handset with MTE on the market</title>
       <link>https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html</link>
       <pubDate>Fri, 03 Nov 2023 17:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache ActiveMQ vulnerability used in ransomware attacks</title>
-      <link>https://www.malwarebytes.com/blog/business/2023/11/apache-activemq-vulnerability-used-in-ransomware-attacks</link>
-      <pubDate>Fri, 03 Nov 2023 16:41:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI can drive efficiencies in your supply chain</title>
-      <link>https://www.cio.com/article/658689/how-ai-can-drive-efficiencies-in-your-supply-chain.html</link>
-      <pubDate>Fri, 03 Nov 2023 15:27:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pervasive OSINT and a shift toward a defensive advantage.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/12/211</link>
-      <pubDate>Fri, 03 Nov 2023 15:26:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
