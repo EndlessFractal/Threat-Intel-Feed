@@ -39,6 +39,7 @@ The script retrieves feeds from the following sources:
 - [Cloudflare Security Blog](https://blog.cloudflare.com/tag/security/rss)
 - [CrowdStrike Blog](https://www.crowdstrike.com/blog/feed)
 - [Darknet Blog](https://www.darknet.org.uk/feed/)
+- [DataBreachToday](https://www.databreachtoday.com/rss-feeds)
 - [EclecticIQ Blog](https://blog.eclecticiq.com/rss.xml)
 - [ESET Blog](https://blog.eset.com/feed)
 - [Fortinet Threat Research Blog](https://feeds.fortinet.com/fortinet/blog/threat-research)
