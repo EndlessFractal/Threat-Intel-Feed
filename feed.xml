@@ -6,11 +6,66 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Nov 2023 10:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 12:29:30 +0000</lastBuildDate>
+    <item>
+      <title>Decoupling for Security</title>
+      <link>https://www.schneier.com/blog/archives/2023/11/decoupling-for-security.html</link>
+      <pubDate>Wed, 08 Nov 2023 12:08:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Rules for Digital Identities and Trust Services Face Backlash</title>
+      <link>https://www.infosecurity-magazine.com/news/eu-eidas-face-backlash-mozilla/</link>
+      <pubDate>Wed, 08 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QNAP warns about critical vulnerabilities in NAS systems</title>
+      <link>https://www.malwarebytes.com/blog/exploits-and-vulnerabilities/2023/11/qnap-warns-about-critical-vulnerabilities-in-nas-systems</link>
+      <pubDate>Wed, 08 Nov 2023 11:34:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get 3 Years of Rock-Solid Protection With Surfshark VPN for $67.20 by 11/9</title>
+      <link>https://www.techrepublic.com/article/surfshark-vpn/</link>
+      <pubDate>Wed, 08 Nov 2023 11:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide: How vCISOs, MSPs and MSSPs Can Keep their Customers Safe from Gen AI Risks</title>
+      <link>https://thehackernews.com/2023/11/guide-how-vcisos-msps-and-mssps-can.html</link>
+      <pubDate>Wed, 08 Nov 2023 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Urges Critical Infrastructure Firms to Get “Shields Ready”</title>
+      <link>https://www.infosecurity-magazine.com/news/us-critical-infrastructure-firms/</link>
+      <pubDate>Wed, 08 Nov 2023 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cancer treatments cancelled after Canadian hospitals hit by ransomware attack</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/cancer-treatments-cancelled-after-canadian-hospitals-hit-by-ransomware-attack/</link>
+      <pubDate>Wed, 08 Nov 2023 10:17:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Many CIOs are better equipped to combat rising IT costs. Are you?</title>
+      <link>https://www.cio.com/article/657885/many-cios-are-better-equipped-to-combat-rising-it-costs-are-you.html</link>
+      <pubDate>Wed, 08 Nov 2023 10:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>Three-Quarters of Retail Ransomware Attacks End in Encryption</title>
       <link>https://www.infosecurity-magazine.com/news/threequarters-retail-ransomware/</link>
       <pubDate>Wed, 08 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New US CIO appointments, November 2023</title>
+      <link>https://www.cio.com/article/230613/new-cio-appointments.html</link>
+      <pubDate>Wed, 08 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Principal Financial unifies IT to lay foundation for growth</title>
+      <link>https://www.cio.com/article/1155594/principal-financial-unifies-it-to-lay-foundation-for-growth.html</link>
+      <pubDate>Wed, 08 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How a tech model at Univeris fosters team building with empathy</title>
+      <link>https://www.cio.com/article/658705/how-a-tech-model-at-univeris-fosters-team-building-with-empathy.html</link>
+      <pubDate>Wed, 08 Nov 2023 09:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actor Farnetwork Linked to Five Ransomware Schemes</title>
@@ -418,11 +473,6 @@
       <pubDate>Mon, 06 Nov 2023 17:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>Automatic Conditional Access policies in Microsoft Entra streamline identity protection</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2023/11/06/automatic-conditional-access-policies-in-microsoft-entra-streamline-identity-protection/</link>
-      <pubDate>Mon, 06 Nov 2023 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Russian National Sanctioned For Virtual Currency Money Laundering</title>
       <link>https://www.infosecurity-magazine.com/news/russian-sanctioned-virtual-money/</link>
       <pubDate>Mon, 06 Nov 2023 17:00:00 +0000</pubDate>
@@ -443,11 +493,6 @@
       <pubDate>Mon, 06 Nov 2023 16:07:20 +0000</pubDate>
     </item>
     <item>
-      <title>US, Japan and South Korea Unite to Counter North Korean Cyber Activities</title>
-      <link>https://www.infosecurity-magazine.com/news/us-japan-south-korea-north-korea/</link>
-      <pubDate>Mon, 06 Nov 2023 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Okta security incident: assessments.</title>
       <link>https://thecyberwire.com/stories/0169f2be171a4c4894c31d013121f2e5/the-okta-security-incident-assessments</link>
       <pubDate>Mon, 06 Nov 2023 14:59:49 +0000</pubDate>
@@ -461,51 +506,6 @@
       <title>QNAP fixed two critical vulnerabilities in QTS OS and apps</title>
       <link>https://securityaffairs.com/153714/security/qnap-command-injection-flaws.html</link>
       <pubDate>Mon, 06 Nov 2023 14:27:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>SecuriDropper: New Android Dropper-as-a-Service Bypasses Google's Defenses</title>
-      <link>https://thehackernews.com/2023/11/securidropper-new-android-dropper-as.html</link>
-      <pubDate>Mon, 06 Nov 2023 14:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major US mortgage lender sustains cyberattack.</title>
-      <link>https://thecyberwire.com/stories/883443f1ae584cb0a97d8fd73d8ebe1d/major-us-mortgage-lender-sustains-cyberattack</link>
-      <pubDate>Mon, 06 Nov 2023 14:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Firewall v20 is now available</title>
-      <link>https://news.sophos.com/en-us/2023/11/06/sophos-firewall-v20-is-now-available/</link>
-      <pubDate>Mon, 06 Nov 2023 14:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who’s Behind the SWAT USA Reshipping Service?</title>
-      <link>https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/</link>
-      <pubDate>Mon, 06 Nov 2023 13:51:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploit Activity for CVE-2023-22518, Atlassian Confluence Data Center and Server, (Mon, Nov 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/30376</link>
-      <pubDate>Mon, 06 Nov 2023 13:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over Half of Users Report Kubernetes/Container Security Incidents</title>
-      <link>https://www.infosecurity-magazine.com/news/half-users-kubernetescontainer/</link>
-      <pubDate>Mon, 06 Nov 2023 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine at D+620: Influence discipline.</title>
-      <link>https://thecyberwire.com/stories/5d816e02fc0a46438bc679c93489449d/ukraine-at-d620</link>
-      <pubDate>Mon, 06 Nov 2023 12:54:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Published When to Issue VEX Information</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information</link>
-      <pubDate>Mon, 06 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers use Google Calendar RAT to abuse Calendar service as C2 infrastructure</title>
-      <link>https://securityaffairs.com/153700/hacking/google-calendar-rat-attacks.html</link>
-      <pubDate>Mon, 06 Nov 2023 11:27:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
