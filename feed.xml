@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 18:19:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 20:16:31 +0000</lastBuildDate>
+    <item>
+      <title>High Traffic + High Vulnerability = an Attractive Target for Criminals: The Dangers of Viewing Clickbait Sites</title>
+      <link>https://unit42.paloaltonetworks.com/dangers-of-clickbait-sites/</link>
+      <pubDate>Thu, 09 Nov 2023 20:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>NATO allies express support for collective response to cyberattacks</title>
+      <link>https://therecord.media/nato-cyber-defence-summit-collective-response</link>
+      <pubDate>Thu, 09 Nov 2023 19:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SentinelOne to acquire cybersecurity consulting firm Krebs Stamos Group</title>
+      <link>https://therecord.media/sentinelone-to-acquire-krebs-stamos-group</link>
+      <pubDate>Thu, 09 Nov 2023 19:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new video series, Google Forms spam and the various gray areas of cyber attacks</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-nov-9-23/</link>
+      <pubDate>Thu, 09 Nov 2023 19:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Sandworm disrupts power in Ukraine with a new OT attack</title>
+      <link>https://securityaffairs.com/153920/apt/russian-sandworm-ot-attacks.html</link>
+      <pubDate>Thu, 09 Nov 2023 18:58:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Roundup for November 3 to November 10</title>
+      <link>https://blog.talosintelligence.com/threat-roundup-1103-1110/</link>
+      <pubDate>Thu, 09 Nov 2023 18:32:56 +0000</pubDate>
+    </item>
     <item>
       <title>Iranian Charming Kitten hackers targeted Israeli organizations in October</title>
       <link>https://therecord.media/charming-kitten-targeted-israel-cyberattacks</link>
@@ -63,19 +93,9 @@
       <pubDate>Thu, 09 Nov 2023 16:07:10 +0000</pubDate>
     </item>
     <item>
-      <title>Ukraine energy facility took unique Sandworm hit on day of missile strikes, report says</title>
-      <link>https://therecord.media/sandworm-attack-ukraine-energy-facility-missile-strikes</link>
-      <pubDate>Thu, 09 Nov 2023 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Cloud’s Cybersecurity Trends to Watch in 2024 Include Generative AI-Based Attacks</title>
       <link>https://www.techrepublic.com/article/state-of-cybersecurity-2024/</link>
       <pubDate>Thu, 09 Nov 2023 15:52:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biden AI order could lead to reforms in how federal agencies work with data brokers</title>
-      <link>https://therecord.media/biden-ai-order-reform-federal-data-collection</link>
-      <pubDate>Thu, 09 Nov 2023 15:45:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA, FEMA, and Shields Ready.</title>
@@ -180,6 +200,11 @@
     <item>
       <title>Johnson Controls Quantum HD Unity</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-313-01</link>
+      <pubDate>Thu, 09 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain</link>
       <pubDate>Thu, 09 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -481,31 +506,6 @@
       <title>Royal Mail jeopardizes users with open redirect flaw</title>
       <link>https://securityaffairs.com/153851/security/royal-mail-jeopardizes-users.html</link>
       <pubDate>Wed, 08 Nov 2023 08:37:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea-linked APT BlueNoroff used new macOS malware ObjCShellz</title>
-      <link>https://securityaffairs.com/153842/apt/bluenoroff-apt-objcshellz-macos-malware.html</link>
-      <pubDate>Wed, 08 Nov 2023 08:11:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Distribution of LockBit Ransomware and Vidar Infostealer Disguised as Resumes</title>
-      <link>https://asec.ahnlab.com/en/58750/</link>
-      <pubDate>Wed, 08 Nov 2023 08:02:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts Expose Farnetwork's Ransomware-as-a-Service Business Model</title>
-      <link>https://thehackernews.com/2023/11/experts-expose-farnetworks-ransomware.html</link>
-      <pubDate>Wed, 08 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warning Against Phobos Ransomware Distributed via Vulnerable RDP</title>
-      <link>https://asec.ahnlab.com/en/58753/</link>
-      <pubDate>Wed, 08 Nov 2023 07:33:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Example of Phishing Campaign Project File, (Wed, Nov 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/30384</link>
-      <pubDate>Wed, 08 Nov 2023 06:37:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
