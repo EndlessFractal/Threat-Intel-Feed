@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 10:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 12:29:27 +0000</lastBuildDate>
+    <item>
+      <title>Online Retail Hack</title>
+      <link>https://www.schneier.com/blog/archives/2023/11/online-retail-hack.html</link>
+      <pubDate>Thu, 09 Nov 2023 12:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The largest Russian bank Sberbank hit by a massive DDoS attack</title>
+      <link>https://securityaffairs.com/153888/hacking/russian-bank-sberbank-massive-ddos-attack.html</link>
+      <pubDate>Thu, 09 Nov 2023 10:54:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Email Security Meets SaaS Security: Uncovering Risky Auto-Forwarding Rules</title>
+      <link>https://thehackernews.com/2023/11/when-email-security-meets-saas-security.html</link>
+      <pubDate>Thu, 09 Nov 2023 10:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MuddyC2Go: New C2 Framework Iranian Hackers Using Against Israel</title>
+      <link>https://thehackernews.com/2023/11/muddyc2go-new-c2-framework-iranian.html</link>
+      <pubDate>Thu, 09 Nov 2023 10:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Reveals ChatGPT Is Being DDoS-ed</title>
+      <link>https://www.infosecurity-magazine.com/news/openai-reveals-chatgpt-is-being/</link>
+      <pubDate>Thu, 09 Nov 2023 10:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chief AI officer: What it takes to land the C-suite’s hottest new job</title>
       <link>https://www.cio.com/article/657977/chief-ai-officer-what-it-takes-to-land-the-c-suites-hottest-new-job.html</link>
@@ -131,6 +156,11 @@
       <title>Identifying Group Policy attacks</title>
       <link>https://news.sophos.com/en-us/2023/11/08/identifying-group-policy-attacks/</link>
       <pubDate>Wed, 08 Nov 2023 17:19:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insights from Microsoft Security Copilot early adopters</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/11/08/insights-from-microsoft-security-copilot-early-adopters/</link>
+      <pubDate>Wed, 08 Nov 2023 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Warns of Election Threats in 2024</title>
@@ -443,11 +473,6 @@
       <pubDate>Tue, 07 Nov 2023 15:38:58 +0000</pubDate>
     </item>
     <item>
-      <title>New BlueNoroff Malware Variant Targets Cryptocurrency Exchanges</title>
-      <link>https://www.infosecurity-magazine.com/news/bluenoroff-malware-targets/</link>
-      <pubDate>Tue, 07 Nov 2023 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>IT Pros in Australian Crypto Need to Brace for Regulation</title>
       <link>https://www.techrepublic.com/article/crypto-regulations-australia/</link>
       <pubDate>Tue, 07 Nov 2023 14:37:07 +0000</pubDate>
@@ -481,31 +506,6 @@
       <title>Navigating Cyber Challenges: Biden's AI Executive Order, Ransomware Attack on German Municipalities</title>
       <link>https://blog.eclecticiq.com/navigating-cyber-challenges-bidens-ai-executive-order-ransomware-attack-on-german-municipalities</link>
       <pubDate>Tue, 07 Nov 2023 12:55:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>New GootLoader Malware Variant Evades Detection and Spreads Rapidly</title>
-      <link>https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html</link>
-      <pubDate>Tue, 07 Nov 2023 12:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spaf on the Morris Worm</title>
-      <link>https://www.schneier.com/blog/archives/2023/11/spaf-on-the-morris-worm.html</link>
-      <pubDate>Tue, 07 Nov 2023 12:08:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>GE MiCOM S1 Agile</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-311-01</link>
-      <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966</link>
-      <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory</link>
-      <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
