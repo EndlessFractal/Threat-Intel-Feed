@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Nov 2023 14:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2023 16:18:25 +0000</lastBuildDate>
     <item>
       <title>Microsoft Warns of Fake Skills Assessment Portals Targeting IT Job Seekers</title>
       <link>https://thehackernews.com/2023/11/microsoft-warns-of-fake-skills.html</link>
@@ -76,6 +76,11 @@
       <title>Washington State Department of Transportation working to recover from cyberattack</title>
       <link>https://therecord.media/washington-state-department-of-transportation-recovering-from-cyberattack</link>
       <pubDate>Fri, 10 Nov 2023 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spyware disguised as a news app – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/spyware-news-app-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 10 Nov 2023 15:42:48 +0000</pubDate>
     </item>
     <item>
       <title>GitHub Universe: Open Source Trends Report and New AI Security Products</title>
@@ -211,6 +216,11 @@
       <title>How to Automate Cyber Vendor Risk Management (Cyber VRM) | UpGuard</title>
       <link>https://www.upguard.com/blog/how-to-automate-cyber-vendor-risk-management</link>
       <pubDate>Fri, 10 Nov 2023 10:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber threat intelligence: Getting on the front foot against adversaries</title>
+      <link>https://www.welivesecurity.com/en/business-security/cyber-threat-intelligence-getting-front-foot-adversaries/</link>
+      <pubDate>Fri, 10 Nov 2023 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>The Role of Software in Vendor Risk Management Products | UpGuard</title>
@@ -496,16 +506,6 @@
       <title>Online Retail Hack</title>
       <link>https://www.schneier.com/blog/archives/2023/11/online-retail-hack.html</link>
       <pubDate>Thu, 09 Nov 2023 12:09:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft shares threat intelligence at CYBERWARCON 2023</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2023/11/09/microsoft-shares-threat-intelligence-at-cyberwarcon-2023/</link>
-      <pubDate>Thu, 09 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy eSOMS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-313-02</link>
-      <pubDate>Thu, 09 Nov 2023 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
