@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 16:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 18:17:07 +0000</lastBuildDate>
     <item>
       <title>Ransomware Roundup – NoEscape</title>
       <link>https://feeds.fortinet.com/~/832559699/0/fortinet/blog/threat-research~Ransomware-Roundup-%e2%80%93-NoEscape</link>
       <pubDate>Tue, 14 Nov 2023 17:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Speaking Engagements</title>
+      <link>https://www.schneier.com/blog/archives/2023/11/upcoming-speaking-engagements-32.html</link>
+      <pubDate>Tue, 14 Nov 2023 17:01:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Python Package Index Faces Security Crisis With Validated Leaks</title>
+      <link>https://www.infosecurity-magazine.com/news/pypi-security-crisis-validated/</link>
+      <pubDate>Tue, 14 Nov 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber-espionage operation on embassies linked to Russia’s Cozy Bear hackers</title>
+      <link>https://therecord.media/cyber-espionage-campaign-embassies-apt29-cozy-bear</link>
+      <pubDate>Tue, 14 Nov 2023 16:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>82% of Attacks Show Cyber-Criminals Targeting Telemetry Data</title>
+      <link>https://www.infosecurity-magazine.com/news/82-of-attacks-target-telemetry-data/</link>
+      <pubDate>Tue, 14 Nov 2023 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack on North Carolina county allowed hackers to access data</title>
+      <link>https://therecord.media/north-carolina-county-cyberattack-national-guard-called-in</link>
+      <pubDate>Tue, 14 Nov 2023 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerabilities and the cyber gangs who exploit them.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/217</link>
+      <pubDate>Tue, 14 Nov 2023 16:21:13 +0000</pubDate>
     </item>
     <item>
       <title>What is code-to-cloud security intelligence?</title>
@@ -38,7 +68,7 @@
       <pubDate>Tue, 14 Nov 2023 13:55:40 +0000</pubDate>
     </item>
     <item>
-      <title>FBI Takedown: IPStorm and Botnet Infrastructure Dismantled</title>
+      <title>FBI Takedown: IPStorm Botnet Infrastructure Dismantled</title>
       <link>https://intezer.com/blog/research/a-storm-is-brewing-ipstorm-now-has-linux-malware/</link>
       <pubDate>Tue, 14 Nov 2023 13:15:12 +0000</pubDate>
     </item>
@@ -51,6 +81,26 @@
       <title>How .tk Became a TLD for Scammers</title>
       <link>https://www.schneier.com/blog/archives/2023/11/how-tk-became-a-tld-for-scammers.html</link>
       <pubDate>Tue, 14 Nov 2023 12:06:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVEVA Operations Control Logger</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-318-01</link>
+      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation SIS Workstation and ISaGRAF Workbench</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-318-02</link>
+      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Roadmap for Artificial Intelligence Adoption</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-roadmap-artificial-intelligence-adoption</link>
+      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>“My Father the Navajo Code-Talker” – with Laura Tohe</title>
@@ -103,7 +153,7 @@
       <pubDate>Tue, 14 Nov 2023 10:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>10 cloud strategy questions every IT leader must answer</title>
+      <title>9 cloud strategy questions every IT leader must answer</title>
       <link>https://www.cio.com/article/1246009/10-cloud-strategy-questions-every-it-leader-must-answer.html</link>
       <pubDate>Tue, 14 Nov 2023 10:01:00 +0000</pubDate>
     </item>
@@ -168,6 +218,31 @@
       <pubDate>Tue, 14 Nov 2023 00:19:00 +0000</pubDate>
     </item>
     <item>
+      <title>Free Template: ISA/IEC 62443-3-3 Questionnaire | UpGuard</title>
+      <link>https://www.upguard.com/blog/free-template-isa-iec-62443-3-3-questionnaire</link>
+      <pubDate>Tue, 14 Nov 2023 00:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Free Kaseya Vendor Security Questionnaire Template (2024 Edition) | UpGuard</title>
+      <link>https://www.upguard.com/blog/kaseya-questionnaire-template</link>
+      <pubDate>Tue, 14 Nov 2023 00:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your WordPress Data Exposure Risks | UpGuard</title>
+      <link>https://www.upguard.com/blog/wordpress-risks</link>
+      <pubDate>Tue, 14 Nov 2023 00:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Free Template: COBIT 5 Framework Questionnaire | UpGuard</title>
+      <link>https://www.upguard.com/blog/free-template-cobit-5-questionnaire</link>
+      <pubDate>Tue, 14 Nov 2023 00:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing UpGuard's New SIG Lite Questionnaire | UpGuard</title>
+      <link>https://www.upguard.com/blog/sig-lite-launch</link>
+      <pubDate>Tue, 14 Nov 2023 00:11:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Noticing command and control channels by reviewing DNS protocols, (Mon, Nov 13th)</title>
       <link>https://isc.sans.edu/diary/rss/30396</link>
       <pubDate>Tue, 14 Nov 2023 00:01:25 +0000</pubDate>
@@ -203,11 +278,6 @@
       <pubDate>Mon, 13 Nov 2023 23:10:47 +0000</pubDate>
     </item>
     <item>
-      <title>Free Kaseya Vendor Security Questionnaire Template (2024 Edition) | UpGuard</title>
-      <link>https://www.upguard.com/blog/kaseya-questionnaire-template</link>
-      <pubDate>Mon, 13 Nov 2023 22:11:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Free Infrastructure Security Questionnaire Template (2024 Edition) | UpGuard</title>
       <link>https://www.upguard.com/blog/infrastructure-security-questionnaire-template</link>
       <pubDate>Mon, 13 Nov 2023 22:11:01 +0000</pubDate>
@@ -223,11 +293,6 @@
       <pubDate>Mon, 13 Nov 2023 21:58:05 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware attack on Ohio city impacts multiple services</title>
-      <link>https://therecord.media/huber-heights-ohio-ransomware-attack</link>
-      <pubDate>Mon, 13 Nov 2023 21:58:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The network is your office intelligence center</title>
       <link>https://www.cio.com/article/1246926/the-network-is-your-office-intelligence-center.html</link>
       <pubDate>Mon, 13 Nov 2023 21:29:34 +0000</pubDate>
@@ -238,19 +303,9 @@
       <pubDate>Mon, 13 Nov 2023 21:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Boeing investigating leaked data after LockBit allegedly publishes stolen info</title>
-      <link>https://therecord.media/boeing-investigating-leaked-lockbit-data</link>
-      <pubDate>Mon, 13 Nov 2023 20:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA adds five vulnerabilities in Juniper devices to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/154128/security/cisa-juniper-flaws-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Mon, 13 Nov 2023 18:48:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your WordPress Data Exposure Risks | UpGuard</title>
-      <link>https://www.upguard.com/blog/wordpress-risks</link>
-      <pubDate>Mon, 13 Nov 2023 18:15:11 +0000</pubDate>
     </item>
     <item>
       <title>Free Physical and Data Center Security Questionnaire Template | UpGuard</title>
@@ -451,61 +506,6 @@
       <title>2023 Sep – Deep Web and Dark Web Threat Trend Report</title>
       <link>https://asec.ahnlab.com/en/59016/</link>
       <pubDate>Mon, 13 Nov 2023 01:41:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Lorenz ransomware group hit Texas-based Cogdell Memorial Hospital</title>
-      <link>https://securityaffairs.com/154101/data-breach/the-lorenz-ransomware-group-hit-texas-based-cogdell-memorial-hospital.html</link>
-      <pubDate>Sun, 12 Nov 2023 22:33:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian Nonprofit Cyber Security Is So Poor It Might Be Affecting Donations</title>
-      <link>https://www.techrepublic.com/article/australia-poor-nfp-cybersecurity/</link>
-      <pubDate>Sun, 12 Nov 2023 22:01:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veterans Day Special.</title>
-      <link>https://thecyberwire.com/stories/fa745f711e5540a6969ae1be66b86152/veterans-day-special</link>
-      <pubDate>Sun, 12 Nov 2023 20:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of Maine disclosed a data breach that impacted 1.3M people</title>
-      <link>https://securityaffairs.com/154066/data-breach/state-of-maine-data-breach.html</link>
-      <pubDate>Sun, 12 Nov 2023 15:07:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Insurance Roundup: What’s Happening Now?</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cyber-insurance-roundup-whats-happening-now</link>
-      <pubDate>Sun, 12 Nov 2023 10:35:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 445 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/154056/breaking-news/security-affairs-newsletter-round-445-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 12 Nov 2023 07:45:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Private UK health data donated for medical research shared with insurance companies</title>
-      <link>https://www.theguardian.com/technology/2023/nov/12/private-uk-health-data-donated-medical-research-shared-insurance-companies</link>
-      <pubDate>Sun, 12 Nov 2023 07:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grace Cassy: Actions speak louder than words. [Associate Fellow]</title>
-      <link>https://thecyberwire.com/podcasts/career-notes/175/notes</link>
-      <pubDate>Sun, 12 Nov 2023 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 373</title>
-      <link>https://www.troyhunt.com/weekly-update-373/</link>
-      <pubDate>Sat, 11 Nov 2023 22:43:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s Still Easy for Anyone to Become You at Experian</title>
-      <link>https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/</link>
-      <pubDate>Sat, 11 Nov 2023 17:59:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police seized BulletProftLink phishing-as-a-service (PhaaS) platform</title>
-      <link>https://securityaffairs.com/154041/cyber-crime/bulletproftlink-phaas-platform-seized.html</link>
-      <pubDate>Sat, 11 Nov 2023 17:24:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
