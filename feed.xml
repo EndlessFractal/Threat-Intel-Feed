@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 01:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 02:25:05 +0000</lastBuildDate>
+    <item>
+      <title>CISA, FBI warn that Royal ransomware gang may rebrand as ‘BlackSuit’</title>
+      <link>https://therecord.media/cisa-fbi-warn-royal-ransomware-gang-rebrands-blacksuit</link>
+      <pubDate>Tue, 14 Nov 2023 01:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>LNK Files Distributed Through Breached Legitimate Websites (Detected by EDR)</title>
       <link>https://asec.ahnlab.com/en/58919/</link>
@@ -16,6 +21,11 @@
       <title>Ddostf DDoS Bot Malware Attacking MySQL Servers</title>
       <link>https://asec.ahnlab.com/en/58878/</link>
       <pubDate>Tue, 14 Nov 2023 00:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noticing command and control channels by reviewing DNS protocols, (Mon, Nov 13th)</title>
+      <link>https://isc.sans.edu/diary/rss/30396</link>
+      <pubDate>Tue, 14 Nov 2023 00:01:25 +0000</pubDate>
     </item>
     <item>
       <title>Cyber incident reports hit ‘all-time high,’ warns UK NCSC</title>
@@ -81,11 +91,6 @@
       <title>Crooks leverage Google quiz messages as part of bitcoin scam</title>
       <link>https://therecord.media/cryptocurrency-scam-uses-google-quiz-messages</link>
       <pubDate>Mon, 13 Nov 2023 20:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian banking tech giant Moneris says it prevented ransomware attack</title>
-      <link>https://therecord.media/moneris-canada-ransomware-attack-prevented</link>
-      <pubDate>Mon, 13 Nov 2023 19:30:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA adds five vulnerabilities in Juniper devices to its Known Exploited Vulnerabilities catalog</title>
@@ -501,11 +506,6 @@
       <title>How to Implement a Vendor Risk Management Program | UpGuard</title>
       <link>https://www.upguard.com/blog/vendor-risk-management-program</link>
       <pubDate>Fri, 10 Nov 2023 10:35:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Vendor Risk Management is Critical for Businesses in India | UpGuard</title>
-      <link>https://www.upguard.com/blog/importance-of-vrm-for-indian-businesses</link>
-      <pubDate>Fri, 10 Nov 2023 10:35:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
