@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 12:29:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 14:14:45 +0000</lastBuildDate>
+    <item>
+      <title>The evolution of ransomware: Lessons for the future</title>
+      <link>https://securityintelligence.com/posts/the-evolution-of-ransomware-lessons/</link>
+      <pubDate>Tue, 14 Nov 2023 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Credit card skimming on the rise for the holiday shopping season</title>
+      <link>https://www.malwarebytes.com/blog/threat-intelligence/2023/11/credit-card-skimming-on-the-rise-for-the-holiday-shopping-season</link>
+      <pubDate>Tue, 14 Nov 2023 13:55:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Takedown: IPStorm and Botnet Infrastructure Dismantled</title>
+      <link>https://intezer.com/blog/research/a-storm-is-brewing-ipstorm-now-has-linux-malware/</link>
+      <pubDate>Tue, 14 Nov 2023 13:15:12 +0000</pubDate>
+    </item>
     <item>
       <title>How .tk Became a TLD for Scammers</title>
       <link>https://www.schneier.com/blog/archives/2023/11/how-tk-became-a-tld-for-scammers.html</link>
@@ -16,6 +31,16 @@
       <title>“My Father the Navajo Code-Talker” – with Laura Tohe</title>
       <link>https://thecyberwire.com/podcasts/spycast/611/notes</link>
       <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Importance of Continuous Security Monitoring for a Robust Cybersecurity Strategy</title>
+      <link>https://thehackernews.com/2023/11/the-importance-of-continuous-security.html</link>
+      <pubDate>Tue, 14 Nov 2023 11:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alert: OracleIV DDoS Botnet Targets Public Docker Engine APIs to Hijack Containers</title>
+      <link>https://thehackernews.com/2023/11/alert-oracleiv-ddos-botnet-targets.html</link>
+      <pubDate>Tue, 14 Nov 2023 11:54:00 +0000</pubDate>
     </item>
     <item>
       <title>CI/CD Risks: Protecting Your Software Development Pipelines</title>
@@ -28,11 +53,6 @@
       <pubDate>Tue, 14 Nov 2023 11:32:37 +0000</pubDate>
     </item>
     <item>
-      <title>New Active Adversary Defense capabilities with Sophos Firewall, Sophos XDR, and Sophos NDR</title>
-      <link>https://news.sophos.com/en-us/2023/11/14/new-active-adversary-defense-capabilities-with-sophos-firewall-sophos-xdr-and-sophos-ndr/</link>
-      <pubDate>Tue, 14 Nov 2023 11:29:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Remcos RAT Detection: UAC-0050 Hackers Launch Phishing Attacks Impersonating the Security Service of Ukraine</title>
       <link>https://socprime.com/blog/remcos-rat-detection-uac-0050-hackers-launch-phishing-attacks-impersonating-the-security-service-of-ukraine/</link>
       <pubDate>Tue, 14 Nov 2023 11:26:31 +0000</pubDate>
@@ -41,6 +61,11 @@
       <title>The Song Remains the Same: The 2023 Active Adversary Report for Security Practitioners</title>
       <link>https://news.sophos.com/en-us/2023/11/14/active-adversary-for-security-practitioners/</link>
       <pubDate>Tue, 14 Nov 2023 11:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Active Adversary Defense capabilities with Sophos Firewall, Sophos XDR, and Sophos NDR</title>
+      <link>https://news.sophos.com/en-us/2023/11/14/new-active-adversary-defense-capabilities-with-sophos-firewall-sophos-xdr-and-sophos-ndr/</link>
+      <pubDate>Tue, 14 Nov 2023 10:59:29 +0000</pubDate>
     </item>
     <item>
       <title>Pro-Palestine APT Group Uses Novel Downloader in New Campaign</title>
@@ -103,11 +128,6 @@
       <pubDate>Tue, 14 Nov 2023 02:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>CISA, FBI warn that Royal ransomware gang may rebrand as ‘BlackSuit’</title>
-      <link>https://therecord.media/cisa-fbi-warn-royal-ransomware-gang-rebrands-blacksuit</link>
-      <pubDate>Tue, 14 Nov 2023 01:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>LNK Files Distributed Through Breached Legitimate Websites (Detected by EDR)</title>
       <link>https://asec.ahnlab.com/en/58919/</link>
       <pubDate>Tue, 14 Nov 2023 00:52:29 +0000</pubDate>
@@ -121,11 +141,6 @@
       <title>Noticing command and control channels by reviewing DNS protocols, (Mon, Nov 13th)</title>
       <link>https://isc.sans.edu/diary/rss/30396</link>
       <pubDate>Tue, 14 Nov 2023 00:01:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber incident reports hit ‘all-time high,’ warns UK NCSC</title>
-      <link>https://therecord.media/uk-cyber-incident-reports-all-time-high</link>
-      <pubDate>Tue, 14 Nov 2023 00:01:00 +0000</pubDate>
     </item>
     <item>
       <title>Bringing together DevOps and mainframe security</title>
@@ -168,24 +183,9 @@
       <pubDate>Mon, 13 Nov 2023 21:58:05 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware attack on Ohio city impacts multiple services</title>
-      <link>https://therecord.media/huber-heights-ohio-ransomware-attack</link>
-      <pubDate>Mon, 13 Nov 2023 21:58:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransomware and DDoS hit diverse sectors. The DDoS is a nuisance, the ransomware more serious.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1946/notes</link>
       <pubDate>Mon, 13 Nov 2023 21:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boeing investigating leaked data after LockBit allegedly publishes stolen info</title>
-      <link>https://therecord.media/boeing-investigating-leaked-lockbit-data</link>
-      <pubDate>Mon, 13 Nov 2023 20:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crooks leverage Google quiz messages as part of bitcoin scam</title>
-      <link>https://therecord.media/cryptocurrency-scam-uses-google-quiz-messages</link>
-      <pubDate>Mon, 13 Nov 2023 20:22:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA adds five vulnerabilities in Juniper devices to its Known Exploited Vulnerabilities catalog</title>
