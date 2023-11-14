@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 14:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 16:17:02 +0000</lastBuildDate>
+    <item>
+      <title>Ransomware Roundup – NoEscape</title>
+      <link>https://feeds.fortinet.com/~/832559699/0/fortinet/blog/threat-research~Ransomware-Roundup-%e2%80%93-NoEscape</link>
+      <pubDate>Tue, 14 Nov 2023 17:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is code-to-cloud security intelligence?</title>
+      <link>https://www.cio.com/article/1247057/what-is-code-to-cloud-security-intelligence.html</link>
+      <pubDate>Tue, 14 Nov 2023 15:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+268: Poor narrative control.</title>
+      <link>https://thecyberwire.com/stories/5d449a509b7a42b5851e64bb42646669/ukraine-at-d268</link>
+      <pubDate>Tue, 14 Nov 2023 14:47:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>C3RB3R Ransomware | Ongoing Exploitation of CVE-2023-22518 Targets Unpatched Confluence Servers</title>
+      <link>https://www.sentinelone.com/blog/c3rb3r-ransomware-ongoing-exploitation-of-cve-2023-22518-targets-unpatched-confluence-servers/</link>
+      <pubDate>Tue, 14 Nov 2023 14:40:15 +0000</pubDate>
+    </item>
     <item>
       <title>The evolution of ransomware: Lessons for the future</title>
       <link>https://securityintelligence.com/posts/the-evolution-of-ransomware-lessons/</link>
@@ -21,6 +41,11 @@
       <title>FBI Takedown: IPStorm and Botnet Infrastructure Dismantled</title>
       <link>https://intezer.com/blog/research/a-storm-is-brewing-ipstorm-now-has-linux-malware/</link>
       <pubDate>Tue, 14 Nov 2023 13:15:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>NY governor wants new cybersecurity rules for hospitals after multiple attacks</title>
+      <link>https://therecord.media/new-york-state-hospital-cybersecurity-regulations-proposed</link>
+      <pubDate>Tue, 14 Nov 2023 12:30:00 +0000</pubDate>
     </item>
     <item>
       <title>How .tk Became a TLD for Scammers</title>
@@ -128,6 +153,11 @@
       <pubDate>Tue, 14 Nov 2023 02:00:01 +0000</pubDate>
     </item>
     <item>
+      <title>CISA, FBI warn that Royal ransomware gang may rebrand as ‘BlackSuit’</title>
+      <link>https://therecord.media/cisa-fbi-warn-royal-ransomware-gang-rebrands-blacksuit</link>
+      <pubDate>Tue, 14 Nov 2023 01:15:00 +0000</pubDate>
+    </item>
+    <item>
       <title>LNK Files Distributed Through Breached Legitimate Websites (Detected by EDR)</title>
       <link>https://asec.ahnlab.com/en/58919/</link>
       <pubDate>Tue, 14 Nov 2023 00:52:29 +0000</pubDate>
@@ -141,6 +171,16 @@
       <title>Noticing command and control channels by reviewing DNS protocols, (Mon, Nov 13th)</title>
       <link>https://isc.sans.edu/diary/rss/30396</link>
       <pubDate>Tue, 14 Nov 2023 00:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber incident reports hit ‘all-time high,’ warns UK NCSC</title>
+      <link>https://therecord.media/uk-cyber-incident-reports-all-time-high</link>
+      <pubDate>Tue, 14 Nov 2023 00:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving Automation and Accessibility Drive $100 Billion in Projected Ad Fraud Losses</title>
+      <link>https://www.recordedfuture.com/improving-automation-accessibility-drive-ad-fraud-losses</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bringing together DevOps and mainframe security</title>
@@ -183,9 +223,24 @@
       <pubDate>Mon, 13 Nov 2023 21:58:05 +0000</pubDate>
     </item>
     <item>
+      <title>Ransomware attack on Ohio city impacts multiple services</title>
+      <link>https://therecord.media/huber-heights-ohio-ransomware-attack</link>
+      <pubDate>Mon, 13 Nov 2023 21:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The network is your office intelligence center</title>
+      <link>https://www.cio.com/article/1246926/the-network-is-your-office-intelligence-center.html</link>
+      <pubDate>Mon, 13 Nov 2023 21:29:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransomware and DDoS hit diverse sectors. The DDoS is a nuisance, the ransomware more serious.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1946/notes</link>
       <pubDate>Mon, 13 Nov 2023 21:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boeing investigating leaked data after LockBit allegedly publishes stolen info</title>
+      <link>https://therecord.media/boeing-investigating-leaked-lockbit-data</link>
+      <pubDate>Mon, 13 Nov 2023 20:45:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA adds five vulnerabilities in Juniper devices to its Known Exploited Vulnerabilities catalog</title>
@@ -316,11 +371,6 @@
       <title>EU Formalizes Cybersecurity Support For Ukraine</title>
       <link>https://www.infosecurity-magazine.com/news/eu-formalizes-cybersecurity/</link>
       <pubDate>Mon, 13 Nov 2023 10:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capture The Flag: 5 websites to sharpen your hacking skills</title>
-      <link>https://www.welivesecurity.com/en/secure-coding/capture-flag-5-websites-sharpen-hacking-skills/</link>
-      <pubDate>Mon, 13 Nov 2023 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>12 strategic tips CIOs can learn from tech vendor CTOs</title>
@@ -456,56 +506,6 @@
       <title>Police seized BulletProftLink phishing-as-a-service (PhaaS) platform</title>
       <link>https://securityaffairs.com/154041/cyber-crime/bulletproftlink-phaas-platform-seized.html</link>
       <pubDate>Sat, 11 Nov 2023 17:24:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Warns of Fake Skills Assessment Portals Targeting IT Job Seekers</title>
-      <link>https://thehackernews.com/2023/11/microsoft-warns-of-fake-skills.html</link>
-      <pubDate>Sat, 11 Nov 2023 13:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serbian pleads guilty to running ‘Monopoly’ dark web drug market</title>
-      <link>https://securityaffairs.com/154033/cyber-crime/monopoly-market-admin-plead-guilty.html</link>
-      <pubDate>Sat, 11 Nov 2023 07:06:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber phases of hybrid wars remain opportunistic, but some signs of combined arms ops emerge.</title>
-      <link>https://thecyberwire.com/newsletters/week-that-was/7/43</link>
-      <pubDate>Sat, 11 Nov 2023 05:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Same threats, different ransomware</title>
-      <link>https://news.sophos.com/en-us/2023/11/10/vice-society-and-rhysida-ransomware/</link>
-      <pubDate>Sat, 11 Nov 2023 02:47:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supply Chain Resilience: Creating an Effective Risk Management Plan | UpGuard</title>
-      <link>https://www.upguard.com/blog/supply-chain-resilience</link>
-      <pubDate>Sat, 11 Nov 2023 00:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: The History and Morality of US Squid Consumption</title>
-      <link>https://www.schneier.com/blog/archives/2023/11/friday-squid-blogging-the-history-and-morality-of-us-squid-consumption.html</link>
-      <pubDate>Fri, 10 Nov 2023 22:04:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft and SysAid Find Clop Malware Vulnerability</title>
-      <link>https://www.techrepublic.com/article/sysaid-clop-malware-vulnerability-exploitation/</link>
-      <pubDate>Fri, 10 Nov 2023 20:18:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best Mac Password Managers for 2023</title>
-      <link>https://www.techrepublic.com/article/best-password-manager-mac-and-ios/</link>
-      <pubDate>Fri, 10 Nov 2023 18:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Use a VPN: 4 Easy Steps to Get Started</title>
-      <link>https://www.techrepublic.com/article/how-to-use-vpn/</link>
-      <pubDate>Fri, 10 Nov 2023 18:24:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is a VPN Worth It? Benefits and Choosing the Best VPN</title>
-      <link>https://www.techrepublic.com/article/is-vpn-worth-it/</link>
-      <pubDate>Fri, 10 Nov 2023 18:22:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
