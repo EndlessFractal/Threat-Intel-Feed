@@ -6,7 +6,72 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 14:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 16:21:13 +0000</lastBuildDate>
+    <item>
+      <title>Cyberespionage services sort themselves out during a time of hybrid war.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/218</link>
+      <pubDate>Wed, 15 Nov 2023 16:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOC Prime Threat Bounty Digest — October 2023 Results</title>
+      <link>https://socprime.com/blog/soc-prime-threat-bounty-digest-october-2023-results/</link>
+      <pubDate>Wed, 15 Nov 2023 16:10:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Ignite 2023: 11 takeaways for CIOs</title>
+      <link>https://www.cio.com/article/1247207/microsoft-ignite-2023-11-takeaways-for-cios.html</link>
+      <pubDate>Wed, 15 Nov 2023 16:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new and stronger entity: Versuni transforms its company – and technology</title>
+      <link>https://www.cio.com/article/1247267/a-new-and-stronger-entity-versuni-transforms-its-company-and-technology.html</link>
+      <pubDate>Wed, 15 Nov 2023 16:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privacy watchdog chair Sharon Bradford Franklin on the fraught surveillance renewal debate</title>
+      <link>https://therecord.media/privacy-watchdog-chair-qa-sbf</link>
+      <pubDate>Wed, 15 Nov 2023 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Takes Down IPStorm Botnet, Russian-Moldovan Mastermind Pleads Guilty</title>
+      <link>https://thehackernews.com/2023/11/us-takes-down-ipstorm-botnet-russian.html</link>
+      <pubDate>Wed, 15 Nov 2023 15:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel patches high-severity vulnerability affecting central processing units</title>
+      <link>https://therecord.media/intel-patches-vulnerability-affecting-cpus</link>
+      <pubDate>Wed, 15 Nov 2023 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical flaw fixed in SAP Business One product</title>
+      <link>https://securityaffairs.com/154215/security/business-one-product-critical-flaw.html</link>
+      <pubDate>Wed, 15 Nov 2023 15:13:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+269: Cyberespionage, and a tech exit.</title>
+      <link>https://thecyberwire.com/stories/f67c60f8646547a4b101a3c8fec2e696/ukraine-at-d269</link>
+      <pubDate>Wed, 15 Nov 2023 14:48:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chairman of House cybersecurity panel wants to overturn SEC disclosure rules</title>
+      <link>https://therecord.media/rep-andrew-garbarino-legislation-to-overturn-sec-cyber-disclosure-rules</link>
+      <pubDate>Wed, 15 Nov 2023 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackCat Ransomware Gang Targets Businesses Via Google Ads</title>
+      <link>https://www.infosecurity-magazine.com/news/alphvblackcat-targets-businesses/</link>
+      <pubDate>Wed, 15 Nov 2023 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK National Cyber Force operations to become ‘more embedded’ with policing</title>
+      <link>https://therecord.media/uk-ncf-more-embedded-policing-gen-sir-jim-hockenhull-interview</link>
+      <pubDate>Wed, 15 Nov 2023 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aspen Cyber Summit 2023 — Live Coverage</title>
+      <link>https://therecord.media/aspen-cyber-summit-live-coverage-2023</link>
+      <pubDate>Wed, 15 Nov 2023 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pentesting vs. Pentesting as a Service: Which is better?</title>
       <link>https://securityintelligence.com/articles/pentesting-vs-pentesting-as-a-service/</link>
@@ -18,9 +83,14 @@
       <pubDate>Wed, 15 Nov 2023 13:55:23 +0000</pubDate>
     </item>
     <item>
-      <title>Critical systems restored at English council following ransomware attack</title>
-      <link>https://therecord.media/st-helens-borough-council-cyberattack-systems-restored</link>
-      <pubDate>Wed, 15 Nov 2023 13:45:00 +0000</pubDate>
+      <title>New PoC Exploit for Apache ActiveMQ Flaw Could Let Attackers Fly Under the Radar</title>
+      <link>https://thehackernews.com/2023/11/new-poc-exploit-for-apache-activemq.html</link>
+      <pubDate>Wed, 15 Nov 2023 13:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware</link>
+      <pubDate>Wed, 15 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Law enforcement agencies dismantled the illegal botnet proxy service IPStorm</title>
@@ -258,21 +328,6 @@
       <pubDate>Wed, 15 Nov 2023 04:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA adds three Microsoft Patch Tuesday bugs to vulnerability list</title>
-      <link>https://therecord.media/cisa-adds-three-microsoft-vulnerabilities-to-bug-catalog</link>
-      <pubDate>Wed, 15 Nov 2023 04:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nearly two dozen Danish energy companies hacked through firewall bug in May</title>
-      <link>https://therecord.media/danish-energy-companies-hacked-firewall-bug</link>
-      <pubDate>Wed, 15 Nov 2023 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FCC proposes cybersecurity pilot program for schools, libraries as attacks increase</title>
-      <link>https://therecord.media/fcc-pilot-program-schools-libraries</link>
-      <pubDate>Wed, 15 Nov 2023 04:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The SysAid Zero-Day Vulnerability: CVE-2023-47246 | UpGuard</title>
       <link>https://www.upguard.com/blog/sysaid-0-day-2023</link>
       <pubDate>Wed, 15 Nov 2023 02:13:15 +0000</pubDate>
@@ -281,6 +336,11 @@
       <title>ISC Stormcast For Wednesday, November 15th, 2023 https://isc.sans.edu/podcastdetail/8746, (Wed, Nov 15th)</title>
       <link>https://isc.sans.edu/diary/rss/30402</link>
       <pubDate>Wed, 15 Nov 2023 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Art of Defending Your Attack Surface</title>
+      <link>https://www.recordedfuture.com/art-defending-your-attack-surface</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Top 5 Security Misconfigurations Causing Data Breaches in 2023 | UpGuard</title>
@@ -383,11 +443,6 @@
       <pubDate>Tue, 14 Nov 2023 19:00:42 +0000</pubDate>
     </item>
     <item>
-      <title>Tom Tugendhat criticizes fake AI attempts to ‘besmirch’ Keir Starmer and Sadiq Khan</title>
-      <link>https://therecord.media/tom-tugendhat-uk-fake-ai-attempts-against-politicians</link>
-      <pubDate>Tue, 14 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Patch Tuesday November 2023, (Tue, Nov 14th)</title>
       <link>https://isc.sans.edu/diary/rss/30400</link>
       <pubDate>Tue, 14 Nov 2023 18:42:33 +0000</pubDate>
@@ -423,6 +478,11 @@
       <pubDate>Tue, 14 Nov 2023 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>#StopRansomware: Rhysida Ransomware</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-319a</link>
+      <pubDate>Tue, 14 Nov 2023 16:41:07 +0000</pubDate>
+    </item>
+    <item>
       <title>82% of Attacks Show Cyber-Criminals Targeting Telemetry Data</title>
       <link>https://www.infosecurity-magazine.com/news/82-of-attacks-target-telemetry-data/</link>
       <pubDate>Tue, 14 Nov 2023 16:30:00 +0000</pubDate>
@@ -446,66 +506,6 @@
       <title>C3RB3R Ransomware | Ongoing Exploitation of CVE-2023-22518 Targets Unpatched Confluence Servers</title>
       <link>https://www.sentinelone.com/blog/c3rb3r-ransomware-ongoing-exploitation-of-cve-2023-22518-targets-unpatched-confluence-servers/</link>
       <pubDate>Tue, 14 Nov 2023 14:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>The evolution of ransomware: Lessons for the future</title>
-      <link>https://securityintelligence.com/posts/the-evolution-of-ransomware-lessons/</link>
-      <pubDate>Tue, 14 Nov 2023 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Credit card skimming on the rise for the holiday shopping season</title>
-      <link>https://www.malwarebytes.com/blog/threat-intelligence/2023/11/credit-card-skimming-on-the-rise-for-the-holiday-shopping-season</link>
-      <pubDate>Tue, 14 Nov 2023 13:55:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Takedown: IPStorm Botnet Infrastructure Dismantled</title>
-      <link>https://intezer.com/blog/research/a-storm-is-brewing-ipstorm-now-has-linux-malware/</link>
-      <pubDate>Tue, 14 Nov 2023 13:15:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>How .tk Became a TLD for Scammers</title>
-      <link>https://www.schneier.com/blog/archives/2023/11/how-tk-became-a-tld-for-scammers.html</link>
-      <pubDate>Tue, 14 Nov 2023 12:06:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>AVEVA Operations Control Logger</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-318-01</link>
-      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation SIS Workstation and ISaGRAF Workbench</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-318-02</link>
-      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Releases Security Updates for FortiClient and FortiGate</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate</link>
-      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Roadmap for Artificial Intelligence Adoption</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-roadmap-artificial-intelligence-adoption</link>
-      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases October 2023 Security Updates</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/14/microsoft-releases-october-2023-security-updates</link>
-      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware Releases Security Update for Cloud Director Appliance</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance</link>
-      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/14/adobe-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
