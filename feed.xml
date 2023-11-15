@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 18:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 20:16:41 +0000</lastBuildDate>
+    <item>
+      <title>CISA's Goldstein: Ukrainian response to Viasat hack proves need for redundancy, resilience</title>
+      <link>https://therecord.media/cisa-goldstein-ukrainian-response-to-viasat-hack-proves-need-for-redundancy</link>
+      <pubDate>Wed, 15 Nov 2023 19:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NSA's Joyce: Israel faces 'enormous amount of cyber pressure' from Iran, hacktivists</title>
+      <link>https://therecord.media/nsa-rob-joyce-israel-faces-enormous-cyber-pressure-hacktivists-iran</link>
+      <pubDate>Wed, 15 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New SSH Vulnerability</title>
       <link>https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html</link>
@@ -43,6 +53,11 @@
       <pubDate>Wed, 15 Nov 2023 16:02:42 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft unveils expansion of AI for security and security for AI at Microsoft Ignite</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/11/15/microsoft-unveils-expansion-of-ai-for-security-and-security-for-ai-at-microsoft-ignite/</link>
+      <pubDate>Wed, 15 Nov 2023 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Privacy watchdog chair Sharon Bradford Franklin on the fraught surveillance renewal debate</title>
       <link>https://therecord.media/privacy-watchdog-chair-qa-sbf</link>
       <pubDate>Wed, 15 Nov 2023 15:45:00 +0000</pubDate>
@@ -68,19 +83,9 @@
       <pubDate>Wed, 15 Nov 2023 14:48:41 +0000</pubDate>
     </item>
     <item>
-      <title>Chairman of House cybersecurity panel wants to overturn SEC disclosure rules</title>
-      <link>https://therecord.media/rep-andrew-garbarino-legislation-to-overturn-sec-cyber-disclosure-rules</link>
-      <pubDate>Wed, 15 Nov 2023 14:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>BlackCat Ransomware Gang Targets Businesses Via Google Ads</title>
       <link>https://www.infosecurity-magazine.com/news/alphvblackcat-targets-businesses/</link>
       <pubDate>Wed, 15 Nov 2023 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aspen Cyber Summit 2023 — Live Coverage</title>
-      <link>https://therecord.media/aspen-cyber-summit-live-coverage-2023</link>
-      <pubDate>Wed, 15 Nov 2023 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pentesting vs. Pentesting as a Service: Which is better?</title>
@@ -501,11 +506,6 @@
       <title>Vulnerabilities and the cyber gangs who exploit them.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/12/217</link>
       <pubDate>Tue, 14 Nov 2023 16:21:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is code-to-cloud security intelligence?</title>
-      <link>https://www.cio.com/article/1247057/what-is-code-to-cloud-security-intelligence.html</link>
-      <pubDate>Tue, 14 Nov 2023 15:52:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
