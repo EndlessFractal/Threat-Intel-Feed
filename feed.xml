@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 12:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 14:14:49 +0000</lastBuildDate>
+    <item>
+      <title>Pentesting vs. Pentesting as a Service: Which is better?</title>
+      <link>https://securityintelligence.com/articles/pentesting-vs-pentesting-as-a-service/</link>
+      <pubDate>Wed, 15 Nov 2023 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hidden Vulnerabilities | Effective Third-Party Risk Management in the Age of Supply Chain Attacks</title>
+      <link>https://www.sentinelone.com/blog/hidden-vulnerabilities-effective-third-party-risk-management-in-the-age-of-supply-chain-attacks/</link>
+      <pubDate>Wed, 15 Nov 2023 13:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical systems restored at English council following ransomware attack</title>
+      <link>https://therecord.media/st-helens-borough-council-cyberattack-systems-restored</link>
+      <pubDate>Wed, 15 Nov 2023 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Law enforcement agencies dismantled the illegal botnet proxy service IPStorm</title>
+      <link>https://securityaffairs.com/154201/cyber-crime/law-enforcement-ipstorm-botnet.html</link>
+      <pubDate>Wed, 15 Nov 2023 11:09:40 +0000</pubDate>
+    </item>
     <item>
       <title>Port disruption and a discussion of maritime and OT.</title>
       <link>https://thecyberwire.com/podcasts/control-loop/38/notes</link>
@@ -43,6 +63,11 @@
       <pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Gamblers’ data compromised after casino giant Strendus fails to set password</title>
+      <link>https://securityaffairs.com/154169/security/gamblers-data-compromised-after-casino-giant-strendus-fails-to-set-password.html</link>
+      <pubDate>Wed, 15 Nov 2023 09:35:36 +0000</pubDate>
+    </item>
+    <item>
       <title>US Dismantles IPStorm Botnet Proxy Service</title>
       <link>https://www.infosecurity-magazine.com/news/us-dismantles-ipstorm-botnet-proxy/</link>
       <pubDate>Wed, 15 Nov 2023 09:30:00 +0000</pubDate>
@@ -71,6 +96,11 @@
       <title>Acuity Who? Attempts and Failures to Attribute 437GB of Breached Data</title>
       <link>https://www.troyhunt.com/acuity-who-attempts-and-failures-to-attribute-437gb-of-breached-data/</link>
       <pubDate>Wed, 15 Nov 2023 07:22:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware disclosed a critical and unpatched authentication bypass flaw in VMware Cloud Director Appliance</title>
+      <link>https://securityaffairs.com/154182/security/vmware-cloud-director-appliance-critical-flaw.html</link>
+      <pubDate>Wed, 15 Nov 2023 07:15:01 +0000</pubDate>
     </item>
     <item>
       <title>Free Template: Vendor Post-Data Breach Questionnaire (2023) | UpGuard</title>
@@ -293,6 +323,11 @@
       <pubDate>Tue, 14 Nov 2023 22:42:05 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Patch Tuesday security updates fixed 3 actively exploited flaws</title>
+      <link>https://securityaffairs.com/154175/security/microsoft-patch-tuesday-security-updates-nov-2023.html</link>
+      <pubDate>Tue, 14 Nov 2023 22:12:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Red Hat: UK Leads Europe in IT Automation, But Key Challenges Persist</title>
       <link>https://www.techrepublic.com/article/uk-businesses-it-automation-red-hat-survey/</link>
       <pubDate>Tue, 14 Nov 2023 21:45:52 +0000</pubDate>
@@ -316,6 +351,11 @@
       <title>Free Infrastructure Security Questionnaire Template (2024 Edition) | UpGuard</title>
       <link>https://www.upguard.com/blog/infrastructure-security-questionnaire-template</link>
       <pubDate>Tue, 14 Nov 2023 20:54:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Danish critical infrastructure hit by the largest cyber attack in Denmark’s history</title>
+      <link>https://securityaffairs.com/154156/apt/denmark-critical-infrastructure-record-attacks.html</link>
+      <pubDate>Tue, 14 Nov 2023 20:30:05 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft discloses only three critical vulnerabilities in November’s Patch Tuesday update, three other zero-days</title>
@@ -361,11 +401,6 @@
       <title>How 5G is driving big innovations in healthcare for veterans</title>
       <link>https://www.cio.com/article/1247095/how-5g-is-driving-big-innovations-in-healthcare-for-veterans.html</link>
       <pubDate>Tue, 14 Nov 2023 18:36:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI takes down IPStorm malware botnet as hacker behind it pleads guilty</title>
-      <link>https://therecord.media/fbi-takes-down-ipstorm-malware-botnet</link>
-      <pubDate>Tue, 14 Nov 2023 18:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Vulnerability Prioritization: Severity Does Not Mean Priority</title>
@@ -471,41 +506,6 @@
       <title>Adobe Releases Security Updates for Multiple Products</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/11/14/adobe-releases-security-updates-multiple-products</link>
       <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-two-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“My Father the Navajo Code-Talker” – with Laura Tohe</title>
-      <link>https://thecyberwire.com/podcasts/spycast/611/notes</link>
-      <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Importance of Continuous Security Monitoring for a Robust Cybersecurity Strategy</title>
-      <link>https://thehackernews.com/2023/11/the-importance-of-continuous-security.html</link>
-      <pubDate>Tue, 14 Nov 2023 11:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alert: OracleIV DDoS Botnet Targets Public Docker Engine APIs to Hijack Containers</title>
-      <link>https://thehackernews.com/2023/11/alert-oracleiv-ddos-botnet-targets.html</link>
-      <pubDate>Tue, 14 Nov 2023 11:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CI/CD Risks: Protecting Your Software Development Pipelines</title>
-      <link>https://thehackernews.com/2023/11/cicd-risks-protecting-your-software.html</link>
-      <pubDate>Tue, 14 Nov 2023 11:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remcos RAT Detection: UAC-0050 Hackers Launch Phishing Attacks Impersonating the Security Service of Ukraine</title>
-      <link>https://socprime.com/blog/remcos-rat-detection-uac-0050-hackers-launch-phishing-attacks-impersonating-the-security-service-of-ukraine/</link>
-      <pubDate>Tue, 14 Nov 2023 11:26:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Song Remains the Same: The 2023 Active Adversary Report for Security Practitioners</title>
-      <link>https://news.sophos.com/en-us/2023/11/14/active-adversary-for-security-practitioners/</link>
-      <pubDate>Tue, 14 Nov 2023 11:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
