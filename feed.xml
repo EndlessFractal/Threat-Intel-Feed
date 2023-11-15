@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 10:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 12:30:49 +0000</lastBuildDate>
+    <item>
+      <title>Port disruption and a discussion of maritime and OT.</title>
+      <link>https://thecyberwire.com/podcasts/control-loop/38/notes</link>
+      <pubDate>Wed, 15 Nov 2023 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three Ways Varonis Helps You Fight Insider Threats</title>
+      <link>https://thehackernews.com/2023/11/three-ways-varonis-helps-you-fight.html</link>
+      <pubDate>Wed, 15 Nov 2023 10:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Privacy Regulator Issues Black Friday Smart Device Warning</title>
+      <link>https://www.infosecurity-magazine.com/news/regulator-black-friday-smart/</link>
+      <pubDate>Wed, 15 Nov 2023 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CIO as enabler: Building an ecosystem of innovation partners</title>
+      <link>https://www.cio.com/article/1246969/cio-as-enabler-building-an-ecosystem-of-innovation-partners.html</link>
+      <pubDate>Wed, 15 Nov 2023 10:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Fixes Five Zero-Day Vulnerabilities</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-fixes-five-zeroday/</link>
       <pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gamblers’ data compromised after casino giant Strendus fails to set password</title>
-      <link>https://securityaffairs.com/154169/security/gamblers-data-compromised-after-casino-giant-strendus-fails-to-set-password.html</link>
-      <pubDate>Wed, 15 Nov 2023 09:35:36 +0000</pubDate>
+      <title>How ServiceNow gets the most out of generative AI</title>
+      <link>https://www.cio.com/article/1247210/how-servicenow-gets-the-most-out-of-generative-ai.html</link>
+      <pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We’re all becoming software CIOs — a role Red Hat CIO Jim Palermo knows well</title>
+      <link>https://www.cio.com/article/1246035/were-all-becoming-software-cios-a-role-red-hat-cio-jim-palermo-knows-well.html</link>
+      <pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>US Dismantles IPStorm Botnet Proxy Service</title>
@@ -46,11 +71,6 @@
       <title>Acuity Who? Attempts and Failures to Attribute 437GB of Breached Data</title>
       <link>https://www.troyhunt.com/acuity-who-attempts-and-failures-to-attribute-437gb-of-breached-data/</link>
       <pubDate>Wed, 15 Nov 2023 07:22:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware disclosed a critical and unpatched authentication bypass flaw in VMware Cloud Director Appliance</title>
-      <link>https://securityaffairs.com/154182/security/vmware-cloud-director-appliance-critical-flaw.html</link>
-      <pubDate>Wed, 15 Nov 2023 07:15:01 +0000</pubDate>
     </item>
     <item>
       <title>Free Template: Vendor Post-Data Breach Questionnaire (2023) | UpGuard</title>
@@ -273,11 +293,6 @@
       <pubDate>Tue, 14 Nov 2023 22:42:05 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Patch Tuesday security updates fixed 3 actively exploited flaws</title>
-      <link>https://securityaffairs.com/154175/security/microsoft-patch-tuesday-security-updates-nov-2023.html</link>
-      <pubDate>Tue, 14 Nov 2023 22:12:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Red Hat: UK Leads Europe in IT Automation, But Key Challenges Persist</title>
       <link>https://www.techrepublic.com/article/uk-businesses-it-automation-red-hat-survey/</link>
       <pubDate>Tue, 14 Nov 2023 21:45:52 +0000</pubDate>
@@ -301,11 +316,6 @@
       <title>Free Infrastructure Security Questionnaire Template (2024 Edition) | UpGuard</title>
       <link>https://www.upguard.com/blog/infrastructure-security-questionnaire-template</link>
       <pubDate>Tue, 14 Nov 2023 20:54:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Danish critical infrastructure hit by the largest cyber attack in Denmark’s history</title>
-      <link>https://securityaffairs.com/154156/apt/denmark-critical-infrastructure-record-attacks.html</link>
-      <pubDate>Tue, 14 Nov 2023 20:30:05 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft discloses only three critical vulnerabilities in November’s Patch Tuesday update, three other zero-days</title>
@@ -488,11 +498,6 @@
       <pubDate>Tue, 14 Nov 2023 11:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>Major Australian ports blocked after a cyber attack on DP World</title>
-      <link>https://securityaffairs.com/154145/cyber-crime/dp-world-australian-ports-blocked.html</link>
-      <pubDate>Tue, 14 Nov 2023 11:32:37 +0000</pubDate>
-    </item>
-    <item>
       <title>Remcos RAT Detection: UAC-0050 Hackers Launch Phishing Attacks Impersonating the Security Service of Ukraine</title>
       <link>https://socprime.com/blog/remcos-rat-detection-uac-0050-hackers-launch-phishing-attacks-impersonating-the-security-service-of-ukraine/</link>
       <pubDate>Tue, 14 Nov 2023 11:26:31 +0000</pubDate>
@@ -501,11 +506,6 @@
       <title>The Song Remains the Same: The 2023 Active Adversary Report for Security Practitioners</title>
       <link>https://news.sophos.com/en-us/2023/11/14/active-adversary-for-security-practitioners/</link>
       <pubDate>Tue, 14 Nov 2023 11:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Active Adversary Defense capabilities with Sophos Firewall, Sophos XDR, and Sophos NDR</title>
-      <link>https://news.sophos.com/en-us/2023/11/14/new-active-adversary-defense-capabilities-with-sophos-firewall-sophos-xdr-and-sophos-ndr/</link>
-      <pubDate>Tue, 14 Nov 2023 10:59:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
