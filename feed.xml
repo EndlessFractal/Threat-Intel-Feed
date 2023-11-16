@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 14:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 16:21:43 +0000</lastBuildDate>
+    <item>
+      <title>Vietnam Post exposes 1.2TB of data, including email addresses</title>
+      <link>https://securityaffairs.com/154271/data-breach/vietnam-post-data-leak.html</link>
+      <pubDate>Thu, 16 Nov 2023 15:26:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polish court discovers secret cryptomining rigs hidden throughout building</title>
+      <link>https://therecord.media/cryptomining-in-polish-courthouse-warsaw</link>
+      <pubDate>Thu, 16 Nov 2023 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian and Czech police bust $9 million bank fraud gang</title>
+      <link>https://therecord.media/bank-fraud-vishing-arrests-ukraine-czechia</link>
+      <pubDate>Thu, 16 Nov 2023 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nov 2023 Cybercrime Update | LLMs, Ransomware and Destructive Wipers Proliferate in Recent Attacks</title>
+      <link>https://www.sentinelone.com/blog/nov-2023-cybercrime-update-llms-ransomware-and-destructive-wipers-proliferate-in-recent-attacks/</link>
+      <pubDate>Thu, 16 Nov 2023 14:34:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alarm system cyberattack leaves those in need struggling to call for help</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/11/alarm-system-cyberattack-leaves-those-in-need-struggling-to-call-for-help</link>
+      <pubDate>Thu, 16 Nov 2023 14:29:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rhysida malware: a warning and a description.</title>
+      <link>https://thecyberwire.com</link>
+      <pubDate>Thu, 16 Nov 2023 14:24:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>ServiceNow adds gen AI to more workflows, including chatbot creation</title>
+      <link>https://www.cio.com/article/1247612/servicenow-adds-gen-ai-to-more-workflows-including-chatbot-creation.html</link>
+      <pubDate>Thu, 16 Nov 2023 14:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Russian Hacking Group Sandworm Linked to Unprecedented Attack on Danish Critical Infrastructure</title>
       <link>https://www.infosecurity-magazine.com/news/russian-sandworm-attack-danish/</link>
@@ -43,6 +78,21 @@
       <pubDate>Thu, 16 Nov 2023 12:03:00 +0000</pubDate>
     </item>
     <item>
+      <title>FBI and CISA Release Advisory on Scattered Spider Group</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix Releases Security Updates for Citrix Hypervisor</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung suffered a new data breach</title>
+      <link>https://securityaffairs.com/154251/data-breach/samsung-data-breach-2.html</link>
+      <pubDate>Thu, 16 Nov 2023 11:32:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Hackers Could Exploit Google Workspace and Cloud Platform for Ransomware Attacks</title>
       <link>https://thehackernews.com/2023/11/hackers-could-exploit-google-workspace.html</link>
       <pubDate>Thu, 16 Nov 2023 11:18:00 +0000</pubDate>
@@ -76,6 +126,11 @@
       <title>European Police Take Down $9m Vishing Gang</title>
       <link>https://www.infosecurity-magazine.com/news/european-police-take-down-9m/</link>
       <pubDate>Thu, 16 Nov 2023 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI and CISA warn of attacks by Rhysida ransomware gang</title>
+      <link>https://securityaffairs.com/154224/malware/fbi-cisa-rhysida-ransomware-gang.html</link>
+      <pubDate>Thu, 16 Nov 2023 06:11:03 +0000</pubDate>
     </item>
     <item>
       <title>Russian Hackers Linked to 'Largest Ever Cyber Attack' on Danish Critical Infrastructure</title>
@@ -278,16 +333,6 @@
       <pubDate>Wed, 15 Nov 2023 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA's Goldstein: Ukrainian response to Viasat hack proves need for redundancy, resilience</title>
-      <link>https://therecord.media/cisa-goldstein-ukrainian-response-to-viasat-hack-proves-need-for-redundancy</link>
-      <pubDate>Wed, 15 Nov 2023 19:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NSA's Joyce: Israel faces 'enormous amount of cyber pressure' from Iran, hacktivists</title>
-      <link>https://therecord.media/nsa-rob-joyce-israel-faces-enormous-cyber-pressure-hacktivists-iran</link>
-      <pubDate>Wed, 15 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New SSH Vulnerability</title>
       <link>https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html</link>
       <pubDate>Wed, 15 Nov 2023 17:51:52 +0000</pubDate>
@@ -328,6 +373,16 @@
       <pubDate>Wed, 15 Nov 2023 15:34:00 +0000</pubDate>
     </item>
     <item>
+      <title>Critical flaw fixed in SAP Business One product</title>
+      <link>https://securityaffairs.com/154215/security/business-one-product-critical-flaw.html</link>
+      <pubDate>Wed, 15 Nov 2023 15:13:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Spider</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a</link>
+      <pubDate>Wed, 15 Nov 2023 14:51:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine at D+669: Cyberespionage, and a tech exit.</title>
       <link>https://thecyberwire.com/stories/f67c60f8646547a4b101a3c8fec2e696/ukraine-at-d269</link>
       <pubDate>Wed, 15 Nov 2023 14:48:41 +0000</pubDate>
@@ -356,6 +411,11 @@
       <title>CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware</link>
       <pubDate>Wed, 15 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Law enforcement agencies dismantled the illegal botnet proxy service IPStorm</title>
+      <link>https://securityaffairs.com/154201/cyber-crime/law-enforcement-ipstorm-botnet.html</link>
+      <pubDate>Wed, 15 Nov 2023 11:09:40 +0000</pubDate>
     </item>
     <item>
       <title>Port disruption and a discussion of maritime and OT.</title>
@@ -393,6 +453,11 @@
       <pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Gamblers’ data compromised after casino giant Strendus fails to set password</title>
+      <link>https://securityaffairs.com/154169/security/gamblers-data-compromised-after-casino-giant-strendus-fails-to-set-password.html</link>
+      <pubDate>Wed, 15 Nov 2023 09:35:36 +0000</pubDate>
+    </item>
+    <item>
       <title>US Dismantles IPStorm Botnet Proxy Service</title>
       <link>https://www.infosecurity-magazine.com/news/us-dismantles-ipstorm-botnet-proxy/</link>
       <pubDate>Wed, 15 Nov 2023 09:30:00 +0000</pubDate>
@@ -423,6 +488,11 @@
       <pubDate>Wed, 15 Nov 2023 07:22:58 +0000</pubDate>
     </item>
     <item>
+      <title>VMware disclosed a critical and unpatched authentication bypass flaw in VMware Cloud Director Appliance</title>
+      <link>https://securityaffairs.com/154182/security/vmware-cloud-director-appliance-critical-flaw.html</link>
+      <pubDate>Wed, 15 Nov 2023 07:15:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Free Template: Vendor Post-Data Breach Questionnaire (2023) | UpGuard</title>
       <link>https://www.upguard.com/blog/free-template-vendor-post-data-breach-questionnaire</link>
       <pubDate>Wed, 15 Nov 2023 06:53:08 +0000</pubDate>
@@ -436,76 +506,6 @@
       <title>What is Supply Chain Risk Management (SCRM)? | UpGuard</title>
       <link>https://www.upguard.com/blog/what-is-supply-chain-risk-management</link>
       <pubDate>Wed, 15 Nov 2023 06:43:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is the Cyber Threat Landscape? | UpGuard</title>
-      <link>https://www.upguard.com/blog/cyber-threat-landscape</link>
-      <pubDate>Wed, 15 Nov 2023 06:40:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 72 Biggest Data Breaches of All Time [Updated 2023] | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-data-breaches</link>
-      <pubDate>Wed, 15 Nov 2023 06:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is an Attack Vector? 16 Critical Examples in 2023 | UpGuard</title>
-      <link>https://www.upguard.com/blog/attack-vector</link>
-      <pubDate>Wed, 15 Nov 2023 06:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biggest Cyber Threats in Healthcare (Updated for 2023) | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-cyber-threats-in-healthcare</link>
-      <pubDate>Wed, 15 Nov 2023 06:38:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 6 Biggest Cyber Threats for Financial Services in 2023 | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-cyber-threats-for-financial-services</link>
-      <pubDate>Wed, 15 Nov 2023 06:37:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free Template: Vendor Pandemic Questionnaire for Cybersecurity | UpGuard</title>
-      <link>https://www.upguard.com/blog/free-template-vendor-pandemic-questionnaire</link>
-      <pubDate>Wed, 15 Nov 2023 06:29:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is the SIG Questionnaire? TPRM Simplified | UpGuard</title>
-      <link>https://www.upguard.com/blog/sig-questionnaire</link>
-      <pubDate>Wed, 15 Nov 2023 06:10:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is Third-Party Risk Management (TPRM)? 2023 Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/third-party-risk-management</link>
-      <pubDate>Wed, 15 Nov 2023 06:08:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meeting the 3rd-Party Risk Requirements of 23 NY CRR in 2023 | UpGuard</title>
-      <link>https://www.upguard.com/blog/23-ny-crr-tprm-compliance</link>
-      <pubDate>Wed, 15 Nov 2023 06:07:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Implement TPRM into your Existing Security Framework | UpGuard</title>
-      <link>https://www.upguard.com/blog/implementing-tprm</link>
-      <pubDate>Wed, 15 Nov 2023 06:07:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meeting the Third-Party Risk Requirements of the GDPR in 2023 | UpGuard</title>
-      <link>https://www.upguard.com/blog/compliance-guide-tprm-and-the-gdpr</link>
-      <pubDate>Wed, 15 Nov 2023 06:05:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meeting the 3rd-Party Risk Requirements of The NY SHIELD Act | UpGuard</title>
-      <link>https://www.upguard.com/blog/tprm-and-the-ny-shield-act</link>
-      <pubDate>Wed, 15 Nov 2023 06:04:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meeting OCC Third-Party Risk Requirements [2023 Edition] | UpGuard</title>
-      <link>https://www.upguard.com/blog/meeting-occ-tprm-requirements</link>
-      <pubDate>Wed, 15 Nov 2023 06:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>8 Third-Party Risk Management Challenges + Solutions and Tips | UpGuard</title>
-      <link>https://www.upguard.com/blog/tprm-challenges</link>
-      <pubDate>Wed, 15 Nov 2023 06:04:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
