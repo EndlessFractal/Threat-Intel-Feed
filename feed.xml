@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 16:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 18:20:12 +0000</lastBuildDate>
+    <item>
+      <title>FTC targets telecom provider for inmates after massive data breach</title>
+      <link>https://therecord.media/ftc-complaint-order-global-tel-link-data-breach</link>
+      <pubDate>Thu, 16 Nov 2023 18:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MeridianLink confirms cyberattack after ransomware gang claims to report company to SEC</title>
+      <link>https://therecord.media/meridianlink-confirms-cyberattack-after-sec-threat</link>
+      <pubDate>Thu, 16 Nov 2023 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lawfare, warfare, and old-fashioned crime in the hybrid battlespace.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/219</link>
+      <pubDate>Thu, 16 Nov 2023 17:22:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortifying Assets for SEC Compliance with HackerOne</title>
+      <link>https://www.hackerone.com/public-policy/fortify-assets-sec-compliance</link>
+      <pubDate>Thu, 16 Nov 2023 17:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>CSA Launches First Zero Trust Certification</title>
+      <link>https://www.infosecurity-magazine.com/news/csa-launches-zero-trust/</link>
+      <pubDate>Thu, 16 Nov 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>House Intelligence panel proposes its own rewrite of surveillance powers</title>
+      <link>https://therecord.media/house-intelligence-committee-section-702-proposal</link>
+      <pubDate>Thu, 16 Nov 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers target Greece, Tunisia, Moldova, Vietnam and Pakistan with Zimbra zero-day</title>
+      <link>https://therecord.media/hackers-target-govts-with-zimbra-zero</link>
+      <pubDate>Thu, 16 Nov 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber-Criminals Exploit Gaza Crisis With Fake Charity</title>
+      <link>https://www.infosecurity-magazine.com/news/criminals-gaza-crisis-fake-charity/</link>
+      <pubDate>Thu, 16 Nov 2023 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-Day Flaw in Zimbra Email Software Exploited by Four Hacker Groups</title>
+      <link>https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html</link>
+      <pubDate>Thu, 16 Nov 2023 16:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond -n: Optimizing tcpdump performance, (Thu, Nov 16th)</title>
+      <link>https://isc.sans.edu/diary/rss/30408</link>
+      <pubDate>Thu, 16 Nov 2023 16:07:43 +0000</pubDate>
+    </item>
     <item>
       <title>Vietnam Post exposes 1.2TB of data, including email addresses</title>
       <link>https://securityaffairs.com/154271/data-breach/vietnam-post-data-leak.html</link>
@@ -16,11 +66,6 @@
       <title>Polish court discovers secret cryptomining rigs hidden throughout building</title>
       <link>https://therecord.media/cryptomining-in-polish-courthouse-warsaw</link>
       <pubDate>Thu, 16 Nov 2023 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian and Czech police bust $9 million bank fraud gang</title>
-      <link>https://therecord.media/bank-fraud-vishing-arrests-ukraine-czechia</link>
-      <pubDate>Thu, 16 Nov 2023 14:55:00 +0000</pubDate>
     </item>
     <item>
       <title>Nov 2023 Cybercrime Update | LLMs, Ransomware and Destructive Wipers Proliferate in Recent Attacks</title>
@@ -78,13 +123,78 @@
       <pubDate>Thu, 16 Nov 2023 12:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>FBI and CISA Release Advisory on Scattered Spider Group</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group</link>
+      <title>Siemens OPC UA Modeling Editor (SiOME)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-07</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Mendix Runtime</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-04</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Red Lion Sixnet RTUs</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-01</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens PNI</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-12</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens COMOS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-09</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC PCS neo</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-06</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Desigo CC product family</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-03</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM APE1808 Devices</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-14</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Mendix Studio Pro</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-11</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SCALANCE Family Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-08</link>
       <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Citrix Releases Security Updates for Citrix Hypervisor</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Requests Comment on Draft Secure Software Development Attestation Form</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Fourteen Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI and CISA Release Advisory on Scattered Spider Group</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group</link>
       <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -298,16 +408,6 @@
       <pubDate>Wed, 15 Nov 2023 21:25:06 +0000</pubDate>
     </item>
     <item>
-      <title>Google to distribute 100,000 Titan Security Keys to high-risk users</title>
-      <link>https://therecord.media/google-titan-security-keys-donated</link>
-      <pubDate>Wed, 15 Nov 2023 21:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEC official defends new cyber disclosure rule that some lawmakers seek to overturn</title>
-      <link>https://therecord.media/sec-official-defends-rule-that-lawmakers-seek-to-overturn</link>
-      <pubDate>Wed, 15 Nov 2023 21:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>A quick Patch Tuesday retrospective, and then a look at what the threat groups are up to.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1948/notes</link>
       <pubDate>Wed, 15 Nov 2023 21:15:00 +0000</pubDate>
@@ -321,16 +421,6 @@
       <title>Meet the Talent Strategy Team</title>
       <link>https://www.hackerone.com/culture-and-talent/meet-talent-strategy-team</link>
       <pubDate>Wed, 15 Nov 2023 20:57:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-generated disinformation a top concern for 2024 elections, Michigan secretary of state says</title>
-      <link>https://therecord.media/ai-generated-disinfo-concern-elections-michigan</link>
-      <pubDate>Wed, 15 Nov 2023 20:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating the New Rhysida Ransomware</title>
-      <link>https://feeds.fortinet.com/~/834079748/0/fortinet/blog/threat-research~Investigating-the-New-Rhysida-Ransomware</link>
-      <pubDate>Wed, 15 Nov 2023 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New SSH Vulnerability</title>
@@ -416,96 +506,6 @@
       <title>Law enforcement agencies dismantled the illegal botnet proxy service IPStorm</title>
       <link>https://securityaffairs.com/154201/cyber-crime/law-enforcement-ipstorm-botnet.html</link>
       <pubDate>Wed, 15 Nov 2023 11:09:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Port disruption and a discussion of maritime and OT.</title>
-      <link>https://thecyberwire.com/podcasts/control-loop/38/notes</link>
-      <pubDate>Wed, 15 Nov 2023 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three Ways Varonis Helps You Fight Insider Threats</title>
-      <link>https://thehackernews.com/2023/11/three-ways-varonis-helps-you-fight.html</link>
-      <pubDate>Wed, 15 Nov 2023 10:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Privacy Regulator Issues Black Friday Smart Device Warning</title>
-      <link>https://www.infosecurity-magazine.com/news/regulator-black-friday-smart/</link>
-      <pubDate>Wed, 15 Nov 2023 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CIO as enabler: Building an ecosystem of innovation partners</title>
-      <link>https://www.cio.com/article/1246969/cio-as-enabler-building-an-ecosystem-of-innovation-partners.html</link>
-      <pubDate>Wed, 15 Nov 2023 10:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes Five Zero-Day Vulnerabilities</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-fixes-five-zeroday/</link>
-      <pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How ServiceNow gets the most out of generative AI</title>
-      <link>https://www.cio.com/article/1247210/how-servicenow-gets-the-most-out-of-generative-ai.html</link>
-      <pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We’re all becoming software CIOs — a role Red Hat CIO Jim Palermo knows well</title>
-      <link>https://www.cio.com/article/1246035/were-all-becoming-software-cios-a-role-red-hat-cio-jim-palermo-knows-well.html</link>
-      <pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gamblers’ data compromised after casino giant Strendus fails to set password</title>
-      <link>https://securityaffairs.com/154169/security/gamblers-data-compromised-after-casino-giant-strendus-fails-to-set-password.html</link>
-      <pubDate>Wed, 15 Nov 2023 09:35:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Dismantles IPStorm Botnet Proxy Service</title>
-      <link>https://www.infosecurity-magazine.com/news/us-dismantles-ipstorm-botnet-proxy/</link>
-      <pubDate>Wed, 15 Nov 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Punching Miscreants with Jack Mott</title>
-      <link>https://thecyberwire.com/podcasts/microsoft-threat-intelligence/6/notes</link>
-      <pubDate>Wed, 15 Nov 2023 08:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reptar: New Intel CPU Vulnerability Impacts Multi-Tenant Virtualized Environments</title>
-      <link>https://thehackernews.com/2023/11/reptar-new-intel-cpu-vulnerability.html</link>
-      <pubDate>Wed, 15 Nov 2023 07:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teal MPs condemn opposition leader – as it happened</title>
-      <link>https://www.theguardian.com/australia-news/live/2023/nov/15/australia-news-politics-live-question-time-anthony-albanese-peter-dutton-cost-of-living-gaza-protest-scott-morrison-aukus-data-breaches</link>
-      <pubDate>Wed, 15 Nov 2023 07:42:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redline Dropped Through MSIX Package, (Wed, Nov 15th)</title>
-      <link>https://isc.sans.edu/diary/rss/30404</link>
-      <pubDate>Wed, 15 Nov 2023 07:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acuity Who? Attempts and Failures to Attribute 437GB of Breached Data</title>
-      <link>https://www.troyhunt.com/acuity-who-attempts-and-failures-to-attribute-437gb-of-breached-data/</link>
-      <pubDate>Wed, 15 Nov 2023 07:22:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware disclosed a critical and unpatched authentication bypass flaw in VMware Cloud Director Appliance</title>
-      <link>https://securityaffairs.com/154182/security/vmware-cloud-director-appliance-critical-flaw.html</link>
-      <pubDate>Wed, 15 Nov 2023 07:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free Template: Vendor Post-Data Breach Questionnaire (2023) | UpGuard</title>
-      <link>https://www.upguard.com/blog/free-template-vendor-post-data-breach-questionnaire</link>
-      <pubDate>Wed, 15 Nov 2023 06:53:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>25 Working from Home Security Tips for Staff and Employers in 2023 | UpGuard</title>
-      <link>https://www.upguard.com/blog/working-from-home-security-tips</link>
-      <pubDate>Wed, 15 Nov 2023 06:44:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is Supply Chain Risk Management (SCRM)? | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-supply-chain-risk-management</link>
-      <pubDate>Wed, 15 Nov 2023 06:43:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
