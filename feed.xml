@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Nov 2023 16:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Nov 2023 18:20:19 +0000</lastBuildDate>
+    <item>
+      <title>Multiple colleges, K-12 schools facing outages after cyberattacks</title>
+      <link>https://therecord.media/colleges-schools-facing-outages-cyberattacks</link>
+      <pubDate>Fri, 17 Nov 2023 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian analysts point finger at China, North Korea over cyber activity</title>
+      <link>https://therecord.media/russian-analysts-point-finger-at-china</link>
+      <pubDate>Fri, 17 Nov 2023 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK privacy authority to appeal decision overturning $10 million fine on Clearview AI</title>
+      <link>https://therecord.media/uk-ico-to-appeal-court-decision-clearview-ai</link>
+      <pubDate>Fri, 17 Nov 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Gang Files SEC Complaint</title>
+      <link>https://www.schneier.com/blog/archives/2023/11/ransomware-gang-files-sec-complaint.html</link>
+      <pubDate>Fri, 17 Nov 2023 16:31:50 +0000</pubDate>
+    </item>
     <item>
       <title>How Do Password Managers Work and Why Do You Need One?</title>
       <link>https://www.techrepublic.com/article/how-do-password-managers-work/</link>
@@ -56,6 +76,11 @@
       <title>FCC Enforces Stronger Rules to Protect Customers Against SIM Swapping Attacks</title>
       <link>https://thehackernews.com/2023/11/fcc-enforces-stronger-rules-to-protect.html</link>
       <pubDate>Fri, 17 Nov 2023 12:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA adds Sophos Web Appliance bug to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/154310/security/cisa-known-exploited-vulnerabilities-catalog-17-nov-23.html</link>
+      <pubDate>Fri, 17 Nov 2023 12:02:34 +0000</pubDate>
     </item>
     <item>
       <title>Juniper Releases Security Advisory for Juniper Secure Analytics</title>
@@ -121,6 +146,11 @@
       <title>British Library: Ransomware Recovery Could Take Months</title>
       <link>https://www.infosecurity-magazine.com/news/british-library-ransomware/</link>
       <pubDate>Fri, 17 Nov 2023 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A critical OS command injection flaw affects Fortinet FortiSIEM</title>
+      <link>https://securityaffairs.com/154301/security/fortinet-fortisiem-os-command-injection.html</link>
+      <pubDate>Fri, 17 Nov 2023 08:29:43 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Update 374</title>
@@ -223,11 +253,6 @@
       <pubDate>Fri, 17 Nov 2023 04:35:04 +0000</pubDate>
     </item>
     <item>
-      <title>CISA, FBI warn of Scattered Spider expertise with social engineering, SIM swapping</title>
-      <link>https://therecord.media/cisa-fbi-warn-of-scattered-spider-cybercrime-group</link>
-      <pubDate>Fri, 17 Nov 2023 04:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>3 Best Vendor Risk Management Software Solutions (2023 Edition) | UpGuard</title>
       <link>https://www.upguard.com/blog/best-vendor-risk-management-software-solutions</link>
       <pubDate>Fri, 17 Nov 2023 03:40:42 +0000</pubDate>
@@ -243,16 +268,6 @@
       <pubDate>Fri, 17 Nov 2023 02:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>Long Beach is latest California city facing cybersecurity incident</title>
-      <link>https://therecord.media/long-beach-facing-cyber-incident</link>
-      <pubDate>Thu, 16 Nov 2023 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israeli private eye gets 80-month sentence for global hack-for-hire scheme</title>
-      <link>https://therecord.media/israeli-aviram-azari-sentenced-hacker-for-hire</link>
-      <pubDate>Thu, 16 Nov 2023 21:48:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Shopping during wartime? Focus, people.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1949/notes</link>
       <pubDate>Thu, 16 Nov 2023 21:10:00 +0000</pubDate>
@@ -261,6 +276,11 @@
       <title>Regulation addresses some new challenges (responsible AI and nontraditional financial services) and some old ones (collective defense and healthcare security).</title>
       <link>https://thecyberwire.com/newsletters/caveat-briefing/1/9</link>
       <pubDate>Thu, 16 Nov 2023 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zimbra zero-day exploited to steal government emails by four groups</title>
+      <link>https://securityaffairs.com/154277/apt/zimbra-zero-day-govt-emails.html</link>
+      <pubDate>Thu, 16 Nov 2023 20:49:02 +0000</pubDate>
     </item>
     <item>
       <title>Alleged Extortioner of Psychotherapy Patients Faces Trial</title>
@@ -311,6 +331,11 @@
       <title>Beyond -n: Optimizing tcpdump performance, (Thu, Nov 16th)</title>
       <link>https://isc.sans.edu/diary/rss/30408</link>
       <pubDate>Thu, 16 Nov 2023 16:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vietnam Post exposes 1.2TB of data, including email addresses</title>
+      <link>https://securityaffairs.com/154271/data-breach/vietnam-post-data-leak.html</link>
+      <pubDate>Thu, 16 Nov 2023 15:26:03 +0000</pubDate>
     </item>
     <item>
       <title>Nov 2023 Cybercrime Update | LLMs, Ransomware and Destructive Wipers Proliferate in Recent Attacks</title>
@@ -443,6 +468,11 @@
       <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Samsung suffered a new data breach</title>
+      <link>https://securityaffairs.com/154251/data-breach/samsung-data-breach-2.html</link>
+      <pubDate>Thu, 16 Nov 2023 11:32:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Hackers Could Exploit Google Workspace and Cloud Platform for Ransomware Attacks</title>
       <link>https://thehackernews.com/2023/11/hackers-could-exploit-google-workspace.html</link>
       <pubDate>Thu, 16 Nov 2023 11:18:00 +0000</pubDate>
@@ -456,11 +486,6 @@
       <title>Half of Ransomware Groups Operating in 2023 Are New</title>
       <link>https://www.infosecurity-magazine.com/news/half-ransomware-operating-2023-new/</link>
       <pubDate>Thu, 16 Nov 2023 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is your LinkedIn profile revealing too much?</title>
-      <link>https://www.welivesecurity.com/en/social-media/is-your-linkedin-profile-revealing-too-much/</link>
-      <pubDate>Thu, 16 Nov 2023 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>BlackCat Ransomware Group Reports Victim to SEC</title>
@@ -481,31 +506,6 @@
       <title>European Police Take Down $9m Vishing Gang</title>
       <link>https://www.infosecurity-magazine.com/news/european-police-take-down-9m/</link>
       <pubDate>Thu, 16 Nov 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Linked to 'Largest Ever Cyber Attack' on Danish Critical Infrastructure</title>
-      <link>https://thehackernews.com/2023/11/russian-hackers-launch-largest-ever.html</link>
-      <pubDate>Thu, 16 Nov 2023 06:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bolstering economic security.</title>
-      <link>https://thecyberwire.com/podcasts/caveat/195/notes</link>
-      <pubDate>Thu, 16 Nov 2023 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unmasking the deceptive.</title>
-      <link>https://thecyberwire.com/podcasts/hacking-humans/266/notes</link>
-      <pubDate>Thu, 16 Nov 2023 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Examining the current state of security orchestration.</title>
-      <link>https://thecyberwire.com/podcasts/cyberwire-x/48/notes</link>
-      <pubDate>Thu, 16 Nov 2023 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>18 Attack Surface Reduction Examples to Improve Cybersecurity | UpGuard</title>
-      <link>https://www.upguard.com/blog/attack-surface-reduction-examples</link>
-      <pubDate>Thu, 16 Nov 2023 02:44:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
