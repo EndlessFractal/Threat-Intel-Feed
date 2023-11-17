@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Nov 2023 12:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Nov 2023 14:14:34 +0000</lastBuildDate>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 46</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-5/</link>
+      <pubDate>Fri, 17 Nov 2023 14:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remcos, again: Ukrainian agencies targeted in a new spying campaign</title>
+      <link>https://therecord.media/remcos-phishing-ukraine-government-agencies</link>
+      <pubDate>Fri, 17 Nov 2023 13:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware: Malicious Google Ads Trick WinSCP Users into Installing Malware</title>
+      <link>https://thehackernews.com/2023/11/beware-malicious-google-ads-trick.html</link>
+      <pubDate>Fri, 17 Nov 2023 13:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A deep dive into Phobos ransomware, recently deployed by 8Base group</title>
+      <link>https://blog.talosintelligence.com/deep-dive-into-phobos-ransomware/</link>
+      <pubDate>Fri, 17 Nov 2023 13:01:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding the Phobos affiliate structure and activity</title>
+      <link>https://blog.talosintelligence.com/understanding-the-phobos-affiliate-structure/</link>
+      <pubDate>Fri, 17 Nov 2023 13:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Sex life data’ stolen from UK government among record number of ransomware attacks</title>
+      <link>https://therecord.media/sex-life-data-uk-government-ransomware-attacks</link>
+      <pubDate>Fri, 17 Nov 2023 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FCC Enforces Stronger Rules to Protect Customers Against SIM Swapping Attacks</title>
+      <link>https://thehackernews.com/2023/11/fcc-enforces-stronger-rules-to-protect.html</link>
+      <pubDate>Fri, 17 Nov 2023 12:37:00 +0000</pubDate>
+    </item>
     <item>
       <title>CISA adds Sophos Web Appliance bug to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/154310/security/cisa-known-exploited-vulnerabilities-catalog-17-nov-23.html</link>
       <pubDate>Fri, 17 Nov 2023 12:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Juniper Releases Security Advisory for Juniper Secure Analytics</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics</link>
+      <pubDate>Fri, 17 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Stately Taurus Targets the Philippines As Tensions Flare in the South Pacific</title>
@@ -43,9 +83,19 @@
       <pubDate>Fri, 17 Nov 2023 10:12:27 +0000</pubDate>
     </item>
     <item>
+      <title>IHG maximizes hospitality with multicloud</title>
+      <link>https://www.cio.com/article/1247886/ihg-maximizes-hospitality-with-multicloud.html</link>
+      <pubDate>Fri, 17 Nov 2023 10:01:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Royal Mail to Spend £10m on Ransomware Remediation</title>
       <link>https://www.infosecurity-magazine.com/news/royal-mail-spend-10m-ransomware/</link>
       <pubDate>Fri, 17 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is a managed service provider? Strategic outsourcing for IT services</title>
+      <link>https://www.cio.com/article/189082/what-is-a-managed-service-provider-strategic-outsourcing-for-it-services-explained.html</link>
+      <pubDate>Fri, 17 Nov 2023 09:59:00 +0000</pubDate>
     </item>
     <item>
       <title>27 Malicious PyPI Packages with Thousands of Downloads Found Targeting IT Experts</title>
@@ -193,11 +243,6 @@
       <pubDate>Thu, 16 Nov 2023 21:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>Customs and Border Protection acquired ‘huge amount of surveillance power’</title>
-      <link>https://therecord.media/cbp-lexisnexis-risk-solutions-contract-surveillance</link>
-      <pubDate>Thu, 16 Nov 2023 21:32:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Shopping during wartime? Focus, people.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1949/notes</link>
       <pubDate>Thu, 16 Nov 2023 21:10:00 +0000</pubDate>
@@ -221,11 +266,6 @@
       <title>We all just need to agree that ad blockers are good</title>
       <link>https://blog.talosintelligence.com/threat-source-newsletter-nov-16-23/</link>
       <pubDate>Thu, 16 Nov 2023 19:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toyota recovering from cyberattack on its financial services division</title>
-      <link>https://therecord.media/toyota-cyberattack-financial-services-divison</link>
-      <pubDate>Thu, 16 Nov 2023 19:00:00 +0000</pubDate>
     </item>
     <item>
       <title>FTC’s Voice Cloning Challenge</title>
@@ -466,46 +506,6 @@
       <title>Examining the current state of security orchestration.</title>
       <link>https://thecyberwire.com/podcasts/cyberwire-x/48/notes</link>
       <pubDate>Thu, 16 Nov 2023 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>18 Attack Surface Reduction Examples to Improve Cybersecurity | UpGuard</title>
-      <link>https://www.upguard.com/blog/attack-surface-reduction-examples</link>
-      <pubDate>Thu, 16 Nov 2023 02:44:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is an Attack Surface? Definition + Reduction Tips | UpGuard</title>
-      <link>https://www.upguard.com/blog/attack-surface</link>
-      <pubDate>Thu, 16 Nov 2023 02:44:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Implement the Adobe Common Controls Framework | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-implement-the-adobe-common-controls-framework</link>
-      <pubDate>Thu, 16 Nov 2023 02:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yes, Macs Can Get Infected with Ransomware (But It's Avoidable) | UpGuard</title>
-      <link>https://www.upguard.com/blog/can-macs-get-ransomware</link>
-      <pubDate>Thu, 16 Nov 2023 02:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Decrypt Ransomware (with 100% Free Tools) | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-decrypt-ransomware</link>
-      <pubDate>Thu, 16 Nov 2023 02:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Do You Get Infected by Ransomware? | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-do-you-get-infected-by-ransomware</link>
-      <pubDate>Thu, 16 Nov 2023 02:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Prevent Ransomware Attacks: Top 10 Best Practices in 2023 | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-practices-to-prevent-ransomware-attacks</link>
-      <pubDate>Thu, 16 Nov 2023 02:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Clear Explanation of Australia’s Ransomware Action Plan | UpGuard</title>
-      <link>https://www.upguard.com/blog/explanation-of-australias-ransomware-action-plan</link>
-      <pubDate>Thu, 16 Nov 2023 02:28:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
