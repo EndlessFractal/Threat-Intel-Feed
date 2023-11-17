@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Nov 2023 14:14:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Nov 2023 16:23:20 +0000</lastBuildDate>
+    <item>
+      <title>How Do Password Managers Work and Why Do You Need One?</title>
+      <link>https://www.techrepublic.com/article/how-do-password-managers-work/</link>
+      <pubDate>Fri, 17 Nov 2023 16:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grey market and criminal-to-criminal offerings.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/220</link>
+      <pubDate>Fri, 17 Nov 2023 16:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+671: Ukraine warns that Russia's cyberwar will spread.</title>
+      <link>https://thecyberwire.com/stories/6fc15b18cc41450ab84d6754727c7d9d/ukraine-at-d671</link>
+      <pubDate>Fri, 17 Nov 2023 15:10:14 +0000</pubDate>
+    </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 46</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-5/</link>
@@ -43,13 +58,13 @@
       <pubDate>Fri, 17 Nov 2023 12:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA adds Sophos Web Appliance bug to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/154310/security/cisa-known-exploited-vulnerabilities-catalog-17-nov-23.html</link>
-      <pubDate>Fri, 17 Nov 2023 12:02:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Juniper Releases Security Advisory for Juniper Secure Analytics</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics</link>
+      <pubDate>Fri, 17 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector</link>
       <pubDate>Fri, 17 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -106,11 +121,6 @@
       <title>British Library: Ransomware Recovery Could Take Months</title>
       <link>https://www.infosecurity-magazine.com/news/british-library-ransomware/</link>
       <pubDate>Fri, 17 Nov 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A critical OS command injection flaw affects Fortinet FortiSIEM</title>
-      <link>https://securityaffairs.com/154301/security/fortinet-fortisiem-os-command-injection.html</link>
-      <pubDate>Fri, 17 Nov 2023 08:29:43 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Update 374</title>
@@ -253,11 +263,6 @@
       <pubDate>Thu, 16 Nov 2023 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zimbra zero-day exploited to steal government emails by four groups</title>
-      <link>https://securityaffairs.com/154277/apt/zimbra-zero-day-govt-emails.html</link>
-      <pubDate>Thu, 16 Nov 2023 20:49:02 +0000</pubDate>
-    </item>
-    <item>
       <title>Alleged Extortioner of Psychotherapy Patients Faces Trial</title>
       <link>https://krebsonsecurity.com/2023/11/alleged-extortioner-of-psychotherapy-patients-faces-trial/</link>
       <pubDate>Thu, 16 Nov 2023 19:59:14 +0000</pubDate>
@@ -306,11 +311,6 @@
       <title>Beyond -n: Optimizing tcpdump performance, (Thu, Nov 16th)</title>
       <link>https://isc.sans.edu/diary/rss/30408</link>
       <pubDate>Thu, 16 Nov 2023 16:07:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vietnam Post exposes 1.2TB of data, including email addresses</title>
-      <link>https://securityaffairs.com/154271/data-breach/vietnam-post-data-leak.html</link>
-      <pubDate>Thu, 16 Nov 2023 15:26:03 +0000</pubDate>
     </item>
     <item>
       <title>Nov 2023 Cybercrime Update | LLMs, Ransomware and Destructive Wipers Proliferate in Recent Attacks</title>
@@ -418,16 +418,6 @@
       <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Citrix Releases Security Updates for Citrix Hypervisor</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0</link>
-      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Requests Comment on Draft Secure Software Development Attestation Form</title>
-      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form</link>
-      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Releases Fourteen Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories</link>
       <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
@@ -443,9 +433,14 @@
       <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Samsung suffered a new data breach</title>
-      <link>https://securityaffairs.com/154251/data-breach/samsung-data-breach-2.html</link>
-      <pubDate>Thu, 16 Nov 2023 11:32:25 +0000</pubDate>
+      <title>Citrix Releases Security Updates for Citrix Hypervisor</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Requests Comment on Draft Secure Software Development Attestation Form</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form</link>
+      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Could Exploit Google Workspace and Cloud Platform for Ransomware Attacks</title>
@@ -461,6 +456,11 @@
       <title>Half of Ransomware Groups Operating in 2023 Are New</title>
       <link>https://www.infosecurity-magazine.com/news/half-ransomware-operating-2023-new/</link>
       <pubDate>Thu, 16 Nov 2023 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is your LinkedIn profile revealing too much?</title>
+      <link>https://www.welivesecurity.com/en/social-media/is-your-linkedin-profile-revealing-too-much/</link>
+      <pubDate>Thu, 16 Nov 2023 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>BlackCat Ransomware Group Reports Victim to SEC</title>
@@ -483,11 +483,6 @@
       <pubDate>Thu, 16 Nov 2023 09:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>FBI and CISA warn of attacks by Rhysida ransomware gang</title>
-      <link>https://securityaffairs.com/154224/malware/fbi-cisa-rhysida-ransomware-gang.html</link>
-      <pubDate>Thu, 16 Nov 2023 06:11:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Russian Hackers Linked to 'Largest Ever Cyber Attack' on Danish Critical Infrastructure</title>
       <link>https://thehackernews.com/2023/11/russian-hackers-launch-largest-ever.html</link>
       <pubDate>Thu, 16 Nov 2023 06:06:00 +0000</pubDate>
@@ -506,6 +501,11 @@
       <title>Examining the current state of security orchestration.</title>
       <link>https://thecyberwire.com/podcasts/cyberwire-x/48/notes</link>
       <pubDate>Thu, 16 Nov 2023 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>18 Attack Surface Reduction Examples to Improve Cybersecurity | UpGuard</title>
+      <link>https://www.upguard.com/blog/attack-surface-reduction-examples</link>
+      <pubDate>Thu, 16 Nov 2023 02:44:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
