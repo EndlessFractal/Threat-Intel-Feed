@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Nov 2023 08:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Nov 2023 10:15:34 +0000</lastBuildDate>
+    <item>
+      <title>8Base ransomware operators use a new variant of the Phobos ransomware</title>
+      <link>https://securityaffairs.com/154383/malware/8base-ransomware-phobos-ransomware.html</link>
+      <pubDate>Sun, 19 Nov 2023 09:13:35 +0000</pubDate>
+    </item>
     <item>
       <title>Ian Blumenfeld: Swimming in a pool of cyber. [Research]</title>
       <link>https://thecyberwire.com/podcasts/career-notes/176/notes</link>
@@ -500,11 +505,6 @@
     <item>
       <title>Siemens PNI</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-12</link>
-      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens COMOS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-09</link>
       <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
     </item>
   </channel>
