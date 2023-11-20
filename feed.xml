@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Nov 2023 06:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2023 08:21:18 +0000</lastBuildDate>
+    <item>
+      <title>A week in security (November 13 &amp;#8211; November 19)</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/11/a-week-in-security-november-13-november-19-2</link>
+      <pubDate>Mon, 20 Nov 2023 08:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Distribution of Malicious LNK File Disguised as Producing Corporate Promotional Materials</title>
+      <link>https://asec.ahnlab.com/en/59057/</link>
+      <pubDate>Mon, 20 Nov 2023 07:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indian Hack-for-Hire Group Targeted U.S., China, and More for Over 10 Years</title>
+      <link>https://thehackernews.com/2023/11/indian-hack-for-hire-group-targeted-us.html</link>
+      <pubDate>Mon, 20 Nov 2023 06:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Circumstances of an Attack Exploiting an Asset Management Program (Andariel Group)</title>
+      <link>https://asec.ahnlab.com/en/59073/</link>
+      <pubDate>Mon, 20 Nov 2023 06:31:18 +0000</pubDate>
+    </item>
     <item>
       <title>Overflowing Web Honeypot Logs, (Mon, Nov 20th)</title>
       <link>https://isc.sans.edu/diary/rss/30416</link>
@@ -486,26 +506,6 @@
       <title>7 common mistakes companies make when creating an incident response plan and how to avoid them</title>
       <link>https://blog.talosintelligence.com/seven-common-mistakes-companies-make-when-creating-an-incident-response-plan-and-how-to-avoid-them/</link>
       <pubDate>Thu, 16 Nov 2023 13:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Friday: Malwarebytes Warns of Credit Card Skimming Surge</title>
-      <link>https://www.infosecurity-magazine.com/news/black-friday-malwarebytes-credit/</link>
-      <pubDate>Thu, 16 Nov 2023 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leaving Authentication Credentials in Public Code</title>
-      <link>https://www.schneier.com/blog/archives/2023/11/leaving-authentication-credentials-in-public-code.html</link>
-      <pubDate>Thu, 16 Nov 2023 12:10:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and FBI Issue Warning About Rhysida Ransomware Double Extortion Attacks</title>
-      <link>https://thehackernews.com/2023/11/cisa-and-fbi-issue-warning-about.html</link>
-      <pubDate>Thu, 16 Nov 2023 12:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens OPC UA Modeling Editor (SiOME)</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-07</link>
-      <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
