@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Nov 2023 16:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 18:21:03 +0000</lastBuildDate>
+    <item>
+      <title>Your Database Exposure Risk | UpGuard</title>
+      <link>https://www.upguard.com/blog/database-exposure</link>
+      <pubDate>Tue, 21 Nov 2023 17:49:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atomic Stealer distributed to Mac users via fake browser updates</title>
+      <link>https://www.malwarebytes.com/blog/threat-intelligence/2023/11/atomic-stealer-distributed-to-mac-users-via-fake-browser-updates</link>
+      <pubDate>Tue, 21 Nov 2023 17:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Konni Campaign Deploys Advanced RAT With UAC Bypass Capabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/konni-deploys-advanced-rat-with/</link>
+      <pubDate>Tue, 21 Nov 2023 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>A shakeup in Ukraine's SSSCIP, and turmoil at OpenAI.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/12/222</link>
@@ -26,6 +41,11 @@
       <title>Crypto firm Kronos Research says $26 million stolen after cyberattack</title>
       <link>https://therecord.media/crypto-firm-kronos-research-26-million-stolen-cyberattack</link>
       <pubDate>Tue, 21 Nov 2023 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Password Manager Cheat Sheet: What Is a Password Manager?</title>
+      <link>https://www.techrepublic.com/article/password-managers-a-cheat-sheet-for-professionals/</link>
+      <pubDate>Tue, 21 Nov 2023 14:28:00 +0000</pubDate>
     </item>
     <item>
       <title>MAR-10478915-1.v1 Citrix Bleed</title>
@@ -53,6 +73,16 @@
       <pubDate>Tue, 21 Nov 2023 13:55:00 +0000</pubDate>
     </item>
     <item>
+      <title>#StopRansomware: LockBit 3.0 Ransomware Affiliates Exploit CVE 2023-4966 Citrix Bleed Vulnerability</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a</link>
+      <pubDate>Tue, 21 Nov 2023 13:46:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Best Password Recovery Software for 2023</title>
+      <link>https://www.techrepublic.com/article/password-recovery-tools/</link>
+      <pubDate>Tue, 21 Nov 2023 13:37:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine at D+675: Shakeup at SSSCIP.</title>
       <link>https://thecyberwire.com/stories/3bec8c8472fa43e183c10dde3305065b/ukraine-at-d675</link>
       <pubDate>Tue, 21 Nov 2023 12:43:46 +0000</pubDate>
@@ -63,8 +93,28 @@
       <pubDate>Tue, 21 Nov 2023 12:05:07 +0000</pubDate>
     </item>
     <item>
+      <title>Fuji Electric Tellus Lite V-Simulator</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-325-02</link>
+      <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>WAGO PFC200 Series</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-325-01</link>
+      <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Five Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-releases-five-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA, FBI, MS-ISAC, and ASD’s ACSC Release Advisory on LockBit Affiliates Exploiting Citrix Bleed</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-fbi-ms-isac-and-asds-acsc-release-advisory-lockbit-affiliates-exploiting-citrix-bleed</link>
       <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -456,56 +506,6 @@
       <title>Quasar RAT Delivered Through Updated SharpLoader, (Sat, Nov 18th)</title>
       <link>https://isc.sans.edu/diary/rss/30414</link>
       <pubDate>Sat, 18 Nov 2023 06:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>The malicious YoroTrooper in disguise.</title>
-      <link>https://thecyberwire.com/podcasts/research-saturday/307/notes</link>
-      <pubDate>Sat, 18 Nov 2023 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>State-directed activity and some successful cyber crime.</title>
-      <link>https://thecyberwire.com/newsletters/week-that-was/7/44</link>
-      <pubDate>Sat, 18 Nov 2023 05:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploring the Monetary Authority of Singapore's TPRM Guidelines | UpGuard</title>
-      <link>https://www.upguard.com/blog/mas-tprm-guidelines</link>
-      <pubDate>Fri, 17 Nov 2023 23:55:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Unpatched Vulnerabilities in the Squid Caching Proxy</title>
-      <link>https://www.schneier.com/blog/archives/2023/11/friday-squid-blogging-unpatched-vulnerabilities-in-the-squid-caching-proxy.html</link>
-      <pubDate>Fri, 17 Nov 2023 22:01:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lee Clark from RH-ISAC shares their 2023 Holiday Season  Cyber Threat Trends report.</title>
-      <link>https://thecyberwire.com/podcasts/interview-selects/185/notes</link>
-      <pubDate>Fri, 17 Nov 2023 21:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber escalation in a hybrid war, and some notes on the markets, both gray and C2C.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1950/notes</link>
-      <pubDate>Fri, 17 Nov 2023 21:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware gang files SEC complaint about victim</title>
-      <link>https://www.malwarebytes.com/blog/news/2023/11/ransomware-gang-files-sec-complaint-about-target</link>
-      <pubDate>Fri, 17 Nov 2023 19:49:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 benefits of ThreatDown bundles</title>
-      <link>https://www.malwarebytes.com/blog/business/2023/11/3-benefits-of-threatdown-bundles</link>
-      <pubDate>Fri, 17 Nov 2023 19:38:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Gang Files SEC Complaint</title>
-      <link>https://www.schneier.com/blog/archives/2023/11/ransomware-gang-files-sec-complaint.html</link>
-      <pubDate>Fri, 17 Nov 2023 16:31:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Do Password Managers Work and Why Do You Need One?</title>
-      <link>https://www.techrepublic.com/article/how-do-password-managers-work/</link>
-      <pubDate>Fri, 17 Nov 2023 16:14:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
