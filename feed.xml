@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Nov 2023 10:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 12:31:33 +0000</lastBuildDate>
+    <item>
+      <title>Email Security Flaw Found in the Wild</title>
+      <link>https://www.schneier.com/blog/archives/2023/11/email-security-flaw-found-in-the-wild.html</link>
+      <pubDate>Tue, 21 Nov 2023 12:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>“British Defence Attaché, U.S.A.” – with Rear Admiral Tim Woods</title>
+      <link>https://thecyberwire.com/podcasts/spycast/612/notes</link>
+      <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts warn of a surge in NetSupport RAT attacks against education and government sectors</title>
+      <link>https://securityaffairs.com/154513/malware/surge-netsupport-rat-attacks.html</link>
+      <pubDate>Tue, 21 Nov 2023 11:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Multi-Stage Phishing Attacks Exploit QRs, CAPTCHAs, and Steganography</title>
+      <link>https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html</link>
+      <pubDate>Tue, 21 Nov 2023 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Executive Pleads Guilty to Hacking Hospitals</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-executive-guilty/</link>
+      <pubDate>Tue, 21 Nov 2023 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 steps for turning shadow IT into a competitive edge</title>
+      <link>https://www.cio.com/article/1247890/7-steps-for-turning-shadow-it-into-a-competitive-edge.html</link>
+      <pubDate>Tue, 21 Nov 2023 10:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>Crimeware and financial cyberthreats in 2024</title>
       <link>https://securelist.com/kaspersky-security-bulletin-crimeware-financial-threats-2024/111093/</link>
@@ -15,6 +45,11 @@
     <item>
       <title>Ukraine Sacks Two Senior Cyber Officials</title>
       <link>https://www.infosecurity-magazine.com/news/ukraine-sacks-two-senior-cyber/</link>
+      <pubDate>Tue, 21 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Air Force CDAIO Eileen Vidrine on leading top-flight AI operations</title>
+      <link>https://www.cio.com/article/1247897/air-force-cdaio-eileen-vidrine-on-leading-top-flight-ai-operations.html</link>
       <pubDate>Tue, 21 Nov 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
@@ -358,11 +393,6 @@
       <pubDate>Sat, 18 Nov 2023 19:17:37 +0000</pubDate>
     </item>
     <item>
-      <title>Russian APT Gamaredon uses USB worm LitterDrifter against Ukraine</title>
-      <link>https://securityaffairs.com/154362/apt/gamaredon-apt-litterdrifter-usb.html</link>
-      <pubDate>Sat, 18 Nov 2023 15:46:32 +0000</pubDate>
-    </item>
-    <item>
       <title>8Base Group Deploying New Phobos Ransomware Variant via SmokeLoader</title>
       <link>https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html</link>
       <pubDate>Sat, 18 Nov 2023 11:27:00 +0000</pubDate>
@@ -476,36 +506,6 @@
       <title>Safeguarding ports from the rising tide of cyberthreats – Week in security with Tony Anscombe</title>
       <link>https://www.welivesecurity.com/en/videos/safeguarding-ports-cyberthreats-week-security-tony-anscombe/</link>
       <pubDate>Fri, 17 Nov 2023 11:08:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stately Taurus Targets the Philippines As Tensions Flare in the South Pacific</title>
-      <link>https://unit42.paloaltonetworks.com/stately-taurus-targets-philippines-government-cyberespionage/</link>
-      <pubDate>Fri, 17 Nov 2023 11:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Friday: Scammers Exploit Luxury Brands to Lure Victims</title>
-      <link>https://www.infosecurity-magazine.com/news/cammers-exploit-luxury-brands-to/</link>
-      <pubDate>Fri, 17 Nov 2023 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Lifts the Lid on Notorious Scattered Spider Group</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-notorious-scattered-spider/</link>
-      <pubDate>Fri, 17 Nov 2023 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discover 2023's Cloud Security Strategies in Our Upcoming Webinar - Secure Your Spot</title>
-      <link>https://thehackernews.com/2023/11/discover-2023s-cloud-security.html</link>
-      <pubDate>Fri, 17 Nov 2023 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>8 Best Enterprise Password Managers for 2023</title>
-      <link>https://www.techrepublic.com/article/enterprise-password-managers/</link>
-      <pubDate>Fri, 17 Nov 2023 10:25:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing page with trivial anti-analysis features, (Fri, Nov 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/30412</link>
-      <pubDate>Fri, 17 Nov 2023 10:12:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
