@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Nov 2023 12:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2023 14:15:29 +0000</lastBuildDate>
+    <item>
+      <title>Ukraine at D+676: Ukraine's infantry attacks east of the Dnipro.</title>
+      <link>https://thecyberwire.com/stories/ae0dc1c7863c46ceb4aa32a92dbc61a8/ukraine-at-d676</link>
+      <pubDate>Wed, 22 Nov 2023 13:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malwarebytes consumer product roundup: The latest</title>
+      <link>https://www.malwarebytes.com/blog/personal/2023/11/malwarebytes-consumer-product-roundup-the-latest</link>
+      <pubDate>Wed, 22 Nov 2023 12:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Personal data stolen in British Library cyber-attack appears for sale online</title>
+      <link>https://www.theguardian.com/technology/2023/nov/22/personal-data-stolen-in-british-library-cyber-attack-appears-for-sale-online</link>
+      <pubDate>Wed, 22 Nov 2023 12:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rebel offensive in Myanmar takes aim at online scam industry</title>
+      <link>https://therecord.media/rebel-offensive-myanmar-cyber-scam-crackdown</link>
+      <pubDate>Wed, 22 Nov 2023 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Explained: Privacy washing</title>
+      <link>https://www.malwarebytes.com/blog/explained/2023/11/explained-privacy-washing</link>
+      <pubDate>Wed, 22 Nov 2023 12:20:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Pose as Job Recruiters and Seekers in Malware Campaigns</title>
+      <link>https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html</link>
+      <pubDate>Wed, 22 Nov 2023 12:14:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apple to Add Manual Authentication to iMessage</title>
       <link>https://www.schneier.com/blog/archives/2023/11/apple-to-add-manual-authentication-to-imessage.html</link>
@@ -188,11 +218,6 @@
       <pubDate>Tue, 21 Nov 2023 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Crypto firm Kronos Research says $26 million stolen after cyberattack</title>
-      <link>https://therecord.media/crypto-firm-kronos-research-26-million-stolen-cyberattack</link>
-      <pubDate>Tue, 21 Nov 2023 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Password Manager Cheat Sheet: What Is a Password Manager?</title>
       <link>https://www.techrepublic.com/article/password-managers-a-cheat-sheet-for-professionals/</link>
       <pubDate>Tue, 21 Nov 2023 14:28:00 +0000</pubDate>
@@ -288,6 +313,11 @@
       <pubDate>Tue, 21 Nov 2023 10:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Fuel for thought: Can a driverless car get arrested?</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/fuel-thought-can-driverless-car-get-arrested/</link>
+      <pubDate>Tue, 21 Nov 2023 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>7 steps for turning shadow IT into a competitive edge</title>
       <link>https://www.cio.com/article/1247890/7-steps-for-turning-shadow-it-into-a-competitive-edge.html</link>
       <pubDate>Tue, 21 Nov 2023 10:01:00 +0000</pubDate>
@@ -346,6 +376,11 @@
       <title>HIPAA (noun)</title>
       <link>https://thecyberwire.com/podcasts/word-notes/162/notes</link>
       <pubDate>Tue, 21 Nov 2023 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social engineering attacks lure Indian users to install Android banking trojans</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/11/20/social-engineering-attacks-lure-indian-users-to-install-android-banking-trojans/</link>
+      <pubDate>Tue, 21 Nov 2023 04:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Crypto firm sustains API attack.</title>
@@ -471,41 +506,6 @@
       <title>Black Friday &amp; Cyber Monday | A Guide to Avoiding Cyber Scams During the Holidays</title>
       <link>https://www.sentinelone.com/blog/black-friday-cyber-monday-a-guide-to-avoiding-cyber-scams-during-the-holidays/</link>
       <pubDate>Mon, 20 Nov 2023 14:18:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operationalize cyber risk quantification for smart security</title>
-      <link>https://securityintelligence.com/posts/operationalize-cyber-risk-quantification/</link>
-      <pubDate>Mon, 20 Nov 2023 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked APT29 group exploited WinRAR 0day in attacks against embassies</title>
-      <link>https://securityaffairs.com/154460/apt/apt29-targets-embassies-winrar-flaw.html</link>
-      <pubDate>Mon, 20 Nov 2023 13:44:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine at D+674: FSB's LitterDrifter.</title>
-      <link>https://thecyberwire.com/stories/87d9604c2c214843b6a734cf3bc74b7d/ukraine-at-d674</link>
-      <pubDate>Mon, 20 Nov 2023 12:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2023-37580 Detection: Four Hacking Groups Exploit a Zimbra Zero-Day Vulnerability Targeting State Bodies</title>
-      <link>https://socprime.com/blog/cve-2023-37580-detection-four-hackering-groups-exploit-a-zimbra-zero-day-vulnerability-targeting-state-bodies/</link>
-      <pubDate>Mon, 20 Nov 2023 12:21:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIST’s International Cybersecurity and Privacy Engagement Update – Trade Missions, Workshops, and Translations</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/nists-international-cybersecurity-and-privacy-engagement-update-trade</link>
-      <pubDate>Mon, 20 Nov 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using Generative AI for Surveillance</title>
-      <link>https://www.schneier.com/blog/archives/2023/11/using-generative-ai-for-surveillance.html</link>
-      <pubDate>Mon, 20 Nov 2023 11:57:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Defenders Should Embrace a Hacker Mindset</title>
-      <link>https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html</link>
-      <pubDate>Mon, 20 Nov 2023 11:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
