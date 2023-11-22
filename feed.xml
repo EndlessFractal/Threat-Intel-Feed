@@ -6,9 +6,44 @@
     <description>A combined RSS feed of the 100 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Nov 2023 08:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2023 10:18:08 +0000</lastBuildDate>
     <item>
-      <title>ClearFake Campaign Expands to Deliver Atomic Stealer on Macs Systems</title>
+      <title>HrServ – Previously unknown web shell used in APT attack</title>
+      <link>https://securelist.com/hrserv-apt-web-shell/111119/</link>
+      <pubDate>Wed, 22 Nov 2023 10:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Regulator Issues Privacy Ultimatum to UK’s Top Websites</title>
+      <link>https://www.infosecurity-magazine.com/news/regulator-issues-privacy-ultimatum/</link>
+      <pubDate>Wed, 22 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 pillars of a cloud-conscious culture</title>
+      <link>https://www.cio.com/article/1248839/5-pillars-of-a-cloud-conscious-culture.html</link>
+      <pubDate>Wed, 22 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keeping the customer journey and experience as a North Star</title>
+      <link>https://www.cio.com/article/1247937/keeping-the-customer-journey-and-experience-as-a-north-star.html</link>
+      <pubDate>Wed, 22 Nov 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Launches OSINT Taskforce to Hunt For Russian War Crimes</title>
+      <link>https://www.infosecurity-magazine.com/news/europol-osint-taskforce-hunt/</link>
+      <pubDate>Wed, 22 Nov 2023 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise software provider TmaxSoft leaks 2TB of data</title>
+      <link>https://securityaffairs.com/154567/data-breach/tmaxsoft-leaks-2tb-of-data.html</link>
+      <pubDate>Wed, 22 Nov 2023 08:54:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix provides additional measures to address Citrix Bleed</title>
+      <link>https://securityaffairs.com/154546/hacking/citrix-bleed-attacks.html</link>
+      <pubDate>Wed, 22 Nov 2023 08:15:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClearFake Campaign Expands to Deliver Atomic Stealer on Mac Systems</title>
       <link>https://thehackernews.com/2023/11/clearfake-campaign-expands-to-deliver.html</link>
       <pubDate>Wed, 22 Nov 2023 07:15:00 +0000</pubDate>
     </item>
@@ -96,6 +131,11 @@
       <title>Atomic Stealer distributed to Mac users via fake browser updates</title>
       <link>https://www.malwarebytes.com/blog/threat-intelligence/2023/11/atomic-stealer-distributed-to-mac-users-via-fake-browser-updates</link>
       <pubDate>Tue, 21 Nov 2023 17:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>India Faces Surge in IM App Attacks With Trojan Campaigns</title>
+      <link>https://www.infosecurity-magazine.com/news/india-surge-im-app-attacks-with/</link>
+      <pubDate>Tue, 21 Nov 2023 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Konni Campaign Deploys Advanced RAT With UAC Bypass Capabilities</title>
@@ -463,49 +503,9 @@
       <pubDate>Mon, 20 Nov 2023 10:00:27 +0000</pubDate>
     </item>
     <item>
-      <title>Russia’s APT29 Targets Embassies With Ngrok and WinRAR Exploit</title>
-      <link>https://www.infosecurity-magazine.com/news/russias-apt29-embassies-ngrok/</link>
-      <pubDate>Mon, 20 Nov 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Can developer productivity be measured? Better than you think</title>
       <link>https://www.cio.com/article/1246996/can-developer-productivity-be-measured-better-than-you-think.html</link>
       <pubDate>Mon, 20 Nov 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Announces New Standard For Indicators of Compromise</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-standard-indicators-of/</link>
-      <pubDate>Mon, 20 Nov 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Randstorm Exploit: Bitcoin Wallets Created b/w 2011-2015 Vulnerable to Hacking</title>
-      <link>https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html</link>
-      <pubDate>Mon, 20 Nov 2023 09:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DarkCasino joins the list of APT groups exploiting WinRAR zero-day</title>
-      <link>https://securityaffairs.com/154414/apt/darkcasino-apt-exploiting-winrar-0day.html</link>
-      <pubDate>Mon, 20 Nov 2023 09:05:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cryptojacking Attack Campaign Against Apache Web Servers Using Cobalt Strike</title>
-      <link>https://asec.ahnlab.com/en/59110/</link>
-      <pubDate>Mon, 20 Nov 2023 08:47:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>US teenager pleads guilty to his role in credential stuffing attack on a betting site</title>
-      <link>https://securityaffairs.com/154432/cyber-crime/us-teenager-credential-stuffing-betting-site.html</link>
-      <pubDate>Mon, 20 Nov 2023 08:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (November 13 &amp;#8211; November 19)</title>
-      <link>https://www.malwarebytes.com/blog/news/2023/11/a-week-in-security-november-13-november-19-2</link>
-      <pubDate>Mon, 20 Nov 2023 08:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Distribution of Malicious LNK File Disguised as Producing Corporate Promotional Materials</title>
-      <link>https://asec.ahnlab.com/en/59057/</link>
-      <pubDate>Mon, 20 Nov 2023 07:55:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
