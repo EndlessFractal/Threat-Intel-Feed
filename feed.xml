@@ -3,10 +3,15 @@
   <channel>
     <title>EndlessFractal's Threat Intel Feed</title>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
-    <description>A combined RSS feed of the 10 most recent articles from various sources</description>
+    <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Nov 2023 00:41:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2023 01:09:28 +0000</lastBuildDate>
+    <item>
+      <title>Thrive with Digital, Accelerating Intelligence for Electric Power</title>
+      <link>https://www.cio.com/article/1248983/thrive-with-digital-accelerating-intelligence-for-electric-power.html</link>
+      <pubDate>Wed, 22 Nov 2023 22:49:40 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean attack on CyberLink impacted devices around the world, Microsoft says</title>
       <link>https://therecord.media/north-korea-attack-cyberlink-microsoft</link>
@@ -56,6 +61,51 @@
       <title>Report claims to reveal identity of Russian hacktivist leader</title>
       <link>https://therecord.media/killmilk-identity-revealed-gazeta-ru-killnet-russia</link>
       <pubDate>Wed, 22 Nov 2023 19:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2023-1389: A New Means to Expand Botnets, (Wed, Nov 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/30418</link>
+      <pubDate>Wed, 22 Nov 2023 18:25:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Serbian civilians targeted with Pegasus on eve of national elections</title>
+      <link>https://therecord.media/serbian-civilians-targeted-with-pegasus</link>
+      <pubDate>Wed, 22 Nov 2023 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerabilities in Adobe Acrobat, Microsoft Excel could lead to arbitrary code execution</title>
+      <link>https://blog.talosintelligence.com/vulnerabilities-in-adobe-acrobat-microsoft-excel-could-lead-to-arbitrary-code-execution/</link>
+      <pubDate>Wed, 22 Nov 2023 17:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diamond Sleet supply chain compromise distributes a modified CyberLink installer</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/</link>
+      <pubDate>Wed, 22 Nov 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flaw in Apache ActiveMQ Exposes Linux Systems to Kinsing Malware</title>
+      <link>https://www.infosecurity-magazine.com/news/apache-activemq-flaw-exposes-linux/</link>
+      <pubDate>Wed, 22 Nov 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian ports recovering from cyberattack. GRU's Sandworm implicated in campaign against Danish electrical power providers. Sandworm and Ukraine's power grid: 2022 attacks.</title>
+      <link>https://thecyberwire.com/newsletters/control-loop/2/12</link>
+      <pubDate>Wed, 22 Nov 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sekoia: Latest in the Financial Sector Cyber Threat Landscape</title>
+      <link>https://www.techrepublic.com/article/sekoia-financial-sector-evolutions-threats/</link>
+      <pubDate>Wed, 22 Nov 2023 16:41:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Employee Policy Violations Cause 26% of Cyber Incidents</title>
+      <link>https://www.infosecurity-magazine.com/news/employee-violations-cause-26-cyber/</link>
+      <pubDate>Wed, 22 Nov 2023 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electronic warfare and electronic countermeasures.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/223</link>
+      <pubDate>Wed, 22 Nov 2023 16:09:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
