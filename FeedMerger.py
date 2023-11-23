@@ -72,11 +72,11 @@ def create_rss_feed(combined_feed):
     # Create an instance of FeedGenerator
     fg = FeedGenerator()
     fg.title("EndlessFractal's Threat Intel Feed")
-    fg.description("A combined RSS feed of the 10 most recent articles from various sources")
+    fg.description("A combined RSS feed of the 20 most recent articles from various sources")
     fg.link(href="https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml", rel="alternate")
 
     # Add the entries from the combined feed to the RSS feed
-    for entry in combined_feed[-10:]:
+    for entry in combined_feed[-20:]:
         pub_date = convert_to_utc(parse_date_with_timezone(entry.published)) if hasattr(entry, 'published') else None
 
         fe = fg.add_entry()
