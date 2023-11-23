@@ -32,6 +32,8 @@ jobs:
 
     - name: Commit and push changes
       run: |
+        git config --global user.name "${{ github.actor }}"
+        git config --global user.email "${{ github.actor }}@github.com"
         git add posted_links.txt
-        git commit -am "Update RSS feed"
+        git commit -am "Updated posted_links.txt"
         git push
