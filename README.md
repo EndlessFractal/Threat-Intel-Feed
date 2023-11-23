@@ -76,7 +76,6 @@ The script retrieves feeds from the following sources:
 - [The Record Media Blog](https://therecord.media//feed)
 - [Threatpost Blog](https://threatpost.com/feed/)
 - [Troy Hunt's Blog](https://www.troyhunt.com/rss/)
-- [UpGuard Blog](https://www.upguard.com/blog/rss.xml)
 - [US-CERT Alerts](https://us-cert.cisa.gov/ncas/alerts.xml)
 - [US-CERT Analysis Reports](https://us-cert.cisa.gov/ncas/analysis-reports.xml)
 - [US-CERT Current Activity](https://us-cert.cisa.gov/ncas/current-activity.xml)

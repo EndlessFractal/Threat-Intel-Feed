@@ -30,7 +30,7 @@ jobs:
 
       - name: Run Parser
         run: |
-          python feed_parser.py
+          python FeedMerger.py
 
       - name: Commit and push changes
         run: |

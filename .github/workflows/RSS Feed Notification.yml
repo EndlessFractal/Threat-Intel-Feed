@@ -25,10 +25,6 @@ jobs:
         pip install feedparser
 
     - name: Run Python script
-      run: python RSSparser.py
-
-    - name: Use curl to send payload
       env:
         SECRET_WEBHOOK_URL: ${{ secrets.SECRET_WEBHOOK_URL }}
-      run: |
-        curl -X POST -H "Content-Type: application/json" -d @payload.json $SECRET_WEBHOOK_URL
+      run: python RSSparser.py $SECRET_WEBHOOK_URL
