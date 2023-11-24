@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Nov 2023 06:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 08:19:13 +0000</lastBuildDate>
+    <item>
+      <title>Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories</title>
+      <link>https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html</link>
+      <pubDate>Fri, 24 Nov 2023 06:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>Beyond gigabit: the need for 10 Gbps in business networks</title>
       <link>https://www.cio.com/article/1249168/beyond-gigabit-the-need-for-10-gbps-in-business-networks.html</link>
@@ -101,11 +106,6 @@
       <title>US Seizes $9m From Pig Butchering Scammers</title>
       <link>https://www.infosecurity-magazine.com/news/us-seizes-9m-from-pig-butchering/</link>
       <pubDate>Thu, 23 Nov 2023 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers pose as officials to steal secrets and cryptocurrency for North Korea</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/hackers-pose-as-officials-to-steal-secrets-and-cryptocurrency-for-north-korea/</link>
-      <pubDate>Thu, 23 Nov 2023 10:01:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
