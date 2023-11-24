@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Nov 2023 18:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 20:16:01 +0000</lastBuildDate>
+    <item>
+      <title>Chocolate Swiss Army Knife</title>
+      <link>https://www.schneier.com/blog/archives/2023/11/chocolate-swiss-army-knife.html</link>
+      <pubDate>Fri, 24 Nov 2023 20:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Hello fingerprint authentication can be bypassed on popular laptops</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/11/windows-hello-fingerprint-authentication-can-be-bypassed-on-popular-laptops</link>
+      <pubDate>Fri, 24 Nov 2023 19:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sacked Ukrainian cyber chief released on bail amid corruption probe</title>
+      <link>https://therecord.media/ukraine-cyber-chief-released-on-bail-embezzlement-investigation</link>
+      <pubDate>Fri, 24 Nov 2023 19:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix Bleed widely exploitated, warn government agencies</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/11/citrix-bleed-widely-exploitated-warn-government-agencies</link>
+      <pubDate>Fri, 24 Nov 2023 19:20:11 +0000</pubDate>
+    </item>
     <item>
       <title>How one Russian nonprofit is trying to crack through the Kremlin’s censorship wall</title>
       <link>https://therecord.media/roskomsvoboda-russia-internet-freedom-censorship</link>
       <pubDate>Fri, 24 Nov 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vanderbilt University Medical Center investigating cybersecurity incident</title>
+      <link>https://therecord.media/vanderbilt-university-medical-center-investigating-cyber-incident-meow-ransomware</link>
+      <pubDate>Fri, 24 Nov 2023 16:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Rhysida, the new ransomware gang behind British Library cyber-attack</title>
@@ -36,11 +61,6 @@
       <title>Canada’s privacy watchdog investigating hack affecting military and RCMP personnel</title>
       <link>https://therecord.media/canada-data-breach-military-rcmp-personnel</link>
       <pubDate>Fri, 24 Nov 2023 13:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean supply chain attacks prompt joint warning from Seoul and London</title>
-      <link>https://therecord.media/south-korea-uk-warning-supply-chain-attacks-north-korea</link>
-      <pubDate>Fri, 24 Nov 2023 12:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Exposed Kubernetes configuration secrets can fuel supply chain attacks</title>
@@ -86,26 +106,6 @@
       <title>Germany’s ITZBund is moving federal IT into the cloud</title>
       <link>https://www.cio.com/article/1248675/germanys-itzbund-is-moving-federal-it-into-the-cloud.html</link>
       <pubDate>Fri, 24 Nov 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Launches Project to Assess Effectiveness of Security Controls</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-project-effectiveness/</link>
-      <pubDate>Fri, 24 Nov 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea-linked Konni APT uses Russian-language weaponized documents</title>
-      <link>https://securityaffairs.com/154695/apt/konni-apt-russian-language-bait-doc.html</link>
-      <pubDate>Fri, 24 Nov 2023 09:06:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>400G: Building Bandwidth for the Next Lap</title>
-      <link>https://www.cio.com/article/1249164/next-gen-400g-innovation-for-a-future-proof-bandwidth-solution.html</link>
-      <pubDate>Fri, 24 Nov 2023 09:04:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories</title>
-      <link>https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html</link>
-      <pubDate>Fri, 24 Nov 2023 06:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
