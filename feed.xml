@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Nov 2023 04:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 06:19:01 +0000</lastBuildDate>
+    <item>
+      <title>New 'HrServ.dll' Web Shell Detected in APT Attack Targeting Afghan Government</title>
+      <link>https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html</link>
+      <pubDate>Sat, 25 Nov 2023 05:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warning: 3 Critical Vulnerabilities Expose ownCloud Users to Data Breaches</title>
+      <link>https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html</link>
+      <pubDate>Sat, 25 Nov 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hamas-linked APT uses Rust-based SysJoker backdoor against Israel</title>
       <link>https://securityaffairs.com/154748/malware/hamas-linked-apt-sysjoker-backdoor.html</link>
@@ -68,6 +78,11 @@
       <pubDate>Fri, 24 Nov 2023 16:00:24 +0000</pubDate>
     </item>
     <item>
+      <title>Telekopye's tricks of the trade – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/telekopye-tricks-trade-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 24 Nov 2023 15:33:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale</title>
       <link>https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html</link>
       <pubDate>Fri, 24 Nov 2023 15:32:00 +0000</pubDate>
@@ -91,21 +106,6 @@
       <title>LitterDrifter USB Worm</title>
       <link>https://www.schneier.com/blog/archives/2023/11/litterdrifter-usb-worm.html</link>
       <pubDate>Fri, 24 Nov 2023 12:04:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber-Attack Disrupts UK Property Deals</title>
-      <link>https://www.infosecurity-magazine.com/news/cyber-attack-disrupts-uk-property/</link>
-      <pubDate>Fri, 24 Nov 2023 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tell Me Your Secrets Without Telling Me Your Secrets</title>
-      <link>https://thehackernews.com/2023/11/tell-me-your-secrets-without-telling-me.html</link>
-      <pubDate>Fri, 24 Nov 2023 10:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hamas-Linked Cyberattacks Using Rust-Powered SysJoker Backdoor Against Israel</title>
-      <link>https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html</link>
-      <pubDate>Fri, 24 Nov 2023 10:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
