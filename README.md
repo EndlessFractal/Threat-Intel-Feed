@@ -33,7 +33,6 @@ The script retrieves feeds from the following sources:
 - [AT&T Cybersecurity Blog](https://cybersecurity.att.com/site/blog-all-rss)
 - [Bitdefender Labs Blog](https://www.bitdefender.com/blog/api/rss/labs/)
 - [Broadcom SED Blog](https://sed-cms.broadcom.com/rss/v1/blogs/rss.xml)
-- [CIO Security Blog](https://www.cio.com/security/feed/)
 - [CISA ICS Advisories](https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml)
 - [CISA ICS Medical Advisories](https://www.cisa.gov/cybersecurity-advisories/ics-medical-advisories.xml)
 - [Cloudflare Security Blog](https://blog.cloudflare.com/tag/security/rss)
