@@ -86,22 +86,25 @@ def parse_and_format_rss(url, max_char, posted_links):
     return payloads
 
 
-def send_payload_with_delay(webhook_url, payload, delay):
+def send_payload_with_delay(webhook_urls, payload, delay):
     # Introduce a delay before sending each payload
     time.sleep(delay)
     # Set the headers for the HTTP request
     headers = {'Content-Type': 'application/json'}
-    # Send the payload to the webhook URL using the requests library
-    response = requests.post(webhook_url, data=json.dumps(payload), headers=headers)
-    # Raise an exception for any HTTP errors
-    response.raise_for_status()
+
+    # Iterate over each webhook URL and send the payload
+    for webhook_url in webhook_urls:
+        response = requests.post(webhook_url, data=json.dumps(payload), headers=headers)
+        # Raise an exception for any HTTP errors
+        response.raise_for_status()
 
 
 def main():
     # Create command-line argument parser
     parser = argparse.ArgumentParser(description='Process RSS feed and send GitHub Actions payload.')
-    # Add a command-line argument for the webhook URL
-    parser.add_argument('webhook_url', help='Webhook URL for posting messages')
+    # Add a command-line argument for the webhook URLs (space-separated)
+    parser.add_argument('webhook_urls', nargs='+', help='Space-separated list of webhook URLs for posting messages')
+
     # Parse command-line arguments
     args = parser.parse_args()
 
@@ -122,9 +125,9 @@ def main():
         print("No new payloads found.")
         return
 
-    # Send payloads using the specified webhook URL with a 5-second delay
+    # Send payloads using the specified webhook URLs with a 5-second delay
     for i, payload in enumerate(payloads, start=1):
-        send_payload_with_delay(args.webhook_url, payload, 5)
+        send_payload_with_delay(args.webhook_urls, payload, 5)
 
 
 # Run the main function if the script is executed
