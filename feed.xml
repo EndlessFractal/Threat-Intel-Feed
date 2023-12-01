@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Dec 2023 18:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 20:16:48 +0000</lastBuildDate>
+    <item>
+      <title>Apple Security Update Fixes Zero-Day Webkit Exploits</title>
+      <link>https://www.techrepublic.com/article/apple-security-update/</link>
+      <pubDate>Fri, 01 Dec 2023 19:18:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace Security: DeleFriend Vulnerability Could Allow Unwanted Access to APIs</title>
+      <link>https://www.techrepublic.com/article/google-workspace-delefriend-vulnerability/</link>
+      <pubDate>Fri, 01 Dec 2023 18:52:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>US sanctions North Korean ‘Kimsuky’ hackers after surveillance satellite launch</title>
+      <link>https://therecord.media/us-sanctions-north-korean-kimsuky-hackers</link>
+      <pubDate>Fri, 01 Dec 2023 18:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Russian developer of Trickbot malware pleads guilty, faces 35-year sentence</title>
       <link>https://therecord.media/russian-trickbot-malware-developer-pleads-guilty</link>
       <pubDate>Fri, 01 Dec 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches Exploited WebKit Vulnerabilities in iOS/iPadOS/macOS, (Thu, Nov 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/30444</link>
+      <pubDate>Fri, 01 Dec 2023 17:21:37 +0000</pubDate>
     </item>
     <item>
       <title>Ukraine appoints new cyber chief following ouster of top officials</title>
@@ -53,11 +73,6 @@
       <pubDate>Fri, 01 Dec 2023 13:59:46 +0000</pubDate>
     </item>
     <item>
-      <title>IoT vulnerability reporting obligations set to apply in EU from 2027</title>
-      <link>https://therecord.media/iot-vulnerability-reporting-rules-european-union</link>
-      <pubDate>Fri, 01 Dec 2023 13:55:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New FjordPhantom Android Malware Targets Banking Apps in Southeast Asia</title>
       <link>https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html</link>
       <pubDate>Fri, 01 Dec 2023 12:40:00 +0000</pubDate>
@@ -91,21 +106,6 @@
       <title>CISA adds ownCloud and Google Chrome bugs to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/155037/security/cisa-known-exploited-vulnerabilities-catalog-owncloud-chrome.html</link>
       <pubDate>Fri, 01 Dec 2023 11:04:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Tool Set Found Used Against Middle East, Africa and the US</title>
-      <link>https://unit42.paloaltonetworks.com/new-toolset-targets-middle-east-africa-usa/</link>
-      <pubDate>Fri, 01 Dec 2023 11:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Urges UK Water Companies to Secure Control Systems</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-uk-water-companies-secure/</link>
-      <pubDate>Fri, 01 Dec 2023 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qakbot Takedown Aftermath: Mitigations and Protecting Against Future Threats</title>
-      <link>https://thehackernews.com/2023/12/qakbot-takedown-aftermath-mitigations.html</link>
-      <pubDate>Fri, 01 Dec 2023 10:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
