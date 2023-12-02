@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Dec 2023 04:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2023 06:19:10 +0000</lastBuildDate>
+    <item>
+      <title>Exploits and vulnerabilities.</title>
+      <link>https://thecyberwire.com/podcasts/research-saturday/308/notes</link>
+      <pubDate>Sat, 02 Dec 2023 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber operations across the spectrum of conflict, with some excursions into the criminal underworld.</title>
+      <link>https://thecyberwire.com/newsletters/week-that-was/7/45</link>
+      <pubDate>Sat, 02 Dec 2023 05:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Expert warns of Turtle macOS ransomware</title>
       <link>https://securityaffairs.com/155075/security/turtleransom-macos-ransomware.html</link>
@@ -96,16 +106,6 @@
       <title>Ukraine at D+685: Influence operations in a winter war.</title>
       <link>https://thecyberwire.com/stories/f775fab7a35c4f29b9061546ec1dc79f/ukraine-at-d685</link>
       <pubDate>Fri, 01 Dec 2023 13:59:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New FjordPhantom Android Malware Targets Banking Apps in Southeast Asia</title>
-      <link>https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html</link>
-      <pubDate>Fri, 01 Dec 2023 12:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Basta Ransomware gang accumulated at least $107 million in Bitcoin ransom payments since early 2022</title>
-      <link>https://securityaffairs.com/155054/cyber-crime/black-basta-ransomware-activities.html</link>
-      <pubDate>Fri, 01 Dec 2023 12:34:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
