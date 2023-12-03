@@ -38,17 +38,22 @@ jobs:
           git commit -am "Update RSS feed"
           git push
 
-      - name: Cleanup Old Workflow Runs
+      - name: Cleanup old workflow runs
         run: |
-          runsToDelete=$(curl -s -X GET \
+          api_response=$(curl -s -X GET \
             -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
-            "https://api.github.com/repos/${{ github.repository }}/actions/runs" | \
-            jq -r '.workflow_runs | sort_by(.created_at) | .[:-5] | .[] | .id')
-          
-          for runId in $runsToDelete; do
-            curl -s -X DELETE \
-              -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
-              "https://api.github.com/repos/${{ github.repository }}/actions/runs/$runId"
-          done
-        env:
-          RUNNER_OS: ubuntu-latest
+            "https://api.github.com/repos/${{ github.repository }}/actions/runs")
+
+          # Check if the response contains valid data
+          if [ "$(echo "$api_response" | jq '.workflow_runs')" != "null" ]; then
+            runsToDelete=$(echo "$api_response" | jq -r '.workflow_runs | sort_by(.created_at) | .[:-5] | .[] | .id')
+
+            for runId in $runsToDelete; do
+              curl -s -X DELETE \
+                -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+                "https://api.github.com/repos/${{ github.repository }}/actions/runs/$runId"
+            done
+          else
+            echo "No workflow runs to delete."
+          fi
+
