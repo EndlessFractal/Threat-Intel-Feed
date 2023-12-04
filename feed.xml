@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 10:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 12:30:11 +0000</lastBuildDate>
+    <item>
+      <title>AI and Trust</title>
+      <link>https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html</link>
+      <pubDate>Mon, 04 Dec 2023 12:05:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Military cyber advocacy group taps first president to harness growing ‘hive mind’</title>
+      <link>https://therecord.media/military-cyber-advocacy-group-appoints-first-president-cleary</link>
+      <pubDate>Mon, 04 Dec 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+688: Cyberespionage from your besties?</title>
+      <link>https://thecyberwire.com/stories/aad16b232f0c4896acb3c5b7443a9937/ukraine-at-d688</link>
+      <pubDate>Mon, 04 Dec 2023 11:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Make a Fresh Start for 2024: Clean Out Your User Inventory to Reduce SaaS Risk</title>
+      <link>https://thehackernews.com/2023/12/make-fresh-start-for-2024-clean-out.html</link>
+      <pubDate>Mon, 04 Dec 2023 11:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New P2PInfect Botnet MIPS Variant Targeting Routers and IoT Devices</title>
+      <link>https://thehackernews.com/2023/12/new-p2pinfect-botnet-mips-variant.html</link>
+      <pubDate>Mon, 04 Dec 2023 11:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kaspersky Security Bulletin 2023. Statistics</title>
+      <link>https://securelist.com/ksb-2023-statistics/111156/</link>
+      <pubDate>Mon, 04 Dec 2023 11:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit on a Roll – ICBC Ransomware Attack Strikes at the Heart of the Global Financial Order</title>
+      <link>https://securityaffairs.com/155178/cyber-crime/lockbit-icbc-ransomware-attack.html</link>
+      <pubDate>Mon, 04 Dec 2023 10:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social media giants to testify over failing to protect kids</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/12/social-media-giants-to-testify-over-failing-to-protect-kids</link>
+      <pubDate>Mon, 04 Dec 2023 10:37:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Staples Hit With Disruption After Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/staples-hit-disruption-cyberattack/</link>
+      <pubDate>Mon, 04 Dec 2023 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>IT Professionals in ASEAN Confronting Rising Cyber Security Risks</title>
       <link>https://www.techrepublic.com/article/asean-cybersecurity-trends-jason-steer-interview/</link>
@@ -61,51 +106,6 @@
       <title>Ransomware Attacks Using RDP as the Attack Vector – Detected by EDR</title>
       <link>https://asec.ahnlab.com/en/59439/</link>
       <pubDate>Mon, 04 Dec 2023 01:13:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Agent Raccoon malware targets the Middle East, Africa and the US</title>
-      <link>https://securityaffairs.com/155137/malware/agent-raccoon-malware.html</link>
-      <pubDate>Sun, 03 Dec 2023 18:58:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bernard Brantley: Tomorrow is a new day. [CISO]</title>
-      <link>https://thecyberwire.com/podcasts/career-notes/178/notes</link>
-      <pubDate>Sun, 03 Dec 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2023 Gartner® Market Guide for Security, Orchestration, Automation and Response Solutions</title>
-      <link>https://www.techrepublic.com/resource-library/whitepapers/2023-gartner-market-guide-for-security-orchestration-automation-and-response-solutions/</link>
-      <pubDate>Sun, 03 Dec 2023 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Employee Checklist and Default Access Policy</title>
-      <link>https://www.techrepublic.com/resource-library/whitepapers/new-employee-checklist-and-default-access-policy/</link>
-      <pubDate>Sun, 03 Dec 2023 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2023’s Dark Horse Cyber Story: Critical Infrastructure Attacks</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/2023s-dark-horse-cyber-story-critical-infrastructure-attacks</link>
-      <pubDate>Sun, 03 Dec 2023 10:51:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 448 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/155128/breaking-news/security-affairs-newsletter-round-448-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 03 Dec 2023 06:40:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 376</title>
-      <link>https://www.troyhunt.com/weekly-update-376/</link>
-      <pubDate>Sun, 03 Dec 2023 02:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers devised an attack technique to extract ChatGPT training data</title>
-      <link>https://securityaffairs.com/155101/hacking/attack-extract-chatgpt-training-data.html</link>
-      <pubDate>Sat, 02 Dec 2023 21:54:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agent Racoon Backdoor Targets Organizations in Middle East, Africa, and U.S.</title>
-      <link>https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html</link>
-      <pubDate>Sat, 02 Dec 2023 08:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
