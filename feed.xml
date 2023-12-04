@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 02:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 04:19:07 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Monday, December 4th, 2023 https://isc.sans.edu/podcastdetail/8762, (Mon, Dec 4th)</title>
+      <link>https://isc.sans.edu/diary/rss/30448</link>
+      <pubDate>Mon, 04 Dec 2023 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware Attacks Using RDP as the Attack Vector – Detected by EDR</title>
       <link>https://asec.ahnlab.com/en/59439/</link>
@@ -101,11 +106,6 @@
       <title>Apple Security Update Fixes Zero-Day Webkit Exploits</title>
       <link>https://www.techrepublic.com/article/apple-security-update/</link>
       <pubDate>Fri, 01 Dec 2023 19:18:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhones and Macs get patches for two vulnerabilities</title>
-      <link>https://therecord.media/iphones-macs-vulnerabilities-apple-webkit</link>
-      <pubDate>Fri, 01 Dec 2023 18:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
