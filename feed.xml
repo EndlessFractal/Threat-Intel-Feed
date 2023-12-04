@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 04:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 06:21:27 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Warns of Malvertising Scheme Spreading CACTUS Ransomware</title>
+      <link>https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html</link>
+      <pubDate>Mon, 04 Dec 2023 04:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Monday, December 4th, 2023 https://isc.sans.edu/podcastdetail/8762, (Mon, Dec 4th)</title>
       <link>https://isc.sans.edu/diary/rss/30448</link>
@@ -26,6 +31,11 @@
       <title>Bernard Brantley: Tomorrow is a new day. [CISO]</title>
       <link>https://thecyberwire.com/podcasts/career-notes/178/notes</link>
       <pubDate>Sun, 03 Dec 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Gartner® Market Guide for Security, Orchestration, Automation and Response Solutions</title>
+      <link>https://www.techrepublic.com/resource-library/whitepapers/2023-gartner-market-guide-for-security-orchestration-automation-and-response-solutions/</link>
+      <pubDate>Sun, 03 Dec 2023 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>2023’s Dark Horse Cyber Story: Critical Infrastructure Attacks</title>
@@ -96,16 +106,6 @@
       <title>Wyden blocks the senate vote.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1958/notes</link>
       <pubDate>Fri, 01 Dec 2023 21:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>60 credit unions facing outages due to ransomware attack on popular tech provider</title>
-      <link>https://therecord.media/credit-unions-facing-outages-due-to-ransomware</link>
-      <pubDate>Fri, 01 Dec 2023 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Security Update Fixes Zero-Day Webkit Exploits</title>
-      <link>https://www.techrepublic.com/article/apple-security-update/</link>
-      <pubDate>Fri, 01 Dec 2023 19:18:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
