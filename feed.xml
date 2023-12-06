@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Dec 2023 01:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 02:28:28 +0000</lastBuildDate>
+    <item>
+      <title>Threat actors breached US govt systems by exploiting Adobe ColdFusion flaw</title>
+      <link>https://securityaffairs.com/155289/security/us-govt-adobe-coldfusion-flaw.html</link>
+      <pubDate>Wed, 06 Dec 2023 00:56:49 +0000</pubDate>
+    </item>
     <item>
       <title>AsyncRAT Distributed via WSF Script</title>
       <link>https://asec.ahnlab.com/en/59573/</link>
@@ -101,11 +106,6 @@
       <title>Roblox and Twitch provider Tipalti breached by ransomware [updated]</title>
       <link>https://www.malwarebytes.com/blog/news/2023/12/roblox-and-twitch-provider-tipalti-breached-by-ransomware</link>
       <pubDate>Tue, 05 Dec 2023 12:59:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI and Mass Spying</title>
-      <link>https://www.schneier.com/blog/archives/2023/12/ai-and-mass-spying.html</link>
-      <pubDate>Tue, 05 Dec 2023 12:10:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
