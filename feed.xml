@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Dec 2023 10:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 12:29:52 +0000</lastBuildDate>
+    <item>
+      <title>New Bluetooth Attack</title>
+      <link>https://www.schneier.com/blog/archives/2023/12/new-bluetooth-attack.html</link>
+      <pubDate>Fri, 08 Dec 2023 12:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+692: FSB and GRU cyber operations aim at influence.</title>
+      <link>https://thecyberwire.com/stories/f4fd296e7fe748c59bd1a85593eea7c6/ukraine-at-d692</link>
+      <pubDate>Fri, 08 Dec 2023 11:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remcos RAT and Meduza Stealer Detection: UAC-0050 Group Launches a Massive Phishing Attack Against State Bodies in Ukraine and Poland</title>
+      <link>https://socprime.com/blog/remcos-rat-and-meduza-stealer-detection-uac-0050-group-lanches-a-massive-phishing-attack-against-state-bodies-in-ukraine-and-poland/</link>
+      <pubDate>Fri, 08 Dec 2023 11:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware-as-a-Service: The Growing Threat You Can't Ignore</title>
+      <link>https://thehackernews.com/2023/12/ransomware-as-service-growing-threat.html</link>
+      <pubDate>Fri, 08 Dec 2023 11:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICO Warns of Fines for “Nefarious” AI Use</title>
+      <link>https://www.infosecurity-magazine.com/news/ico-warns-of-fines-for-nefarious/</link>
+      <pubDate>Fri, 08 Dec 2023 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android barcode scanner app exposes user passwords</title>
+      <link>https://securityaffairs.com/155444/mobile-2/android-barcode-scanner-app-exposes-user-passwords.html</link>
+      <pubDate>Fri, 08 Dec 2023 10:32:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Mini Router Gives You Lifetime Wi-Fi and VPN Coverage for $599.99</title>
+      <link>https://www.techrepublic.com/article/mini-by-routie-guest-wifi-for-businesses-lifetime-subscription/</link>
+      <pubDate>Fri, 08 Dec 2023 10:30:46 +0000</pubDate>
+    </item>
     <item>
       <title>Geopolitics to Blame For DoS Surge in Europe, Says ENISA</title>
       <link>https://www.infosecurity-magazine.com/news/geopolitics-blame-dos-surge-europe/</link>
       <pubDate>Fri, 08 Dec 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mac Users Beware: New Trojan-Proxy Malware Spreading via Pirated Software</title>
+      <link>https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html</link>
+      <pubDate>Fri, 08 Dec 2023 09:52:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Surge is Driving UK Inflation, Says Veeam</title>
@@ -66,46 +106,6 @@
       <title>5Ghoul: Impacts, Implications and Next Steps, (Thu, Dec 7th)</title>
       <link>https://isc.sans.edu/diary/rss/30462</link>
       <pubDate>Fri, 08 Dec 2023 01:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked APT8 exploited Outlook zero-day to target European NATO members</title>
-      <link>https://securityaffairs.com/155420/apt/apt8-exploited-outlook-0day-target-nato.html</link>
-      <pubDate>Fri, 08 Dec 2023 00:07:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Widespread Windows and Linux Vulnerabilities Could Let Attackers Sneak in Malicious Code Before Boot</title>
-      <link>https://www.techrepublic.com/article/logo-fail-windows-linux-vulnerabilities/</link>
-      <pubDate>Thu, 07 Dec 2023 21:36:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK and US expose Russia Callisto Group’s activity and sanction members</title>
-      <link>https://securityaffairs.com/155388/apt/uk-us-expose-russia-callisto-group.html</link>
-      <pubDate>Thu, 07 Dec 2023 21:32:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New vulnerability packs a punch.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1962/notes</link>
-      <pubDate>Thu, 07 Dec 2023 21:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HHS proposes new cybersecurity requirements for hospitals through HIPAA, Medicaid and Medicare</title>
-      <link>https://therecord.media/hhs-proposes-cyber-requirements-for-hospitals</link>
-      <pubDate>Thu, 07 Dec 2023 21:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitwarden vs LastPass 2023: Which Password Manager Is Best?</title>
-      <link>https://www.techrepublic.com/article/bitwarden-vs-lastpass/</link>
-      <pubDate>Thu, 07 Dec 2023 21:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Norton Secure VPN Review (2023): Pricing, Features &amp; Security</title>
-      <link>https://www.techrepublic.com/article/norton-secure-vpn-review/</link>
-      <pubDate>Thu, 07 Dec 2023 21:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>2024 Live Hacking Events</title>
-      <link>https://www.hackerone.com/lhe/2024-lhe-invitations</link>
-      <pubDate>Thu, 07 Dec 2023 21:06:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
