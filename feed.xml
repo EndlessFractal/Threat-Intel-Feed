@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Dec 2023 12:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2023 14:12:56 +0000</lastBuildDate>
+    <item>
+      <title>WordPress 6.4.2 fixed a Remote Code Execution (RCE) flaw</title>
+      <link>https://securityaffairs.com/155573/security/wordpress-6-4-2-rce.html</link>
+      <pubDate>Sun, 10 Dec 2023 12:57:17 +0000</pubDate>
+    </item>
     <item>
       <title>Security Affairs newsletter Round 449 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/155564/breaking-news/security-affairs-newsletter-round-449-by-pierluigi-paganini-international-edition.html</link>
@@ -101,11 +106,6 @@
       <title>As Meta rolls out end-to-end encryption, police warn keeping children safe ‘no longer possible’</title>
       <link>https://therecord.media/meta-facebook-e2ee-mesaging-rollout</link>
       <pubDate>Fri, 08 Dec 2023 16:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spearphishing transposes espionage tradecraft to cyberspace.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/12/233</link>
-      <pubDate>Fri, 08 Dec 2023 16:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
