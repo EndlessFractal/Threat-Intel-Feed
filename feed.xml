@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 14:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 16:21:43 +0000</lastBuildDate>
+    <item>
+      <title>Cyberespionage casts a wide net as intelligence services continue to rely on phishing.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/234</link>
+      <pubDate>Mon, 11 Dec 2023 16:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache fixed Critical RCE flaw CVE-2023-50164 in Struts 2</title>
+      <link>https://securityaffairs.com/155643/hacking/apache-struts-2-critical-flaw.html</link>
+      <pubDate>Mon, 11 Dec 2023 15:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>&amp;#8220;Amazon got hacked&amp;#8221; messages are a false alarm</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/12/amazon-got-hacked-messages-are-a-false-alarm</link>
+      <pubDate>Mon, 11 Dec 2023 14:31:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+655: GRU phishes humanitarian aid organizations.</title>
+      <link>https://thecyberwire.com/stories/d7749ac46ecb466799342e1340e6ddbb/ukraine-at-d695</link>
+      <pubDate>Mon, 11 Dec 2023 14:22:14 +0000</pubDate>
+    </item>
     <item>
       <title>How the White House sees the future of safeguarding AI</title>
       <link>https://securityintelligence.com/articles/the-white-house-safeguarding-ai/</link>
@@ -21,6 +41,11 @@
       <title>Operation Blacksmith: Lazarus targets organizations worldwide using novel Telegram-based malware written in DLang</title>
       <link>https://blog.talosintelligence.com/lazarus_new_rats_dlang_and_telegram/</link>
       <pubDate>Mon, 11 Dec 2023 13:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is sitemap.xml, and Why a Pentester Should Care, (Mon, Dec 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/30472</link>
+      <pubDate>Mon, 11 Dec 2023 13:47:10 +0000</pubDate>
     </item>
     <item>
       <title>Lazarus Group Using Log4j Exploits to Deploy Remote Access Trojans</title>
@@ -81,31 +106,6 @@
       <title>Police Arrest Hundreds of Human Traffickers Linked to Cyber Fraud</title>
       <link>https://www.infosecurity-magazine.com/news/police-arrest-hundreds-human/</link>
       <pubDate>Mon, 11 Dec 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA adds Qlik Sense flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/155615/security/cisa-qlik-sense-flaws-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Mon, 11 Dec 2023 09:52:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two-Fifths of Log4j Apps Use Vulnerable Versions</title>
-      <link>https://www.infosecurity-magazine.com/news/twofifths-log4j-apps-vulnerable/</link>
-      <pubDate>Mon, 11 Dec 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and ENISA signed a Working Arrangement to enhance cooperation</title>
-      <link>https://securityaffairs.com/155606/security/cisa-enisa-signed-working-arrangement.html</link>
-      <pubDate>Mon, 11 Dec 2023 08:10:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (December 4 &amp;#8211; December 10)</title>
-      <link>https://www.malwarebytes.com/blog/news/2023/12/a-week-in-security-december-4-december-10</link>
-      <pubDate>Mon, 11 Dec 2023 08:06:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Distribution of Phishing Email Under the Guise of Personal Data Leak (Konni)</title>
-      <link>https://asec.ahnlab.com/en/59763/</link>
-      <pubDate>Mon, 11 Dec 2023 07:35:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
