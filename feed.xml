@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 02:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 04:19:15 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Tuesday, December 12th, 2023 https://isc.sans.edu/podcastdetail/8774, (Tue, Dec 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/30476</link>
+      <pubDate>Tue, 12 Dec 2023 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Toyota Financial Services discloses a data breach</title>
       <link>https://securityaffairs.com/155652/data-breach/toyota-financial-services-data-breach.html</link>
@@ -101,11 +106,6 @@
       <title>Researchers Unmask Sandman APT's Hidden Link to China-Based KEYPLUG Backdoor</title>
       <link>https://thehackernews.com/2023/12/researchers-unmask-sandman-apts-hidden.html</link>
       <pubDate>Mon, 11 Dec 2023 13:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Blacksmith: Lazarus targets organizations worldwide using novel Telegram-based malware written in DLang</title>
-      <link>https://blog.talosintelligence.com/lazarus_new_rats_dlang_and_telegram/</link>
-      <pubDate>Mon, 11 Dec 2023 13:50:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
