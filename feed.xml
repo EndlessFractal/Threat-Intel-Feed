@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 06:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 08:20:17 +0000</lastBuildDate>
+    <item>
+      <title>Beyond Basics with Tanya Janca</title>
+      <link>https://thecyberwire.com/podcasts/afternoon-cyber-tea/87/notes</link>
+      <pubDate>Tue, 12 Dec 2023 08:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Releases Security Updates to Patch Critical iOS and macOS Security Flaws</title>
+      <link>https://thehackernews.com/2023/12/apple-releases-security-updates-to.html</link>
+      <pubDate>Tue, 12 Dec 2023 06:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now</title>
       <link>https://thehackernews.com/2023/12/new-critical-rce-vulnerability.html</link>
@@ -63,6 +73,11 @@
       <pubDate>Mon, 11 Dec 2023 19:14:53 +0000</pubDate>
     </item>
     <item>
+      <title>How Do You Know Ethical Hackers Can Be Trusted?</title>
+      <link>https://www.hackerone.com/vulnerability-management/clear-and-gateway</link>
+      <pubDate>Mon, 11 Dec 2023 17:34:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Get a VPN for Yourself and Your Employees This Holiday Season</title>
       <link>https://www.techrepublic.com/article/fastestvpn-pro-lifetime-subscription/</link>
       <pubDate>Mon, 11 Dec 2023 17:20:31 +0000</pubDate>
@@ -91,21 +106,6 @@
       <title>Apache fixed Critical RCE flaw CVE-2023-50164 in Struts 2</title>
       <link>https://securityaffairs.com/155643/hacking/apache-struts-2-critical-flaw.html</link>
       <pubDate>Mon, 11 Dec 2023 15:08:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>&amp;#8220;Amazon got hacked&amp;#8221; messages are a false alarm</title>
-      <link>https://www.malwarebytes.com/blog/news/2023/12/amazon-got-hacked-messages-are-a-false-alarm</link>
-      <pubDate>Mon, 11 Dec 2023 14:31:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine at D+655: GRU phishes humanitarian aid organizations.</title>
-      <link>https://thecyberwire.com/stories/d7749ac46ecb466799342e1340e6ddbb/ukraine-at-d695</link>
-      <pubDate>Mon, 11 Dec 2023 14:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the White House sees the future of safeguarding AI</title>
-      <link>https://securityintelligence.com/articles/the-white-house-safeguarding-ai/</link>
-      <pubDate>Mon, 11 Dec 2023 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
