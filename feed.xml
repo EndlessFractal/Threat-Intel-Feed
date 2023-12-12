@@ -6,15 +6,50 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 14:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 16:19:32 +0000</lastBuildDate>
+    <item>
+      <title>Catphishing in the HR pond.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/235</link>
+      <pubDate>Tue, 12 Dec 2023 16:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+656: Russia and Ukraine exchange cyberattacks.</title>
+      <link>https://thecyberwire.com/stories/23e7d8b4b3ed4dbc8a745df3bf5a872c/ukraine-at-d656</link>
+      <pubDate>Tue, 12 Dec 2023 16:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Blacksmith: Lazarus exploits Log4j flaws to deploy DLang malware</title>
+      <link>https://securityaffairs.com/155681/apt/operation-blacksmith-lazarus-log4j.html</link>
+      <pubDate>Tue, 12 Dec 2023 15:31:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Widespread Security Flaws Blamed for Northern Ireland Police Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/security-flaws-psni-data-breach/</link>
+      <pubDate>Tue, 12 Dec 2023 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian APT28 Hackers Targeting 13 Nations in Ongoing Cyber Espionage Campaign</title>
+      <link>https://thehackernews.com/2023/12/russian-apt28-hackers-targeting-13.html</link>
+      <pubDate>Tue, 12 Dec 2023 14:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Illusion | Addressing the Cybersecurity Impact of Deepfakes and Synthetic Media</title>
+      <link>https://www.sentinelone.com/blog/beyond-illusion-addressing-the-cybersecurity-impact-of-deepfakes-and-synthetic-media/</link>
+      <pubDate>Tue, 12 Dec 2023 14:30:34 +0000</pubDate>
+    </item>
     <item>
       <title>Cloudflare 2023 Year in Review</title>
       <link>http://blog.cloudflare.com/radar-2023-year-in-review/</link>
       <pubDate>Tue, 12 Dec 2023 14:00:33 +0000</pubDate>
     </item>
     <item>
-      <title>Ukraine's Largest Phone Operator Hacked in "Act of War"</title>
-      <link>https://www.infosecurity-magazine.com/news/ukraine-kyivstar-hacked-act-of-war/</link>
+      <title>Ukraine's Largest Phone Operator Hack Tied to War With Russia</title>
+      <link>https://www.infosecurity-magazine.com/news/ukraine-kyivstar-hacked-war-russia/</link>
+      <pubDate>Tue, 12 Dec 2023 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine's largest telecom operator shut down after cyberattack</title>
+      <link>https://therecord.media/kyivstar-cyberattack-telecom-shutdown-ukraine</link>
       <pubDate>Tue, 12 Dec 2023 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -71,41 +106,6 @@
       <title>New MrAnon Stealer Malware Targeting German Users via Booking-Themed Scam</title>
       <link>https://thehackernews.com/2023/12/new-mranon-stealer-targeting-german-it.html</link>
       <pubDate>Tue, 12 Dec 2023 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache Warns of Critical Vulnerability in Struts 2</title>
-      <link>https://www.infosecurity-magazine.com/news/apache-warns-critical/</link>
-      <pubDate>Tue, 12 Dec 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple released iOS 17.2 to address a dozen of security flaws</title>
-      <link>https://securityaffairs.com/155669/security/apple-released-ios-17-2.html</link>
-      <pubDate>Tue, 12 Dec 2023 08:13:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond Basics with Tanya Janca</title>
-      <link>https://thecyberwire.com/podcasts/afternoon-cyber-tea/87/notes</link>
-      <pubDate>Tue, 12 Dec 2023 08:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Releases Security Updates to Patch Critical iOS and macOS Security Flaws</title>
-      <link>https://thehackernews.com/2023/12/apple-releases-security-updates-to.html</link>
-      <pubDate>Tue, 12 Dec 2023 06:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now</title>
-      <link>https://thehackernews.com/2023/12/new-critical-rce-vulnerability.html</link>
-      <pubDate>Tue, 12 Dec 2023 05:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, December 12th, 2023 https://isc.sans.edu/podcastdetail/8774, (Tue, Dec 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/30476</link>
-      <pubDate>Tue, 12 Dec 2023 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toyota Financial Services discloses a data breach</title>
-      <link>https://securityaffairs.com/155652/data-breach/toyota-financial-services-data-breach.html</link>
-      <pubDate>Mon, 11 Dec 2023 23:10:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
