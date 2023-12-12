@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 22:15:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 01:10:53 +0000</lastBuildDate>
+    <item>
+      <title>Toyota Financial Services discloses a data breach</title>
+      <link>https://securityaffairs.com/155652/data-breach/toyota-financial-services-data-breach.html</link>
+      <pubDate>Mon, 11 Dec 2023 23:10:56 +0000</pubDate>
+    </item>
     <item>
       <title>Nearly 130,000 affected by ransomware attack on cold storage company Americold</title>
       <link>https://therecord.media/ransomware-attack-on-americold-cold-storage</link>
@@ -101,11 +106,6 @@
       <title>Operation Blacksmith: Lazarus targets organizations worldwide using novel Telegram-based malware written in DLang</title>
       <link>https://blog.talosintelligence.com/lazarus_new_rats_dlang_and_telegram/</link>
       <pubDate>Mon, 11 Dec 2023 13:50:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus Group Using Log4j Exploits to Deploy Remote Access Trojans</title>
-      <link>https://thehackernews.com/2023/12/lazarus-group-using-log4j-exploits-to.html</link>
-      <pubDate>Mon, 11 Dec 2023 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
