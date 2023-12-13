@@ -6,7 +6,62 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 14:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 16:19:51 +0000</lastBuildDate>
+    <item>
+      <title>Google Adds Gemini Pro API to AI Studio and Vertex AI</title>
+      <link>https://www.techrepublic.com/article/google-adds-gemini-ai-studio-vertex-ai/</link>
+      <pubDate>Wed, 13 Dec 2023 15:58:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use Titan Security Keys With Passkey Support</title>
+      <link>https://www.techrepublic.com/article/how-to-use-titan-security-keys/</link>
+      <pubDate>Wed, 13 Dec 2023 15:48:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Home Office is ignoring the risk of ‘catastrophic ransomware attacks,’ report warns</title>
+      <link>https://securityaffairs.com/155778/security/home-office-ignores-ransomware-attacks-risks.html</link>
+      <pubDate>Wed, 13 Dec 2023 15:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>MITRE Launches Critical Infrastructure Threat Model Framework</title>
+      <link>https://www.infosecurity-magazine.com/news/mitre-critical-infrastructure/</link>
+      <pubDate>Wed, 13 Dec 2023 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BazaCall Phishing Scammers Now Leveraging Google Forms for Deception</title>
+      <link>https://thehackernews.com/2023/12/bazacall-phishing-scammers-now.html</link>
+      <pubDate>Wed, 13 Dec 2023 15:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia Set to Ramp Up Attacks on Ukraine’s Allies This Winter</title>
+      <link>https://www.infosecurity-magazine.com/news/russia-attacks-ukraine-allies/</link>
+      <pubDate>Wed, 13 Dec 2023 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+657: Complementary strikes against infrastructure.</title>
+      <link>https://thecyberwire.com/stories/4d215b7545264bb7a5c8c416917227a8/ukraine-at-d657</link>
+      <pubDate>Wed, 13 Dec 2023 14:54:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Rapidly Evolving Landscape of Generative AI Tools, AI-Powered Cyber Threats and AI-Centric Adversarial Tactics</title>
+      <link>https://blog.eclecticiq.com/the-rapidly-evolving-landscape-of-generative-ai-tools-ai-powered-cyber-threats-and-ai-centric-adversarial-tactics</link>
+      <pubDate>Wed, 13 Dec 2023 14:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers damaged some infrastructure of Ukraine’s Kyivstar telecom company</title>
+      <link>https://therecord.media/hackers-damaged-kyivstar-functions-ukraine-telecom-cyberattack</link>
+      <pubDate>Wed, 13 Dec 2023 14:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>District court in Switzerland ‘victim of a cyber attack’</title>
+      <link>https://therecord.media/district-court-switzerland-cyberattack</link>
+      <pubDate>Wed, 13 Dec 2023 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OAuth apps used in cryptocurrency mining, phishing campaigns, and BEC attacks</title>
+      <link>https://securityaffairs.com/155756/hacking/oauth-applications-abuse-attacks.html</link>
+      <pubDate>Wed, 13 Dec 2023 14:07:44 +0000</pubDate>
+    </item>
     <item>
       <title>Mallox Resurrected | Ransomware Attacks Exploiting MS-SQL Continue to Burden Enterprises</title>
       <link>https://www.sentinelone.com/blog/mallox-resurrected-ransomware-attacks-exploiting-ms-sql-continue-to-burden-enterprises/</link>
@@ -51,61 +106,6 @@
       <title>Lindy Cameron, head of UK NCSC, to leave cyber agency for diplomatic posting</title>
       <link>https://therecord.media/lindy-cameron-leaving-uk-ncsc-cyber-agency</link>
       <pubDate>Wed, 13 Dec 2023 11:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Press and pressure: Ransomware gangs and the media</title>
-      <link>https://news.sophos.com/en-us/2023/12/13/press-and-pressure-ransomware-gangs-and-the-media/</link>
-      <pubDate>Wed, 13 Dec 2023 11:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Utility attacks and electrical sector supply chain vulnerabilities.</title>
-      <link>https://thecyberwire.com/podcasts/control-loop/40/notes</link>
-      <pubDate>Wed, 13 Dec 2023 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Warns of Hackers Exploiting OAuth for Cryptocurrency Mining and Phishing</title>
-      <link>https://thehackernews.com/2023/12/microsoft-warns-of-hackers-exploiting.html</link>
-      <pubDate>Wed, 13 Dec 2023 10:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1-15 October 2023 Cyber Attacks Timeline</title>
-      <link>https://www.hackmageddon.com/2023/12/13/1-15-october-2023-cyber-attacks-timeline/</link>
-      <pubDate>Wed, 13 Dec 2023 10:31:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes 34 CVEs and One Zero-Day in December Patch Tuesday</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-fixes-34-cves-one-zero/</link>
-      <pubDate>Wed, 13 Dec 2023 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos backports fix for CVE-2022-3236 for EOL firewall firmware versions due to ongoing attacks</title>
-      <link>https://securityaffairs.com/155746/security/sophos-backports-cve-2022-3236-patch.html</link>
-      <pubDate>Wed, 13 Dec 2023 10:22:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Cyber Attack Paralyzes Kyivstar - Ukraine's Largest Telecom Operator</title>
-      <link>https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html</link>
-      <pubDate>Wed, 13 Dec 2023 10:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FakeSG campaign, Akira ransomware and AMOS macOS stealer</title>
-      <link>https://securelist.com/crimeware-report-fakesg-akira-amos/111483/</link>
-      <pubDate>Wed, 13 Dec 2023 10:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Ministry of Defence Fined For Afghan Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/ministry-defence-fined-afghan-data/</link>
-      <pubDate>Wed, 13 Dec 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Claims it “Paralyzed” Russia’s Tax System</title>
-      <link>https://www.infosecurity-magazine.com/news/ukraine-claims-paralyzed-russias/</link>
-      <pubDate>Wed, 13 Dec 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Python Script with a TCL/TK GUI, (Wed, Dec 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/30478</link>
-      <pubDate>Wed, 13 Dec 2023 09:22:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
