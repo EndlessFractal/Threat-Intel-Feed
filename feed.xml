@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 18:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 20:16:48 +0000</lastBuildDate>
+    <item>
+      <title>Ransomware review: December 2023</title>
+      <link>https://www.malwarebytes.com/blog/threat-intelligence/2023/12/ransomware-review-december-2023</link>
+      <pubDate>Wed, 13 Dec 2023 19:22:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian national with alleged Hive ransomware ties arrested in Paris</title>
+      <link>https://therecord.media/russian-with-hive-ties-arrested-france</link>
+      <pubDate>Wed, 13 Dec 2023 18:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian foreign intelligence service spotted exploiting JetBrains vulnerability</title>
+      <link>https://therecord.media/russia-svr-exploiting-jetbrains-vulnerability</link>
+      <pubDate>Wed, 13 Dec 2023 18:32:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft patches 34 vulnerabilities, including one zero-day</title>
       <link>https://www.malwarebytes.com/blog/news/2023/12/microsoft-patches-34-vulnerabilities-including-one-zero-day</link>
@@ -91,21 +106,6 @@
       <title>Google Using Clang Sanitizers to Protect Android Against Cellular Baseband Vulnerabilities</title>
       <link>https://thehackernews.com/2023/12/google-using-clang-sanitizers-to.html</link>
       <pubDate>Wed, 13 Dec 2023 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2023-49070 Exploit Detection: A Critical Pre-Auth RCE Vulnerability in Apache OFBiz</title>
-      <link>https://socprime.com/blog/cve-2023-49070-exploit-detection-a-critical-pre-auth-rce-vulnerability-in-apache-ofbiz/</link>
-      <pubDate>Wed, 13 Dec 2023 12:59:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK at High Risk of Catastrophic Ransomware Attack, Government Ill-Prepared</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-risk-catastrophic-ransomware/</link>
-      <pubDate>Wed, 13 Dec 2023 12:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surveillance by the US Postal Service</title>
-      <link>https://www.schneier.com/blog/archives/2023/12/surveillance-by-the-us-postal-service.html</link>
-      <pubDate>Wed, 13 Dec 2023 12:04:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
