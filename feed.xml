@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Dec 2023 01:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 02:29:23 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Friday, December 15th, 2023 https://isc.sans.edu/podcastdetail/8780, (Fri, Dec 15th)</title>
+      <link>https://isc.sans.edu/diary/rss/30488</link>
+      <pubDate>Fri, 15 Dec 2023 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infected Systems Controlled Through Remote Administration Tools (Detected by EDR)</title>
+      <link>https://asec.ahnlab.com/en/59834/</link>
+      <pubDate>Fri, 15 Dec 2023 01:31:05 +0000</pubDate>
+    </item>
     <item>
       <title>Ubiquiti users claim to have access to other people’s devices</title>
       <link>https://securityaffairs.com/155871/security/ubiquiti-wifi-products-issue.html</link>
@@ -96,16 +106,6 @@
       <title>FCC updates data breach rules, with consumers in mind</title>
       <link>https://therecord.media/fcc-updates-data-breach-reporting-rules-telecom-carriers</link>
       <pubDate>Thu, 14 Dec 2023 15:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cozy Bear Hackers Target JetBrains TeamCity Servers in Global Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/cozy-bear-russia-jetbrains-teamcity/</link>
-      <pubDate>Thu, 14 Dec 2023 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>116 Malware Packages Found on PyPI Repository Infecting Windows and Linux Systems</title>
-      <link>https://thehackernews.com/2023/12/116-malware-packages-found-on-pypi.html</link>
-      <pubDate>Thu, 14 Dec 2023 15:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
