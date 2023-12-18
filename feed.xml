@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Dec 2023 20:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 22:14:35 +0000</lastBuildDate>
+    <item>
+      <title>FBI: Play ransomware gang has attacked 300 orgs since 2022</title>
+      <link>https://therecord.media/play-ransomware-targets-hundreds</link>
+      <pubDate>Mon, 18 Dec 2023 21:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>14 million customers and stolen data.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/1969/notes</link>
+      <pubDate>Mon, 18 Dec 2023 21:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apparel giant VF reports cyberattack on first day of SEC disclosure rule</title>
       <link>https://therecord.media/vf-corp-cyberattack-filing-first-day-sec-incident-reporting-rules</link>
@@ -31,11 +41,6 @@
       <title>Info stealers and how to protect against them</title>
       <link>https://securityaffairs.com/156081/malware/info-stealers.html</link>
       <pubDate>Mon, 18 Dec 2023 18:45:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>MongoDB says hackers accessed corporate systems containing customer info</title>
-      <link>https://therecord.media/mongodb-hackers-accessed-corporate-data</link>
-      <pubDate>Mon, 18 Dec 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Meet the entirely legal, iPhone-crashing device, the Flipper Zero: Lock and Code S04E25</title>
@@ -101,11 +106,6 @@
       <title>Rhadamanthys Malware: Swiss Army Knife of Information Stealers Emerges</title>
       <link>https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html</link>
       <pubDate>Mon, 18 Dec 2023 14:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Integrating Turnstile with the Cloudflare WAF to challenge fetch requests</title>
-      <link>https://blog.cloudflare.com/integrating-turnstile-with-the-cloudflare-waf-to-challenge-fetch-requests</link>
-      <pubDate>Mon, 18 Dec 2023 14:00:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
