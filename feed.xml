@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Dec 2023 01:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 02:28:55 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Monday, December 18th, 2023 https://isc.sans.edu/podcastdetail/8782, (Mon, Dec 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/30494</link>
+      <pubDate>Mon, 18 Dec 2023 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>MongoDB investigates a cyberattack, customer data exposed</title>
       <link>https://securityaffairs.com/156008/hacking/mongodb-investigate-cyberattack.html</link>
@@ -101,11 +106,6 @@
       <title>Ontario public library shuts down most services due to cyberattack</title>
       <link>https://therecord.media/ontario-public-library-shuts-down-services</link>
       <pubDate>Fri, 15 Dec 2023 20:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PikaBot distributed via malicious search ads</title>
-      <link>https://www.malwarebytes.com/blog/threat-intelligence/2023/12/pikabot-distributed-via-malicious-ads</link>
-      <pubDate>Fri, 15 Dec 2023 18:56:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
