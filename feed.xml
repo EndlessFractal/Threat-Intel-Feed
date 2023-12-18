@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Dec 2023 14:15:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 16:20:28 +0000</lastBuildDate>
+    <item>
+      <title>Security-by-design and software supply chains.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/239</link>
+      <pubDate>Mon, 18 Dec 2023 16:17:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police Get Medical Records without a Warrant</title>
+      <link>https://www.schneier.com/blog/archives/2023/12/police-get-medical-records-without-a-warrant.html</link>
+      <pubDate>Mon, 18 Dec 2023 15:37:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>MongoDB warns customers about data breach after cyberattack</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/12/mongodb-warns-customers-about-data-breach-after-cyberattack</link>
+      <pubDate>Mon, 18 Dec 2023 15:29:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro-Israel Predatory Sparrow hacker group disrupted services at around 70% of Iran’s fuel stations</title>
+      <link>https://securityaffairs.com/156065/hacktivism/pro-israel-predatory-sparrow-iran-fuel-stations.html</link>
+      <pubDate>Mon, 18 Dec 2023 15:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 7 Trends Shaping SaaS Security in 2024</title>
+      <link>https://thehackernews.com/2023/12/top-7-trends-shaping-saas-security-in.html</link>
+      <pubDate>Mon, 18 Dec 2023 14:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decrypting SentinelOne Detection | The Behavioral AI Engine in Real-Time CWPP</title>
+      <link>https://www.sentinelone.com/blog/decrypting-sentinelone-detection-the-behavioral-ai-engine-in-real-time-cwpp/</link>
+      <pubDate>Mon, 18 Dec 2023 14:39:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qakbot’s Low-Volume Resurgence Targets Hospitality</title>
+      <link>https://www.infosecurity-magazine.com/news/qakbots-resurgence-targets/</link>
+      <pubDate>Mon, 18 Dec 2023 14:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October cyberattack leaked data of 14.7 million people, mortgage giant Mr. Cooper says</title>
+      <link>https://therecord.media/mr-cooper-cyberattack-data-breach-notifications</link>
+      <pubDate>Mon, 18 Dec 2023 14:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rhadamanthys Malware: Swiss Army Knife of Information Stealers Emerges</title>
+      <link>https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html</link>
+      <pubDate>Mon, 18 Dec 2023 14:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine telecom cyberattack one of ‘highest-impact’ hacks of the war</title>
+      <link>https://therecord.media/ukraine-kyivstar-hack-high-impact</link>
+      <pubDate>Mon, 18 Dec 2023 14:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Integrating Turnstile with the Cloudflare WAF to challenge fetch requests</title>
       <link>https://blog.cloudflare.com/integrating-turnstile-with-the-cloudflare-waf-to-challenge-fetch-requests</link>
@@ -33,6 +83,11 @@
       <pubDate>Mon, 18 Dec 2023 12:13:00 +0000</pubDate>
     </item>
     <item>
+      <title>FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware</link>
+      <pubDate>Mon, 18 Dec 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine at D+662: Russia's expansive war aims.</title>
       <link>https://thecyberwire.com/stories/0880c860cf5d478494ef86b5e67f11ef/ukraine-at-d662</link>
       <pubDate>Mon, 18 Dec 2023 11:36:09 +0000</pubDate>
@@ -51,61 +106,6 @@
       <title>Insurer’s UK Honeypots Attacked 17 Million Times Per Day</title>
       <link>https://www.infosecurity-magazine.com/news/uk-honeypots-attacked-17-million/</link>
       <pubDate>Mon, 18 Dec 2023 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MongoDB Investigates Customer Account Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/mongodb-investigates-customer-data/</link>
-      <pubDate>Mon, 18 Dec 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Technology Manufacturers Urged to Eliminate Passwords</title>
-      <link>https://www.infosecurity-magazine.com/news/technology-manufacturers-eliminate/</link>
-      <pubDate>Mon, 18 Dec 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QakBot Malware Resurfaces with New Tactics, Targeting the Hospitality Industry</title>
-      <link>https://thehackernews.com/2023/12/qakbot-malware-resurfaces-with-new.html</link>
-      <pubDate>Mon, 18 Dec 2023 09:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (December 11 &amp;#8211; December 17)</title>
-      <link>https://www.malwarebytes.com/blog/news/2023/12/a-week-in-security-december-11-december-17</link>
-      <pubDate>Mon, 18 Dec 2023 08:07:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>A supply chain attack on crypto hardware wallet Ledger led to the theft of $600K</title>
-      <link>https://securityaffairs.com/156029/hacking/ledger-supply-chain-attack.html</link>
-      <pubDate>Mon, 18 Dec 2023 06:17:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Urges Manufacturers Eliminate Default Passwords to Thwart Cyber Threats</title>
-      <link>https://thehackernews.com/2023/12/cisa-urges-manufacturers-eliminate.html</link>
-      <pubDate>Mon, 18 Dec 2023 05:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, December 18th, 2023 https://isc.sans.edu/podcastdetail/8782, (Mon, Dec 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/30494</link>
-      <pubDate>Mon, 18 Dec 2023 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>MongoDB investigates a cyberattack, customer data exposed</title>
-      <link>https://securityaffairs.com/156008/hacking/mongodb-investigate-cyberattack.html</link>
-      <pubDate>Sun, 17 Dec 2023 18:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Top 24 Security Predictions for 2024 (Part 1)</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-24-security-predictions-for-2024-part-1</link>
-      <pubDate>Sun, 17 Dec 2023 10:18:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>InfectedSlurs botnet targets QNAP VioStor NVR vulnerability</title>
-      <link>https://securityaffairs.com/155972/hacking/infectedslurs-botnet-qnap-viostor-nvr.html</link>
-      <pubDate>Sun, 17 Dec 2023 09:45:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 450 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/155997/breaking-news/security-affairs-newsletter-round-450-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 17 Dec 2023 09:34:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
