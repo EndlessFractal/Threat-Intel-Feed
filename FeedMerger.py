@@ -76,7 +76,7 @@ def create_rss_feed(combined_feed):
     fg.link(href="https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml", rel="alternate")
 
     # Add the entries from the combined feed to the RSS feed
-    for entry in combined_feed[-20:]:
+    for entry in combined_feed[-60:]:
         pub_date = convert_to_utc(parse_date_with_timezone(entry.published)) if hasattr(entry, 'published') else None
 
         fe = fg.add_entry()

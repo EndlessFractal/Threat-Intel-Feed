@@ -6,7 +6,7 @@ import time
 import os
 
 
-MAX_LINKS_TO_KEEP = 100
+MAX_LINKS_TO_KEEP = 200
 
 
 def read_posted_links(file_path):
