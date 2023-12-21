@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Dec 2023 22:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 01:08:39 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #353: Phone hacking, Piers Morgan, and Carole’s Christmas cockup</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-353/</link>
+      <pubDate>Thu, 21 Dec 2023 00:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google addressed a new actively exploited Chrome zero-day</title>
+      <link>https://securityaffairs.com/156231/security/google-addressed-a-new-actively-exploited-chrome-zero-day.html</link>
+      <pubDate>Wed, 20 Dec 2023 23:52:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>German police seized the dark web marketplace Kingdom Market</title>
+      <link>https://securityaffairs.com/156218/cyber-crime/police-seized-kingdom-market.html</link>
+      <pubDate>Wed, 20 Dec 2023 22:43:19 +0000</pubDate>
+    </item>
     <item>
       <title>Yahoo Survivor Football bug let players pick winners after NFL games were over</title>
       <link>https://therecord.media/yahoo-survivor-football-bug-cheating</link>
@@ -106,6 +121,191 @@
       <title>Remote Encryption Attacks Surge: How One Vulnerable Device Can Spell Disaster</title>
       <link>https://thehackernews.com/2023/12/remote-encryption-attacks-surge-how-one.html</link>
       <pubDate>Wed, 20 Dec 2023 13:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEGA and SIX Group: The Value of VDP and Bug Bounty</title>
+      <link>https://www.hackerone.com/customer-stories/sega-six-group</link>
+      <pubDate>Wed, 20 Dec 2023 13:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackCat Rises: Infamous Ransomware Gang Defies Law Enforcement</title>
+      <link>https://www.infosecurity-magazine.com/news/blackcat-ransomware-defies-law/</link>
+      <pubDate>Wed, 20 Dec 2023 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GCHQ Christmas Codebreaking Challenge</title>
+      <link>https://www.schneier.com/blog/archives/2023/12/gchq-christmas-codebreaking-challenge.html</link>
+      <pubDate>Wed, 20 Dec 2023 12:05:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla Releases Security Updates for Firefox and Thunderbird</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird</link>
+      <pubDate>Wed, 20 Dec 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products</link>
+      <pubDate>Wed, 20 Dec 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophisticated JaskaGO info stealer targets macOS and Windows</title>
+      <link>https://securityaffairs.com/156185/malware/jaskago-information-stealer-macos-windows.html</link>
+      <pubDate>Wed, 20 Dec 2023 11:48:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product Explained: Memcyco's Real-Time Defense Against Website Spoofing</title>
+      <link>https://thehackernews.com/2023/12/product-explained-memcycos-real-time.html</link>
+      <pubDate>Wed, 20 Dec 2023 11:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Is an Australian Footballer Collecting My Passwords? The Various Ways Malicious JavaScript Can Steal Your Secrets</title>
+      <link>https://unit42.paloaltonetworks.com/malicious-javascript-steals-sensitive-data/</link>
+      <pubDate>Wed, 20 Dec 2023 11:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>CryptoGuard: An asymmetric approach to the ransomware battle</title>
+      <link>https://news.sophos.com/en-us/2023/12/20/cryptoguard-an-asymmetric-approach-to-the-ransomware-battle/</link>
+      <pubDate>Wed, 20 Dec 2023 11:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ALPHV/BlackCat ransomware operation disrupted, but criminals threaten more attacks</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/alphv-blackcat-ransomware-operation-disrupted-but-criminals-threaten-more-attacks/</link>
+      <pubDate>Wed, 20 Dec 2023 10:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Incident Costs Surge 11% as Budgets Remain Muted</title>
+      <link>https://www.infosecurity-magazine.com/news/cyberincident-costs-surge-11/</link>
+      <pubDate>Wed, 20 Dec 2023 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alert: Chinese-Speaking Hackers Pose as UAE Authority in Latest Smishing Wave</title>
+      <link>https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html</link>
+      <pubDate>Wed, 20 Dec 2023 10:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Police Seize $300m Linked to Online Scams</title>
+      <link>https://www.infosecurity-magazine.com/news/global-police-seize-300m-linked-to/</link>
+      <pubDate>Wed, 20 Dec 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xfinity Discloses Data Breach Impacting Nearly 36 Million</title>
+      <link>https://www.infosecurity-magazine.com/news/xfinity-discloses-data-breach-36/</link>
+      <pubDate>Wed, 20 Dec 2023 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3,500 Arrested in Global Operation HAECHI-IV Targeting Financial Criminals</title>
+      <link>https://thehackernews.com/2023/12/3500-arrested-in-global-operation.html</link>
+      <pubDate>Wed, 20 Dec 2023 08:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Go-Based JaskaGO Malware Targeting Windows and macOS Systems</title>
+      <link>https://thehackernews.com/2023/12/new-go-based-jaskago-malware-targeting.html</link>
+      <pubDate>Wed, 20 Dec 2023 08:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BMW dealer at risk of takeover by cybercriminals</title>
+      <link>https://securityaffairs.com/156182/data-breach/bmw-dealer-at-risk-of-takeover-by-cybercriminals.html</link>
+      <pubDate>Wed, 20 Dec 2023 07:32:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ALPHV/BlackCat takedown shuffle.</title>
+      <link>https://thecyberwire.com/stories/3fc807655026417c9b787c44ad8fbd13/the-alphvblackcat-takedown-shuffle</link>
+      <pubDate>Wed, 20 Dec 2023 04:43:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comcast's Xfinity service responds to a major data breach.</title>
+      <link>https://thecyberwire.com/stories/c08439d0dd564d71921f72af84eb9216/comcast-xfinity-service-sustains-major-data-breach</link>
+      <pubDate>Wed, 20 Dec 2023 03:32:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, December 20th, 2023 https://isc.sans.edu/podcastdetail/8786, (Wed, Dec 20th)</title>
+      <link>https://isc.sans.edu/diary/rss/30500</link>
+      <pubDate>Wed, 20 Dec 2023 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>What are they looking for&amp;#x3f; Scans for OpenID Connect Configuration (Update: CitrixBleed), (Tue, Dec 19th)</title>
+      <link>https://isc.sans.edu/diary/rss/30498</link>
+      <pubDate>Wed, 20 Dec 2023 00:03:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comcast’s Xfinity customer data exposed after CitrixBleed attack</title>
+      <link>https://securityaffairs.com/156147/data-breach/comcasts-xfinity-customer-data-exposed-after-citrixbleed-attack.html</link>
+      <pubDate>Tue, 19 Dec 2023 23:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI issues advisory over Play ransomware</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/12/fbi-issues-advisory-over-play-ransomware</link>
+      <pubDate>Tue, 19 Dec 2023 23:31:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New MetaStealer malvertising campaigns</title>
+      <link>https://www.malwarebytes.com/blog/threat-intelligence/2023/12/new-metastealer-malvertising-campaigns</link>
+      <pubDate>Tue, 19 Dec 2023 23:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mr. Cooper leaks personal data of 14 million loan and mortgage customers</title>
+      <link>https://www.malwarebytes.com/blog/news/2023/12/mr-cooper-leaks-personal-data-of-14-million-loan-and-mortgage-customers</link>
+      <pubDate>Tue, 19 Dec 2023 23:20:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackCat Ransomware Raises Ante After FBI Disruption</title>
+      <link>https://krebsonsecurity.com/2023/12/blackcat-ransomware-raises-ante-after-fbi-disruption/</link>
+      <pubDate>Tue, 19 Dec 2023 22:49:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>A dark web take down.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/1970/notes</link>
+      <pubDate>Tue, 19 Dec 2023 21:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI claims to have dismantled AlphV/Blackcat ransomware operation, but the group denies it</title>
+      <link>https://securityaffairs.com/156124/breaking-news/alphv-blackcat-ransomware-group-seizure.html</link>
+      <pubDate>Tue, 19 Dec 2023 20:18:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unlocking Trust in AI: The Ethical Hacker's Approach to AI Red Teaming</title>
+      <link>https://www.hackerone.com/ai/ethical-hackers-ai-red-teaming</link>
+      <pubDate>Tue, 19 Dec 2023 17:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Law Enforcement Confirms BlackCat Take Down, Decryption Key Offered to Victims</title>
+      <link>https://www.infosecurity-magazine.com/news/law-enforcement-blackcat-decryption/</link>
+      <pubDate>Tue, 19 Dec 2023 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Australia’s Digital ID Means to How Citizens Interact With Businesses Online</title>
+      <link>https://www.techrepublic.com/article/australia-digital-id/</link>
+      <pubDate>Tue, 19 Dec 2023 16:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smishing Triad Targets UAE Residents in Identity Theft Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/smishing-triad-targets-uae/</link>
+      <pubDate>Tue, 19 Dec 2023 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>12 Essential Steps Mac Users Need To Take At Year End</title>
+      <link>https://www.techrepublic.com/article/mac-users-year-end-essential-steps/</link>
+      <pubDate>Tue, 19 Dec 2023 16:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interference and influence, by state and criminal actors.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/12/240</link>
+      <pubDate>Tue, 19 Dec 2023 16:03:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Foreign Actors Targeted 2022 US Elections, Intelligence Community Reveals</title>
+      <link>https://www.infosecurity-magazine.com/news/foreign-actors-targeted-2022-us/</link>
+      <pubDate>Tue, 19 Dec 2023 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Takes Down BlackCat Ransomware, Releases Free Decryption Tool</title>
+      <link>https://thehackernews.com/2023/12/fbi-takes-down-blackcat-ransomware.html</link>
+      <pubDate>Tue, 19 Dec 2023 15:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind the Scenes of Matveev's Ransomware Empire: Tactics and Team</title>
+      <link>https://thehackernews.com/2023/12/behind-scenes-of-matveevs-ransomware.html</link>
+      <pubDate>Tue, 19 Dec 2023 15:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
