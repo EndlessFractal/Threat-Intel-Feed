@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 14:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 16:20:04 +0000</lastBuildDate>
+    <item>
+      <title>The Cyberattack on Insomniac Games.</title>
+      <link>https://thecyberwire.com/stories/9fd73fb9116c4f03a31c06c74b99d6c1/the-cyberattack-on-insomniac-games</link>
+      <pubDate>Thu, 21 Dec 2023 16:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intellexa and Cytrox: From fixer-upper to Intel Agency-grade spyware</title>
+      <link>https://blog.talosintelligence.com/intellexa-and-cytrox-intel-agency-grade-spyware/</link>
+      <pubDate>Thu, 21 Dec 2023 16:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+665: Reprisals for the Kyivstar hack.</title>
+      <link>https://thecyberwire.com/stories/93585c3c9ea148fcb8ff1740801f9da8/ukraine-at-d665</link>
+      <pubDate>Thu, 21 Dec 2023 15:31:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Third-Party Supply Chain Risk a Challenge for Cyber Security Professionals in Australia</title>
+      <link>https://www.techrepublic.com/article/tesserent-third-party-supply-chain-risk-australia/</link>
+      <pubDate>Thu, 21 Dec 2023 14:57:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESET fixed a high-severity bug in the Secure Traffic Scanning Feature of several products</title>
+      <link>https://securityaffairs.com/156256/security/eset-secure-traffic-scanning-feature-bugs.html</link>
+      <pubDate>Thu, 21 Dec 2023 14:55:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing attacks use an old Microsoft Office flaw to spread Agent Tesla malware</title>
+      <link>https://securityaffairs.com/156246/cyber-crime/agent-tesla-phishing-cve-2017-11882.html</link>
+      <pubDate>Thu, 21 Dec 2023 14:22:39 +0000</pubDate>
+    </item>
     <item>
       <title>Transforming Security and Log Analytics | Welcome to Singularity Data Lake</title>
       <link>https://www.sentinelone.com/blog/transforming-security-and-log-analytics-welcome-to-singularity-data-lake/</link>
       <pubDate>Thu, 21 Dec 2023 14:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>New rules in UK could reimburse fraud victims up to £415,000 ($525,000)</title>
+      <link>https://therecord.media/uk-fraud-repayments-banks-new-psr-rules</link>
+      <pubDate>Thu, 21 Dec 2023 13:58:00 +0000</pubDate>
     </item>
     <item>
       <title>Google discovers another Chrome zero-day exploited in the wild</title>
@@ -26,6 +61,21 @@
       <title>Cyberattack on Ukraine’s Kyivstar Seems to Be Russian Hacktivists</title>
       <link>https://www.schneier.com/blog/archives/2023/12/cyberattack-on-ukraines-kyivstar-seems-to-be-russian-hacktivists.html</link>
       <pubDate>Thu, 21 Dec 2023 12:10:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>QNAP VioStor NVR</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-355-02</link>
+      <pubDate>Thu, 21 Dec 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FXC AE1021/AE1021PE</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-23-355-01</link>
+      <pubDate>Thu, 21 Dec 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 21 Dec 2023 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cost of a Data Breach Report 2023: Insights, Mitigators and Best Practices</title>
@@ -103,11 +153,6 @@
       <pubDate>Thu, 21 Dec 2023 06:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>New rules in UK could reimburse fraud victims up to £415,000 ($525,000)</title>
-      <link>https://therecord.media/uk-fraud-repayments-banks-new-psr-rules</link>
-      <pubDate>Thu, 21 Dec 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Urgent: New Chrome Zero-Day Vulnerability Exploited in the Wild - Update ASAP</title>
       <link>https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html</link>
       <pubDate>Thu, 21 Dec 2023 03:41:00 +0000</pubDate>
@@ -126,6 +171,11 @@
       <title>Smashing Security podcast #353: Phone hacking, Piers Morgan, and Carole’s Christmas cockup</title>
       <link>https://grahamcluley.com/smashing-security-podcast-353/</link>
       <pubDate>Thu, 21 Dec 2023 00:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Annual Payment Fraud Intelligence Report: 2023</title>
+      <link>https://www.recordedfuture.com/annual-payment-fraud-intelligence-report-2023</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Google addressed a new actively exploited Chrome zero-day</title>
@@ -256,56 +306,6 @@
       <title>Sophisticated JaskaGO info stealer targets macOS and Windows</title>
       <link>https://securityaffairs.com/156185/malware/jaskago-information-stealer-macos-windows.html</link>
       <pubDate>Wed, 20 Dec 2023 11:48:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Product Explained: Memcyco's Real-Time Defense Against Website Spoofing</title>
-      <link>https://thehackernews.com/2023/12/product-explained-memcycos-real-time.html</link>
-      <pubDate>Wed, 20 Dec 2023 11:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Is an Australian Footballer Collecting My Passwords? The Various Ways Malicious JavaScript Can Steal Your Secrets</title>
-      <link>https://unit42.paloaltonetworks.com/malicious-javascript-steals-sensitive-data/</link>
-      <pubDate>Wed, 20 Dec 2023 11:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>CryptoGuard: An asymmetric approach to the ransomware battle</title>
-      <link>https://news.sophos.com/en-us/2023/12/20/cryptoguard-an-asymmetric-approach-to-the-ransomware-battle/</link>
-      <pubDate>Wed, 20 Dec 2023 11:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ALPHV/BlackCat ransomware operation disrupted, but criminals threaten more attacks</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/alphv-blackcat-ransomware-operation-disrupted-but-criminals-threaten-more-attacks/</link>
-      <pubDate>Wed, 20 Dec 2023 10:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Incident Costs Surge 11% as Budgets Remain Muted</title>
-      <link>https://www.infosecurity-magazine.com/news/cyberincident-costs-surge-11/</link>
-      <pubDate>Wed, 20 Dec 2023 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alert: Chinese-Speaking Hackers Pose as UAE Authority in Latest Smishing Wave</title>
-      <link>https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html</link>
-      <pubDate>Wed, 20 Dec 2023 10:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global Police Seize $300m Linked to Online Scams</title>
-      <link>https://www.infosecurity-magazine.com/news/global-police-seize-300m-linked-to/</link>
-      <pubDate>Wed, 20 Dec 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xfinity Discloses Data Breach Impacting Nearly 36 Million</title>
-      <link>https://www.infosecurity-magazine.com/news/xfinity-discloses-data-breach-36/</link>
-      <pubDate>Wed, 20 Dec 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3,500 Arrested in Global Operation HAECHI-IV Targeting Financial Criminals</title>
-      <link>https://thehackernews.com/2023/12/3500-arrested-in-global-operation.html</link>
-      <pubDate>Wed, 20 Dec 2023 08:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Go-Based JaskaGO Malware Targeting Windows and macOS Systems</title>
-      <link>https://thehackernews.com/2023/12/new-go-based-jaskago-malware-targeting.html</link>
-      <pubDate>Wed, 20 Dec 2023 08:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
