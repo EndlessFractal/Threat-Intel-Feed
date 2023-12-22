@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 12:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 14:14:05 +0000</lastBuildDate>
+    <item>
+      <title>Ukrainian remote workers targeted in new espionage campaign</title>
+      <link>https://therecord.media/ukraine-remote-workers-targeted-espionage-winrar-vulnerability</link>
+      <pubDate>Fri, 22 Dec 2023 13:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Member of Lapsus$ gang sentenced to an indefinite hospital order</title>
+      <link>https://securityaffairs.com/156270/cyber-crime/lapsus-member-sentenced-indefinite-hospital.html</link>
+      <pubDate>Fri, 22 Dec 2023 13:28:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation RusticWeb: Rust-Based Malware Targets Indian Government Entities</title>
+      <link>https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html</link>
+      <pubDate>Fri, 22 Dec 2023 13:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kazakhstan to extradite Russian cyber expert to Moscow despite US requests</title>
+      <link>https://therecord.media/nikita-kislitsin-extradition-kazakhstan-russia</link>
+      <pubDate>Fri, 22 Dec 2023 13:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autistic teen behind spate of Lapsus$ hacks sentenced to indefinite hospital stay</title>
+      <link>https://therecord.media/lapsus$-hacker-sentencing-uk</link>
+      <pubDate>Fri, 22 Dec 2023 12:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decoy Microsoft Word Documents Used to Deliver Nim-Based Malware</title>
+      <link>https://thehackernews.com/2023/12/decoy-microsoft-word-documents-used-to.html</link>
+      <pubDate>Fri, 22 Dec 2023 12:46:00 +0000</pubDate>
+    </item>
     <item>
       <title>Data Exfiltration Using Indirect Prompt Injection</title>
       <link>https://www.schneier.com/blog/archives/2023/12/data-exfiltration-using-indirect-prompt-injection.html</link>
@@ -128,29 +158,14 @@
       <pubDate>Thu, 21 Dec 2023 20:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cyber-espionage group Cloud Atlas targets Russian companies with war-related phishing attacks</title>
-      <link>https://therecord.media/cloud-atlas-targets-russian-orgs-war-phishing</link>
-      <pubDate>Thu, 21 Dec 2023 19:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Cloud’s Cybersecurity Predictions of 2024 and Look Back at 2023</title>
       <link>https://www.techrepublic.com/article/google-cloud-security-talks-2023/</link>
       <pubDate>Thu, 21 Dec 2023 18:21:10 +0000</pubDate>
     </item>
     <item>
-      <title>Kansas City-area hospital transfers patients, reschedules appointments after cyberattack</title>
-      <link>https://therecord.media/liberty-hospital-missouri-cyberattack</link>
-      <pubDate>Thu, 21 Dec 2023 18:06:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Bitwarden vs 1Password (2024): Password Manager Comparison</title>
       <link>https://www.techrepublic.com/article/bitwarden-vs-1password/</link>
       <pubDate>Thu, 21 Dec 2023 18:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIST report identifies significant privacy gaps in genomic data handling</title>
-      <link>https://therecord.media/nist-identifies-privacy-gaps-genomic-data</link>
-      <pubDate>Thu, 21 Dec 2023 17:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Healthcare Provider ESO Hit in Ransomware Attack, 2.7 Million Impacted</title>
@@ -263,11 +278,6 @@
       <pubDate>Thu, 21 Dec 2023 10:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Safeguard the joy: 10 tips for securing your shiny new device</title>
-      <link>https://www.welivesecurity.com/en/cybersecurity/safeguard-joy-tips-securing-shiny-new-device/</link>
-      <pubDate>Thu, 21 Dec 2023 10:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>German Authorities Dismantle Dark Web Hub 'Kingdom Market' in Global Operation</title>
       <link>https://thehackernews.com/2023/12/german-authorities-dismantle-dark-web.html</link>
       <pubDate>Thu, 21 Dec 2023 10:03:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Windows CLFS and five exploits used by ransomware operators (Exploit #1 – CVE-2022-24521)</title>
       <link>https://securelist.com/windows-clfs-exploits-ransomware-cve-2022-24521/111580/</link>
       <pubDate>Thu, 21 Dec 2023 10:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows CLFS and five exploits used by ransomware operators (Exploit #5 – CVE-2023-28252)</title>
-      <link>https://securelist.com/windows-clfs-exploits-ransomware-cve-2023-28252/111601/</link>
-      <pubDate>Thu, 21 Dec 2023 10:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>German Police Take Down Kingdom Market Dark Web Marketplace</title>
-      <link>https://www.infosecurity-magazine.com/news/police-take-down-kingdom-market/</link>
-      <pubDate>Thu, 21 Dec 2023 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
