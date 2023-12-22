@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 22:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 01:08:21 +0000</lastBuildDate>
+    <item>
+      <title>Toronto Public Library ‘remains a crime scene’ after ransomware attack</title>
+      <link>https://therecord.media/toronto-public-library-remains-crime-scene</link>
+      <pubDate>Thu, 21 Dec 2023 22:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Comcast’s Xfinity breached by Citrix Bleed; 36 million customer’s data accessed</title>
       <link>https://www.malwarebytes.com/blog/news/2023/12/comcasts-xfinity-breached-by-citrix-bleed-36-million-customers-data-accessed</link>
@@ -73,6 +78,11 @@
       <pubDate>Thu, 21 Dec 2023 18:06:00 +0000</pubDate>
     </item>
     <item>
+      <title>Bitwarden vs 1Password (2024): Password Manager Comparison</title>
+      <link>https://www.techrepublic.com/article/bitwarden-vs-1password/</link>
+      <pubDate>Thu, 21 Dec 2023 18:00:43 +0000</pubDate>
+    </item>
+    <item>
       <title>NIST report identifies significant privacy gaps in genomic data handling</title>
       <link>https://therecord.media/nist-identifies-privacy-gaps-genomic-data</link>
       <pubDate>Thu, 21 Dec 2023 17:15:00 +0000</pubDate>
@@ -91,11 +101,6 @@
       <title>BattleRoyal Cluster Signals DarkGate Surge</title>
       <link>https://www.infosecurity-magazine.com/news/battleroyal-cluster-signals/</link>
       <pubDate>Thu, 21 Dec 2023 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian hacktivists claim attack on popular Russian CRM provider</title>
-      <link>https://therecord.media/bitrix24-disruption-ukraine-it-army</link>
-      <pubDate>Thu, 21 Dec 2023 16:21:00 +0000</pubDate>
     </item>
     <item>
       <title>Chameleon Android Banking Trojan Variant Bypasses Biometric Authentication</title>
@@ -301,11 +306,6 @@
       <title>Leading the charge in cybercrime take downs.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1971/notes</link>
       <pubDate>Wed, 20 Dec 2023 21:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accenture acquires Redkite. Xalient acquires Grabowsky.</title>
-      <link>https://thecyberwire.com/newsletters/business-briefing/5/51</link>
-      <pubDate>Wed, 20 Dec 2023 21:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
