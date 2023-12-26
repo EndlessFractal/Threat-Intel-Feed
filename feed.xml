@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Dec 2023 01:07:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 02:24:06 +0000</lastBuildDate>
+    <item>
+      <title>Analysis of Attacks That Install Scanners on Linux SSH Servers</title>
+      <link>https://asec.ahnlab.com/en/59972/</link>
+      <pubDate>Tue, 26 Dec 2023 01:30:39 +0000</pubDate>
+    </item>
     <item>
       <title>APT group UAC-0099 targets Ukraine exploiting a WinRAR flaw</title>
       <link>https://securityaffairs.com/156381/hacking/uac-0099-apt-exploits-winrar-flaw.html</link>
@@ -301,11 +306,6 @@
       <title>US pharmacy Rite Aid banned from operating facial recognition systems</title>
       <link>https://www.malwarebytes.com/blog/news/2023/12/us-pharmacy-rite-aid-banned-from-operating-facial-recognition-systems</link>
       <pubDate>Thu, 21 Dec 2023 21:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disclosure rules, cyber careers, and fair regulation.</title>
-      <link>https://thecyberwire.com/newsletters/caveat-briefing/1/14</link>
-      <pubDate>Thu, 21 Dec 2023 21:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
