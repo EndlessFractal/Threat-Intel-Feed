@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Dec 2023 12:28:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 14:13:38 +0000</lastBuildDate>
+    <item>
+      <title>Entertainment giant National Amusements says more than 82,000 affected by cyberattack</title>
+      <link>https://therecord.media/national-amusements-data-breach-cyberattack</link>
+      <pubDate>Wed, 27 Dec 2023 14:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dual Privilege Escalation Chain: Exploiting Monitoring and Service Mesh Configurations and Privileges in GKE to Gain Unauthorized Access in Kubernetes</title>
+      <link>https://unit42.paloaltonetworks.com/google-kubernetes-engine-privilege-escalation-fluentbit-anthos/</link>
+      <pubDate>Wed, 27 Dec 2023 14:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Triangulation: The last (hardware) mystery</title>
+      <link>https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/</link>
+      <pubDate>Wed, 27 Dec 2023 14:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are you tracking your cybersecurity implementation?</title>
+      <link>https://securityintelligence.com/articles/tracking-cybersecurity-implementation/</link>
+      <pubDate>Wed, 27 Dec 2023 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Year in Review</title>
+      <link>https://socprime.com/news/2023-year-in-review/</link>
+      <pubDate>Wed, 27 Dec 2023 13:40:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+671: Another strike at Russia's Black Sea Fleet.</title>
+      <link>https://thecyberwire.com/stories/a6469b389e7e423bbecf33a7d9f2025b/ukraine-at-d671</link>
+      <pubDate>Wed, 27 Dec 2023 12:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploited New Zero-Day in Barracuda's ESG Appliances</title>
+      <link>https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html</link>
+      <pubDate>Wed, 27 Dec 2023 12:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elections 2024, artificial intelligence could upset world balances</title>
+      <link>https://securityaffairs.com/156485/security/elections-2024-artificial-intelligence-impact.html</link>
+      <pubDate>Wed, 27 Dec 2023 12:12:51 +0000</pubDate>
+    </item>
     <item>
       <title>New iPhone Security Features to Protect Stolen Devices</title>
       <link>https://www.schneier.com/blog/archives/2023/12/new-iphone-security-features-to-protect-stolen-devices.html</link>
@@ -138,11 +178,6 @@
       <pubDate>Sun, 24 Dec 2023 23:48:20 +0000</pubDate>
     </item>
     <item>
-      <title>Video game giant Ubisoft investigates reports of a data breach</title>
-      <link>https://securityaffairs.com/156331/data-breach/ubisoft-investigating-alleged-data-breach.html</link>
-      <pubDate>Sun, 24 Dec 2023 14:48:06 +0000</pubDate>
-    </item>
-    <item>
       <title>Ukraine at D+668: Backchannel signaling.</title>
       <link>https://thecyberwire.com/stories/07704e2898a440379634094fed99d6a0/ukraine-at-d668-backchannel-signaling</link>
       <pubDate>Sun, 24 Dec 2023 11:21:15 +0000</pubDate>
@@ -223,11 +258,6 @@
       <pubDate>Fri, 22 Dec 2023 19:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>Australian healthcare provider St. Vincent’s has data stolen during cyberattack</title>
-      <link>https://therecord.media/australia-healthcare-saint-vincent-cyberattack</link>
-      <pubDate>Fri, 22 Dec 2023 17:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Rogue WordPress Plugin Exposes E-Commerce Sites to Credit Card Theft</title>
       <link>https://thehackernews.com/2023/12/rogue-wordpress-plugin-exposes-e.html</link>
       <pubDate>Fri, 22 Dec 2023 16:47:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Key findings from ESET Threat Report H2 2023 – Week in security with Tony Anscombe</title>
       <link>https://www.welivesecurity.com/en/videos/key-findings-eset-threat-report-h2-2023-week-security-tony-anscombe/</link>
       <pubDate>Fri, 22 Dec 2023 10:50:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Star Blizzard Operations Linked to Russian Intelligence Agency; APT28 Targets NATO’s Rapid Response</title>
-      <link>https://blog.eclecticiq.com/star-blizzard-operations-linked-to-russian-intelligence-agency-apt28-targets-natos-rapid-response</link>
-      <pubDate>Fri, 22 Dec 2023 10:38:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>SMS Scams Set to Peak on Saturday in UK</title>
-      <link>https://www.infosecurity-magazine.com/news/sms-scams-set-peak-on-saturday/</link>
-      <pubDate>Fri, 22 Dec 2023 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Justice Secretary in Deepfake General Election Warning</title>
-      <link>https://www.infosecurity-magazine.com/news/justice-secretary-deepfake/</link>
-      <pubDate>Fri, 22 Dec 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crypto Drainer Steals $59m Via Google and X Ads</title>
-      <link>https://www.infosecurity-magazine.com/news/crypto-drainer-steals-59m-google-x/</link>
-      <pubDate>Fri, 22 Dec 2023 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0099 Using WinRAR Exploit to Target Ukrainian Firms with LONEPAGE Malware</title>
-      <link>https://thehackernews.com/2023/12/uac-0099-using-winrar-exploit-to-target.html</link>
-      <pubDate>Fri, 22 Dec 2023 07:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shall We Play a Game&amp;#x3f;, (Fri, Dec 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/30510</link>
-      <pubDate>Fri, 22 Dec 2023 06:05:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
