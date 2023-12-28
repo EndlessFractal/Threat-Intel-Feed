@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Dec 2023 20:14:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 22:14:05 +0000</lastBuildDate>
     <item>
       <title>Google to settle class action lawsuit alleging Incognito mode does not protect user privacy</title>
       <link>https://therecord.media/google-to-settle-class-action-incognito-privacy-lawsuit</link>
       <pubDate>Fri, 29 Dec 2023 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft disables app installation protocol abused by hackers</title>
+      <link>https://therecord.media/microsoft-disables-app-installation-protocol-abused-by-hackers</link>
+      <pubDate>Thu, 28 Dec 2023 20:30:00 +0000</pubDate>
     </item>
     <item>
       <title>The Power of Connection: The Importance of Weekly All-Hands Meetings at HackerOne</title>
@@ -118,11 +123,6 @@
       <pubDate>Wed, 27 Dec 2023 23:29:29 +0000</pubDate>
     </item>
     <item>
-      <title>Trinidad and Tobago social security agency hit with post-Christmas ransomware attack</title>
-      <link>https://therecord.media/trinidad-and-tobago-government-agency-hit-with-post-christmas-cyberattack</link>
-      <pubDate>Wed, 27 Dec 2023 20:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>12 Months of Fighting Cybercrime &amp; Defending Enterprises | SentinelLabs 2023 Review</title>
       <link>https://www.sentinelone.com/blog/12-months-of-fighting-cybercrime-defending-enterprises-sentinellabs-2023-review/</link>
       <pubDate>Wed, 27 Dec 2023 16:10:30 +0000</pubDate>
@@ -181,6 +181,11 @@
       <title>Experts analyzed attacks against poorly managed Linux SSH servers</title>
       <link>https://securityaffairs.com/156466/hacking/threat-actors-linux-ssh-servers-attacks.html</link>
       <pubDate>Wed, 27 Dec 2023 11:02:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Got a new device? 7 things to do before disposing of your old tech</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/7-things-disposing-old-tech/</link>
+      <pubDate>Wed, 27 Dec 2023 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Second Half of 2023 Threat Landscape Dominated by AI and Android Spyware</title>
@@ -301,11 +306,6 @@
       <title>Ukraine at D+667: "Pulp fiction."</title>
       <link>https://thecyberwire.com/stories/089fade063ae400d950e6a3115165dcf/ukraine-at-d667-pulp-fiction</link>
       <pubDate>Sat, 23 Dec 2023 14:01:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python Keylogger Using Mailtrap.io, (Sat, Dec 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/30512</link>
-      <pubDate>Sat, 23 Dec 2023 07:07:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
