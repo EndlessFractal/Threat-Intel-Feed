@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Dec 2023 06:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 08:19:31 +0000</lastBuildDate>
     <item>
       <title>Google to settle class action lawsuit alleging Incognito mode does not protect user privacy</title>
       <link>https://therecord.media/google-to-settle-class-action-incognito-privacy-lawsuit</link>
@@ -16,6 +16,11 @@
       <title>Stolen personality?</title>
       <link>https://thecyberwire.com/podcasts/hacking-humans/270/notes</link>
       <pubDate>Thu, 28 Dec 2023 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Rugmi Malware Loader Surges with Hundreds of Daily Detections</title>
+      <link>https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html</link>
+      <pubDate>Thu, 28 Dec 2023 05:56:00 +0000</pubDate>
     </item>
     <item>
       <title>Trend Analysis on Kimsuky Group’s Attacks Using AppleSeed</title>
@@ -301,11 +306,6 @@
       <title>Unattributed cyberespionage campaigns, and notes on the C2C underground market.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/12/243</link>
       <pubDate>Fri, 22 Dec 2023 15:06:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation RusticWeb: Rust-Based Malware Targets Indian Government Entities</title>
-      <link>https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html</link>
-      <pubDate>Fri, 22 Dec 2023 13:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
