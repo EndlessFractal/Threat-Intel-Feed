@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Dec 2023 12:26:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 14:14:07 +0000</lastBuildDate>
+    <item>
+      <title>From DarkGate to AsyncRAT: Malware Detected and Shared As Unit 42 Timely Threat Intelligence</title>
+      <link>https://unit42.paloaltonetworks.com/unit42-threat-intelligence-roundup/</link>
+      <pubDate>Fri, 29 Dec 2023 14:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best, The Worst and The Ugliest in Cybersecurity | 2023 Edition</title>
+      <link>https://www.sentinelone.com/blog/the-best-the-worst-and-the-ugliest-in-cybersecurity-2023-edition/</link>
+      <pubDate>Fri, 29 Dec 2023 14:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>New malware found in analysis of Russian hacks on Ukraine, Poland</title>
+      <link>https://therecord.media/fancy-bear-apt28-ukraine-new-malware-masepie</link>
+      <pubDate>Fri, 29 Dec 2023 13:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine at D+673: Largest air strikes of the war hit Ukraine.</title>
+      <link>https://thecyberwire.com/stories/cb2ce6135bc4483c8e1ddf8c4e9d1ccd/ukraine-at-d673</link>
+      <pubDate>Fri, 29 Dec 2023 13:09:28 +0000</pubDate>
+    </item>
     <item>
       <title>AI Is Scarily Good at Guessing the Location of Random Photos</title>
       <link>https://www.schneier.com/blog/archives/2023/12/ai-is-scarily-good-at-guessing-the-location-of-random-photos.html</link>
       <pubDate>Fri, 29 Dec 2023 12:03:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clash of Clans gamers at risk while using third-party app</title>
+      <link>https://securityaffairs.com/156617/security/clash-of-clans-gamers-at-risk.html</link>
+      <pubDate>Fri, 29 Dec 2023 11:59:50 +0000</pubDate>
     </item>
     <item>
       <title>CERT-UA Uncovers New Malware Wave Distributing OCEANMAP, MASEPIE, STEELHOOK</title>
@@ -113,11 +138,6 @@
       <pubDate>Thu, 28 Dec 2023 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Careless oversight of Linux SSH servers draws cryptominers, DDoS bots</title>
-      <link>https://therecord.media/linux-ssh-servers-cryptomining-ddos-bots</link>
-      <pubDate>Thu, 28 Dec 2023 13:27:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service</title>
       <link>https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html</link>
       <pubDate>Thu, 28 Dec 2023 13:20:00 +0000</pubDate>
@@ -131,6 +151,11 @@
       <title>Most Sophisticated iPhone Hack Ever Exploited Apple's Hidden Hardware Feature</title>
       <link>https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html</link>
       <pubDate>Thu, 28 Dec 2023 11:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A year in review: 10 of the biggest security incidents of 2023</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/year-review-10-biggest-security-incidents-2023/</link>
+      <pubDate>Thu, 28 Dec 2023 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>4 sneaky scams from 2023</title>
@@ -243,11 +268,6 @@
       <pubDate>Wed, 27 Dec 2023 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A cyberattack hit Australian healthcare provider St Vincent’s Health Australia</title>
-      <link>https://securityaffairs.com/156445/data-breach/st-vincents-health-australia-cyberattack.html</link>
-      <pubDate>Wed, 27 Dec 2023 08:47:20 +0000</pubDate>
-    </item>
-    <item>
       <title>New Sneaky Xamalicious Android Malware Hits Over 327,000 Devices</title>
       <link>https://thehackernews.com/2023/12/new-sneaky-xamalicious-android-malware.html</link>
       <pubDate>Wed, 27 Dec 2023 08:24:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Analysis of Attacks That Install Scanners on Linux SSH Servers</title>
       <link>https://asec.ahnlab.com/en/59972/</link>
       <pubDate>Tue, 26 Dec 2023 01:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learn Cybersecurity Skills From Scratch for Just $30 Through January 1</title>
-      <link>https://www.techrepublic.com/article/the-2023-complete-cyber-security-ethical-hacking-certification-bundle/</link>
-      <pubDate>Mon, 25 Dec 2023 16:59:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Leak Site Victims Reached Record-High in November</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-victims-record-november/</link>
-      <pubDate>Mon, 25 Dec 2023 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine at D+669: More on back-channel disinfo.</title>
-      <link>https://thecyberwire.com/stories/171b5d058f714af68d81e48156be32e6/ukraine-at-d669</link>
-      <pubDate>Mon, 25 Dec 2023 13:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (December 18 &amp;#8211; December 24)</title>
-      <link>https://www.malwarebytes.com/blog/news/2023/12/a-week-in-security-december-18-december-24</link>
-      <pubDate>Mon, 25 Dec 2023 11:25:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
