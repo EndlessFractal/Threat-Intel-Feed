@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Dec 2023 06:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 08:18:16 +0000</lastBuildDate>
     <item>
       <title>Cyber attacks hit the Assembly of the Republic of Albania and telecom company One Albania</title>
       <link>https://securityaffairs.com/156644/security/cyber-attacks-hit-albania.html</link>
@@ -173,6 +173,11 @@
       <pubDate>Thu, 28 Dec 2023 11:19:00 +0000</pubDate>
     </item>
     <item>
+      <title>A year in review: 10 of the biggest security incidents of 2023</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/year-review-10-biggest-security-incidents-2023/</link>
+      <pubDate>Thu, 28 Dec 2023 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>4 sneaky scams from 2023</title>
       <link>https://www.malwarebytes.com/blog/personal/2023/12/4-sneaky-scams-from-2023</link>
       <pubDate>Thu, 28 Dec 2023 09:00:00 +0000</pubDate>
@@ -258,6 +263,11 @@
       <pubDate>Wed, 27 Dec 2023 12:01:25 +0000</pubDate>
     </item>
     <item>
+      <title>Got a new device? 7 things to do before disposing of your old tech</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/7-things-disposing-old-tech/</link>
+      <pubDate>Wed, 27 Dec 2023 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Second Half of 2023 Threat Landscape Dominated by AI and Android Spyware</title>
       <link>https://www.infosecurity-magazine.com/news/2023-threat-dominated-ai-android/</link>
       <pubDate>Wed, 27 Dec 2023 10:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>How to recognize AI-generated phishing mails</title>
       <link>https://www.malwarebytes.com/blog/news/2023/12/how-to-recognize-ai-generated-phishing-mails</link>
       <pubDate>Tue, 26 Dec 2023 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carbanak Banking Malware Resurfaces with New Ransomware Tactics</title>
-      <link>https://thehackernews.com/2023/12/carbanak-banking-malware-resurfaces.html</link>
-      <pubDate>Tue, 26 Dec 2023 07:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis of Attacks That Install Scanners on Linux SSH Servers</title>
-      <link>https://asec.ahnlab.com/en/59972/</link>
-      <pubDate>Tue, 26 Dec 2023 01:30:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
