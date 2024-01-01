@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Dec 2023 22:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 01:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Pi-Hole Pi4 Docker Deployment, (Sun, Dec 31st)</title>
+      <link>https://isc.sans.edu/diary/rss/30516</link>
+      <pubDate>Sun, 31 Dec 2023 20:58:25 +0000</pubDate>
+    </item>
     <item>
       <title>Google agreed to settle a $5 billion privacy lawsuit</title>
       <link>https://securityaffairs.com/156704/laws-and-regulations/google-settlement-5-billion-lawsuit.html</link>
@@ -301,11 +306,6 @@
       <title>New Sneaky Xamalicious Android Malware Hits Over 327,000 Devices</title>
       <link>https://thehackernews.com/2023/12/new-sneaky-xamalicious-android-malware.html</link>
       <pubDate>Wed, 27 Dec 2023 08:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warning: Poorly Secured Linux SSH Servers Under Attack for Cryptocurrency Mining</title>
-      <link>https://thehackernews.com/2023/12/warning-poorly-secured-linux-ssh.html</link>
-      <pubDate>Wed, 27 Dec 2023 05:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
