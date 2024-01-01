@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jan 2024 08:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 10:17:09 +0000</lastBuildDate>
+    <item>
+      <title>New Terrapin Flaw Could Let Attackers Downgrade SSH Protocol Security</title>
+      <link>https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html</link>
+      <pubDate>Mon, 01 Jan 2024 09:37:00 +0000</pubDate>
+    </item>
     <item>
       <title>New JinxLoader Targeting Users with Formbook and XLoader Malware</title>
       <link>https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html</link>
@@ -301,11 +306,6 @@
       <title>Second Half of 2023 Threat Landscape Dominated by AI and Android Spyware</title>
       <link>https://www.infosecurity-magazine.com/news/2023-threat-dominated-ai-android/</link>
       <pubDate>Wed, 27 Dec 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How ransomware operators try to stay under the radar</title>
-      <link>https://www.malwarebytes.com/blog/ransomware/2023/12/how-ransomware-operators-try-to-stay-under-the-radar</link>
-      <pubDate>Wed, 27 Dec 2023 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
