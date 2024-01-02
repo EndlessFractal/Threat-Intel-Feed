@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 18:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 20:16:09 +0000</lastBuildDate>
+    <item>
+      <title>Hackers breach Australian court hearing database</title>
+      <link>https://therecord.media/hackers-breach-australian-court-hearing-database</link>
+      <pubDate>Tue, 02 Jan 2024 19:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swedish supermarket chain Coop responds to cyberattack</title>
+      <link>https://therecord.media/coop-varmland-sweden-supermarket-chain-cyberattack</link>
+      <pubDate>Tue, 02 Jan 2024 19:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers released a free decryptor for Black Basta ransomware</title>
+      <link>https://securityaffairs.com/156806/malware/black-basta-ransomware-decryptor.html</link>
+      <pubDate>Tue, 02 Jan 2024 18:43:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fingerprinting SSH Identification Strings, (Tue, Jan 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/30520</link>
+      <pubDate>Tue, 02 Jan 2024 18:29:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oops! Black Basta ransomware flubs encryption</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/01/oops-black-basta-ransomware-flubs-encryption</link>
+      <pubDate>Tue, 02 Jan 2024 17:57:23 +0000</pubDate>
+    </item>
     <item>
       <title>DNA data deserves better, with Suzanne Bernstein: Lock and Code S05E01</title>
       <link>https://www.malwarebytes.com/blog/podcast/2024/01/dna-data-deserves-better-with-suzanne-bernstein-lock-and-code-s05e01</link>
@@ -56,6 +81,11 @@
       <title>TikTok Editorial Analysis</title>
       <link>https://www.schneier.com/blog/archives/2024/01/tiktok-editorial-analysis.html</link>
       <pubDate>Tue, 02 Jan 2024 12:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Juniper Releases Security Advisory for Juniper Secure Analytics</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/02/juniper-releases-security-advisory-juniper-secure-analytics</link>
+      <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Australian Court Service Hacked, Hearing Recordings at Risk</title>
@@ -158,11 +188,6 @@
       <pubDate>Sun, 31 Dec 2023 09:51:28 +0000</pubDate>
     </item>
     <item>
-      <title>Our biggest stories, scoops and features from 2023</title>
-      <link>https://therecord.media/2023-year-in-review-highlights</link>
-      <pubDate>Sun, 31 Dec 2023 02:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>INC RANSOM ransomware gang claims to have breached Xerox Corp</title>
       <link>https://securityaffairs.com/156679/cyber-crime/inc-ransom-ransomware-xerox-corp.html</link>
       <pubDate>Sat, 30 Dec 2023 20:36:37 +0000</pubDate>
@@ -183,11 +208,6 @@
       <pubDate>Sat, 30 Dec 2023 13:18:27 +0000</pubDate>
     </item>
     <item>
-      <title>Spotify music converter TuneFab puts users at risk</title>
-      <link>https://securityaffairs.com/156659/security/spotify-music-converter-tunefab-data-leak.html</link>
-      <pubDate>Sat, 30 Dec 2023 11:57:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Beware: Scam-as-a-Service Aiding Cybercriminals in Crypto Wallet-Draining Attacks</title>
       <link>https://thehackernews.com/2023/12/beware-scam-as-service-aiding.html</link>
       <pubDate>Sat, 30 Dec 2023 09:30:00 +0000</pubDate>
@@ -201,11 +221,6 @@
       <title>Friday Squid Blogging: Sqids</title>
       <link>https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-sqids.html</link>
       <pubDate>Fri, 29 Dec 2023 22:08:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattack on Massachusetts hospital disrupted records system, emergency services</title>
-      <link>https://therecord.media/cyberattack-on-massachusetts-hospital-disrupted-health-record-system</link>
-      <pubDate>Fri, 29 Dec 2023 19:30:00 +0000</pubDate>
     </item>
     <item>
       <title>From DarkGate to AsyncRAT: Malware Detected and Shared As Unit 42 Timely Threat Intelligence</title>
@@ -263,6 +278,11 @@
       <pubDate>Thu, 28 Dec 2023 19:52:41 +0000</pubDate>
     </item>
     <item>
+      <title>Financially motivated threat actors misusing App Installer</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2023/12/28/financially-motivated-threat-actors-misusing-app-installer/</link>
+      <pubDate>Thu, 28 Dec 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine D+672: Battlefield frightfulness.</title>
       <link>https://thecyberwire.com/stories/2e8163922ceb44b8a238a026a0f80aeb/ukraine-d672</link>
       <pubDate>Thu, 28 Dec 2023 16:35:49 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Roundup: Federal action that shaped cybersecurity in 2023</title>
       <link>https://securityintelligence.com/articles/2023-federal-cybersecurity-action-roundup/</link>
       <pubDate>Thu, 28 Dec 2023 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service</title>
-      <link>https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html</link>
-      <pubDate>Thu, 28 Dec 2023 13:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI and Lossy Bottlenecks</title>
-      <link>https://www.schneier.com/blog/archives/2023/12/ai-and-lossy-bottlenecks.html</link>
-      <pubDate>Thu, 28 Dec 2023 12:01:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most Sophisticated iPhone Hack Ever Exploited Apple's Hidden Hardware Feature</title>
-      <link>https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html</link>
-      <pubDate>Thu, 28 Dec 2023 11:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A year in review: 10 of the biggest security incidents of 2023</title>
-      <link>https://www.welivesecurity.com/en/cybersecurity/year-review-10-biggest-security-incidents-2023/</link>
-      <pubDate>Thu, 28 Dec 2023 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
