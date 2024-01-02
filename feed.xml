@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 04:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 06:20:13 +0000</lastBuildDate>
     <item>
       <title>‘Unsettling’: hackers break into Victorian court recordings database</title>
       <link>https://www.theguardian.com/australia-news/2024/jan/02/victoria-court-recording-hack-details</link>
@@ -213,6 +213,11 @@
       <pubDate>Thu, 28 Dec 2023 16:35:49 +0000</pubDate>
     </item>
     <item>
+      <title>Ransomware Roundup - 8base</title>
+      <link>https://feeds.fortinet.com/~/855877040/0/fortinet/blog/threat-research~Ransomware-Roundup-base</link>
+      <pubDate>Thu, 28 Dec 2023 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>APT28 Adversary Activity Detection: New Phishing Attacks Targeting Ukrainian and Polish Organizations</title>
       <link>https://socprime.com/blog/apt28-adversary-activity-detection-new-phishing-attacks-targeting-ukrainian-and-polish-organizations/</link>
       <pubDate>Thu, 28 Dec 2023 14:15:48 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>2023 Year in Review</title>
       <link>https://socprime.com/news/2023-year-in-review/</link>
       <pubDate>Wed, 27 Dec 2023 13:40:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine at D+671: Another strike at Russia's Black Sea Fleet.</title>
-      <link>https://thecyberwire.com/stories/a6469b389e7e423bbecf33a7d9f2025b/ukraine-at-d671</link>
-      <pubDate>Wed, 27 Dec 2023 12:59:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
