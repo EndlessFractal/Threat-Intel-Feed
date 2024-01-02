@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 10:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 12:29:13 +0000</lastBuildDate>
+    <item>
+      <title>TikTok Editorial Analysis</title>
+      <link>https://www.schneier.com/blog/archives/2024/01/tiktok-editorial-analysis.html</link>
+      <pubDate>Tue, 02 Jan 2024 12:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian Court Service Hacked, Hearing Recordings at Risk</title>
+      <link>https://www.infosecurity-magazine.com/news/australian-court-hacked-hearing/</link>
+      <pubDate>Tue, 02 Jan 2024 11:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teen Found Alive After “Cyber-Kidnapping” Incident</title>
+      <link>https://www.infosecurity-magazine.com/news/teen-found-alive-cyberkidnapping/</link>
+      <pubDate>Tue, 02 Jan 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terrapin attack allows to downgrade SSH protocol security</title>
+      <link>https://securityaffairs.com/156784/hacking/terrapin-attack-ssh-protocol.html</link>
+      <pubDate>Tue, 02 Jan 2024 10:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Definitive Enterprise Browser Buyer's Guide</title>
+      <link>https://thehackernews.com/2024/01/the-definitive-enterprise-browser.html</link>
+      <pubDate>Tue, 02 Jan 2024 10:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Settles $5 Billion Privacy Lawsuit Over Tracking Users in 'Incognito Mode'</title>
+      <link>https://thehackernews.com/2024/01/google-settles-5-billion-privacy.html</link>
+      <pubDate>Tue, 02 Jan 2024 09:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Black Basta Ransomware Decryptor Published</title>
       <link>https://www.infosecurity-magazine.com/news/black-basta-ransomware-decryptor/</link>
@@ -136,11 +166,6 @@
       <title>Cyberattack on Massachusetts hospital disrupted records system, emergency services</title>
       <link>https://therecord.media/cyberattack-on-massachusetts-hospital-disrupted-health-record-system</link>
       <pubDate>Fri, 29 Dec 2023 19:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked APT28 used new malware in a recent phishing campaign</title>
-      <link>https://securityaffairs.com/156623/apt/apt28-phishing-new-malware.html</link>
-      <pubDate>Fri, 29 Dec 2023 14:59:57 +0000</pubDate>
     </item>
     <item>
       <title>From DarkGate to AsyncRAT: Malware Detected and Shared As Unit 42 Timely Threat Intelligence</title>
@@ -281,31 +306,6 @@
       <title>Unveiling the Mirai: Insights into Recent DShield Honeypot Activity &amp;#x5b;Guest Diary&amp;#x5d;, (Wed, Dec 27th)</title>
       <link>https://isc.sans.edu/diary/rss/30514</link>
       <pubDate>Thu, 28 Dec 2023 01:03:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>12 Months of Fighting Cybercrime &amp; Defending Enterprises | SentinelLabs 2023 Review</title>
-      <link>https://www.sentinelone.com/blog/12-months-of-fighting-cybercrime-defending-enterprises-sentinellabs-2023-review/</link>
-      <pubDate>Wed, 27 Dec 2023 16:10:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Zero-Day in Apache OfBiz ERP System Exposes Businesses to Attack</title>
-      <link>https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html</link>
-      <pubDate>Wed, 27 Dec 2023 15:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dual Privilege Escalation Chain: Exploiting Monitoring and Service Mesh Configurations and Privileges in GKE to Gain Unauthorized Access in Kubernetes</title>
-      <link>https://unit42.paloaltonetworks.com/google-kubernetes-engine-privilege-escalation-fluentbit-anthos/</link>
-      <pubDate>Wed, 27 Dec 2023 14:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Triangulation: The last (hardware) mystery</title>
-      <link>https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/</link>
-      <pubDate>Wed, 27 Dec 2023 14:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are you tracking your cybersecurity implementation?</title>
-      <link>https://securityintelligence.com/articles/tracking-cybersecurity-implementation/</link>
-      <pubDate>Wed, 27 Dec 2023 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
