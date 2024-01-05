@@ -3,6 +3,7 @@ from dateutil import parser as date_parser
 from feedgen.feed import FeedGenerator
 import concurrent.futures
 import feedparser
+import html
 import pytz
 
 
@@ -80,7 +81,7 @@ def create_rss_feed(combined_feed):
         pub_date = convert_to_utc(parse_date_with_timezone(entry.published)) if hasattr(entry, 'published') else None
 
         fe = fg.add_entry()
-        fe.title(entry.title)
+        fe.title(html.unescape(entry.title))
         fe.link(href=entry.link)
         fe.published(pub_date) if pub_date else None
 
