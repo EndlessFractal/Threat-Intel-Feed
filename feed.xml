@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jan 2024 06:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 08:18:59 +0000</lastBuildDate>
     <item>
       <title>Experts spotted a new macOS Backdoor named SpectralBlur linked to North Korea</title>
       <link>https://securityaffairs.com/157010/apt/macos-backdoor-spectralblur-north-korea.html</link>
@@ -21,6 +21,11 @@
       <title>Law firm Orrick data breach impacted 638,000 individuals</title>
       <link>https://securityaffairs.com/156985/breaking-news/law-firm-orrick-data-breach.html</link>
       <pubDate>Sat, 06 Jan 2024 14:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cracking the 2023 SANS Holiday Hack Challenge</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/cracking-2023-sans-holiday-hack-challenge/</link>
+      <pubDate>Sat, 06 Jan 2024 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Are you sure of your password?, (Sat, Jan 6th)</title>
@@ -301,11 +306,6 @@
       <title>New iPhone Exploit Uses Four Zero-Days</title>
       <link>https://www.schneier.com/blog/archives/2024/01/new-iphone-exploit-uses-four-zero-days.html</link>
       <pubDate>Thu, 04 Jan 2024 12:11:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FactoryTalk Activation</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-004-01</link>
-      <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
