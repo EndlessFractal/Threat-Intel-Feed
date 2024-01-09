@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jan 2024 04:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 06:20:41 +0000</lastBuildDate>
+    <item>
+      <title>Account Credentials Theft in Domain Environments Detected by EDR</title>
+      <link>https://asec.ahnlab.com/en/60225/</link>
+      <pubDate>Tue, 09 Jan 2024 05:14:39 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, January 9th, 2024 https://isc.sans.edu/podcastdetail/8802, (Tue, Jan 9th)</title>
       <link>https://isc.sans.edu/diary/rss/30544</link>
@@ -301,11 +306,6 @@
       <title>Diving deep into Phobos ransomware.</title>
       <link>https://thecyberwire.com/podcasts/research-saturday/311/notes</link>
       <pubDate>Sat, 06 Jan 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sandworm was in Kyivstar's networks for months. GRU cyber campaign incorporates novel malware.</title>
-      <link>https://thecyberwire.com/newsletters/week-that-was/8/1</link>
-      <pubDate>Sat, 06 Jan 2024 05:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
