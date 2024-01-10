@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jan 2024 06:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 08:20:05 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Ignite Special Edition</title>
+      <link>https://thecyberwire.com/podcasts/microsoft-threat-intelligence/9/notes</link>
+      <pubDate>Wed, 10 Jan 2024 08:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft's January 2024 Windows Update Patches 48 New Vulnerabilities</title>
       <link>https://thehackernews.com/2024/01/microsofts-january-2024-windows-update.html</link>
@@ -301,11 +306,6 @@
       <title>Deceptive Cracked Software Spreads Lumma Variant on YouTube</title>
       <link>https://feeds.fortinet.com/~/859611752/0/fortinet/blog/threat-research~Deceptive-Cracked-Software-Spreads-Lumma-Variant-on-YouTube</link>
       <pubDate>Mon, 08 Jan 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saudi Ministry exposed sensitive data for 15 months</title>
-      <link>https://securityaffairs.com/157133/security/saudi-ministry-data-leak.html</link>
-      <pubDate>Mon, 08 Jan 2024 14:52:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
