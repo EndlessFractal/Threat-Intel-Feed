@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jan 2024 04:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 06:20:56 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft's January 2024 Windows Update Patches 48 New Vulnerabilities</title>
+      <link>https://thehackernews.com/2024/01/microsofts-january-2024-windows-update.html</link>
+      <pubDate>Wed, 10 Jan 2024 05:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RH-ISAC’s 10th Anniversary Year, Trustwave on Emerging Threats, and an Interview with the CISO of Colgate-Palmolive</title>
+      <link>https://thecyberwire.com/podcasts/rh-isac/42/notes</link>
+      <pubDate>Wed, 10 Jan 2024 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack</title>
+      <link>https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html</link>
+      <pubDate>Wed, 10 Jan 2024 04:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, January 10th, 2024 https://isc.sans.edu/podcastdetail/8804, (Wed, Jan 10th)</title>
       <link>https://isc.sans.edu/diary/rss/30550</link>
@@ -76,6 +91,11 @@
       <title>Jenkins Brute Force Scans, (Tue, Jan 9th)</title>
       <link>https://isc.sans.edu/diary/rss/30546</link>
       <pubDate>Tue, 09 Jan 2024 17:17:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Risks Of Your Cloud Collaborations</title>
+      <link>https://symantec-enterprise-blogs.security.com/product-insights/risks-your-cloud-collaborations</link>
+      <pubDate>Tue, 09 Jan 2024 16:50:03 +0000</pubDate>
     </item>
     <item>
       <title>Flaw in AI Plugin Exposes 50,000 WordPress Sites to Remote Attack</title>
@@ -286,26 +306,6 @@
       <title>Saudi Ministry exposed sensitive data for 15 months</title>
       <link>https://securityaffairs.com/157133/security/saudi-ministry-data-leak.html</link>
       <pubDate>Mon, 08 Jan 2024 14:52:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stuxnet: The malware that cost a billion dollars to develop?</title>
-      <link>https://grahamcluley.com/stuxnet-the-malware-that-cost-a-billion-dollars/</link>
-      <pubDate>Mon, 08 Jan 2024 14:47:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is that User Agent?, (Mon, Jan 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/30536</link>
-      <pubDate>Mon, 08 Jan 2024 14:34:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals</title>
-      <link>https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html</link>
-      <pubDate>Mon, 08 Jan 2024 14:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turkish APT Sea Turtle Resurfaces, Spies on Dutch IT Firms</title>
-      <link>https://www.infosecurity-magazine.com/news/turkish-apt-sea-turtle-resurfaces/</link>
-      <pubDate>Mon, 08 Jan 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
