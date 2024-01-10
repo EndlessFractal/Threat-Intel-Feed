@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jan 2024 02:28:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 04:19:29 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Wednesday, January 10th, 2024 https://isc.sans.edu/podcastdetail/8804, (Wed, Jan 10th)</title>
+      <link>https://isc.sans.edu/diary/rss/30550</link>
+      <pubDate>Wed, 10 Jan 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft January 2024 Patch Tuesday, (Wed, Jan 10th)</title>
       <link>https://isc.sans.edu/diary/rss/30548</link>
@@ -301,11 +306,6 @@
       <title>Turkish APT Sea Turtle Resurfaces, Spies on Dutch IT Firms</title>
       <link>https://www.infosecurity-magazine.com/news/turkish-apt-sea-turtle-resurfaces/</link>
       <pubDate>Mon, 08 Jan 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0184 Attack Detection: Targeted Phishing Attacks Against the Armed Forces of Ukraine Using Remcos RAT and Reverse SSH</title>
-      <link>https://socprime.com/blog/uac-0184-attack-detection-targeted-phishing-attacks-against-the-armed-forces-of-ukraine-using-remcos-rat-and-reverse-ssh/</link>
-      <pubDate>Mon, 08 Jan 2024 12:48:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
