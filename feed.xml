@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jan 2024 01:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 02:28:29 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft January 2024 Patch Tuesday, (Wed, Jan 10th)</title>
+      <link>https://isc.sans.edu/diary/rss/30548</link>
+      <pubDate>Wed, 10 Jan 2024 00:38:10 +0000</pubDate>
+    </item>
     <item>
       <title>SEC's X account compromised, used to spread false bitcoin announcement</title>
       <link>https://therecord.media/sec-x-account-compromised-bitcoin</link>
@@ -301,11 +306,6 @@
       <title>UAC-0184 Attack Detection: Targeted Phishing Attacks Against the Armed Forces of Ukraine Using Remcos RAT and Reverse SSH</title>
       <link>https://socprime.com/blog/uac-0184-attack-detection-targeted-phishing-attacks-against-the-armed-forces-of-ukraine-using-remcos-rat-and-reverse-ssh/</link>
       <pubDate>Mon, 08 Jan 2024 12:48:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>DoJ charged 19 individuals in a transnational cybercrime investigation xDedic Marketplace</title>
-      <link>https://securityaffairs.com/157101/cyber-crime/cybercrime-investigation-xdedic-marketplace.html</link>
-      <pubDate>Mon, 08 Jan 2024 12:17:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
