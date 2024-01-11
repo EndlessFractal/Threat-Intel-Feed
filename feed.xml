@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 16:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 18:19:58 +0000</lastBuildDate>
+    <item>
+      <title>Further analysis of Denmark attacks leads to warning about unpatched network gear</title>
+      <link>https://therecord.media/denmark-attacks-forescout-analysis-zyxel</link>
+      <pubDate>Thu, 11 Jan 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Best Anonymous (No-Log) VPNs for 2024</title>
+      <link>https://www.techrepublic.com/article/best-no-log-vpn/</link>
+      <pubDate>Thu, 11 Jan 2024 17:02:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected Chinese threat actor exploits Ivanti Connect Secure and Policy Secure zero-days.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/8</link>
+      <pubDate>Thu, 11 Jan 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware review: January 2024</title>
+      <link>https://www.malwarebytes.com/blog/threat-intelligence/2024/01/ransomware-review-january-2024</link>
+      <pubDate>Thu, 11 Jan 2024 16:39:38 +0000</pubDate>
+    </item>
     <item>
       <title>CISA adds Ivanti and Microsoft SharePoint bugs to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/157320/security/cisa-ivanti-microsoft-sharepoint-known-exploited-vulnerabilities-catalog.html</link>
@@ -73,8 +93,58 @@
       <pubDate>Thu, 11 Jan 2024 12:09:52 +0000</pubDate>
     </item>
     <item>
+      <title>Siemens SIMATIC</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-10</link>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Spectrum Power 7</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-07</link>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horner Automation Cscape</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-04</link>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC CN 4100</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-09</link>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Teamcenter Visualization and JT2Go</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-06</link>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rapid Software LLC Rapid SCADA</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-03</link>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Solid Edge</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-11</link>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SICAM A8000</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-08</link>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric Easergy Studio</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-05</link>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cisco Releases Security Advisory for Cisco Unity Connection</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/01/11/cisco-releases-security-advisory-cisco-unity-connection</link>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Nine Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories</link>
       <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -228,11 +298,6 @@
       <pubDate>Wed, 10 Jan 2024 17:29:06 +0000</pubDate>
     </item>
     <item>
-      <title>FBI Director: More countries interested in 2024 election interference</title>
-      <link>https://therecord.media/2024-elections-foreign-interferance-fbi-christopher-wray</link>
-      <pubDate>Wed, 10 Jan 2024 17:20:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ukrainian hackers claim attack against Moscow ISP. SEC’s X account compromised.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/7</link>
       <pubDate>Wed, 10 Jan 2024 17:00:00 +0000</pubDate>
@@ -241,71 +306,6 @@
       <title>SEC’s Twitter account hacked to say Bitcoin ETFs approved. Politicians and lawyers demand investigation into security breach</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/secs-twitter-account-hacked-to-say-bitcoin-etfs-approved-politicians-and-lawyers-demand-investigation-into-security-breach/</link>
       <pubDate>Wed, 10 Jan 2024 16:18:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatDown earns highest ratings across EDR and MDR categories in G2 Winter 2024 results</title>
-      <link>https://www.malwarebytes.com/blog/business/2024/01/threatdown-earns-highest-ratings-across-edr-and-mdr-categories-in-g2-winter-2024-results</link>
-      <pubDate>Wed, 10 Jan 2024 16:01:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma Stealer Malware Detection: Hackers Abuse YouTube Channels to Spread a Malware Variant</title>
-      <link>https://socprime.com/blog/lumma-stealer-malware-detection-hackers-abuse-youtube-channels-to-spread-a-malware-variant/</link>
-      <pubDate>Wed, 10 Jan 2024 15:33:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>NoaBot: Latest Mirai-Based Botnet Targeting SSH Servers for Crypto Mining</title>
-      <link>https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html</link>
-      <pubDate>Wed, 10 Jan 2024 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decrypting SentinelOne Cloud Detection | The Application Control Engine in Real-Time CWPP</title>
-      <link>https://www.sentinelone.com/blog/decrypting-sentinelone-cloud-detection-the-application-control-engine-in-real-time-cwpp/</link>
-      <pubDate>Wed, 10 Jan 2024 15:04:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malware Takedowns Show Progress, But Fight Against Cybercrime Not Over</title>
-      <link>https://www.infosecurity-magazine.com/news/malware-takedowns-cybercrime/</link>
-      <pubDate>Wed, 10 Jan 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeffrey Epstein email scams rear their ugly head</title>
-      <link>https://grahamcluley.com/jeffrey-epstein-email-scams-rear-their-ugly-head/</link>
-      <pubDate>Wed, 10 Jan 2024 14:56:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Insecurity and Misinformation Top WEF Global Risk List</title>
-      <link>https://www.infosecurity-magazine.com/news/top-wef-global-risk-list-2024-cyber/</link>
-      <pubDate>Wed, 10 Jan 2024 14:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actors hacked the X account of the Securities and Exchange Commission (SEC) and announced fake Bitcoin ETF approval</title>
-      <link>https://securityaffairs.com/157231/hacking/sec-x-account-hacked-etf-approval.html</link>
-      <pubDate>Wed, 10 Jan 2024 14:36:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Only 4% of US States Fully Prepared for Cyber-Attacks Targeting Elections</title>
-      <link>https://www.infosecurity-magazine.com/news/us-states-prepared-cyber-elections/</link>
-      <pubDate>Wed, 10 Jan 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Believing they would be paid a fortune for having sex with women, hundreds of Indian men scammed out of cash</title>
-      <link>https://grahamcluley.com/believing-they-would-be-paid-a-fortune-for-having-sex-with-women-hundreds-of-indian-men-scammed-out-of-cash/</link>
-      <pubDate>Wed, 10 Jan 2024 13:43:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s Some Bitcoin: Oh, and You’ve Been Served!</title>
-      <link>https://krebsonsecurity.com/2024/01/heres-some-bitcoin-oh-and-youve-been-served/</link>
-      <pubDate>Wed, 10 Jan 2024 13:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facial Scanning by Burger King in Brazil</title>
-      <link>https://www.schneier.com/blog/archives/2024/01/facial-scanning-by-burger-king-in-brazil.html</link>
-      <pubDate>Wed, 10 Jan 2024 12:05:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
