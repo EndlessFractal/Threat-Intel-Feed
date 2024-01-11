@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 08:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 10:17:11 +0000</lastBuildDate>
+    <item>
+      <title>NCSC Publishes Practical Security Guidance For SMBs</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-practical-security-guidance/</link>
+      <pubDate>Thu, 11 Jan 2024 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Ivanti Zero-Days Actively Exploited in the Wild</title>
+      <link>https://www.infosecurity-magazine.com/news/two-ivanti-zerodays-actively/</link>
+      <pubDate>Thu, 11 Jan 2024 09:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cybersecurity in the AI Era: Insights from Unit 42's Kyle Wilhoit, Director of Threat Research</title>
       <link>https://thecyberwire.com/podcasts/threat-vector/13/notes</link>
@@ -238,6 +248,11 @@
       <pubDate>Wed, 10 Jan 2024 10:31:00 +0000</pubDate>
     </item>
     <item>
+      <title>Attack of the copycats: How fake messaging apps and app mods could bite you</title>
+      <link>https://www.welivesecurity.com/en/mobile-security/attack-copycats-fake-messaging-apps-app-mods/</link>
+      <pubDate>Wed, 10 Jan 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukrainian “Blackjack” Hackers Take Out Russian ISP</title>
       <link>https://www.infosecurity-magazine.com/news/ukrainian-blackjack-hackers/</link>
       <pubDate>Wed, 10 Jan 2024 10:15:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Microsoft January 2024 Patch Tuesday, (Wed, Jan 10th)</title>
       <link>https://isc.sans.edu/diary/rss/30548</link>
       <pubDate>Wed, 10 Jan 2024 00:38:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is Dark Web Monitoring? Definition and Tools</title>
-      <link>https://www.recordedfuture.com/blog/what-is-dark-web-monitoring-definition-and-tools</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2024’s first Patch Tuesday steps lightly</title>
-      <link>https://news.sophos.com/en-us/2024/01/09/2024s-first-patch-tuesday-steps-lightly/</link>
-      <pubDate>Tue, 09 Jan 2024 22:03:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday for January 2024 fixed 2 critical flaws</title>
-      <link>https://securityaffairs.com/157190/security/microsoft-patch-tuesday-january-2024.html</link>
-      <pubDate>Tue, 09 Jan 2024 22:02:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
