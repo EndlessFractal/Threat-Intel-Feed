@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 06:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 08:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Cybersecurity in the AI Era: Insights from Unit 42's Kyle Wilhoit, Director of Threat Research</title>
+      <link>https://thecyberwire.com/podcasts/threat-vector/13/notes</link>
+      <pubDate>Thu, 11 Jan 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mandiant's X Account Was Hacked Using Brute-Force Attack</title>
+      <link>https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html</link>
+      <pubDate>Thu, 11 Jan 2024 06:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco fixed critical Unity Connection vulnerability CVE-2024-20272</title>
+      <link>https://securityaffairs.com/157278/security/cisco-critical-unity-connection-cve-2024-20272.html</link>
+      <pubDate>Thu, 11 Jan 2024 06:08:09 +0000</pubDate>
+    </item>
     <item>
       <title>Combatting the privacy pandemic.</title>
       <link>https://thecyberwire.com/podcasts/caveat/201/notes</link>
@@ -291,21 +306,6 @@
       <title>Microsoft Patch Tuesday for January 2024 fixed 2 critical flaws</title>
       <link>https://securityaffairs.com/157190/security/microsoft-patch-tuesday-january-2024.html</link>
       <pubDate>Tue, 09 Jan 2024 22:02:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swatting on the rise.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1979/notes</link>
-      <pubDate>Tue, 09 Jan 2024 21:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exposing the ransomware lie to “leave hospitals alone”</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/exposing-the-ransomware-lie-to-leave-hospitals-alone</link>
-      <pubDate>Tue, 09 Jan 2024 20:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft starts off new year with relatively light Patch Tuesday, no zero-days</title>
-      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-january-2024/</link>
-      <pubDate>Tue, 09 Jan 2024 18:58:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
