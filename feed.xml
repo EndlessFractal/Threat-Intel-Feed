@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jan 2024 22:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 01:10:26 +0000</lastBuildDate>
+    <item>
+      <title>Newly Discovered Ivanti Secure VPN Zero-Day Vulnerabilities Allow Chinese Threat Actor to Compromise Systems</title>
+      <link>https://www.techrepublic.com/article/volexity-ivanti-connect-secure-vpn-vulnerabilities/</link>
+      <pubDate>Fri, 12 Jan 2024 22:28:37 +0000</pubDate>
+    </item>
     <item>
       <title>Friday Squid Blogging: Giant Squid from Newfoundland in the 1800s</title>
       <link>https://www.schneier.com/blog/archives/2024/01/friday-squid-blogging-giant-squid-from-newfoundland-in-the-1800s.html</link>
@@ -300,11 +305,6 @@
     <item>
       <title>Siemens SICAM A8000</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-08</link>
-      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Easergy Studio</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-05</link>
       <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
