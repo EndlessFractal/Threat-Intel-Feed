@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jan 2024 10:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 12:28:05 +0000</lastBuildDate>
+    <item>
+      <title>Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches</title>
+      <link>https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html</link>
+      <pubDate>Sat, 13 Jan 2024 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>29-Year-Old Ukrainian Cryptojacking Kingpin Arrested for Exploiting Cloud Services</title>
+      <link>https://thehackernews.com/2024/01/29-year-old-ukrainian-cryptojacking.html</link>
+      <pubDate>Sat, 13 Jan 2024 10:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dual Russian cyber gangs hit 23 companies.</title>
       <link>https://thecyberwire.com/podcasts/research-saturday/312/notes</link>
@@ -295,16 +305,6 @@
     <item>
       <title>Horner Automation Cscape</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-04</link>
-      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIMATIC CN 4100</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-09</link>
-      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Teamcenter Visualization and JT2Go</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-011-06</link>
       <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
