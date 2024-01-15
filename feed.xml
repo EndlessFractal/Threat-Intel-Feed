@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jan 2024 22:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 01:13:25 +0000</lastBuildDate>
+    <item>
+      <title>Apple fixed a bug in Magic Keyboard that allows to monitor Bluetooth traffic</title>
+      <link>https://securityaffairs.com/157448/hacking/apple-bug-monitor-bluetooth-traffic.html</link>
+      <pubDate>Mon, 15 Jan 2024 00:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remcos RAT Being Distributed via Webhards</title>
+      <link>https://asec.ahnlab.com/en/60270/</link>
+      <pubDate>Sun, 14 Jan 2024 22:53:23 +0000</pubDate>
+    </item>
     <item>
       <title>Upcoming Speaking Engagements</title>
       <link>https://www.schneier.com/blog/archives/2024/01/upcoming-speaking-engagements-33.html</link>
@@ -111,6 +121,11 @@
       <title>End-of-life Cisco routers targeted by China’s Volt Typhoon group</title>
       <link>https://therecord.media/cisco-routers-end-of-life-china-espionage-volt-typhoon</link>
       <pubDate>Fri, 12 Jan 2024 18:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft is named a Leader in the 2023 Gartner® Magic Quadrant™ for Endpoint Protection Platforms</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/01/12/microsoft-is-named-a-leader-in-the-2023-gartner-magic-quadrant-for-endpoint-protection-platforms/</link>
+      <pubDate>Fri, 12 Jan 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>FCC wants cars to make life harder for stalkers</title>
@@ -268,11 +283,6 @@
       <pubDate>Thu, 11 Jan 2024 16:39:38 +0000</pubDate>
     </item>
     <item>
-      <title>CISA adds Ivanti and Microsoft SharePoint bugs to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/157320/security/cisa-ivanti-microsoft-sharepoint-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 11 Jan 2024 15:33:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Threat Actors Increasingly Abusing GitHub for Malicious Purposes</title>
       <link>https://thehackernews.com/2024/01/threat-actors-increasingly-abusing.html</link>
       <pubDate>Thu, 11 Jan 2024 15:28:00 +0000</pubDate>
@@ -295,16 +305,6 @@
     <item>
       <title>1.3 Million FNF Customers' Data Potentially Exposed in Ransomware Attack</title>
       <link>https://www.infosecurity-magazine.com/news/fnf-customers-data-ransomware/</link>
-      <pubDate>Thu, 11 Jan 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medusa Ransomware Turning Your Files into Stone</title>
-      <link>https://unit42.paloaltonetworks.com/medusa-ransomware-escalation-new-leak-site/</link>
-      <pubDate>Thu, 11 Jan 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Python-based FBot Hacking Toolkit Aims at Cloud and SaaS Platforms</title>
-      <link>https://thehackernews.com/2024/01/new-python-based-fbot-hacking-toolkit.html</link>
       <pubDate>Thu, 11 Jan 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
