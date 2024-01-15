@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jan 2024 10:18:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 12:30:56 +0000</lastBuildDate>
+    <item>
+      <title>Voice Cloning with Very Short Samples</title>
+      <link>https://www.schneier.com/blog/archives/2024/01/voice-cloning-with-very-short-samples.html</link>
+      <pubDate>Mon, 15 Jan 2024 12:09:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>British Library Catalogue Back Online After Ransomware Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/british-library-catalogue-online/</link>
+      <pubDate>Mon, 15 Jan 2024 11:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>Security Experts Urge IT to Lock Down GitHub Services</title>
       <link>https://www.infosecurity-magazine.com/news/security-experts-urge-it-lock-down/</link>
       <pubDate>Mon, 15 Jan 2024 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Balada Injector continues to infect thousands of WordPress sites</title>
+      <link>https://securityaffairs.com/157470/malware/balada-injector-malware-wordpress-sites.html</link>
+      <pubDate>Mon, 15 Jan 2024 10:11:54 +0000</pubDate>
     </item>
     <item>
       <title>HelloFresh Fined £140K After Sending 80 Million Spam Messages</title>
@@ -238,11 +253,6 @@
       <pubDate>Fri, 12 Jan 2024 12:43:47 +0000</pubDate>
     </item>
     <item>
-      <title>Researchers created a PoC for Apache OFBiz flaw CVE-2023-51467</title>
-      <link>https://securityaffairs.com/157339/hacking/apache-ofbiz-poc-exploit.html</link>
-      <pubDate>Fri, 12 Jan 2024 12:07:24 +0000</pubDate>
-    </item>
-    <item>
       <title>On IoT Devices and Software Liability</title>
       <link>https://www.schneier.com/blog/archives/2024/01/on-iot-devices-and-software-liability.html</link>
       <pubDate>Fri, 12 Jan 2024 12:03:48 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Act now! Ivanti vulnerabilities are being actively exploited</title>
       <link>https://www.malwarebytes.com/blog/news/2024/01/act-now-ivanti-vulnerabilities-are-being-actively-exploited</link>
       <pubDate>Thu, 11 Jan 2024 20:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>HackerOne Partners With Semgrep to Combine Expert Code Review With Powerful Automation</title>
-      <link>https://www.hackerone.com/vulnerability-management/semgrep-partnership</link>
-      <pubDate>Thu, 11 Jan 2024 17:17:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>6 Best Anonymous (No-Log) VPNs for 2024</title>
-      <link>https://www.techrepublic.com/article/best-no-log-vpn/</link>
-      <pubDate>Thu, 11 Jan 2024 17:02:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
