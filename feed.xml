@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jan 2024 10:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 12:30:55 +0000</lastBuildDate>
+    <item>
+      <title>The Story of the Mirai Botnet</title>
+      <link>https://www.schneier.com/blog/archives/2024/01/the-story-of-the-mirai-botnet.html</link>
+      <pubDate>Tue, 16 Jan 2024 12:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto Heists Surge in 2023, $16.93m Already Stolen in 2024</title>
+      <link>https://www.infosecurity-magazine.com/news/crypto-heists-surge-2023-stolen/</link>
+      <pubDate>Tue, 16 Jan 2024 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rise of Devils: The Origins of Modern Terrorism with James Crossland</title>
+      <link>https://thecyberwire.com/podcasts/spycast/617/notes</link>
+      <pubDate>Tue, 16 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alleged FruitFly malware creator ruled incompetent to stand trial</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/01/fruitfly-malware-creator-ruled-incompetent-to-stand-trial</link>
+      <pubDate>Tue, 16 Jan 2024 11:49:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>“I’ll miss him so much” Facebook scam uses BBC branding to lure victims</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/01/ill-miss-him-so-much-facebook-scam-uses-bbc-branding-to-lure-victims</link>
+      <pubDate>Tue, 16 Jan 2024 11:31:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab warns zero-click vulnerability could lead to account takeovers</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/01/gitlab-warns-zero-click-vulnerability-could-lead-to-account-takeovers</link>
+      <pubDate>Tue, 16 Jan 2024 11:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Case Study: The Cookie Privacy Monster in Big Global Retail</title>
+      <link>https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html</link>
+      <pubDate>Tue, 16 Jan 2024 10:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts warn of mass exploitation of Ivanti Connect Secure VPN flaws</title>
+      <link>https://securityaffairs.com/157558/hacking/ivanti-connect-secure-vpn-flaws-attacks.html</link>
+      <pubDate>Tue, 16 Jan 2024 10:40:31 +0000</pubDate>
+    </item>
     <item>
       <title>Ivanti Zero-Days Exploited By Multiple Actors Globally</title>
       <link>https://www.infosecurity-magazine.com/news/ivanti-zerodays-exploited-multiple/</link>
@@ -223,11 +263,6 @@
       <pubDate>Sat, 13 Jan 2024 23:42:50 +0000</pubDate>
     </item>
     <item>
-      <title>Akira ransomware targets Finnish organizations</title>
-      <link>https://securityaffairs.com/157371/breaking-news/akira-ransomware-targets-finnish-organizations.html</link>
-      <pubDate>Sat, 13 Jan 2024 22:28:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches</title>
       <link>https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html</link>
       <pubDate>Sat, 13 Jan 2024 10:45:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Microsoft is named a Leader in the 2023 Gartner® Magic Quadrant™ for Endpoint Protection Platforms</title>
       <link>https://www.microsoft.com/en-us/security/blog/2024/01/12/microsoft-is-named-a-leader-in-the-2023-gartner-magic-quadrant-for-endpoint-protection-platforms/</link>
       <pubDate>Fri, 12 Jan 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FCC wants cars to make life harder for stalkers</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/fcc-wants-cars-to-make-life-harder-for-stalkers</link>
-      <pubDate>Fri, 12 Jan 2024 16:39:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>An analysis of cyberattacks against Danish energy infrastructure. Cryptomining campaign targets weak SSH passwords.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/9</link>
-      <pubDate>Fri, 12 Jan 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joomla! vulnerability is being actively exploited</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/joomla-vulnerability-is-being-actively-exploited</link>
-      <pubDate>Fri, 12 Jan 2024 16:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos named a Leader in 2023 Gartner®️ Magic Quadrant™️ for Endpoint Protection Platforms</title>
-      <link>https://news.sophos.com/en-us/2024/01/12/sophos-named-a-leader-in-2023-gartner%ef%b8%8f-magic-quadrant%ef%b8%8f-for-endpoint-protection-platforms-2/</link>
-      <pubDate>Fri, 12 Jan 2024 16:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Urges Critical Infrastructure to Patch Urgent ICS Vulnerabilities</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-critical-infrastructure-patch/</link>
-      <pubDate>Fri, 12 Jan 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0050 Attack Detection: Hackers Are Armed with Remcos RAT, Quasar RAT, and Remote Utilities to Target Ukraine Once Again</title>
-      <link>https://socprime.com/blog/uac-0050-attack-detection-hackers-are-armed-with-remcos-rat-quasar-rat-and-remote-utilities-to-target-ukraine-once-again/</link>
-      <pubDate>Fri, 12 Jan 2024 14:18:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lessons from SEC's X account hack – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/lessons-sec-x-account-hack-week-security-tony-anscombe/</link>
-      <pubDate>Fri, 12 Jan 2024 14:17:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
