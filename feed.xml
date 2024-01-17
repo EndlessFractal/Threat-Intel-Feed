@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 02:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 04:19:51 +0000</lastBuildDate>
+    <item>
+      <title>Zero-Day Alert: Update Chrome Now to Fix New Actively Exploited Vulnerability</title>
+      <link>https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html</link>
+      <pubDate>Wed, 17 Jan 2024 02:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, January 17th, 2024 https://isc.sans.edu/podcastdetail/8812, (Wed, Jan 17th)</title>
+      <link>https://isc.sans.edu/diary/rss/30564</link>
+      <pubDate>Wed, 17 Jan 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Number Usage in Passwords, (Wed, Jan 17th)</title>
       <link>https://isc.sans.edu/diary/rss/30540</link>
@@ -296,16 +306,6 @@
       <title>Balada Injector continues to infect thousands of WordPress sites</title>
       <link>https://securityaffairs.com/157470/malware/balada-injector-malware-wordpress-sites.html</link>
       <pubDate>Mon, 15 Jan 2024 10:11:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers target Apache Hadoop and Flink to deliver cryptominers</title>
-      <link>https://securityaffairs.com/157455/hacking/apache-hadoop-crypto-miners.html</link>
-      <pubDate>Mon, 15 Jan 2024 08:36:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>High-Severity Flaws Uncovered in Bosch Thermostats and Smart Nutrunners</title>
-      <link>https://thehackernews.com/2024/01/high-severity-flaws-uncovered-in-bosch.html</link>
-      <pubDate>Mon, 15 Jan 2024 08:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
