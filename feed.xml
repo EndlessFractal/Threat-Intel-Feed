@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 04:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 06:21:01 +0000</lastBuildDate>
+    <item>
+      <title>Citrix, VMware, and Atlassian Hit with Critical Flaws — Patch ASAP!</title>
+      <link>https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html</link>
+      <pubDate>Wed, 17 Jan 2024 04:14:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zero-Day Alert: Update Chrome Now to Fix New Actively Exploited Vulnerability</title>
       <link>https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html</link>
@@ -301,11 +306,6 @@
       <title>Security Experts Urge IT to Lock Down GitHub Services</title>
       <link>https://www.infosecurity-magazine.com/news/security-experts-urge-it-lock-down/</link>
       <pubDate>Mon, 15 Jan 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Balada Injector continues to infect thousands of WordPress sites</title>
-      <link>https://securityaffairs.com/157470/malware/balada-injector-malware-wordpress-sites.html</link>
-      <pubDate>Mon, 15 Jan 2024 10:11:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
