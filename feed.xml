@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 16:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 18:20:20 +0000</lastBuildDate>
+    <item>
+      <title>FBI and CISA warn of national security threat posed by Chinese drones</title>
+      <link>https://therecord.media/fbi-cisa-warn-of-drone-threat-china</link>
+      <pubDate>Wed, 17 Jan 2024 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-gaming-fintech-kids/</link>
+      <pubDate>Wed, 17 Jan 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>E-Crime Rapper ‘Punchmade Dev’ Debuts Card Shop</title>
+      <link>https://krebsonsecurity.com/2024/01/e-crime-rapper-punchmade-dev-debuts-card-shop/</link>
+      <pubDate>Wed, 17 Jan 2024 17:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlassian patches critical flaw in Confluence Data Center and Confluence Server.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/11</link>
+      <pubDate>Wed, 17 Jan 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Responses to the Aliquippa water authority attack. Dragos offers perspective on water utility cyber incidents.</title>
+      <link>https://thecyberwire.com/newsletters/control-loop/2/1</link>
+      <pubDate>Wed, 17 Jan 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attacks leave small business owners feeling suicidal, report says</title>
+      <link>https://therecord.media/small-business-ransomware-attacks-mental-health-rusi-study</link>
+      <pubDate>Wed, 17 Jan 2024 16:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vendor Email Attacks Surged by 137% in Financial Sector in 2023</title>
+      <link>https://www.infosecurity-magazine.com/news/vec-surged-137-financial-sector/</link>
+      <pubDate>Wed, 17 Jan 2024 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>National Bank of Angola says it mitigated cyberattack</title>
       <link>https://therecord.media/angola-national-bank-cyberattack-mitigated</link>
@@ -48,11 +83,6 @@
       <pubDate>Wed, 17 Jan 2024 13:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Estonia arrests Russian professor on suspicion of espionage</title>
-      <link>https://therecord.media/estonia-arrests-professor-suspicion-espionage-russia</link>
-      <pubDate>Wed, 17 Jan 2024 13:08:00 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenAI Announces Plans to Combat Misinformation Amid 2024 Elections</title>
       <link>https://www.infosecurity-magazine.com/news/openai-combat-misinformation-2024/</link>
       <pubDate>Wed, 17 Jan 2024 13:00:00 +0000</pubDate>
@@ -75,6 +105,11 @@
     <item>
       <title>75% of Organizations Hit by Ransomware in 2023</title>
       <link>https://www.infosecurity-magazine.com/news/75-orgs-ransomware-2023-1/</link>
+      <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware Releases Security Advisory for Aria Operations</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/17/vmware-releases-security-advisory-aria-operations</link>
       <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -158,6 +193,11 @@
       <pubDate>Wed, 17 Jan 2024 00:15:53 +0000</pubDate>
     </item>
     <item>
+      <title>It’s Friday, I’m [Writing That Typical CISO Email]</title>
+      <link>https://www.recordedfuture.com/blog/its-friday-im-writing-that-typial-ciso-email</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Google fixed the first actively exploited Chrome zero-day of 2024</title>
       <link>https://securityaffairs.com/157600/security/google-first-chrome-zero-day-2024.html</link>
       <pubDate>Tue, 16 Jan 2024 23:39:39 +0000</pubDate>
@@ -171,11 +211,6 @@
       <title>Atlassian fixed critical RCE in older Confluence versions</title>
       <link>https://securityaffairs.com/157591/security/atlassian-rce-flaw-older-confluence-versions.html</link>
       <pubDate>Tue, 16 Jan 2024 23:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Androxgh0st malware hackers creating large botnet, CISA and FBI warn</title>
-      <link>https://therecord.media/malware-hackers-creating-botnet-cisa-fbi</link>
-      <pubDate>Tue, 16 Jan 2024 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vulnerabilities and security risks.</title>
@@ -271,41 +306,6 @@
       <title>SEW-EURODRIVE MOVITOOLS MotionStudio</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-016-01</link>
       <pubDate>Tue, 16 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and FBI Release Known IOCs Associated with Androxgh0st Malware</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-and-fbi-release-known-iocs-associated-androxgh0st-malware</link>
-      <pubDate>Tue, 16 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Tue, 16 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-releases-two-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 16 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rise of Devils: The Origins of Modern Terrorism with James Crossland</title>
-      <link>https://thecyberwire.com/podcasts/spycast/617/notes</link>
-      <pubDate>Tue, 16 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alleged FruitFly malware creator ruled incompetent to stand trial</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/fruitfly-malware-creator-ruled-incompetent-to-stand-trial</link>
-      <pubDate>Tue, 16 Jan 2024 11:49:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>“I’ll miss him so much” Facebook scam uses BBC branding to lure victims</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/ill-miss-him-so-much-facebook-scam-uses-bbc-branding-to-lure-victims</link>
-      <pubDate>Tue, 16 Jan 2024 11:31:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab warns zero-click vulnerability could lead to account takeovers</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/gitlab-warns-zero-click-vulnerability-could-lead-to-account-takeovers</link>
-      <pubDate>Tue, 16 Jan 2024 11:01:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
