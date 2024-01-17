@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 14:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 16:21:01 +0000</lastBuildDate>
+    <item>
+      <title>National Bank of Angola says it mitigated cyberattack</title>
+      <link>https://therecord.media/angola-national-bank-cyberattack-mitigated</link>
+      <pubDate>Wed, 17 Jan 2024 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indian Air Force potentially targeted with info-stealing malware</title>
+      <link>https://therecord.media/indian-air-force-infostealing-malware</link>
+      <pubDate>Wed, 17 Jan 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SentinelOne | A Gartner Magic Quadrant Leader for Three Consecutive Years</title>
+      <link>https://www.sentinelone.com/blog/sentinelone-a-gartner-magic-quadrant-leader-for-three-consecutive-years/</link>
+      <pubDate>Wed, 17 Jan 2024 15:27:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Github rotated credentials after the discovery of a vulnerability</title>
+      <link>https://securityaffairs.com/157640/security/github-rotated-some-credentials.html</link>
+      <pubDate>Wed, 17 Jan 2024 14:48:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat-hunter says Iran is stepping up the sophistication of its cyberattacks</title>
+      <link>https://therecord.media/gil-messing-check-point-interview-israel-hamas-click-here</link>
+      <pubDate>Wed, 17 Jan 2024 14:32:00 +0000</pubDate>
+    </item>
     <item>
       <title>Inside the Massive Naz.API Credential Stuffing List</title>
       <link>https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/</link>
       <pubDate>Wed, 17 Jan 2024 14:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions</title>
+      <link>https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html</link>
+      <pubDate>Wed, 17 Jan 2024 13:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Combating IP Leaks into AI Applications with Free Discovery and Risk Reduction Automation</title>
+      <link>https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html</link>
+      <pubDate>Wed, 17 Jan 2024 13:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Estonia arrests Russian professor on suspicion of espionage</title>
@@ -40,6 +75,11 @@
     <item>
       <title>75% of Organizations Hit by Ransomware in 2023</title>
       <link>https://www.infosecurity-magazine.com/news/75-orgs-ransomware-2023-1/</link>
+      <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/17/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -138,24 +178,9 @@
       <pubDate>Tue, 16 Jan 2024 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Southeast Asian casino industry supercharging cyber fraud, UN says</title>
-      <link>https://therecord.media/southeast-asia-casino-industry-scams-money-laundering-un-report</link>
-      <pubDate>Tue, 16 Jan 2024 21:25:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Vulnerabilities and security risks.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1983/notes</link>
       <pubDate>Tue, 16 Jan 2024 21:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ford drops attempt to patent tech allowing lenders to remotely meddle with cars</title>
-      <link>https://therecord.media/ford-drops-patent-application-remote-vehicle-access-lenders</link>
-      <pubDate>Tue, 16 Jan 2024 19:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti spots ‘sharp increase’ in targeting of VPN as analysts find 1,700 devices exploited</title>
-      <link>https://therecord.media/ivanti-vpn-vulnerabilities-exploited-devices-worldwide</link>
-      <pubDate>Tue, 16 Jan 2024 19:03:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware fixed a critical flaw in Aria Automation. Patch it now!</title>
@@ -174,7 +199,7 @@
     </item>
     <item>
       <title>A true tale of virtual kidnapping: Lock and Code S05E02</title>
-      <link>https://www.malwarebytes.com/blog/uncategorized/2024/01/a-true-tale-of-virtual-kidnapping-lock-and-code-s05e02</link>
+      <link>https://www.malwarebytes.com/blog/podcast/2024/01/a-true-tale-of-virtual-kidnapping-lock-and-code-s05e02</link>
       <pubDate>Tue, 16 Jan 2024 16:32:52 +0000</pubDate>
     </item>
     <item>
@@ -186,6 +211,16 @@
       <title>The Rise of Drainer-as-a-Service | Understanding DaaS</title>
       <link>https://www.sentinelone.com/blog/the-rise-of-drainer-as-a-service-understanding-daas/</link>
       <pubDate>Tue, 16 Jan 2024 16:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>SMB Security Pack</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/smb-security-pack-policies-to-protect-your-business/</link>
+      <pubDate>Tue, 16 Jan 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transmission of Sensitive Data Policy</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/transmission-of-sensitive-data-policy/</link>
+      <pubDate>Tue, 16 Jan 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The CISO’s guide to accelerating quantum-safe readiness</title>
@@ -271,41 +306,6 @@
       <title>GitLab warns zero-click vulnerability could lead to account takeovers</title>
       <link>https://www.malwarebytes.com/blog/news/2024/01/gitlab-warns-zero-click-vulnerability-could-lead-to-account-takeovers</link>
       <pubDate>Tue, 16 Jan 2024 11:01:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts warn of mass exploitation of Ivanti Connect Secure VPN flaws</title>
-      <link>https://securityaffairs.com/157558/hacking/ivanti-connect-secure-vpn-flaws-attacks.html</link>
-      <pubDate>Tue, 16 Jan 2024 10:40:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 7 deadly cloud security sins and how SMBs can do things better</title>
-      <link>https://www.welivesecurity.com/en/business-security/7-deadly-cloud-security-sins-smb/</link>
-      <pubDate>Tue, 16 Jan 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Zero-Days Exploited By Multiple Actors Globally</title>
-      <link>https://www.infosecurity-magazine.com/news/ivanti-zerodays-exploited-multiple/</link>
-      <pubDate>Tue, 16 Jan 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A lightweight method to detect potential iOS malware</title>
-      <link>https://securelist.com/shutdown-log-lightweight-ios-malware-detection-method/111734/</link>
-      <pubDate>Tue, 16 Jan 2024 10:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inferno Drainer Spoofs Over 100 Crypto Brands to Steal $80m+</title>
-      <link>https://www.infosecurity-magazine.com/news/inferno-drainer-spoofs-100-crypto/</link>
-      <pubDate>Tue, 16 Jan 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims</title>
-      <link>https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html</link>
-      <pubDate>Tue, 16 Jan 2024 07:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer</title>
-      <link>https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html</link>
-      <pubDate>Tue, 16 Jan 2024 07:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
