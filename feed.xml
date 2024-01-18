@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jan 2024 18:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 20:17:06 +0000</lastBuildDate>
+    <item>
+      <title>CISA adds Chrome and Citrix NetScaler to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/157717/hacking/chrome-citrix-bugs-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 18 Jan 2024 19:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs</title>
+      <link>https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/</link>
+      <pubDate>Thu, 18 Jan 2024 19:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to do with that fancy new internet-connected device you got as a holiday gift</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-jan-18-2024/</link>
+      <pubDate>Thu, 18 Jan 2024 19:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Androxgh0st Malware Botnet Steals AWS, Microsoft Credentials and More</title>
+      <link>https://www.techrepublic.com/article/androxgh0st-malware-botnet/</link>
+      <pubDate>Thu, 18 Jan 2024 18:44:20 +0000</pubDate>
+    </item>
     <item>
       <title>TA866 Resurfaces in Targeted OneDrive Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/ta866-target-onedrive-campaign/</link>
@@ -113,8 +133,23 @@
       <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Oracle Releases Critical Patch Update Advisory for January 2024</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/18/oracle-releases-critical-patch-update-advisory-january-2024</link>
+      <title>Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/18/citrix-releases-security-updates-netscaler-adc-and-netscaler-gateway</link>
+      <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incident Response Guide for the WWS Sector</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector</link>
+      <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlassian Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/18/atlassian-releases-security-updates-multiple-products</link>
       <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -123,18 +158,13 @@
       <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/18/citrix-releases-security-updates-netscaler-adc-and-netscaler-gateway</link>
+      <title>Oracle Releases Critical Patch Update Advisory for January 2024</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/18/oracle-releases-critical-patch-update-advisory-january-2024</link>
       <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Drupal Releases Security Advisory for Drupal Core</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core</link>
-      <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incident Response Guide for the WWS Sector</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector</link>
       <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions</title>
       <link>https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html</link>
       <pubDate>Wed, 17 Jan 2024 13:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Free Discovery Tool Finds and Mitigates AI-SaaS Risks</title>
-      <link>https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html</link>
-      <pubDate>Wed, 17 Jan 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Announces Plans to Combat Misinformation Amid 2024 Elections</title>
-      <link>https://www.infosecurity-magazine.com/news/openai-combat-misinformation-2024/</link>
-      <pubDate>Wed, 17 Jan 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2023-46805 and CVE-2024-21887 Detection: Chinese Threat Actors Exploit Zero-Day Vulnerabilities in Invanti Connect Secure and Policy Secure Instances</title>
-      <link>https://socprime.com/blog/cve-2023-46805-and-cve-2024-21887-detection-chinese-threat-actors-exploit-zero-day-vulnerabilities-in-invanti-connect-secure-and-policy-secure-instances/</link>
-      <pubDate>Wed, 17 Jan 2024 12:27:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Code Written with AI Assistants Is Less Secure</title>
-      <link>https://www.schneier.com/blog/archives/2024/01/code-written-with-ai-assistants-is-less-secure.html</link>
-      <pubDate>Wed, 17 Jan 2024 12:14:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI, CISA warn of AndroxGh0st botnet for victim identification and exploitation</title>
-      <link>https://securityaffairs.com/157622/cyber-crime/androxgh0st-botnet-alert.html</link>
-      <pubDate>Wed, 17 Jan 2024 12:10:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>75% of Organizations Hit by Ransomware in 2023</title>
-      <link>https://www.infosecurity-magazine.com/news/75-orgs-ransomware-2023-1/</link>
-      <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
