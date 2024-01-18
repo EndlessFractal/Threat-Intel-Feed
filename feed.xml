@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 22:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 01:10:55 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #355: Fishy Rishi, 23andMe, and the labour of love</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-355/</link>
+      <pubDate>Thu, 18 Jan 2024 00:01:48 +0000</pubDate>
+    </item>
     <item>
       <title>Maximum severity vulnerability needs critical updates.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1984/notes</link>
@@ -301,11 +306,6 @@
       <title>Remcos RAT Spreading Through Adult Games in New Attack Wave</title>
       <link>https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html</link>
       <pubDate>Tue, 16 Jan 2024 13:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scans for Ivanti Connect "Secure" VPN  Vulnerability (CVE-2023-46805, CVE-2024-21887), (Tue, Jan 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/30562</link>
-      <pubDate>Tue, 16 Jan 2024 12:53:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
