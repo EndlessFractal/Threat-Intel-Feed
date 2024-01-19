@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 18:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 20:16:51 +0000</lastBuildDate>
+    <item>
+      <title>Zelle Is Using My Name and Voice without My Consent</title>
+      <link>https://www.schneier.com/blog/archives/2024/01/zelle-is-using-my-name-and-voice-without-my-consent.html</link>
+      <pubDate>Fri, 19 Jan 2024 20:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parrot TDS: A Persistent and Evolving Malware Campaign</title>
+      <link>https://unit42.paloaltonetworks.com/parrot-tds-javascript-evolution-analysis/</link>
+      <pubDate>Fri, 19 Jan 2024 20:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti vulnerabilities are being exploited widely, CISA says in emergency directive</title>
+      <link>https://therecord.media/ivanti-vulnerabilities-cisa-emergency-directive</link>
+      <pubDate>Fri, 19 Jan 2024 19:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked APT UNC3886 exploits VMware zero-day since 2021</title>
+      <link>https://securityaffairs.com/157769/apt/unc3886-exploits-vcenter-server-zero-day-cve-2023-34048.html</link>
+      <pubDate>Fri, 19 Jan 2024 19:32:18 +0000</pubDate>
+    </item>
     <item>
       <title>CISA requires US Federal agencies to patch Citrix Netscaler flaw within a week. VF ransomware attack affected data belonging to 35 million customers.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/13</link>
@@ -76,6 +96,11 @@
       <title>Speaking to the CIA’s Creative Writing Group</title>
       <link>https://www.schneier.com/blog/archives/2024/01/speaking-to-the-cias-creative-writing-group.html</link>
       <pubDate>Fri, 19 Jan 2024 12:21:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Issues Emergency Directive on Ivanti Vulnerabilities</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/19/cisa-issues-emergency-directive-ivanti-vulnerabilities</link>
+      <pubDate>Fri, 19 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators</title>
@@ -203,11 +228,6 @@
       <pubDate>Thu, 18 Jan 2024 15:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberattack on Ukraine’s largest telecom provider will cost it about $100 million</title>
-      <link>https://therecord.media/kyivstar-cyberattack-costs-100-million-waived-fees</link>
-      <pubDate>Thu, 18 Jan 2024 15:14:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware</title>
       <link>https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html</link>
       <pubDate>Thu, 18 Jan 2024 14:49:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>CISA Releases One Industrial Control Systems Advisory</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-releases-one-industrial-control-systems-advisory</link>
       <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle Releases Critical Patch Update Advisory for January 2024</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/18/oracle-releases-critical-patch-update-advisory-january-2024</link>
-      <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drupal Releases Security Advisory for Drupal Core</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core</link>
-      <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PixieFail: Nine flaws in UEFI open-source reference implementation could have severe impacts</title>
-      <link>https://securityaffairs.com/157683/hacking/pixiefail-uefi-vulnerabilities.html</link>
-      <pubDate>Thu, 18 Jan 2024 11:46:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update Chrome! Google patches actively exploited zero-day vulnerability</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/update-chrome-google-patches-actively-exploited-zero-day-vulnerability</link>
-      <pubDate>Thu, 18 Jan 2024 11:44:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
