@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 02:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 04:19:54 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Friday, January 19th, 2024 https://isc.sans.edu/podcastdetail/8816, (Fri, Jan 19th)</title>
+      <link>https://isc.sans.edu/diary/rss/30570</link>
+      <pubDate>Fri, 19 Jan 2024 02:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>FTC settles second case with geolocation data broker in two weeks</title>
       <link>https://therecord.media/ftc-settles-data-broker-case-geolocation</link>
@@ -301,11 +306,6 @@
       <title>SentinelOne | A Gartner Magic Quadrant Leader for Three Consecutive Years</title>
       <link>https://www.sentinelone.com/blog/sentinelone-a-gartner-magic-quadrant-leader-for-three-consecutive-years/</link>
       <pubDate>Wed, 17 Jan 2024 15:27:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Github rotated credentials after the discovery of a vulnerability</title>
-      <link>https://securityaffairs.com/157640/security/github-rotated-some-credentials.html</link>
-      <pubDate>Wed, 17 Jan 2024 14:48:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
