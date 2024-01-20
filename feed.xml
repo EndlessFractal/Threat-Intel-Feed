@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jan 2024 04:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 06:19:31 +0000</lastBuildDate>
+    <item>
+      <title>A firewall wake up call.</title>
+      <link>https://thecyberwire.com/podcasts/research-saturday/313/notes</link>
+      <pubDate>Sat, 20 Jan 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlassian patches critical flaw in Confluence Data Center and Confluence Server. COLDRIVER continues targeting Western officials.</title>
+      <link>https://thecyberwire.com/newsletters/week-that-was/8/3</link>
+      <pubDate>Sat, 20 Jan 2024 05:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits</title>
+      <link>https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html</link>
+      <pubDate>Sat, 20 Jan 2024 04:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft's Top Execs' Emails Breached in Sophisticated Russia-Linked APT Attack</title>
       <link>https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html</link>
@@ -223,6 +238,11 @@
       <pubDate>Thu, 18 Jan 2024 17:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft at Legalweek: Secure data and gain efficiencies with Microsoft Purview eDiscovery enhanced by generative AI</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/01/18/microsoft-at-legalweek-secure-data-and-gain-efficiencies-with-microsoft-purview-ediscovery-enhanced-by-generative-ai/</link>
+      <pubDate>Thu, 18 Jan 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>TA866 returns with widespread phishing campaigns. COLDRIVER continues targeting Western officials.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/12</link>
       <pubDate>Thu, 18 Jan 2024 17:00:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Stream-Jacking 2.0: Deep fakes power account takeovers on YouTube to maximize crypto-doubling scams</title>
       <link>https://www.bitdefender.com/blog/labs/stream-jacking-2-0-deep-fakes-power-account-takeovers-on-youtube-to-maximize-crypto-doubling-scams/</link>
       <pubDate>Thu, 18 Jan 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks</title>
-      <link>https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html</link>
-      <pubDate>Thu, 18 Jan 2024 12:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian Citizen Gets Phone Back from Police</title>
-      <link>https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html</link>
-      <pubDate>Thu, 18 Jan 2024 12:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>MFA Spamming and Fatigue: When Security Measures Go Wrong</title>
-      <link>https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html</link>
-      <pubDate>Thu, 18 Jan 2024 12:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AVEVA PI Server</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-018-01</link>
-      <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
