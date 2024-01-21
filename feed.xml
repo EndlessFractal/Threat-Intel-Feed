@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jan 2024 10:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 12:28:08 +0000</lastBuildDate>
     <item>
       <title>Cybersecurity Challenges at the World Economic Forum</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cybersecurity-challenges-at-the-world-economic-forum</link>
@@ -283,11 +283,6 @@
       <pubDate>Thu, 18 Jan 2024 17:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Find Mistakes Earlier and Save Money With Code Security Audit</title>
-      <link>https://www.hackerone.com/vulnerability-management/find-mistakes-save-money-code-security-audit</link>
-      <pubDate>Thu, 18 Jan 2024 17:05:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft at Legalweek: Secure data and gain efficiencies with Microsoft Purview eDiscovery enhanced by generative AI</title>
       <link>https://www.microsoft.com/en-us/security/blog/2024/01/18/microsoft-at-legalweek-secure-data-and-gain-efficiencies-with-microsoft-purview-ediscovery-enhanced-by-generative-ai/</link>
       <pubDate>Thu, 18 Jan 2024 17:00:00 +0000</pubDate>
@@ -306,6 +301,11 @@
       <title>New Docker Malware Steals CPU for Crypto &amp; Drives Fake Website Traffic</title>
       <link>https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html</link>
       <pubDate>Thu, 18 Jan 2024 16:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Malware Campaign Exploits 9hits in Docker Assault</title>
+      <link>https://www.infosecurity-magazine.com/news/malware-exploits-9hits-docker/</link>
+      <pubDate>Thu, 18 Jan 2024 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
