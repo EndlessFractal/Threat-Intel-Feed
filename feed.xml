@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jan 2024 22:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 01:14:14 +0000</lastBuildDate>
+    <item>
+      <title>Various LSASS Credentials Dumping Methods Detected by EDR</title>
+      <link>https://asec.ahnlab.com/en/60690/</link>
+      <pubDate>Mon, 22 Jan 2024 00:50:37 +0000</pubDate>
+    </item>
     <item>
       <title>LockBit ransomware gang claims the attack on the sandwich chain Subway</title>
       <link>https://securityaffairs.com/157852/cyber-crime/lockbit-hacked-sandwich-chain-subway.html</link>
@@ -248,6 +253,11 @@
       <pubDate>Fri, 19 Jan 2024 02:00:01 +0000</pubDate>
     </item>
     <item>
+      <title>Distribution of SmokeLoader Targeting Ukrainian Government and Companies</title>
+      <link>https://asec.ahnlab.com/en/60703/</link>
+      <pubDate>Fri, 19 Jan 2024 00:32:31 +0000</pubDate>
+    </item>
+    <item>
       <title>FTC settles second case with geolocation data broker in two weeks</title>
       <link>https://therecord.media/ftc-settles-data-broker-case-geolocation</link>
       <pubDate>Thu, 18 Jan 2024 22:45:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Cybersecurity spend to soar in 2024: How companies can maximize their investment</title>
       <link>https://www.malwarebytes.com/blog/business/2024/01/cybersecurity-spend-to-soar-in-2024-how-companies-can-maximize-their-investment</link>
       <pubDate>Thu, 18 Jan 2024 16:44:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Docker Malware Steals CPU for Crypto &amp; Drives Fake Website Traffic</title>
-      <link>https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html</link>
-      <pubDate>Thu, 18 Jan 2024 16:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Malware Campaign Exploits 9hits in Docker Assault</title>
-      <link>https://www.infosecurity-magazine.com/news/malware-exploits-9hits-docker/</link>
-      <pubDate>Thu, 18 Jan 2024 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
