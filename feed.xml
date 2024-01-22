@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jan 2024 10:17:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 12:31:51 +0000</lastBuildDate>
+    <item>
+      <title>AI Bots on X (Twitter)</title>
+      <link>https://www.schneier.com/blog/archives/2024/01/ai-bots-on-x-twitter.html</link>
+      <pubDate>Mon, 22 Jan 2024 12:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Privacy Week: Lack of Understanding, Underfunding Threaten Data Privacy and Compliance</title>
+      <link>https://www.infosecurity-magazine.com/news/isaca-data-privacy-report/</link>
+      <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NS-STEALER Uses Discord Bots to Exfiltrate Your Secrets from Popular Browsers</title>
+      <link>https://thehackernews.com/2024/01/ns-stealer-uses-discord-bots-to.html</link>
+      <pubDate>Mon, 22 Jan 2024 11:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>52% of Serious Vulnerabilities We Find are Related to Windows 10</title>
+      <link>https://thehackernews.com/2024/01/52-of-serious-vulnerabilities-we-find.html</link>
+      <pubDate>Mon, 22 Jan 2024 11:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat actors exploit Apache ActiveMQ flaw to deliver the Godzilla Web Shell</title>
+      <link>https://securityaffairs.com/157887/malware/apache-activemq-godzilla-web-shell.html</link>
+      <pubDate>Mon, 22 Jan 2024 11:19:37 +0000</pubDate>
+    </item>
     <item>
       <title>CISA Emergency Directive Demands Action on Ivanti Zero-Days</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-emergency-directive-action/</link>
@@ -203,11 +228,6 @@
       <pubDate>Fri, 19 Jan 2024 14:44:08 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. CISA warns of actively exploited Ivanti EPMM flaw CVE-2023-35082</title>
-      <link>https://securityaffairs.com/157746/hacking/cisa-ivanti-epmm-actively-exploited.html</link>
-      <pubDate>Fri, 19 Jan 2024 14:14:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Google changes wording for Incognito browsing in Chrome</title>
       <link>https://www.malwarebytes.com/blog/news/2024/01/google-changes-wording-for-incognito-browsing-in-chrome</link>
       <pubDate>Fri, 19 Jan 2024 14:09:59 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>ISC Stormcast For Friday, January 19th, 2024 https://isc.sans.edu/podcastdetail/8816, (Fri, Jan 19th)</title>
       <link>https://isc.sans.edu/diary/rss/30570</link>
       <pubDate>Fri, 19 Jan 2024 02:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Distribution of SmokeLoader Targeting Ukrainian Government and Companies</title>
-      <link>https://asec.ahnlab.com/en/60703/</link>
-      <pubDate>Fri, 19 Jan 2024 00:32:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>FTC settles second case with geolocation data broker in two weeks</title>
-      <link>https://therecord.media/ftc-settles-data-broker-case-geolocation</link>
-      <pubDate>Thu, 18 Jan 2024 22:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A credential dump hits the online underground.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1985/notes</link>
-      <pubDate>Thu, 18 Jan 2024 21:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese hackers heavily target Taiwan’s Elections infrastructure. The White House looks to relax education requirements for federal cyber jobs.</title>
-      <link>https://thecyberwire.com/newsletters/caveat-briefing/2/2</link>
-      <pubDate>Thu, 18 Jan 2024 21:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
