@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 08:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 10:17:13 +0000</lastBuildDate>
     <item>
       <title>SEC says X account hack was due to SIM swapping</title>
       <link>https://therecord.media/sec-x-account-takeover-sim-swapping</link>
       <pubDate>Wed, 24 Jan 2024 00:29:00 +0000</pubDate>
     </item>
     <item>
+      <title>SEC Confirms SIM Swap Attack Behind X Account Takeover</title>
+      <link>https://www.infosecurity-magazine.com/news/sec-sim-swap-attack-x-account/</link>
+      <pubDate>Tue, 23 Jan 2024 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation</title>
+      <link>https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html</link>
+      <pubDate>Tue, 23 Jan 2024 09:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mega-Breach Database Exposes 26 Billion Records</title>
+      <link>https://www.infosecurity-magazine.com/news/mother-breaches-unlikely-new-data/</link>
+      <pubDate>Tue, 23 Jan 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Basta gang claims the hack of the UK water utility Southern Water</title>
+      <link>https://securityaffairs.com/157951/cyber-crime/black-basta-gang-claims-the-hack-of-the-uk-water-utility-southern-water.html</link>
+      <pubDate>Tue, 23 Jan 2024 08:51:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Cybersecurity at 35,000 Feet</title>
       <link>https://thecyberwire.com/podcasts/afternoon-cyber-tea/89/notes</link>
       <pubDate>Tue, 23 Jan 2024 08:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA adds VMware vCenter Server bug to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/157941/security/cisa-vmware-vcenter-server-bug-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Tue, 23 Jan 2024 08:00:22 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, January 23rd, 2024 https://isc.sans.edu/podcastdetail/8820, (Tue, Jan 23rd)</title>
@@ -68,7 +93,7 @@
       <pubDate>Mon, 22 Jan 2024 20:19:09 +0000</pubDate>
     </item>
     <item>
-      <title>LoanDepot Data Breach Hits 16.6 Customers</title>
+      <title>LoanDepot Data Breach Hits 16.6 Million Customers</title>
       <link>https://www.infosecurity-magazine.com/news/loan-depot-data-breach-hits-166/</link>
       <pubDate>Mon, 22 Jan 2024 18:00:00 +0000</pubDate>
     </item>
@@ -243,11 +268,6 @@
       <pubDate>Sun, 21 Jan 2024 09:16:45 +0000</pubDate>
     </item>
     <item>
-      <title>Admin of the BreachForums hacking forum sentenced to 20 years supervised release</title>
-      <link>https://securityaffairs.com/157811/cyber-crime/breachforums-admin-sentenced.html</link>
-      <pubDate>Sat, 20 Jan 2024 22:01:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Digital afterlife – how to deal with social media accounts when someone dies</title>
       <link>https://www.theguardian.com/society/2024/jan/21/digital-afterlife-how-to-deal-with-social-media-accounts-when-someone-dies</link>
       <pubDate>Sat, 20 Jan 2024 19:00:07 +0000</pubDate>
@@ -261,11 +281,6 @@
       <title>Google failing to scrub abortion access in location history, study claims</title>
       <link>https://www.malwarebytes.com/blog/news/2024/01/google-failing-to-scrub-abortion-access-in-location-history-study-claims</link>
       <pubDate>Sat, 20 Jan 2024 12:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked Midnight Blizzard APT hacked Microsoft corporate emails</title>
-      <link>https://securityaffairs.com/157802/apt/midnight-blizzard-hacked-microsoft-email-accounts.html</link>
-      <pubDate>Sat, 20 Jan 2024 11:37:14 +0000</pubDate>
     </item>
     <item>
       <title>Chinese Hackers Silently Weaponized VMware Zero-Day Flaw for 2 Years</title>
@@ -291,21 +306,6 @@
       <title>Microsoft's Top Execs' Emails Breached in Sophisticated Russia-Linked APT Attack</title>
       <link>https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html</link>
       <pubDate>Sat, 20 Jan 2024 03:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Invoice Phishing Alert: TA866 Deploys WasabiSeed &amp; Screenshotter Malware</title>
-      <link>https://thehackernews.com/2024/01/invoice-phishing-alert-ta866-deploys.html</link>
-      <pubDate>Sat, 20 Jan 2024 02:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: New Foods from Squid Fins</title>
-      <link>https://www.schneier.com/blog/archives/2024/01/friday-squid-blogging-new-foods-from-squid-fins.html</link>
-      <pubDate>Fri, 19 Jan 2024 22:07:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>New malware, new threats.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1986/notes</link>
-      <pubDate>Fri, 19 Jan 2024 21:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
