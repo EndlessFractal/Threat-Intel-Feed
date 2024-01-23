@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 14:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 16:21:16 +0000</lastBuildDate>
+    <item>
+      <title>Australian government announced sanctions for Medibank hacker</title>
+      <link>https://securityaffairs.com/157983/hacking/australia-sanctions-for-medibank-hacker.html</link>
+      <pubDate>Tue, 23 Jan 2024 14:48:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>VexTrio: The Uber of Cybercrime - Brokering Malware for 60+ Affiliates</title>
+      <link>https://thehackernews.com/2024/01/vextrio-uber-of-cybercrime-brokering.html</link>
+      <pubDate>Tue, 23 Jan 2024 14:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious NPM Packages Exfiltrate Hundreds of Developer SSH Keys via GitHub</title>
+      <link>https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html</link>
+      <pubDate>Tue, 23 Jan 2024 14:19:00 +0000</pubDate>
+    </item>
     <item>
       <title>“The mother of all breaches”: 26 billion records found online</title>
       <link>https://www.malwarebytes.com/blog/news/2024/01/the-mother-of-all-breaches-26-billion-records-found-online</link>
@@ -51,6 +66,16 @@
       <title>Side Channels Are Common</title>
       <link>https://www.schneier.com/blog/archives/2024/01/side-channels-are-common.html</link>
       <pubDate>Tue, 23 Jan 2024 12:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/23/apple-releases-security-updates-multiple-products</link>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Australian National Day Special: “Intelligence Down Under with John Blaxland”</title>
@@ -281,31 +306,6 @@
       <title>Russian Spies Brute Force Senior Microsoft Staff Accounts</title>
       <link>https://www.infosecurity-magazine.com/news/russian-brute-force-senior/</link>
       <pubDate>Mon, 22 Jan 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals leaked massive volumes of stolen PII data from Thailand in Dark Web</title>
-      <link>https://securityaffairs.com/157870/data-breach/resecurity-massive-thailand-data-leak.html</link>
-      <pubDate>Mon, 22 Jan 2024 09:27:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (January 15 – January 21)</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/a-week-in-security-january-15-january-21-2</link>
-      <pubDate>Mon, 22 Jan 2024 08:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cracked software beats gold: new macOS backdoor stealing cryptowallets</title>
-      <link>https://securelist.com/new-macos-backdoor-crypto-stealer/111778/</link>
-      <pubDate>Mon, 22 Jan 2024 08:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>FTC Bans InMarket for Selling Precise User Location Without Consent</title>
-      <link>https://thehackernews.com/2024/01/ftc-bans-inmarket-for-selling-precise.html</link>
-      <pubDate>Mon, 22 Jan 2024 07:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Backdoored pirated applications targets Apple macOS users</title>
-      <link>https://securityaffairs.com/157835/malware/backdoored-pirated-applications-targets-macos.html</link>
-      <pubDate>Mon, 22 Jan 2024 06:31:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
