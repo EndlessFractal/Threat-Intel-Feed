@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 12:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 14:15:14 +0000</lastBuildDate>
     <item>
-      <title>SEC says X account hack was due to SIM swapping</title>
-      <link>https://therecord.media/sec-x-account-takeover-sim-swapping</link>
-      <pubDate>Wed, 24 Jan 2024 00:29:00 +0000</pubDate>
+      <title>“The mother of all breaches”: 26 billion records found online</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/01/the-mother-of-all-breaches-26-billion-records-found-online</link>
+      <pubDate>Tue, 23 Jan 2024 13:51:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decrypting SentinelOne Cloud Detection | The Threat Intelligence Engine in Real-Time CWPP</title>
+      <link>https://www.sentinelone.com/blog/decrypting-sentinelone-cloud-detection-the-threat-intelligence-engine-in-real-time-cwpp/</link>
+      <pubDate>Tue, 23 Jan 2024 13:41:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2023-22527 Detection: Maximum Severity RCE Vulnerability in Atlassian’s Confluence Server and Data Center Exploited in the Wild</title>
+      <link>https://socprime.com/blog/cve-2023-22527-detection-maximum-severity-rce-vulnerability-in-atlassians-confluence-server-and-data-center-exploited-in-the-wild/</link>
+      <pubDate>Tue, 23 Jan 2024 13:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft got hacked by state sponsored group it was investigating</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/01/microsoft-got-hacked-by-state-sponsored-group-it-was-investigating</link>
+      <pubDate>Tue, 23 Jan 2024 13:27:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK tells business leaders to ‘toughen up’ against cyberattacks</title>
+      <link>https://therecord.media/uk-businesses-cyber-resilience-code-of-practice</link>
+      <pubDate>Tue, 23 Jan 2024 12:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Cybersecurity Governance Code Puts Cyber Risks on Boardroom Agenda</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-governance-code/</link>
+      <pubDate>Tue, 23 Jan 2024 12:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Activator" Alert: MacOS Malware Hides in Cracked Apps, Targeting Crypto Wallets</title>
+      <link>https://thehackernews.com/2024/01/activator-alert-macos-malware-hides-in.html</link>
+      <pubDate>Tue, 23 Jan 2024 12:27:00 +0000</pubDate>
     </item>
     <item>
       <title>French Watchdog Slams Amazon with €32m Fine for Spying on Workers</title>
@@ -98,6 +128,11 @@
       <pubDate>Tue, 23 Jan 2024 00:40:00 +0000</pubDate>
     </item>
     <item>
+      <title>SEC says X account hack was due to SIM swapping</title>
+      <link>https://therecord.media/sec-x-account-takeover-sim-swapping</link>
+      <pubDate>Tue, 23 Jan 2024 00:29:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA's Easterly the target of ‘harrowing’ swatting incident</title>
       <link>https://therecord.media/cisa-jen-easterly-swatting-incident</link>
       <pubDate>Mon, 22 Jan 2024 22:07:00 +0000</pubDate>
@@ -166,11 +201,6 @@
       <title>New macOS Malware Targets Cracked Apps</title>
       <link>https://www.infosecurity-magazine.com/news/macos-malware-targets-cracked-apps/</link>
       <pubDate>Mon, 22 Jan 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian hackers behind Solarwinds breach accessed emails of senior Microsoft leaders</title>
-      <link>https://therecord.media/russian-hackers-accessed-emails-of-senior-microsoft-leaders</link>
-      <pubDate>Mon, 22 Jan 2024 16:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Info Stealing Packages Hidden in PyPI</title>
@@ -276,36 +306,6 @@
       <title>Backdoored pirated applications targets Apple macOS users</title>
       <link>https://securityaffairs.com/157835/malware/backdoored-pirated-applications-targets-macos.html</link>
       <pubDate>Mon, 22 Jan 2024 06:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache ActiveMQ Flaw Exploited in New Godzilla Web Shell Attacks</title>
-      <link>https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html</link>
-      <pubDate>Mon, 22 Jan 2024 03:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, January 22nd, 2024 https://isc.sans.edu/podcastdetail/8818, (Mon, Jan 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/30574</link>
-      <pubDate>Mon, 22 Jan 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Various LSASS Credentials Dumping Methods Detected by EDR</title>
-      <link>https://asec.ahnlab.com/en/60690/</link>
-      <pubDate>Mon, 22 Jan 2024 00:50:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit ransomware gang claims the attack on the sandwich chain Subway</title>
-      <link>https://securityaffairs.com/157852/cyber-crime/lockbit-hacked-sandwich-chain-subway.html</link>
-      <pubDate>Sun, 21 Jan 2024 19:46:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Challenges at the World Economic Forum</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cybersecurity-challenges-at-the-world-economic-forum</link>
-      <pubDate>Sun, 21 Jan 2024 10:10:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Digital afterlife – how to deal with social media accounts when someone dies</title>
-      <link>https://www.theguardian.com/society/2024/jan/21/digital-afterlife-how-to-deal-with-social-media-accounts-when-someone-dies</link>
-      <pubDate>Sat, 20 Jan 2024 19:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
