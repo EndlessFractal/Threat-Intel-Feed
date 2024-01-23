@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 01:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 02:31:15 +0000</lastBuildDate>
     <item>
       <title>SEC says X account hack was due to SIM swapping</title>
       <link>https://therecord.media/sec-x-account-takeover-sim-swapping</link>
       <pubDate>Wed, 24 Jan 2024 00:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Issues Patch for Critical Zero-Day in iPhones, Macs - Update Now</title>
+      <link>https://thehackernews.com/2024/01/apple-issues-patch-for-critical-zero.html</link>
+      <pubDate>Tue, 23 Jan 2024 01:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Lazarus Group Uses the DLL Side-Loading Technique (2)</title>
@@ -301,11 +306,6 @@
       <title>Parrot TDS: A Persistent and Evolving Malware Campaign</title>
       <link>https://unit42.paloaltonetworks.com/parrot-tds-javascript-evolution-analysis/</link>
       <pubDate>Fri, 19 Jan 2024 20:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA requires US Federal agencies to patch Citrix Netscaler flaw within a week. VF ransomware attack affected data belonging to 35 million customers.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/13</link>
-      <pubDate>Fri, 19 Jan 2024 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
