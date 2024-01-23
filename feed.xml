@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jan 2024 22:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 01:12:42 +0000</lastBuildDate>
+    <item>
+      <title>SEC says X account hack was due to SIM swapping</title>
+      <link>https://therecord.media/sec-x-account-takeover-sim-swapping</link>
+      <pubDate>Wed, 24 Jan 2024 00:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lazarus Group Uses the DLL Side-Loading Technique (2)</title>
+      <link>https://asec.ahnlab.com/en/60792/</link>
+      <pubDate>Tue, 23 Jan 2024 00:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA's Easterly the target of ‘harrowing’ swatting incident</title>
+      <link>https://therecord.media/cisa-jen-easterly-swatting-incident</link>
+      <pubDate>Mon, 22 Jan 2024 22:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mother of all breaches – a historic data leak reveals 26 billion records: check what’s exposed</title>
+      <link>https://securityaffairs.com/157933/breaking-news/largest-data-leak-ever.html</link>
+      <pubDate>Mon, 22 Jan 2024 22:05:51 +0000</pubDate>
+    </item>
     <item>
       <title>Apple Updates Everything - New 0 Day in WebKit, (Mon, Jan 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/30578</link>
@@ -106,11 +126,6 @@
       <title>With hackers poisoning water systems, US agencies issue incident response guide to boost cybersecurity</title>
       <link>https://www.tripwire.com/state-of-security/us-agencies-issue-cybersecurity-guide-response-cybercriminals-targeting-water</link>
       <pubDate>Mon, 22 Jan 2024 13:22:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Akira ransomware hits cloud service Tietoevry; numerous Swedish customers affected</title>
-      <link>https://therecord.media/tietoevry-ransomware-attack-sweden-cloud-services-datacenter</link>
-      <pubDate>Mon, 22 Jan 2024 12:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Coldriver threat group targets high-ranking officials to obtain credentials</title>
@@ -268,19 +283,9 @@
       <pubDate>Sat, 20 Jan 2024 02:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>VF Corp December data breach impacts 35 million customers</title>
-      <link>https://securityaffairs.com/157786/data-breach/vf-corp-december-data-breach.html</link>
-      <pubDate>Fri, 19 Jan 2024 23:37:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Friday Squid Blogging: New Foods from Squid Fins</title>
       <link>https://www.schneier.com/blog/archives/2024/01/friday-squid-blogging-new-foods-from-squid-fins.html</link>
       <pubDate>Fri, 19 Jan 2024 22:07:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Financial platform Payoneer blames account hacks on phishing campaign</title>
-      <link>https://therecord.media/financial-platform-payoneer-account-hacks-phishing</link>
-      <pubDate>Fri, 19 Jan 2024 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New malware, new threats.</title>
@@ -301,11 +306,6 @@
       <title>CISA requires US Federal agencies to patch Citrix Netscaler flaw within a week. VF ransomware attack affected data belonging to 35 million customers.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/13</link>
       <pubDate>Fri, 19 Jan 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phemedrone Stealer Detection: Threat Actors Exploit CVE-2023-36025 Vulnerability in Windows SmartScreen to Deploy Malware</title>
-      <link>https://socprime.com/blog/phemedrone-stealer-detection-threat-actors-exploit-cve-2023-36025-vulnerability-in-windows-smartscreen-to-deploy-malware/</link>
-      <pubDate>Fri, 19 Jan 2024 16:15:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
