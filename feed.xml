@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 16:21:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 18:20:24 +0000</lastBuildDate>
+    <item>
+      <title>French regulators levy €32 million fine against Amazon for surveilling employees</title>
+      <link>https://therecord.media/french-regulators-levy-fine-against-amazon-for-monitoring-practices</link>
+      <pubDate>Tue, 23 Jan 2024 17:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious npm Packages Used to Target GitHub Developer SSH Keys</title>
+      <link>https://www.infosecurity-magazine.com/news/npm-packages-target-github-ssh-keys/</link>
+      <pubDate>Tue, 23 Jan 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA director targeted by swatting attack. loanDepot breach affects 16 million individuals.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/15</link>
+      <pubDate>Tue, 23 Jan 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Important Sophos Firewall product news</title>
+      <link>https://news.sophos.com/en-us/2024/01/23/important-sophos-firewall-product-news/</link>
+      <pubDate>Tue, 23 Jan 2024 16:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK, US and Australia sanction Russian citizen over Medibank hack</title>
+      <link>https://therecord.media/uk-us-australia-sanction-russian-ermakov-medibank</link>
+      <pubDate>Tue, 23 Jan 2024 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Target Atlassian Confluence With RCE Exploits</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-target-atlassian/</link>
+      <pubDate>Tue, 23 Jan 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update on Atlassian Exploit Activity , (Tue, Jan 23rd)</title>
+      <link>https://isc.sans.edu/diary/rss/30582</link>
+      <pubDate>Tue, 23 Jan 2024 16:06:49 +0000</pubDate>
+    </item>
     <item>
       <title>Australian government announced sanctions for Medibank hacker</title>
       <link>https://securityaffairs.com/157983/hacking/australia-sanctions-for-medibank-hacker.html</link>
@@ -21,6 +56,11 @@
       <title>Malicious NPM Packages Exfiltrate Hundreds of Developer SSH Keys via GitHub</title>
       <link>https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html</link>
       <pubDate>Tue, 23 Jan 2024 14:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orthanc Osimis DICOM Web Viewer</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-24-023-01</link>
+      <pubDate>Tue, 23 Jan 2024 14:11:24 +0000</pubDate>
     </item>
     <item>
       <title>“The mother of all breaches”: 26 billion records found online</title>
@@ -68,8 +108,38 @@
       <pubDate>Tue, 23 Jan 2024 12:09:42 +0000</pubDate>
     </item>
     <item>
+      <title>Crestron AM-300</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-023-02</link>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Westermo Lynx 206-F2G</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-023-04</link>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APsystems Energy Communication Unit (ECU-C) Power Control Software</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-023-01</link>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voltronic Power ViewPower Pro</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-023-03</link>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lantronix XPort</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-023-05</link>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Six Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-releases-six-industrial-control-systems-advisories</link>
       <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -178,11 +248,6 @@
       <pubDate>Mon, 22 Jan 2024 21:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pakistan's internet disrupted during virtual election rally</title>
-      <link>https://therecord.media/pakistan-internet-disrupted-virtual-election-rally</link>
-      <pubDate>Mon, 22 Jan 2024 20:55:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Apple fixed actively exploited zero-day CVE-2024-23222</title>
       <link>https://securityaffairs.com/157925/security/apple-first-zero-day-2024.html</link>
       <pubDate>Mon, 22 Jan 2024 20:48:44 +0000</pubDate>
@@ -201,11 +266,6 @@
       <title>Thai Court Blocks 9near.org to Avoid Exposure of 55M Citizens</title>
       <link>https://www.infosecurity-magazine.com/news/thai-court-blocks-9nearorg/</link>
       <pubDate>Mon, 22 Jan 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian mobile bank sees a spike in ‘non-stop’ DDoS incidents</title>
-      <link>https://therecord.media/monobank-ukraine-ddos</link>
-      <pubDate>Mon, 22 Jan 2024 17:07:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft targeted by Cozy Bear. Suspected Chinese threat actor exploits VMware vulnerability.</title>
@@ -246,66 +306,6 @@
       <title>Boardroom cyber expertise comes under scrutiny</title>
       <link>https://securityintelligence.com/articles/boardroom-cyber-expertise-scrutiny/</link>
       <pubDate>Mon, 22 Jan 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0050 Activity Detection: Hackers Impersonate SSSCIP and State Emergency Service of Ukraine Using Remote Utilities</title>
-      <link>https://socprime.com/blog/uac-0050-activity-detection-hackers-impersonate-ssscip-and-state-emergency-service-of-ukraine-using-remote-utilities/</link>
-      <pubDate>Mon, 22 Jan 2024 13:50:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>“My Slice”, an Italian adaptive phishing campaign</title>
-      <link>https://securityaffairs.com/157914/cyber-crime/my-slice-aitalian-adaptive-phishing-campaign.html</link>
-      <pubDate>Mon, 22 Jan 2024 13:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>With hackers poisoning water systems, US agencies issue incident response guide to boost cybersecurity</title>
-      <link>https://www.tripwire.com/state-of-security/us-agencies-issue-cybersecurity-guide-response-cybercriminals-targeting-water</link>
-      <pubDate>Mon, 22 Jan 2024 13:22:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coldriver threat group targets high-ranking officials to obtain credentials</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/coldriver-threat-group-targets-high-ranking-officials-to-obtain-credentials</link>
-      <pubDate>Mon, 22 Jan 2024 12:24:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Bots on X (Twitter)</title>
-      <link>https://www.schneier.com/blog/archives/2024/01/ai-bots-on-x-twitter.html</link>
-      <pubDate>Mon, 22 Jan 2024 12:09:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Privacy Week: Lack of Understanding, Underfunding Threaten Data Privacy and Compliance</title>
-      <link>https://www.infosecurity-magazine.com/news/isaca-data-privacy-report/</link>
-      <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/22/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>52% of Serious Vulnerabilities We Find are Related to Windows 10</title>
-      <link>https://thehackernews.com/2024/01/52-of-serious-vulnerabilities-we-find.html</link>
-      <pubDate>Mon, 22 Jan 2024 11:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NS-STEALER Uses Discord Bots to Exfiltrate Your Secrets from Popular Browsers</title>
-      <link>https://thehackernews.com/2024/01/ns-stealer-uses-discord-bots-to.html</link>
-      <pubDate>Mon, 22 Jan 2024 11:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actors exploit Apache ActiveMQ flaw to deliver the Godzilla Web Shell</title>
-      <link>https://securityaffairs.com/157887/malware/apache-activemq-godzilla-web-shell.html</link>
-      <pubDate>Mon, 22 Jan 2024 11:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Emergency Directive Demands Action on Ivanti Zero-Days</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-emergency-directive-action/</link>
-      <pubDate>Mon, 22 Jan 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Spies Brute Force Senior Microsoft Staff Accounts</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-brute-force-senior/</link>
-      <pubDate>Mon, 22 Jan 2024 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
