@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 10:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 12:30:54 +0000</lastBuildDate>
     <item>
       <title>SEC says X account hack was due to SIM swapping</title>
       <link>https://therecord.media/sec-x-account-takeover-sim-swapping</link>
       <pubDate>Wed, 24 Jan 2024 00:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>French Watchdog Slams Amazon with €32m Fine for Spying on Workers</title>
+      <link>https://www.infosecurity-magazine.com/news/cnil-france-amazon-32m-fine-spying/</link>
+      <pubDate>Tue, 23 Jan 2024 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Side Channels Are Common</title>
+      <link>https://www.schneier.com/blog/archives/2024/01/side-channels-are-common.html</link>
+      <pubDate>Tue, 23 Jan 2024 12:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian National Day Special: “Intelligence Down Under with John Blaxland”</title>
+      <link>https://thecyberwire.com/podcasts/spycast/618/notes</link>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Megabits to Terabits: Gcore Radar Warns of a New Era of DDoS Attacks</title>
+      <link>https://thehackernews.com/2024/01/from-megabits-to-terabits-gcore-radar.html</link>
+      <pubDate>Tue, 23 Jan 2024 11:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LoanDepot data breach impacted roughly 16.6 individuals</title>
+      <link>https://securityaffairs.com/157972/hacking/loandepot-data-breach.html</link>
+      <pubDate>Tue, 23 Jan 2024 11:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Assessment: BianLian</title>
+      <link>https://unit42.paloaltonetworks.com/bianlian-ransomware-group-threat-assessment/</link>
+      <pubDate>Tue, 23 Jan 2024 11:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australia Sanctions Russian Hacker Behind Medibank Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/australia-russian-hacker-medibank/</link>
+      <pubDate>Tue, 23 Jan 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BreachForums Founder Sentenced to 20 Years of Supervised Release, No Jail Time</title>
+      <link>https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html</link>
+      <pubDate>Tue, 23 Jan 2024 10:25:00 +0000</pubDate>
     </item>
     <item>
       <title>SEC Confirms SIM Swap Attack Behind X Account Takeover</title>
@@ -188,13 +228,13 @@
       <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NS-STEALER Uses Discord Bots to Exfiltrate Your Secrets from Popular Browsers</title>
-      <link>https://thehackernews.com/2024/01/ns-stealer-uses-discord-bots-to.html</link>
+      <title>52% of Serious Vulnerabilities We Find are Related to Windows 10</title>
+      <link>https://thehackernews.com/2024/01/52-of-serious-vulnerabilities-we-find.html</link>
       <pubDate>Mon, 22 Jan 2024 11:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>52% of Serious Vulnerabilities We Find are Related to Windows 10</title>
-      <link>https://thehackernews.com/2024/01/52-of-serious-vulnerabilities-we-find.html</link>
+      <title>NS-STEALER Uses Discord Bots to Exfiltrate Your Secrets from Popular Browsers</title>
+      <link>https://thehackernews.com/2024/01/ns-stealer-uses-discord-bots-to.html</link>
       <pubDate>Mon, 22 Jan 2024 11:22:00 +0000</pubDate>
     </item>
     <item>
@@ -263,49 +303,9 @@
       <pubDate>Sun, 21 Jan 2024 10:10:27 +0000</pubDate>
     </item>
     <item>
-      <title>Security Affairs newsletter Round 455 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/157829/breaking-news/security-affairs-newsletter-round-455-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 21 Jan 2024 09:16:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Digital afterlife – how to deal with social media accounts when someone dies</title>
       <link>https://www.theguardian.com/society/2024/jan/21/digital-afterlife-how-to-deal-with-social-media-accounts-when-someone-dies</link>
       <pubDate>Sat, 20 Jan 2024 19:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 383</title>
-      <link>https://www.troyhunt.com/weekly-update-383/</link>
-      <pubDate>Sat, 20 Jan 2024 15:33:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google failing to scrub abortion access in location history, study claims</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/google-failing-to-scrub-abortion-access-in-location-history-study-claims</link>
-      <pubDate>Sat, 20 Jan 2024 12:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Silently Weaponized VMware Zero-Day Flaw for 2 Years</title>
-      <link>https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html</link>
-      <pubDate>Sat, 20 Jan 2024 10:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A firewall wake up call.</title>
-      <link>https://thecyberwire.com/podcasts/research-saturday/313/notes</link>
-      <pubDate>Sat, 20 Jan 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atlassian patches critical flaw in Confluence Data Center and Confluence Server. COLDRIVER continues targeting Western officials.</title>
-      <link>https://thecyberwire.com/newsletters/week-that-was/8/3</link>
-      <pubDate>Sat, 20 Jan 2024 05:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits</title>
-      <link>https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html</link>
-      <pubDate>Sat, 20 Jan 2024 04:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's Top Execs' Emails Breached in Sophisticated Russia-Linked APT Attack</title>
-      <link>https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html</link>
-      <pubDate>Sat, 20 Jan 2024 03:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
