@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 22:15:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 01:12:28 +0000</lastBuildDate>
+    <item>
+      <title>Distribution of VenomRAT (AsyncRAT) Impersonating Korean IT Companies</title>
+      <link>https://asec.ahnlab.com/en/60805/</link>
+      <pubDate>Wed, 24 Jan 2024 00:03:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watch out, a new critical flaw affects Fortra GoAnywhere MFT</title>
+      <link>https://securityaffairs.com/157993/hacking/fortra-goanywhere-mft-critical-flaw.html</link>
+      <pubDate>Tue, 23 Jan 2024 22:09:04 +0000</pubDate>
+    </item>
     <item>
       <title>Cybersecurity experts warn of new vulnerabilities affecting Apple, Atlassian and Fortra products</title>
       <link>https://therecord.media/cybersecurity-experts-warn-of-vulnerabilities-apple-atlassian-fortra</link>
@@ -158,6 +168,11 @@
       <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Joins ACSC-led Guidance on How to Use AI Systems Securely</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-joins-acsc-led-guidance-how-use-ai-systems-securely</link>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>North Korean Hackers Weaponize Fake Research to Deliver RokRAT Backdoor</title>
       <link>https://thehackernews.com/2024/01/north-korean-hackers-weaponize-fake.html</link>
       <pubDate>Mon, 22 Jan 2024 16:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MavenGate Attack Could Let Hackers Hijack Java and Android via Abandoned Libraries</title>
-      <link>https://thehackernews.com/2024/01/hackers-hijack-popular-java-and-android.html</link>
-      <pubDate>Mon, 22 Jan 2024 16:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New macOS Malware Targets Cracked Apps</title>
-      <link>https://www.infosecurity-magazine.com/news/macos-malware-targets-cracked-apps/</link>
-      <pubDate>Mon, 22 Jan 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Info Stealing Packages Hidden in PyPI</title>
-      <link>https://feeds.fortinet.com/~/864564335/0/fortinet/blog/threat-research~Info-Stealing-Packages-Hidden-in-PyPI</link>
-      <pubDate>Mon, 22 Jan 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
