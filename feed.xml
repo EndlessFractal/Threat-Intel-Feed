@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 12:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 14:15:48 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2024-0204 Detection: Critical Vulnerability in Fortra GoAnywhere MFT Resulting in Authentication Bypass</title>
+      <link>https://socprime.com/blog/cve-2024-0204-detection-critical-vulnerability-in-fortra-goanywhere-mft-resulting-in-authentication-bypass/</link>
+      <pubDate>Wed, 24 Jan 2024 14:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Bad User Interfaces Make Security Tools Harmful, (Wed, Jan 24th)</title>
+      <link>https://isc.sans.edu/diary/rss/30586</link>
+      <pubDate>Wed, 24 Jan 2024 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Foundations - our open source Rust service foundation library</title>
+      <link>https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library</link>
+      <pubDate>Wed, 24 Jan 2024 14:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>News media, foreign affairs experts are targets of North Korean group’s latest campaign</title>
+      <link>https://therecord.media/scarcruft-apt37-north-korea-espionage-south-korea-media-academia</link>
+      <pubDate>Wed, 24 Jan 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of rogue chatbot hacking incidents</title>
+      <link>https://securityintelligence.com/articles/rogue-chatbot-hacking-incidents/</link>
+      <pubDate>Wed, 24 Jan 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uncoder IO v1.0.3 Beta: Graylog Support, Author &amp; License Recognition, Translation Improvements</title>
+      <link>https://socprime.com/news/uncoder-io-v1-0-3-beta-graylog-support-author-license-recognition-translation-improvements/</link>
+      <pubDate>Wed, 24 Jan 2024 13:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity at the 2024 Paris Summer Olympics | Safeguarding the Spectacle</title>
+      <link>https://www.sentinelone.com/blog/cybersecurity-at-the-2024-paris-summer-olympics-safeguarding-the-spectacle/</link>
+      <pubDate>Wed, 24 Jan 2024 13:04:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Significant increase in ransomware activity found in Talos IR engagements, while education remains one of the most-targeted sectors</title>
+      <link>https://blog.talosintelligence.com/talos-ir-quarterly-report-q4-2023/</link>
+      <pubDate>Wed, 24 Jan 2024 13:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>Why Bulletproof Hosting is Key to Cybercrime-as-a-Service</title>
       <link>https://www.infosecurity-magazine.com/news/why-bulletproof-hosting-key-caas/</link>
@@ -168,11 +208,6 @@
       <pubDate>Tue, 23 Jan 2024 16:57:53 +0000</pubDate>
     </item>
     <item>
-      <title>UK, US and Australia sanction Russian citizen over Medibank hack</title>
-      <link>https://therecord.media/uk-us-australia-sanction-russian-ermakov-medibank</link>
-      <pubDate>Tue, 23 Jan 2024 16:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Hackers Target Atlassian Confluence With RCE Exploits</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-target-atlassian/</link>
       <pubDate>Tue, 23 Jan 2024 16:30:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>CISA Joins ACSC-led Guidance on How to Use AI Systems Securely</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-joins-acsc-led-guidance-how-use-ai-systems-securely</link>
       <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Six Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-releases-six-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/23/apple-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian National Day Special: “Intelligence Down Under with John Blaxland”</title>
-      <link>https://thecyberwire.com/podcasts/spycast/618/notes</link>
-      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Megabits to Terabits: Gcore Radar Warns of a New Era of DDoS Attacks</title>
-      <link>https://thehackernews.com/2024/01/from-megabits-to-terabits-gcore-radar.html</link>
-      <pubDate>Tue, 23 Jan 2024 11:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LoanDepot data breach impacted roughly 16.6 individuals</title>
-      <link>https://securityaffairs.com/157972/hacking/loandepot-data-breach.html</link>
-      <pubDate>Tue, 23 Jan 2024 11:22:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Assessment: BianLian</title>
-      <link>https://unit42.paloaltonetworks.com/bianlian-ransomware-group-threat-assessment/</link>
-      <pubDate>Tue, 23 Jan 2024 11:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
