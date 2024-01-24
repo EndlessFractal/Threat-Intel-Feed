@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 14:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 16:21:08 +0000</lastBuildDate>
+    <item>
+      <title>How to lock out your ex-partner from your smart home</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/01/how-to-lock-out-your-ex-partner-from-your-smart-home</link>
+      <pubDate>Wed, 24 Jan 2024 14:55:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts released PoC exploit for Fortra GoAnywhere MFT flaw CVE-2024-0204</title>
+      <link>https://securityaffairs.com/158043/hacking/goanywhere-mft-cve-2024-0204-poc-exploit.html</link>
+      <pubDate>Wed, 24 Jan 2024 14:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Kubernetes Misconfig Lets Any Gmail Account Control Your Clusters</title>
+      <link>https://thehackernews.com/2024/01/google-kubernetes-misconfig-lets-any.html</link>
+      <pubDate>Wed, 24 Jan 2024 14:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>CVE-2024-0204 Detection: Critical Vulnerability in Fortra GoAnywhere MFT Resulting in Authentication Bypass</title>
       <link>https://socprime.com/blog/cve-2024-0204-detection-critical-vulnerability-in-fortra-goanywhere-mft-resulting-in-authentication-bypass/</link>
@@ -56,6 +71,16 @@
       <title>Poisoning AI Models</title>
       <link>https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html</link>
       <pubDate>Wed, 24 Jan 2024 12:06:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla Releases Security Updates for Thunderbird and Firefox</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/24/mozilla-releases-security-updates-thunderbird-and-firefox</link>
+      <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/24/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What is Nudge Security and How Does it Work?</title>
@@ -218,6 +243,16 @@
       <pubDate>Tue, 23 Jan 2024 16:06:49 +0000</pubDate>
     </item>
     <item>
+      <title>Top Cybersecurity Predictions for 2024 (Free Download)</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/top-cybersecurity-predictions-2024/</link>
+      <pubDate>Tue, 23 Jan 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Information Security Incident Reporting Policy</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/information-security-incident-reporting-policy/</link>
+      <pubDate>Tue, 23 Jan 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Australian government announced sanctions for Medibank hacker</title>
       <link>https://securityaffairs.com/157983/hacking/australia-sanctions-for-medibank-hacker.html</link>
       <pubDate>Tue, 23 Jan 2024 14:48:19 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>French Watchdog Slams Amazon with €32m Fine for Spying on Workers</title>
       <link>https://www.infosecurity-magazine.com/news/cnil-france-amazon-32m-fine-spying/</link>
       <pubDate>Tue, 23 Jan 2024 12:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Side Channels Are Common</title>
-      <link>https://www.schneier.com/blog/archives/2024/01/side-channels-are-common.html</link>
-      <pubDate>Tue, 23 Jan 2024 12:09:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crestron AM-300</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-023-02</link>
-      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Westermo Lynx 206-F2G</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-023-04</link>
-      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>APsystems Energy Communication Unit (ECU-C) Power Control Software</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-023-01</link>
-      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voltronic Power ViewPower Pro</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-023-03</link>
-      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lantronix XPort</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-023-05</link>
-      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Joins ACSC-led Guidance on How to Use AI Systems Securely</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-joins-acsc-led-guidance-how-use-ai-systems-securely</link>
-      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
