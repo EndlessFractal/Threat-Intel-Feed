@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 18:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 20:17:37 +0000</lastBuildDate>
+    <item>
+      <title>Who pays, and why: A researcher examines the ransomware victim’s mindset</title>
+      <link>https://therecord.media/ransomware-victim-mindset-dutch-study-tom-meurs</link>
+      <pubDate>Wed, 24 Jan 2024 19:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5379 GitLab servers vulnerable to zero-click account takeover attacks</title>
+      <link>https://securityaffairs.com/158075/hacking/gitlab-servers-vulnerable-cve-2023-7028.html</link>
+      <pubDate>Wed, 24 Jan 2024 19:05:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEC Twitter hack blamed on SIM swap attack</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/sec-twitter-hack-blamed-on-sim-swap-attack/</link>
+      <pubDate>Wed, 24 Jan 2024 18:36:18 +0000</pubDate>
+    </item>
     <item>
       <title>ChatGPT Cybercrime Surge Revealed in 3000 Dark Web Posts</title>
       <link>https://www.infosecurity-magazine.com/news/chatgpt-cybercrime-revealed-dark/</link>
@@ -208,11 +223,6 @@
       <pubDate>Wed, 24 Jan 2024 00:03:25 +0000</pubDate>
     </item>
     <item>
-      <title>British intelligence warns AI will cause surge in ransomware volume and impact</title>
-      <link>https://therecord.media/british-intelligence-warns-ai-will-cause-surge-in-ransomware</link>
-      <pubDate>Wed, 24 Jan 2024 00:01:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Watch out, a new critical flaw affects Fortra GoAnywhere MFT</title>
       <link>https://securityaffairs.com/157993/hacking/fortra-goanywhere-mft-critical-flaw.html</link>
       <pubDate>Tue, 23 Jan 2024 22:09:04 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Decrypting SentinelOne Cloud Detection | The Threat Intelligence Engine in Real-Time CWPP</title>
       <link>https://www.sentinelone.com/blog/decrypting-sentinelone-cloud-detection-the-threat-intelligence-engine-in-real-time-cwpp/</link>
       <pubDate>Tue, 23 Jan 2024 13:41:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2023-22527 Detection: Maximum Severity RCE Vulnerability in Atlassian’s Confluence Server and Data Center Exploited in the Wild</title>
-      <link>https://socprime.com/blog/cve-2023-22527-detection-maximum-severity-rce-vulnerability-in-atlassians-confluence-server-and-data-center-exploited-in-the-wild/</link>
-      <pubDate>Tue, 23 Jan 2024 13:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft got hacked by state sponsored group it was investigating</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/microsoft-got-hacked-by-state-sponsored-group-it-was-investigating</link>
-      <pubDate>Tue, 23 Jan 2024 13:27:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
