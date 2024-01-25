@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jan 2024 16:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 18:20:59 +0000</lastBuildDate>
+    <item>
+      <title>New bill looks to shore up US food, agriculture sectors</title>
+      <link>https://therecord.media/new-bill-looks-to-shore-up-food-agriculture-sectors-cyber</link>
+      <pubDate>Thu, 25 Jan 2024 18:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Local governments in Colorado, Pennsylvania and Missouri dealing with ransomware</title>
+      <link>https://therecord.media/local-governments-across-us-dealing-with-ransomware</link>
+      <pubDate>Thu, 25 Jan 2024 17:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Aligned APT Group Blackwood Unleashes NSPX30 Implant</title>
+      <link>https://www.infosecurity-magazine.com/news/china-apt-blackwood-nspx30-implant/</link>
+      <pubDate>Thu, 25 Jan 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HPE breached by Cozy Bear. A look at the ransomware threat landscape.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/17</link>
+      <pubDate>Thu, 25 Jan 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Says State-Sponsored Attackers Accessed Senior Leaders’ Emails</title>
+      <link>https://www.techrepublic.com/article/microsoft-midnight-blizzard-nation-state-attack/</link>
+      <pubDate>Thu, 25 Jan 2024 16:58:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon to sunset tool that let law enforcement obtain footage from Ring doorbells</title>
+      <link>https://therecord.media/amazon-sunsets-ring-tool-law-enforcement-obtain-video</link>
+      <pubDate>Thu, 25 Jan 2024 16:32:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Government Security Vulnerabilities Surge By 151%, Report Finds</title>
+      <link>https://www.infosecurity-magazine.com/news/government-security/</link>
+      <pubDate>Thu, 25 Jan 2024 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>SOC Prime Becomes a Benefactor of MITRE ATT&amp;CK®</title>
       <link>https://socprime.com/news/soc-prime-becomes-a-benefactor-of-mitre-attck/</link>
@@ -90,6 +125,11 @@
     <item>
       <title>Opteev MachineSense FeverWarn</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-025-01</link>
+      <pubDate>Thu, 25 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Releases Security Advisory for Multiple Unified Communications and Contact Center Solutions Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/25/cisco-releases-security-advisory-multiple-unified-communications-and-contact-center-solutions</link>
       <pubDate>Thu, 25 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -198,16 +238,6 @@
       <pubDate>Wed, 24 Jan 2024 22:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Financial tech firm EquiLend says recovery after cyberattack ‘may take several days’</title>
-      <link>https://therecord.media/equilend-cyberattack-financial-recovery-two-days</link>
-      <pubDate>Wed, 24 Jan 2024 21:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals stole $1.7 billion from crypto funds in 2023 as attacks proliferated</title>
-      <link>https://therecord.media/cybercriminals-stole-over-1-billion-from-crypto-funds-2023</link>
-      <pubDate>Wed, 24 Jan 2024 21:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The fight against exploiting Americans.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1989/notes</link>
       <pubDate>Wed, 24 Jan 2024 21:10:00 +0000</pubDate>
@@ -231,11 +261,6 @@
       <title>National Cyber Security Centre Study: Generative AI May Increase Global Ransomware Threat</title>
       <link>https://www.techrepublic.com/article/generative-ai-ransomware-threats-uk/</link>
       <pubDate>Wed, 24 Jan 2024 20:38:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who pays, and why: A researcher examines the ransomware victim’s mindset</title>
-      <link>https://therecord.media/ransomware-victim-mindset-dutch-study-tom-meurs</link>
-      <pubDate>Wed, 24 Jan 2024 19:38:00 +0000</pubDate>
     </item>
     <item>
       <title>5379 GitLab servers vulnerable to zero-click account takeover attacks</title>
@@ -281,31 +306,6 @@
       <title>Experts released PoC exploit for Fortra GoAnywhere MFT flaw CVE-2024-0204</title>
       <link>https://securityaffairs.com/158043/hacking/goanywhere-mft-cve-2024-0204-poc-exploit.html</link>
       <pubDate>Wed, 24 Jan 2024 14:37:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Kubernetes Misconfig Lets Any Gmail Account Control Your Clusters</title>
-      <link>https://thehackernews.com/2024/01/google-kubernetes-misconfig-lets-any.html</link>
-      <pubDate>Wed, 24 Jan 2024 14:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2024-0204 Detection: Critical Vulnerability in Fortra GoAnywhere MFT Resulting in Authentication Bypass</title>
-      <link>https://socprime.com/blog/cve-2024-0204-detection-critical-vulnerability-in-fortra-goanywhere-mft-resulting-in-authentication-bypass/</link>
-      <pubDate>Wed, 24 Jan 2024 14:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Bad User Interfaces Make Security Tools Harmful, (Wed, Jan 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/30586</link>
-      <pubDate>Wed, 24 Jan 2024 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Foundations - our open source Rust service foundation library</title>
-      <link>https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library</link>
-      <pubDate>Wed, 24 Jan 2024 14:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of rogue chatbot hacking incidents</title>
-      <link>https://securityintelligence.com/articles/rogue-chatbot-hacking-incidents/</link>
-      <pubDate>Wed, 24 Jan 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
