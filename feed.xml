@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jan 2024 10:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 12:31:30 +0000</lastBuildDate>
+    <item>
+      <title>Quantum Computing Skeptics</title>
+      <link>https://www.schneier.com/blog/archives/2024/01/quantum-computing-skeptics.html</link>
+      <pubDate>Thu, 25 Jan 2024 12:04:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Southern Water Confirms Data Breach Following Black Basta Claims</title>
+      <link>https://www.infosecurity-magazine.com/news/southern-water-data-breach-black/</link>
+      <pubDate>Thu, 25 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Jenkins Vulnerability Exposes Servers to RCE Attacks - Patch ASAP!</title>
+      <link>https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html</link>
+      <pubDate>Thu, 25 Jan 2024 11:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024</title>
+      <link>https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html</link>
+      <pubDate>Thu, 25 Jan 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LODEINFO Fileless Malware Evolves with Anti-Analysis and Remote Code Tricks</title>
+      <link>https://thehackernews.com/2024/01/lodeinfo-fileless-malware-evolves-with.html</link>
+      <pubDate>Thu, 25 Jan 2024 11:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pwn2Own Contest Unearths Dozens of Zero-Day Vulnerabilities</title>
       <link>https://www.infosecurity-magazine.com/news/pwn2own-unearths-dozens-zeroday/</link>
       <pubDate>Thu, 25 Jan 2024 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-backed Hackers Hijack Software Updates to Implant "NSPX30" Spyware</title>
+      <link>https://thehackernews.com/2024/01/china-backed-hackers-hijack-software.html</link>
+      <pubDate>Thu, 25 Jan 2024 10:08:00 +0000</pubDate>
     </item>
     <item>
       <title>Privacy predictions for 2024</title>
@@ -143,6 +173,11 @@
       <pubDate>Wed, 24 Jan 2024 17:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>How Datawiza uses Microsoft Entra ID to help universities simplify access</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/01/24/how-datawiza-uses-microsoft-entra-id-to-help-universities-simplify-access/</link>
+      <pubDate>Wed, 24 Jan 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Water management conglomerate hit by ransomware. AI's use in ransomware attacks.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/16</link>
       <pubDate>Wed, 24 Jan 2024 17:00:00 +0000</pubDate>
@@ -154,7 +189,7 @@
     </item>
     <item>
       <title>NSPX30: A sophisticated AitM-enabled implant evolving since 2005</title>
-      <link>https://www.welivesecurity.com/en/eset-research/nspx30-sophisticated-aitm-enabled-implant-evolving-since-2005/</link>
+      <link>https://www.welivesecurity.com/en/eset-research/que-tipos-de-hackers-existem-e-o-que-os-distingue/</link>
       <pubDate>Wed, 24 Jan 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -271,41 +306,6 @@
       <title>The 2024 Ransomware Threat Landscape</title>
       <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomware-threat-landscape-2024</link>
       <pubDate>Wed, 24 Jan 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update now! Apple releases patch for zero-day vulnerability</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/update-now-apple-releases-patch-for-zero-day-vulnerability</link>
-      <pubDate>Wed, 24 Jan 2024 10:37:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploit Code Released For Critical Fortra GoAnywhere Bug</title>
-      <link>https://www.infosecurity-magazine.com/news/exploit-code-critical-fortra/</link>
-      <pubDate>Wed, 24 Jan 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Set to Supercharge Ransomware Threat, Says NCSC</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-set-to-supercharge-ransomware/</link>
-      <pubDate>Wed, 24 Jan 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Unknown Risks of The Software Supply Chain: A Deep-Dive</title>
-      <link>https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html</link>
-      <pubDate>Wed, 24 Jan 2024 09:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S., U.K., Australia Sanction Russian REvil Hacker Behind Medibank Breach</title>
-      <link>https://thehackernews.com/2024/01/us-uk-australia-sanction-russian-revil.html</link>
-      <pubDate>Wed, 24 Jan 2024 08:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Splunk fixed high-severity flaw impacting Windows versions</title>
-      <link>https://securityaffairs.com/158019/security/splunk-flaw-windows-installs.html</link>
-      <pubDate>Wed, 24 Jan 2024 08:35:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea Threat Landscape Update</title>
-      <link>https://thecyberwire.com/podcasts/microsoft-threat-intelligence/10/notes</link>
-      <pubDate>Wed, 24 Jan 2024 08:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
