@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jan 2024 08:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 10:16:27 +0000</lastBuildDate>
+    <item>
+      <title>Pwn2Own Automotive 2024 Day 2 – Tesla hacked again</title>
+      <link>https://securityaffairs.com/158141/hacking/pwn2own-automotive-2024-day-two.html</link>
+      <pubDate>Fri, 26 Jan 2024 08:32:00 +0000</pubDate>
+    </item>
     <item>
       <title>A Batch File With Multiple Payloads, (Fri, Jan 26th)</title>
       <link>https://isc.sans.edu/diary/rss/30592</link>
@@ -301,11 +306,6 @@
       <title>ISC Stormcast For Thursday, January 25th, 2024 https://isc.sans.edu/podcastdetail/8824, (Thu, Jan 25th)</title>
       <link>https://isc.sans.edu/diary/rss/30588</link>
       <pubDate>Thu, 25 Jan 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA adds Atlassian Confluence Data Center bug to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/158086/hacking/cisa-adds-atlassian-confluence-data-center-bug-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 25 Jan 2024 00:28:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
