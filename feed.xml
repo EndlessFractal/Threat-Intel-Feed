@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jan 2024 18:16:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 20:14:40 +0000</lastBuildDate>
     <item>
       <title>Pro-Ukraine hackers wiped 2 petabytes of data from Russian research center</title>
       <link>https://securityaffairs.com/158214/hacktivism/ukraines-ministry-of-defense-hit-russian-recent-center.html</link>
@@ -193,6 +193,11 @@
       <pubDate>Fri, 26 Jan 2024 02:00:01 +0000</pubDate>
     </item>
     <item>
+      <title>Midnight Blizzard: Guidance for responders on nation-state attack</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Yearly Intel Trend Review: The 2023 RedSense report</title>
       <link>https://securityaffairs.com/158132/reports/2023-redsense-report.html</link>
       <pubDate>Thu, 25 Jan 2024 21:24:54 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>AI likely to boost ransomware, warns government body</title>
       <link>https://www.malwarebytes.com/blog/news/2024/01/ai-likely-to-boost-ransomware-warns-government-body</link>
       <pubDate>Thu, 25 Jan 2024 13:54:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>January 2024 Cybercrime Update | Exploitation of Known CVEs, Crypto Drainers &amp; Ransomware Updates</title>
-      <link>https://www.sentinelone.com/blog/january-2024-cybercrime-update-exploitation-of-known-cves-crypto-drainers-ransomware-updates/</link>
-      <pubDate>Thu, 25 Jan 2024 13:52:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
