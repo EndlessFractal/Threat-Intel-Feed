@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jan 2024 06:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 08:18:28 +0000</lastBuildDate>
     <item>
       <title>Rashmi Bharathan: Connecting is important. [Auditor]</title>
       <link>https://thecyberwire.com/podcasts/career-notes/180/notes</link>
@@ -208,6 +208,11 @@
       <pubDate>Fri, 26 Jan 2024 02:00:01 +0000</pubDate>
     </item>
     <item>
+      <title>Midnight Blizzard: Guidance for responders on nation-state attack</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Yearly Intel Trend Review: The 2023 RedSense report</title>
       <link>https://securityaffairs.com/158132/reports/2023-redsense-report.html</link>
       <pubDate>Thu, 25 Jan 2024 21:24:54 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>SystemBC Malware's C2 Server Analysis Exposes Payload Delivery Tricks</title>
       <link>https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html</link>
       <pubDate>Thu, 25 Jan 2024 14:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea Hacks Crypto: More Targets, Lower Gains</title>
-      <link>https://www.infosecurity-magazine.com/news/north-korea-hacks-crypto-more/</link>
-      <pubDate>Thu, 25 Jan 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
