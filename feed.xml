@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jan 2024 12:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 14:11:52 +0000</lastBuildDate>
     <item>
       <title>PixPirate: The Brazilian financial malware you can’t see</title>
       <link>https://securityintelligence.com/posts/pixpirate-brazilian-financial-malware/</link>
@@ -223,11 +223,6 @@
       <pubDate>Fri, 26 Jan 2024 02:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>Midnight Blizzard: Guidance for responders on nation-state attack</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Yearly Intel Trend Review: The 2023 RedSense report</title>
       <link>https://securityaffairs.com/158132/reports/2023-redsense-report.html</link>
       <pubDate>Thu, 25 Jan 2024 21:24:54 +0000</pubDate>
@@ -306,6 +301,11 @@
       <title>SOC Prime Becomes a Benefactor of MITRE ATT&amp;CK®</title>
       <link>https://socprime.com/news/soc-prime-becomes-a-benefactor-of-mitre-attck/</link>
       <pubDate>Thu, 25 Jan 2024 16:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Another Phobos Ransomware Variant Launches Attack – FAUST</title>
+      <link>https://feeds.fortinet.com/~/865729472/0/fortinet/blog/threat-research~Another-Phobos-Ransomware-Variant-Launches-Attack-%e2%80%93-FAUST</link>
+      <pubDate>Thu, 25 Jan 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
