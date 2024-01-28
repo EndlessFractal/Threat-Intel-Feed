@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jan 2024 18:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 20:14:19 +0000</lastBuildDate>
+    <item>
+      <title>Multiple PoC exploits released for Jenkins flaw CVE-2024-23897</title>
+      <link>https://securityaffairs.com/158251/hacking/cve-2024-23897-poc-exploits.html</link>
+      <pubDate>Sun, 28 Jan 2024 18:25:24 +0000</pubDate>
+    </item>
     <item>
       <title>Medusa ransomware attack hit Kansas City Area Transportation Authority</title>
       <link>https://securityaffairs.com/158233/cyber-crime/kansas-city-area-transportation-authority-ransomware-attack.html</link>
@@ -228,11 +233,6 @@
       <pubDate>Fri, 26 Jan 2024 02:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>Midnight Blizzard: Guidance for responders on nation-state attack</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Yearly Intel Trend Review: The 2023 RedSense report</title>
       <link>https://securityaffairs.com/158132/reports/2023-redsense-report.html</link>
       <pubDate>Thu, 25 Jan 2024 21:24:54 +0000</pubDate>
@@ -256,11 +256,6 @@
       <title>Malwarebytes wins every MRG Effitas award for 2 years in a row</title>
       <link>https://www.malwarebytes.com/blog/business/2024/01/malwarebytes-wins-mrg-effitas-award-for-2-years-in-a-row</link>
       <pubDate>Thu, 25 Jan 2024 20:38:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco warns of a critical bug in Unified Communications products, patch it now!</title>
-      <link>https://securityaffairs.com/158116/security/cisco-unified-communications-critical-flaw.html</link>
-      <pubDate>Thu, 25 Jan 2024 19:10:08 +0000</pubDate>
     </item>
     <item>
       <title>Multiple vulnerabilities discovered in widely used security driver</title>
@@ -306,6 +301,11 @@
       <title>Government Security Vulnerabilities Surge By 151%, Report Finds</title>
       <link>https://www.infosecurity-magazine.com/news/government-security/</link>
       <pubDate>Thu, 25 Jan 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOC Prime Becomes a Benefactor of MITRE ATT&amp;CK®</title>
+      <link>https://socprime.com/news/soc-prime-becomes-a-benefactor-of-mitre-attck/</link>
+      <pubDate>Thu, 25 Jan 2024 16:00:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
