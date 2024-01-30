@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jan 2024 06:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 08:18:23 +0000</lastBuildDate>
+    <item>
+      <title>Cactus ransomware gang claims the Schneider Electric hack</title>
+      <link>https://securityaffairs.com/158320/data-breach/schneider-electric-cactus-ransomware-attack.html</link>
+      <pubDate>Tue, 30 Jan 2024 08:00:54 +0000</pubDate>
+    </item>
     <item>
       <title>Trigona Ransomware Threat Actor Uses Mimic Ransomware</title>
       <link>https://asec.ahnlab.com/en/61000/</link>
@@ -63,11 +68,6 @@
       <pubDate>Mon, 29 Jan 2024 18:16:10 +0000</pubDate>
     </item>
     <item>
-      <title>Join us at InfoSec Jupyterthon 2024</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/01/29/join-us-at-infosec-jupyterthon-2024/</link>
-      <pubDate>Mon, 29 Jan 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ukraine’s prisoners of war agency hit by cyberattack</title>
       <link>https://therecord.media/ukraine-pow-agency-cyberattack-russia</link>
       <pubDate>Mon, 29 Jan 2024 17:55:19 +0000</pubDate>
@@ -81,11 +81,6 @@
       <title>SolarWinds seeks dismissal of SEC lawsuit. Midnight Blizzard abused OAuth apps in Microsoft attack.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/19</link>
       <pubDate>Mon, 29 Jan 2024 17:08:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best practices in moving to cloud native endpoint management</title>
-      <link>https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/29/best-practices-in-moving-to-cloud-native-endpoint-management/</link>
-      <pubDate>Mon, 29 Jan 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>US Senator Exposes NSA Purchase of Americans’ Internet Records</title>
@@ -298,14 +293,19 @@
       <pubDate>Sat, 27 Jan 2024 05:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>A TrickBot malware developer sentenced to 64 months in prison</title>
-      <link>https://securityaffairs.com/158194/cyber-crime/trickbot-dev-sentenced-64-months-jail.html</link>
-      <pubDate>Fri, 26 Jan 2024 23:09:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Popular Washington, DC Latino theater whole again after hack emptied accounts</title>
       <link>https://therecord.media/washington-dc-theater-whole-again-hack</link>
       <pubDate>Fri, 26 Jan 2024 22:11:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: Footage of Black-Eyed Squid Brooding Her Eggs</title>
+      <link>https://www.schneier.com/blog/archives/2024/01/friday-squid-blogging-footage-of-black-eyed-squid-brooding-her-eggs.html</link>
+      <pubDate>Fri, 26 Jan 2024 22:10:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new purchase is cause for a call out.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/1991/notes</link>
+      <pubDate>Fri, 26 Jan 2024 21:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
