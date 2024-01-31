@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jan 2024 22:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 01:06:12 +0000</lastBuildDate>
+    <item>
+      <title>Root access vulnerability in GNU Library C (glibc) impacts many Linux distros</title>
+      <link>https://securityaffairs.com/158369/breaking-news/gnu-library-c-glibc-cve-2023-6246-flaw.html</link>
+      <pubDate>Tue, 30 Jan 2024 22:47:36 +0000</pubDate>
+    </item>
     <item>
       <title>Senator proposes new encryption provision in bill against online child exploitation</title>
       <link>https://therecord.media/encryption-provision-stop-csam-bill-new-draft-senate-durbin</link>
@@ -258,7 +263,7 @@
       <pubDate>Mon, 29 Jan 2024 20:00:47 +0000</pubDate>
     </item>
     <item>
-      <title>Be the Royal Family’s Cybersecurity Manager, and get a cut-price honey dipper!</title>
+      <title>Buckingham Palace seeks Cybersecurity Manager to safeguard Royal Family – Get the job, get a discount on a honey dipper!</title>
       <link>https://grahamcluley.com/be-the-royal-familys-cybersecurity-manager-and-get-a-cut-price-honey-dipper/</link>
       <pubDate>Mon, 29 Jan 2024 19:36:04 +0000</pubDate>
     </item>
@@ -301,11 +306,6 @@
       <title>SOC Prime Threat Bounty Digest — December 2023 Results</title>
       <link>https://socprime.com/blog/soc-prime-threat-bounty-digest-december-2023-results/</link>
       <pubDate>Mon, 29 Jan 2024 15:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trickbot malware developer jailed for five years</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/trickbot-malware-developer-jailed-for-five-years/</link>
-      <pubDate>Mon, 29 Jan 2024 14:51:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
