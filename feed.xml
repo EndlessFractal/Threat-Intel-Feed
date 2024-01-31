@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Jan 2024 14:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 16:17:59 +0000</lastBuildDate>
+    <item>
+      <title>EU Launches First Cybersecurity Certification for Digital Products</title>
+      <link>https://www.infosecurity-magazine.com/news/eu-cybersecurity-certification/</link>
+      <pubDate>Wed, 31 Jan 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Senators Propose Cybersecurity Agriculture Bill</title>
+      <link>https://www.infosecurity-magazine.com/news/us-senators-cybersecurity/</link>
+      <pubDate>Wed, 31 Jan 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nakasone: 2024 will be most secure election ‘to date’</title>
+      <link>https://therecord.media/nakasone-nsa-cyber-command-election-will-be-secure</link>
+      <pubDate>Wed, 31 Jan 2024 15:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sysdig Report Exposes 91% Failure in Runtime Scans</title>
+      <link>https://www.infosecurity-magazine.com/news/91-failure-runtime-scans/</link>
+      <pubDate>Wed, 31 Jan 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti warns of a new actively exploited zero-day</title>
+      <link>https://securityaffairs.com/158403/hacking/ivanti-actively-exploited-zero-day-cve-2024-21893.html</link>
+      <pubDate>Wed, 31 Jan 2024 14:37:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft’s Dangerous Addiction To Security Revenue</title>
+      <link>https://www.sentinelone.com/blog/microsofts-dangerous-addiction-to-security-revenue/</link>
+      <pubDate>Wed, 31 Jan 2024 14:27:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>December cyberattack on Chicago community hospital claimed by LockBit gang</title>
+      <link>https://therecord.media/ransomware-saint-anthony-hospital-chicago</link>
+      <pubDate>Wed, 31 Jan 2024 14:21:50 +0000</pubDate>
+    </item>
     <item>
       <title>Limited Time Deal: a Lifetime of Powerful VPN Protection is Just $35 Through 2/4</title>
       <link>https://www.techrepublic.com/article/ivacy-vpn-lifetime-subscription/</link>
@@ -16,6 +51,11 @@
       <title>Data security posture management vs cloud security posture management</title>
       <link>https://securityintelligence.com/posts/data-security-vs-cloud-security-posture-management/</link>
       <pubDate>Wed, 31 Jan 2024 13:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation</title>
+      <link>https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html</link>
+      <pubDate>Wed, 31 Jan 2024 13:38:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian top-level internet domain suffers massive outage</title>
@@ -38,6 +78,11 @@
       <pubDate>Wed, 31 Jan 2024 12:04:33 +0000</pubDate>
     </item>
     <item>
+      <title>CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers</link>
+      <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cybersecurity Marketing Society’s Breaking Through in Cybersecurity Marketing podcast joins N2K’s CyberWire Podcast Network.</title>
       <link>https://thecyberwire.com/stories/51db0b05366c4e068fae294d061dad14/cybersecurity-marketing-societys-breaking-through-in-cybersecurity-marketing-podcast-joins-n2ks-cyberwire-podcast-network</link>
       <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
@@ -48,14 +93,14 @@
       <pubDate>Wed, 31 Jan 2024 11:45:22 +0000</pubDate>
     </item>
     <item>
+      <title>The SEC Won't Let CISOs Be: Understanding New SaaS Cybersecurity Rules</title>
+      <link>https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html</link>
+      <pubDate>Wed, 31 Jan 2024 11:02:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ApateWeb: An Evasive Large-Scale Scareware and PUP Delivery Campaign</title>
       <link>https://unit42.paloaltonetworks.com/apateweb-scareware-pup-delivery-campaign/</link>
       <pubDate>Wed, 31 Jan 2024 11:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The SEC Won't Let CISOs Be: Understanding New SaaS Cybersecurity Rules</title>
-      <link>https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html</link>
-      <pubDate>Wed, 31 Jan 2024 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Italian Businesses Hit by Weaponized USBs Spreading Cryptojacking Malware</title>
@@ -156,16 +201,6 @@
       <title>Fla. Man Charged in SIM-Swapping Spree is Key Suspect in Hacker Groups Oktapus, Scattered Spider</title>
       <link>https://krebsonsecurity.com/2024/01/fla-man-charged-in-sim-swapping-spree-is-key-suspect-in-hacker-groups-oktapus-scattered-spider/</link>
       <pubDate>Tue, 30 Jan 2024 19:07:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazilian police make arrests in Grandoreiro banking malware case</title>
-      <link>https://therecord.media/brazil-police-arrests-grandoreiro-banking-trojan-suspects</link>
-      <pubDate>Tue, 30 Jan 2024 19:04:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alleged ISIS cyber work prompts US sanctions on two Egyptian nationals</title>
-      <link>https://therecord.media/alleged-isis-cybersecurity-workers-sanctions-us-treasury</link>
-      <pubDate>Tue, 30 Jan 2024 18:26:36 +0000</pubDate>
     </item>
     <item>
       <title>Schneider Electric Confirms Data Accessed in Ransomware Attack</title>
@@ -271,41 +306,6 @@
       <title>Rockwell Automation LP30/40/50 and BM40 Operator Interface</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-030-07</link>
       <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitron Systems Security Camera DVR</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-030-04</link>
-      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emerson Rosemount GC370XA, GC700XA, GC1500XA</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-030-01</link>
-      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Mitigations to Defend Against Exploitation of Ivanti Connect Secure and Policy Secure Gateways</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/30/new-mitigations-defend-against-exploitation-ivanti-connect-secure-and-policy-secure-gateways</link>
-      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Eight Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top Security Posture Vulnerabilities Revealed</title>
-      <link>https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html</link>
-      <pubDate>Tue, 30 Jan 2024 10:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos MDR and Sophos XDR now integrate with Google Workspace</title>
-      <link>https://news.sophos.com/en-us/2024/01/30/sophos-mdr-and-sophos-xdr-now-integrate-with-google-workspace/</link>
-      <pubDate>Tue, 30 Jan 2024 10:27:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations</title>
-      <link>https://thehackernews.com/2024/01/italian-data-protection-watchdog.html</link>
-      <pubDate>Tue, 30 Jan 2024 10:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
