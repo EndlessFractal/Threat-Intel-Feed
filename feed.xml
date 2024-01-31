@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Jan 2024 16:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 18:15:02 +0000</lastBuildDate>
+    <item>
+      <title>ChatGPT accused of breaking data protection rules</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/01/chatgpt-accused-of-breaking-data-protection-rules</link>
+      <pubDate>Wed, 31 Jan 2024 17:24:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crime bosses behind Myanmar cyber ‘fraud dens’ handed over to Chinese government</title>
+      <link>https://therecord.media/myanmar-hands-over-cyber-crime-bosses-to-china</link>
+      <pubDate>Wed, 31 Jan 2024 17:17:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Affairs Canada investigates breach. Georgia's Fulton County confirms cyberattack.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/21</link>
+      <pubDate>Wed, 31 Jan 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OAS Engine Deep Dive: Abusing low-impact vulnerabilities to escalate privileges</title>
+      <link>https://blog.talosintelligence.com/oas-engine-deep-dive/</link>
+      <pubDate>Wed, 31 Jan 2024 17:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Fun and Dangers of Top Level Domains (TLDs), (Wed, Jan 31st)</title>
+      <link>https://isc.sans.edu/diary/rss/30608</link>
+      <pubDate>Wed, 31 Jan 2024 16:55:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pawn Storm’s Stealthy Net-NTLMv2 Assault Revealed</title>
+      <link>https://www.infosecurity-magazine.com/news/pawn-storms-stealthy-net-ntlmv2/</link>
+      <pubDate>Wed, 31 Jan 2024 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>EU Launches First Cybersecurity Certification for Digital Products</title>
       <link>https://www.infosecurity-magazine.com/news/eu-cybersecurity-certification/</link>
@@ -76,6 +106,11 @@
       <title>CFPB’s Proposed Data Rules</title>
       <link>https://www.schneier.com/blog/archives/2024/01/cfpbs-proposed-data-rules.html</link>
       <pubDate>Wed, 31 Jan 2024 12:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers</title>
@@ -178,11 +213,6 @@
       <pubDate>Tue, 30 Jan 2024 21:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Georgia’s largest county confirms cyberattack causing widespread issues</title>
-      <link>https://therecord.media/fulton-county-georgia-atlanta-cyberattack-causing-outages</link>
-      <pubDate>Tue, 30 Jan 2024 20:44:47 +0000</pubDate>
-    </item>
-    <item>
       <title>Italian data protection authority said that ChatGPT violated EU privacy laws</title>
       <link>https://securityaffairs.com/158359/laws-and-regulations/garante-chatgpt-violated-eu-privacy-laws.html</link>
       <pubDate>Tue, 30 Jan 2024 20:24:19 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Deepfake Taylor Swift images circulate online, politicians call for laws to ban deepfake creation</title>
       <link>https://www.malwarebytes.com/blog/news/2024/01/deepfake-taylor-swift-images-circulate-online-politicians-call-for-laws-to-ban-deepfake-creation</link>
       <pubDate>Tue, 30 Jan 2024 12:53:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>NSA Buying Bulk Surveillance Data on Americans without a Warrant</title>
-      <link>https://www.schneier.com/blog/archives/2024/01/nsa-buying-bulk-surveillance-data-on-americans-without-a-warrant.html</link>
-      <pubDate>Tue, 30 Jan 2024 12:12:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FactoryTalk Service Platform</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-030-06</link>
-      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric MELSEC WS Series Ethernet Interface Module</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-030-03</link>
-      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation ControlLogix and GuardLogix</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-030-05</link>
-      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric FA Engineering Software Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-030-02</link>
-      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation LP30/40/50 and BM40 Operator Interface</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-030-07</link>
-      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
