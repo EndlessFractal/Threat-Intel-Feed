@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Feb 2024 18:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 20:15:18 +0000</lastBuildDate>
+    <item>
+      <title>Thanksgiving 2023 security incident</title>
+      <link>https://blog.cloudflare.com/thanksgiving-2023-security-incident</link>
+      <pubDate>Thu, 01 Feb 2024 20:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA orders federal agencies to disconnect Ivanti VPN instances by February 2</title>
+      <link>https://securityaffairs.com/158456/security/cisa-order-fix-ivanti-vpn.html</link>
+      <pubDate>Thu, 01 Feb 2024 19:46:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The many ways electric cars are vulnerable to hacks, and whether that matters in a real-world</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-feb-1-2024/</link>
+      <pubDate>Thu, 01 Feb 2024 19:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arrests in $400M SIM-Swap Tied to Heist at FTX?</title>
+      <link>https://krebsonsecurity.com/2024/02/arrests-in-400m-sim-swap-tied-to-heist-at-ftx/</link>
+      <pubDate>Thu, 01 Feb 2024 18:41:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>US announces another arrest in BTC-e cybercrime case</title>
+      <link>https://therecord.media/us-arrests-belarussian-cypriot-national-in-btc-e-cybercrime-case</link>
+      <pubDate>Thu, 01 Feb 2024 18:29:26 +0000</pubDate>
+    </item>
     <item>
       <title>State privacy laws have been crippled by big tech, new report says</title>
       <link>https://therecord.media/state-privacy-laws-big-tech-lobbying-report</link>
@@ -58,11 +83,6 @@
       <pubDate>Thu, 01 Feb 2024 15:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>India-linked hackers target Pakistan with spyware in new campaign</title>
-      <link>https://therecord.media/india-linked-hackers-target-pakistan-with-spyware</link>
-      <pubDate>Thu, 01 Feb 2024 15:21:36 +0000</pubDate>
-    </item>
-    <item>
       <title>Pump-and-Dump Schemes Make Crypto Fraudsters $240m</title>
       <link>https://www.infosecurity-magazine.com/news/pumpanddump-schemes-crypto/</link>
       <pubDate>Thu, 01 Feb 2024 15:15:00 +0000</pubDate>
@@ -110,6 +130,11 @@
     <item>
       <title>CISA Releases Two Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/02/01/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moby and Open Container Initiative Release Critical Updates for Multiple Vulnerabilities Affecting Docker-related Components</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/01/moby-and-open-container-initiative-release-critical-updates-multiple-vulnerabilities-affecting</link>
       <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>Hiring Kit: Cyber Threat Hunter</title>
       <link>https://www.techrepublic.com/resource-library/toolstemplates/hiring-kit-cyber-threat-hunter/</link>
       <pubDate>Wed, 31 Jan 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile Device Security Policy</title>
-      <link>https://www.techrepublic.com/resource-library/toolstemplates/mobile-device-security-policy/</link>
-      <pubDate>Wed, 31 Jan 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Senators Propose Cybersecurity Agriculture Bill</title>
-      <link>https://www.infosecurity-magazine.com/news/us-senators-cybersecurity/</link>
-      <pubDate>Wed, 31 Jan 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sysdig Report Exposes 91% Failure in Runtime Scans</title>
-      <link>https://www.infosecurity-magazine.com/news/91-failure-runtime-scans/</link>
-      <pubDate>Wed, 31 Jan 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti warns of a new actively exploited zero-day</title>
-      <link>https://securityaffairs.com/158403/hacking/ivanti-actively-exploited-zero-day-cve-2024-21893.html</link>
-      <pubDate>Wed, 31 Jan 2024 14:37:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft’s Dangerous Addiction To Security Revenue</title>
-      <link>https://www.sentinelone.com/blog/microsofts-dangerous-addiction-to-security-revenue/</link>
-      <pubDate>Wed, 31 Jan 2024 14:27:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
