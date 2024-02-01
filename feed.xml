@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Feb 2024 10:16:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 12:27:24 +0000</lastBuildDate>
+    <item>
+      <title>Facebook’s Extensive Surveillance Network</title>
+      <link>https://www.schneier.com/blog/archives/2024/02/facebooks-extensive-surveillance-network.html</link>
+      <pubDate>Thu, 01 Feb 2024 12:06:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Feds Shut Down China-Linked "KV-Botnet" Targeting SOHO Routers</title>
+      <link>https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html</link>
+      <pubDate>Thu, 01 Feb 2024 11:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HeadCrab 2.0 Goes Fileless, Targeting Redis Servers for Crypto Mining</title>
+      <link>https://thehackernews.com/2024/02/headcrab-20-goes-fileless-targeting.html</link>
+      <pubDate>Thu, 01 Feb 2024 11:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the Right Metrics Matter When it Comes to Vulnerability Management</title>
+      <link>https://thehackernews.com/2024/02/why-right-metrics-matter-when-it-comes.html</link>
+      <pubDate>Thu, 01 Feb 2024 11:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TechRepublic Premium Editorial Calendar: Policies, Checklists, Hiring Kits and Glossaries for Download</title>
+      <link>https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar-it-policies-checklists-toolkits-and-research-for-download/</link>
+      <pubDate>Thu, 01 Feb 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Audio-jacking: Using generative AI to distort live audio transactions</title>
+      <link>https://securityintelligence.com/posts/using-generative-ai-distort-live-audio-transactions/</link>
+      <pubDate>Thu, 01 Feb 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple malware used in attacks exploiting Ivanti VPN flaws</title>
+      <link>https://securityaffairs.com/158440/apt/malware-ivanti-vpn-flaws-attacks.html</link>
+      <pubDate>Thu, 01 Feb 2024 10:53:31 +0000</pubDate>
+    </item>
     <item>
       <title>Ivanti Releases Zero-Day Patches and Reveals Two New Bugs</title>
       <link>https://www.infosecurity-magazine.com/news/ivanti-zeroday-patches-two-new-bugs/</link>
@@ -168,6 +203,16 @@
       <pubDate>Wed, 31 Jan 2024 16:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Hiring Kit: Cyber Threat Hunter</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/hiring-kit-cyber-threat-hunter/</link>
+      <pubDate>Wed, 31 Jan 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Device Security Policy</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/mobile-device-security-policy/</link>
+      <pubDate>Wed, 31 Jan 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>US Senators Propose Cybersecurity Agriculture Bill</title>
       <link>https://www.infosecurity-magazine.com/news/us-senators-cybersecurity/</link>
       <pubDate>Wed, 31 Jan 2024 16:00:00 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>Gift Yourself a Year of Online Protection for Only $50 Through 2/4</title>
       <link>https://www.techrepublic.com/article/incogni-1-year-subscription/</link>
       <pubDate>Wed, 31 Jan 2024 10:45:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESET Research Podcast: ChatGPT, the MOVEit hack, and Pandora</title>
-      <link>https://www.welivesecurity.com/en/eset-research/eset-research-podcast-chatgpt-moveit-hack-pandora/</link>
-      <pubDate>Wed, 31 Jan 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citibank Sued For Failing to Protect Fraud Victims</title>
-      <link>https://www.infosecurity-magazine.com/news/citibank-sued-failing-protect/</link>
-      <pubDate>Wed, 31 Jan 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICS and OT threat predictions for 2024</title>
-      <link>https://securelist.com/ksb-ics-predictions-2024/111835/</link>
-      <pubDate>Wed, 31 Jan 2024 10:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>City Cyber Taskforce Launches to Secure Corporate Finance</title>
-      <link>https://www.infosecurity-magazine.com/news/city-cyber-taskforce-secure/</link>
-      <pubDate>Wed, 31 Jan 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data leak at fintech giant Direct Trading Technologies</title>
-      <link>https://securityaffairs.com/158384/security/data-leak-at-fintech-direct-trading-technologies.html</link>
-      <pubDate>Wed, 31 Jan 2024 08:50:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s ‘most prolific hacker’ jailed for two years</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/canadas-most-prolific-hacker-jailed-for-two-years/</link>
-      <pubDate>Wed, 31 Jan 2024 08:36:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sensecon 23: from Windows drivers to an almost fully working EDR</title>
-      <link>https://sensepost.com/blog/2024/sensecon-23-from-windows-drivers-to-an-almost-fully-working-edr/</link>
-      <pubDate>Wed, 31 Jan 2024 08:33:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploiting Ivanti VPN Flaws to Deploy KrustyLoader Malware</title>
-      <link>https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html</link>
-      <pubDate>Wed, 31 Jan 2024 07:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BIG NEWS! We’re Joining the CyberWire Network, Powered by N2K!</title>
-      <link>https://thecyberwire.com/podcasts/breaking-through-in-cybersecurity-marketing/101/notes</link>
-      <pubDate>Wed, 31 Jan 2024 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
