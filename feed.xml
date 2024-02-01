@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Feb 2024 16:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 18:18:22 +0000</lastBuildDate>
+    <item>
+      <title>State privacy laws have been crippled by big tech, new report says</title>
+      <link>https://therecord.media/state-privacy-laws-big-tech-lobbying-report</link>
+      <pubDate>Thu, 01 Feb 2024 18:10:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti issues patches for VPNs and discloses new zero-days. FBI director says the Chinese government is targeting US critical infrastructure.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/22</link>
+      <pubDate>Thu, 01 Feb 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tax season is here, so are scammers</title>
+      <link>https://www.malwarebytes.com/blog/scams/2024/02/tax-season-is-here-so-are-scammers</link>
+      <pubDate>Thu, 01 Feb 2024 17:13:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Agencies Failure to Oversee Ransomware Protections Threaten White House Goals</title>
+      <link>https://www.infosecurity-magazine.com/news/us-agencies-ransomware-white-house/</link>
+      <pubDate>Thu, 01 Feb 2024 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian spies impersonating Western researchers in ongoing hacking campaign</title>
+      <link>https://therecord.media/russian-campaign-impersonating-western-researchers-academics</link>
+      <pubDate>Thu, 01 Feb 2024 16:40:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backdoor Activator Malware Running Rife Through Torrents of macOS Apps</title>
+      <link>https://www.sentinelone.com/blog/backdoor-activator-malware-running-rife-through-torrents-of-macos-apps/</link>
+      <pubDate>Thu, 01 Feb 2024 16:33:08 +0000</pubDate>
+    </item>
     <item>
       <title>Interpol-Led Initiative Targets 1300 Suspicious IPs</title>
       <link>https://www.infosecurity-magazine.com/news/interpol-targets-1300-suspicious/</link>
@@ -21,6 +51,11 @@
       <title>All federal civilian agencies ordered to disconnect at-risk Ivanti products by Friday</title>
       <link>https://therecord.media/federal-civilian-agencies-ordered-to-disconnect-at-risk-ivanti-products-cisa</link>
       <pubDate>Thu, 01 Feb 2024 15:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network</title>
+      <link>https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html</link>
+      <pubDate>Thu, 01 Feb 2024 15:44:00 +0000</pubDate>
     </item>
     <item>
       <title>India-linked hackers target Pakistan with spyware in new campaign</title>
@@ -48,11 +83,6 @@
       <pubDate>Thu, 01 Feb 2024 13:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>New parliamentary inquiry to examine UK’s democratic integrity ahead of election</title>
-      <link>https://therecord.media/election-security-uk-joint-parliamentary-inquiry-nsc</link>
-      <pubDate>Thu, 01 Feb 2024 13:14:33 +0000</pubDate>
-    </item>
-    <item>
       <title>UAC-0027 Attack Detection: Hackers Target Ukrainian Organizations Using DIRTYMOE (PURPLEFOX) Malware</title>
       <link>https://socprime.com/blog/uac-0027-attack-detection-hackers-target-ukrainian-organizations-using-dirtymoe-purplefox-malware/</link>
       <pubDate>Thu, 01 Feb 2024 12:46:31 +0000</pubDate>
@@ -66,6 +96,21 @@
       <title>Facebook’s Extensive Surveillance Network</title>
       <link>https://www.schneier.com/blog/archives/2024/02/facebooks-extensive-surveillance-network.html</link>
       <pubDate>Thu, 01 Feb 2024 12:06:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVEVA Edge products (formerly known as InduSoft Web Studio)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-032-03</link>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gessler GmbH WEB-MASTER</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-032-01</link>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/01/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why the Right Metrics Matter When it Comes to Vulnerability Management</title>
@@ -106,11 +151,6 @@
       <title>Dozens in Jordan targeted by authorities using NSO spyware, report finds</title>
       <link>https://www.theguardian.com/world/2024/feb/01/jordan-targeting-lawyers-jouranlists-israeli-nso-spyware-report</link>
       <pubDate>Thu, 01 Feb 2024 09:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report: Civil society in Jordan under assault by NSO’s Pegasus spyware</title>
-      <link>https://therecord.media/civil-society-in-jordan-targeted-with-pegasus-spyware</link>
-      <pubDate>Thu, 01 Feb 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Warning: New Malware Emerges in Attacks Exploiting Ivanti VPN Vulnerabilities</title>
@@ -266,46 +306,6 @@
       <title>Microsoft’s Dangerous Addiction To Security Revenue</title>
       <link>https://www.sentinelone.com/blog/microsofts-dangerous-addiction-to-security-revenue/</link>
       <pubDate>Wed, 31 Jan 2024 14:27:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Limited Time Deal: a Lifetime of Powerful VPN Protection is Just $35 Through 2/4</title>
-      <link>https://www.techrepublic.com/article/ivacy-vpn-lifetime-subscription/</link>
-      <pubDate>Wed, 31 Jan 2024 14:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data security posture management vs cloud security posture management</title>
-      <link>https://securityintelligence.com/posts/data-security-vs-cloud-security-posture-management/</link>
-      <pubDate>Wed, 31 Jan 2024 13:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation</title>
-      <link>https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html</link>
-      <pubDate>Wed, 31 Jan 2024 13:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telegram Marketplaces Fuel Phishing Attacks with Easy-to-Use Kits and Malware</title>
-      <link>https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html</link>
-      <pubDate>Wed, 31 Jan 2024 12:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Sanctions Egyptian IT Experts Aiding ISIS in Cybersecurity</title>
-      <link>https://www.infosecurity-magazine.com/news/us-sanctions-isis-cybersecurity/</link>
-      <pubDate>Wed, 31 Jan 2024 12:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CFPB’s Proposed Data Rules</title>
-      <link>https://www.schneier.com/blog/archives/2024/01/cfpbs-proposed-data-rules.html</link>
-      <pubDate>Wed, 31 Jan 2024 12:04:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog-0</link>
-      <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
