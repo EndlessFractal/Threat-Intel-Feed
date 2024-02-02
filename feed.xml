@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 01:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 02:20:00 +0000</lastBuildDate>
     <item>
       <title>3.5M exposed in COVID-19 e-passport leak</title>
       <link>https://securityaffairs.com/158481/data-breach/3-5m-exposed-in-covid-19-e-passport-leak.html</link>
@@ -136,11 +136,6 @@
       <title>US Thwarts Volt Typhoon Cyber Espionage Campaign Through Router Disruption</title>
       <link>https://www.infosecurity-magazine.com/news/us-thwarts-volt-typhoon-espionage/</link>
       <pubDate>Thu, 01 Feb 2024 12:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facebook’s Extensive Surveillance Network</title>
-      <link>https://www.schneier.com/blog/archives/2024/02/facebooks-extensive-surveillance-network.html</link>
-      <pubDate>Thu, 01 Feb 2024 12:06:14 +0000</pubDate>
     </item>
     <item>
       <title>AVEVA Edge products (formerly known as InduSoft Web Studio)</title>
@@ -306,6 +301,11 @@
       <title>Global Affairs Canada investigates breach. Georgia's Fulton County confirms cyberattack.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/21</link>
       <pubDate>Wed, 31 Jan 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OAS Engine Deep Dive: Abusing low-impact vulnerabilities to escalate privileges</title>
+      <link>https://blog.talosintelligence.com/oas-engine-deep-dive/</link>
+      <pubDate>Wed, 31 Jan 2024 17:00:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
