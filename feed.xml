@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 06:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 08:18:46 +0000</lastBuildDate>
     <item>
       <title>Distribution of Qshing Emails Disguised as Payslips</title>
       <link>https://asec.ahnlab.com/en/61104/</link>
@@ -26,11 +26,6 @@
       <title>ISC Stormcast For Friday, February 2nd, 2024 https://isc.sans.edu/podcastdetail/8836, (Fri, Feb 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/30614</link>
       <pubDate>Fri, 02 Feb 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>3.5M exposed in COVID-19 e-passport leak</title>
-      <link>https://securityaffairs.com/158481/data-breach/3-5m-exposed-in-covid-19-e-passport-leak.html</link>
-      <pubDate>Thu, 01 Feb 2024 23:11:41 +0000</pubDate>
     </item>
     <item>
       <title>Man sentenced to six years in prison for stealing millions in cryptocurrency via SIM swapping</title>
@@ -123,11 +118,6 @@
       <pubDate>Thu, 01 Feb 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network</title>
-      <link>https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html</link>
-      <pubDate>Thu, 01 Feb 2024 15:44:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Pump-and-Dump Schemes Make Crypto Fraudsters $240m</title>
       <link>https://www.infosecurity-magazine.com/news/pumpanddump-schemes-crypto/</link>
       <pubDate>Thu, 01 Feb 2024 15:15:00 +0000</pubDate>
@@ -141,11 +131,6 @@
       <title>What is a "Top Level Domain"?, (Thu, Feb 1st)</title>
       <link>https://isc.sans.edu/diary/rss/30612</link>
       <pubDate>Thu, 01 Feb 2024 14:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exposed Docker APIs Under Attack in 'Commando Cat' Cryptojacking Campaign</title>
-      <link>https://thehackernews.com/2024/02/exposed-docker-apis-under-attack-in.html</link>
-      <pubDate>Thu, 01 Feb 2024 13:36:00 +0000</pubDate>
     </item>
     <item>
       <title>UAC-0027 Attack Detection: Hackers Target Ukrainian Organizations Using DIRTYMOE (PURPLEFOX) Malware</title>
@@ -183,21 +168,6 @@
       <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why the Right Metrics Matter When it Comes to Vulnerability Management</title>
-      <link>https://thehackernews.com/2024/02/why-right-metrics-matter-when-it-comes.html</link>
-      <pubDate>Thu, 01 Feb 2024 11:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Feds Shut Down China-Linked "KV-Botnet" Targeting SOHO Routers</title>
-      <link>https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html</link>
-      <pubDate>Thu, 01 Feb 2024 11:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HeadCrab 2.0 Goes Fileless, Targeting Redis Servers for Crypto Mining</title>
-      <link>https://thehackernews.com/2024/02/headcrab-20-goes-fileless-targeting.html</link>
-      <pubDate>Thu, 01 Feb 2024 11:22:00 +0000</pubDate>
-    </item>
-    <item>
       <title>TechRepublic Premium Editorial Calendar: Policies, Checklists, Hiring Kits and Glossaries for Download</title>
       <link>https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar-it-policies-checklists-toolkits-and-research-for-download/</link>
       <pubDate>Thu, 01 Feb 2024 11:00:00 +0000</pubDate>
@@ -228,11 +198,6 @@
       <pubDate>Thu, 01 Feb 2024 09:00:47 +0000</pubDate>
     </item>
     <item>
-      <title>Warning: New Malware Emerges in Attacks Exploiting Ivanti VPN Vulnerabilities</title>
-      <link>https://thehackernews.com/2024/02/warning-new-malware-emerges-in-attacks.html</link>
-      <pubDate>Thu, 01 Feb 2024 07:43:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Police seized 50,000 Bitcoin from operator of the now-defunct piracy site movie2k</title>
       <link>https://securityaffairs.com/158432/cyber-crime/piracy-site-movie2k-bitcoin.html</link>
       <pubDate>Thu, 01 Feb 2024 07:18:22 +0000</pubDate>
@@ -241,11 +206,6 @@
       <title>Quiz scam nightmare.</title>
       <link>https://thecyberwire.com/podcasts/hacking-humans/275/notes</link>
       <pubDate>Thu, 01 Feb 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Active Exploitation Apple iOS and macOS Vulnerability</title>
-      <link>https://thehackernews.com/2024/02/cisa-warns-of-active-exploitation-of.html</link>
-      <pubDate>Thu, 01 Feb 2024 05:02:00 +0000</pubDate>
     </item>
     <item>
       <title>Football Australia data leak exposes players’ contracts, fans’ personal details</title>
@@ -298,14 +258,54 @@
       <pubDate>Wed, 31 Jan 2024 20:56:24 +0000</pubDate>
     </item>
     <item>
-      <title>RunC Flaws Enable Container Escapes, Granting Attackers Host Access</title>
-      <link>https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html</link>
-      <pubDate>Wed, 31 Jan 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Creating Connections: Exciting beginnings.</title>
       <link>https://thecyberwire.com/newsletters/creating-connections/5/1</link>
       <pubDate>Wed, 31 Jan 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We belong: Q&amp;A with Jac Lai: Passionate, hopeful, and loyal.</title>
+      <link>https://thecyberwire.com/stories/8da22e34ee304f3e82b814fe975482a1/we-belong-qa-with-jac-lai-passionate-hopeful-and-loyal</link>
+      <pubDate>Wed, 31 Jan 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Cyber Threat Hunting? (Definition &amp; How it Works)</title>
+      <link>https://www.techrepublic.com/article/cyber-threat-hunting/</link>
+      <pubDate>Wed, 31 Jan 2024 19:51:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA adds Apple improper authentication bug to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/158412/security/cisa-apple-bug-to-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 31 Jan 2024 19:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT accused of breaking data protection rules</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/01/chatgpt-accused-of-breaking-data-protection-rules</link>
+      <pubDate>Wed, 31 Jan 2024 17:24:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Affairs Canada investigates breach. Georgia's Fulton County confirms cyberattack.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/21</link>
+      <pubDate>Wed, 31 Jan 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OAS Engine Deep Dive: Abusing low-impact vulnerabilities to escalate privileges</title>
+      <link>https://blog.talosintelligence.com/oas-engine-deep-dive/</link>
+      <pubDate>Wed, 31 Jan 2024 17:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Fun and Dangers of Top Level Domains (TLDs), (Wed, Jan 31st)</title>
+      <link>https://isc.sans.edu/diary/rss/30608</link>
+      <pubDate>Wed, 31 Jan 2024 16:55:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pawn Storm’s Stealthy Net-NTLMv2 Assault Revealed</title>
+      <link>https://www.infosecurity-magazine.com/news/pawn-storms-stealthy-net-ntlmv2/</link>
+      <pubDate>Wed, 31 Jan 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Launches First Cybersecurity Certification for Digital Products</title>
+      <link>https://www.infosecurity-magazine.com/news/eu-cybersecurity-certification/</link>
+      <pubDate>Wed, 31 Jan 2024 16:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
