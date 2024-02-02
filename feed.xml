@@ -6,7 +6,62 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 10:16:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 12:27:03 +0000</lastBuildDate>
+    <item>
+      <title>FBI removes malware from hundreds of routers across the US</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/02/fbi-removes-malware-from-hundreds-of-routers-across-the-us</link>
+      <pubDate>Fri, 02 Feb 2024 12:14:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Self-Enforcing Protocol to Solve Gerrymandering</title>
+      <link>https://www.schneier.com/blog/archives/2024/02/a-self-enforcing-protocol-to-solve-gerrymandering.html</link>
+      <pubDate>Fri, 02 Feb 2024 12:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2023 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2024/02/02/november-2023-cyber-attacks-statistics/</link>
+      <pubDate>Fri, 02 Feb 2024 11:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Suffers Breach After Failing to Rotate Stolen Okta Credentials</title>
+      <link>https://www.infosecurity-magazine.com/news/cloudflare-breach-stolen-okta/</link>
+      <pubDate>Fri, 02 Feb 2024 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring the Latest Mispadu Stealer Variant</title>
+      <link>https://unit42.paloaltonetworks.com/mispadu-infostealer-variant/</link>
+      <pubDate>Fri, 02 Feb 2024 11:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cryptocurrency scams metastasize into new forms</title>
+      <link>https://news.sophos.com/en-us/2024/02/02/cryptocurrency-scams-metastasize-into-new-forms/</link>
+      <pubDate>Fri, 02 Feb 2024 11:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare breached on Thanksgiving Day, but the attack was promptly contained</title>
+      <link>https://securityaffairs.com/158504/hacking/cloudflare-thanksgiving-day-attack.html</link>
+      <pubDate>Fri, 02 Feb 2024 10:45:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Former CIA Engineer Sentenced to 40 Years for Leaking Classified Documents</title>
+      <link>https://thehackernews.com/2024/02/former-cia-engineer-sentenced-to-40.html</link>
+      <pubDate>Fri, 02 Feb 2024 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit Reigns Supreme in Soaring Ransomware Landscape</title>
+      <link>https://www.infosecurity-magazine.com/news/lockbit-reigns-supreme-soaring/</link>
+      <pubDate>Fri, 02 Feb 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudzy Elevates Cybersecurity: Integrating Insights from Recorded Future to Revolutionize Cloud Security</title>
+      <link>https://thehackernews.com/2024/02/cloudzy-elevates-cybersecurity.html</link>
+      <pubDate>Fri, 02 Feb 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>INTERPOL Arrests 31 in Global Operation, Identifies 1,900+ Ransomware-Linked IPs</title>
+      <link>https://thehackernews.com/2024/02/interpol-arrests-31-in-global-operation.html</link>
+      <pubDate>Fri, 02 Feb 2024 10:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>PurpleFox malware infected at least 2,000 computers in Ukraine</title>
       <link>https://securityaffairs.com/158494/malware/purplefox-malware-targets-ukraine.html</link>
@@ -16,6 +71,11 @@
       <title>Threat Actors Installing Linux Backdoor Accounts</title>
       <link>https://asec.ahnlab.com/en/61185/</link>
       <pubDate>Fri, 02 Feb 2024 08:27:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Breach: Nation-State Hackers Access Source Code and Internal Docs</title>
+      <link>https://thehackernews.com/2024/02/cloudflare-breach-nation-state-hackers.html</link>
+      <pubDate>Fri, 02 Feb 2024 06:21:00 +0000</pubDate>
     </item>
     <item>
       <title>Distribution of Qshing Emails Disguised as Payslips</title>
@@ -128,6 +188,11 @@
       <pubDate>Thu, 01 Feb 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network</title>
+      <link>https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html</link>
+      <pubDate>Thu, 01 Feb 2024 15:44:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pump-and-Dump Schemes Make Crypto Fraudsters $240m</title>
       <link>https://www.infosecurity-magazine.com/news/pumpanddump-schemes-crypto/</link>
       <pubDate>Thu, 01 Feb 2024 15:15:00 +0000</pubDate>
@@ -141,6 +206,11 @@
       <title>What is a "Top Level Domain"?, (Thu, Feb 1st)</title>
       <link>https://isc.sans.edu/diary/rss/30612</link>
       <pubDate>Thu, 01 Feb 2024 14:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exposed Docker APIs Under Attack in 'Commando Cat' Cryptojacking Campaign</title>
+      <link>https://thehackernews.com/2024/02/exposed-docker-apis-under-attack-in.html</link>
+      <pubDate>Thu, 01 Feb 2024 13:36:00 +0000</pubDate>
     </item>
     <item>
       <title>UAC-0027 Attack Detection: Hackers Target Ukrainian Organizations Using DIRTYMOE (PURPLEFOX) Malware</title>
@@ -178,6 +248,21 @@
       <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Why the Right Metrics Matter When it Comes to Vulnerability Management</title>
+      <link>https://thehackernews.com/2024/02/why-right-metrics-matter-when-it-comes.html</link>
+      <pubDate>Thu, 01 Feb 2024 11:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Feds Shut Down China-Linked "KV-Botnet" Targeting SOHO Routers</title>
+      <link>https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html</link>
+      <pubDate>Thu, 01 Feb 2024 11:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HeadCrab 2.0 Goes Fileless, Targeting Redis Servers for Crypto Mining</title>
+      <link>https://thehackernews.com/2024/02/headcrab-20-goes-fileless-targeting.html</link>
+      <pubDate>Thu, 01 Feb 2024 11:22:00 +0000</pubDate>
+    </item>
+    <item>
       <title>TechRepublic Premium Editorial Calendar: Policies, Checklists, Hiring Kits and Glossaries for Download</title>
       <link>https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar-it-policies-checklists-toolkits-and-research-for-download/</link>
       <pubDate>Thu, 01 Feb 2024 11:00:00 +0000</pubDate>
@@ -193,11 +278,6 @@
       <pubDate>Thu, 01 Feb 2024 10:53:31 +0000</pubDate>
     </item>
     <item>
-      <title>VajraSpy: A Patchwork of espionage apps</title>
-      <link>https://www.welivesecurity.com/en/eset-research/vajraspy-patchwork-espionage-apps/</link>
-      <pubDate>Thu, 01 Feb 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ivanti Releases Zero-Day Patches and Reveals Two New Bugs</title>
       <link>https://www.infosecurity-magazine.com/news/ivanti-zeroday-patches-two-new-bugs/</link>
       <pubDate>Thu, 01 Feb 2024 09:30:00 +0000</pubDate>
@@ -206,6 +286,11 @@
       <title>Dozens in Jordan targeted by authorities using NSO spyware, report finds</title>
       <link>https://www.theguardian.com/world/2024/feb/01/jordan-targeting-lawyers-jouranlists-israeli-nso-spyware-report</link>
       <pubDate>Thu, 01 Feb 2024 09:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warning: New Malware Emerges in Attacks Exploiting Ivanti VPN Vulnerabilities</title>
+      <link>https://thehackernews.com/2024/02/warning-new-malware-emerges-in-attacks.html</link>
+      <pubDate>Thu, 01 Feb 2024 07:43:00 +0000</pubDate>
     </item>
     <item>
       <title>Police seized 50,000 Bitcoin from operator of the now-defunct piracy site movie2k</title>
@@ -218,94 +303,9 @@
       <pubDate>Thu, 01 Feb 2024 06:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Football Australia data leak exposes players’ contracts, fans’ personal details</title>
-      <link>https://www.theguardian.com/sport/2024/feb/01/football-australia-data-leak-breach-exposes-players-contracts-fans-personal-details</link>
-      <pubDate>Thu, 01 Feb 2024 04:12:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Account Credential-Stealing Malware Detected by AhnLab MDS (Web Browsers, Email, FTP)</title>
-      <link>https://asec.ahnlab.com/en/61082/</link>
-      <pubDate>Thu, 01 Feb 2024 02:20:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, February 1st, 2024 https://isc.sans.edu/podcastdetail/8834, (Thu, Feb 1st)</title>
-      <link>https://isc.sans.edu/diary/rss/30610</link>
-      <pubDate>Thu, 01 Feb 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #357: Interview with an iPhone thief, anti-AI, and have we gone too far?</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-357/</link>
-      <pubDate>Thu, 01 Feb 2024 00:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mother of all Breaches may contain NEW breach data</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/mother-of-all-breaches-may-contain-new-breach-data</link>
-      <pubDate>Wed, 31 Jan 2024 21:37:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>VPN compromise causes concerns.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1994/notes</link>
-      <pubDate>Wed, 31 Jan 2024 21:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crooks stole around $112 million worth of XRP from Ripple’s co-founder</title>
-      <link>https://securityaffairs.com/158420/cyber-crime/crooks-stole-112m-ripple.html</link>
-      <pubDate>Wed, 31 Jan 2024 21:05:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bastille Networks raises $44 million. Oasis Security emerges from stealth with $40 million.</title>
-      <link>https://thecyberwire.com/newsletters/business-briefing/6/5</link>
-      <pubDate>Wed, 31 Jan 2024 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nitrogen shelling malware from hacked sites</title>
-      <link>https://www.malwarebytes.com/blog/threat-intelligence/2024/01/nitrogen-shelling-malware-from-hacked-sites</link>
-      <pubDate>Wed, 31 Jan 2024 20:59:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decline in robocalls is encouraging, efforts seem to be working</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/decline-in-robocalls-is-encouraging-efforts-seem-to-be-working</link>
-      <pubDate>Wed, 31 Jan 2024 20:56:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Creating Connections: Exciting beginnings.</title>
-      <link>https://thecyberwire.com/newsletters/creating-connections/5/1</link>
-      <pubDate>Wed, 31 Jan 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We belong: Q&amp;A with Jac Lai: Passionate, hopeful, and loyal.</title>
-      <link>https://thecyberwire.com/stories/8da22e34ee304f3e82b814fe975482a1/we-belong-qa-with-jac-lai-passionate-hopeful-and-loyal</link>
-      <pubDate>Wed, 31 Jan 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is Cyber Threat Hunting? (Definition &amp; How it Works)</title>
-      <link>https://www.techrepublic.com/article/cyber-threat-hunting/</link>
-      <pubDate>Wed, 31 Jan 2024 19:51:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA adds Apple improper authentication bug to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/158412/security/cisa-apple-bug-to-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 31 Jan 2024 19:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT accused of breaking data protection rules</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/01/chatgpt-accused-of-breaking-data-protection-rules</link>
-      <pubDate>Wed, 31 Jan 2024 17:24:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global Affairs Canada investigates breach. Georgia's Fulton County confirms cyberattack.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/21</link>
-      <pubDate>Wed, 31 Jan 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OAS Engine Deep Dive: Abusing low-impact vulnerabilities to escalate privileges</title>
-      <link>https://blog.talosintelligence.com/oas-engine-deep-dive/</link>
-      <pubDate>Wed, 31 Jan 2024 17:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Fun and Dangers of Top Level Domains (TLDs), (Wed, Jan 31st)</title>
-      <link>https://isc.sans.edu/diary/rss/30608</link>
-      <pubDate>Wed, 31 Jan 2024 16:55:32 +0000</pubDate>
+      <title>CISA Warns of Active Exploitation Apple iOS and macOS Vulnerability</title>
+      <link>https://thehackernews.com/2024/02/cisa-warns-of-active-exploitation-of.html</link>
+      <pubDate>Thu, 01 Feb 2024 05:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
