@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Feb 2024 18:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 20:16:26 +0000</lastBuildDate>
+    <item>
+      <title>Experts warn of a surge of attacks targeting Ivanti SSRF flaw</title>
+      <link>https://securityaffairs.com/158677/hacking/ivanti-ssrf-cve-2024-21893-under-attack.html</link>
+      <pubDate>Mon, 05 Feb 2024 19:29:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Judge allows case against geolocation data broker Kochava to proceed</title>
+      <link>https://therecord.media/judge-allows-ftc-case-against-kochava-data-broker-to-proceed</link>
+      <pubDate>Mon, 05 Feb 2024 19:27:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yandex parent company to sell its Russian businesses for $5.2 billion</title>
+      <link>https://therecord.media/yandex-sells-russian-assets-netherlands</link>
+      <pubDate>Mon, 05 Feb 2024 19:14:46 +0000</pubDate>
+    </item>
     <item>
       <title>AnyDesk discloses cyberattack. US sanctions Iranian officials for attacks on critical infrastructure.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/24</link>
@@ -143,6 +158,21 @@
       <pubDate>Mon, 05 Feb 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Applying Threat Intelligence to the Diamond Model of Intrusion Analysis</title>
+      <link>https://www.recordedfuture.com/blog/diamond-model-intrusion-analysis</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What are Threat Intelligence Feeds? Definition &amp; Meaning</title>
+      <link>https://www.recordedfuture.com/blog/threat-intelligence-feeds</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is the Cyber Kill Chain? And How to Use It with Threat Intelligence?</title>
+      <link>https://www.recordedfuture.com/blog/cyber-kill-chain</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The ‘Mother of all Breaches’: Navigating the Aftermath and Fortifying Your Data with DSPM</title>
       <link>https://securityaffairs.com/158646/data-breach/mother-of-all-breaches-dspm.html</link>
       <pubDate>Sun, 04 Feb 2024 21:19:00 +0000</pubDate>
@@ -186,11 +216,6 @@
       <title>DShield Sensor Log Collection with Elasticsearch, (Sat, Feb 3rd)</title>
       <link>https://isc.sans.edu/diary/rss/30616</link>
       <pubDate>Sat, 03 Feb 2024 15:44:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mastodon fixed a flaw that can allow the takeover of any account</title>
-      <link>https://securityaffairs.com/158565/hacking/mastodon-take-over-issue.html</link>
-      <pubDate>Sat, 03 Feb 2024 15:40:28 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Sanctions 6 Iranian Officials for Critical Infrastructure Cyber Attacks</title>
@@ -253,11 +278,6 @@
       <pubDate>Fri, 02 Feb 2024 20:06:13 +0000</pubDate>
     </item>
     <item>
-      <title>Secret Service recovers nearly $3 million stolen from North Carolina housing authority in BEC scam</title>
-      <link>https://therecord.media/secret-service-recovers-nearly-3-million-stolen-in-north-carolina-bec-scam</link>
-      <pubDate>Fri, 02 Feb 2024 18:13:33 +0000</pubDate>
-    </item>
-    <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 5</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-5-5/</link>
       <pubDate>Fri, 02 Feb 2024 17:44:26 +0000</pubDate>
@@ -273,11 +293,6 @@
       <pubDate>Fri, 02 Feb 2024 17:27:06 +0000</pubDate>
     </item>
     <item>
-      <title>US sanctions Iranian military hackers for attacks on water facilities</title>
-      <link>https://therecord.media/sanctions-iran-hackers-us-water-utilities-attacks</link>
-      <pubDate>Fri, 02 Feb 2024 17:24:49 +0000</pubDate>
-    </item>
-    <item>
       <title>FTC slams Blackbaud for “shoddy security” after hacker stole data belonging to thousands of non-profits and millions of people</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/ftc-slams-blackbaud-for-shoddy-security-after-hacker-stole-data-belonging-to-thousands-of-non-profits-and-millions-of-people/</link>
       <pubDate>Fri, 02 Feb 2024 16:00:37 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Russian APT28 Hackers Targeting High-Value Orgs with NTLM Relay Attacks</title>
       <link>https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html</link>
       <pubDate>Fri, 02 Feb 2024 14:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teen Chatting App Wizz Removed from Apple and Google Stores for Sextortion Concerns</title>
-      <link>https://www.infosecurity-magazine.com/news/wizz-removed-apple-google-stores/</link>
-      <pubDate>Fri, 02 Feb 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA: Disconnect vulnerable Ivanti products TODAY</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/02/cisa-disconnect-vulnerable-ivanti-products-today</link>
-      <pubDate>Fri, 02 Feb 2024 14:18:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grandoreiro banking malware disrupted – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/grandoreiro-banking-malware-disrupted-week-in-security-with-tony-anscombe/</link>
-      <pubDate>Fri, 02 Feb 2024 13:47:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
