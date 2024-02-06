@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Feb 2024 06:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 08:18:55 +0000</lastBuildDate>
+    <item>
+      <title>Cyber and Critical Infrastructure</title>
+      <link>https://thecyberwire.com/podcasts/afternoon-cyber-tea/90/notes</link>
+      <pubDate>Tue, 06 Feb 2024 08:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HPE is investigating claims of a new security breach</title>
+      <link>https://securityaffairs.com/158690/cyber-crime/hpe-investigating-security-breach.html</link>
+      <pubDate>Tue, 06 Feb 2024 07:59:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation</title>
+      <link>https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html</link>
+      <pubDate>Tue, 06 Feb 2024 06:58:00 +0000</pubDate>
+    </item>
     <item>
       <title>Safer Internet Day is as important as ever</title>
       <link>https://news.sophos.com/en-us/2024/02/06/safer-internet-day-is-as-important-as-ever/</link>
@@ -263,11 +278,6 @@
       <pubDate>Sun, 04 Feb 2024 10:10:52 +0000</pubDate>
     </item>
     <item>
-      <title>Clorox estimates the costs of the August cyberattack will exceed $49 Million</title>
-      <link>https://securityaffairs.com/158575/security/clorox-attack-costs-exceed-49m.html</link>
-      <pubDate>Sat, 03 Feb 2024 19:57:16 +0000</pubDate>
-    </item>
-    <item>
       <title>DShield Sensor Log Collection with Elasticsearch, (Sat, Feb 3rd)</title>
       <link>https://isc.sans.edu/diary/rss/30616</link>
       <pubDate>Sat, 03 Feb 2024 15:44:16 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Customer Guidance on Emerging AnyDesk Cybersecurity Incident</title>
       <link>https://www.sentinelone.com/blog/customer-guidance-on-emerging-anydesk-cybersecurity-incident/</link>
       <pubDate>Sat, 03 Feb 2024 03:27:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AnyDesk Hacked: Popular Remote Desktop Software Mandates Password Reset</title>
-      <link>https://thehackernews.com/2024/02/anydesk-hacked-popular-remote-desktop.html</link>
-      <pubDate>Sat, 03 Feb 2024 02:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Illex Squid in Argentina Waters</title>
-      <link>https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-in-argentina-waters.html</link>
-      <pubDate>Fri, 02 Feb 2024 22:03:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
