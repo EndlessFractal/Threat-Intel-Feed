@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Feb 2024 06:19:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 08:18:11 +0000</lastBuildDate>
+    <item>
+      <title>Mobile Threat Landscape Update</title>
+      <link>https://thecyberwire.com/podcasts/microsoft-threat-intelligence/11/notes</link>
+      <pubDate>Wed, 07 Feb 2024 08:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked APT deployed malware in a network of the Dutch Ministry of Defence</title>
+      <link>https://securityaffairs.com/158765/apt/china-linked-apt-dutch-mod.html</link>
+      <pubDate>Wed, 07 Feb 2024 07:46:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploited FortiGate Flaw to Breach Dutch Military Network</title>
+      <link>https://thehackernews.com/2024/02/chinese-hackers-exploited-fortigate.html</link>
+      <pubDate>Wed, 07 Feb 2024 06:29:00 +0000</pubDate>
+    </item>
     <item>
       <title>What is a Phantom CISO? With Mishaal Khan.</title>
       <link>https://thecyberwire.com/podcasts/breaking-through-in-cybersecurity-marketing/102/notes</link>
       <pubDate>Wed, 07 Feb 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now</title>
+      <link>https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html</link>
+      <pubDate>Wed, 07 Feb 2024 05:05:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, February 7th, 2024 https://isc.sans.edu/podcastdetail/8842, (Wed, Feb 7th)</title>
@@ -286,26 +306,6 @@
       <title>Belarusian National Linked to BTC-e Faces 25 Years for $4 Billion Crypto Money Laundering</title>
       <link>https://thehackernews.com/2024/02/belarusian-national-linked-to-btc-e.html</link>
       <pubDate>Mon, 05 Feb 2024 16:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deepfake Fraud</title>
-      <link>https://www.schneier.com/blog/archives/2024/02/deepfake-fraud.html</link>
-      <pubDate>Mon, 05 Feb 2024 16:10:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Public Information and Email Spam, (Mon, Feb 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/30620</link>
-      <pubDate>Mon, 05 Feb 2024 16:05:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pennsylvania Courts’ Website Disrupted by DoS Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/pennsylvania-courts-website-dos/</link>
-      <pubDate>Mon, 05 Feb 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python Info-stealer Distributed by Malicious Excel Document</title>
-      <link>https://feeds.fortinet.com/~/868563287/0/fortinet/blog/threat-research~Python-Infostealer-Distributed-by-Malicious-Excel-Document</link>
-      <pubDate>Mon, 05 Feb 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
