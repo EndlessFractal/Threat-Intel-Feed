@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Feb 2024 10:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:26:50 +0000</lastBuildDate>
+    <item>
+      <title>Teaching LLMs to Be Deceptive</title>
+      <link>https://www.schneier.com/blog/archives/2024/02/teaching-llms-to-be-deceptive.html</link>
+      <pubDate>Wed, 07 Feb 2024 12:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facebook fatal accident scam still rages on</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/02/facebook-fatal-accident-scam-still-rages-on</link>
+      <pubDate>Wed, 07 Feb 2024 11:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operational Technology disruptions: An eye on the water sector.</title>
+      <link>https://thecyberwire.com/podcasts/control-loop/43/notes</link>
+      <pubDate>Wed, 07 Feb 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs</title>
+      <link>https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html</link>
+      <pubDate>Wed, 07 Feb 2024 10:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Coalition and Tech Giants Unite Against Commercial Spyware Abuse</title>
+      <link>https://thehackernews.com/2024/02/global-coalition-and-tech-giants-unite.html</link>
+      <pubDate>Wed, 07 Feb 2024 09:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chinese Spies Hack Dutch Networks With Novel Coathanger Malware</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-spies-hack-dutch-1/</link>
@@ -101,6 +126,11 @@
       <title>Documents about the NSA’s Banning of Furby Toys in the 1990s</title>
       <link>https://www.schneier.com/blog/archives/2024/02/documents-about-the-nsas-banning-of-furby-toys-in-the-1990s.html</link>
       <pubDate>Tue, 06 Feb 2024 17:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Entra Verified ID introduces Face Check in preview</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/02/06/microsoft-entra-verified-id-introduces-face-check-in-preview/</link>
+      <pubDate>Tue, 06 Feb 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Securden Password Vault Review 2024: Security, Pricing, Pros &amp; Cons</title>
@@ -223,6 +253,11 @@
       <pubDate>Tue, 06 Feb 2024 10:52:34 +0000</pubDate>
     </item>
     <item>
+      <title>Left to their own devices: Security for employees using personal devices for work</title>
+      <link>https://www.welivesecurity.com/en/business-security/left-own-devices-security-employees-personal-devices-work/</link>
+      <pubDate>Tue, 06 Feb 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>US Cracks Down on Spyware with Visa Restrictions</title>
       <link>https://www.infosecurity-magazine.com/news/us-cracks-down-spyware-visa/</link>
       <pubDate>Tue, 06 Feb 2024 10:20:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>U.S. Imposes Visa Restrictions on those Involved in Illegal Spyware Surveillance</title>
       <link>https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html</link>
       <pubDate>Tue, 06 Feb 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, February 6th, 2024 https://isc.sans.edu/podcastdetail/8840, (Tue, Feb 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/30622</link>
-      <pubDate>Tue, 06 Feb 2024 02:40:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Use Enpass: A Step-by-Step Guide for Beginners</title>
-      <link>https://www.techrepublic.com/article/how-to-use-enpass/</link>
-      <pubDate>Tue, 06 Feb 2024 00:42:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enpass Review 2024: Pricing, Features, Pros, &amp; Cons</title>
-      <link>https://www.techrepublic.com/article/enpass-password-manager-review/</link>
-      <pubDate>Mon, 05 Feb 2024 22:22:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clorox counts the cost of cyberattack</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/02/clorox-counts-the-cost-of-cyberattack</link>
-      <pubDate>Mon, 05 Feb 2024 21:59:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>A serious breach showdown.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1997/notes</link>
-      <pubDate>Mon, 05 Feb 2024 21:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts warn of a surge of attacks targeting Ivanti SSRF flaw</title>
-      <link>https://securityaffairs.com/158677/hacking/ivanti-ssrf-cve-2024-21893-under-attack.html</link>
-      <pubDate>Mon, 05 Feb 2024 19:29:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>AnyDesk discloses cyberattack. US sanctions Iranian officials for attacks on critical infrastructure.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/24</link>
-      <pubDate>Mon, 05 Feb 2024 17:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
