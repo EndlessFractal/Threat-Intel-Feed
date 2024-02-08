@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Feb 2024 22:13:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 01:04:47 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #358: Hong Kong hijinks, pig butchers, and poor ransomware gangs</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-358/</link>
+      <pubDate>Thu, 08 Feb 2024 00:01:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>The toothbrush DDoS attack: How misinformation spreads in the cybersecurity world</title>
+      <link>https://grahamcluley.com/the-toothbrush-ddos-attack-how-misinformation-spreads-in-the-cybersecurity-world/</link>
+      <pubDate>Wed, 07 Feb 2024 22:18:52 +0000</pubDate>
+    </item>
     <item>
       <title>Taking a bite out of Apple.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/1999/notes</link>
@@ -296,16 +306,6 @@
       <title>Malware-as-a-Service Now the Top Threat to Organizations</title>
       <link>https://www.infosecurity-magazine.com/news/malware-service-top-threat/</link>
       <pubDate>Tue, 06 Feb 2024 15:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>State of Malware 2024: What consumers need to know</title>
-      <link>https://www.malwarebytes.com/blog/personal/2024/02/state-of-malware-2024-what-consumers-need-to-know</link>
-      <pubDate>Tue, 06 Feb 2024 14:44:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware: Fake Facebook Job Ads Spreading 'Ov3r_Stealer' to Steal Crypto and Credentials</title>
-      <link>https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html</link>
-      <pubDate>Tue, 06 Feb 2024 14:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
