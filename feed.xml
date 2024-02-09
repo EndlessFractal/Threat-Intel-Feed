@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Feb 2024 08:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 10:15:48 +0000</lastBuildDate>
+    <item>
+      <title>Fortinet warns of a new actively exploited RCE flaw in FortiOS SSL VPN</title>
+      <link>https://securityaffairs.com/158908/hacking/fortinet-fortios-rce-exploitation.html</link>
+      <pubDate>Fri, 09 Feb 2024 09:05:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti warns of a new auth bypass flaw in its Connect Secure, Policy Secure, and ZTA gateway devices</title>
+      <link>https://securityaffairs.com/158889/security/ivanti-warns-auth-bypass-flaw.html</link>
+      <pubDate>Fri, 09 Feb 2024 08:17:05 +0000</pubDate>
+    </item>
     <item>
       <title>Wazuh in the Cloud Era: Navigating the Challenges of Cybersecurity</title>
       <link>https://thehackernews.com/2024/02/wazuh-in-cloud-era-navigating.html</link>
@@ -23,7 +33,7 @@
       <pubDate>Fri, 09 Feb 2024 06:55:32 +0000</pubDate>
     </item>
     <item>
-      <title>Stealthy Zardoor Backdoor Targets Saudi Islamic Charity Organizations</title>
+      <title>Stealthy Zardoor Backdoor Targets Saudi Islamic Charity Organization</title>
       <link>https://thehackernews.com/2024/02/stealthy-zardoor-backdoor-targets-saudi.html</link>
       <pubDate>Fri, 09 Feb 2024 06:31:00 +0000</pubDate>
     </item>
@@ -213,6 +223,11 @@
       <pubDate>Thu, 08 Feb 2024 10:39:00 +0000</pubDate>
     </item>
     <item>
+      <title>The buck stops here: Why the stakes are high for CISOs</title>
+      <link>https://www.welivesecurity.com/en/business-security/buck-stops-stakes-high-cisos/</link>
+      <pubDate>Thu, 08 Feb 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>HijackLoader Evolves: Researchers Decode the Latest Evasion Methods</title>
       <link>https://thehackernews.com/2024/02/hijackloader-evolves-researchers-decode.html</link>
       <pubDate>Thu, 08 Feb 2024 10:28:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Patterns and Targets for Ransomware Exploitation of Vulnerabilities: 2017–2023</title>
       <link>https://www.recordedfuture.com/patterns-targets-ransomware-exploitation-vulnerabilities-2017-2023</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The toothbrush DDoS attack: How misinformation spreads in the cybersecurity world</title>
-      <link>https://grahamcluley.com/the-toothbrush-ddos-attack-how-misinformation-spreads-in-the-cybersecurity-world/</link>
-      <pubDate>Wed, 07 Feb 2024 22:18:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taking a bite out of Apple.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/1999/notes</link>
-      <pubDate>Wed, 07 Feb 2024 21:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Entrust is in discussions to acquire Onfido. Incognia raises $31 million.</title>
-      <link>https://thecyberwire.com/newsletters/business-briefing/6/6</link>
-      <pubDate>Wed, 07 Feb 2024 21:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
