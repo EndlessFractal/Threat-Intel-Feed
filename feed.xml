@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Feb 2024 18:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 20:15:06 +0000</lastBuildDate>
+    <item>
+      <title>Ivanti urges customers to patch yet another critical vulnerability</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/02/ivanti-urges-customer-to-patch-yet-another-critical-vulnerability</link>
+      <pubDate>Fri, 09 Feb 2024 18:13:42 +0000</pubDate>
+    </item>
     <item>
       <title>No, Toothbrushes Were Not Used in a Massive DDoS Attack</title>
       <link>https://www.schneier.com/blog/archives/2024/02/no-toothbrushes-were-not-used-in-a-massive-ddos-attack.html</link>
@@ -103,8 +108,18 @@
       <pubDate>Fri, 09 Feb 2024 12:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Fri, 09 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>JetBrains Releases Security Advisory for TeamCity On-Premises</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises</link>
+      <pubDate>Fri, 09 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Releases Security Advisories for FortiOS</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios</link>
       <pubDate>Fri, 09 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -290,21 +305,6 @@
     <item>
       <title>NIST’s International Cybersecurity and Privacy Engagement Update – International Dialogues, Workshops, and Translations</title>
       <link>https://www.nist.gov/blogs/cybersecurity-insights/nists-international-cybersecurity-and-privacy-engagement-update</link>
-      <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qolsys IQ Panel 4, IQ4 HUB</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-039-01</link>
-      <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Partners With OpenSSF Securing Software Repositories Working Group to Release Principles for Package Repository Security</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package</link>
-      <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-releases-two-industrial-control-systems-advisories</link>
       <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
