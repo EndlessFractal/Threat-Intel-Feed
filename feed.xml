@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Feb 2024 10:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 12:26:47 +0000</lastBuildDate>
+    <item>
+      <title>Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA</title>
+      <link>https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html</link>
+      <pubDate>Fri, 09 Feb 2024 10:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack</title>
+      <link>https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html</link>
+      <pubDate>Fri, 09 Feb 2024 10:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fortinet warns of a new actively exploited RCE flaw in FortiOS SSL VPN</title>
       <link>https://securityaffairs.com/158908/hacking/fortinet-fortios-rce-exploitation.html</link>
@@ -16,6 +26,11 @@
       <title>Ivanti warns of a new auth bypass flaw in its Connect Secure, Policy Secure, and ZTA gateway devices</title>
       <link>https://securityaffairs.com/158889/security/ivanti-warns-auth-bypass-flaw.html</link>
       <pubDate>Fri, 09 Feb 2024 08:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Warns of Critical FortiOS SSL VPN Flaw Likely Under Active Exploitation</title>
+      <link>https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html</link>
+      <pubDate>Fri, 09 Feb 2024 07:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Wazuh in the Cloud Era: Navigating the Challenges of Cybersecurity</title>
@@ -33,19 +48,14 @@
       <pubDate>Fri, 09 Feb 2024 06:55:32 +0000</pubDate>
     </item>
     <item>
-      <title>Stealthy Zardoor Backdoor Targets Saudi Islamic Charity Organization</title>
-      <link>https://thehackernews.com/2024/02/stealthy-zardoor-backdoor-targets-saudi.html</link>
-      <pubDate>Fri, 09 Feb 2024 06:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Warns of Critical FortiOS SSL VPN Flaw Likely Under Active Exploitation</title>
-      <link>https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html</link>
-      <pubDate>Fri, 09 Feb 2024 05:36:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways</title>
       <link>https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html</link>
       <pubDate>Fri, 09 Feb 2024 03:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stealthy Zardoor Backdoor Targets Saudi Islamic Charity Organization</title>
+      <link>https://thehackernews.com/2024/02/stealthy-zardoor-backdoor-targets-saudi.html</link>
+      <pubDate>Fri, 09 Feb 2024 03:30:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, February 9th, 2024 https://isc.sans.edu/podcastdetail/8846, (Fri, Feb 9th)</title>
@@ -296,16 +306,6 @@
       <title>ISC Stormcast For Thursday, February 8th, 2024 https://isc.sans.edu/podcastdetail/8844, (Thu, Feb 8th)</title>
       <link>https://isc.sans.edu/diary/rss/30630</link>
       <pubDate>Thu, 08 Feb 2024 02:55:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #358: Hong Kong hijinks, pig butchers, and poor ransomware gangs</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-358/</link>
-      <pubDate>Thu, 08 Feb 2024 00:01:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patterns and Targets for Ransomware Exploitation of Vulnerabilities: 2017–2023</title>
-      <link>https://www.recordedfuture.com/patterns-targets-ransomware-exploitation-vulnerabilities-2017-2023</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
