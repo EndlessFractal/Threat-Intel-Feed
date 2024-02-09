@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Feb 2024 14:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 16:18:21 +0000</lastBuildDate>
+    <item>
+      <title>Ransomware in 2023 recap: 5 key takeaways</title>
+      <link>https://www.malwarebytes.com/blog/threat-intelligence/2024/02/ransomware-in-2023-recap-5-key-takeaways</link>
+      <pubDate>Fri, 09 Feb 2024 15:52:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Botnet Attack Targeted Routers: A Wake-Up Call for Securing Remote Employees’ Hardware</title>
+      <link>https://www.techrepublic.com/article/volt-typhoon-botnet-attack/</link>
+      <pubDate>Fri, 09 Feb 2024 15:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Juniper Support Portal Exposed Customer Device Info</title>
+      <link>https://krebsonsecurity.com/2024/02/juniper-support-portal-exposed-customer-device-info/</link>
+      <pubDate>Fri, 09 Feb 2024 15:34:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploiting a vulnerable Minifilter Driver to create a process killer</title>
+      <link>https://securityaffairs.com/158926/hacking/process-killer-with-minifilter-driver.html</link>
+      <pubDate>Fri, 09 Feb 2024 14:56:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>MSIX With Heavily Obfuscated PowerShell Script, (Fri, Feb 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/30636</link>
+      <pubDate>Fri, 09 Feb 2024 14:11:04 +0000</pubDate>
+    </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 6</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-6-5/</link>
@@ -16,6 +41,11 @@
       <title>FBI and CISA publish guide to Living off the Land techniques</title>
       <link>https://www.malwarebytes.com/blog/news/2024/02/fbi-and-cisa-publish-guide-to-living-off-the-land-techniques</link>
       <pubDate>Fri, 09 Feb 2024 13:55:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Internet Storm Center Podcast ("Stormcast") 15th Birthday, (Fri, Feb 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/30638</link>
+      <pubDate>Fri, 09 Feb 2024 13:54:06 +0000</pubDate>
     </item>
     <item>
       <title>Black Basta ransomware gang hacked Hyundai Motor Europe</title>
@@ -268,11 +298,6 @@
       <pubDate>Thu, 08 Feb 2024 10:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>The buck stops here: Why the stakes are high for CISOs</title>
-      <link>https://www.welivesecurity.com/en/business-security/buck-stops-stakes-high-cisos/</link>
-      <pubDate>Thu, 08 Feb 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>HijackLoader Evolves: Researchers Decode the Latest Evasion Methods</title>
       <link>https://thehackernews.com/2024/02/hijackloader-evolves-researchers-decode.html</link>
       <pubDate>Thu, 08 Feb 2024 10:28:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore</title>
       <link>https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html</link>
       <pubDate>Thu, 08 Feb 2024 10:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tooth be told: Toothbrush DDoS attack claim was lost in translation, claims Fortinet</title>
-      <link>https://grahamcluley.com/tooth-be-told-toothbrush-ddos-attack-claim-was-lost-in-translation-says-fortinet/</link>
-      <pubDate>Thu, 08 Feb 2024 10:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coyote: A multi-stage banking Trojan abusing the Squirrel installer</title>
-      <link>https://securelist.com/coyote-multi-stage-banking-trojan/111846/</link>
-      <pubDate>Thu, 08 Feb 2024 10:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get an Extensive Education in Cybersecurity for Just $46</title>
-      <link>https://www.techrepublic.com/article/get-9-cybersecurity-courses/</link>
-      <pubDate>Thu, 08 Feb 2024 10:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Warns of Destructive Chinese Cyber-Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/us-warns-of-destructive-chinese/</link>
-      <pubDate>Thu, 08 Feb 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco fixes critical Expressway Series CSRF vulnerabilities</title>
-      <link>https://securityaffairs.com/158830/security/cisco-fixes-critical-expressway-series-csrf-vulnerabilities.html</link>
-      <pubDate>Thu, 08 Feb 2024 08:17:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
