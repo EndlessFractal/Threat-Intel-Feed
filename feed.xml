@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Feb 2024 16:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 18:18:15 +0000</lastBuildDate>
+    <item>
+      <title>US Justice Department shutters Warzone RAT operation. Eighteen Romanian hospitals disrupted by ransomware attack.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/29</link>
+      <pubDate>Mon, 12 Feb 2024 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>If only you had to worry about malware, with Jason Haddix: Lock and Code S05E04</title>
+      <link>https://www.malwarebytes.com/blog/podcast/2024/02/if-only-you-had-to-worry-about-malware-with-jason-haddix-lock-and-code-s05e04</link>
+      <pubDate>Mon, 12 Feb 2024 17:06:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophisticated Cyber-Attack Hits Islamic Charity in Saudi Arabia</title>
+      <link>https://www.infosecurity-magazine.com/news/cyberattack-hits-islamic-charity/</link>
+      <pubDate>Mon, 12 Feb 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On Passkey Usability</title>
+      <link>https://www.schneier.com/blog/archives/2024/02/on-passkey-usability.html</link>
+      <pubDate>Mon, 12 Feb 2024 16:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>PinnacleOne ExecBrief | Safe, Secure, and Trustworthy AI</title>
+      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-safe-secure-and-trustworthy-ai/</link>
+      <pubDate>Mon, 12 Feb 2024 16:48:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Targets US Hacking Ops in Media Offensive</title>
+      <link>https://www.infosecurity-magazine.com/news/china-targets-us-hacking-ops/</link>
+      <pubDate>Mon, 12 Feb 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Smart” helmet flaw exposes location tracking and privacy risks</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/smart-helmet-flaw-exposes-location-tracking-and-privacy-risks/</link>
+      <pubDate>Mon, 12 Feb 2024 16:20:52 +0000</pubDate>
+    </item>
     <item>
       <title>Google Cloud’s Nick Godfrey Talks Security, Budget and AI for CISOs</title>
       <link>https://www.techrepublic.com/article/google-cloud-ciso-nick-godfrey-interview/</link>
@@ -16,6 +51,11 @@
       <title>AI-generated voices in robocalls are illegal, rules FCC</title>
       <link>https://www.malwarebytes.com/blog/news/2024/02/ai-generated-voices-in-robocalls-are-illegal-rules-ftc</link>
       <pubDate>Mon, 12 Feb 2024 14:33:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploit against Unnamed "Bytevalue" router vulnerability included in Mirai Bot, (Mon, Feb 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/30642</link>
+      <pubDate>Mon, 12 Feb 2024 14:11:55 +0000</pubDate>
     </item>
     <item>
       <title>Canada Gov plans to ban the Flipper Zero to curb car thefts</title>
@@ -45,6 +85,11 @@
     <item>
       <title>Priorities of the Joint Cyber Defense Collaborative for 2024</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024</link>
+      <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -261,51 +306,6 @@
       <title>MoqHao Android Malware Evolves with Auto-Execution Capability</title>
       <link>https://thehackernews.com/2024/02/new-variant-of-moqhao-android-malware.html</link>
       <pubDate>Fri, 09 Feb 2024 13:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Powered Robocalls Banned Ahead of US Election</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-robocalls-banned-us-election/</link>
-      <pubDate>Fri, 09 Feb 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volt Typhoon Attacks: Chinese Nation-Backed Actors Focus Malicious Efforts at the US Critical Infrastructure</title>
-      <link>https://socprime.com/blog/volt-typhoon-attacks-chinese-nation-backed-actors-focus-malicious-efforts-at-the-us-critical-infrastructure/</link>
-      <pubDate>Fri, 09 Feb 2024 13:18:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Health insurance data breach affects nearly half of France’s population, privacy regulator warns</title>
-      <link>https://therecord.media/health-insurance-data-breach-affects-half-of-france-cnil</link>
-      <pubDate>Fri, 09 Feb 2024 13:02:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>20 Years of Facebook, but Trust in Social Media Remains Rock Bottom</title>
-      <link>https://www.infosecurity-magazine.com/news/20-years-facebook-trust-social/</link>
-      <pubDate>Fri, 09 Feb 2024 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Fri, 09 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JetBrains Releases Security Advisory for TeamCity On-Premises</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises</link>
-      <pubDate>Fri, 09 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Releases Security Advisories for FortiOS</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios</link>
-      <pubDate>Fri, 09 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA</title>
-      <link>https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html</link>
-      <pubDate>Fri, 09 Feb 2024 10:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack</title>
-      <link>https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html</link>
-      <pubDate>Fri, 09 Feb 2024 10:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
