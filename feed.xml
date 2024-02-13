@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 06:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 08:19:14 +0000</lastBuildDate>
+    <item>
+      <title>Ivanti Vulnerability Exploited to Install 'DSLog' Backdoor on 670+ IT Infrastructures</title>
+      <link>https://thehackernews.com/2024/02/ivanti-vulnerability-exploited-to.html</link>
+      <pubDate>Tue, 13 Feb 2024 07:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ex-Post Office boss ‘gave Fujitsu bonus contract despite warnings’</title>
       <link>https://www.theguardian.com/uk-news/2024/feb/13/ex-post-office-boss-gave-fujitsu-bonus-contract-despite-warnings-whistleblowers-says</link>
@@ -56,6 +61,11 @@
       <title>Ransomware review: February 2024</title>
       <link>https://www.malwarebytes.com/blog/threat-intelligence/2024/02/ransomware-review-february-2024</link>
       <pubDate>Mon, 12 Feb 2024 19:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Residential Proxies vs. Datacenter Proxies: Choosing the Right Option</title>
+      <link>https://securityaffairs.com/159051/security/residential-proxies-vs-datacenter-proxies.html</link>
+      <pubDate>Mon, 12 Feb 2024 18:58:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA adds Roundcube Webmail Persistent XSS bug to its Known Exploited Vulnerabilities catalog</title>
@@ -248,11 +258,6 @@
       <pubDate>Sat, 10 Feb 2024 20:18:26 +0000</pubDate>
     </item>
     <item>
-      <title>macOS Backdoor RustDoor likely linked to Alphv/BlackCat ransomware operations</title>
-      <link>https://securityaffairs.com/158942/malware/macos-backdoor-rustdoor.html</link>
-      <pubDate>Sat, 10 Feb 2024 09:11:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Alert: New Stealthy "RustDoor" Backdoor Targeting Apple macOS Devices</title>
       <link>https://thehackernews.com/2024/02/alert-new-stealthy-rustdoor-backdoor.html</link>
       <pubDate>Sat, 10 Feb 2024 07:12:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Malicious app impersonates LastPass. New backdoor targets MacOS users.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/28</link>
       <pubDate>Fri, 09 Feb 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Robin Malware Upgrades with Discord Spread and New Exploits</title>
-      <link>https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html</link>
-      <pubDate>Fri, 09 Feb 2024 16:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
