@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 08:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 10:15:43 +0000</lastBuildDate>
+    <item>
+      <title>UK Businesses Lose £31bn to Security Breaches in a Year</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-businesses-31bn-security/</link>
+      <pubDate>Tue, 13 Feb 2024 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Malicious Activity Targeting Elections is Skyrocketing</title>
+      <link>https://securityaffairs.com/159062/hacking/global-malicious-activity-targeting-elections.html</link>
+      <pubDate>Tue, 13 Feb 2024 09:38:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stealthy “Hunter-Killer” Malware Detections Surge 333% Annually</title>
+      <link>https://www.infosecurity-magazine.com/news/hunterkiller-malware-detections/</link>
+      <pubDate>Tue, 13 Feb 2024 09:35:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ivanti Vulnerability Exploited to Install 'DSLog' Backdoor on 670+ IT Infrastructures</title>
       <link>https://thehackernews.com/2024/02/ivanti-vulnerability-exploited-to.html</link>
@@ -253,11 +268,6 @@
       <pubDate>Sun, 11 Feb 2024 10:19:13 +0000</pubDate>
     </item>
     <item>
-      <title>CISA adds Fortinet FortiOS bug to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/158955/hacking/cisa-fortinet-fortios-bug-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Sat, 10 Feb 2024 20:18:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Alert: New Stealthy "RustDoor" Backdoor Targeting Apple macOS Devices</title>
       <link>https://thehackernews.com/2024/02/alert-new-stealthy-rustdoor-backdoor.html</link>
       <pubDate>Sat, 10 Feb 2024 07:12:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Bitwarden Free vs. Premium: Which Plan Is Best For You?</title>
       <link>https://www.techrepublic.com/article/bitwarden-free-vs-premium/</link>
       <pubDate>Fri, 09 Feb 2024 17:57:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>CEO of Ukraine's largest telecom operator describes Russian cyberattack that wiped thousands of computers</title>
-      <link>https://therecord.media/kyivstar-ceo-on-russian-cyberattack-telecom</link>
-      <pubDate>Fri, 09 Feb 2024 17:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious app impersonates LastPass. New backdoor targets MacOS users.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/28</link>
-      <pubDate>Fri, 09 Feb 2024 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
