@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Feb 2024 02:21:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 04:18:36 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Thursday, February 15th, 2024 https://isc.sans.edu/podcastdetail/8854, (Thu, Feb 15th)</title>
+      <link>https://isc.sans.edu/diary/rss/30654</link>
+      <pubDate>Thu, 15 Feb 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>[Guest Diary] Learning by doing: Iterative adventures in troubleshooting, (Thu, Feb 15th)</title>
       <link>https://isc.sans.edu/diary/rss/30648</link>
@@ -16,6 +21,11 @@
       <title>Smashing Security podcast #359: Declaring war on ransomware gangs, mobile muddles, and AI religion</title>
       <link>https://grahamcluley.com/smashing-security-podcast-359/</link>
       <pubDate>Thu, 15 Feb 2024 00:01:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Brief: Attacks on Critical Infrastructure Attributed to Insidious Taurus (Volt Typhoon)</title>
+      <link>https://unit42.paloaltonetworks.com/volt-typhoon-threat-brief/</link>
+      <pubDate>Wed, 14 Feb 2024 22:30:15 +0000</pubDate>
     </item>
     <item>
       <title>Abusing the Ubuntu ‘command-not-found’ utility to install malicious packages</title>
@@ -193,6 +203,11 @@
       <pubDate>Wed, 14 Feb 2024 10:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>The art of digital sleuthing: How digital forensics unlocks the truth</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/digital-forensics-unlocks-truth/</link>
+      <pubDate>Wed, 14 Feb 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Sophos MDR and Sophos XDR now integrate with Veeam</title>
       <link>https://news.sophos.com/en-us/2024/02/14/sophos-mdr-and-sophos-xdr-now-integrate-with-veeam/</link>
       <pubDate>Wed, 14 Feb 2024 10:11:03 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>A Hacker’s Mind is Out in Paperback</title>
       <link>https://www.schneier.com/blog/archives/2024/02/a-hackers-mind-is-out-in-paperback.html</link>
       <pubDate>Tue, 13 Feb 2024 20:13:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>First Microsoft Patch Tuesday zero-day of 2024 disclosed as part of group of 75 vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-feb-2024/</link>
-      <pubDate>Tue, 13 Feb 2024 18:59:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bank of America customer data compromised after a third-party services provider data breach</title>
-      <link>https://securityaffairs.com/159085/data-breach/bank-of-america-third-party-services-data-breach.html</link>
-      <pubDate>Tue, 13 Feb 2024 18:47:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft February 2024 Patch Tuesday, (Tue, Feb 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/30646</link>
-      <pubDate>Tue, 13 Feb 2024 18:30:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
