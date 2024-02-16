@@ -13,8 +13,8 @@ def read_posted_links(file_path):
     # Read the file containing posted links
     if os.path.exists(file_path):
         with open(file_path, 'r') as file:
-            posted_links = file.read().splitlines()
-        return set(posted_links)
+            posted_links = set(file.read().splitlines())
+        return posted_links
     else:
         return set()
 
