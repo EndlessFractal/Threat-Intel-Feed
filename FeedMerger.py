@@ -20,7 +20,7 @@ def parse_date_with_timezone(date_str):
         tzinfos = {
             "EDT": pytz.timezone("America/New_York"),
             "EST": pytz.timezone("America/New_York")
-            }
+        }
         return date_parser.parse(date_str, tzinfos=tzinfos)
     except Exception as e:
         print(f"Error parsing date: {date_str}")
@@ -41,12 +41,17 @@ def sort_key(entry):
 # Function to fetch and combine RSS feeds using multithreading
 def combine_rss_feeds(feed_urls):
     combined_feed = []
+    unique_urls = set()
 
     def fetch_feed(url):
         try:
             feed = feedparser.parse(url)
             if 'entries' in feed:
-                return feed.entries
+                entries = feed.entries
+                # Filter out duplicate URLs
+                entries = [entry for entry in entries if entry.link not in unique_urls]
+                unique_urls.update(entry.link for entry in entries)
+                return entries
             else:
                 print(f"No entries found for URL: {url}")
                 return []
