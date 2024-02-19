@@ -6,9 +6,19 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Feb 2024 06:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 08:19:31 +0000</lastBuildDate>
     <item>
-      <title>Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws</title>
+      <title>SolarWinds addressed critical RCEs in Access Rights Manager (ARM)</title>
+      <link>https://securityaffairs.com/159294/security/solarwinds-access-rights-manager-flaws.html</link>
+      <pubDate>Mon, 19 Feb 2024 07:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (February 12 – February 18)</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/02/a-week-in-security-february-12-february-18-2</link>
+      <pubDate>Mon, 19 Feb 2024 07:46:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian-Linked Hackers Target 80+ Organizations via Roundcube Flaws</title>
       <link>https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html</link>
       <pubDate>Mon, 19 Feb 2024 05:05:00 +0000</pubDate>
     </item>
@@ -288,11 +298,6 @@
       <pubDate>Thu, 15 Feb 2024 19:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>A cyberattack halted operations at Varta production plants</title>
-      <link>https://securityaffairs.com/159190/hacking/cyberattack-halted-varta-production-plants.html</link>
-      <pubDate>Thu, 15 Feb 2024 18:43:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Android/SpyNote Moves to Crypto Currencies</title>
       <link>https://feeds.fortinet.com/~/870392525/0/fortinet/blog/threat-research~AndroidSpyNote-Moves-to-Crypto-Currencies</link>
       <pubDate>Thu, 15 Feb 2024 18:24:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>How an Improper Access Control Vulnerability Led to Account Theft in One Click</title>
       <link>https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive</link>
       <pubDate>Thu, 15 Feb 2024 17:21:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>“TicTacToe Dropper” Malware Distribution Tactics Revealed</title>
-      <link>https://www.infosecurity-magazine.com/news/tictactoe-dropper-malware/</link>
-      <pubDate>Thu, 15 Feb 2024 17:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
