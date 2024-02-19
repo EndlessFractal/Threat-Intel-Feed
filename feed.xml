@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Feb 2024 22:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 01:07:14 +0000</lastBuildDate>
+    <item>
+      <title>Wireshark 4.2.3 Released, (Sun, Feb 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/30660</link>
+      <pubDate>Sun, 18 Feb 2024 23:32:43 +0000</pubDate>
+    </item>
     <item>
       <title>ESET fixed high-severity local privilege escalation bug in Windows products</title>
       <link>https://securityaffairs.com/159280/breaking-news/eset-local-privilege-escalation-windows.html</link>
@@ -301,11 +306,6 @@
       <title>Prudential Financial Faces Cybersecurity Breach</title>
       <link>https://www.infosecurity-magazine.com/news/prudential-financial-faces-breach/</link>
       <pubDate>Thu, 15 Feb 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malware Response Checklist</title>
-      <link>https://www.techrepublic.com/resource-library/toolstemplates/malware-response-checklist/</link>
-      <pubDate>Thu, 15 Feb 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
