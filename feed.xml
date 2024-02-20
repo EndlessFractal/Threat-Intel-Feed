@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Feb 2024 14:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 16:19:07 +0000</lastBuildDate>
+    <item>
+      <title>LockBit Ransomware Takedown: What You Need to Know about Operation Cronos</title>
+      <link>https://www.infosecurity-magazine.com/news/operation-cronos-lockbit-takedown/</link>
+      <pubDate>Tue, 20 Feb 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top UK Universities Recovering Following Targeted DDoS Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/universities-recovering-ddos-attack/</link>
+      <pubDate>Tue, 20 Feb 2024 15:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police plan week of LockBit revelations after capturing ‘unprecedented’ intelligence from gang’s infrastructure</title>
+      <link>https://therecord.media/lockbit-ransomware-gang-shutdown-cybercrime-intelligence-captured</link>
+      <pubDate>Tue, 20 Feb 2024 15:31:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Migo Malware Targeting Redis Servers for Cryptocurrency Mining</title>
+      <link>https://thehackernews.com/2024/02/new-migo-malware-targeting-redis.html</link>
+      <pubDate>Tue, 20 Feb 2024 15:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2024 Unit 42 Incident Response Report: Navigating the Shift in Cybersecurity Threat Tactics</title>
+      <link>https://unit42.paloaltonetworks.com/unit42-incident-response-report-2024-threat-guide/</link>
+      <pubDate>Tue, 20 Feb 2024 14:12:31 +0000</pubDate>
+    </item>
     <item>
       <title>How I got started: Cyber AI/ML engineer</title>
       <link>https://securityintelligence.com/articles/how-i-got-started-cyber-ai-ml-engineer/</link>
@@ -18,7 +43,7 @@
       <pubDate>Tue, 20 Feb 2024 13:27:48 +0000</pubDate>
     </item>
     <item>
-      <title>UK and US hack the hackers to bring down LockBit crime gang</title>
+      <title>Seized ransomware network LockBit rewired to expose hackers to world</title>
       <link>https://www.theguardian.com/technology/2024/feb/20/uk-and-fbi-lock-cybercrime-group-out-of-lockbit-website</link>
       <pubDate>Tue, 20 Feb 2024 13:16:19 +0000</pubDate>
     </item>
@@ -41,6 +66,11 @@
       <title>Initial Ransomware Demands Jump 20% to $600,000 in 2023</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-demands-jump-2023/</link>
       <pubDate>Tue, 20 Feb 2024 12:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Malicious PyPI Packages Caught Using Covert Side-Loading Tactics</title>
+      <link>https://thehackernews.com/2024/02/new-malicious-pypi-packages-caught.html</link>
+      <pubDate>Tue, 20 Feb 2024 12:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Is Spying on Users of Its AI Tools</title>
@@ -276,36 +306,6 @@
       <title>YARA 4.5.0 Release, (Sun, Feb 18th)</title>
       <link>https://isc.sans.edu/diary/rss/30662</link>
       <pubDate>Sun, 18 Feb 2024 23:54:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wireshark 4.2.3 Released, (Sun, Feb 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/30660</link>
-      <pubDate>Sun, 18 Feb 2024 23:32:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESET fixed high-severity local privilege escalation bug in Windows products</title>
-      <link>https://securityaffairs.com/159280/breaking-news/eset-local-privilege-escalation-windows.html</link>
-      <pubDate>Sun, 18 Feb 2024 15:38:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 459 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/159273/breaking-news/security-affairs-newsletter-round-459-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 18 Feb 2024 14:21:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generative AI Guardrails: How to Address Shadow AI</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/generative-ai-guardrails-how-to-address-shadow-ai</link>
-      <pubDate>Sun, 18 Feb 2024 10:31:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI's Most-Wanted Zeus and IcedID Malware Mastermind Pleads Guilty</title>
-      <link>https://thehackernews.com/2024/02/fbis-most-wanted-zeus-and-icedid.html</link>
-      <pubDate>Sun, 18 Feb 2024 07:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 387</title>
-      <link>https://www.troyhunt.com/weekly-update-387/</link>
-      <pubDate>Sun, 18 Feb 2024 05:50:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
