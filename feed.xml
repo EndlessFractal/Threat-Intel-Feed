@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Feb 2024 14:13:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 16:19:17 +0000</lastBuildDate>
+    <item>
+      <title>Should IT and Security Teams Play a Role in Crisis Communications?</title>
+      <link>https://www.techrepublic.com/article/how-to-manage-outage-communications-optus-incident/</link>
+      <pubDate>Wed, 21 Feb 2024 15:39:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biden Executive Order to Bolster US Maritime Cybersecurity</title>
+      <link>https://www.infosecurity-magazine.com/news/biden-order-maritime-cybersecurity/</link>
+      <pubDate>Wed, 21 Feb 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Redis miner Migo uses novel system weakening techniques</title>
+      <link>https://securityaffairs.com/159447/malware/redis-miner-migo.html</link>
+      <pubDate>Wed, 21 Feb 2024 14:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>NATO's chief information officer on what Ukraine did right in its cyberwar with Russia</title>
+      <link>https://therecord.media/nato-cio-ukraine-war-cyberdefense-russia</link>
+      <pubDate>Wed, 21 Feb 2024 14:10:33 +0000</pubDate>
+    </item>
     <item>
       <title>Exclusive: eSentire Confirms Rhysida Ransomware Victims</title>
       <link>https://www.infosecurity-magazine.com/news/esentire-confirms-rhysida/</link>
@@ -55,6 +75,16 @@
     <item>
       <title>Russian Hackers Launch Email Campaigns to Demoralize Ukrainians</title>
       <link>https://www.infosecurity-magazine.com/news/russian-hackers-email-ukrainians/</link>
+      <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems</link>
+      <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla Releases Security Updates for Firefox and Thunderbird</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/21/mozilla-releases-security-updates-firefox-and-thunderbird</link>
       <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -173,6 +203,11 @@
       <pubDate>Tue, 20 Feb 2024 19:36:03 +0000</pubDate>
     </item>
     <item>
+      <title>Decoding the Characteristics of Modern Pentesting: Speed</title>
+      <link>https://www.hackerone.com/penetration-testing/modern-pentesting-speed</link>
+      <pubDate>Tue, 20 Feb 2024 19:11:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Law enforcement trolls LockBit, reveals massive takedown</title>
       <link>https://www.malwarebytes.com/blog/business/2024/02/law-enforcement-trolls-lockbit-reveals-massive-takedown</link>
       <pubDate>Tue, 20 Feb 2024 19:03:56 +0000</pubDate>
@@ -206,11 +241,6 @@
       <title>A penny per email could curb our enormous data use | Letters</title>
       <link>https://www.theguardian.com/technology/2024/feb/20/a-penny-per-email-could-curb-our-enormous-data-use</link>
       <pubDate>Tue, 20 Feb 2024 16:54:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe announces launch of formal probe into TikTok under digital rights law</title>
-      <link>https://therecord.media/tiktok-investigation-dsa-european-commission</link>
-      <pubDate>Tue, 20 Feb 2024 16:24:41 +0000</pubDate>
     </item>
     <item>
       <title>More details about Operation Cronos that disrupted Lockbit operation</title>
@@ -276,36 +306,6 @@
       <title>Initial Ransomware Demands Jump 20% to $600,000 in 2023</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-demands-jump-2023/</link>
       <pubDate>Tue, 20 Feb 2024 12:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Malicious PyPI Packages Caught Using Covert Side-Loading Tactics</title>
-      <link>https://thehackernews.com/2024/02/new-malicious-pypi-packages-caught.html</link>
-      <pubDate>Tue, 20 Feb 2024 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Is Spying on Users of Its AI Tools</title>
-      <link>https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html</link>
-      <pubDate>Tue, 20 Feb 2024 12:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric Electrical Discharge Machines</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-051-03</link>
-      <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ethercat Zeek Plugin</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-051-02</link>
-      <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Commend WS203VICM</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-051-01</link>
-      <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Three Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/20/cisa-releases-three-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
