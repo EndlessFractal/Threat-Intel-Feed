@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Feb 2024 12:28:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 14:15:54 +0000</lastBuildDate>
+    <item>
+      <title>Enhancing security analysis with Cloudflare Zero Trust logs and Elastic SIEM</title>
+      <link>https://blog.cloudflare.com/enhancing-security-analysis-with-cloudflare-zero-trust-logs-and-elastic-siem</link>
+      <pubDate>Thu, 22 Feb 2024 14:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Details on Apple’s Shortcuts Vulnerability: A Deep Dive into CVE-2024-23204</title>
+      <link>https://www.bitdefender.com/blog/labs/details-on-apples-shortcuts-vulnerability-a-deep-dive-into-cve-2024-23204/</link>
+      <pubDate>Thu, 22 Feb 2024 14:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian-Aligned Network Doppelgänger Targets German Elections</title>
+      <link>https://www.infosecurity-magazine.com/news/russia-network-doppelganger/</link>
+      <pubDate>Thu, 22 Feb 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Tech working in ‘service of dictators-to-be’ warns Nobel Peace Prize winner</title>
+      <link>https://therecord.media/maria-ressa-munich-security-conference-big-tech-disinformation</link>
+      <pubDate>Thu, 22 Feb 2024 13:50:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Develop Advanced Cybersecurity Skills for Just $80</title>
+      <link>https://www.techrepublic.com/article/the-ultimate-advanced-cybersecurity-professional-certification-bundle/</link>
+      <pubDate>Thu, 22 Feb 2024 13:30:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>OWASP Releases Security Checklist Generative AI Deployment</title>
+      <link>https://www.infosecurity-magazine.com/news/owasp-security-checklist/</link>
+      <pubDate>Thu, 22 Feb 2024 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Leak Shows Business Side of China’s APT Menace</title>
+      <link>https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/</link>
+      <pubDate>Thu, 22 Feb 2024 13:27:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earth Preta APT Attack Detection: China-Linked APT Hits Asia with DOPLUGS Malware, a New PlugX Variant</title>
+      <link>https://socprime.com/blog/earth-preta-apt-attack-detection-china-linked-apt-hits-asia-with-doplugs-malware-a-new-plugx-variant/</link>
+      <pubDate>Thu, 22 Feb 2024 13:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>TinyTurla-NG in-depth tooling and command and control analysis</title>
+      <link>https://blog.talosintelligence.com/tinyturla-ng-tooling-and-c2/</link>
+      <pubDate>Thu, 22 Feb 2024 13:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit takedown: Police shut more than 14,000 accounts on Mega, Tutanota and Protonmail</title>
+      <link>https://therecord.media/lockbit-ransomware-takedown-mega-tutanota-protonmail</link>
+      <pubDate>Thu, 22 Feb 2024 12:47:15 +0000</pubDate>
+    </item>
     <item>
       <title>Cyber Pros Embrace AI, Over 80% Believe It Will Enhance Jobs</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-pros-ai-enhance-jobs/</link>
@@ -143,11 +193,6 @@
       <pubDate>Wed, 21 Feb 2024 16:52:25 +0000</pubDate>
     </item>
     <item>
-      <title>LockBit affiliates arrested in Ukraine, Poland</title>
-      <link>https://therecord.media/lockbit-affiliates-arrested-in-ukraine-poland</link>
-      <pubDate>Wed, 21 Feb 2024 16:43:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ping Identity (ForgeRock) vs Okta (2024): Compare IAM software</title>
       <link>https://www.techrepublic.com/article/forgerock-vs-okta/</link>
       <pubDate>Wed, 21 Feb 2024 16:40:05 +0000</pubDate>
@@ -181,11 +226,6 @@
       <title>New Redis miner Migo uses novel system weakening techniques</title>
       <link>https://securityaffairs.com/159447/malware/redis-miner-migo.html</link>
       <pubDate>Wed, 21 Feb 2024 14:55:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>NATO's chief information officer on what Ukraine did right in its cyberwar with Russia</title>
-      <link>https://therecord.media/nato-cio-ukraine-war-cyberdefense-russia</link>
-      <pubDate>Wed, 21 Feb 2024 14:10:33 +0000</pubDate>
     </item>
     <item>
       <title>Exclusive: eSentire Confirms Rhysida Ransomware Victims</title>
@@ -266,46 +306,6 @@
       <title>Volt Typhoon and the Year in Review.</title>
       <link>https://thecyberwire.com/podcasts/control-loop/44/notes</link>
       <pubDate>Wed, 21 Feb 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Sounds Alarm Over Private Branch Exchange Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-alarm-private-branch-exchange/</link>
-      <pubDate>Wed, 21 Feb 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 3 Cybersecurity Trends for SME Business Leaders</title>
-      <link>https://grahamcluley.com/feed-sponsor-cynet/</link>
-      <pubDate>Wed, 21 Feb 2024 10:04:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attacker Breakout Time Falls to Just One Hour</title>
-      <link>https://www.infosecurity-magazine.com/news/attacker-breakout-time-falls-one/</link>
-      <pubDate>Wed, 21 Feb 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity for Healthcare—Diagnosing the Threat Landscape and Prescribing Solutions for Recovery</title>
-      <link>https://thehackernews.com/2024/02/cybersecurity-for-healthcarediagnosing.html</link>
-      <pubDate>Wed, 21 Feb 2024 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure Access in the Era of AI</title>
-      <link>https://thecyberwire.com/podcasts/uncovering-hidden-risks/15/notes</link>
-      <pubDate>Wed, 21 Feb 2024 08:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Exchange flaw CVE-2024-21410 could impact up to 97,000 servers</title>
-      <link>https://securityaffairs.com/159424/hacking/28000-vulnerable-microsoft-exchange-servers.html</link>
-      <pubDate>Wed, 21 Feb 2024 07:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing pages hosted on archive.org, (Wed, Feb 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/30676</link>
-      <pubDate>Wed, 21 Feb 2024 07:27:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signal Introduces Usernames, Allowing Users to Keep Their Phone Numbers Private</title>
-      <link>https://thehackernews.com/2024/02/signal-introduces-usernames-allowing.html</link>
-      <pubDate>Wed, 21 Feb 2024 07:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
