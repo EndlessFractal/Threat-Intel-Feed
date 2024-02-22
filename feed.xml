@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Feb 2024 02:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 04:17:07 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Thursday, February 22nd, 2024 https://isc.sans.edu/podcastdetail/8866, (Thu, Feb 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/30678</link>
+      <pubDate>Thu, 22 Feb 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>California AG settles with DoorDash over selling consumer data without notice</title>
       <link>https://therecord.media/doordash-settles-california-ag-selling-consumer-data</link>
@@ -16,6 +21,11 @@
       <title>Threat Brief: ConnectWise ScreenConnect Vulnerabilities (CVE-2024-1708 and CVE-2024-1709)</title>
       <link>https://unit42.paloaltonetworks.com/connectwise-threat-brief-cve-2024-1708-cve-2024-1709/</link>
       <pubDate>Thu, 22 Feb 2024 01:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Guest Diary] Friend, foe or something in between? The grey area of 'security research', (Thu, Feb 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/30670</link>
+      <pubDate>Thu, 22 Feb 2024 00:21:39 +0000</pubDate>
     </item>
     <item>
       <title>Smashing Security podcast #360: Lockbit locked out, and funeral Facebook scams</title>
@@ -296,16 +306,6 @@
       <title>Linux Malware Campaign “Migo” Targets Redis For Cryptomining</title>
       <link>https://www.infosecurity-magazine.com/news/linux-malware-migo-targets-redis/</link>
       <pubDate>Tue, 20 Feb 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A penny per email could curb our enormous data use | Letters</title>
-      <link>https://www.theguardian.com/technology/2024/feb/20/a-penny-per-email-could-curb-our-enormous-data-use</link>
-      <pubDate>Tue, 20 Feb 2024 16:54:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>More details about Operation Cronos that disrupted Lockbit operation</title>
-      <link>https://securityaffairs.com/159388/cyber-crime/operation-cronos-against-lockbit.html</link>
-      <pubDate>Tue, 20 Feb 2024 16:11:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
