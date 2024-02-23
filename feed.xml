@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Feb 2024 16:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 18:19:27 +0000</lastBuildDate>
+    <item>
+      <title>Ukraine signs security deals with Western allies to help counter Russian cyberattacks</title>
+      <link>https://therecord.media/ukraine-signs-security-deals-with-western-allies-over-russian-cyberattacks</link>
+      <pubDate>Fri, 23 Feb 2024 18:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dormant PyPI Package Compromised to Spread Nova Sentinel Malware</title>
+      <link>https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html</link>
+      <pubDate>Fri, 23 Feb 2024 17:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit administrator ‘has engaged with law enforcement,’ police claim</title>
+      <link>https://therecord.media/lockbit-administrator-engaging-with-police</link>
+      <pubDate>Fri, 23 Feb 2024 16:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Healthcare cyberattack disrupts prescription processing. ScreenConnect flaw exploited by ransomware actors.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/37</link>
+      <pubDate>Fri, 23 Feb 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U-Haul says 67,000 customers affected in records system breach</title>
+      <link>https://therecord.media/u-haul-customers-affected-in-records-system-breach</link>
+      <pubDate>Fri, 23 Feb 2024 16:27:44 +0000</pubDate>
+    </item>
     <item>
       <title>AIs Hacking Websites</title>
       <link>https://www.schneier.com/blog/archives/2024/02/ais-hacking-websites.html</link>
       <pubDate>Fri, 23 Feb 2024 16:14:27 +0000</pubDate>
     </item>
     <item>
+      <title>Joomla! patches XSS flaws that could lead to remote code execution</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/02/joomla-patches-xss-flaws-that-could-lead-to-remote-code-execution</link>
+      <pubDate>Fri, 23 Feb 2024 16:11:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Operation Cronos: Who Are the LockBit Admins</title>
-      <link>https://www.infosecurity-magazine.com/news/operation-cronos-who-are-the/</link>
+      <link>https://www.infosecurity-magazine.com/news/operation-cronos-who-are-lockbit/</link>
       <pubDate>Fri, 23 Feb 2024 16:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prescription orders delayed as US pharmacies grapple with “nation-state” cyber attack</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/prescription-orders-delayed-as-us-pharmacies-grapple-with-nation-state-cyber-attack/</link>
+      <pubDate>Fri, 23 Feb 2024 15:32:33 +0000</pubDate>
     </item>
     <item>
       <title>Now the ‘most dangerous time I can remember,’ warns British military’s cyber general</title>
@@ -103,11 +138,6 @@
       <pubDate>Fri, 23 Feb 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>Plant production still on hold for German battery manufacturer after cyberattack</title>
-      <link>https://therecord.media/varta-battery-plant-production-on-hold-after-cyberattack</link>
-      <pubDate>Fri, 23 Feb 2024 01:16:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA orders federal agencies to fix ConnectWise ScreenConnect bug in a week</title>
       <link>https://securityaffairs.com/159511/hacking/cisa-connectwise-screenconnect-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Fri, 23 Feb 2024 00:46:43 +0000</pubDate>
@@ -141,16 +171,6 @@
       <title>White House announces new initiative to improve US port cybersecurity. EU investigates TikTok over child safety concerns.</title>
       <link>https://thecyberwire.com/newsletters/caveat-briefing/2/7</link>
       <pubDate>Thu, 22 Feb 2024 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prescriptions nationwide impacted by cyber incident at Change Healthcare</title>
-      <link>https://therecord.media/prescriptions-nationwide-impacted-by-change-healthcare-incident</link>
-      <pubDate>Thu, 22 Feb 2024 20:02:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the FBI and CISA look to mature the government’s top ransomware task force</title>
-      <link>https://therecord.media/fbi-cisa-joint-ransomware-task-force-future</link>
-      <pubDate>Thu, 22 Feb 2024 19:52:00 +0000</pubDate>
     </item>
     <item>
       <title>“Beyond the border scam”, pay attention to the instance of the new Nigerian fraud</title>
@@ -286,26 +306,6 @@
       <title>Delta Electronics CNCSoft-B DOPSoft</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-053-01</link>
       <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited ConnectWise Vulnerability, CVE-2024-1709, to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-adds-one-known-exploited-connectwise-vulnerability-cve-2024-1709-catalog</link>
-      <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-releases-one-industrial-control-systems-advisory</link>
-      <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signal to shield user phone numbers by default</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/02/signal-to-shield-user-phone-numbers-by-default</link>
-      <pubDate>Thu, 22 Feb 2024 11:11:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks</title>
-      <link>https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html</link>
-      <pubDate>Thu, 22 Feb 2024 11:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
