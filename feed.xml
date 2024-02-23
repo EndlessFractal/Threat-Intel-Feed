@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Feb 2024 14:15:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 16:19:58 +0000</lastBuildDate>
+    <item>
+      <title>AIs Hacking Websites</title>
+      <link>https://www.schneier.com/blog/archives/2024/02/ais-hacking-websites.html</link>
+      <pubDate>Fri, 23 Feb 2024 16:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Cronos: Who Are the LockBit Admins</title>
+      <link>https://www.infosecurity-magazine.com/news/operation-cronos-who-are-the/</link>
+      <pubDate>Fri, 23 Feb 2024 16:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Now the ‘most dangerous time I can remember,’ warns British military’s cyber general</title>
+      <link>https://therecord.media/gen-jim-hockenhull-most-dangerous-time-national-security</link>
+      <pubDate>Fri, 23 Feb 2024 15:26:50 +0000</pubDate>
+    </item>
     <item>
       <title>What Is Identity and Access Management (IAM)?</title>
       <link>https://www.techrepublic.com/article/what-is-iam/</link>
@@ -21,6 +36,11 @@
       <title>ICO Bans Serco Leisure's Use of Facial Recognition for Employee Attendance</title>
       <link>https://www.infosecurity-magazine.com/news/ico-bans-serco-facial-recognition/</link>
       <pubDate>Fri, 23 Feb 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBitsupp unmasked!!? My reaction to the FBI and NCA’s LockBit ransomware revelation</title>
+      <link>https://grahamcluley.com/lockbitsupp-unmasked-my-reaction-to-the-fbi-and-ncas-lockbit-ransomware-revelation/</link>
+      <pubDate>Fri, 23 Feb 2024 13:51:41 +0000</pubDate>
     </item>
     <item>
       <title>Update now! ConnectWise ScreenConnect vulnerability needs your attention</title>
@@ -73,7 +93,7 @@
       <pubDate>Fri, 23 Feb 2024 03:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Online Scams: Are You Safe From Impersonations, Threats, and Deceptions?</title>
+      <title>Online Scams: Are You Safe From Impersonation, Blackmails, and Deception?</title>
       <link>https://asec.ahnlab.com/en/61976/</link>
       <pubDate>Fri, 23 Feb 2024 02:02:05 +0000</pubDate>
     </item>
@@ -141,11 +161,6 @@
       <title>TikTok’s latest actions to combat misinformation shows it’s not just a U.S. problem</title>
       <link>https://blog.talosintelligence.com/threat-source-newsletter-feb-22-2024/</link>
       <pubDate>Thu, 22 Feb 2024 19:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>FTC hits Avast with $16.5 million fine over allegations of selling users’ browsing data</title>
-      <link>https://therecord.media/avast-fine-ftc-alleged-browser-data-sales</link>
-      <pubDate>Thu, 22 Feb 2024 18:55:41 +0000</pubDate>
     </item>
     <item>
       <title>6 Best Open Source IAM Tools in 2024</title>
@@ -218,6 +233,11 @@
       <pubDate>Thu, 22 Feb 2024 14:52:59 +0000</pubDate>
     </item>
     <item>
+      <title>ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs</title>
+      <link>https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/</link>
+      <pubDate>Thu, 22 Feb 2024 14:35:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Enhancing security analysis with Cloudflare Zero Trust logs and Elastic SIEM</title>
       <link>https://blog.cloudflare.com/enhancing-security-analysis-with-cloudflare-zero-trust-logs-and-elastic-siem</link>
       <pubDate>Thu, 22 Feb 2024 14:00:26 +0000</pubDate>
@@ -268,8 +288,8 @@
       <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <title>CISA Adds One Known Exploited ConnectWise Vulnerability, CVE-2024-1709, to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-adds-one-known-exploited-connectwise-vulnerability-cve-2024-1709-catalog</link>
       <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks</title>
       <link>https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html</link>
       <pubDate>Thu, 22 Feb 2024 11:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Age of Hacktivism</title>
-      <link>https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html</link>
-      <pubDate>Thu, 22 Feb 2024 10:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Government Software Backdoored to Deploy Konni RAT Malware</title>
-      <link>https://thehackernews.com/2024/02/russian-government-software-backdoored.html</link>
-      <pubDate>Thu, 22 Feb 2024 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Duo Found Guilty of $3m Apple Fraud Plot</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-duo-guilty-3m-apple-fraud/</link>
-      <pubDate>Thu, 22 Feb 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Warning as CVSS 10.0 ScreenConnect Bug is Exploited</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-cvss-100-screenconnect/</link>
-      <pubDate>Thu, 22 Feb 2024 09:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
