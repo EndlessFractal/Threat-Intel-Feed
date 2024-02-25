@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Feb 2024 08:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 10:14:28 +0000</lastBuildDate>
+    <item>
+      <title>Security Affairs newsletter Round 460 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
+      <link>https://securityaffairs.com/159555/breaking-news/security-affairs-newsletter-round-460-by-pierluigi-paganini-international-edition.html</link>
+      <pubDate>Sun, 25 Feb 2024 09:28:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Authorities Claim LockBit Admin "LockBitSupp" Has Engaged with Law Enforcement</title>
+      <link>https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html</link>
+      <pubDate>Sun, 25 Feb 2024 08:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update: MGLNDD_* Scans, (Sat, Feb 24th)</title>
+      <link>https://isc.sans.edu/diary/rss/30686</link>
+      <pubDate>Sun, 25 Feb 2024 08:43:36 +0000</pubDate>
+    </item>
     <item>
       <title>Apple created post-quantum cryptographic protocol PQ3 for iMessage</title>
       <link>https://securityaffairs.com/159543/security/post-quantum-cryptographic-protocol-pq3.html</link>
@@ -273,11 +288,6 @@
       <pubDate>Thu, 22 Feb 2024 17:08:49 +0000</pubDate>
     </item>
     <item>
-      <title>Announcing Microsoft’s open automation framework to red team generative AI Systems</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/</link>
-      <pubDate>Thu, 22 Feb 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Chinese police investigate I-Soon leak. US offers $15 million reward for information on LockBit operators.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/36</link>
       <pubDate>Thu, 22 Feb 2024 17:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>SMBs at Risk From SendGrid-Focused Phishing Tactics</title>
       <link>https://www.infosecurity-magazine.com/news/smbs-risk-innovative-phishing/</link>
       <pubDate>Thu, 22 Feb 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Unveils PQ3 Protocol - Post-Quantum Encryption for iMessage</title>
-      <link>https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html</link>
-      <pubDate>Thu, 22 Feb 2024 16:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why ransomware gangs love using RMM tools—and how to stop them</title>
-      <link>https://www.malwarebytes.com/blog/business/2024/02/why-ransomware-gangs-love-using-rmm-tools-and-how-to-stop-them</link>
-      <pubDate>Thu, 22 Feb 2024 16:08:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
