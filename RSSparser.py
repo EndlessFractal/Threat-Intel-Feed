@@ -20,9 +20,11 @@ def read_posted_links(file_path):
 
 
 def write_posted_link(file_path, link):
-    # Write the newly posted link to the file
-    with open(file_path, 'a') as file:
-        file.write(link + '\n')
+    # Check if the link is already in the set
+    if link not in read_posted_links(file_path):
+        # Write the newly posted link to the file
+        with open(file_path, 'a') as file:
+            file.write(link + '\n')
 
 
 def trim_posted_links(file_path):
