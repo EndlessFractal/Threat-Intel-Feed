@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Feb 2024 14:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 16:19:59 +0000</lastBuildDate>
+    <item>
+      <title>NIST Releases Final Version of Cybersecurity Framework 2.0</title>
+      <link>https://www.infosecurity-magazine.com/news/nist-final-version-cybersecurity/</link>
+      <pubDate>Tue, 27 Feb 2024 16:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Sponsors Scholarships To Celebrate Black History Month</title>
+      <link>https://news.sophos.com/en-us/2024/02/27/sophos-sponsors-scholarships-to-celebrate-black-history-month/</link>
+      <pubDate>Tue, 27 Feb 2024 15:37:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>XSS flaw in LiteSpeed Cache plugin exposes millions of WordPress sites at risk</title>
+      <link>https://securityaffairs.com/159667/hacking/litespeed-cache-plugin-xss.html</link>
+      <pubDate>Tue, 27 Feb 2024 15:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Healthcare incident drags on as report pins it on ransomware group</title>
+      <link>https://therecord.media/change-healthcare-blackcat-alphv-incident-drags-on</link>
+      <pubDate>Tue, 27 Feb 2024 15:27:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>An educational robot security research</title>
+      <link>https://securelist.com/smart-robot-security-research/111938/</link>
+      <pubDate>Tue, 27 Feb 2024 15:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>IDAT Loader used to infect a Ukraine entity in Finland with Remcos RAT</title>
+      <link>https://securityaffairs.com/159650/cyber-crime/idat-loader-ukraine-entity-remcos-rat.html</link>
+      <pubDate>Tue, 27 Feb 2024 14:56:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2024 Cybercrime Update | Commercial Spyware, AI-Driven APTs &amp; Flawed RMMs</title>
+      <link>https://www.sentinelone.com/blog/february-2024-cybercrime-update-commercial-spyware-ai-driven-apts-and-flawed-rmms/</link>
+      <pubDate>Tue, 27 Feb 2024 14:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress LiteSpeed Plugin Vulnerability Puts 5 Million Sites at Risk</title>
+      <link>https://thehackernews.com/2024/02/wordpress-litespeed-plugin.html</link>
+      <pubDate>Tue, 27 Feb 2024 14:43:00 +0000</pubDate>
+    </item>
     <item>
       <title>When Stealers Converge: New Variant of Atomic Stealer in the Wild</title>
       <link>https://www.bitdefender.com/blog/labs/when-stealers-converge-new-variant-of-atomic-stealer-in-the-wild/</link>
@@ -58,6 +98,11 @@
       <pubDate>Tue, 27 Feb 2024 12:56:00 +0000</pubDate>
     </item>
     <item>
+      <title>Santesoft Sante DICOM Viewer Pro</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-24-058-01</link>
+      <pubDate>Tue, 27 Feb 2024 12:20:39 +0000</pubDate>
+    </item>
+    <item>
       <title>China Surveillance Company Hacked</title>
       <link>https://www.schneier.com/blog/archives/2024/02/china-surveillance-company-hacked.html</link>
       <pubDate>Tue, 27 Feb 2024 12:03:59 +0000</pubDate>
@@ -65,6 +110,16 @@
     <item>
       <title>Data Distribution in Privacy-Preserving Federated Learning</title>
       <link>https://www.nist.gov/blogs/cybersecurity-insights/data-distribution-privacy-preserving-federated-learning</link>
+      <pubDate>Tue, 27 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric Multiple Factory Automation Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-058-01</link>
+      <pubDate>Tue, 27 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-releases-two-industrial-control-systems-advisories</link>
       <pubDate>Tue, 27 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -80,6 +135,11 @@
     <item>
       <title>69% of Organizations Infected by Ransomware in 2023</title>
       <link>https://www.infosecurity-magazine.com/news/orgs-inected-ransomware-2023/</link>
+      <pubDate>Tue, 27 Feb 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frame the Future: The Art of Becoming a Futurist</title>
+      <link>https://thecyberwire.com/podcasts/8th-layer-insights/42/notes</link>
       <pubDate>Tue, 27 Feb 2024 11:00:00 +0000</pubDate>
     </item>
     <item>
@@ -161,11 +221,6 @@
       <title>After decades of memory-related software bugs, White House calls on industry to act</title>
       <link>https://therecord.media/memory-related-software-bugs-white-house-code-report-oncd</link>
       <pubDate>Mon, 26 Feb 2024 19:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta to assign special teams in Europe to fight election disinformation, AI abuse</title>
-      <link>https://therecord.media/meta-to-assign-special-teams-in-europe-election-misinformation</link>
-      <pubDate>Mon, 26 Feb 2024 19:28:28 +0000</pubDate>
     </item>
     <item>
       <title>Booking.com refund request? It might be an Agent Tesla malware attack</title>
@@ -251,61 +306,6 @@
       <title>Apple Announces Post-Quantum Encryption Algorithms for iMessage</title>
       <link>https://www.schneier.com/blog/archives/2024/02/apple-announces-post-quantum-encryption-algorithms-for-imessage.html</link>
       <pubDate>Mon, 26 Feb 2024 12:04:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Travel Update! The NIST CSF 2.0 is HERE…Along with Many Helpful Resources…</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/travel-update-nist-csf-20-herealong-many-helpful-resources</link>
-      <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit Takedown: What You Need to Know about Operation Cronos</title>
-      <link>https://www.infosecurity-magazine.com/news/operation-cronos-lockbit-takedown/</link>
-      <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA, NCSC-UK, and Partners Release Advisory on Russian SVR Actors Targeting Cloud Infrastructure</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/26/cisa-ncsc-uk-and-partners-release-advisory-russian-svr-actors-targeting-cloud-infrastructure</link>
-      <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avast Faces $16.5m Fine for Unlawfully Selling User Browsing Data</title>
-      <link>https://www.infosecurity-magazine.com/news/avast-fine-selling-browser-data/</link>
-      <pubDate>Mon, 26 Feb 2024 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three Tips to Protect Your Secrets from AI Accidents</title>
-      <link>https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html</link>
-      <pubDate>Mon, 26 Feb 2024 10:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC to Offer Cyber Governance Guidance to Boards</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-offer-cybergovernance/</link>
-      <pubDate>Mon, 26 Feb 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Banking Trojans Target Latin America and Europe Through Google Cloud Run</title>
-      <link>https://thehackernews.com/2024/02/banking-trojans-target-latin-america.html</link>
-      <pubDate>Mon, 26 Feb 2024 09:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IntelBroker claimed the hack of the Los Angeles International Airport</title>
-      <link>https://securityaffairs.com/159573/hacking/intelbroker-hacked-los-angeles-international-airport.html</link>
-      <pubDate>Mon, 26 Feb 2024 09:38:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>U-Haul Informs Customers of Major Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/uhaul-informs-customers-major-data/</link>
-      <pubDate>Mon, 26 Feb 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The mobile malware threat landscape in 2023</title>
-      <link>https://securelist.com/mobile-malware-report-2023/111964/</link>
-      <pubDate>Mon, 26 Feb 2024 08:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (February 19 – February 25)</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/02/a-week-in-security-february-19-february-25-2</link>
-      <pubDate>Mon, 26 Feb 2024 07:39:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
