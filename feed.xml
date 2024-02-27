@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Feb 2024 08:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 10:16:54 +0000</lastBuildDate>
+    <item>
+      <title>Business Logic Abuse Dominates as API Attacks Surge</title>
+      <link>https://www.infosecurity-magazine.com/news/business-logic-abuse-api-attacks/</link>
+      <pubDate>Tue, 27 Feb 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zyxel fixed four bugs in firewalls and access points</title>
+      <link>https://securityaffairs.com/159624/hacking/zyxel-firewalls-aps-flaws.html</link>
+      <pubDate>Tue, 27 Feb 2024 08:20:06 +0000</pubDate>
+    </item>
     <item>
       <title>Russia-linked APT29 switched to targeting cloud services</title>
       <link>https://securityaffairs.com/159629/apt/apt29-targeting-cloud-services.html</link>
@@ -33,11 +43,6 @@
       <pubDate>Mon, 26 Feb 2024 21:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>Investigators trace $100 million in crypto payments to Myanmar scam syndicate</title>
-      <link>https://therecord.media/myanmar-pig-butchering-scams-cryptocurrency-payments-traced</link>
-      <pubDate>Mon, 26 Feb 2024 20:26:46 +0000</pubDate>
-    </item>
-    <item>
       <title>A cyber attack hit Thyssenkrupp Automotive Body Solutions business unit</title>
       <link>https://securityaffairs.com/159611/hacking/thyssenkrupp-automotive-body-solutions-bu-cyberattack.html</link>
       <pubDate>Mon, 26 Feb 2024 20:24:15 +0000</pubDate>
@@ -46,16 +51,6 @@
       <title>LockBit Back Online as Ransomware Gang Continues to Clash with Law Enforcement</title>
       <link>https://www.techrepublic.com/article/fbi-shut-down-lockbit-ransomware-group/</link>
       <pubDate>Mon, 26 Feb 2024 20:11:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>After decades of memory-related software bugs, White House calls on industry to act</title>
-      <link>https://therecord.media/memory-related-software-bugs-white-house-code-report-oncd</link>
-      <pubDate>Mon, 26 Feb 2024 19:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta to assign special teams in Europe to fight election disinformation, AI abuse</title>
-      <link>https://therecord.media/meta-to-assign-special-teams-in-europe-election-misinformation</link>
-      <pubDate>Mon, 26 Feb 2024 19:28:28 +0000</pubDate>
     </item>
     <item>
       <title>Booking.com refund request? It might be an Agent Tesla malware attack</title>
@@ -133,16 +128,6 @@
       <pubDate>Mon, 26 Feb 2024 14:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Russia cyber spies behind SolarWinds breach adopting new tactics, warn Five Eyes agencies</title>
-      <link>https://therecord.media/russia-svr-espionage-hacking-cloud-five-eyes-warning</link>
-      <pubDate>Mon, 26 Feb 2024 13:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit ransomware gang attempts to relaunch its services following takedown</title>
-      <link>https://therecord.media/lockbit-relaunch-attempt-follwing-takedown</link>
-      <pubDate>Mon, 26 Feb 2024 13:08:18 +0000</pubDate>
-    </item>
-    <item>
       <title>North Korean Hackers Targeting Developers with Malicious npm Packages</title>
       <link>https://thehackernews.com/2024/02/north-korean-hackers-targeting.html</link>
       <pubDate>Mon, 26 Feb 2024 12:27:00 +0000</pubDate>
@@ -171,6 +156,11 @@
       <title>Avast Faces $16.5m Fine for Unlawfully Selling User Browsing Data</title>
       <link>https://www.infosecurity-magazine.com/news/avast-fine-selling-browser-data/</link>
       <pubDate>Mon, 26 Feb 2024 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 things to avoid posting on social media – and why</title>
+      <link>https://www.welivesecurity.com/en/social-media/10-things-avoid-posting-social-media-why/</link>
+      <pubDate>Mon, 26 Feb 2024 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Three Tips to Protect Your Secrets from AI Accidents</title>
@@ -211,6 +201,11 @@
       <title>LockBit Ransomware Group Resurfaces After Law Enforcement Takedown</title>
       <link>https://thehackernews.com/2024/02/lockbit-ransomware-group-resurfaces.html</link>
       <pubDate>Mon, 26 Feb 2024 04:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI’s LockBit Takedown Postponed a Ticking Time Bomb in Fulton County, Ga.</title>
+      <link>https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/</link>
+      <pubDate>Mon, 26 Feb 2024 02:17:55 +0000</pubDate>
     </item>
     <item>
       <title>Analysis of Nood RAT Used in Attacks Against Linux (Gh0st RAT’s Variant)</title>
@@ -268,11 +263,6 @@
       <pubDate>Sat, 24 Feb 2024 23:04:20 +0000</pubDate>
     </item>
     <item>
-      <title>Russian hacker is set to face trial for the hack of a local power grid</title>
-      <link>https://securityaffairs.com/159536/hacking/cyber-attack-power-plant-russia-hacker.html</link>
-      <pubDate>Sat, 24 Feb 2024 16:19:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Expands Free Logging Capabilities for all U.S. Federal Agencies</title>
       <link>https://thehackernews.com/2024/02/microsoft-expands-free-logging.html</link>
       <pubDate>Sat, 24 Feb 2024 11:49:00 +0000</pubDate>
@@ -306,6 +296,16 @@
       <title>Crackdown on privacy leads to a multi-million dollar fine.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/2010/notes</link>
       <pubDate>Fri, 23 Feb 2024 21:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 Best Free VPNs for 2024</title>
+      <link>https://www.techrepublic.com/article/best-free-vpns/</link>
+      <pubDate>Fri, 23 Feb 2024 18:01:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker</title>
+      <link>https://www.hackerone.com/ai/voice-cloning-qa</link>
+      <pubDate>Fri, 23 Feb 2024 17:58:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
