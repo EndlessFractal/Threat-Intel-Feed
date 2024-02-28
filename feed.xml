@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Feb 2024 10:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 12:26:37 +0000</lastBuildDate>
+    <item>
+      <title>A Cyber Insurance Backstop</title>
+      <link>https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html</link>
+      <pubDate>Wed, 28 Feb 2024 12:02:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-linked APT28 compromised Ubiquiti EdgeRouters to facilitate cyber operations</title>
+      <link>https://securityaffairs.com/159691/breaking-news/russia-apt28-compromised-ubiquiti-edgerouters.html</link>
+      <pubDate>Wed, 28 Feb 2024 11:43:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Healthcare outages reportedly caused by ransomware</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/02/change-healthcare-outages-reportedly-caused-by-ransomware</link>
+      <pubDate>Wed, 28 Feb 2024 11:41:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navigating the Cloud: Exploring Lateral Movement Techniques</title>
+      <link>https://unit42.paloaltonetworks.com/cloud-lateral-movement-techniques/</link>
+      <pubDate>Wed, 28 Feb 2024 11:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Superusers Need Super Protection: How to Bridge Privileged Access Management and Identity Management</title>
+      <link>https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html</link>
+      <pubDate>Wed, 28 Feb 2024 10:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over Half of UK Firms Concerned About Insider Threats</title>
+      <link>https://www.infosecurity-magazine.com/news/over-half-uk-firms-concerned/</link>
+      <pubDate>Wed, 28 Feb 2024 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ads for Zero-Day Exploit Sales Surge 70% Annually</title>
       <link>https://www.infosecurity-magazine.com/news/ads-zeroday-exploit-sales-surge-70/</link>
@@ -101,6 +131,11 @@
       <title>NIST Releases Final Version of Cybersecurity Framework 2.0</title>
       <link>https://www.infosecurity-magazine.com/news/nist-final-version-cybersecurity/</link>
       <pubDate>Tue, 27 Feb 2024 16:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GDPR Security Pack</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/gdpr-security-pack-policies-to-protect-data-and-achieve-compliance/</link>
+      <pubDate>Tue, 27 Feb 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sophos Sponsors Scholarships To Celebrate Black History Month</title>
@@ -271,41 +306,6 @@
       <title>Zyxel fixed four bugs in firewalls and access points</title>
       <link>https://securityaffairs.com/159624/hacking/zyxel-firewalls-aps-flaws.html</link>
       <pubDate>Tue, 27 Feb 2024 08:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked APT29 switched to targeting cloud services</title>
-      <link>https://securityaffairs.com/159629/apt/apt29-targeting-cloud-services.html</link>
-      <pubDate>Tue, 27 Feb 2024 07:41:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Plugin Alert - Critical SQLi Vulnerability Threatens 200K+ Websites</title>
-      <link>https://thehackernews.com/2024/02/wordpress-plugin-alert-critical-sqli.html</link>
-      <pubDate>Tue, 27 Feb 2024 05:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, February 27th, 2024 https://isc.sans.edu/podcastdetail/8870, (Tue, Feb 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/30692</link>
-      <pubDate>Tue, 27 Feb 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing Malware That Sends Stolen Information Using Telegram API</title>
-      <link>https://asec.ahnlab.com/en/62177/</link>
-      <pubDate>Tue, 27 Feb 2024 00:36:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit reloaded: Unveiling the next chapter in cybercrime.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/2011/notes</link>
-      <pubDate>Mon, 26 Feb 2024 21:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A cyber attack hit Thyssenkrupp Automotive Body Solutions business unit</title>
-      <link>https://securityaffairs.com/159611/hacking/thyssenkrupp-automotive-body-solutions-bu-cyberattack.html</link>
-      <pubDate>Mon, 26 Feb 2024 20:24:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit Back Online as Ransomware Gang Continues to Clash with Law Enforcement</title>
-      <link>https://www.techrepublic.com/article/fbi-shut-down-lockbit-ransomware-group/</link>
-      <pubDate>Mon, 26 Feb 2024 20:11:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
