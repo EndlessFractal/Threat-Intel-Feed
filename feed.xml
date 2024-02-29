@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Feb 2024 10:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 12:27:45 +0000</lastBuildDate>
+    <item>
+      <title>How the “Frontier” Became the Slogan of Uncontrolled AI</title>
+      <link>https://www.schneier.com/blog/archives/2024/02/how-the-frontier-became-the-slogan-of-uncontrolled-ai.html</link>
+      <pubDate>Thu, 29 Feb 2024 12:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks</title>
+      <link>https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html</link>
+      <pubDate>Thu, 29 Feb 2024 11:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TimbreStealer Malware Targets Mexican Victims with Tax-Related Lures</title>
+      <link>https://www.infosecurity-magazine.com/news/timbrestealer-malware-targets/</link>
+      <pubDate>Thu, 29 Feb 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lazarus Hackers Exploited Windows Kernel Flaw as Zero-Day in Recent Attacks</title>
+      <link>https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html</link>
+      <pubDate>Thu, 29 Feb 2024 11:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Prioritize Cybersecurity Spending: A Risk-Based Strategy for the Highest ROI</title>
+      <link>https://thehackernews.com/2024/02/why-risk-based-approach-to.html</link>
+      <pubDate>Thu, 29 Feb 2024 11:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facebook bug could have allowed attacker to take over accounts</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/02/facebook-bug-could-have-allowed-attacker-to-take-over-accounts</link>
+      <pubDate>Thu, 29 Feb 2024 11:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Art of Domain Deception: Bifrost's New Tactic to Deceive Users</title>
+      <link>https://unit42.paloaltonetworks.com/new-linux-variant-bifrost-malware/</link>
+      <pubDate>Thu, 29 Feb 2024 11:00:36 +0000</pubDate>
+    </item>
     <item>
       <title>Biden Bans Mass Sale of Data to Hostile Nations</title>
       <link>https://www.infosecurity-magazine.com/news/biden-bans-mass-sale-data-hostile-1/</link>
@@ -158,6 +193,11 @@
       <pubDate>Wed, 28 Feb 2024 16:45:00 +0000</pubDate>
     </item>
     <item>
+      <title>10 Must-Read Books on Cybersecurity</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/10-must-read-books-on-cybersecurity/</link>
+      <pubDate>Wed, 28 Feb 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>UK Unveils Draft Cybersecurity Governance Code to Boost Business Resilience</title>
       <link>https://www.infosecurity-magazine.com/news/uk-unveils-draft-cybersecurity/</link>
       <pubDate>Wed, 28 Feb 2024 16:00:00 +0000</pubDate>
@@ -263,49 +303,9 @@
       <pubDate>Wed, 28 Feb 2024 10:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ads for Zero-Day Exploit Sales Surge 70% Annually</title>
-      <link>https://www.infosecurity-magazine.com/news/ads-zeroday-exploit-sales-surge-70/</link>
-      <pubDate>Wed, 28 Feb 2024 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Throwing Darts in the Dark With Microsoft Incident Response</title>
-      <link>https://thecyberwire.com/podcasts/microsoft-threat-intelligence/13/notes</link>
-      <pubDate>Wed, 28 Feb 2024 08:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TimbreStealer Malware Spreading via Tax-themed Phishing Scam Targets IT Users</title>
-      <link>https://thehackernews.com/2024/02/timbrestealer-malware-spreading-via-tax.html</link>
-      <pubDate>Wed, 28 Feb 2024 07:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Build Community Around Phishing with Dennis Legori.</title>
-      <link>https://thecyberwire.com/podcasts/breaking-through-in-cybersecurity-marketing/105/notes</link>
-      <pubDate>Wed, 28 Feb 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Agencies Warn Ubiquiti EdgeRouter Users of APT28's MooBot Threat</title>
-      <link>https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html</link>
-      <pubDate>Wed, 28 Feb 2024 05:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>InfoSec Team Organizational Charts, Founding RH-ISAC, and the Intelligence Briefing</title>
-      <link>https://thecyberwire.com/podcasts/rh-isac/45/notes</link>
-      <pubDate>Wed, 28 Feb 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, February 28th, 2024 https://isc.sans.edu/podcastdetail/8872, (Wed, Feb 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/30696</link>
-      <pubDate>Wed, 28 Feb 2024 02:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is Old is New Again: Lessons in Anti-Ransom Policy</title>
-      <link>https://www.recordedfuture.com/blog/lessons-from-history-anti-ransom-strategies</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Out with the old, in with the new.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/2012/notes</link>
-      <pubDate>Tue, 27 Feb 2024 21:10:00 +0000</pubDate>
+      <title>Vulnerabilities in business VPNs under the spotlight</title>
+      <link>https://www.welivesecurity.com/en/business-security/vulnerabilities-business-vpns-spotlight/</link>
+      <pubDate>Wed, 28 Feb 2024 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
