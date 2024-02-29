@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Feb 2024 06:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 08:18:21 +0000</lastBuildDate>
     <item>
       <title>Election defense 2024.</title>
       <link>https://thecyberwire.com/podcasts/caveat/207/notes</link>
@@ -16,6 +16,11 @@
       <title>Navigating the post-password landscape.</title>
       <link>https://thecyberwire.com/podcasts/hacking-humans/279/notes</link>
       <pubDate>Thu, 29 Feb 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploiting Ivanti VPN Flaws to Deploy New Malware</title>
+      <link>https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html</link>
+      <pubDate>Thu, 29 Feb 2024 05:49:00 +0000</pubDate>
     </item>
     <item>
       <title>President Biden Blocks Mass Transfer of Personal Data to High-Risk Nations</title>
@@ -301,11 +306,6 @@
       <title>New Vulnerabilities in ConnectWise ScreenConnect Massively Exploited by Attackers</title>
       <link>https://www.techrepublic.com/article/connectwise-screenconnect-vulnerability/</link>
       <pubDate>Tue, 27 Feb 2024 17:16:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIST releases Cybersecurity Framework 2.0. Russia's APT29 targets cloud services.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/39</link>
-      <pubDate>Tue, 27 Feb 2024 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
