@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Mar 2024 14:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 16:17:51 +0000</lastBuildDate>
+    <item>
+      <title>Researchers spot new infrastructure likely used for Predator spyware</title>
+      <link>https://therecord.media/new-predator-spyware-infrastructure-identified</link>
+      <pubDate>Fri, 01 Mar 2024 15:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biden Warns Chinese Cars Could Steal US Citizens' Data</title>
+      <link>https://www.infosecurity-magazine.com/news/biden-chinese-cars-us-data/</link>
+      <pubDate>Fri, 01 Mar 2024 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phobos Ransomware Activity Detection: Adversaries Target the Public Sector, Healthcare, and Other Critical U.S. Infrastructure</title>
+      <link>https://socprime.com/blog/phobos-ransomware-activity-detection-adversaries-target-the-public-sector-healthcare-and-other-critical-u-s-infrastructure/</link>
+      <pubDate>Fri, 01 Mar 2024 14:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five Eyes alliance warns of attacks exploiting known Ivanti Gateway flaws</title>
+      <link>https://securityaffairs.com/159807/hacking/fiveeye-warns-ivanti-gateways-attacks.html</link>
+      <pubDate>Fri, 01 Mar 2024 14:01:23 +0000</pubDate>
+    </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 9</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-9-5/</link>
@@ -40,6 +60,11 @@
     <item>
       <title>Five Eyes Warn of Ivanti Vulnerabilities Exploitation, Detection Tools Insufficient</title>
       <link>https://www.infosecurity-magazine.com/news/five-eyes-warn-ivanti/</link>
+      <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Releases Security Advisories for Cisco NX-OS Software</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/03/01/cisco-releases-security-advisories-cisco-nx-os-software</link>
       <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -111,6 +136,11 @@
       <title>UK program involving electronic monitoring of migrants could be unlawful, data regulator says</title>
       <link>https://therecord.media/uk-electronic-migrant-monitoring-program-data-privacy-ico</link>
       <pubDate>Fri, 01 Mar 2024 00:01:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predator Spyware Operators Rebuild Multi-Tier Infrastructure to Target Mobile Devices</title>
+      <link>https://www.recordedfuture.com/predator-spyware-operators-rebuild-multi-tier-infrastructure-target-mobile-devices</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NordPass Free vs. Premium: Is It Worth the Upgrade?</title>
@@ -188,11 +218,6 @@
       <pubDate>Thu, 29 Feb 2024 19:00:40 +0000</pubDate>
     </item>
     <item>
-      <title>North Korean hackers exploit Windows zero-day flaw</title>
-      <link>https://therecord.media/north-korean-hackers-windows-zero-day</link>
-      <pubDate>Thu, 29 Feb 2024 18:33:17 +0000</pubDate>
-    </item>
-    <item>
       <title>Free VPN vs Paid VPN: Which One Is Right for You?</title>
       <link>https://www.techrepublic.com/article/free-vpn-vs-paid-vpn/</link>
       <pubDate>Thu, 29 Feb 2024 18:08:04 +0000</pubDate>
@@ -263,8 +288,8 @@
       <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA, FBI, and MS-ISAC Release Advisory on Phobos Ransomware</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-fbi-and-ms-isac-release-advisory-phobos-ransomware</link>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-releases-two-industrial-control-systems-advisories</link>
       <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -278,34 +303,9 @@
       <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-releases-two-industrial-control-systems-advisories</link>
+      <title>CISA, FBI, and MS-ISAC Release Advisory on Phobos Ransomware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-fbi-and-ms-isac-release-advisory-phobos-ransomware</link>
       <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks</title>
-      <link>https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html</link>
-      <pubDate>Thu, 29 Feb 2024 11:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TimbreStealer Malware Targets Mexican Victims with Tax-Related Lures</title>
-      <link>https://www.infosecurity-magazine.com/news/timbrestealer-malware-targets/</link>
-      <pubDate>Thu, 29 Feb 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Prioritize Cybersecurity Spending: A Risk-Based Strategy for the Highest ROI</title>
-      <link>https://thehackernews.com/2024/02/why-risk-based-approach-to.html</link>
-      <pubDate>Thu, 29 Feb 2024 11:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus Hackers Exploited Windows Kernel Flaw as Zero-Day in Recent Attacks</title>
-      <link>https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html</link>
-      <pubDate>Thu, 29 Feb 2024 11:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facebook bug could have allowed attacker to take over accounts</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/02/facebook-bug-could-have-allowed-attacker-to-take-over-accounts</link>
-      <pubDate>Thu, 29 Feb 2024 11:16:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
