@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Mar 2024 10:16:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 12:27:43 +0000</lastBuildDate>
+    <item>
+      <title>NIST Cybersecurity Framework 2.0</title>
+      <link>https://www.schneier.com/blog/archives/2024/03/nist-cybersecurity-framework-2-0.html</link>
+      <pubDate>Fri, 01 Mar 2024 12:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five Eyes Warn of Ivanti Vulnerabilities Exploitation, Detection Tools Insufficient</title>
+      <link>https://www.infosecurity-magazine.com/news/five-eyes-warn-ivanti/</link>
+      <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Act now to stop WordPress and Tumblr selling your content to AI firms</title>
+      <link>https://grahamcluley.com/act-now-to-stop-wordpress-and-tumblr-selling-your-content-to-ai-firms/</link>
+      <pubDate>Fri, 01 Mar 2024 11:23:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crooks stole €15 Million from European retail company Pepco</title>
+      <link>https://securityaffairs.com/159801/cyber-crime/pepco-phishing-attack.html</link>
+      <pubDate>Fri, 01 Mar 2024 11:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 Instructive Postmortems on Data Downtime and Loss</title>
+      <link>https://thehackernews.com/2024/03/4-instructive-postmortems-on-data.html</link>
+      <pubDate>Fri, 01 Mar 2024 11:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Home Office Breached Data Protection Law with Migrant Tracking Program, ICO Finds</title>
+      <link>https://www.infosecurity-magazine.com/news/home-office-data-protection-migrant/</link>
+      <pubDate>Fri, 01 Mar 2024 11:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New BIFROSE Linux Malware Variant Using Deceptive VMware Domain for Evasion</title>
+      <link>https://thehackernews.com/2024/03/new-bifrose-linux-malware-variant-using.html</link>
+      <pubDate>Fri, 01 Mar 2024 10:56:00 +0000</pubDate>
+    </item>
     <item>
       <title>DIRECTV Latin America</title>
       <link>https://socprime.com/customer-success-stories/telco-en/directv-latin-america/</link>
@@ -16,6 +51,11 @@
       <title>CISA adds Microsoft Streaming Service bug to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/159796/security/cisa-adds-microsoft-streaming-service-bug-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Fri, 01 Mar 2024 08:08:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>TechRepublic Premium Editorial Calendar: Policies, Checklists, Hiring Kits and Glossaries for Download</title>
+      <link>https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar-it-policies-checklists-toolkits-and-research-for-download/</link>
+      <pubDate>Fri, 01 Mar 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Five Eyes Agencies Warn of Active Exploitation of Ivanti Gateway Vulnerabilities</title>
@@ -253,6 +293,11 @@
       <pubDate>Thu, 29 Feb 2024 11:00:36 +0000</pubDate>
     </item>
     <item>
+      <title>Blue Team toolkit: 6 open-source tools to assess and enhance corporate defenses</title>
+      <link>https://www.welivesecurity.com/en/business-security/blue-team-toolkit-6-open-source-tools-corporate-defenses/</link>
+      <pubDate>Thu, 29 Feb 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Biden Bans Mass Sale of Data to Hostile Nations</title>
       <link>https://www.infosecurity-magazine.com/news/biden-bans-mass-sale-data-hostile-1/</link>
       <pubDate>Thu, 29 Feb 2024 09:40:00 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>Is the LockBit gang resuming its operation?</title>
       <link>https://securityaffairs.com/159757/cyber-crime/lockbit-gang-resuming-operation.html</link>
       <pubDate>Thu, 29 Feb 2024 09:02:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Backdoor Targeting European Officials Linked to Indian Diplomatic Events</title>
-      <link>https://thehackernews.com/2024/02/new-backdoor-targeting-european.html</link>
-      <pubDate>Thu, 29 Feb 2024 08:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus Exploits Typos to Sneak PyPI Malware into Dev Systems</title>
-      <link>https://thehackernews.com/2024/02/lazarus-exploits-typos-to-sneak-pypi.html</link>
-      <pubDate>Thu, 29 Feb 2024 08:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus APT exploited zero-day in Windows driver to gain kernel privileges</title>
-      <link>https://securityaffairs.com/159728/apt/lazarus-exploited-zero-day-windows-applocker-driver.html</link>
-      <pubDate>Thu, 29 Feb 2024 08:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Election defense 2024.</title>
-      <link>https://thecyberwire.com/podcasts/caveat/207/notes</link>
-      <pubDate>Thu, 29 Feb 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navigating the post-password landscape.</title>
-      <link>https://thecyberwire.com/podcasts/hacking-humans/279/notes</link>
-      <pubDate>Thu, 29 Feb 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploiting Ivanti VPN Flaws to Deploy New Malware</title>
-      <link>https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html</link>
-      <pubDate>Thu, 29 Feb 2024 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>President Biden Blocks Mass Transfer of Personal Data to High-Risk Nations</title>
-      <link>https://thehackernews.com/2024/02/president-biden-blocks-mass-transfer-of.html</link>
-      <pubDate>Thu, 29 Feb 2024 05:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, February 29th, 2024 https://isc.sans.edu/podcastdetail/8874, (Thu, Feb 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/30702</link>
-      <pubDate>Thu, 29 Feb 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Guest Diary] Dissecting DarkGate: Modular Malware Delivery and Persistence as a Service., (Thu, Feb 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/30700</link>
-      <pubDate>Thu, 29 Feb 2024 01:41:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
