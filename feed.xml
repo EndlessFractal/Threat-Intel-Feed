@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Mar 2024 18:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 20:14:09 +0000</lastBuildDate>
     <item>
       <title>U.S. authorities charged an Iranian national for long-running hacking campaign</title>
       <link>https://securityaffairs.com/159837/hacking/us-charged-iranian-national.html</link>
@@ -163,6 +163,11 @@
       <pubDate>Fri, 01 Mar 2024 11:20:07 +0000</pubDate>
     </item>
     <item>
+      <title>Deceptive AI content and 2024 elections – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/deceptive-ai-content-2024-elections-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 01 Mar 2024 11:18:36 +0000</pubDate>
+    </item>
+    <item>
       <title>4 Instructive Postmortems on Data Downtime and Loss</title>
       <link>https://thehackernews.com/2024/03/4-instructive-postmortems-on-data.html</link>
       <pubDate>Fri, 01 Mar 2024 11:08:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Pharma Giant Cencora Reports Cybersecurity Breach</title>
       <link>https://www.infosecurity-magazine.com/news/cencora-reports-cybersecurity/</link>
       <pubDate>Thu, 29 Feb 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspected Iranian threat actor targets aerospace and defense entities.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/41</link>
-      <pubDate>Thu, 29 Feb 2024 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
