@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Mar 2024 14:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 16:20:00 +0000</lastBuildDate>
+    <item>
+      <title>Linux Malware Targets Docker, Apache Hadoop, Redis and Confluence</title>
+      <link>https://www.infosecurity-magazine.com/news/linux-malware-targets-docker/</link>
+      <pubDate>Wed, 06 Mar 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ALPHV ransomware gang fakes own death, fools no one</title>
+      <link>https://www.malwarebytes.com/blog/ransomware/2024/03/alphv-ransomware-gang-fakes-own-death-fools-no-one</link>
+      <pubDate>Wed, 06 Mar 2024 15:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine claims it hacked Russian Ministry of Defence, stole secrets and encryption ciphers</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/ukraine-claims-it-hacked-russian-ministry-of-defence-stole-secrets-and-encryption-ciphers/</link>
+      <pubDate>Wed, 06 Mar 2024 15:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capita says cyberattack contributed to annual loss of more than £106 million</title>
+      <link>https://therecord.media/capita-cyberattack-loss-of-hundred-million</link>
+      <pubDate>Wed, 06 Mar 2024 14:40:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA ADDS ANDROID PIXEL AND SUNHILLO SURELINE BUGS TO ITS KNOWN EXPLOITED VULNERABILITIES CATALOG</title>
+      <link>https://securityaffairs.com/160081/security/cisa-android-pixel-sunhillo-sureline-bugs-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 06 Mar 2024 14:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Agrees 'Cyber Solidarity Act' to Bolster Incident Response and Recovery</title>
+      <link>https://www.infosecurity-magazine.com/news/eu-cyber-solidarity-incident/</link>
+      <pubDate>Wed, 06 Mar 2024 14:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>How to Use Norton Secure VPN (A Step-by-Step Guide)</title>
       <link>https://www.techrepublic.com/article/how-to-use-norton-vpn/</link>
       <pubDate>Wed, 06 Mar 2024 14:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux kernel security tunables everyone should consider adopting</title>
+      <link>https://blog.cloudflare.com/linux-kernel-hardening</link>
+      <pubDate>Wed, 06 Mar 2024 14:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare treats SASE anxiety for VeloCloud customers</title>
+      <link>https://blog.cloudflare.com/treating-sase-anxiety</link>
+      <pubDate>Wed, 06 Mar 2024 14:00:40 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2024-27198 and CVE-2024-27199 Detection: Critical Vulnerabilities in JetBrains TeamCity Pose Escalating Risks with Exploits Underway</title>
@@ -35,6 +75,11 @@
     <item>
       <title>Cyber Pros Turn to Cybercrime as Salaries Stagnate</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-pros-cybercrime-salaries/</link>
+      <pubDate>Wed, 06 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware Releases Security Advisory for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/03/06/vmware-releases-security-advisory-multiple-products</link>
       <pubDate>Wed, 06 Mar 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -153,6 +198,11 @@
       <pubDate>Wed, 06 Mar 2024 00:22:56 +0000</pubDate>
     </item>
     <item>
+      <title>Ensuring Supply Chain Security and Stability: Effective Strategies</title>
+      <link>https://www.recordedfuture.com/blog/supply-chain-security-strategies</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Apple emergency security updates fix two new iOS zero-days</title>
       <link>https://securityaffairs.com/160048/hacking/apple-new-ios-zero-day-vulnerabilities.html</link>
       <pubDate>Tue, 05 Mar 2024 22:33:24 +0000</pubDate>
@@ -256,56 +306,6 @@
       <title>Perimeter Security Policy</title>
       <link>https://www.techrepublic.com/resource-library/toolstemplates/perimeter-security-policy/</link>
       <pubDate>Tue, 05 Mar 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US sanctions Predator spyware makers for targeting gov’t officials</title>
-      <link>https://therecord.media/predator-spyware-makers-sanctioned-for-targeting-government-officials</link>
-      <pubDate>Tue, 05 Mar 2024 15:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Santesoft Sante FFT Imaging</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-24-065-01</link>
-      <pubDate>Tue, 05 Mar 2024 15:46:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Your Firewall Will Kill You, (Tue, Mar 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/30714</link>
-      <pubDate>Tue, 05 Mar 2024 15:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korean Police Develops Deepfake Detection Tool Ahead of April Elections</title>
-      <link>https://www.infosecurity-magazine.com/news/south-korea-police-deepfake/</link>
-      <pubDate>Tue, 05 Mar 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA ADDS MICROSOFT WINDOWS KERNEL BUG USED BY LAZARUS APT TO ITS KNOWN EXPLOITED VULNERABILITIES CATALOG</title>
-      <link>https://securityaffairs.com/160009/hacking/cisa-adds-microsoft-windows-kernel-bug-used-by-lazarus-apt-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Tue, 05 Mar 2024 15:14:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>ALPHV/BlackCat Ransomware Servers Go Down</title>
-      <link>https://www.infosecurity-magazine.com/news/alphvblackcat-gang-shuts-servers/</link>
-      <pubDate>Tue, 05 Mar 2024 14:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure your unprotected assets with Security Center: quick view for CISOs</title>
-      <link>https://blog.cloudflare.com/security-insights-quick-ciso-view</link>
-      <pubDate>Tue, 05 Mar 2024 14:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protecting APIs with JWT Validation</title>
-      <link>https://blog.cloudflare.com/protecting-apis-with-jwt-validation</link>
-      <pubDate>Tue, 05 Mar 2024 14:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>American Express Warns Credit Card Data Exposed in Third-Party Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/amex-credit-card-data-exposed/</link>
-      <pubDate>Tue, 05 Mar 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From federation to fabric: IAM’s evolution</title>
-      <link>https://securityintelligence.com/posts/identity-and-access-management-evolution/</link>
-      <pubDate>Tue, 05 Mar 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
