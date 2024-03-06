@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Mar 2024 22:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 01:05:44 +0000</lastBuildDate>
+    <item>
+      <title>BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Healthcare</title>
+      <link>https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/</link>
+      <pubDate>Wed, 06 Mar 2024 00:22:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple emergency security updates fix two new iOS zero-days</title>
+      <link>https://securityaffairs.com/160048/hacking/apple-new-ios-zero-day-vulnerabilities.html</link>
+      <pubDate>Tue, 05 Mar 2024 22:33:24 +0000</pubDate>
+    </item>
     <item>
       <title>VMware urgent updates addressed Critical ESXi Sandbox Escape bugs</title>
       <link>https://securityaffairs.com/160037/security/vmware-critical-sandbox-escape-flaws.html</link>
@@ -296,16 +306,6 @@
       <title>Predator spyware operators rebuild infrastructure. NSO Group ordered to hand over Pegasus code in WhatsApp lawsuit.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/43</link>
       <pubDate>Mon, 04 Mar 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TA577 Exploits NTLM Authentication Vulnerability</title>
-      <link>https://www.infosecurity-magazine.com/news/ta577-exploits-ntlm-authentication/</link>
-      <pubDate>Mon, 04 Mar 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Banking Trojan “CHAVECLOAK” Targets Brazil</title>
-      <link>https://feeds.fortinet.com/~/873007589/0/fortinet/blog/threat-research~New-Banking-Trojan-%e2%80%9cCHAVECLOAK%e2%80%9d-Targets-Brazil</link>
-      <pubDate>Mon, 04 Mar 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
