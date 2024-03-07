@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Mar 2024 08:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 10:15:05 +0000</lastBuildDate>
+    <item>
+      <title>Spam and phishing in 2023</title>
+      <link>https://securelist.com/spam-phishing-report-2023/112015/</link>
+      <pubDate>Thu, 07 Mar 2024 10:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hundreds of Rogue Users Added to Unpatched TeamCity Servers</title>
+      <link>https://www.infosecurity-magazine.com/news/hundreds-rogue-users-unpatched/</link>
+      <pubDate>Thu, 07 Mar 2024 09:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>CISA adds Apple iOS and iPadOS memory corruption bugs to its Known Exploited Vulnerabilities Catalog</title>
       <link>https://securityaffairs.com/160124/security/cisa-apple-ios-and-ipados-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
@@ -16,6 +26,11 @@
       <title>Welcoming the German Government to Have I Been Pwned</title>
       <link>https://www.troyhunt.com/welcoming-the-german-government-to-have-i-been-pwned/</link>
       <pubDate>Thu, 07 Mar 2024 07:51:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Python-Based Snake Info Stealer Spreading Through Facebook Messages</title>
+      <link>https://thehackernews.com/2024/03/new-python-based-snake-info-stealer.html</link>
+      <pubDate>Thu, 07 Mar 2024 07:39:00 +0000</pubDate>
     </item>
     <item>
       <title>Linux Malware targets misconfigured misconfigured Apache Hadoop, Confluence, Docker, and Redis servers</title>
@@ -291,21 +306,6 @@
       <title>BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Healthcare</title>
       <link>https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/</link>
       <pubDate>Wed, 06 Mar 2024 00:22:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ensuring Supply Chain Security and Stability: Effective Strategies</title>
-      <link>https://www.recordedfuture.com/blog/supply-chain-security-strategies</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple emergency security updates fix two new iOS zero-days</title>
-      <link>https://securityaffairs.com/160048/hacking/apple-new-ios-zero-day-vulnerabilities.html</link>
-      <pubDate>Tue, 05 Mar 2024 22:33:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware urgent updates addressed Critical ESXi Sandbox Escape bugs</title>
-      <link>https://securityaffairs.com/160037/security/vmware-critical-sandbox-escape-flaws.html</link>
-      <pubDate>Tue, 05 Mar 2024 21:47:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
