@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Mar 2024 06:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 08:18:29 +0000</lastBuildDate>
+    <item>
+      <title>CISA Warns of Actively Exploited JetBrains TeamCity Vulnerability</title>
+      <link>https://thehackernews.com/2024/03/cisa-warns-of-actively-exploited.html</link>
+      <pubDate>Fri, 08 Mar 2024 06:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Friday, March 8th, 2024 https://isc.sans.edu/podcastdetail/8886, (Fri, Mar 8th)</title>
       <link>https://isc.sans.edu/diary/rss/30728</link>
@@ -301,11 +306,6 @@
       <title>CISA observed no "specific or credible threats" during Super Tuesday voting. GhostSec cybercriminal group teams up with Stormous ransomware gang.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/45</link>
       <pubDate>Wed, 06 Mar 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Misconfigured YARN, Docker, Confluence, Redis Servers for Crypto Mining</title>
-      <link>https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html</link>
-      <pubDate>Wed, 06 Mar 2024 16:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
