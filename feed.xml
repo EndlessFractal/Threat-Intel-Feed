@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Mar 2024 01:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 02:21:59 +0000</lastBuildDate>
+    <item>
+      <title>MacOS Patches (and Safari, TVOS, VisionOS, WatchOS), (Fri, Mar 8th)</title>
+      <link>https://isc.sans.edu/diary/rss/30726</link>
+      <pubDate>Fri, 08 Mar 2024 00:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Play ransomware leaked 65,000 Swiss government documents, investigation finds</title>
       <link>https://therecord.media/play-ransomware-leaked-government-files-swiss</link>
@@ -136,36 +141,6 @@
       <title>How Public AI Can Strengthen Democracy</title>
       <link>https://www.schneier.com/blog/archives/2024/03/how-public-ai-can-strengthen-democracy.html</link>
       <pubDate>Thu, 07 Mar 2024 12:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chirp Systems Chirp Access</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-067-01</link>
-      <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices</link>
-      <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Releases Security Updates for iOS and iPadOS</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/07/apple-releases-security-updates-ios-and-ipados</link>
-      <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-releases-one-industrial-control-systems-advisory</link>
-      <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog</link>
-      <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Releases Security Updates for Secure Client</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/07/cisco-releases-security-updates-secure-client</link>
-      <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TODDLERSHARK Malware Detection: Hackers Weaponize CVE-2024-1708 and CVE-2024-1709 Vulnerabilities to Deploy a New BABYSHARK Variant</title>
@@ -306,6 +281,31 @@
       <title>Best of KB4-CON 2024: The State of Phishing, Hacking and Security Awareness Training</title>
       <link>https://www.techrepublic.com/resource-library/downloads/kb4-con-2024-phishing-hacking-security-awareness-training/</link>
       <pubDate>Wed, 06 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ALPHV ransomware gang fakes own death, fools no one</title>
+      <link>https://www.malwarebytes.com/blog/ransomware/2024/03/alphv-ransomware-gang-fakes-own-death-fools-no-one</link>
+      <pubDate>Wed, 06 Mar 2024 15:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine claims it hacked Russian Ministry of Defence, stole secrets and encryption ciphers</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/ukraine-claims-it-hacked-russian-ministry-of-defence-stole-secrets-and-encryption-ciphers/</link>
+      <pubDate>Wed, 06 Mar 2024 15:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exit Scam: BlackCat Ransomware Group Vanishes After $22 Million Payout</title>
+      <link>https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html</link>
+      <pubDate>Wed, 06 Mar 2024 15:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA ADDS ANDROID PIXEL AND SUNHILLO SURELINE BUGS TO ITS KNOWN EXPLOITED VULNERABILITIES CATALOG</title>
+      <link>https://securityaffairs.com/160081/security/cisa-android-pixel-sunhillo-sureline-bugs-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 06 Mar 2024 14:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Agrees 'Cyber Solidarity Act' to Bolster Incident Response and Recovery</title>
+      <link>https://www.infosecurity-magazine.com/news/eu-cyber-solidarity-incident/</link>
+      <pubDate>Wed, 06 Mar 2024 14:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
