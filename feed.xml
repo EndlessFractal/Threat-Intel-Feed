@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Mar 2024 16:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 18:17:16 +0000</lastBuildDate>
+    <item>
+      <title>Critical Fortinet FortiOS bug CVE-2024-21762 potentially impacts 150,000 internet-facing devices</title>
+      <link>https://securityaffairs.com/160224/hacking/fortios-bug-cve-2024-21762-150k-devices.html</link>
+      <pubDate>Sat, 09 Mar 2024 16:15:25 +0000</pubDate>
+    </item>
     <item>
       <title>Paysign investigating reports of consumer information data breach</title>
       <link>https://therecord.media/paysign-investigating-reports-of-data-breach</link>
@@ -88,6 +93,11 @@
       <pubDate>Fri, 08 Mar 2024 17:22:02 +0000</pubDate>
     </item>
     <item>
+      <title>International Women’s Day: Expanding cybersecurity opportunities in the era of AI</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/03/08/international-womens-day-expanding-cybersecurity-opportunities-in-the-era-of-ai/</link>
+      <pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Evasive Panda leverages Monlam Prayer Festival to target Tibetans. TeamCity flaw is undergoing widespread exploitation.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/47</link>
       <pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
@@ -151,11 +161,6 @@
       <title>Five Ways to Inspire Inclusion Through Allyship</title>
       <link>https://www.sentinelone.com/blog/five-ways-to-inspire-inclusion-through-allyship/</link>
       <pubDate>Fri, 08 Mar 2024 13:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT attacks taking aim at Tibetans – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/apt-attacks-tibetans-week-security-tony-anscombe/</link>
-      <pubDate>Fri, 08 Mar 2024 12:35:22 +0000</pubDate>
     </item>
     <item>
       <title>Update now! JetBrains TeamCity vulnerability abused at scale</title>
@@ -301,11 +306,6 @@
       <title>Hacked WordPress Sites Abusing Visitors' Browsers for Distributed Brute-Force Attacks</title>
       <link>https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html</link>
       <pubDate>Thu, 07 Mar 2024 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese State Hackers Target Tibetans with Supply Chain, Watering Hole Attacks</title>
-      <link>https://thehackernews.com/2024/03/chinese-state-hackers-target-tibetans.html</link>
-      <pubDate>Thu, 07 Mar 2024 13:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
