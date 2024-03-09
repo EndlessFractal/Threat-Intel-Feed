@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Mar 2024 22:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 01:02:53 +0000</lastBuildDate>
+    <item>
+      <title>Threat Group Assessment: Muddled Libra (Updated)</title>
+      <link>https://unit42.paloaltonetworks.com/muddled-libra/</link>
+      <pubDate>Fri, 08 Mar 2024 22:58:37 +0000</pubDate>
+    </item>
     <item>
       <title>Friday Squid Blogging: New Plant Looks Like a Squid</title>
       <link>https://www.schneier.com/blog/archives/2024/03/friday-squid-blogging-new-plant-looks-like-a-squid.html</link>
@@ -301,11 +306,6 @@
       <title>How Public AI Can Strengthen Democracy</title>
       <link>https://www.schneier.com/blog/archives/2024/03/how-public-ai-can-strengthen-democracy.html</link>
       <pubDate>Thu, 07 Mar 2024 12:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chirp Systems Chirp Access</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-067-01</link>
-      <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
