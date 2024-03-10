@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Mar 2024 22:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 01:09:40 +0000</lastBuildDate>
+    <item>
+      <title>Threat actors breached two crucial systems of the US CISA</title>
+      <link>https://securityaffairs.com/160246/hacking/us-cisa-systems-hacked.html</link>
+      <pubDate>Sat, 09 Mar 2024 23:25:11 +0000</pubDate>
+    </item>
     <item>
       <title>CISA adds JetBrains TeamCity bug to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/160236/security/jetbrains-teamcity-bug-cisa-known-exploited-vulnerabilities-catalog.html</link>
@@ -98,11 +103,6 @@
       <pubDate>Fri, 08 Mar 2024 17:22:02 +0000</pubDate>
     </item>
     <item>
-      <title>International Women’s Day: Expanding cybersecurity opportunities in the era of AI</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/03/08/international-womens-day-expanding-cybersecurity-opportunities-in-the-era-of-ai/</link>
-      <pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Evasive Panda leverages Monlam Prayer Festival to target Tibetans. TeamCity flaw is undergoing widespread exploitation.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/47</link>
       <pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
@@ -166,6 +166,11 @@
       <title>Five Ways to Inspire Inclusion Through Allyship</title>
       <link>https://www.sentinelone.com/blog/five-ways-to-inspire-inclusion-through-allyship/</link>
       <pubDate>Fri, 08 Mar 2024 13:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT attacks taking aim at Tibetans – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/apt-attacks-tibetans-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 08 Mar 2024 12:35:22 +0000</pubDate>
     </item>
     <item>
       <title>Update now! JetBrains TeamCity vulnerability abused at scale</title>
@@ -301,11 +306,6 @@
       <title>Governments Eye Disclosure Requirements for AI Development Labs</title>
       <link>https://www.infosecurity-magazine.com/news/governments-disclosure/</link>
       <pubDate>Thu, 07 Mar 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building secure websites: a guide to Cloudflare Pages and Turnstile Plugin</title>
-      <link>https://blog.cloudflare.com/guide-to-cloudflare-pages-and-turnstile-plugin</link>
-      <pubDate>Thu, 07 Mar 2024 14:00:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
