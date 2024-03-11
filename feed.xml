@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Mar 2024 18:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 20:17:36 +0000</lastBuildDate>
+    <item>
+      <title>CISA’s news trifecta.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/2021/notes</link>
+      <pubDate>Mon, 11 Mar 2024 20:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>French government agencies hit by cyberattacks of ‘unprecedented intensity’</title>
       <link>https://therecord.media/france-government-ddos-incident</link>
@@ -21,6 +26,11 @@
       <title>Roku cancels unauthorized subscriptions and provides refunds for 15k breached accounts</title>
       <link>https://therecord.media/roku-unauthorized-subscriptions-account-refunds</link>
       <pubDate>Mon, 11 Mar 2024 17:17:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>OneLogin vs. Okta (2024): Which IAM Solution Is Better?</title>
+      <link>https://www.techrepublic.com/article/onelogin-vs-okta/</link>
+      <pubDate>Mon, 11 Mar 2024 17:09:34 +0000</pubDate>
     </item>
     <item>
       <title>Magnet Goblin Exploits Ivanti Vulnerabilities</title>
@@ -263,14 +273,14 @@
       <pubDate>Fri, 08 Mar 2024 14:16:29 +0000</pubDate>
     </item>
     <item>
+      <title>Log Explorer: monitor security events without third-party storage</title>
+      <link>https://blog.cloudflare.com/log-explorer</link>
+      <pubDate>Fri, 08 Mar 2024 14:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 10</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-10-5/</link>
       <pubDate>Fri, 08 Mar 2024 14:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Log Explorer: monitor security events without third-party storage</title>
-      <link>https://blog.cloudflare.com/log-explorer</link>
-      <pubDate>Fri, 08 Mar 2024 14:00:19 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Requests for Information (RFIs) and Priority Intelligence Requirements (PIRs) for threat intelligence teams</title>
@@ -296,16 +306,6 @@
       <title>A Close Up Look at the Consumer Data Broker Radaris</title>
       <link>https://krebsonsecurity.com/2024/03/a-close-up-look-at-the-consumer-data-broker-radaris/</link>
       <pubDate>Fri, 08 Mar 2024 13:02:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five Ways to Inspire Inclusion Through Allyship</title>
-      <link>https://www.sentinelone.com/blog/five-ways-to-inspire-inclusion-through-allyship/</link>
-      <pubDate>Fri, 08 Mar 2024 13:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT attacks taking aim at Tibetans – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/apt-attacks-tibetans-week-security-tony-anscombe/</link>
-      <pubDate>Fri, 08 Mar 2024 12:35:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
