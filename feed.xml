@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Mar 2024 01:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 02:22:00 +0000</lastBuildDate>
+    <item>
+      <title>What happens when you accidentally leak your AWS API keys? [Guest Diary], (Sun, Mar 10th)</title>
+      <link>https://isc.sans.edu/diary/rss/30730</link>
+      <pubDate>Mon, 11 Mar 2024 01:12:57 +0000</pubDate>
+    </item>
     <item>
       <title>Distribution of MSIX Malware Disguised as Notion Installer</title>
       <link>https://asec.ahnlab.com/en/62815/</link>
@@ -136,6 +141,11 @@
       <title>The White House Should Prioritize Cybersecurity in its Budget</title>
       <link>https://www.hackerone.com/public-policy/white-house-budget-cybersecurity</link>
       <pubDate>Fri, 08 Mar 2024 17:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>International Women’s Day: Expanding cybersecurity opportunities in the era of AI</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/03/08/international-womens-day-expanding-cybersecurity-opportunities-in-the-era-of-ai/</link>
+      <pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Evasive Panda leverages Monlam Prayer Festival to target Tibetans. TeamCity flaw is undergoing widespread exploitation.</title>
@@ -288,24 +298,14 @@
       <pubDate>Thu, 07 Mar 2024 17:19:02 +0000</pubDate>
     </item>
     <item>
+      <title>Evolving Microsoft Security Development Lifecycle (SDL): How continuous SDL can help you build more secure software</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/03/07/evolving-microsoft-security-development-lifecycle-sdl-how-continuous-sdl-can-help-you-build-more-secure-software/</link>
+      <pubDate>Thu, 07 Mar 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>RATs Spread Via Fake Skype, Zoom, Google Meet Sites</title>
       <link>https://www.infosecurity-magazine.com/news/rats-fake-skype-zoom-google-meet/</link>
       <pubDate>Thu, 07 Mar 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former Google engineer charged with stealing AI-related trade secrets. Ontario city responds to ransomware attack.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/46</link>
-      <pubDate>Thu, 07 Mar 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inspiring Inclusion: Sophos Celebrates International Women’s Day 2024</title>
-      <link>https://news.sophos.com/en-us/2024/03/07/inspiring-inclusion-sophos-celebrates-international-womens-day-2024/</link>
-      <pubDate>Thu, 07 Mar 2024 16:55:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Best VPNs for Social Media in 2024 (Free &amp; Paid VPNs)</title>
-      <link>https://www.techrepublic.com/article/best-vpn-for-social-media/</link>
-      <pubDate>Thu, 07 Mar 2024 16:42:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
