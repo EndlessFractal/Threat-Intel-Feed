@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Mar 2024 12:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 14:14:17 +0000</lastBuildDate>
+    <item>
+      <title>NSA Launches Top 10 Cloud Security Mitigation Strategies</title>
+      <link>https://www.infosecurity-magazine.com/news/nsa-top-10-cloud-security/</link>
+      <pubDate>Mon, 11 Mar 2024 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the Belarusian Cyber Partisans are fighting a digital war against two dictators</title>
+      <link>https://therecord.media/belarusian-cyber-partisans-operations-politics-russia-ukraine</link>
+      <pubDate>Mon, 11 Mar 2024 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Third-Party Breach and Missing MFA Contributed to British Library Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/third-party-mfa-british-library/</link>
+      <pubDate>Mon, 11 Mar 2024 12:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Belgian village whose brewery was hit by cyberattack faces another on its coffee roastery</title>
       <link>https://therecord.media/koffie-beyers-cyberattack-coffee-roaster-duvel-belgium</link>
@@ -143,11 +158,6 @@
       <pubDate>Sat, 09 Mar 2024 16:15:25 +0000</pubDate>
     </item>
     <item>
-      <title>Paysign investigating reports of consumer information data breach</title>
-      <link>https://therecord.media/paysign-investigating-reports-of-data-breach</link>
-      <pubDate>Sat, 09 Mar 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Understanding the multi-tiered impact of ransomware.</title>
       <link>https://thecyberwire.com/podcasts/research-saturday/320/notes</link>
       <pubDate>Sat, 09 Mar 2024 06:00:00 +0000</pubDate>
@@ -213,6 +223,11 @@
       <pubDate>Fri, 08 Mar 2024 17:22:02 +0000</pubDate>
     </item>
     <item>
+      <title>International Women’s Day: Expanding cybersecurity opportunities in the era of AI</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/03/08/international-womens-day-expanding-cybersecurity-opportunities-in-the-era-of-ai/</link>
+      <pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Evasive Panda leverages Monlam Prayer Festival to target Tibetans. TeamCity flaw is undergoing widespread exploitation.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/47</link>
       <pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
@@ -223,14 +238,14 @@
       <pubDate>Fri, 08 Mar 2024 14:16:29 +0000</pubDate>
     </item>
     <item>
-      <title>Log Explorer: monitor security events without third-party storage</title>
-      <link>https://blog.cloudflare.com/log-explorer</link>
-      <pubDate>Fri, 08 Mar 2024 14:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 10</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-10-5/</link>
       <pubDate>Fri, 08 Mar 2024 14:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Log Explorer: monitor security events without third-party storage</title>
+      <link>https://blog.cloudflare.com/log-explorer</link>
+      <pubDate>Fri, 08 Mar 2024 14:00:19 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Requests for Information (RFIs) and Priority Intelligence Requirements (PIRs) for threat intelligence teams</title>
@@ -291,21 +306,6 @@
       <title>Secrets Sensei: Conquering Secrets Management Challenges</title>
       <link>https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html</link>
       <pubDate>Fri, 08 Mar 2024 09:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enjoy 2 Years of Unrestricted Access to Your Favorite Content for Only $40</title>
-      <link>https://www.techrepublic.com/article/unlocator-vpn-free-smart-dns-subscription/</link>
-      <pubDate>Fri, 08 Mar 2024 09:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Issues Patch for High-Severity VPN Hijacking Bug in Secure Client</title>
-      <link>https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html</link>
-      <pubDate>Fri, 08 Mar 2024 08:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QEMU Emulator Exploited as Tunneling Tool to Breach Company Network</title>
-      <link>https://thehackernews.com/2024/03/cybercriminals-utilize-qemu-emulator-as.html</link>
-      <pubDate>Fri, 08 Mar 2024 07:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
