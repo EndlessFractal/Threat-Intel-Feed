@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Mar 2024 10:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 12:28:31 +0000</lastBuildDate>
+    <item>
+      <title>Belgian village whose brewery was hit by cyberattack faces another on its coffee roastery</title>
+      <link>https://therecord.media/koffie-beyers-cyberattack-coffee-roaster-duvel-belgium</link>
+      <pubDate>Mon, 11 Mar 2024 12:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts released PoC exploit for critical Progress Software OpenEdge bug</title>
+      <link>https://securityaffairs.com/160347/hacking/progress-software-openedge-critical-flaw.html</link>
+      <pubDate>Mon, 11 Mar 2024 11:51:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Child protection among critical services affected by cyberattack on English council</title>
+      <link>https://therecord.media/leicester-uk-cyberattack-local-council</link>
+      <pubDate>Mon, 11 Mar 2024 11:49:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Leakage Prevention in the Age of Cloud Computing: A New Approach</title>
+      <link>https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html</link>
+      <pubDate>Mon, 11 Mar 2024 11:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using LLMs to Unredact Text</title>
+      <link>https://www.schneier.com/blog/archives/2024/03/using-llms-to-unredact-text.html</link>
+      <pubDate>Mon, 11 Mar 2024 11:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Magnet Goblin group used a new Linux variant of NerbianRAT malware</title>
+      <link>https://securityaffairs.com/160274/cyber-crime/magnet-goblin-nerbianrat-attacks.html</link>
+      <pubDate>Mon, 11 Mar 2024 10:45:33 +0000</pubDate>
+    </item>
     <item>
       <title>Telemedicine Business Owner Faces 20 Years For $136m Fraud</title>
       <link>https://www.infosecurity-magazine.com/news/telemedicine-business-20-years/</link>
       <pubDate>Mon, 11 Mar 2024 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks</title>
+      <link>https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html</link>
+      <pubDate>Mon, 11 Mar 2024 09:53:00 +0000</pubDate>
     </item>
     <item>
       <title>Russia’s Midnight Blizzard Accesses Microsoft Source Code</title>
@@ -138,11 +173,6 @@
       <pubDate>Fri, 08 Mar 2024 22:11:17 +0000</pubDate>
     </item>
     <item>
-      <title>Dozens of data brokers disclose selling reproductive healthcare info, precise geolocation and data belonging to minors</title>
-      <link>https://therecord.media/dozens-of-data-brokers-disclose-selling-info-on-kids-geolocation-data-reproductive-health</link>
-      <pubDate>Fri, 08 Mar 2024 21:39:30 +0000</pubDate>
-    </item>
-    <item>
       <title>QNAP fixed three flaws in its NAS devices, including an authentication bypass</title>
       <link>https://securityaffairs.com/160217/iot/qnap-nas-products-flaws.html</link>
       <pubDate>Fri, 08 Mar 2024 21:20:05 +0000</pubDate>
@@ -171,11 +201,6 @@
       <title>Russia-linked Midnight Blizzard breached Microsoft systems again</title>
       <link>https://securityaffairs.com/160207/hacking/russia-midnight-blizzard-breached-microsoft.html</link>
       <pubDate>Fri, 08 Mar 2024 19:02:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA forced to take two systems offline last month after Ivanti compromise</title>
-      <link>https://therecord.media/cisa-takes-two-systems-offline-following-ivanti-compromise</link>
-      <pubDate>Fri, 08 Mar 2024 18:40:58 +0000</pubDate>
     </item>
     <item>
       <title>Essays from the Second IWORD</title>
@@ -216,11 +241,6 @@
       <title>Cloudflare’s URL Scanner, new features, and the story of how we built it</title>
       <link>https://blog.cloudflare.com/building-urlscanner</link>
       <pubDate>Fri, 08 Mar 2024 14:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco addressed severe flaws in its Secure Client</title>
-      <link>https://securityaffairs.com/160197/security/cisco-secure-client-flaws.html</link>
-      <pubDate>Fri, 08 Mar 2024 13:59:44 +0000</pubDate>
     </item>
     <item>
       <title>Dropbox Used to Steal Credentials and Bypass MFA in Novel Phishing Campaign</title>
@@ -278,11 +298,6 @@
       <pubDate>Fri, 08 Mar 2024 09:15:48 +0000</pubDate>
     </item>
     <item>
-      <title>Play ransomware attack on Xplain exposed 65,000 files containing data relevant to the Swiss Federal Administration.</title>
-      <link>https://securityaffairs.com/160174/data-breach/xplain-data-breach-report.html</link>
-      <pubDate>Fri, 08 Mar 2024 08:34:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cisco Issues Patch for High-Severity VPN Hijacking Bug in Secure Client</title>
       <link>https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html</link>
       <pubDate>Fri, 08 Mar 2024 08:09:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>QEMU Emulator Exploited as Tunneling Tool to Breach Company Network</title>
       <link>https://thehackernews.com/2024/03/cybercriminals-utilize-qemu-emulator-as.html</link>
       <pubDate>Fri, 08 Mar 2024 07:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Actively Exploited JetBrains TeamCity Vulnerability</title>
-      <link>https://thehackernews.com/2024/03/cisa-warns-of-actively-exploited.html</link>
-      <pubDate>Fri, 08 Mar 2024 06:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, March 8th, 2024 https://isc.sans.edu/podcastdetail/8886, (Fri, Mar 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/30728</link>
-      <pubDate>Fri, 08 Mar 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>MacOS Patches (and Safari, TVOS, VisionOS, WatchOS), (Fri, Mar 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/30726</link>
-      <pubDate>Fri, 08 Mar 2024 00:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
