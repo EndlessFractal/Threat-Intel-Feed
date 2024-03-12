@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Mar 2024 02:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 04:20:33 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Tuesday, March 12th, 2024 https://isc.sans.edu/podcastdetail/8890, (Tue, Mar 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/30734</link>
+      <pubDate>Tue, 12 Mar 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Infostealer Disguised as Adobe Reader Installer</title>
       <link>https://asec.ahnlab.com/en/62853/</link>
@@ -273,6 +278,11 @@
       <pubDate>Fri, 08 Mar 2024 17:22:02 +0000</pubDate>
     </item>
     <item>
+      <title>International Women’s Day: Expanding cybersecurity opportunities in the era of AI</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/03/08/international-womens-day-expanding-cybersecurity-opportunities-in-the-era-of-ai/</link>
+      <pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Evasive Panda leverages Monlam Prayer Festival to target Tibetans. TeamCity flaw is undergoing widespread exploitation.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/47</link>
       <pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Introducing Requests for Information (RFIs) and Priority Intelligence Requirements (PIRs) for threat intelligence teams</title>
       <link>https://blog.cloudflare.com/threat-intel-rfi-pir</link>
       <pubDate>Fri, 08 Mar 2024 14:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare’s URL Scanner, new features, and the story of how we built it</title>
-      <link>https://blog.cloudflare.com/building-urlscanner</link>
-      <pubDate>Fri, 08 Mar 2024 14:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dropbox Used to Steal Credentials and Bypass MFA in Novel Phishing Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/dropbox-credentials-bypass-mfa/</link>
-      <pubDate>Fri, 08 Mar 2024 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
