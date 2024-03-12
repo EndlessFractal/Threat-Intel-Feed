@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Mar 2024 18:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 20:16:50 +0000</lastBuildDate>
+    <item>
+      <title>Biden's budget boost for cybersecurity.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/2022/notes</link>
+      <pubDate>Tue, 12 Mar 2024 20:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian independent media outlet Meduza faces ‘most intense cyber campaign’ ever</title>
+      <link>https://therecord.media/meduza-independent-russian-media-organization-cyberattacks</link>
+      <pubDate>Tue, 12 Mar 2024 19:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware review: March 2024</title>
+      <link>https://www.malwarebytes.com/blog/threat-intelligence/2024/03/ransomware-review-march-2024</link>
+      <pubDate>Tue, 12 Mar 2024 18:42:44 +0000</pubDate>
+    </item>
     <item>
       <title>Another Patch Tuesday with no zero-days, only two critical vulnerabilities disclosed by Microsoft</title>
       <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-march-2024/</link>
       <pubDate>Tue, 12 Mar 2024 18:07:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday - March 2024, (Tue, Mar 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/30736</link>
+      <pubDate>Tue, 12 Mar 2024 17:53:50 +0000</pubDate>
     </item>
     <item>
       <title>Study Reveals Top Vulnerabilities in Corporate Web Applications</title>
@@ -26,6 +46,11 @@
       <title>US Intelligence Predicts Upcoming Cyber Threats for 2024</title>
       <link>https://www.infosecurity-magazine.com/news/us-intelligence-predicts-cyber/</link>
       <pubDate>Tue, 12 Mar 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Recognises The Work Of Ethical Hackers With An Appreciation Event</title>
+      <link>https://www.hackerone.com/customer-stories/ncsc-appreciation-event</link>
+      <pubDate>Tue, 12 Mar 2024 16:18:05 +0000</pubDate>
     </item>
     <item>
       <title>New Cloud Attack Targets Crypto CDN Meson Ahead of Launch</title>
@@ -73,8 +98,23 @@
       <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products</link>
+      <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Publishes SCuBA Hybrid Identity Solutions Guidance</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance</link>
+      <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products</link>
+      <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products</link>
       <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -183,11 +223,6 @@
       <pubDate>Mon, 11 Mar 2024 17:24:16 +0000</pubDate>
     </item>
     <item>
-      <title>Roku cancels unauthorized subscriptions and provides refunds for 15k breached accounts</title>
-      <link>https://therecord.media/roku-unauthorized-subscriptions-account-refunds</link>
-      <pubDate>Mon, 11 Mar 2024 17:17:23 +0000</pubDate>
-    </item>
-    <item>
       <title>OneLogin vs. Okta (2024): Which IAM Solution Is Better?</title>
       <link>https://www.techrepublic.com/article/onelogin-vs-okta/</link>
       <pubDate>Mon, 11 Mar 2024 17:09:34 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Russia’s Midnight Blizzard Accesses Microsoft Source Code</title>
       <link>https://www.infosecurity-magazine.com/news/russias-midnight-blizzard/</link>
       <pubDate>Mon, 11 Mar 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>If your Business Needs Cybersecurity, you Should Become the Expert</title>
-      <link>https://www.techrepublic.com/article/complete-2023-cyber-security-developer-it-skills-bundle/</link>
-      <pubDate>Mon, 11 Mar 2024 09:29:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (March 4 – March 10)</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/03/a-week-in-security-march-4-march-10</link>
-      <pubDate>Mon, 11 Mar 2024 08:35:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers exploited WordPress Popup Builder plugin flaw to compromise 3,300 sites</title>
-      <link>https://securityaffairs.com/160329/hacking/wordpress-popup-builder-plugin-bug.html</link>
-      <pubDate>Mon, 11 Mar 2024 07:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proof-of-Concept Exploit Released for Progress Software OpenEdge Vulnerability</title>
-      <link>https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html</link>
-      <pubDate>Mon, 11 Mar 2024 06:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Magnet Goblin Hacker Group Leveraging 1-Day Exploits to Deploy Nerbian RAT</title>
-      <link>https://thehackernews.com/2024/03/magnet-goblin-hacker-group-leveraging-1.html</link>
-      <pubDate>Mon, 11 Mar 2024 05:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, March 11th, 2024 https://isc.sans.edu/podcastdetail/8888, (Mon, Mar 11th)</title>
-      <link>https://isc.sans.edu/diary/rss/30732</link>
-      <pubDate>Mon, 11 Mar 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>What happens when you accidentally leak your AWS API keys? [Guest Diary], (Sun, Mar 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/30730</link>
-      <pubDate>Mon, 11 Mar 2024 01:12:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
