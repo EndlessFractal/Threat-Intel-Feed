@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Mar 2024 20:16:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 22:13:55 +0000</lastBuildDate>
+    <item>
+      <title>JetBrains vulnerability exploitation highlights debate over 'silent patching'</title>
+      <link>https://therecord.media/jetbrains-rapid7-silent-patching-dispute</link>
+      <pubDate>Tue, 12 Mar 2024 21:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday security updates for March 2024 fixed 59 flaws</title>
+      <link>https://securityaffairs.com/160412/security/microsoft-patch-tuesday-march-2024.html</link>
+      <pubDate>Tue, 12 Mar 2024 21:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday, March 2024 Edition</title>
+      <link>https://krebsonsecurity.com/2024/03/patch-tuesday-march-2024-edition/</link>
+      <pubDate>Tue, 12 Mar 2024 20:36:33 +0000</pubDate>
+    </item>
     <item>
       <title>Biden's budget boost for cybersecurity.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/2022/notes</link>
       <pubDate>Tue, 12 Mar 2024 20:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>59 CVEs primed for Microsoft’s March Patch Tuesday</title>
+      <link>https://news.sophos.com/en-us/2024/03/12/59-cves-primed-for-microsofts-march-patch-tuesday/</link>
+      <pubDate>Tue, 12 Mar 2024 19:57:48 +0000</pubDate>
     </item>
     <item>
       <title>Russian independent media outlet Meduza faces ‘most intense cyber campaign’ ever</title>
@@ -218,11 +238,6 @@
       <pubDate>Mon, 11 Mar 2024 17:27:44 +0000</pubDate>
     </item>
     <item>
-      <title>ODNI releases new open-source intelligence strategy with limited details</title>
-      <link>https://therecord.media/odni-osint-strategy-few-details</link>
-      <pubDate>Mon, 11 Mar 2024 17:24:16 +0000</pubDate>
-    </item>
-    <item>
       <title>OneLogin vs. Okta (2024): Which IAM Solution Is Better?</title>
       <link>https://www.techrepublic.com/article/onelogin-vs-okta/</link>
       <pubDate>Mon, 11 Mar 2024 17:09:34 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Magnet Goblin group used a new Linux variant of NerbianRAT malware</title>
       <link>https://securityaffairs.com/160274/cyber-crime/magnet-goblin-nerbianrat-attacks.html</link>
       <pubDate>Mon, 11 Mar 2024 10:45:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telemedicine Business Owner Faces 20 Years For $136m Fraud</title>
-      <link>https://www.infosecurity-magazine.com/news/telemedicine-business-20-years/</link>
-      <pubDate>Mon, 11 Mar 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks</title>
-      <link>https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html</link>
-      <pubDate>Mon, 11 Mar 2024 09:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia’s Midnight Blizzard Accesses Microsoft Source Code</title>
-      <link>https://www.infosecurity-magazine.com/news/russias-midnight-blizzard/</link>
-      <pubDate>Mon, 11 Mar 2024 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
