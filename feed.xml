@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Mar 2024 22:13:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 01:06:47 +0000</lastBuildDate>
+    <item>
+      <title>FakeBat delivered via several active malvertising campaigns</title>
+      <link>https://www.malwarebytes.com/blog/threat-intelligence/2024/03/fakebat-delivered-via-several-active-malvertising-campaigns</link>
+      <pubDate>Tue, 12 Mar 2024 23:02:52 +0000</pubDate>
+    </item>
     <item>
       <title>JetBrains vulnerability exploitation highlights debate over 'silent patching'</title>
       <link>https://therecord.media/jetbrains-rapid7-silent-patching-dispute</link>
@@ -301,11 +306,6 @@
       <title>Using LLMs to Unredact Text</title>
       <link>https://www.schneier.com/blog/archives/2024/03/using-llms-to-unredact-text.html</link>
       <pubDate>Mon, 11 Mar 2024 11:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Magnet Goblin group used a new Linux variant of NerbianRAT malware</title>
-      <link>https://securityaffairs.com/160274/cyber-crime/magnet-goblin-nerbianrat-attacks.html</link>
-      <pubDate>Mon, 11 Mar 2024 10:45:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
