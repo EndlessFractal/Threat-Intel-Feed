@@ -6,16 +6,56 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Mar 2024 10:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 12:27:57 +0000</lastBuildDate>
+    <item>
+      <title>Threat actors leverage document publishing sites for ongoing credential and session token theft</title>
+      <link>https://blog.talosintelligence.com/threat-actors-leveraging-document-publishing-sites/</link>
+      <pubDate>Wed, 13 Mar 2024 12:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acer Philippines disclosed a data breach after a third-party vendor hack</title>
+      <link>https://securityaffairs.com/160432/data-breach/acer-philippines-data-breach.html</link>
+      <pubDate>Wed, 13 Mar 2024 11:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s in your notepad? Infected text editors target Chinese users</title>
+      <link>https://securelist.com/trojanized-text-editor-apps/112167/</link>
+      <pubDate>Wed, 13 Mar 2024 11:29:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Burglars Using Wi-Fi Jammers to Disable Security Cameras</title>
+      <link>https://www.schneier.com/blog/archives/2024/03/burglars-using-wi-fi-jammers-to-disable-security-cameras.html</link>
+      <pubDate>Wed, 13 Mar 2024 11:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos named a Leader in the 2024 IDC MarketScape for Worldwide Modern Endpoint Security for Small Businesses</title>
+      <link>https://news.sophos.com/en-us/2024/03/13/sophos-named-a-leader-in-the-2024-idc-marketscape-for-worldwide-modern-endpoint-security-for-small-businesses/</link>
+      <pubDate>Wed, 13 Mar 2024 10:40:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Join Our Webinar on Protecting Human and Non-Human Identities in SaaS Platforms</title>
+      <link>https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html</link>
+      <pubDate>Wed, 13 Mar 2024 10:33:00 +0000</pubDate>
+    </item>
     <item>
       <title>Single RCE Bug Features Among 60 CVEs in March Patch Tuesday</title>
       <link>https://www.infosecurity-magazine.com/news/rce-bug-60-cves-patch-tuesday/</link>
       <pubDate>Wed, 13 Mar 2024 10:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Researchers Highlight Google's Gemini AI Susceptibility to LLM Threats</title>
+      <link>https://thehackernews.com/2024/03/researchers-highlight-googles-gemini-ai.html</link>
+      <pubDate>Wed, 13 Mar 2024 10:14:00 +0000</pubDate>
+    </item>
+    <item>
       <title>PixPirate: The Brazilian financial malware you can’t see</title>
       <link>https://securityintelligence.com/posts/pixpirate-brazilian-financial-malware/</link>
       <pubDate>Wed, 13 Mar 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers target Roku: 15,000 accounts compromised in data breach</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/hackers-target-roku-15-000-accounts-compromised-in-data-breach/</link>
+      <pubDate>Wed, 13 Mar 2024 09:49:41 +0000</pubDate>
     </item>
     <item>
       <title>Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub</title>
@@ -163,6 +203,16 @@
       <pubDate>Tue, 12 Mar 2024 16:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Information Security Policy</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/information-security-policy/</link>
+      <pubDate>Tue, 12 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Equipment Reassignment Checklist</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/equipment-reassignment-checklist/</link>
+      <pubDate>Tue, 12 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>French government hit by "intense" cyberattacks. 15,000 Roku accounts breached via credential stuffing.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/49</link>
       <pubDate>Tue, 12 Mar 2024 16:00:00 +0000</pubDate>
@@ -243,6 +293,11 @@
       <pubDate>Tue, 12 Mar 2024 11:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Election cybersecurity: Protecting the ballot box and building trust in election integrity</title>
+      <link>https://www.welivesecurity.com/en/critical-infrastructure/election-cybersecurity-protecting-ballot-box-building-trust-election-integrity/</link>
+      <pubDate>Tue, 12 Mar 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Lawmakers Slam UK Government’s “Ostrich Strategy” for Cybersecurity</title>
       <link>https://www.infosecurity-magazine.com/news/lawmakers-governments-ostrich/</link>
       <pubDate>Tue, 12 Mar 2024 10:15:00 +0000</pubDate>
@@ -251,61 +306,6 @@
       <title>Top 10 web application vulnerabilities in 2021–2023</title>
       <link>https://securelist.com/top-10-web-app-vulnerabilities/112144/</link>
       <pubDate>Tue, 12 Mar 2024 10:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 2024 Sophos Threat Report: Cybercrime on Main Street</title>
-      <link>https://news.sophos.com/en-us/2024/03/12/2024-sophos-threat-report/</link>
-      <pubDate>Tue, 12 Mar 2024 10:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware: Attacks Continue to Rise as Operators Adapt to Disruption</title>
-      <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomware-attacks-exploits</link>
-      <pubDate>Tue, 12 Mar 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Victims Lose $47m to Crypto Phishing Scams in February</title>
-      <link>https://www.infosecurity-magazine.com/news/victims-47m-crypto-phishing-scams-1/</link>
-      <pubDate>Tue, 12 Mar 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malware Campaign Exploits Popup Builder WordPress Plugin to Infect 3,900+ Sites</title>
-      <link>https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html</link>
-      <pubDate>Tue, 12 Mar 2024 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>First-ever South Korean national detained for espionage in Russia</title>
-      <link>https://securityaffairs.com/160396/breaking-news/russia-arrested-south-korean-national.html</link>
-      <pubDate>Tue, 12 Mar 2024 08:50:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insurance scams via QR codes: how to recognise and defend yourself</title>
-      <link>https://securityaffairs.com/160392/cyber-crime/insurance-scams-via-qr-codes.html</link>
-      <pubDate>Tue, 12 Mar 2024 08:05:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcoming the Liechtenstein Government to Have I Been Pwned</title>
-      <link>https://www.troyhunt.com/welcoming-the-liechtenstein-government-to-have-i-been-pwned/</link>
-      <pubDate>Tue, 12 Mar 2024 07:17:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korean Citizen Detained in Russia on Cyber Espionage Charges</title>
-      <link>https://thehackernews.com/2024/03/south-korean-citizen-detained-in-russia.html</link>
-      <pubDate>Tue, 12 Mar 2024 06:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, March 12th, 2024 https://isc.sans.edu/podcastdetail/8890, (Tue, Mar 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/30734</link>
-      <pubDate>Tue, 12 Mar 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infostealer Disguised as Adobe Reader Installer</title>
-      <link>https://asec.ahnlab.com/en/62853/</link>
-      <pubDate>Tue, 12 Mar 2024 00:47:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive cyberattacks hit French government agencies</title>
-      <link>https://securityaffairs.com/160374/hacking/massive-cyberattacks-hit-french-government-agencies.html</link>
-      <pubDate>Mon, 11 Mar 2024 22:23:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
