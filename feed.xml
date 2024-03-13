@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Mar 2024 14:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 16:21:10 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft’s Security Copilot Enters General Availability</title>
+      <link>https://www.techrepublic.com/article/microsoft-security-copilot-experience-center/</link>
+      <pubDate>Wed, 13 Mar 2024 16:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investment Scams Grow, 13,000 Domains Detected in January 2024</title>
+      <link>https://www.infosecurity-magazine.com/news/investment-scams-13000-domains/</link>
+      <pubDate>Wed, 13 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft fixes two critical Hyper-V vulnerabilities on Patch Tuesday. Fortinet discloses critical flaws.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/50</link>
+      <pubDate>Wed, 13 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five Eyes publish report on Volt Typhoon. Volt Typhoon targets emergency management services in the US.</title>
+      <link>https://thecyberwire.com/newsletters/control-loop/3/3</link>
+      <pubDate>Wed, 13 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian-Swedish national behind $400 million crypto mixer convicted of money laundering</title>
+      <link>https://therecord.media/russian-swedish-national-behind-bitcoin-fog-mixer-convicted-of-money-laundering</link>
+      <pubDate>Wed, 13 Mar 2024 15:43:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Demystifying a Common Cybersecurity Myth</title>
+      <link>https://thehackernews.com/2024/03/demystifying-common-cybersecurity-myth.html</link>
+      <pubDate>Wed, 13 Mar 2024 15:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-21378 Detection: Vulnerability in Microsoft Outlook Leads to Authenticated Remote Code Execution</title>
+      <link>https://socprime.com/blog/cve-2024-21378-detection-vulnerability-in-microsoft-outlook-leads-to-authenticated-remote-code-execution/</link>
+      <pubDate>Wed, 13 Mar 2024 15:15:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday March 2024 includes critical Hyper-V flaws</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/03/microsoft-patch-tuesday-march-2024-includes-critical-hyper-v-flaws</link>
+      <pubDate>Wed, 13 Mar 2024 15:13:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia claims US and 'Western countries' are trying to hack its presidential election</title>
+      <link>https://therecord.media/russia-presidential-election-hack-claims-united-states-putin</link>
+      <pubDate>Wed, 13 Mar 2024 14:58:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOC Prime Threat Bounty Digest — February  2024 Results</title>
+      <link>https://socprime.com/blog/soc-prime-threat-bounty-digest-february-2024-results/</link>
+      <pubDate>Wed, 13 Mar 2024 14:21:17 +0000</pubDate>
+    </item>
     <item>
       <title>Exploiting Repos | 6 Ways Threat Actors Abuse GitHub &amp; Other DevOps Platforms</title>
       <link>https://www.sentinelone.com/blog/exploiting-repos-6-ways-threat-actors-abuse-github-other-devops-platforms/</link>
@@ -81,11 +131,6 @@
       <title>Researchers Highlight Google's Gemini AI Susceptibility to LLM Threats</title>
       <link>https://thehackernews.com/2024/03/researchers-highlight-googles-gemini-ai.html</link>
       <pubDate>Wed, 13 Mar 2024 10:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PixPirate: The Brazilian financial malware you can’t see</title>
-      <link>https://securityintelligence.com/posts/pixpirate-brazilian-financial-malware/</link>
-      <pubDate>Wed, 13 Mar 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers target Roku: 15,000 accounts compromised in data breach</title>
@@ -163,14 +208,14 @@
       <pubDate>Wed, 13 Mar 2024 01:51:05 +0000</pubDate>
     </item>
     <item>
+      <title>Threat Intelligence for Financial Services</title>
+      <link>https://www.recordedfuture.com/blog/threat-intelligence-for-financial-services</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FakeBat delivered via several active malvertising campaigns</title>
       <link>https://www.malwarebytes.com/blog/threat-intelligence/2024/03/fakebat-delivered-via-several-active-malvertising-campaigns</link>
       <pubDate>Tue, 12 Mar 2024 23:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>JetBrains vulnerability exploitation highlights debate over 'silent patching'</title>
-      <link>https://therecord.media/jetbrains-rapid7-silent-patching-dispute</link>
-      <pubDate>Tue, 12 Mar 2024 21:23:32 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Patch Tuesday security updates for March 2024 fixed 59 flaws</title>
@@ -191,11 +236,6 @@
       <title>59 CVEs primed for Microsoft’s March Patch Tuesday</title>
       <link>https://news.sophos.com/en-us/2024/03/12/59-cves-primed-for-microsofts-march-patch-tuesday/</link>
       <pubDate>Tue, 12 Mar 2024 19:57:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian independent media outlet Meduza faces ‘most intense cyber campaign’ ever</title>
-      <link>https://therecord.media/meduza-independent-russian-media-organization-cyberattacks</link>
-      <pubDate>Tue, 12 Mar 2024 19:49:14 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware review: March 2024</title>
@@ -253,11 +293,6 @@
       <pubDate>Tue, 12 Mar 2024 14:51:53 +0000</pubDate>
     </item>
     <item>
-      <title>How data residency impacts security and compliance</title>
-      <link>https://securityintelligence.com/articles/data-residency-security-compliance/</link>
-      <pubDate>Tue, 12 Mar 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>VCURMS: A Simple and Functional Weapon</title>
       <link>https://feeds.fortinet.com/~/873512375/0/fortinet/blog/threat-research~VCURMS-A-Simple-and-Functional-Weapon</link>
       <pubDate>Tue, 12 Mar 2024 13:00:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Watch Out: These PyPI Python Packages Can Drain Your Crypto Wallets</title>
       <link>https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html</link>
       <pubDate>Tue, 12 Mar 2024 12:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric EcoStruxure Power Design</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-072-01</link>
-      <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Publishes SCuBA Hybrid Identity Solutions Guidance</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance</link>
-      <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-releases-one-industrial-control-systems-advisory</link>
-      <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jailbreaking LLMs with ASCII Art</title>
-      <link>https://www.schneier.com/blog/archives/2024/03/jailbreaking-llms-with-ascii-art.html</link>
-      <pubDate>Tue, 12 Mar 2024 11:12:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
