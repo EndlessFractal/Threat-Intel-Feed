@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Mar 2024 12:28:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 14:14:19 +0000</lastBuildDate>
+    <item>
+      <title>Cloud security evolution: Years of progress and challenges</title>
+      <link>https://securityintelligence.com/posts/cloud-security-evolution-progress-and-challenges/</link>
+      <pubDate>Thu, 14 Mar 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nissan: About 100,000 people in Australia, New Zealand affected by recent cyberattack</title>
+      <link>https://therecord.media/nissan-australia-new-zealand-data-breach-100000</link>
+      <pubDate>Thu, 14 Mar 2024 12:47:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Launches SEC Readiness Services to Prepare Boardrooms for New Regulations</title>
+      <link>https://www.crowdstrike.com/blog/sec_readiness/</link>
+      <pubDate>Thu, 14 Mar 2024 12:46:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Detail Kubernetes Vulnerability That Enables Windows Node Takeover</title>
+      <link>https://thehackernews.com/2024/03/researchers-detail-kubernetes.html</link>
+      <pubDate>Thu, 14 Mar 2024 11:59:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Paid $10m in Bug Bounties to Security Researchers in 2023</title>
       <link>https://www.infosecurity-magazine.com/news/google-paid-10m-bug-bounties/</link>
@@ -96,6 +116,11 @@
       <title>Smashing Security podcast #363: Stuck streaming sticks, TikTok conspiracies, and spying cars</title>
       <link>https://grahamcluley.com/smashing-security-podcast-363/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shut the Door on Ransomware Before it Gets Started</title>
+      <link>https://symantec-enterprise-blogs.security.com/product-insights/shut-door-ransomware-it-gets-started</link>
+      <pubDate>Wed, 13 Mar 2024 23:55:35 +0000</pubDate>
     </item>
     <item>
       <title>Malwarebytes Premium blocks 100% of malware during external AVLab test</title>
@@ -223,11 +248,6 @@
       <pubDate>Wed, 13 Mar 2024 13:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>EU Parliament passes AI Act in world’s first attempt at regulating the technology</title>
-      <link>https://therecord.media/eu-parliament-passes-ai-act-regulation</link>
-      <pubDate>Wed, 13 Mar 2024 13:30:39 +0000</pubDate>
-    </item>
-    <item>
       <title>New Research Exposes Security Risks in ChatGPT Plugins</title>
       <link>https://www.infosecurity-magazine.com/news/security-risks-chatgpt-plugins/</link>
       <pubDate>Wed, 13 Mar 2024 13:00:00 +0000</pubDate>
@@ -268,11 +288,6 @@
       <pubDate>Wed, 13 Mar 2024 10:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to share sensitive files securely online</title>
-      <link>https://www.welivesecurity.com/en/how-to/share-sensitive-files-securely-online/</link>
-      <pubDate>Wed, 13 Mar 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Single RCE Bug Features Among 60 CVEs in March Patch Tuesday</title>
       <link>https://www.infosecurity-magazine.com/news/rce-bug-60-cves-patch-tuesday/</link>
       <pubDate>Wed, 13 Mar 2024 10:15:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Hackers target Roku: 15,000 accounts compromised in data breach</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/hackers-target-roku-15-000-accounts-compromised-in-data-breach/</link>
       <pubDate>Wed, 13 Mar 2024 09:49:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub</title>
-      <link>https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html</link>
-      <pubDate>Wed, 13 Mar 2024 09:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Facebook photo rule hoax spreads</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/03/new-facebook-photo-rule-hoax-spreads</link>
-      <pubDate>Wed, 13 Mar 2024 09:42:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incognito Market: The not-so-secure dark web drug marketplace</title>
-      <link>https://grahamcluley.com/incognito-market-the-not-so-secure-dark-web-drug-marketplace/</link>
-      <pubDate>Wed, 13 Mar 2024 09:31:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
