@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Mar 2024 10:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 12:28:42 +0000</lastBuildDate>
+    <item>
+      <title>Google Paid $10m in Bug Bounties to Security Researchers in 2023</title>
+      <link>https://www.infosecurity-magazine.com/news/google-paid-10m-bug-bounties/</link>
+      <pubDate>Thu, 14 Mar 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automakers Are Sharing Driver Data with Insurers without Consent</title>
+      <link>https://www.schneier.com/blog/archives/2024/03/automakers-are-sharing-driver-data-with-insurers-without-consent.html</link>
+      <pubDate>Thu, 14 Mar 2024 11:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 Things CISOs Achieve with Cato</title>
+      <link>https://thehackernews.com/2024/03/3-things-cisos-achieve-with-cato.html</link>
+      <pubDate>Thu, 14 Mar 2024 10:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RedCurl Cybercrime Group Abuses Windows PCA Tool for Corporate Espionage</title>
+      <link>https://thehackernews.com/2024/03/redcurl-cybercrime-group-abuses-windows.html</link>
+      <pubDate>Thu, 14 Mar 2024 10:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fortinet Patches Critical Bug in FortiClient EMS</title>
       <link>https://www.infosecurity-magazine.com/news/fortinet-patches-critical-bug/</link>
@@ -21,6 +41,11 @@
       <title>Meta Sues Former VP After Defection to AI Startup</title>
       <link>https://www.infosecurity-magazine.com/news/meta-sues-former-vp-defection-ai/</link>
       <pubDate>Thu, 14 Mar 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Increase in the number of phishing messages pointing to IPFS and to R2 buckets, (Thu, Mar 14th)</title>
+      <link>https://isc.sans.edu/diary/rss/30744</link>
+      <pubDate>Thu, 14 Mar 2024 08:57:10 +0000</pubDate>
     </item>
     <item>
       <title>Keep Your Network Secure With This $39.99 CompTIA Bundle</title>
@@ -53,7 +78,7 @@
       <pubDate>Thu, 14 Mar 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DarkGate Malware Exploits Recently Patched Microsoft Flaw in Zero-Day Attack</title>
+      <title>DarkGate Malware Exploited Recently Patched Microsoft Flaw in Zero-Day Attack</title>
       <link>https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html</link>
       <pubDate>Thu, 14 Mar 2024 04:57:00 +0000</pubDate>
     </item>
@@ -243,6 +268,11 @@
       <pubDate>Wed, 13 Mar 2024 10:33:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to share sensitive files securely online</title>
+      <link>https://www.welivesecurity.com/en/how-to/share-sensitive-files-securely-online/</link>
+      <pubDate>Wed, 13 Mar 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Single RCE Bug Features Among 60 CVEs in March Patch Tuesday</title>
       <link>https://www.infosecurity-magazine.com/news/rce-bug-60-cves-patch-tuesday/</link>
       <pubDate>Wed, 13 Mar 2024 10:15:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Incognito Market: The not-so-secure dark web drug marketplace</title>
       <link>https://grahamcluley.com/incognito-market-the-not-so-secure-dark-web-drug-marketplace/</link>
       <pubDate>Wed, 13 Mar 2024 09:31:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nearly 13 Million Secrets Spilled Via Public GitHub Repositories</title>
-      <link>https://www.infosecurity-magazine.com/news/13-million-secrets-public-github/</link>
-      <pubDate>Wed, 13 Mar 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using ChatGPT to Deobfuscate Malicious Scripts, (Wed, Mar 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/30740</link>
-      <pubDate>Wed, 13 Mar 2024 08:26:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of Stalkerware in 2023–2024</title>
-      <link>https://securelist.com/state-of-stalkerware-2023/112135/</link>
-      <pubDate>Wed, 13 Mar 2024 08:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stanford University announced that 27,000 individuals were impacted in the 2023 ransomware attack</title>
-      <link>https://securityaffairs.com/160419/cyber-crime/stanford-university-data-breach.html</link>
-      <pubDate>Wed, 13 Mar 2024 07:18:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Science for Security</title>
-      <link>https://thecyberwire.com/podcasts/microsoft-threat-intelligence/14/notes</link>
-      <pubDate>Wed, 13 Mar 2024 07:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws</title>
-      <link>https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html</link>
-      <pubDate>Wed, 13 Mar 2024 05:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
