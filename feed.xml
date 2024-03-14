@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Mar 2024 01:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 02:20:07 +0000</lastBuildDate>
     <item>
       <title>Smashing Security podcast #363: Stuck streaming sticks, TikTok conspiracies, and spying cars</title>
       <link>https://grahamcluley.com/smashing-security-podcast-363/</link>
@@ -71,6 +71,11 @@
       <title>Microsoft’s Security Copilot Enters General Availability</title>
       <link>https://www.techrepublic.com/article/microsoft-security-copilot-experience-center/</link>
       <pubDate>Wed, 13 Mar 2024 16:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Copilot for Security is generally available on April 1, 2024, with new capabilities</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/</link>
+      <pubDate>Wed, 13 Mar 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Investment Scams Grow, 13,000 Domains Detected in January 2024</title>
@@ -301,11 +306,6 @@
       <title>Another Patch Tuesday with no zero-days, only two critical vulnerabilities disclosed by Microsoft</title>
       <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-march-2024/</link>
       <pubDate>Tue, 12 Mar 2024 18:07:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday - March 2024, (Tue, Mar 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/30736</link>
-      <pubDate>Tue, 12 Mar 2024 17:53:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
