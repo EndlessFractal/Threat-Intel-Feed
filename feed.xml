@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Mar 2024 16:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 18:17:09 +0000</lastBuildDate>
+    <item>
+      <title>Threat actors leaked 70,000,000+ records allegedly stolen from AT&amp;T</title>
+      <link>https://securityaffairs.com/160627/data-breach/70m-att-records-leaked.html</link>
+      <pubDate>Sun, 17 Mar 2024 17:08:22 +0000</pubDate>
+    </item>
     <item>
       <title>“gitgub” malware campaign targets Github users with RisePro info-stealer</title>
       <link>https://securityaffairs.com/160596/hacking/risepro-info-stealer-targets-github-users.html</link>
@@ -300,11 +305,6 @@
     <item>
       <title>New Report Suggests Surge in SaaS Assets, Employee Data Sharing</title>
       <link>https://www.infosecurity-magazine.com/news/surge-saas-assets-employee-data/</link>
-      <pubDate>Thu, 14 Mar 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HackerOne’s In-Depth Approach to Vulnerability Triage and Validation</title>
-      <link>https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation</link>
       <pubDate>Thu, 14 Mar 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
