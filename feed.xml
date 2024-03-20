@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Mar 2024 14:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 16:20:11 +0000</lastBuildDate>
+    <item>
+      <title>Netgear wireless router open to code execution after buffer overflow vulnerability</title>
+      <link>https://blog.talosintelligence.com/vulnerability-roundup-march-20-2024/</link>
+      <pubDate>Wed, 20 Mar 2024 16:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Study Uncovers 27% Spike in Ransomware; 8% Yield to Demands</title>
+      <link>https://www.infosecurity-magazine.com/news/27-spike-ransomware-8-yield/</link>
+      <pubDate>Wed, 20 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five Eyes issue another advisory on Volt Typhoon. Privilege escalation technique affects Active Directory environments.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/55</link>
+      <pubDate>Wed, 20 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DEEP#GOSU Attack Campaign Detection: North Korean Kimsuky APT Is Likely Behind Attacks Using PowerShell and VBScript Malware</title>
+      <link>https://socprime.com/blog/deepgosu-attack-campaign-detection-north-korean-kimsuky-apt-is-likely-behind-attacks-using-powershell-and-vbscript-malware/</link>
+      <pubDate>Wed, 20 Mar 2024 15:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fraudsters are posing as the FTC to scam consumers</title>
+      <link>https://www.tripwire.com/state-of-security/fraudsters-are-posing-ftc-scam-consumers</link>
+      <pubDate>Wed, 20 Mar 2024 15:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat actors actively exploit JetBrains TeamCity flaws to deliver malware</title>
+      <link>https://securityaffairs.com/160823/breaking-news/jetbrains-teamcity-flaws-actively-exploited.html</link>
+      <pubDate>Wed, 20 Mar 2024 15:06:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proofpoint: APAC Employees Are Choosing Convenience, Speed Over Cyber Security</title>
+      <link>https://www.techrepublic.com/article/proofpoint-2024-state-of-phish-employees-information-security/</link>
+      <pubDate>Wed, 20 Mar 2024 15:05:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>New 'Loop DoS' Attack Impacts Hundreds of Thousands of Systems</title>
+      <link>https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html</link>
+      <pubDate>Wed, 20 Mar 2024 14:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian police detain cybercriminals trying to sell millions of stolen email and Instagram accounts</title>
+      <link>https://therecord.media/ukraine-cyber-police-arrest-three-selling-millions-stolen-accounts</link>
+      <pubDate>Wed, 20 Mar 2024 14:27:29 +0000</pubDate>
+    </item>
     <item>
       <title>UK Government: 75% of UK Businesses Experienced a Cyber Incident in 2023</title>
       <link>https://www.infosecurity-magazine.com/news/uk-government-businesses-cyber/</link>
@@ -16,6 +61,11 @@
       <title>Gotta Hack ‘Em All: Pokémon passwords reset after attack</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/gotta-hack-em-all-pokemon-passwords-reset-after-attack/</link>
       <pubDate>Wed, 20 Mar 2024 13:29:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scans for Fortinet FortiOS and the CVE-2024-21762 vulnerability, (Wed, Mar 20th)</title>
+      <link>https://isc.sans.edu/diary/rss/30762</link>
+      <pubDate>Wed, 20 Mar 2024 13:05:39 +0000</pubDate>
     </item>
     <item>
       <title>Experiencing a Data Breach? 8 Steps for Effective Incident Response</title>
@@ -128,6 +178,11 @@
       <pubDate>Wed, 20 Mar 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Attributing I-SOON: Private Contractor Linked to Multiple Chinese State-sponsored Groups</title>
+      <link>https://www.recordedfuture.com/attributing-i-soon-private-contractor-linked-chinese-state-sponsored-groups</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Infostealers Extorting Web Browser Account Credentials Detected by AhnLab EDR</title>
       <link>https://asec.ahnlab.com/en/63174/</link>
       <pubDate>Tue, 19 Mar 2024 23:12:21 +0000</pubDate>
@@ -166,11 +221,6 @@
       <title>‘Lifelock’ hacker pleads guilty to extorting medical clinics</title>
       <link>https://therecord.media/lifelock-hacker-pleads-guilty-to-attacks-on-medical-clinics</link>
       <pubDate>Tue, 19 Mar 2024 18:42:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pharmaceutical development company investigating cyberattack after LockBit posting</title>
-      <link>https://therecord.media/pharmaceutical-development-company-investigating-cyber-incident-lockbit</link>
-      <pubDate>Tue, 19 Mar 2024 17:59:35 +0000</pubDate>
     </item>
     <item>
       <title>APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage</title>
@@ -256,56 +306,6 @@
       <title>Store manager admits SIM swapping his customers</title>
       <link>https://www.malwarebytes.com/blog/news/2024/03/store-manager-admits-sim-swapping-his-customers</link>
       <pubDate>Tue, 19 Mar 2024 11:36:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Players hacked during the matches of Apex Legends Global Series. Tournament suspended</title>
-      <link>https://securityaffairs.com/160726/hacking/apex-legends-global-series-hack.html</link>
-      <pubDate>Tue, 19 Mar 2024 11:27:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI and the Evolution of Social Media</title>
-      <link>https://www.schneier.com/blog/archives/2024/03/ai-and-the-evolution-of-social-media.html</link>
-      <pubDate>Tue, 19 Mar 2024 11:05:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>“The Skinny on American Intelligence &amp; the Law” – with D.C. “Super Lawyer” Mark Zaid</title>
-      <link>https://thecyberwire.com/podcasts/spycast/625/notes</link>
-      <pubDate>Tue, 19 Mar 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crafting and Communicating Your Cybersecurity Strategy for Board Buy-In</title>
-      <link>https://thehackernews.com/2024/03/crafting-and-communicating-your.html</link>
-      <pubDate>Tue, 19 Mar 2024 10:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploiting Popular Document Publishing Sites for Phishing Attacks</title>
-      <link>https://thehackernews.com/2024/03/hackers-exploiting-popular-document.html</link>
-      <pubDate>Tue, 19 Mar 2024 10:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A prescription for privacy protection: Exercise caution when using a mobile health app</title>
-      <link>https://www.welivesecurity.com/en/privacy/prescription-privacy-protection-exercise-caution-mobile-health-app/</link>
-      <pubDate>Tue, 19 Mar 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos named a Leader in Frost &amp; Sullivan’s 2024 Frost Radar™ for Global Managed Detection and Response</title>
-      <link>https://news.sophos.com/en-us/2024/03/19/sophos-named-a-leader-in-frost-sullivans-2024-frost-radar-for-global-managed-detection-and-response/</link>
-      <pubDate>Tue, 19 Mar 2024 10:22:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Publishes Security Guidance For Cloud-Hosted SCADA</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-security-guidance-cloudhosted/</link>
-      <pubDate>Tue, 19 Mar 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unit 42 Collaborative Research With Ukraine’s Cyber Agency To Uncover the Smoke Loader Backdoor</title>
-      <link>https://unit42.paloaltonetworks.com/unit-42-scpc-ssscip-uncover-smoke-loader-phishing/</link>
-      <pubDate>Tue, 19 Mar 2024 10:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat landscape for industrial automation systems. H2 2023</title>
-      <link>https://securelist.com/threat-landscape-for-industrial-automation-systems-h2-2023/112153/</link>
-      <pubDate>Tue, 19 Mar 2024 10:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
