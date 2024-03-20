@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Mar 2024 10:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 12:27:38 +0000</lastBuildDate>
+    <item>
+      <title>Dissecting a complex vulnerability and achieving arbitrary code execution in Ichitaro Word</title>
+      <link>https://blog.talosintelligence.com/exploiting-low-severity-vulnerability-using-a-frame-pointer-overwrite/</link>
+      <pubDate>Wed, 20 Mar 2024 12:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative AI Security - Secure Your Business in a World Powered by LLMs</title>
+      <link>https://thehackernews.com/2024/03/generative-ai-security-secure-your.html</link>
+      <pubDate>Wed, 20 Mar 2024 11:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks</title>
+      <link>https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html</link>
+      <pubDate>Wed, 20 Mar 2024 11:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cheating Automatic Toll Booths by Obscuring License Plates</title>
+      <link>https://www.schneier.com/blog/archives/2024/03/cheating-automatic-toll-booths-by-obscuring-license-plates.html</link>
+      <pubDate>Wed, 20 Mar 2024 11:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android malware, Android malware and more Android malware</title>
+      <link>https://securelist.com/crimeware-report-android-malware/112121/</link>
+      <pubDate>Wed, 20 Mar 2024 11:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ‘AT&amp;T breach’—what you need to know</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/03/the-att-breach-what-you-need-to-know</link>
+      <pubDate>Wed, 20 Mar 2024 10:45:12 +0000</pubDate>
+    </item>
     <item>
       <title>Ukrainian Police Arrest Suspected Brute-Force Account Hijackers</title>
       <link>https://www.infosecurity-magazine.com/news/police-arrest-brute-force-account/</link>
@@ -16,6 +46,11 @@
       <title>Navigating China's infrastructure risks in the energy sector.</title>
       <link>https://thecyberwire.com/podcasts/control-loop/46/notes</link>
       <pubDate>Wed, 20 Mar 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New BunnyLoader Malware Variant Surfaces with Modular Attack Features</title>
+      <link>https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html</link>
+      <pubDate>Wed, 20 Mar 2024 09:43:00 +0000</pubDate>
     </item>
     <item>
       <title>White House Convenes States to Discuss Water Sector Breaches</title>
@@ -101,6 +136,16 @@
       <title>APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage</title>
       <link>https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html</link>
       <pubDate>Tue, 19 Mar 2024 16:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quick Glossary: Cybersecurity Attack Response and Mitigation</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/quick-glossary-cybersecurity-attack-response-and-mitigation/</link>
+      <pubDate>Tue, 19 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Response Policy</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/security-response-policy/</link>
+      <pubDate>Tue, 19 Mar 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover New “Conversation Overflow” Tactics</title>
@@ -261,51 +306,6 @@
       <title>New Phishing Attack Uses Clever Microsoft Office Trick to Deploy NetSupport RAT</title>
       <link>https://thehackernews.com/2024/03/new-phishing-attack-uses-clever.html</link>
       <pubDate>Tue, 19 Mar 2024 05:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>E-Root Marketplace Admin Sentenced to 42 Months for Selling 350K Stolen Credentials</title>
-      <link>https://thehackernews.com/2024/03/e-root-marketplace-admin-sentenced-to.html</link>
-      <pubDate>Tue, 19 Mar 2024 04:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI Can Deceive and be Deceived</title>
-      <link>https://thecyberwire.com/podcasts/8th-layer-insights/43/notes</link>
-      <pubDate>Tue, 19 Mar 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Online Scams: Blackmail, Deceptions, and Victims</title>
-      <link>https://asec.ahnlab.com/en/63206/</link>
-      <pubDate>Tue, 19 Mar 2024 02:53:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>CryptoWire with Decryption Key Included</title>
-      <link>https://asec.ahnlab.com/en/63200/</link>
-      <pubDate>Tue, 19 Mar 2024 02:27:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, March 19th, 2024 https://isc.sans.edu/podcastdetail/8900, (Tue, Mar 19th)</title>
-      <link>https://isc.sans.edu/diary/rss/30756</link>
-      <pubDate>Tue, 19 Mar 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Andariel Group Exploiting Korean Asset Management Solutions (MeshAgent)</title>
-      <link>https://asec.ahnlab.com/en/63192/</link>
-      <pubDate>Tue, 19 Mar 2024 01:50:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adversarial Intelligence: Red Teaming Malicious Use Cases for AI</title>
-      <link>https://www.recordedfuture.com/adversarial-intelligence-red-teaming-malicious-use-cases-ai</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoC exploit for critical RCE flaw in Fortra FileCatalyst transfer tool released</title>
-      <link>https://securityaffairs.com/160694/hacking/fortra-filecatalyst-critical-flaw.html</link>
-      <pubDate>Mon, 18 Mar 2024 20:41:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The hot pursuit of Volt Typhoon.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/2026/notes</link>
-      <pubDate>Mon, 18 Mar 2024 20:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
