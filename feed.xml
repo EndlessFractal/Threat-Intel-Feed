@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Mar 2024 01:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 02:20:19 +0000</lastBuildDate>
     <item>
       <title>Infostealers Extorting Web Browser Account Credentials Detected by AhnLab EDR</title>
       <link>https://asec.ahnlab.com/en/63174/</link>
@@ -56,6 +56,11 @@
       <title>APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage</title>
       <link>https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html</link>
       <pubDate>Tue, 19 Mar 2024 16:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Sentinel delivered 234% ROI, according to new Forrester study</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/03/19/microsoft-sentinel-delivered-234-roi-according-to-new-forrester-study/</link>
+      <pubDate>Tue, 19 Mar 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover New “Conversation Overflow” Tactics</title>
@@ -268,6 +273,11 @@
       <pubDate>Mon, 18 Mar 2024 17:56:00 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Copilot for Security: General Availability details</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-general-availability-details/ba-p/4079970</link>
+      <pubDate>Mon, 18 Mar 2024 17:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Moldovan Behind E-Root Marketplace Gets US Federal Prison Term</title>
       <link>https://www.infosecurity-magazine.com/news/moldovan-e-root-marketplace-us/</link>
       <pubDate>Mon, 18 Mar 2024 17:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>FCC Agrees to Cyber Trust Mark for IoT Products</title>
       <link>https://www.infosecurity-magazine.com/news/fcc-cyber-trust-mark-iot/</link>
       <pubDate>Mon, 18 Mar 2024 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 50,000 Vulnerabilities Discovered in DoD Systems Through Bug Bounty Program</title>
-      <link>https://www.infosecurity-magazine.com/news/50000-vulnerabilities-discovered/</link>
-      <pubDate>Mon, 18 Mar 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Best Practices to Secure Azure Resources</title>
-      <link>https://www.crowdstrike.com/blog/azure-security-best-practices/</link>
-      <pubDate>Mon, 18 Mar 2024 14:15:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
