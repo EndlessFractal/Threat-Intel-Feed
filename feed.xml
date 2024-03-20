@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Mar 2024 12:27:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 14:14:13 +0000</lastBuildDate>
+    <item>
+      <title>UK Government: 75% of UK Businesses Experienced a Cyber Incident in 2023</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-government-businesses-cyber/</link>
+      <pubDate>Wed, 20 Mar 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gotta Hack ‘Em All: Pokémon passwords reset after attack</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/gotta-hack-em-all-pokemon-passwords-reset-after-attack/</link>
+      <pubDate>Wed, 20 Mar 2024 13:29:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experiencing a Data Breach? 8 Steps for Effective Incident Response</title>
+      <link>https://www.sentinelone.com/blog/experiencing-a-data-breach-8-steps-for-effective-incident-response/</link>
+      <pubDate>Wed, 20 Mar 2024 13:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>The UK energy sector faces an expanding OT threat landscape</title>
+      <link>https://securityintelligence.com/articles/uk-energy-expanding-ot-threat-landscape/</link>
+      <pubDate>Wed, 20 Mar 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to interpret the MITRE Engenuity ATT&amp;CK® Evaluations: Enterprise</title>
+      <link>https://grahamcluley.com/feed-sponsor-cynet-2/</link>
+      <pubDate>Wed, 20 Mar 2024 12:57:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tax scammer goes after small business owners and self-employed people</title>
+      <link>https://www.malwarebytes.com/blog/uncategorized/2024/03/tax-scammer-goes-after-small-business-owners-and-self-employed-people</link>
+      <pubDate>Wed, 20 Mar 2024 12:56:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>BunnyLoader 3.0 surfaces in the threat landscape</title>
+      <link>https://securityaffairs.com/160795/hacking/bunnyloader-3-0-malware.html</link>
+      <pubDate>Wed, 20 Mar 2024 12:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>German military officer charged with spying for Russian intelligence services</title>
+      <link>https://therecord.media/germany-military-arrest-espionage-suspect-russia</link>
+      <pubDate>Wed, 20 Mar 2024 12:47:07 +0000</pubDate>
+    </item>
     <item>
       <title>Dissecting a complex vulnerability and achieving arbitrary code execution in Ichitaro Word</title>
       <link>https://blog.talosintelligence.com/exploiting-low-severity-vulnerability-using-a-frame-pointer-overwrite/</link>
@@ -158,11 +198,6 @@
       <pubDate>Tue, 19 Mar 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Russians will no longer be able to access Microsoft cloud services, business intelligence tools</title>
-      <link>https://therecord.media/russians-losing-access-microsoft-cloud-amazon</link>
-      <pubDate>Tue, 19 Mar 2024 15:33:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Research Shows IT and Construction Sectors Hardest Hit By Ransomware</title>
       <link>https://www.infosecurity-magazine.com/news/it-construction-sectors-ransomware/</link>
       <pubDate>Tue, 19 Mar 2024 15:00:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Threat landscape for industrial automation systems. H2 2023</title>
       <link>https://securelist.com/threat-landscape-for-industrial-automation-systems-h2-2023/112153/</link>
       <pubDate>Tue, 19 Mar 2024 10:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspected Russian Data-Wiping 'AcidPour' Malware Targeting Linux x86 Devices</title>
-      <link>https://thehackernews.com/2024/03/suspected-russian-data-wiping-acidpour.html</link>
-      <pubDate>Tue, 19 Mar 2024 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prolific Chinese Threat Campaign Targets 100+ Victims</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-campaign-targets-100/</link>
-      <pubDate>Tue, 19 Mar 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Earth Krahang APT breached tens of government organizations worldwide</title>
-      <link>https://securityaffairs.com/160702/apt/earth-krahang-apt.html</link>
-      <pubDate>Tue, 19 Mar 2024 08:33:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keep Your Data Safe as You Become More Productive for Just $30 Through 3/24</title>
-      <link>https://www.techrepublic.com/article/microsoft-windows-10-pro-lifetime-key/</link>
-      <pubDate>Tue, 19 Mar 2024 08:27:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Smashing Security Podcast</title>
-      <link>https://thecyberwire.com/podcasts/afternoon-cyber-tea/93/notes</link>
-      <pubDate>Tue, 19 Mar 2024 07:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Massive Alleged AT&amp;T Data Breach</title>
-      <link>https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/</link>
-      <pubDate>Tue, 19 Mar 2024 06:39:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Phishing Attack Uses Clever Microsoft Office Trick to Deploy NetSupport RAT</title>
-      <link>https://thehackernews.com/2024/03/new-phishing-attack-uses-clever.html</link>
-      <pubDate>Tue, 19 Mar 2024 05:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
