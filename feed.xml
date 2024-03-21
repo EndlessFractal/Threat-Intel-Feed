@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 12:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 14:14:09 +0000</lastBuildDate>
+    <item>
+      <title>Apparel giant VF sends out breach letters to millions following 2023 cyberattack</title>
+      <link>https://therecord.media/vf-apparel-sends-breach-notifications-2023-incident</link>
+      <pubDate>Thu, 21 Mar 2024 13:53:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Leaders Acknowledge API Security Gaps Despite Looming Threat</title>
+      <link>https://www.infosecurity-magazine.com/news/fastly-survey-api-security-looming/</link>
+      <pubDate>Thu, 21 Mar 2024 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring the surveillance partnership between the government and data brokers</title>
+      <link>https://therecord.media/byron-tau-interview-surveillance-government-data-brokers</link>
+      <pubDate>Thu, 21 Mar 2024 13:15:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>New details on TinyTurla’s post-compromise activity reveal full kill chain</title>
+      <link>https://blog.talosintelligence.com/tinyturla-full-kill-chain/</link>
+      <pubDate>Thu, 21 Mar 2024 13:08:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I got started: Ransomware negotiator</title>
+      <link>https://securityintelligence.com/articles/ransomware-negotiator-how-i-got-started/</link>
+      <pubDate>Thu, 21 Mar 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AndroxGh0st Malware Targets Laravel Apps to Steal Cloud Credentials</title>
+      <link>https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html</link>
+      <pubDate>Thu, 21 Mar 2024 12:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICO Probes Kate Middleton Medical Record Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/ico-kate-middleton-medical-breach/</link>
+      <pubDate>Thu, 21 Mar 2024 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protecting Model Updates in Privacy-Preserving Federated Learning</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/protecting-model-updates-privacy-preserving-federated-learning</link>
+      <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques</link>
+      <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry</link>
+      <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Q4 2023 Cyber Attacks Statistics</title>
       <link>https://www.hackmageddon.com/2024/03/21/q4-2023-cyber-attacks-statistics/</link>
@@ -118,6 +168,11 @@
       <pubDate>Thu, 21 Mar 2024 00:02:03 +0000</pubDate>
     </item>
     <item>
+      <title>2023 Annual Report</title>
+      <link>https://www.recordedfuture.com/2023-annual-report</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Reversing The Trend: Support and Mediation Win as a Team</title>
       <link>https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team</link>
       <pubDate>Wed, 20 Mar 2024 23:15:34 +0000</pubDate>
@@ -151,16 +206,6 @@
       <title>Critical flaw in Atlassian Bamboo Data Center and Server must be fixed immediately</title>
       <link>https://securityaffairs.com/160838/security/atlassian-fixed-critical-flaw-cve-2024-1597.html</link>
       <pubDate>Wed, 20 Mar 2024 19:39:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers claim to have breached Israeli nuclear facility’s computer network</title>
-      <link>https://therecord.media/hackers-claim-attack-on-israeli-nuclear-research-facility</link>
-      <pubDate>Wed, 20 Mar 2024 18:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>International freight tech firm isolates Canada operations after cyberattack</title>
-      <link>https://therecord.media/radiant-logistics-cyberattack-canada-operations</link>
-      <pubDate>Wed, 20 Mar 2024 17:23:14 +0000</pubDate>
     </item>
     <item>
       <title>CISA Warns Critical Infrastructure Leaders of Volt Typhoon</title>
@@ -261,51 +306,6 @@
       <title>Scans for Fortinet FortiOS and the CVE-2024-21762 vulnerability, (Wed, Mar 20th)</title>
       <link>https://isc.sans.edu/diary/rss/30762</link>
       <pubDate>Wed, 20 Mar 2024 13:05:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experiencing a Data Breach? 8 Steps for Effective Incident Response</title>
-      <link>https://www.sentinelone.com/blog/experiencing-a-data-breach-8-steps-for-effective-incident-response/</link>
-      <pubDate>Wed, 20 Mar 2024 13:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Threat Intelligence unveils targets and innovative tactics amidst tax season</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/03/20/microsoft-threat-intelligence-unveils-targets-and-innovative-tactics-amidst-tax-season/</link>
-      <pubDate>Wed, 20 Mar 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The UK energy sector faces an expanding OT threat landscape</title>
-      <link>https://securityintelligence.com/articles/uk-energy-expanding-ot-threat-landscape/</link>
-      <pubDate>Wed, 20 Mar 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to interpret the MITRE Engenuity ATT&amp;CK® Evaluations: Enterprise</title>
-      <link>https://grahamcluley.com/feed-sponsor-cynet-2/</link>
-      <pubDate>Wed, 20 Mar 2024 12:57:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tax scammer goes after small business owners and self-employed people</title>
-      <link>https://www.malwarebytes.com/blog/uncategorized/2024/03/tax-scammer-goes-after-small-business-owners-and-self-employed-people</link>
-      <pubDate>Wed, 20 Mar 2024 12:56:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>BunnyLoader 3.0 surfaces in the threat landscape</title>
-      <link>https://securityaffairs.com/160795/hacking/bunnyloader-3-0-malware.html</link>
-      <pubDate>Wed, 20 Mar 2024 12:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dissecting a complex vulnerability and achieving arbitrary code execution in Ichitaro Word</title>
-      <link>https://blog.talosintelligence.com/exploiting-low-severity-vulnerability-using-a-frame-pointer-overwrite/</link>
-      <pubDate>Wed, 20 Mar 2024 12:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generative AI Security - Secure Your Business in a World Powered by LLMs</title>
-      <link>https://thehackernews.com/2024/03/generative-ai-security-secure-your.html</link>
-      <pubDate>Wed, 20 Mar 2024 11:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks</title>
-      <link>https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html</link>
-      <pubDate>Wed, 20 Mar 2024 11:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
