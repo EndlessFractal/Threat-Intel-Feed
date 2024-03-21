@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 16:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 18:19:02 +0000</lastBuildDate>
+    <item>
+      <title>“Pig butchering” is an evolution of a social engineering tactic we’ve seen for years</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-march-21-2024/</link>
+      <pubDate>Thu, 21 Mar 2024 18:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jacksonville Beach and other US municipalities report data breaches following cyberattacks</title>
+      <link>https://therecord.media/jacksonville-beach-municipalities-hit-by-cyberattacks</link>
+      <pubDate>Thu, 21 Mar 2024 17:26:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sports Day Scores a Hit</title>
+      <link>https://news.sophos.com/en-us/2024/03/21/sports-day-scores-a-hit/</link>
+      <pubDate>Thu, 21 Mar 2024 17:18:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Treasury Targets Russian Entities in Cyber Influence Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/us-targets-russia-cyber-influence/</link>
+      <pubDate>Thu, 21 Mar 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia Hackers Using TinyTurla-NG to Breach European NGO's Systems</title>
+      <link>https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html</link>
+      <pubDate>Thu, 21 Mar 2024 16:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>US Legislation Targets Data Sharing With Foreign Adversaries</title>
       <link>https://www.infosecurity-magazine.com/news/us-targets-data-sharing-foreign/</link>
@@ -193,11 +218,6 @@
       <pubDate>Thu, 21 Mar 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>House unanimously passes bill to block data brokers from selling Americans’ info to foreign adversaries</title>
-      <link>https://therecord.media/house-passes-bill-to-block-data-brokers-from-selling-info-to-foreign-adversaries</link>
-      <pubDate>Thu, 21 Mar 2024 00:07:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Smashing Security podcast #364: Bing pop-up wars, and the British Library ransomware scandal</title>
       <link>https://grahamcluley.com/smashing-security-podcast-364/</link>
       <pubDate>Thu, 21 Mar 2024 00:02:03 +0000</pubDate>
@@ -231,6 +251,11 @@
       <title>Critical flaw in Atlassian Bamboo Data Center and Server must be fixed immediately</title>
       <link>https://securityaffairs.com/160838/security/atlassian-fixed-critical-flaw-cve-2024-1597.html</link>
       <pubDate>Wed, 20 Mar 2024 19:39:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Best Multi-Factor Authentication (MFA) Solutions for 2024</title>
+      <link>https://www.techrepublic.com/article/best-multi-factor-authentication-solutions/</link>
+      <pubDate>Wed, 20 Mar 2024 17:19:40 +0000</pubDate>
     </item>
     <item>
       <title>CISA Warns Critical Infrastructure Leaders of Volt Typhoon</title>
@@ -281,31 +306,6 @@
       <title>Quick Glossary: Cybersecurity Countermeasures</title>
       <link>https://www.techrepublic.com/resource-library/downloads/quick-glossary-cybersecurity-countermeasures/</link>
       <pubDate>Wed, 20 Mar 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Study Uncovers 27% Spike in Ransomware; 8% Yield to Demands</title>
-      <link>https://www.infosecurity-magazine.com/news/27-spike-ransomware-8-yield/</link>
-      <pubDate>Wed, 20 Mar 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five Eyes issue another advisory on Volt Typhoon. Privilege escalation technique affects Active Directory environments.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/55</link>
-      <pubDate>Wed, 20 Mar 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DEEP#GOSU Attack Campaign Detection: North Korean Kimsuky APT Is Likely Behind Attacks Using PowerShell and VBScript Malware</title>
-      <link>https://socprime.com/blog/deepgosu-attack-campaign-detection-north-korean-kimsuky-apt-is-likely-behind-attacks-using-powershell-and-vbscript-malware/</link>
-      <pubDate>Wed, 20 Mar 2024 15:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fraudsters are posing as the FTC to scam consumers</title>
-      <link>https://www.tripwire.com/state-of-security/fraudsters-are-posing-ftc-scam-consumers</link>
-      <pubDate>Wed, 20 Mar 2024 15:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actors actively exploit JetBrains TeamCity flaws to deliver malware</title>
-      <link>https://securityaffairs.com/160823/breaking-news/jetbrains-teamcity-flaws-actively-exploited.html</link>
-      <pubDate>Wed, 20 Mar 2024 15:06:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
