@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 10:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 12:27:21 +0000</lastBuildDate>
+    <item>
+      <title>Q4 2023 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2024/03/21/q4-2023-cyber-attacks-statistics/</link>
+      <pubDate>Thu, 21 Mar 2024 11:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Accelerate Vendor Risk Assessments in the Age of SaaS Sprawl</title>
+      <link>https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html</link>
+      <pubDate>Thu, 21 Mar 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Public AI as an Alternative to Corporate AI</title>
+      <link>https://www.schneier.com/blog/archives/2024/03/public-ai-as-an-alternative-to-corporate-ai.html</link>
+      <pubDate>Thu, 21 Mar 2024 11:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Obituary Sites Send Grievers to Porn and Scareware Pages</title>
+      <link>https://www.infosecurity-magazine.com/news/fake-obituary-sites-grievers-porn/</link>
+      <pubDate>Thu, 21 Mar 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>19 million plaintext passwords exposed by incorrectly configured Firebase instances</title>
+      <link>https://www.malwarebytes.com/blog/personal/2024/03/19-million-plaintext-passwords-exposed-by-incorrectly-configured-firebase-instances</link>
+      <pubDate>Thu, 21 Mar 2024 10:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Launches AI-Powered Autofix Tool to Assist Devs in Patching Security Flaws</title>
+      <link>https://thehackernews.com/2024/03/github-launches-ai-powered-autofix-tool.html</link>
+      <pubDate>Thu, 21 Mar 2024 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Curious Serpens’ FalseFont Backdoor: Technical Analysis, Detection and Prevention</title>
       <link>https://unit42.paloaltonetworks.com/curious-serpens-falsefont-backdoor/</link>
       <pubDate>Thu, 21 Mar 2024 10:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti urges customers to fix critical RCE flaw in Standalone Sentry solution</title>
+      <link>https://securityaffairs.com/160864/security/ivanti-critical-rce.html</link>
+      <pubDate>Thu, 21 Mar 2024 09:59:09 +0000</pubDate>
     </item>
     <item>
       <title>Security Researchers Win Second Tesla At Pwn2Own</title>
@@ -233,6 +268,11 @@
       <pubDate>Wed, 20 Mar 2024 13:00:20 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Threat Intelligence unveils targets and innovative tactics amidst tax season</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/03/20/microsoft-threat-intelligence-unveils-targets-and-innovative-tactics-amidst-tax-season/</link>
+      <pubDate>Wed, 20 Mar 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The UK energy sector faces an expanding OT threat landscape</title>
       <link>https://securityintelligence.com/articles/uk-energy-expanding-ot-threat-landscape/</link>
       <pubDate>Wed, 20 Mar 2024 13:00:00 +0000</pubDate>
@@ -266,46 +306,6 @@
       <title>TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks</title>
       <link>https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html</link>
       <pubDate>Wed, 20 Mar 2024 11:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cheating Automatic Toll Booths by Obscuring License Plates</title>
-      <link>https://www.schneier.com/blog/archives/2024/03/cheating-automatic-toll-booths-by-obscuring-license-plates.html</link>
-      <pubDate>Wed, 20 Mar 2024 11:08:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android malware, Android malware and more Android malware</title>
-      <link>https://securelist.com/crimeware-report-android-malware/112121/</link>
-      <pubDate>Wed, 20 Mar 2024 11:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>The ‘AT&amp;T breach’—what you need to know</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/03/the-att-breach-what-you-need-to-know</link>
-      <pubDate>Wed, 20 Mar 2024 10:45:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian Police Arrest Suspected Brute-Force Account Hijackers</title>
-      <link>https://www.infosecurity-magazine.com/news/police-arrest-brute-force-account/</link>
-      <pubDate>Wed, 20 Mar 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navigating China's infrastructure risks in the energy sector.</title>
-      <link>https://thecyberwire.com/podcasts/control-loop/46/notes</link>
-      <pubDate>Wed, 20 Mar 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New BunnyLoader Malware Variant Surfaces with Modular Attack Features</title>
-      <link>https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html</link>
-      <pubDate>Wed, 20 Mar 2024 09:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>White House Convenes States to Discuss Water Sector Breaches</title>
-      <link>https://www.infosecurity-magazine.com/news/white-house-states-water-sector/</link>
-      <pubDate>Wed, 20 Mar 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pokemon Company resets some users’ passwords</title>
-      <link>https://securityaffairs.com/160779/hacking/pokemon-company-resets-some-users-passwords.html</link>
-      <pubDate>Wed, 20 Mar 2024 08:47:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
