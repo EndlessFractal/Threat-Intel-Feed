@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 14:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 16:20:48 +0000</lastBuildDate>
+    <item>
+      <title>US Legislation Targets Data Sharing With Foreign Adversaries</title>
+      <link>https://www.infosecurity-magazine.com/news/us-targets-data-sharing-foreign/</link>
+      <pubDate>Thu, 21 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti patches critical flaw affecting Standalone Sentry. More details on Turla's targeting of European NGOs.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/56</link>
+      <pubDate>Thu, 21 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Latest government funding bill makes modest cut to CISA</title>
+      <link>https://therecord.media/government-funding-bill-makes-modest-cisa-cuts</link>
+      <pubDate>Thu, 21 Mar 2024 15:51:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nemesis darknet marketplace raided in Germany-led operation</title>
+      <link>https://therecord.media/nemesis-cybercrime-market-takedown-germany</link>
+      <pubDate>Thu, 21 Mar 2024 15:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 800 npm Packages Found with Discrepancies, 18 Exploitable to 'Manifest Confusion'</title>
+      <link>https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html</link>
+      <pubDate>Thu, 21 Mar 2024 14:26:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apparel giant VF sends out breach letters to millions following 2023 cyberattack</title>
       <link>https://therecord.media/vf-apparel-sends-breach-notifications-2023-incident</link>
@@ -48,8 +73,18 @@
       <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Advantech WebAccess/SCADA</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-081-01</link>
+      <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques</link>
+      <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases One Industrial Control Systems Advisory</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory</link>
       <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -193,16 +228,6 @@
       <pubDate>Wed, 20 Mar 2024 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AceCryptor malware has surged in Europe, researchers say</title>
-      <link>https://therecord.media/acecryptor-malware-surge-europe-remcos</link>
-      <pubDate>Wed, 20 Mar 2024 19:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Russians sanctioned by US for alleged disinformation campaign</title>
-      <link>https://therecord.media/russians-sanctioned-disinformation-social-design-agency-company-group-structura</link>
-      <pubDate>Wed, 20 Mar 2024 19:51:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Critical flaw in Atlassian Bamboo Data Center and Server must be fixed immediately</title>
       <link>https://securityaffairs.com/160838/security/atlassian-fixed-critical-flaw-cve-2024-1597.html</link>
       <pubDate>Wed, 20 Mar 2024 19:39:18 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>Threat actors actively exploit JetBrains TeamCity flaws to deliver malware</title>
       <link>https://securityaffairs.com/160823/breaking-news/jetbrains-teamcity-flaws-actively-exploited.html</link>
       <pubDate>Wed, 20 Mar 2024 15:06:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proofpoint: APAC Employees Are Choosing Convenience, Speed Over Cyber Security</title>
-      <link>https://www.techrepublic.com/article/proofpoint-2024-state-of-phish-employees-information-security/</link>
-      <pubDate>Wed, 20 Mar 2024 15:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>New 'Loop DoS' Attack Impacts Hundreds of Thousands of Systems</title>
-      <link>https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html</link>
-      <pubDate>Wed, 20 Mar 2024 14:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Government: 75% of UK Businesses Experienced a Cyber Incident in 2023</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-government-businesses-cyber/</link>
-      <pubDate>Wed, 20 Mar 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gotta Hack ‘Em All: Pokémon passwords reset after attack</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/gotta-hack-em-all-pokemon-passwords-reset-after-attack/</link>
-      <pubDate>Wed, 20 Mar 2024 13:29:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scans for Fortinet FortiOS and the CVE-2024-21762 vulnerability, (Wed, Mar 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/30762</link>
-      <pubDate>Wed, 20 Mar 2024 13:05:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
