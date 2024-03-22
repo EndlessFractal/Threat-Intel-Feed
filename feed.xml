@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Mar 2024 12:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 14:14:42 +0000</lastBuildDate>
+    <item>
+      <title>New AcidPour Wiper Targeting Linux Devices Spotted in Ukraine</title>
+      <link>https://www.infosecurity-magazine.com/news/acidpour-wiper-linux-ukraine/</link>
+      <pubDate>Fri, 22 Mar 2024 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Patches Critical 'FlowFixation' Bug in Airflow Service to Prevent Session Hijacking</title>
+      <link>https://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html</link>
+      <pubDate>Fri, 22 Mar 2024 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 12</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-12-5/</link>
+      <pubDate>Fri, 22 Mar 2024 13:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Government Releases New DDoS Attack Guidance for Public Sector</title>
+      <link>https://www.infosecurity-magazine.com/news/us-ddos-attack-guidance-public/</link>
+      <pubDate>Fri, 22 Mar 2024 12:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sandworm-linked group likely knocked down Ukrainian internet providers</title>
       <link>https://therecord.media/ukraine-isps-attacks-solntsepek-sandworm-gru</link>
@@ -15,7 +35,17 @@
     <item>
       <title>Implementing Zero Trust Controls for Compliance</title>
       <link>https://thehackernews.com/2024/03/implementing-zero-trust-controls-for.html</link>
-      <pubDate>Fri, 22 Mar 2024 11:15:00 +0000</pubDate>
+      <pubDate>Fri, 22 Mar 2024 11:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Linked Group Breaches Networks via Connectwise, F5 Software Flaws</title>
+      <link>https://thehackernews.com/2024/03/china-linked-group-breaches-networks.html</link>
+      <pubDate>Fri, 22 Mar 2024 11:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massive Sign1 Campaign Infects 39,000+ WordPress Sites with Scam Redirects</title>
+      <link>https://thehackernews.com/2024/03/massive-sign1-campaign-infects-39000.html</link>
+      <pubDate>Fri, 22 Mar 2024 11:27:00 +0000</pubDate>
     </item>
     <item>
       <title>Google Pays $10M in Bug Bounties in 2023</title>
@@ -106,6 +136,11 @@
       <title>US Treasury Targets Russian Entities in Cyber Influence Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/us-targets-russia-cyber-influence/</link>
       <pubDate>Thu, 21 Mar 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Enhances Cloud Detection and Response (CDR) Capabilities to Protect CI/CD Pipeline</title>
+      <link>https://www.crowdstrike.com/blog/crowdstrike-enhances-cdr-capabilities-for-cicd-pipeline/</link>
+      <pubDate>Thu, 21 Mar 2024 16:54:15 +0000</pubDate>
     </item>
     <item>
       <title>Whois "geofeed" Data, (Thu, Mar 21st)</title>
@@ -271,41 +306,6 @@
       <title>Atlassian Releases Fixes for Over 2 Dozen Flaws, Including Critical Bamboo Bug</title>
       <link>https://thehackernews.com/2024/03/atlassian-releases-fixes-for-over-2.html</link>
       <pubDate>Thu, 21 Mar 2024 03:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Not-so-True People-Search Network from China</title>
-      <link>https://krebsonsecurity.com/2024/03/the-not-so-true-people-search-network-from-china/</link>
-      <pubDate>Thu, 21 Mar 2024 03:18:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, March 21st, 2024 https://isc.sans.edu/podcastdetail/8904, (Thu, Mar 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/30764</link>
-      <pubDate>Thu, 21 Mar 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #364: Bing pop-up wars, and the British Library ransomware scandal</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-364/</link>
-      <pubDate>Thu, 21 Mar 2024 00:02:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>2023 Annual Report</title>
-      <link>https://www.recordedfuture.com/2023-annual-report</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reversing The Trend: Support and Mediation Win as a Team</title>
-      <link>https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team</link>
-      <pubDate>Wed, 20 Mar 2024 23:15:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apex Legends Global Series plagued by hackers</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/03/apex-legends-global-series-plagued-by-hackers</link>
-      <pubDate>Wed, 20 Mar 2024 21:49:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biden's cyber splash in protecting the nation's water systems.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/2028/notes</link>
-      <pubDate>Wed, 20 Mar 2024 20:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
