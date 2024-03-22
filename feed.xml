@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 22:14:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 01:05:39 +0000</lastBuildDate>
+    <item>
+      <title>Critical Fortinet’s FortiClient EMS flaw actively exploited in the wild</title>
+      <link>https://securityaffairs.com/160885/uncategorized/fortinet-forticlient-ems-critical-flaw.html</link>
+      <pubDate>Thu, 21 Mar 2024 21:42:57 +0000</pubDate>
+    </item>
     <item>
       <title>Patch Ivanti Standalone Sentry and Ivanti Neurons for ITSM now</title>
       <link>https://www.malwarebytes.com/blog/news/2024/03/patch-ivanti-standalone-sentry-and-ivanti-neurons-for-itsm-now</link>
@@ -301,11 +306,6 @@
       <title>Remote Desktop Protocol: Queries for Investigation</title>
       <link>https://news.sophos.com/en-us/2024/03/20/remote-desktop-protocol-queries-for-investigation/</link>
       <pubDate>Wed, 20 Mar 2024 16:15:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remote Desktop Protocol: How to Use Time Zone Bias</title>
-      <link>https://news.sophos.com/en-us/2024/03/20/remote-desktop-protocol-how-to-use-time-zone-bias/</link>
-      <pubDate>Wed, 20 Mar 2024 16:13:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
