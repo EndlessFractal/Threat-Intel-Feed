@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Mar 2024 14:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 16:17:25 +0000</lastBuildDate>
+    <item>
+      <title>Mozilla fixed Firefox zero-days exploited at Pwn2Own Vancouver 2024</title>
+      <link>https://securityaffairs.com/160966/hacking/mozilla-fixed-firefox-zero-day-pwn2own-vancouver-2024.html</link>
+      <pubDate>Sat, 23 Mar 2024 13:53:46 +0000</pubDate>
+    </item>
     <item>
       <title>Large-scale Sign1 malware campaign already infected 39,000+ WordPress sites</title>
       <link>https://securityaffairs.com/160942/hacking/sign1-malware-campaign.html</link>
@@ -300,11 +305,6 @@
     <item>
       <title>CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques</link>
-      <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory</link>
       <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
