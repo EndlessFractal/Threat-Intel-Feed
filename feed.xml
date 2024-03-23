@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Mar 2024 22:14:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 01:04:27 +0000</lastBuildDate>
+    <item>
+      <title>Unsaflok flaws allow to open millions of doors using Dormakaba Saflok electronic locks</title>
+      <link>https://securityaffairs.com/160900/hacking/unsaflok-flaws-dormakaba-saflok-electronic-locks.html</link>
+      <pubDate>Fri, 22 Mar 2024 22:27:28 +0000</pubDate>
+    </item>
     <item>
       <title>Friday Squid Blogging: New Species of Squid Discovered</title>
       <link>https://www.schneier.com/blog/archives/2024/03/friday-squid-blogging-new-species-of-squid-discovered.html</link>
@@ -301,11 +306,6 @@
       <title>19 million plaintext passwords exposed by incorrectly configured Firebase instances</title>
       <link>https://www.malwarebytes.com/blog/personal/2024/03/19-million-plaintext-passwords-exposed-by-incorrectly-configured-firebase-instances</link>
       <pubDate>Thu, 21 Mar 2024 10:40:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Launches AI-Powered Autofix Tool to Assist Devs in Patching Security Flaws</title>
-      <link>https://thehackernews.com/2024/03/github-launches-ai-powered-autofix-tool.html</link>
-      <pubDate>Thu, 21 Mar 2024 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
