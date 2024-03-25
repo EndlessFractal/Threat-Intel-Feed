@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Mar 2024 16:19:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 18:20:00 +0000</lastBuildDate>
+    <item>
+      <title>US sanctions alleged Chinese state hackers for attacks on critical infrastructure</title>
+      <link>https://therecord.media/us-sanctions-chinese-hackers-infrastructure-attacks</link>
+      <pubDate>Mon, 25 Mar 2024 18:15:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>US penalizes Russian fintech firms that helped others evade sanctions</title>
+      <link>https://therecord.media/us-sanctions-russian-fintech-firms-evasions-cryptocurrency</link>
+      <pubDate>Mon, 25 Mar 2024 17:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Tycoon 2FA Phishing Kit Raises Cybersecurity Concerns</title>
+      <link>https://www.infosecurity-magazine.com/news/new-tycoon-2fa-phishing-kit/</link>
+      <pubDate>Mon, 25 Mar 2024 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Far-reaching’ hack stole information from Python developers</title>
+      <link>https://therecord.media/far-reaching-hack-stole-information-from-python-developers</link>
+      <pubDate>Mon, 25 Mar 2024 16:52:20 +0000</pubDate>
+    </item>
     <item>
       <title>APT29 launches phishing campaign against German politicians. Supply chain attack compromises Python developers.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/58</link>
       <pubDate>Mon, 25 Mar 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notorious Nemesis Market zapped by video game-loving German police</title>
+      <link>https://www.tripwire.com/state-of-security/notorious-nemesis-market-zapped-video-game-loving-german-police</link>
+      <pubDate>Mon, 25 Mar 2024 16:14:26 +0000</pubDate>
     </item>
     <item>
       <title>ZTNA Plus DLP Equals a Strong Approach to Secure Access</title>
@@ -20,6 +45,11 @@
     <item>
       <title>Fake Ozempic Deals on the Rise as Experts Warn of Phishing Scams</title>
       <link>https://www.infosecurity-magazine.com/news/phishing-scams-targets-ozempic/</link>
+      <pubDate>Mon, 25 Mar 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Are Bug Bounties and How Do They Work?</title>
+      <link>https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples</link>
       <pubDate>Mon, 25 Mar 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -100,11 +130,6 @@
     <item>
       <title>Police Bust Multimillion-Dollar Holiday Fraud Gang</title>
       <link>https://www.infosecurity-magazine.com/news/police-bust-holiday-fraud-gang/</link>
-      <pubDate>Mon, 25 Mar 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pentagon, Congress have a ‘limited window’ to properly create a Cyber Force</title>
-      <link>https://therecord.media/military-cyber-force-study-fdd</link>
       <pubDate>Mon, 25 Mar 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
@@ -233,11 +258,6 @@
       <pubDate>Fri, 22 Mar 2024 20:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>UN probing 58 alleged crypto heists by North Korea worth $3 billion</title>
-      <link>https://therecord.media/north-korea-cryptocurrency-hacks-un-experts</link>
-      <pubDate>Fri, 22 Mar 2024 20:06:05 +0000</pubDate>
-    </item>
-    <item>
       <title>Whois "geofeed" Data, (Thu, Mar 21st)</title>
       <link>https://isc.sans.edu/diary/rss/30766</link>
       <pubDate>Fri, 22 Mar 2024 19:54:31 +0000</pubDate>
@@ -256,11 +276,6 @@
       <title>Canada revisits decision to ban Flipper Zero</title>
       <link>https://www.malwarebytes.com/blog/news/2024/03/canada-revisits-decision-to-ban-flipper-zero</link>
       <pubDate>Fri, 22 Mar 2024 18:43:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>German political parties are latest targets of Russian cyber spies</title>
-      <link>https://therecord.media/german-political-parties-russia-espionage-svr</link>
-      <pubDate>Fri, 22 Mar 2024 17:03:47 +0000</pubDate>
     </item>
     <item>
       <title>JumpCloud vs Okta (2024): IAM Software Comparison</title>
@@ -291,21 +306,6 @@
       <title>New StrelaStealer Phishing Attacks Hit Over 100 Organizations in E.U. and U.S.</title>
       <link>https://thehackernews.com/2024/03/new-strelastealer-phishing-attacks-hit.html</link>
       <pubDate>Fri, 22 Mar 2024 14:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auth0 vs Okta (2024): Which IAM Software Is Better?</title>
-      <link>https://www.techrepublic.com/article/auth0-vs-okta/</link>
-      <pubDate>Fri, 22 Mar 2024 14:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>New AcidPour Wiper Targeting Linux Devices Spotted in Ukraine</title>
-      <link>https://www.infosecurity-magazine.com/news/acidpour-wiper-linux-ukraine/</link>
-      <pubDate>Fri, 22 Mar 2024 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Patches Critical 'FlowFixation' Bug in Airflow Service to Prevent Session Hijacking</title>
-      <link>https://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html</link>
-      <pubDate>Fri, 22 Mar 2024 13:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
