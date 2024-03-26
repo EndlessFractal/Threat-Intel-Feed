@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Mar 2024 01:06:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 02:23:30 +0000</lastBuildDate>
+    <item>
+      <title>Malware Disguised as Installer from Korean Public Institution (Kimsuky Group)</title>
+      <link>https://asec.ahnlab.com/en/63396/</link>
+      <pubDate>Tue, 26 Mar 2024 02:04:48 +0000</pubDate>
+    </item>
     <item>
       <title>Apple Updates for MacOS, iOS/iPadOS and visionOS, (Mon, Mar 25th)</title>
       <link>https://isc.sans.edu/diary/rss/30778</link>
@@ -301,11 +306,6 @@
       <title>Duo vs Microsoft Authenticator (2024): Which Tool is Better?</title>
       <link>https://www.techrepublic.com/article/duo-vs-microsoft-authenticator/</link>
       <pubDate>Fri, 22 Mar 2024 16:07:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 6 Google Authenticator Alternatives in 2024</title>
-      <link>https://www.techrepublic.com/article/top-google-authenticator-alternatives/</link>
-      <pubDate>Fri, 22 Mar 2024 16:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
