@@ -6,11 +6,61 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Mar 2024 12:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 14:13:30 +0000</lastBuildDate>
+    <item>
+      <title>CISA Launches New Cyber Incident Reporting Rules for US Defense Contractors</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-update-circia-us-defense/</link>
+      <pubDate>Fri, 29 Mar 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to back up your Mac</title>
+      <link>https://www.malwarebytes.com/blog/apple/2024/03/how-to-back-up-your-mac</link>
+      <pubDate>Fri, 29 Mar 2024 13:41:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to back up your Windows 10/11 PC to OneDrive</title>
+      <link>https://www.malwarebytes.com/blog/personal/2024/03/how-to-back-up-your-windows-10-11-pc-to-onedrive</link>
+      <pubDate>Fri, 29 Mar 2024 13:40:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to back up your iPhone to a Windows computer</title>
+      <link>https://www.malwarebytes.com/blog/apple/2024/03/how-to-back-up-your-iphone-to-a-windows-computer</link>
+      <pubDate>Fri, 29 Mar 2024 13:38:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to back up your iPhone to a Mac</title>
+      <link>https://www.malwarebytes.com/blog/apple/2024/03/how-to-back-up-your-iphone-to-a-mac</link>
+      <pubDate>Fri, 29 Mar 2024 13:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to back up your iPhone to iCloud</title>
+      <link>https://www.malwarebytes.com/blog/apple/2024/03/how-to-back-up-your-iphone-or-ipad-to-icloud</link>
+      <pubDate>Fri, 29 Mar 2024 13:35:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 13</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-13-5/</link>
+      <pubDate>Fri, 29 Mar 2024 13:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware gang leaks stolen Scottish healthcare patient data in extortion bid</title>
+      <link>https://therecord.media/healthcare-ransomware-data-breach-nhs-scotland</link>
+      <pubDate>Fri, 29 Mar 2024 12:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco warns of password-spraying attacks targeting Secure Firewall devices</title>
+      <link>https://securityaffairs.com/161205/hacking/cisco-warns-password-spraying-attacks.html</link>
+      <pubDate>Fri, 29 Mar 2024 12:34:50 +0000</pubDate>
+    </item>
     <item>
       <title>British nuclear site Sellafield to be prosecuted for cybersecurity failures</title>
       <link>https://therecord.media/sellafield-site-prosecution-nuclear-facility-cybersecurity</link>
       <pubDate>Fri, 29 Mar 2024 12:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>TheMoon Botnet Resurfaces, Exploiting EoL Devices to Power Criminal Proxy</title>
+      <link>https://thehackernews.com/2024/03/themoon-botnet-resurfaces-exploiting.html</link>
+      <pubDate>Fri, 29 Mar 2024 12:12:00 +0000</pubDate>
     </item>
     <item>
       <title>The Golden Age of Automated Penetration Testing is Here</title>
@@ -86,11 +136,6 @@
       <title>Powering the future of ThreatDown with AI</title>
       <link>https://www.malwarebytes.com/blog/business/2024/03/powering-the-future-of-threatdown-with-ai</link>
       <pubDate>Thu, 28 Mar 2024 19:12:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Popular PyPI site for developers temporarily blocks functions due to malware campaign</title>
-      <link>https://therecord.media/pypl-python-developer-site-malware-campaign</link>
-      <pubDate>Thu, 28 Mar 2024 19:10:50 +0000</pubDate>
     </item>
     <item>
       <title>Stopping a K-12 cyberattack (SolarMarker) with ThreatDown MDR</title>
@@ -198,11 +243,6 @@
       <pubDate>Thu, 28 Mar 2024 11:05:01 +0000</pubDate>
     </item>
     <item>
-      <title>Cybercriminals play dirty: A look back at 10 cyber hits on the sporting world</title>
-      <link>https://www.welivesecurity.com/en/cybercrime/cybercriminals-play-dirty-10-cyber-hits-sporting-world/</link>
-      <pubDate>Thu, 28 Mar 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>From JavaScript to AsyncRAT, (Thu, Mar 28th)</title>
       <link>https://isc.sans.edu/diary/rss/30788</link>
       <pubDate>Thu, 28 Mar 2024 10:22:40 +0000</pubDate>
@@ -266,46 +306,6 @@
       <title>NHS Trust Confirms Clinical Data Leaked by “Recognized Ransomware Group”</title>
       <link>https://www.infosecurity-magazine.com/news/nhs-clinical-data-leaked-ransomware/</link>
       <pubDate>Wed, 27 Mar 2024 16:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware hits The Big Issue. Qilin group leaks confidential data</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/ransomware-hits-the-big-issue-qilin-group-leaks-confidential-data/</link>
-      <pubDate>Wed, 27 Mar 2024 16:26:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protect Your Business With This Seamless Firewall — Now $150 Off</title>
-      <link>https://www.techrepublic.com/article/dns-firewall-lifetime-subscription/</link>
-      <pubDate>Wed, 27 Mar 2024 16:21:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hiring Kit: Security Analyst</title>
-      <link>https://www.techrepublic.com/resource-library/toolstemplates/hiring-kit-security-analyst/</link>
-      <pubDate>Wed, 27 Mar 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updates on Chinese APT activity.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/60</link>
-      <pubDate>Wed, 27 Mar 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Hit Indian Defense, Energy Sectors with Malware Posing as Air Force Invite</title>
-      <link>https://thehackernews.com/2024/03/hackers-target-indian-defense-and.html</link>
-      <pubDate>Wed, 27 Mar 2024 15:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA adds Microsoft SharePoint bug disclosed at Pwn2Own to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/161134/security/cisa-microsoft-sharepoint-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 27 Mar 2024 15:11:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exit Sandman | How SentinelOne Deflects APT-Level Identity Security Risks</title>
-      <link>https://www.sentinelone.com/blog/exit-sandman-how-sentinelone-deflects-apt-level-identity-security-risks/</link>
-      <pubDate>Wed, 27 Mar 2024 14:28:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Supply Chain Attack Detection: Hackers Apply Multiple Tactics to Target GitHub Developers Using a Fake Python Infrastructure</title>
-      <link>https://socprime.com/blog/new-supply-chain-attack-detection-hackers-apply-multiple-tactics-to-target-github-developers-using-a-fake-python-infrastructure/</link>
-      <pubDate>Wed, 27 Mar 2024 14:03:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
