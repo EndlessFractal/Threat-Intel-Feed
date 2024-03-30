@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Mar 2024 18:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 20:14:41 +0000</lastBuildDate>
+    <item>
+      <title>Expert found a backdoor in XZ tools used many Linux distributions</title>
+      <link>https://securityaffairs.com/161224/malware/backdoor-xz-tools-linux-distros.html</link>
+      <pubDate>Sat, 30 Mar 2024 19:50:31 +0000</pubDate>
+    </item>
     <item>
       <title>German BSI warns of 17,000 unpatched Microsoft Exchange servers</title>
       <link>https://securityaffairs.com/161217/security/bsi-warns-vulnerable-microsoft-exchange.html</link>
@@ -301,11 +306,6 @@
       <title>17 Billion Personal Records Exposed in Data Breaches in 2023</title>
       <link>https://www.infosecurity-magazine.com/news/personal-records-exposed-data/</link>
       <pubDate>Thu, 28 Mar 2024 12:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google: China dominates government exploitation of zero-day vulnerabilities in 2023</title>
-      <link>https://securityaffairs.com/161171/hacking/google-zero-day-vulnerabilities-2023.html</link>
-      <pubDate>Thu, 28 Mar 2024 12:14:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
