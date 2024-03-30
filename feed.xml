@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Mar 2024 08:19:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 10:15:41 +0000</lastBuildDate>
+    <item>
+      <title>German BSI warns of 17,000 unpatched Microsoft Exchange servers</title>
+      <link>https://securityaffairs.com/161217/security/bsi-warns-vulnerable-microsoft-exchange.html</link>
+      <pubDate>Sat, 30 Mar 2024 08:28:57 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware</title>
       <link>https://thehackernews.com/2024/03/hackers-target-macos-users-with.html</link>
@@ -301,11 +306,6 @@
       <title>Google: China dominates government exploitation of zero-day vulnerabilities in 2023</title>
       <link>https://securityaffairs.com/161171/hacking/google-zero-day-vulnerabilities-2023.html</link>
       <pubDate>Thu, 28 Mar 2024 12:14:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/03/28/cisco-releases-security-updates-multiple-products</link>
-      <pubDate>Thu, 28 Mar 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
