@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Mar 2024 18:17:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 20:16:56 +0000</lastBuildDate>
+    <item>
+      <title>Checking CSV Files, (Sun, Mar 31st)</title>
+      <link>https://isc.sans.edu/diary/rss/30796</link>
+      <pubDate>Sun, 31 Mar 2024 17:41:09 +0000</pubDate>
+    </item>
     <item>
       <title>Security Affairs newsletter Round 465 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/161269/breaking-news/security-affairs-newsletter-round-465-by-pierluigi-paganini-international-edition.html</link>
       <pubDate>Sun, 31 Mar 2024 17:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wireshark 4.2.4 Released, (Sun, Mar 31st)</title>
+      <link>https://isc.sans.edu/diary/rss/30794</link>
+      <pubDate>Sun, 31 Mar 2024 17:12:57 +0000</pubDate>
     </item>
     <item>
       <title>DinodasRAT Linux variant targets users worldwide</title>
@@ -296,16 +306,6 @@
       <title>Sellafield nuclear waste dump faces prosecution over cybersecurity failures</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/sellafield-nuclear-waste-dump-faces-prosecution-over-cybersecurity-failures/</link>
       <pubDate>Thu, 28 Mar 2024 15:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ZenHammer Attack Bypasses RowHammer Defenses on AMD CPUs</title>
-      <link>https://thehackernews.com/2024/03/new-zenhammer-attack-bypasses-rowhammer.html</link>
-      <pubDate>Thu, 28 Mar 2024 14:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enter the substitute teacher</title>
-      <link>https://blog.talosintelligence.com/threat-source-newsletter-enter-the-substitute-teacher/</link>
-      <pubDate>Thu, 28 Mar 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
