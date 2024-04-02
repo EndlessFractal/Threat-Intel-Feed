@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Apr 2024 02:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 04:18:15 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Tuesday, April 2nd, 2024 https://isc.sans.edu/podcastdetail/8920, (Tue, Apr 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/30804</link>
+      <pubDate>Tue, 02 Apr 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Prudential Insurance says data of 36,000 exposed during February cyberattack</title>
       <link>https://therecord.media/prudential-discloses-new-information-from-february-incident</link>
@@ -301,11 +306,6 @@
       <title>Cisco warns of password-spraying attacks targeting Secure Firewall devices</title>
       <link>https://securityaffairs.com/161205/hacking/cisco-warns-password-spraying-attacks.html</link>
       <pubDate>Fri, 29 Mar 2024 12:34:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheMoon Botnet Resurfaces, Exploiting EoL Devices to Power Criminal Proxy</title>
-      <link>https://thehackernews.com/2024/03/themoon-botnet-resurfaces-exploiting.html</link>
-      <pubDate>Fri, 29 Mar 2024 12:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
