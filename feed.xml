@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Apr 2024 18:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 20:15:23 +0000</lastBuildDate>
+    <item>
+      <title>From lawsuit to logoff: Google's incognito mode makeover.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/2037/notes</link>
+      <pubDate>Tue, 02 Apr 2024 20:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XSS flaw in WordPress WP-Members Plugin can lead to script injection</title>
+      <link>https://securityaffairs.com/161407/hacking/wordpress-wp-members-plugin-xss.html</link>
+      <pubDate>Tue, 02 Apr 2024 18:59:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>xz Utils Backdoor</title>
+      <link>https://www.schneier.com/blog/archives/2024/04/xz-utils-backdoor.html</link>
+      <pubDate>Tue, 02 Apr 2024 18:50:50 +0000</pubDate>
+    </item>
     <item>
       <title>Binarly released the free online scanner to detect the CVE-2024-3094 Backdoor</title>
       <link>https://securityaffairs.com/161396/security/cve-2024-3094-backdoor-scanner.html</link>
@@ -76,11 +91,6 @@
       <title>Malicious Code in XZ Utils for Linux Systems Enables Remote Code Execution</title>
       <link>https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html</link>
       <pubDate>Tue, 02 Apr 2024 13:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Priva announces new solutions to help modernize your privacy program</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/04/02/microsoft-priva-announces-new-solutions-to-help-modernize-your-privacy-program/</link>
-      <pubDate>Tue, 02 Apr 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The evolution of a CISO: How the role has changed</title>
@@ -296,16 +306,6 @@
       <title>Ross Anderson</title>
       <link>https://www.schneier.com/blog/archives/2024/03/ross-anderson.html</link>
       <pubDate>Mon, 01 Apr 2024 00:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checking CSV Files, (Sun, Mar 31st)</title>
-      <link>https://isc.sans.edu/diary/rss/30796</link>
-      <pubDate>Sun, 31 Mar 2024 17:41:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 465 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/161269/breaking-news/security-affairs-newsletter-round-465-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 31 Mar 2024 17:24:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
