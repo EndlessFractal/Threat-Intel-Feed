@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Apr 2024 14:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 16:19:41 +0000</lastBuildDate>
+    <item>
+      <title>OWASP Foundation warns members of data breach after discovering 1,000 resumes on Wiki server</title>
+      <link>https://therecord.media/owasp-foundation-warns-of-data-breach-resumes</link>
+      <pubDate>Tue, 02 Apr 2024 16:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google agrees to delete Incognito Mode browsing records. Indian government rescues 250 citizens from cyber slavery.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/64</link>
+      <pubDate>Tue, 02 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Report Sevenfold Increase in Data Theft Cases</title>
+      <link>https://www.infosecurity-magazine.com/news/sevenfold-increase-data-theft-cases/</link>
+      <pubDate>Tue, 02 Apr 2024 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trusted Contributor Plants Sophisticated Backdoor in Critical Open-Source Library</title>
+      <link>https://www.infosecurity-magazine.com/news/backdoor-xz-utils-linux-open-source/</link>
+      <pubDate>Tue, 02 Apr 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PinnacleOne ExecBrief | Geopolitical and Cyber Risk in the Portfolio</title>
+      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-geopolitical-and-cyber-risk-in-the-portfolio/</link>
+      <pubDate>Tue, 02 Apr 2024 14:15:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trusted Advisor now available for Mac, iOS, and Android</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/04/trusted-advisor-now-available-for-mac-ios-and-android</link>
+      <pubDate>Tue, 02 Apr 2024 14:12:09 +0000</pubDate>
+    </item>
     <item>
       <title>Malicious Code in XZ Utils for Linux Systems Enables Remote Code Execution</title>
       <link>https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html</link>
@@ -26,6 +56,21 @@
       <title>Adversaries are leveraging remote access tools now more than ever — here’s how to stop them</title>
       <link>https://blog.talosintelligence.com/adversaries-are-leveraging-remote-access-tools/</link>
       <pubDate>Tue, 02 Apr 2024 12:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>IOSIX IO-1020 Micro ELD</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-093-01</link>
+      <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Publishes New Webpage Dedicated to Providing Resources for High-Risk Communities</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/02/cisa-publishes-new-webpage-dedicated-providing-resources-high-risk-communities</link>
+      <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases One Industrial Control Systems Advisory</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/02/cisa-releases-one-industrial-control-systems-advisory</link>
+      <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Amazon refuses to refund me £700 for iPhone 15 it didn’t deliver</title>
@@ -136,11 +181,6 @@
       <title>Free VPN apps turn Android phones into criminal proxies</title>
       <link>https://www.malwarebytes.com/blog/news/2024/04/free-vpn-apps-turn-android-phones-into-criminal-proxies</link>
       <pubDate>Mon, 01 Apr 2024 17:58:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>FCC to probe ‘grave’ weaknesses in phone network infrastructure</title>
-      <link>https://therecord.media/fcc-ss7-diameter-protocols-investigation</link>
-      <pubDate>Mon, 01 Apr 2024 17:50:30 +0000</pubDate>
     </item>
     <item>
       <title>Malicious backdoor infiltrates widespread Linux package.</title>
@@ -266,46 +306,6 @@
       <title>AT&amp;T confirmed that a data breach impacted 73 million customers</title>
       <link>https://securityaffairs.com/161244/data-breach/att-confirmed-data-breach-73m-people.html</link>
       <pubDate>Sun, 31 Mar 2024 00:09:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expert found a backdoor in XZ tools used many Linux distributions</title>
-      <link>https://securityaffairs.com/161224/malware/backdoor-xz-tools-linux-distros.html</link>
-      <pubDate>Sat, 30 Mar 2024 19:50:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware</title>
-      <link>https://thehackernews.com/2024/03/hackers-target-macos-users-with.html</link>
-      <pubDate>Sat, 30 Mar 2024 07:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 393</title>
-      <link>https://www.troyhunt.com/weekly-update-393/</link>
-      <pubDate>Sat, 30 Mar 2024 06:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros</title>
-      <link>https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html</link>
-      <pubDate>Sat, 30 Mar 2024 05:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The supply chain in disarray.</title>
-      <link>https://thecyberwire.com/podcasts/research-saturday/323/notes</link>
-      <pubDate>Sat, 30 Mar 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updates on suspected Chinese APT activities.</title>
-      <link>https://thecyberwire.com/newsletters/week-that-was/8/13</link>
-      <pubDate>Sat, 30 Mar 2024 04:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: The Geopolitics of Eating Squid</title>
-      <link>https://www.schneier.com/blog/archives/2024/03/68676.html</link>
-      <pubDate>Fri, 29 Mar 2024 21:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pentagon’s cybersecurity roadmap.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/2035/notes</link>
-      <pubDate>Fri, 29 Mar 2024 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
