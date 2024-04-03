@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Apr 2024 02:22:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 04:19:01 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Wednesday, April 3rd, 2024 https://isc.sans.edu/podcastdetail/8922, (Wed, Apr 3rd)</title>
+      <link>https://isc.sans.edu/diary/rss/30806</link>
+      <pubDate>Wed, 03 Apr 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>AT&amp;T confirms 73 million people affected by data breach</title>
       <link>https://www.malwarebytes.com/blog/news/2024/04/att-confirms-73-million-people-affected-by-data-breach</link>
@@ -51,6 +56,11 @@
       <title>Declassified NSA Newsletters</title>
       <link>https://www.schneier.com/blog/archives/2024/04/declassified-nsa-newsletters.html</link>
       <pubDate>Tue, 02 Apr 2024 17:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Continuing our work with CISA and the Joint Cyber Defense Collaborative to keep vulnerable communities secure online</title>
+      <link>https://blog.cloudflare.com/cisa-cyber-defense-keep-vulnerable-communities-secure-online</link>
+      <pubDate>Tue, 02 Apr 2024 17:00:40 +0000</pubDate>
     </item>
     <item>
       <title>AT&amp;T Confirms 73 Million Customer Data Breach Linked to Dark Web</title>
@@ -296,16 +306,6 @@
       <title>Poland launches inquiry into previous government’s spyware use</title>
       <link>https://www.theguardian.com/world/2024/apr/01/poland-launches-inquiry-into-previous-governments-spyware-use</link>
       <pubDate>Mon, 01 Apr 2024 04:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, April 1st, 2024 https://isc.sans.edu/podcastdetail/8918, (Mon, Apr 1st)</title>
-      <link>https://isc.sans.edu/diary/rss/30798</link>
-      <pubDate>Mon, 01 Apr 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Hey, This Isn’t the Right Site!” Distribution of Malware Exploiting Google Ads Tracking</title>
-      <link>https://asec.ahnlab.com/en/63477/</link>
-      <pubDate>Mon, 01 Apr 2024 01:12:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
