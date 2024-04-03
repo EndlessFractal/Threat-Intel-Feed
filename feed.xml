@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Apr 2024 10:17:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 12:28:04 +0000</lastBuildDate>
+    <item>
+      <title>YouTube channels found using pirated video games as bait for malware campaign</title>
+      <link>https://therecord.media/youtube-infostealer-campaign-cracked-pirated-video-games</link>
+      <pubDate>Wed, 03 Apr 2024 12:04:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unpatched Vulnerabilities: The Most Brutal Ransomware Attack Vector</title>
+      <link>https://news.sophos.com/en-us/2024/04/03/unpatched-vulnerabilities-the-most-brutal-ransomware-attack-vector/</link>
+      <pubDate>Wed, 03 Apr 2024 12:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>This IT Career Kickstarter Bundle is An Extra 20% Off Through April 7th</title>
+      <link>https://www.techrepublic.com/article/the-2023-ultimate-it-career-kickstarter-bundle/</link>
+      <pubDate>Wed, 03 Apr 2024 11:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK and US to Build Common Approach on AI Safety</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-us-partnership-ai-safety/</link>
+      <pubDate>Wed, 03 Apr 2024 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack Surface Management vs. Vulnerability Management</title>
+      <link>https://thehackernews.com/2024/04/attack-surface-management-vs.html</link>
+      <pubDate>Wed, 03 Apr 2024 11:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Class-Action Lawsuit against Google’s Incognito Mode</title>
+      <link>https://www.schneier.com/blog/archives/2024/04/class-action-lawsuit-against-googles-incognito-mode.html</link>
+      <pubDate>Wed, 03 Apr 2024 11:01:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>RDP Abuse Present in 90% of Ransomware Breaches</title>
+      <link>https://www.infosecurity-magazine.com/news/rdp-abuse-90-ransomware-breaches/</link>
+      <pubDate>Wed, 03 Apr 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s Oh So Quiet (?): The Sophos Active Adversary Report for 1H 2024</title>
+      <link>https://news.sophos.com/en-us/2024/04/03/active-adversary-report-1h-2024/</link>
+      <pubDate>Wed, 03 Apr 2024 10:01:37 +0000</pubDate>
+    </item>
     <item>
       <title>Hunting adversaries.</title>
       <link>https://thecyberwire.com/podcasts/control-loop/47/notes</link>
@@ -98,6 +138,11 @@
       <pubDate>Tue, 02 Apr 2024 17:05:15 +0000</pubDate>
     </item>
     <item>
+      <title>Continuing our work with CISA and the Joint Cyber Defense Collaborative to keep vulnerable communities secure online</title>
+      <link>https://blog.cloudflare.com/cisa-cyber-defense-keep-vulnerable-communities-secure-online</link>
+      <pubDate>Tue, 02 Apr 2024 17:00:40 +0000</pubDate>
+    </item>
+    <item>
       <title>AT&amp;T Confirms 73 Million Customer Data Breach Linked to Dark Web</title>
       <link>https://www.infosecurity-magazine.com/news/atandt-confirms-73m-customer-data/</link>
       <pubDate>Tue, 02 Apr 2024 16:30:00 +0000</pubDate>
@@ -141,11 +186,6 @@
       <title>Malicious Code in XZ Utils for Linux Systems Enables Remote Code Execution</title>
       <link>https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html</link>
       <pubDate>Tue, 02 Apr 2024 13:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Priva announces new solutions to help modernize your privacy program</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/04/02/microsoft-priva-announces-new-solutions-to-help-modernize-your-privacy-program/</link>
-      <pubDate>Tue, 02 Apr 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The evolution of a CISO: How the role has changed</title>
@@ -248,11 +288,6 @@
       <pubDate>Tue, 02 Apr 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>Prudential Insurance says data of 36,000 exposed during February cyberattack</title>
-      <link>https://therecord.media/prudential-discloses-new-information-from-february-incident</link>
-      <pubDate>Tue, 02 Apr 2024 00:50:52 +0000</pubDate>
-    </item>
-    <item>
       <title>OWASP discloses a data breach</title>
       <link>https://securityaffairs.com/161371/data-breach/owasp-data-breach.html</link>
       <pubDate>Mon, 01 Apr 2024 21:41:46 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Free VPN apps turn Android phones into criminal proxies</title>
       <link>https://www.malwarebytes.com/blog/news/2024/04/free-vpn-apps-turn-android-phones-into-criminal-proxies</link>
       <pubDate>Mon, 01 Apr 2024 17:58:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious backdoor infiltrates widespread Linux package.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/63</link>
-      <pubDate>Mon, 01 Apr 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The amazingly scary xz sshd backdoor, (Mon, Apr 1st)</title>
-      <link>https://isc.sans.edu/diary/rss/30802</link>
-      <pubDate>Mon, 01 Apr 2024 15:25:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Vultur malware version includes enhanced remote control and evasion capabilities</title>
-      <link>https://securityaffairs.com/161320/malware/vultur-banking-trojan-android.html</link>
-      <pubDate>Mon, 01 Apr 2024 14:32:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2024</title>
-      <link>https://www.techrepublic.com/article/top-tech-conferences-events/</link>
-      <pubDate>Mon, 01 Apr 2024 14:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Magic Security Dust</title>
-      <link>https://www.schneier.com/blog/archives/2024/04/magic-security-dust.html</link>
-      <pubDate>Mon, 01 Apr 2024 14:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian Government Rescues 250 Citizens Forced into Cybercrime in Cambodia</title>
-      <link>https://thehackernews.com/2024/04/indian-government-rescues-250-citizens.html</link>
-      <pubDate>Mon, 01 Apr 2024 13:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2023-42931 Detection: Critical macOS Vulnerability Enabling Easy Privilege Escalation and Root Access</title>
-      <link>https://socprime.com/blog/cve-2023-42931-detection-critical-macos-vulnerability-enabling-easy-privilege-escalation-and-root-access/</link>
-      <pubDate>Mon, 01 Apr 2024 13:22:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
