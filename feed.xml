@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Apr 2024 20:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 22:13:45 +0000</lastBuildDate>
+    <item>
+      <title>‘An attack on the reputation of Palau’: officials question who was really behind ransomware incident</title>
+      <link>https://therecord.media/palau-attack-who-was-behind-china-us</link>
+      <pubDate>Thu, 04 Apr 2024 21:07:53 +0000</pubDate>
+    </item>
     <item>
       <title>Securing secrets: The State Department's cyber hunt.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/2039/notes</link>
@@ -58,11 +63,6 @@
       <pubDate>Thu, 04 Apr 2024 17:04:16 +0000</pubDate>
     </item>
     <item>
-      <title>Volt Typhoon and 4 other groups targeting US energy and defense sectors through Ivanti bugs</title>
-      <link>https://therecord.media/volt-typhoon-china-targeting-energy-defense-ivanti-bugs</link>
-      <pubDate>Thu, 04 Apr 2024 16:40:24 +0000</pubDate>
-    </item>
-    <item>
       <title>LockBit Scrambles After Takedown, Repopulates Leak Site with Old Breaches</title>
       <link>https://www.infosecurity-magazine.com/news/lockbit-takedown-leak-site-old/</link>
       <pubDate>Thu, 04 Apr 2024 16:30:00 +0000</pubDate>
@@ -75,6 +75,11 @@
     <item>
       <title>Jackson County IT Systems Hit By Ransomware Attack</title>
       <link>https://www.infosecurity-magazine.com/news/jackson-county-systems-hit/</link>
+      <pubDate>Thu, 04 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ten Practical Tips For High-Value Pentest Engagements</title>
+      <link>https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements</link>
       <pubDate>Thu, 04 Apr 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>How to Successfully Implement Zero Trust Network Access (ZTNA)</title>
       <link>https://symantec-enterprise-blogs.security.com/product-insights/how-successfully-implement-zero-trust-network-access</link>
       <pubDate>Wed, 03 Apr 2024 17:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The New Version of JsOutProx is Attacking Financial Institutions in APAC and MENA via Gitlab Abuse</title>
-      <link>https://securityaffairs.com/161438/malware/new-jsoutprox-attacking-financial-institutions-apac-mena.html</link>
-      <pubDate>Wed, 03 Apr 2024 16:47:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
