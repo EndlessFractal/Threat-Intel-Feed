@@ -6,10 +6,15 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Apr 2024 22:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 01:07:49 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #366: Money-making bots, and Incognito isn’t private</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-366/</link>
+      <pubDate>Wed, 03 Apr 2024 23:00:56 +0000</pubDate>
+    </item>
     <item>
       <title>Google addressed another Chrome zero-day exploited at Pwn2Own in March</title>
-      <link>https://securityaffairs.com/161445/uncategorized/google-chrome-zero-day-pwn2own.html</link>
+      <link>https://securityaffairs.com/161445/hacking/google-chrome-zero-day-pwn2own.html</link>
       <pubDate>Wed, 03 Apr 2024 21:13:58 +0000</pubDate>
     </item>
     <item>
@@ -251,11 +256,6 @@
       <title>Declassified NSA Newsletters</title>
       <link>https://www.schneier.com/blog/archives/2024/04/declassified-nsa-newsletters.html</link>
       <pubDate>Tue, 02 Apr 2024 17:05:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Continuing our work with CISA and the Joint Cyber Defense Collaborative to keep vulnerable communities secure online</title>
-      <link>https://blog.cloudflare.com/cisa-cyber-defense-keep-vulnerable-communities-secure-online</link>
-      <pubDate>Tue, 02 Apr 2024 17:00:40 +0000</pubDate>
     </item>
     <item>
       <title>AT&amp;T Confirms 73 Million Customer Data Breach Linked to Dark Web</title>
