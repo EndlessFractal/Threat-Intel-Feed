@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Apr 2024 18:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 20:15:27 +0000</lastBuildDate>
     <item>
-      <title>Fortinet Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/10/fortinet-releases-security-updates-multiple-products</link>
-      <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+      <title>Unraveling a healthcare ransomware web.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/2042/notes</link>
+      <pubDate>Tue, 09 Apr 2024 20:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2024 Microsoft Patch Tuesday Summary, (Tue, Apr 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/30822</link>
+      <pubDate>Tue, 09 Apr 2024 19:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Nitrogen campaign delivered via malicious ads for PuTTY, FileZilla</title>
+      <link>https://www.malwarebytes.com/blog/threat-intelligence/2024/04/active-nitrogen-campaign-delivered-via-malicious-ads-for-putty-filezilla</link>
+      <pubDate>Tue, 09 Apr 2024 19:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smoke and (screen) mirrors: A strange signed backdoor</title>
+      <link>https://news.sophos.com/en-us/2024/04/09/smoke-and-screen-mirrors-a-strange-signed-backdoor/</link>
+      <pubDate>Tue, 09 Apr 2024 19:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 91,000 LG smart TVs running webOS are vulnerable to hacking</title>
+      <link>https://securityaffairs.com/161651/hacking/lg-smart-tvs-vulnerable.html</link>
+      <pubDate>Tue, 09 Apr 2024 18:28:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>April’s Patch Tuesday includes 150 vulnerabilities, 60 which could lead to remote code execution</title>
+      <link>https://blog.talosintelligence.com/patch-tuesday-april-2024/</link>
+      <pubDate>Tue, 09 Apr 2024 18:23:00 +0000</pubDate>
     </item>
     <item>
       <title>Muddled Libra’s Evolution to the Cloud</title>
@@ -118,8 +143,23 @@
       <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Fortinet Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/09/fortinet-releases-security-updates-multiple-products</link>
+      <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0</link>
+      <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Releases One Industrial Control Systems Advisory</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/04/09/cisa-releases-one-industrial-control-systems-advisory</link>
+      <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases April 2024 Security Updates</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/09/microsoft-releases-april-2024-security-updates</link>
       <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -266,46 +306,6 @@
       <title>Porn panic imperils privacy online, with Alec Muffett (re-air): Lock and Code S05E08</title>
       <link>https://www.malwarebytes.com/blog/podcast/2024/04/porn-panic-imperils-privacy-online-with-alec-muffett-re-air-lock-and-code-s05e08</link>
       <pubDate>Mon, 08 Apr 2024 15:13:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ScrubCrypt Deploys VenomRAT with an Arsenal of Plugins</title>
-      <link>https://feeds.fortinet.com/~/875486669/0/fortinet/blog/threat-research~ScrubCrypt-Deploys-VenomRAT-with-an-Arsenal-of-Plugins</link>
-      <pubDate>Mon, 08 Apr 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No 10 tells MPs to be cautious about unsolicited messages after attempted ‘honeytrap’</title>
-      <link>https://www.theguardian.com/politics/2024/apr/08/no-10-mps-cautious-about-unsolicited-messages-after-attempted-honeytrap</link>
-      <pubDate>Mon, 08 Apr 2024 14:42:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recognition Badges for Threat Bounty Members</title>
-      <link>https://socprime.com/blog/recognition-badges-for-threat-bounty-members/</link>
-      <pubDate>Mon, 08 Apr 2024 14:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Adds V8 Sandbox - A New Defense Against Browser Attacks</title>
-      <link>https://thehackernews.com/2024/04/google-chrome-adds-v8-sandbox-new.html</link>
-      <pubDate>Mon, 08 Apr 2024 13:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transform SecOps with Purple AI, Now Generally Available</title>
-      <link>https://www.sentinelone.com/blog/transforming-the-soc-with-purple-ai/</link>
-      <pubDate>Mon, 08 Apr 2024 12:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Famous YouTube Channels Hacked to Distribute Infostealers</title>
-      <link>https://www.infosecurity-magazine.com/news/youtube-channels-hacked/</link>
-      <pubDate>Mon, 08 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch Out for 'Latrodectus' - This Malware Could Be In Your Inbox</title>
-      <link>https://thehackernews.com/2024/04/watch-out-for-latrodectus-this-malware.html</link>
-      <pubDate>Mon, 08 Apr 2024 11:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Drop in Ransomware Attacks in 2024 and What it Means</title>
-      <link>https://thehackernews.com/2024/04/the-drop-in-ransomware-attacks-in-2024.html</link>
-      <pubDate>Mon, 08 Apr 2024 11:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
