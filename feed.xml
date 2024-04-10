@@ -6,11 +6,61 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Apr 2024 14:14:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 16:21:40 +0000</lastBuildDate>
     <item>
-      <title>XZ Utils Backdoor | Threat Actor Planned To Inject Further Vulnerabilities</title>
+      <title>Muddled Libra targets SaaS apps and cloud environments.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/70</link>
+      <pubDate>Wed, 10 Apr 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rhadamanthys Malware Deployed By TA547 Against German Targets</title>
+      <link>https://www.infosecurity-magazine.com/news/rhadamanthys-deployed-ta547-german/</link>
+      <pubDate>Wed, 10 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sellafield nuclear waste site to be prosecuted for alleged cybersecurity failings. CISA issues draft proposal for cyber incident reporting by critical infrastructure entities.</title>
+      <link>https://thecyberwire.com/newsletters/control-loop/3/4</link>
+      <pubDate>Wed, 10 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA to expand automated malware analysis system beyond government agencies</title>
+      <link>https://therecord.media/cisa-malware-next-gen-automated-system-public</link>
+      <pubDate>Wed, 10 Apr 2024 15:45:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>LG TV Vulnerabilities Expose 91,000 Devices</title>
+      <link>https://www.infosecurity-magazine.com/news/lg-tv-vulnerabilities-expose-91000/</link>
+      <pubDate>Wed, 10 Apr 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VenomRAT Detection: A New Multi-Stage Attack Using ScrubCrypt to Deploy the Final Payload with Malicious Plugins</title>
+      <link>https://socprime.com/blog/venomrat-detection-a-new-multi-stage-attack-using-scrubcrypt-to-deploy-the-final-payload-with-malicious-plugins/</link>
+      <pubDate>Wed, 10 Apr 2024 15:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>After failed ransomware attack, hackers stole data on 533k people from Wisconsin insurance company</title>
+      <link>https://therecord.media/failed-ransomware-attack-hackers-stole-data-wisconsin-insurer</link>
+      <pubDate>Wed, 10 Apr 2024 15:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Twitter’s Clumsy Pivot to X.com Is a Gift to Phishers</title>
+      <link>https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/</link>
+      <pubDate>Wed, 10 Apr 2024 14:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>'eXotic Visit' Spyware Campaign Targets Android Users in India and Pakistan</title>
+      <link>https://thehackernews.com/2024/04/exotic-visit-spyware-campaign-targets.html</link>
+      <pubDate>Wed, 10 Apr 2024 14:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XZ Utils Backdoor | Threat Actor Planned to Inject Further Vulnerabilities</title>
       <link>https://www.sentinelone.com/blog/xz-utils-backdoor-threat-actor-planned-to-inject-further-vulnerabilities/</link>
       <pubDate>Wed, 10 Apr 2024 14:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches Tuesday security updates for April 2024 fixed hundreds of issues</title>
+      <link>https://securityaffairs.com/161666/security/microsoft-patches-tuesday-april-2024.html</link>
+      <pubDate>Wed, 10 Apr 2024 13:56:43 +0000</pubDate>
     </item>
     <item>
       <title>Romania-linked ‘Rubycarp’ hackers look for cryptomining, phishing DDoS opportunities</title>
@@ -158,6 +208,11 @@
       <pubDate>Wed, 10 Apr 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Improving Dark Web Investigations with Threat Intelligence</title>
+      <link>https://www.recordedfuture.com/blog/improving-dark-web-investigations-with-threat-intelligence</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>April’s Patch Tuesday Brings Record Number of Fixes</title>
       <link>https://krebsonsecurity.com/2024/04/aprils-patch-tuesday-brings-record-number-of-fixes/</link>
       <pubDate>Tue, 09 Apr 2024 20:28:17 +0000</pubDate>
@@ -228,16 +283,6 @@
       <pubDate>Tue, 09 Apr 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>LG releases updates for vulnerabilities that could allow hackers to gain access to TVs</title>
-      <link>https://therecord.media/lg-patches-vulnerabilities-tv</link>
-      <pubDate>Tue, 09 Apr 2024 15:17:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>German database company Genios confirms ransomware attack</title>
-      <link>https://therecord.media/genios-germany-ransomware-attack</link>
-      <pubDate>Tue, 09 Apr 2024 15:16:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Research Unearths RUBYCARP’s Multi-Miner Assault on Crypto</title>
       <link>https://www.infosecurity-magazine.com/news/rubycarps-multi-miner-assault/</link>
       <pubDate>Tue, 09 Apr 2024 14:30:00 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>Hackers Targeting Human Rights Activists in Morocco and Western Sahara</title>
       <link>https://thehackernews.com/2024/04/hackers-targeting-human-rights.html</link>
       <pubDate>Tue, 09 Apr 2024 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Discover LG Smart TV Vulnerabilities Allowing Root Access</title>
-      <link>https://thehackernews.com/2024/04/researchers-discover-lg-smart-tv.html</link>
-      <pubDate>Tue, 09 Apr 2024 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PinnacleOne ExecBrief | Navigating the Era of AI in Cybersecurity: Challenges, Opportunities &amp; Emerging Solutions</title>
-      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-navigating-the-era-of-ai-in-cybersecurity/</link>
-      <pubDate>Tue, 09 Apr 2024 13:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerabilities Identified in LG WebOS</title>
-      <link>https://www.bitdefender.com/blog/labs/vulnerabilities-identified-in-lg-webos/</link>
-      <pubDate>Tue, 09 Apr 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Starry Addax targets human rights defenders in North Africa with new malware</title>
-      <link>https://blog.talosintelligence.com/starry-addax/</link>
-      <pubDate>Tue, 09 Apr 2024 12:02:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>SUBNET PowerSYSTEM Server and Substation Server</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-100-01</link>
-      <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/09/fortinet-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0</link>
-      <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/09/cisa-releases-one-industrial-control-systems-advisory</link>
-      <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases April 2024 Security Updates</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/09/microsoft-releases-april-2024-security-updates</link>
-      <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
