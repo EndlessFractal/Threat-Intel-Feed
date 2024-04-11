@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Apr 2024 14:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 16:17:28 +0000</lastBuildDate>
+    <item>
+      <title>Apple Boosts Spyware Alerts For Mercenary Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-boosts-spyware-alerts/</link>
+      <pubDate>Thu, 11 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple warns individuals of mercenary spyware attacks.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/71</link>
+      <pubDate>Thu, 11 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Breach Exposes 300k Taxi Passengers’ Information</title>
+      <link>https://www.infosecurity-magazine.com/news/data-breach-exposes-300k-taxi/</link>
+      <pubDate>Thu, 11 Apr 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android Espionage Campaign Spotted in India and Pakistan</title>
+      <link>https://www.infosecurity-magazine.com/news/android-espionage-campaign-india/</link>
+      <pubDate>Thu, 11 Apr 2024 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Networks fixed multiple DoS bugs in its firewalls</title>
+      <link>https://securityaffairs.com/161724/security/palo-alto-networks-pan-os-dos-2.html</link>
+      <pubDate>Thu, 11 Apr 2024 14:15:17 +0000</pubDate>
+    </item>
     <item>
       <title>russian state-sponsored Hive0051 (aka UAC-0010, Gamaredon) Attack Detection: Adversaries Apply an Aggressive Infection Approach Leveraging Three Malware Branches</title>
       <link>https://socprime.com/blog/russian-state-sponsored-hive0051-aka-uac-0010-gamaredon-attack-detection-adversaries-apply-an-aggressive-infection-approach-leveraging-three-malware-branches/</link>
@@ -28,6 +53,26 @@
       <pubDate>Thu, 11 Apr 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Siemens SIMATIC WinCC</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-102-02</link>
+      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM APE1808</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-102-04</link>
+      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC S7-1500</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-102-01</link>
+      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM APE1808 before V11.0.1</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-102-03</link>
+      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Compromise of Sisense Customer Data</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data</link>
       <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
@@ -44,7 +89,7 @@
     </item>
     <item>
       <title>Python's PyPI Reveals Its Secrets</title>
-      <link>https://thehackernews.com/2024/04/blog-post.html</link>
+      <link>https://thehackernews.com/2024/04/gitguardian-report-pypi-secrets.html</link>
       <pubDate>Thu, 11 Apr 2024 11:32:00 +0000</pubDate>
     </item>
     <item>
@@ -121,6 +166,11 @@
       <title>Metasploit Meterpreter Installed via Redis Server</title>
       <link>https://asec.ahnlab.com/en/64034/</link>
       <pubDate>Thu, 11 Apr 2024 00:36:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminal Campaign Spreads Infostealers, Highlighting Risks to Web3 Gaming</title>
+      <link>https://www.recordedfuture.com/cybercriminal-campaign-spreads-infostealers-highlighting-risks-to-web3-gaming</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Smashing Security podcast #367: WhatsApp at Westminster, unhealthy AI, and Drew Barrymore</title>
@@ -256,56 +306,6 @@
       <title>Beware: GitHub's Fake Popularity Scam Tricking Developers into Downloading Malware</title>
       <link>https://thehackernews.com/2024/04/beware-githubs-fake-popularity-scam.html</link>
       <pubDate>Wed, 10 Apr 2024 12:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Develop Advanced Cybersecurity Skills for Just $64</title>
-      <link>https://www.techrepublic.com/article/the-ultimate-advanced-cybersecurity-professional-certification-bundle/</link>
-      <pubDate>Wed, 10 Apr 2024 12:30:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows: New 'BatBadBut' Rust Vulnerability Given Highest Severity Score</title>
-      <link>https://www.infosecurity-magazine.com/news/windows-batbadbut-rust/</link>
-      <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Claims to Have Recovered $1.4bn in COVID Fraud</title>
-      <link>https://www.infosecurity-magazine.com/news/us-recovered-14bn-covid-fraud/</link>
-      <pubDate>Wed, 10 Apr 2024 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Memoriam: Ross Anderson, 1956-2024</title>
-      <link>https://www.schneier.com/blog/archives/2024/04/in-memoriam-ross-anderson-1956-2024.html</link>
-      <pubDate>Wed, 10 Apr 2024 11:08:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hands-on Review: Cynomi AI-powered vCISO Platform</title>
-      <link>https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html</link>
-      <pubDate>Wed, 10 Apr 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patches 150 Flaws Including Two Zero-Days</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-patches-150-flaws-two-1/</link>
-      <pubDate>Wed, 10 Apr 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>6 Best Open Source Password Managers for Mac in 2024</title>
-      <link>https://www.techrepublic.com/article/best-open-source-password-manager-mac/</link>
-      <pubDate>Wed, 10 Apr 2024 10:27:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ransomware group demands Change Healthcare ransom</title>
-      <link>https://www.malwarebytes.com/blog/threats/2024/04/new-ransomware-group-demands-change-healthcare-ransom</link>
-      <pubDate>Wed, 10 Apr 2024 09:35:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover First Native Spectre v2 Exploit Against Linux Kernel</title>
-      <link>https://thehackernews.com/2024/04/researchers-uncover-first-native.html</link>
-      <pubDate>Wed, 10 Apr 2024 09:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Half of UK Businesses Hit by Cyber-Incident in Past Year, UK Government Finds</title>
-      <link>https://www.infosecurity-magazine.com/news/half-uk-businesses-cyber-incident/</link>
-      <pubDate>Wed, 10 Apr 2024 09:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
