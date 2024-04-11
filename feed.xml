@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Apr 2024 18:18:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 20:16:35 +0000</lastBuildDate>
+    <item>
+      <title>Apple's worldwide warning on mercenary attacks.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/2044/notes</link>
+      <pubDate>Thu, 11 Apr 2024 20:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>House and Senate Commerce Committees unveil new bipartisan data privacy bill.</title>
+      <link>https://thecyberwire.com/newsletters/caveat-briefing/2/14</link>
+      <pubDate>Thu, 11 Apr 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple warns people of mercenary attacks via threat notification system</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/04/apple-warns-people-of-mercenary-attacks-via-threat-notification-system</link>
+      <pubDate>Thu, 11 Apr 2024 19:51:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to check if your data was exposed in the AT&amp;T breach</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/04/how-to-check-if-your-data-was-part-of-the-att-breach</link>
+      <pubDate>Thu, 11 Apr 2024 19:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Met police failed to act on Commons ‘honeytrap’ sexting reports last year</title>
+      <link>https://www.theguardian.com/uk-news/2024/apr/11/met-police-failed-to-act-on-commons-honeytrap-sexting-reports-last-year</link>
+      <pubDate>Thu, 11 Apr 2024 18:51:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>US CISA published an alert on the Sisense data breach</title>
+      <link>https://securityaffairs.com/161728/data-breach/sisense-suffers-a-cyber-attack.html</link>
+      <pubDate>Thu, 11 Apr 2024 18:26:17 +0000</pubDate>
+    </item>
     <item>
       <title>CISA: Email from federal agencies possibly accessed in Russian breach of Microsoft</title>
       <link>https://therecord.media/cisa-microsoft-breach-emergency-directive</link>
@@ -21,6 +51,11 @@
       <title>Apple notifies users in 92 countries about mercenary spyware attacks</title>
       <link>https://therecord.media/apple-spyware-notifications-92-countries</link>
       <pubDate>Thu, 11 Apr 2024 16:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>How a Race Condition Vulnerability Could Cast Multiple Votes</title>
+      <link>https://www.hackerone.com/vulnerability-management/sherrets-race-condition</link>
+      <pubDate>Thu, 11 Apr 2024 16:07:50 +0000</pubDate>
     </item>
     <item>
       <title>Apple Boosts Spyware Alerts For Mercenary Attacks</title>
@@ -128,18 +163,23 @@
       <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft</link>
-      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Releases Nine Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories</link>
       <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft</link>
+      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Compromise of Sisense Customer Data</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data</link>
+      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -248,6 +288,11 @@
       <pubDate>Wed, 10 Apr 2024 22:29:32 +0000</pubDate>
     </item>
     <item>
+      <title>A guide to get the most out of your One-on-Ones</title>
+      <link>https://www.hackerone.com/engineering-blog/guide-get-most-out-your-one-ones</link>
+      <pubDate>Wed, 10 Apr 2024 21:54:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Universities in New Mexico, Oklahoma respond to ransomware attacks</title>
       <link>https://therecord.media/ransomware-new-mexico-highlands-east-central-oklahoma-universities</link>
       <pubDate>Wed, 10 Apr 2024 20:26:45 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>AT&amp;T states that the data breach impacted 51 million former and current customers</title>
       <link>https://securityaffairs.com/161685/data-breach/att-data-breach-51m-customers.html</link>
       <pubDate>Wed, 10 Apr 2024 20:09:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wiz acquires Gem Security. Cyera raises $300 million in Series C round.</title>
-      <link>https://thecyberwire.com/newsletters/business-briefing/6/15</link>
-      <pubDate>Wed, 10 Apr 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to protect yourself from online harassment</title>
-      <link>https://www.malwarebytes.com/blog/cybercrime/2024/04/how-to-protect-yourself-from-online-harassment</link>
-      <pubDate>Wed, 10 Apr 2024 19:19:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Talent Insights Special Series Podcast Launching Friday, April 12th</title>
-      <link>https://thecyberwire.com/stories/37fda5967a4e41a9a6697d89ffa550af/cyber-talent-insights-special-series-podcast-launching-friday-april-12th</link>
-      <pubDate>Wed, 10 Apr 2024 18:50:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet fixed a critical remote code execution bug in FortiClientLinux</title>
-      <link>https://securityaffairs.com/161674/security/forticlientlinux-rce.html</link>
-      <pubDate>Wed, 10 Apr 2024 18:15:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerability in some TP-Link routers could lead to factory reset</title>
-      <link>https://blog.talosintelligence.com/vulnerability-roundup-april-10-2024/</link>
-      <pubDate>Wed, 10 Apr 2024 16:56:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muddled Libra targets SaaS apps and cloud environments.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/70</link>
-      <pubDate>Wed, 10 Apr 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity: Benefits and Best Practices</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/cybersecurity-benefits-and-best-practices/</link>
-      <pubDate>Wed, 10 Apr 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rhadamanthys Malware Deployed By TA547 Against German Targets</title>
-      <link>https://www.infosecurity-magazine.com/news/rhadamanthys-deployed-ta547-german/</link>
-      <pubDate>Wed, 10 Apr 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sellafield nuclear waste site to be prosecuted for alleged cybersecurity failings. CISA issues draft proposal for cyber incident reporting by critical infrastructure entities.</title>
-      <link>https://thecyberwire.com/newsletters/control-loop/3/4</link>
-      <pubDate>Wed, 10 Apr 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
