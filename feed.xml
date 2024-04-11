@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Apr 2024 02:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 04:18:01 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Thursday, April 11th, 2024 https://isc.sans.edu/podcastdetail/8934, (Thu, Apr 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/30826</link>
+      <pubDate>Thu, 11 Apr 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Metasploit Meterpreter Installed via Redis Server</title>
       <link>https://asec.ahnlab.com/en/64034/</link>
@@ -301,11 +306,6 @@
       <title>April’s Patch Tuesday includes 150 vulnerabilities, 60 which could lead to remote code execution</title>
       <link>https://blog.talosintelligence.com/patch-tuesday-april-2024/</link>
       <pubDate>Tue, 09 Apr 2024 18:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muddled Libra’s Evolution to the Cloud</title>
-      <link>https://unit42.paloaltonetworks.com/muddled-libra-evolution-to-cloud/</link>
-      <pubDate>Tue, 09 Apr 2024 18:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
