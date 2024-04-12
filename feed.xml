@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Apr 2024 06:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 08:20:01 +0000</lastBuildDate>
+    <item>
+      <title>XZ backdoor story – Initial analysis</title>
+      <link>https://securelist.com/xz-backdoor-story-part-1/112354/</link>
+      <pubDate>Fri, 12 Apr 2024 08:00:34 +0000</pubDate>
+    </item>
     <item>
       <title>Building a Live SIFT USB with Persistence, (Fri, Apr 12th)</title>
       <link>https://isc.sans.edu/diary/rss/30832</link>
@@ -301,11 +306,6 @@
       <title>Could AI's doomsday be deferred?</title>
       <link>https://thecyberwire.com/podcasts/hacking-humans/285/notes</link>
       <pubDate>Thu, 11 Apr 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, April 11th, 2024 https://isc.sans.edu/podcastdetail/8934, (Thu, Apr 11th)</title>
-      <link>https://isc.sans.edu/diary/rss/30826</link>
-      <pubDate>Thu, 11 Apr 2024 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
