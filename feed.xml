@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Apr 2024 16:19:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 18:16:10 +0000</lastBuildDate>
+    <item>
+      <title>FISA Section 702 reauthorization passes in House on second try this week</title>
+      <link>https://therecord.media/fisa-section-702-house-floor-votes-again</link>
+      <pubDate>Fri, 12 Apr 2024 17:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Brief: Operation MidnightEclipse, Post-Exploitation Activity Related to CVE-2024-3400</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2024-3400/</link>
+      <pubDate>Fri, 12 Apr 2024 17:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Alerts iPhone Users in 92 Countries to Mercenary Spyware Attacks</title>
+      <link>https://www.techrepublic.com/article/apple-threat-notifications-mercenary-spyware/</link>
+      <pubDate>Fri, 12 Apr 2024 16:54:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Current and former Polish officials face probe of alleged spyware abuse</title>
+      <link>https://therecord.media/poland-pegasus-spyware-government-investigation</link>
+      <pubDate>Fri, 12 Apr 2024 16:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA issues advisory on Sisense breach. Heritage Foundation discloses cyberattack.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/72</link>
+      <pubDate>Fri, 12 Apr 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US sanctions Hamas ‘cyber influence’ leader</title>
+      <link>https://therecord.media/al-qassam-abu-ubaida-sanctions-us-treasury</link>
+      <pubDate>Fri, 12 Apr 2024 16:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to change your Social Security Number</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/04/how-to-change-your-social-security-number</link>
+      <pubDate>Fri, 12 Apr 2024 16:20:06 +0000</pubDate>
+    </item>
     <item>
       <title>Sophos Study: 94% of Ransomware Victims Have Their Backups Targeted By Attackers</title>
       <link>https://www.techrepublic.com/article/ransomware-attackers-target-backups/</link>
@@ -38,11 +73,6 @@
       <pubDate>Fri, 12 Apr 2024 13:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Spy powers bill returns again to House floor</title>
-      <link>https://therecord.media/fisa-section-702-house-floor-votes-again</link>
-      <pubDate>Fri, 12 Apr 2024 12:18:53 +0000</pubDate>
-    </item>
-    <item>
       <title>LastPass employee targeted via an audio deepfake call</title>
       <link>https://securityaffairs.com/161760/cyber-crime/lastpass-employee-targeted-deepfake.html</link>
       <pubDate>Fri, 12 Apr 2024 12:15:29 +0000</pubDate>
@@ -55,6 +85,11 @@
     <item>
       <title>Citrix Releases Security Updates for XenServer and Citrix Hypervisor</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor</link>
+      <pubDate>Fri, 12 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400</link>
       <pubDate>Fri, 12 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -138,11 +173,6 @@
       <pubDate>Thu, 11 Apr 2024 21:48:24 +0000</pubDate>
     </item>
     <item>
-      <title>Vulnerabilities in end-of-life D-Link devices are being exploited, CISA says</title>
-      <link>https://therecord.media/dlink-devices-exploited-vulnerabilities-cisa</link>
-      <pubDate>Thu, 11 Apr 2024 21:11:57 +0000</pubDate>
-    </item>
-    <item>
       <title>Why CISA is Warning CISOs About a Breach at Sisense</title>
       <link>https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/</link>
       <pubDate>Thu, 11 Apr 2024 20:48:06 +0000</pubDate>
@@ -176,11 +206,6 @@
       <title>US CISA published an alert on the Sisense data breach</title>
       <link>https://securityaffairs.com/161728/data-breach/sisense-suffers-a-cyber-attack.html</link>
       <pubDate>Thu, 11 Apr 2024 18:26:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA: Email from federal agencies possibly accessed in Russian breach of Microsoft</title>
-      <link>https://therecord.media/cisa-microsoft-breach-emergency-directive</link>
-      <pubDate>Thu, 11 Apr 2024 18:05:35 +0000</pubDate>
     </item>
     <item>
       <title>The internet is already scary enough without April Fool’s jokes</title>
@@ -280,31 +305,6 @@
     <item>
       <title>Siemens SIMATIC S7-1500</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-102-01</link>
-      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation 5015-AENFTXT</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-102-09</link>
-      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Parasolid</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-102-06</link>
-      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM APE1808 before V11.0.1</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-102-03</link>
-      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Nine Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft</link>
       <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
