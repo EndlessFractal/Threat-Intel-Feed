@@ -1,12 +1,12 @@
-certifi==2023.11.17
+certifi==2024.2.2
 charset-normalizer==3.3.2
 feedgen==1.0.0
 feedparser==6.0.11
 idna==3.7
-lxml==5.0.0
-python-dateutil==2.8.2
-pytz==2023.3.post1
+lxml==5.2.1
+python-dateutil==2.9.0.post0
+pytz==2024.1
 requests==2.31.0
 sgmllib3k==1.0.0
 six==1.16.0
-urllib3==2.1.0
+urllib3==2.2.1
