@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Apr 2024 14:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 16:19:04 +0000</lastBuildDate>
+    <item>
+      <title>Sophos Study: 94% of Ransomware Victims Have Their Backups Targeted By Attackers</title>
+      <link>https://www.techrepublic.com/article/ransomware-attackers-target-backups/</link>
+      <pubDate>Fri, 12 Apr 2024 15:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Popular Rust Crate liblzma-sys Compromised with XZ Utils Backdoor Files</title>
+      <link>https://thehackernews.com/2024/04/popular-rust-crate-liblzma-sys.html</link>
+      <pubDate>Fri, 12 Apr 2024 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Networks warns of zero-day in VPN product</title>
+      <link>https://therecord.media/vpn-zero-day-palo-alto-networks</link>
+      <pubDate>Fri, 12 Apr 2024 14:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Urges Immediate Credential Reset After Sisense Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-urges-reset-sisense-breach/</link>
+      <pubDate>Fri, 12 Apr 2024 14:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Human rights activists in Western Sahara are being targeted by mobile malware</title>
       <link>https://therecord.media/android-mobile-spyware-western-sahara</link>
@@ -28,6 +48,21 @@
       <pubDate>Fri, 12 Apr 2024 12:15:29 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Fri, 12 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix Releases Security Updates for XenServer and Citrix Hypervisor</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor</link>
+      <pubDate>Fri, 12 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Juniper Releases Security Bulletin for Multiple Juniper Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products</link>
+      <pubDate>Fri, 12 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Palo Alto Networks Warns About Critical Zero-Day in PAN-OS</title>
       <link>https://www.infosecurity-magazine.com/news/palo-alto-critical-zero-day/</link>
       <pubDate>Fri, 12 Apr 2024 11:15:00 +0000</pubDate>
@@ -44,7 +79,7 @@
     </item>
     <item>
       <title>N2K CyberWire Network Launches Cyber Talent Insights Special Series Podcast</title>
-      <link>https://thecyberwire.com</link>
+      <link>https://thecyberwire.com/stories/df9ee01d6c86412a9c1178836b44a424/n2k-cyberwire-network-launches-cyber-talent-insights-special-series-podcast</link>
       <pubDate>Fri, 12 Apr 2024 11:01:00 +0000</pubDate>
     </item>
     <item>
@@ -151,11 +186,6 @@
       <title>The internet is already scary enough without April Fool’s jokes</title>
       <link>https://blog.talosintelligence.com/threat-source-newsletter-april-11-2024/</link>
       <pubDate>Thu, 11 Apr 2024 18:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple notifies users in 92 countries about mercenary spyware attacks</title>
-      <link>https://therecord.media/apple-spyware-notifications-92-countries</link>
-      <pubDate>Thu, 11 Apr 2024 16:29:08 +0000</pubDate>
     </item>
     <item>
       <title>How a Race Condition Vulnerability Could Cast Multiple Votes</title>
@@ -276,36 +306,6 @@
       <title>CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft</link>
       <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Compromise of Sisense Customer Data</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data</link>
-      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TA547 Phishing Attack Hits German Firms with Rhadamanthys Stealer</title>
-      <link>https://thehackernews.com/2024/04/ta547-phishing-attack-hits-german-firms.html</link>
-      <pubDate>Thu, 11 Apr 2024 11:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python's PyPI Reveals Its Secrets</title>
-      <link>https://thehackernews.com/2024/04/gitguardian-report-pypi-secrets.html</link>
-      <pubDate>Thu, 11 Apr 2024 11:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>4 Best Open Source Password Managers for Teams in 2024</title>
-      <link>https://www.techrepublic.com/article/best-open-source-password-manager/</link>
-      <pubDate>Thu, 11 Apr 2024 11:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Backdoor in XZ Utils That Almost Happened</title>
-      <link>https://www.schneier.com/blog/archives/2024/04/backdoor-in-xz-utils-that-almost-happened.html</link>
-      <pubDate>Thu, 11 Apr 2024 11:01:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
