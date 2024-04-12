@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Apr 2024 10:16:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 12:28:24 +0000</lastBuildDate>
+    <item>
+      <title>Spy powers bill returns again to House floor</title>
+      <link>https://therecord.media/fisa-section-702-house-floor-votes-again</link>
+      <pubDate>Fri, 12 Apr 2024 12:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>LastPass employee targeted via an audio deepfake call</title>
+      <link>https://securityaffairs.com/161760/cyber-crime/lastpass-employee-targeted-deepfake.html</link>
+      <pubDate>Fri, 12 Apr 2024 12:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Networks Warns About Critical Zero-Day in PAN-OS</title>
+      <link>https://www.infosecurity-magazine.com/news/palo-alto-critical-zero-day/</link>
+      <pubDate>Fri, 12 Apr 2024 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Code Keepers: Mastering Non-Human Identity Management</title>
+      <link>https://thehackernews.com/2024/04/code-keepers-mastering-non-human.html</link>
+      <pubDate>Fri, 12 Apr 2024 11:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smuggling Gold by Disguising it as Machine Parts</title>
+      <link>https://www.schneier.com/blog/archives/2024/04/smuggling-gold-by-disguising-it-as-machine-parts.html</link>
+      <pubDate>Fri, 12 Apr 2024 11:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>N2K CyberWire Network Launches Cyber Talent Insights Special Series Podcast</title>
+      <link>https://thecyberwire.com</link>
+      <pubDate>Fri, 12 Apr 2024 11:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>SOC Prime Threat Bounty Digest — March 2024 Results</title>
       <link>https://socprime.com/blog/soc-prime-threat-bounty-digest-march-2024-results/</link>
@@ -16,6 +46,11 @@
       <title>Iranian MuddyWater Hackers Adopt New C2 Tool 'DarkBeatC2' in Latest Campaign</title>
       <link>https://thehackernews.com/2024/04/iranian-muddywater-hackers-adopt-new-c2.html</link>
       <pubDate>Fri, 12 Apr 2024 09:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TA547 targets German organizations with Rhadamanthys malware</title>
+      <link>https://securityaffairs.com/161747/cyber-crime/ta547-targeting-german-orgs.html</link>
+      <pubDate>Fri, 12 Apr 2024 09:33:20 +0000</pubDate>
     </item>
     <item>
       <title>Zero-Day Alert: Critical Palo Alto Networks PAN-OS Flaw Under Active Attack</title>
@@ -116,6 +151,11 @@
       <title>How a Race Condition Vulnerability Could Cast Multiple Votes</title>
       <link>https://www.hackerone.com/vulnerability-management/sherrets-race-condition</link>
       <pubDate>Thu, 11 Apr 2024 16:07:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Checklist: Securing Digital Information</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/checklist-securing-digital-information/</link>
+      <pubDate>Thu, 11 Apr 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apple Boosts Spyware Alerts For Mercenary Attacks</title>
@@ -243,11 +283,6 @@
       <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lindy Cameron, former UK cybersecurity chief, appointed British High Commissioner to India</title>
-      <link>https://therecord.media/lindy-cameron-ncsc-british-high-commissioner-india</link>
-      <pubDate>Thu, 11 Apr 2024 11:46:49 +0000</pubDate>
-    </item>
-    <item>
       <title>TA547 Phishing Attack Hits German Firms with Rhadamanthys Stealer</title>
       <link>https://thehackernews.com/2024/04/ta547-phishing-attack-hits-german-firms.html</link>
       <pubDate>Thu, 11 Apr 2024 11:32:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Apple warns of mercenary spyware attacks on iPhone users in 92 countries</title>
       <link>https://securityaffairs.com/161720/security/apple-warns-of-mercenary-spyware-attacks-on-iphone-users-in-92-countries.html</link>
       <pubDate>Thu, 11 Apr 2024 10:14:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Game GitHub Search to Spread Malware</title>
-      <link>https://www.infosecurity-magazine.com/news/threat-actors-game-github-search/</link>
-      <pubDate>Thu, 11 Apr 2024 09:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Data Breach Reports Surge 90% Annually in Q1</title>
-      <link>https://www.infosecurity-magazine.com/news/us-data-breach-surge-90-annually-q1/</link>
-      <pubDate>Thu, 11 Apr 2024 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft fixed two zero-day bugs exploited in malware attacks</title>
-      <link>https://securityaffairs.com/161692/security/two-zero-day-malware-attacks.html</link>
-      <pubDate>Thu, 11 Apr 2024 08:41:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft’s April 2024 Patch Tuesday includes two actively exploited zero-day vulnerabilities</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/04/microsofts-april-2024-patch-tuesday-includes-two-actively-exploited-zero-day-vulnerabilities</link>
-      <pubDate>Thu, 11 Apr 2024 08:23:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>EclecticIQ Intelligence Center 3.3 is here</title>
-      <link>https://blog.eclecticiq.com/eclecticiq-intelligence-center-3-3</link>
-      <pubDate>Thu, 11 Apr 2024 07:22:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evolution of Artificial Intelligence Systems and Ensuring Trustworthiness, (Thu, Apr 11th)</title>
-      <link>https://isc.sans.edu/diary/rss/30828</link>
-      <pubDate>Thu, 11 Apr 2024 06:55:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Updates Spyware Alert System to Warn Victims of Mercenary Attacks</title>
-      <link>https://thehackernews.com/2024/04/apple-expands-spyware-alert-system-to.html</link>
-      <pubDate>Thu, 11 Apr 2024 06:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
