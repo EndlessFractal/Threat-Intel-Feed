@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Apr 2024 04:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 06:15:37 +0000</lastBuildDate>
+    <item>
+      <title>Breaking down a a high-severity vulnerability in Kubernetes.</title>
+      <link>https://thecyberwire.com/podcasts/research-saturday/325/notes</link>
+      <pubDate>Sat, 13 Apr 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CISA issues advisory on Sisense breach. Apple warns individuals of mercenary spyware attacks.</title>
       <link>https://thecyberwire.com/newsletters/week-that-was/8/15</link>
@@ -301,11 +306,6 @@
       <title>Ransomware payouts hit all-time high, but that’s not the whole story</title>
       <link>https://securityintelligence.com/articles/ransomware-all-time-high-attackers-struggle/</link>
       <pubDate>Thu, 11 Apr 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Telecontrol Server Basic</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-102-08</link>
-      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
