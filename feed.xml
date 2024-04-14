@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Apr 2024 01:39:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 03:16:26 +0000</lastBuildDate>
     <item>
       <title>Crooks manipulate GitHub’s search results to distribute malware</title>
       <link>https://securityaffairs.com/161792/cyber-crime/githubs-search-results-distribute-malware.html</link>
@@ -288,6 +288,11 @@
       <pubDate>Thu, 11 Apr 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How Microsoft discovers and mitigates evolving attacks against AI guardrails</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/04/11/how-microsoft-discovers-and-mitigates-evolving-attacks-against-ai-guardrails/</link>
+      <pubDate>Thu, 11 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Apple Boosts Spyware Alerts For Mercenary Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/apple-boosts-spyware-alerts/</link>
       <pubDate>Thu, 11 Apr 2024 16:00:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>East Central University suffers BlackSuit ransomware attack</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/east-central-university-suffers-blacksuit-ransomware-attack/</link>
       <pubDate>Thu, 11 Apr 2024 15:53:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>DragonForce ransomware – what you need to know</title>
-      <link>https://www.tripwire.com/state-of-security/dragonforce-ransomware-what-you-need-know</link>
-      <pubDate>Thu, 11 Apr 2024 15:51:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
