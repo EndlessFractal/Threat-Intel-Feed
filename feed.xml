@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 20:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 22:13:49 +0000</lastBuildDate>
+    <item>
+      <title>Nebraska man allegedly defrauded cloud providers of millions via cryptojacking</title>
+      <link>https://therecord.media/nebraska-man-cryptojacking-indictment</link>
+      <pubDate>Mon, 15 Apr 2024 21:44:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Duo warns telephony supplier data breach exposed MFA SMS logs</title>
+      <link>https://securityaffairs.com/161880/cyber-crime/cisco-duo-data-breach.html</link>
+      <pubDate>Mon, 15 Apr 2024 20:36:58 +0000</pubDate>
+    </item>
     <item>
       <title>Hunting vulnerabilities.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/2046/notes</link>
@@ -21,6 +31,11 @@
       <title>Researchers stop ‘credible takeover attempt’ similar to XZ Utils backdoor incident</title>
       <link>https://therecord.media/researchers-stop-credible-takeover-xz-utils</link>
       <pubDate>Mon, 15 Apr 2024 19:41:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian Blackjack group used ICS malware Fuxnet against Russian targets</title>
+      <link>https://securityaffairs.com/161865/hacking/blackjack-ics-malware-fuxnet.html</link>
+      <pubDate>Mon, 15 Apr 2024 19:39:19 +0000</pubDate>
     </item>
     <item>
       <title>Ukrainian hacktivists claim to breach Russian drone developer</title>
@@ -61,11 +76,6 @@
       <title>New LockBit Variant Exploits Self-Spreading Features</title>
       <link>https://www.infosecurity-magazine.com/news/lockbit-variant-self-spreading/</link>
       <pubDate>Mon, 15 Apr 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tanzania ‘extensively’ censors LGBTQ+ apps and websites, researchers find</title>
-      <link>https://therecord.media/tanzania-lgbtq-digital-censorship-report</link>
-      <pubDate>Mon, 15 Apr 2024 15:20:33 +0000</pubDate>
     </item>
     <item>
       <title>Sophos Guidance on the Digital Operational Resilience Act (DORA)</title>
@@ -296,16 +306,6 @@
       <title>Popular Rust Crate liblzma-sys Compromised with XZ Utils Backdoor Files</title>
       <link>https://thehackernews.com/2024/04/popular-rust-crate-liblzma-sys.html</link>
       <pubDate>Fri, 12 Apr 2024 14:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Urges Immediate Credential Reset After Sisense Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-urges-reset-sisense-breach/</link>
-      <pubDate>Fri, 12 Apr 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 15</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-15-5/</link>
-      <pubDate>Fri, 12 Apr 2024 13:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
