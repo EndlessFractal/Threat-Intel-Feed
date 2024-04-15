@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Apr 2024 22:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 02:56:48 +0000</lastBuildDate>
+    <item>
+      <title>“Totally Unexpected” Package Malware Using Modified Notepad++ Plug-in (WikiLoader)</title>
+      <link>https://asec.ahnlab.com/en/64106/</link>
+      <pubDate>Mon, 15 Apr 2024 01:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware tracker: The latest figures [April 2024]</title>
+      <link>https://therecord.media/ransomware-tracker-the-latest-figures</link>
+      <pubDate>Mon, 15 Apr 2024 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Update 395</title>
+      <link>https://www.troyhunt.com/weekly-update-395/</link>
+      <pubDate>Sun, 14 Apr 2024 23:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>Canadian retail chain Giant Tiger data breach may have impacted millions of customers</title>
       <link>https://securityaffairs.com/161811/cyber-crime/giant-tiger-data-breach.html</link>
@@ -141,11 +156,6 @@
       <title>Popular Rust Crate liblzma-sys Compromised with XZ Utils Backdoor Files</title>
       <link>https://thehackernews.com/2024/04/popular-rust-crate-liblzma-sys.html</link>
       <pubDate>Fri, 12 Apr 2024 14:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto Networks warns of zero-day in VPN product</title>
-      <link>https://therecord.media/vpn-zero-day-palo-alto-networks</link>
-      <pubDate>Fri, 12 Apr 2024 14:36:02 +0000</pubDate>
     </item>
     <item>
       <title>CISA Urges Immediate Credential Reset After Sisense Breach</title>
@@ -296,16 +306,6 @@
       <title>The internet is already scary enough without April Fool’s jokes</title>
       <link>https://blog.talosintelligence.com/threat-source-newsletter-april-11-2024/</link>
       <pubDate>Thu, 11 Apr 2024 18:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a Race Condition Vulnerability Could Cast Multiple Votes</title>
-      <link>https://www.hackerone.com/vulnerability-management/sherrets-race-condition</link>
-      <pubDate>Thu, 11 Apr 2024 16:07:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checklist: Securing Digital Information</title>
-      <link>https://www.techrepublic.com/resource-library/toolstemplates/checklist-securing-digital-information/</link>
-      <pubDate>Thu, 11 Apr 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
