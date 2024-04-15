@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 12:28:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 14:14:08 +0000</lastBuildDate>
+    <item>
+      <title>TechRepublic’s Review Methodology for VPNs</title>
+      <link>https://www.techrepublic.com/article/vpn-review-methodology/</link>
+      <pubDate>Mon, 15 Apr 2024 13:31:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead</title>
+      <link>https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html</link>
+      <pubDate>Mon, 15 Apr 2024 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Muddled Libra Shifts Focus to SaaS and Cloud for Extortion and Data Theft Attacks</title>
+      <link>https://thehackernews.com/2024/04/muddled-libra-shifts-focus-to-saas-and.html</link>
+      <pubDate>Mon, 15 Apr 2024 13:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-24576 Detection: Hackers Exploit a  Maxim Severity “BatBadBut” Rust Vulnerability to Target Windows Users</title>
+      <link>https://socprime.com/blog/cve-2024-24576-detection-hackers-exploit-a-maxim-severity-batbadbut-rust-vulnerability-to-target-windows-users/</link>
+      <pubDate>Mon, 15 Apr 2024 13:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chipmaker Giant Nexperia Confirms Cyber-Attack Amid Ransomware Group Claims</title>
+      <link>https://www.infosecurity-magazine.com/news/chipmaker-nexperia-attack/</link>
+      <pubDate>Mon, 15 Apr 2024 12:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Palo Alto GlobalProtect Vulnerability Exploited (CVE-2024-3400), (Sat, Apr 13th)</title>
+      <link>https://isc.sans.edu/diary/rss/30834</link>
+      <pubDate>Mon, 15 Apr 2024 12:28:02 +0000</pubDate>
+    </item>
     <item>
       <title>Chinese-owned semiconductor company Nexperia hit by ransomware attack</title>
       <link>https://therecord.media/nexperia-semiconductor-company-ransomware-incident</link>
@@ -113,11 +143,6 @@
       <pubDate>Sat, 13 Apr 2024 19:58:48 +0000</pubDate>
     </item>
     <item>
-      <title>Critical Palo Alto GlobalProtect Vulnerability Exploited (CVE-2024-3400), (Sat, Apr 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/30834</link>
-      <pubDate>Sat, 13 Apr 2024 19:14:00 +0000</pubDate>
-    </item>
-    <item>
       <title>BatBadBut flaw allowed an attacker to perform command injection on Windows</title>
       <link>https://securityaffairs.com/161785/security/batbadbut-flaw-programming-languages.html</link>
       <pubDate>Sat, 13 Apr 2024 15:00:26 +0000</pubDate>
@@ -138,7 +163,7 @@
       <pubDate>Sat, 13 Apr 2024 08:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>Breaking down a a high-severity vulnerability in Kubernetes.</title>
+      <title>Breaking down a high-severity vulnerability in Kubernetes.</title>
       <link>https://thecyberwire.com/podcasts/research-saturday/325/notes</link>
       <pubDate>Sat, 13 Apr 2024 05:00:00 +0000</pubDate>
     </item>
@@ -281,31 +306,6 @@
       <title>TA547 targets German organizations with Rhadamanthys malware</title>
       <link>https://securityaffairs.com/161747/cyber-crime/ta547-targeting-german-orgs.html</link>
       <pubDate>Fri, 12 Apr 2024 09:33:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-Day Alert: Critical Palo Alto Networks PAN-OS Flaw Under Active Attack</title>
-      <link>https://thehackernews.com/2024/04/zero-day-alert-critical-palo-alto.html</link>
-      <pubDate>Fri, 12 Apr 2024 08:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XZ backdoor story – Initial analysis</title>
-      <link>https://securelist.com/xz-backdoor-story-part-1/112354/</link>
-      <pubDate>Fri, 12 Apr 2024 08:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a Live SIFT USB with Persistence, (Fri, Apr 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/30832</link>
-      <pubDate>Fri, 12 Apr 2024 05:23:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sneaky Credit Card Skimmer Disguised as Harmless Facebook Tracker</title>
-      <link>https://thehackernews.com/2024/04/sneaky-credit-card-skimmer-disguised-as.html</link>
-      <pubDate>Fri, 12 Apr 2024 05:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Talent Insights: Navigating the landscape for enterprise organizations. (Part 1 of 3)</title>
-      <link>https://thecyberwire.com/podcasts/special-edition/60/notes</link>
-      <pubDate>Fri, 12 Apr 2024 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
