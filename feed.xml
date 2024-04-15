@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 16:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 18:19:35 +0000</lastBuildDate>
+    <item>
+      <title>Stopping the New and Unknown</title>
+      <link>https://symantec-enterprise-blogs.security.com/product-insights/stopping-new-and-unknown</link>
+      <pubDate>Mon, 15 Apr 2024 17:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel and Lenovo BMCs Contain Unpatched Lighttpd Server Flaw</title>
+      <link>https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html</link>
+      <pubDate>Mon, 15 Apr 2024 16:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Networks releases fixes for zero-day as attackers swarm VPN vulnerability</title>
+      <link>https://therecord.media/palo-alto-networks-fixes-vpn-zero-day</link>
+      <pubDate>Mon, 15 Apr 2024 16:43:18 +0000</pubDate>
+    </item>
     <item>
       <title>Russia and Ukraine Top Inaugural World Cybercrime Index</title>
       <link>https://www.infosecurity-magazine.com/news/russia-ukraine-world-cybercrime/</link>
@@ -86,6 +101,11 @@
       <title>Chinese-owned semiconductor company Nexperia hit by ransomware attack</title>
       <link>https://therecord.media/nexperia-semiconductor-company-ransomware-incident</link>
       <pubDate>Mon, 15 Apr 2024 12:18:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Joint Guidance on Deploying AI Systems Securely</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely</link>
+      <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat actors exploited Palo Alto Pan-OS issue to deploy a Python Backdoor</title>
@@ -243,11 +263,6 @@
       <pubDate>Fri, 12 Apr 2024 17:52:28 +0000</pubDate>
     </item>
     <item>
-      <title>FISA Section 702 reauthorization passes in House on second try this week</title>
-      <link>https://therecord.media/fisa-section-702-house-floor-votes-again</link>
-      <pubDate>Fri, 12 Apr 2024 17:27:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Threat Brief: Operation MidnightEclipse, Post-Exploitation Activity Related to CVE-2024-3400</title>
       <link>https://unit42.paloaltonetworks.com/cve-2024-3400/</link>
       <pubDate>Fri, 12 Apr 2024 17:00:40 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>LastPass employee targeted via an audio deepfake call</title>
       <link>https://securityaffairs.com/161760/cyber-crime/lastpass-employee-targeted-deepfake.html</link>
       <pubDate>Fri, 12 Apr 2024 12:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Fri, 12 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix Releases Security Updates for XenServer and Citrix Hypervisor</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor</link>
-      <pubDate>Fri, 12 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400</link>
-      <pubDate>Fri, 12 Apr 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
