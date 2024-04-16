@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Apr 2024 12:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 14:15:25 +0000</lastBuildDate>
+    <item>
+      <title>Report Suggests 93% of Breaches Lead to Downtime and Data Loss</title>
+      <link>https://www.infosecurity-magazine.com/news/93-breaches-lead-downtime-data-loss/</link>
+      <pubDate>Tue, 16 Apr 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Innovation Investments Paying Dividends</title>
+      <link>https://symantec-enterprise-blogs.security.com/feature-stories/innovation-investments-paying-dividends</link>
+      <pubDate>Tue, 16 Apr 2024 13:48:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>LeakyCLI Flaw Exposes AWS and Google Cloud Credentials</title>
+      <link>https://www.infosecurity-magazine.com/news/leakycli-exposes-aws-google-cloud/</link>
+      <pubDate>Tue, 16 Apr 2024 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Misinformation and hacktivist campaigns targeting the Philippines skyrocket</title>
+      <link>https://securityaffairs.com/161909/intelligence/misinformation-targeting-the-philippines.html</link>
+      <pubDate>Tue, 16 Apr 2024 13:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giant Tiger breach sees 2.8 million records leaked</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/04/giant-tiger-breach-sees-2-8-million-records-leaked</link>
+      <pubDate>Tue, 16 Apr 2024 13:07:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>S Ventures Invests in Guardz to Revolutionize Cybersecurity for SMBs</title>
+      <link>https://www.sentinelone.com/blog/s-ventures-invests-in-guardz-to-revolutionize-cybersecurity-for-smbs/</link>
+      <pubDate>Tue, 16 Apr 2024 13:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obtaining security clearance: Hurdles and requirements</title>
+      <link>https://securityintelligence.com/articles/obtaining-security-clearance-hurdles-requirements/</link>
+      <pubDate>Tue, 16 Apr 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Renewal of warrantless surveillance powers is in Senate’s hands</title>
+      <link>https://therecord.media/fisa-section-702-bill-senate-deadline</link>
+      <pubDate>Tue, 16 Apr 2024 12:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Pros Urge US Congress to Help NIST Restore NVD Operation</title>
+      <link>https://www.infosecurity-magazine.com/news/open-letter-nist-restore-nvd/</link>
+      <pubDate>Tue, 16 Apr 2024 12:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Large-scale brute-force activity targeting VPNs, SSH services with commonly used login credentials</title>
       <link>https://blog.talosintelligence.com/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials/</link>
@@ -93,6 +138,11 @@
       <pubDate>Tue, 16 Apr 2024 02:00:01 +0000</pubDate>
     </item>
     <item>
+      <title>“Mobile NotPetya”: Spyware Zero-Click Exploit Development Increases Threat of Wormable Mobile Malware</title>
+      <link>https://www.recordedfuture.com/mobile-notpetya-threat-rising-zero-click-exploits-mobile-malware-risks</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Quick Palo Alto Networks Global Protect Vulnerablity Update (CVE-2024-3400), (Mon, Apr 15th)</title>
       <link>https://isc.sans.edu/diary/rss/30838</link>
       <pubDate>Mon, 15 Apr 2024 23:56:55 +0000</pubDate>
@@ -141,11 +191,6 @@
       <title>Intel and Lenovo BMCs Contain Unpatched Lighttpd Server Flaw</title>
       <link>https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html</link>
       <pubDate>Mon, 15 Apr 2024 16:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto Networks releases fixes for zero-day as attackers swarm VPN vulnerability</title>
-      <link>https://therecord.media/palo-alto-networks-fixes-vpn-zero-day</link>
-      <pubDate>Mon, 15 Apr 2024 16:43:18 +0000</pubDate>
     </item>
     <item>
       <title>Russia and Ukraine Top Inaugural World Cybercrime Index</title>
@@ -261,51 +306,6 @@
       <title>Police Swoop on €645m Cannabis Investment Fraud Gang</title>
       <link>https://www.infosecurity-magazine.com/news/police-swoop-645m-cannabis/</link>
       <pubDate>Mon, 15 Apr 2024 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability</title>
-      <link>https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html</link>
-      <pubDate>Mon, 15 Apr 2024 08:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (April 8 – April 14)</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/04/a-week-in-security-april-8-april-14</link>
-      <pubDate>Mon, 15 Apr 2024 07:27:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. and Australian police arrested Firebird RAT author and operator</title>
-      <link>https://securityaffairs.com/161822/cyber-crime/firebird-rat-men-arrested.html</link>
-      <pubDate>Mon, 15 Apr 2024 06:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Totally Unexpected” Package Malware Using Modified Notepad++ Plug-in (WikiLoader)</title>
-      <link>https://asec.ahnlab.com/en/64106/</link>
-      <pubDate>Mon, 15 Apr 2024 01:12:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 395</title>
-      <link>https://www.troyhunt.com/weekly-update-395/</link>
-      <pubDate>Sun, 14 Apr 2024 23:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian retail chain Giant Tiger data breach may have impacted millions of customers</title>
-      <link>https://securityaffairs.com/161811/cyber-crime/giant-tiger-data-breach.html</link>
-      <pubDate>Sun, 14 Apr 2024 16:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2024/04/upcoming-speaking-engagements-35.html</link>
-      <pubDate>Sun, 14 Apr 2024 16:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 467 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/161806/breaking-news/security-affairs-newsletter-round-467-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 14 Apr 2024 10:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deciphering Metrics: From NCAA Women’s Basketball to Cyber Trends</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/deciphering-metrics-from-ncaa-womens-basketball-to-cyber-trends</link>
-      <pubDate>Sun, 14 Apr 2024 09:42:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
