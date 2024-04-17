@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Apr 2024 14:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 16:21:06 +0000</lastBuildDate>
+    <item>
+      <title>Russian disinformation efforts around U.S. elections ‘kicked into gear over the last 45 days’: Microsoft</title>
+      <link>https://therecord.media/russia-disinfo-kicked-into-gear-microsoft</link>
+      <pubDate>Wed, 17 Apr 2024 16:15:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Cerber Ransomware Variant Exploits Atlassian Servers</title>
+      <link>https://www.infosecurity-magazine.com/news/linux-cerber-ransomware-exploits/</link>
+      <pubDate>Wed, 17 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mandiant ties OT attacks to Russia's GRU. Change Healthcare attack has cost $872 million so far.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/75</link>
+      <pubDate>Wed, 17 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vote looms on bill to curtail government transactions with data brokers</title>
+      <link>https://therecord.media/data-brokers-legislation-government-purchases-cai</link>
+      <pubDate>Wed, 17 Apr 2024 15:51:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Group Kimsuky Exploits DMARC and Web Beacons</title>
+      <link>https://www.infosecurity-magazine.com/news/kimsuky-exploits-dmarc-web-beacons/</link>
+      <pubDate>Wed, 17 Apr 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sandworm hackers play ‘central role’ in Russia’s cyberwar with Ukraine</title>
+      <link>https://therecord.media/sandworm-hackers-central-role-russia-ukraine</link>
+      <pubDate>Wed, 17 Apr 2024 15:13:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Government and OpenSSF Partner on New SBOM Management Tool</title>
+      <link>https://www.infosecurity-magazine.com/news/us-government-openssf-sbom-tool/</link>
+      <pubDate>Wed, 17 Apr 2024 14:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is a VPN Really Worth It in 2024?</title>
+      <link>https://www.techrepublic.com/article/is-vpn-worth-it/</link>
+      <pubDate>Wed, 17 Apr 2024 14:22:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlas VPN Free vs. Premium: Which Plan Is Best For You?</title>
+      <link>https://www.techrepublic.com/article/atlas-vpn-free-vs-premium/</link>
+      <pubDate>Wed, 17 Apr 2024 14:02:03 +0000</pubDate>
+    </item>
     <item>
       <title>Russian APT Deploys New 'Kapeka' Backdoor in Eastern European Attacks</title>
       <link>https://thehackernews.com/2024/04/russian-apt-deploys-new-kapeka-backdoor.html</link>
@@ -138,29 +183,14 @@
       <pubDate>Tue, 16 Apr 2024 21:14:12 +0000</pubDate>
     </item>
     <item>
-      <title>Atlantic fisheries body confirms cyber incident after 8Base ransomware gang claims breach</title>
-      <link>https://therecord.media/atlantic-fisheries-commission-confirms-cyber-incident</link>
-      <pubDate>Tue, 16 Apr 2024 20:45:38 +0000</pubDate>
-    </item>
-    <item>
       <title>Weathering the phishing front.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/2047/notes</link>
       <pubDate>Tue, 16 Apr 2024 20:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Food and agriculture sector hit with more than 160 ransomware attacks last year</title>
-      <link>https://therecord.media/food-and-agriculture-hit-with-ransomware-attacks</link>
-      <pubDate>Tue, 16 Apr 2024 19:33:34 +0000</pubDate>
-    </item>
-    <item>
       <title>PuTTY SSH Client flaw allows of private keys recovery</title>
       <link>https://securityaffairs.com/161921/security/putty-ssh-client-flaw.html</link>
       <pubDate>Tue, 16 Apr 2024 18:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Botnets continue exploiting year-old flaw in unpatched TP-Link routers</title>
-      <link>https://therecord.media/tp-link-router-vulnerability-botnets</link>
-      <pubDate>Tue, 16 Apr 2024 18:08:46 +0000</pubDate>
     </item>
     <item>
       <title>Google Chrome: Security and UI Tips You Need to Know</title>
@@ -276,36 +306,6 @@
       <title>CISA Releases Four Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories</link>
       <pubDate>Tue, 16 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who Stole 3.6M Tax Records from South Carolina?</title>
-      <link>https://krebsonsecurity.com/2024/04/who-stole-3-6m-tax-records-from-south-carolina/</link>
-      <pubDate>Tue, 16 Apr 2024 11:26:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Most Impersonated Brand in Phishing Scams</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-impersonated-brand/</link>
-      <pubDate>Tue, 16 Apr 2024 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Widely-Used PuTTY SSH Client Found Vulnerable to Key Recovery Attack</title>
-      <link>https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html</link>
-      <pubDate>Tue, 16 Apr 2024 11:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Identity in the Shadows: Shedding Light on Cybersecurity's Unseen Threats</title>
-      <link>https://thehackernews.com/2024/04/identity-in-shadows-shedding-light-on.html</link>
-      <pubDate>Tue, 16 Apr 2024 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>X.com Automatically Changing Link Text but Not URLs</title>
-      <link>https://www.schneier.com/blog/archives/2024/04/x-com-automatically-changing-link-names-but-not-links.html</link>
-      <pubDate>Tue, 16 Apr 2024 11:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>“The Foundations of American Intelligence in WWI” – with Mark Stout</title>
-      <link>https://thecyberwire.com/podcasts/spycast/629/notes</link>
-      <pubDate>Tue, 16 Apr 2024 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
