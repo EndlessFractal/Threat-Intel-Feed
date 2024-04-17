@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Apr 2024 08:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 10:16:57 +0000</lastBuildDate>
+    <item>
+      <title>SoumniBot: the new Android banker’s unique techniques</title>
+      <link>https://securelist.com/soumnibot-android-banker-obfuscates-app-manifest/112334/</link>
+      <pubDate>Wed, 17 Apr 2024 10:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Junk gun’ ransomware: Peashooters can still pack a punch</title>
+      <link>https://news.sophos.com/en-us/2024/04/17/junk-gun-ransomware-peashooters-can-still-pack-a-punch/</link>
+      <pubDate>Wed, 17 Apr 2024 10:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Examining CIRCIA and VOLTZITE.</title>
+      <link>https://thecyberwire.com/podcasts/control-loop/48/notes</link>
+      <pubDate>Wed, 17 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Patches Two Critical Avalanche Flaws in Major Update</title>
+      <link>https://www.infosecurity-magazine.com/news/ivanti-patches-two-critical/</link>
+      <pubDate>Wed, 17 Apr 2024 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Warns of Global Surge in Brute-Force Attacks Targeting VPN and SSH Services</title>
+      <link>https://thehackernews.com/2024/04/cisco-warns-of-global-surge-in-brute.html</link>
+      <pubDate>Wed, 17 Apr 2024 08:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insider Threats Surge 14% Annually as Cost-of-Living Crisis Bites</title>
+      <link>https://www.infosecurity-magazine.com/news/insider-threats-14-cost-living/</link>
+      <pubDate>Wed, 17 Apr 2024 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Russian Sandworm Group Using Novel Backdoor to Target Ukraine and Allies</title>
       <link>https://www.infosecurity-magazine.com/news/russian-sandworm-backdoor-ukraine/</link>
@@ -71,6 +101,11 @@
       <title>Botnets continue exploiting year-old flaw in unpatched TP-Link routers</title>
       <link>https://therecord.media/tp-link-router-vulnerability-botnets</link>
       <pubDate>Tue, 16 Apr 2024 18:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome: Security and UI Tips You Need to Know</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/google-chrome-security-and-ui-tips-you-need-to-know/</link>
+      <pubDate>Tue, 16 Apr 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>RansomHub begins leaking alleged Change Healthcare data.</title>
@@ -271,41 +306,6 @@
       <title>“Mobile NotPetya”: Spyware Zero-Click Exploit Development Increases Threat of Wormable Mobile Malware</title>
       <link>https://www.recordedfuture.com/mobile-notpetya-threat-rising-zero-click-exploits-mobile-malware-risks</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quick Palo Alto Networks Global Protect Vulnerablity Update (CVE-2024-3400), (Mon, Apr 15th)</title>
-      <link>https://isc.sans.edu/diary/rss/30838</link>
-      <pubDate>Mon, 15 Apr 2024 23:56:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Duo warns telephony supplier data breach exposed MFA SMS logs</title>
-      <link>https://securityaffairs.com/161880/cyber-crime/cisco-duo-data-breach.html</link>
-      <pubDate>Mon, 15 Apr 2024 20:36:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hunting vulnerabilities.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/2046/notes</link>
-      <pubDate>Mon, 15 Apr 2024 20:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian Blackjack group used ICS malware Fuxnet against Russian targets</title>
-      <link>https://securityaffairs.com/161865/hacking/blackjack-ics-malware-fuxnet.html</link>
-      <pubDate>Mon, 15 Apr 2024 19:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stopping the New and Unknown</title>
-      <link>https://symantec-enterprise-blogs.security.com/product-insights/stopping-new-and-unknown</link>
-      <pubDate>Mon, 15 Apr 2024 17:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intel and Lenovo BMCs Contain Unpatched Lighttpd Server Flaw</title>
-      <link>https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html</link>
-      <pubDate>Mon, 15 Apr 2024 16:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia and Ukraine Top Inaugural World Cybercrime Index</title>
-      <link>https://www.infosecurity-magazine.com/news/russia-ukraine-world-cybercrime/</link>
-      <pubDate>Mon, 15 Apr 2024 16:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
