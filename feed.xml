@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Apr 2024 18:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 20:15:30 +0000</lastBuildDate>
+    <item>
+      <title>The rebirth of Russia's cyber warfare.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/2048/notes</link>
+      <pubDate>Wed, 17 Apr 2024 20:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Armis acquires Silk Security. Cohesity secures $150 million in Series F round. Onum raises $28 million in Series A funding.</title>
+      <link>https://thecyberwire.com/newsletters/business-briefing/6/16</link>
+      <pubDate>Wed, 17 Apr 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should you share your location with your partner?</title>
+      <link>https://www.malwarebytes.com/blog/privacy/2024/04/should-you-share-your-location-with-your-partner</link>
+      <pubDate>Wed, 17 Apr 2024 19:54:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>NY governor says cyberattack on legislative office is holding up state budget</title>
+      <link>https://therecord.media/new-york-state-budget-delayed-cyberattack</link>
+      <pubDate>Wed, 17 Apr 2024 19:43:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Crude' ransomware tools proliferating on the dark web for cheap, researchers find</title>
+      <link>https://therecord.media/cheap-ransomware-for-sale-dark-web</link>
+      <pubDate>Wed, 17 Apr 2024 19:17:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux variant of Cerber ransomware targets Atlassian servers</title>
+      <link>https://securityaffairs.com/161962/cyber-crime/cerber-ransomware-cve-2023-22518-atlassian.html</link>
+      <pubDate>Wed, 17 Apr 2024 18:01:31 +0000</pubDate>
+    </item>
     <item>
       <title>Harnessing Cyber Talent: Insights for Tomorrow's Workforce</title>
       <link>https://thecyberwire.com/stories/0d0005ca31014391bd86bca3a631f057/harnessing-cyber-talent-insights-for-tomorrows-workforce</link>
@@ -38,19 +68,9 @@
       <pubDate>Wed, 17 Apr 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vote looms on bill to curtail government transactions with data brokers</title>
-      <link>https://therecord.media/data-brokers-legislation-government-purchases-cai</link>
-      <pubDate>Wed, 17 Apr 2024 15:51:12 +0000</pubDate>
-    </item>
-    <item>
       <title>North Korean Group Kimsuky Exploits DMARC and Web Beacons</title>
       <link>https://www.infosecurity-magazine.com/news/kimsuky-exploits-dmarc-web-beacons/</link>
       <pubDate>Wed, 17 Apr 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sandworm hackers play ‘central role’ in Russia’s cyberwar with Ukraine</title>
-      <link>https://therecord.media/sandworm-hackers-central-role-russia-ukraine</link>
-      <pubDate>Wed, 17 Apr 2024 15:13:53 +0000</pubDate>
     </item>
     <item>
       <title>US Government and OpenSSF Partner on New SBOM Management Tool</title>
@@ -66,6 +86,11 @@
       <title>Atlas VPN Free vs. Premium: Which Plan Is Best For You?</title>
       <link>https://www.techrepublic.com/article/atlas-vpn-free-vs-premium/</link>
       <pubDate>Wed, 17 Apr 2024 14:02:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ProtonVPN vs. AtlasVPN (2024): Which VPN Should You Use?</title>
+      <link>https://www.techrepublic.com/article/protonvpn-vs-atlas-vpn/</link>
+      <pubDate>Wed, 17 Apr 2024 14:00:41 +0000</pubDate>
     </item>
     <item>
       <title>Russian APT Deploys New 'Kapeka' Backdoor in Eastern European Attacks</title>
@@ -281,31 +306,6 @@
       <title>Private Internet Access VPN Review (2024): How Good is PIA VPN?</title>
       <link>https://www.techrepublic.com/article/private-internet-access-vpn-review/</link>
       <pubDate>Tue, 16 Apr 2024 12:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Large-scale brute-force activity targeting VPNs, SSH services with commonly used login credentials</title>
-      <link>https://blog.talosintelligence.com/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials/</link>
-      <pubDate>Tue, 16 Apr 2024 12:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Electrolink FM/DAB/TV Transmitter</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-107-02</link>
-      <pubDate>Tue, 16 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RoboDK RoboDK</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-107-04</link>
-      <pubDate>Tue, 16 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Measuresoft ScadaPro</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-107-01</link>
-      <pubDate>Tue, 16 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation ControlLogix and GuardLogix</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-107-03</link>
-      <pubDate>Tue, 16 Apr 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
