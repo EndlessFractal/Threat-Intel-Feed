@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Apr 2024 04:18:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 06:21:03 +0000</lastBuildDate>
+    <item>
+      <title>Hackers Exploit OpenMetadata Flaws to Mine Crypto on Kubernetes</title>
+      <link>https://thehackernews.com/2024/04/hackers-exploit-openmetadata-flaws-to.html</link>
+      <pubDate>Thu, 18 Apr 2024 05:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discussions revisited.</title>
+      <link>https://thecyberwire.com/podcasts/caveat/214/notes</link>
+      <pubDate>Thu, 18 Apr 2024 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is change presenting a window of opportunity for attackers?</title>
+      <link>https://thecyberwire.com/podcasts/hacking-humans/286/notes</link>
+      <pubDate>Thu, 18 Apr 2024 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Google Ads Pushing Fake IP Scanner Software with Hidden Backdoor</title>
+      <link>https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html</link>
+      <pubDate>Thu, 18 Apr 2024 04:48:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, April 18th, 2024 https://isc.sans.edu/podcastdetail/8944, (Thu, Apr 18th)</title>
       <link>https://isc.sans.edu/diary/rss/30854</link>
@@ -243,6 +263,11 @@
       <pubDate>Tue, 16 Apr 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>New Microsoft guidance for the DoD Zero Trust Strategy</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/04/16/new-microsoft-guidance-for-the-dod-zero-trust-strategy/</link>
+      <pubDate>Tue, 16 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>RansomHub begins leaking alleged Change Healthcare data.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/74</link>
       <pubDate>Tue, 16 Apr 2024 16:00:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>TA558 Hackers Weaponize Images for Wide-Scale Malware Attacks</title>
       <link>https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html</link>
       <pubDate>Tue, 16 Apr 2024 13:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS, Google, and Azure CLI Tools Could Leak Credentials in Build Logs</title>
-      <link>https://thehackernews.com/2024/04/aws-google-and-azure-cli-tools-could.html</link>
-      <pubDate>Tue, 16 Apr 2024 13:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LeakyCLI Flaw Exposes AWS and Google Cloud Credentials</title>
-      <link>https://www.infosecurity-magazine.com/news/leakycli-exposes-aws-google-cloud/</link>
-      <pubDate>Tue, 16 Apr 2024 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Misinformation and hacktivist campaigns targeting the Philippines skyrocket</title>
-      <link>https://securityaffairs.com/161909/intelligence/misinformation-targeting-the-philippines.html</link>
-      <pubDate>Tue, 16 Apr 2024 13:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Giant Tiger breach sees 2.8 million records leaked</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/04/giant-tiger-breach-sees-2-8-million-records-leaked</link>
-      <pubDate>Tue, 16 Apr 2024 13:07:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>S Ventures Invests in Guardz to Revolutionize Cybersecurity for SMBs</title>
-      <link>https://www.sentinelone.com/blog/s-ventures-invests-in-guardz-to-revolutionize-cybersecurity-for-smbs/</link>
-      <pubDate>Tue, 16 Apr 2024 13:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
