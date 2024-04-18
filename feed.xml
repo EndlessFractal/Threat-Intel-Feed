@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Apr 2024 18:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 20:16:15 +0000</lastBuildDate>
+    <item>
+      <title>From phishing to felony.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/2049/notes</link>
+      <pubDate>Thu, 18 Apr 2024 20:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU delays cybersecurity label vote to May. Experts state that AI is making ransomware easier to use.</title>
+      <link>https://thecyberwire.com/newsletters/caveat-briefing/2/15</link>
+      <pubDate>Thu, 18 Apr 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Akira ransomware gang made $42 million from 250 attacks since March 2023: FBI</title>
+      <link>https://therecord.media/akira-ransomware-attacked-hundreds-millions</link>
+      <pubDate>Thu, 18 Apr 2024 19:16:16 +0000</pubDate>
+    </item>
     <item>
       <title>Senators push forward with Section 702 legislation as deadline looms</title>
       <link>https://therecord.media/senate-debate-fisa-section-702-renewal</link>
@@ -33,9 +48,24 @@
       <pubDate>Thu, 18 Apr 2024 17:13:48 +0000</pubDate>
     </item>
     <item>
+      <title>Code Reviews, Small Moments, Big Impacts</title>
+      <link>https://www.hackerone.com/engineering/code-review-impact</link>
+      <pubDate>Thu, 18 Apr 2024 17:08:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Quishing Attacks Jump Tenfold, Attachment Payloads Halve</title>
       <link>https://www.infosecurity-magazine.com/news/quishing-attacks-tenfold/</link>
       <pubDate>Thu, 18 Apr 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Interaction Hacks: Tips and Tricks for Crafting Effective Prompts</title>
+      <link>https://www.hackerone.com/engineering/ai-prompting-tips</link>
+      <pubDate>Thu, 18 Apr 2024 16:59:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>FAQ: Everything Hackers Need to Know About the 2024 Ambassador World Cup</title>
+      <link>https://www.hackerone.com/hackerone-community-blog/awc-faq</link>
+      <pubDate>Thu, 18 Apr 2024 16:58:46 +0000</pubDate>
     </item>
     <item>
       <title>The Windows Registry Adventure #2: A brief history of the feature</title>
@@ -46,6 +76,11 @@
       <title>The Windows Registry Adventure #1: Introduction and research results</title>
       <link>https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html</link>
       <pubDate>Thu, 18 Apr 2024 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Getting Started on Personal Development</title>
+      <link>https://www.hackerone.com/engineering/personal-development</link>
+      <pubDate>Thu, 18 Apr 2024 16:37:29 +0000</pubDate>
     </item>
     <item>
       <title>Kaspersky Study: Devices Infected With Data-Stealing Malware Increased by 7 Times Since 2020</title>
@@ -71,11 +106,6 @@
       <title>New Cyber-Threat MadMxShell Exploits Typosquatting and Google Ads</title>
       <link>https://www.infosecurity-magazine.com/news/madmxshell-exploits-typosquatting/</link>
       <pubDate>Thu, 18 Apr 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU cyber agency will not create active vulnerability database, says chief cybersecurity officer</title>
-      <link>https://therecord.media/enisa-will-not-create-vulnerability-database-cyber-resilience-act</link>
-      <pubDate>Thu, 18 Apr 2024 15:11:02 +0000</pubDate>
     </item>
     <item>
       <title>Mental health company Cerebral failed to protect sensitive personal data, must pay $7 million</title>
@@ -276,36 +306,6 @@
       <title>Harnessing Cyber Talent: Insights for Tomorrow's Workforce</title>
       <link>https://thecyberwire.com/stories/0d0005ca31014391bd86bca3a631f057/harnessing-cyber-talent-insights-for-tomorrows-workforce</link>
       <pubDate>Wed, 17 Apr 2024 17:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>#StopRansomware: Akira Ransomware</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a</link>
-      <pubDate>Wed, 17 Apr 2024 17:19:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Encryption Policy</title>
-      <link>https://www.techrepublic.com/resource-library/toolstemplates/data-encryption-policy/</link>
-      <pubDate>Wed, 17 Apr 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers exploiting new critical OpenMetadata vulnerabilities on Kubernetes clusters</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/04/17/attackers-exploiting-new-critical-openmetadata-vulnerabilities-on-kubernetes-clusters/</link>
-      <pubDate>Wed, 17 Apr 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Cerber Ransomware Variant Exploits Atlassian Servers</title>
-      <link>https://www.infosecurity-magazine.com/news/linux-cerber-ransomware-exploits/</link>
-      <pubDate>Wed, 17 Apr 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mandiant ties OT attacks to Russia's GRU. Change Healthcare attack has cost $872 million so far.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/75</link>
-      <pubDate>Wed, 17 Apr 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Group Kimsuky Exploits DMARC and Web Beacons</title>
-      <link>https://www.infosecurity-magazine.com/news/kimsuky-exploits-dmarc-web-beacons/</link>
-      <pubDate>Wed, 17 Apr 2024 15:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
