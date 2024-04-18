@@ -6,11 +6,66 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Apr 2024 14:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 16:19:51 +0000</lastBuildDate>
+    <item>
+      <title>Russia's Sandworm Upgraded to APT44 by Google's Mandiant</title>
+      <link>https://www.infosecurity-magazine.com/news/russia-sandworm-upgraded-apt44/</link>
+      <pubDate>Thu, 18 Apr 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A look at foreign influence operations focused on the US elections.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/76</link>
+      <pubDate>Thu, 18 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing-as-a-service platform LabHost shut down in global operation</title>
+      <link>https://therecord.media/phishing-platform-labhost-shutdown-europol</link>
+      <pubDate>Thu, 18 Apr 2024 15:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Cyber-Threat MadMxShell Exploits Typosquatting and Google Ads</title>
+      <link>https://www.infosecurity-magazine.com/news/madmxshell-exploits-typosquatting/</link>
+      <pubDate>Thu, 18 Apr 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU cyber agency will not create active vulnerability database, says chief cybersecurity officer</title>
+      <link>https://therecord.media/enisa-will-not-create-vulnerability-database-cyber-resilience-act</link>
+      <pubDate>Thu, 18 Apr 2024 15:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mental health company Cerebral failed to protect sensitive personal data, must pay $7 million</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/04/mental-health-company-cerebral-failed-to-protect-sensitive-personal-data-must-pay-7-million</link>
+      <pubDate>Thu, 18 Apr 2024 14:45:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Healthcare data for sale on dark web as fallout from ransomware attack spirals out of control</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/change-healthcare-data-for-sale-on-dark-web-as-fallout-from-ransomware-attack-spirals-out-of-control/</link>
+      <pubDate>Thu, 18 Apr 2024 14:40:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Law enforcement operation dismantled phishing-as-a-service platform LabHost</title>
+      <link>https://securityaffairs.com/162001/hacking/labhost-phaas-dismantled.html</link>
+      <pubDate>Thu, 18 Apr 2024 14:30:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>OfflRouter Malware Evades Detection in Ukraine for Almost a Decade</title>
+      <link>https://thehackernews.com/2024/04/offlrouter-malware-evades-detection-in.html</link>
+      <pubDate>Thu, 18 Apr 2024 14:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3.5 million Omni Hotel guest details held to ransom by Daixin Team</title>
+      <link>https://www.exponential-e.com/blog/3-5-million-omni-hotel-guest-details-held-to-ransom-by-daixin-team</link>
+      <pubDate>Thu, 18 Apr 2024 14:16:48 +0000</pubDate>
+    </item>
     <item>
       <title>Faulty decade-old OfflRouter virus targets organizations in Ukraine</title>
       <link>https://therecord.media/offlrouter-virus-targeting-ukraine-organizations-malware</link>
       <pubDate>Thu, 18 Apr 2024 14:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police smash LabHost international fraud network, 37 arrested</title>
+      <link>https://www.tripwire.com/state-of-security/37-arrested-police-smash-labhost-international-fraud-network</link>
+      <pubDate>Thu, 18 Apr 2024 14:08:12 +0000</pubDate>
     </item>
     <item>
       <title>FIN7 Cybercrime Group Targeting U.S. Auto Industry with Carbanak Backdoor</title>
@@ -40,6 +95,21 @@
     <item>
       <title>US Election Officials Told to Prepare for Nation-State Influence Campaigns</title>
       <link>https://www.infosecurity-magazine.com/news/us-election-officials-nation-state/</link>
+      <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unitronics Vision Series PLCs</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-109-01</link>
+      <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Three Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oracle Releases Critical Patch Update Advisory for April 2024</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024</link>
       <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -148,11 +218,6 @@
       <pubDate>Wed, 17 Apr 2024 23:01:49 +0000</pubDate>
     </item>
     <item>
-      <title>House votes in favor of curtailing government transactions with data brokers</title>
-      <link>https://therecord.media/data-brokers-legislation-government-purchases-cai</link>
-      <pubDate>Wed, 17 Apr 2024 21:55:12 +0000</pubDate>
-    </item>
-    <item>
       <title>The rebirth of Russia's cyber warfare.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/2048/notes</link>
       <pubDate>Wed, 17 Apr 2024 20:10:00 +0000</pubDate>
@@ -166,11 +231,6 @@
       <title>Should you share your location with your partner?</title>
       <link>https://www.malwarebytes.com/blog/privacy/2024/04/should-you-share-your-location-with-your-partner</link>
       <pubDate>Wed, 17 Apr 2024 19:54:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>NY governor says cyberattack on legislative office is holding up state budget</title>
-      <link>https://therecord.media/new-york-state-budget-delayed-cyberattack</link>
-      <pubDate>Wed, 17 Apr 2024 19:43:27 +0000</pubDate>
     </item>
     <item>
       <title>Linux variant of Cerber ransomware targets Atlassian servers</title>
@@ -246,66 +306,6 @@
       <title>Using AI-Generated Legislative Amendments as a Delaying Technique</title>
       <link>https://www.schneier.com/blog/archives/2024/04/using-ai-generated-legislative-amendments-as-a-delaying-technique.html</link>
       <pubDate>Wed, 17 Apr 2024 11:08:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>GenAI: A New Headache for SaaS Security Teams</title>
-      <link>https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html</link>
-      <pubDate>Wed, 17 Apr 2024 11:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU Elections: Pro-Russian Propaganda Exploits Meta's Failure to Moderate Political Ads</title>
-      <link>https://www.infosecurity-magazine.com/news/eu-elections-russian-propaganda/</link>
-      <pubDate>Wed, 17 Apr 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware</title>
-      <link>https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html</link>
-      <pubDate>Wed, 17 Apr 2024 10:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti fixed two critical flaws in its Avalanche MDM</title>
-      <link>https://securityaffairs.com/161952/security/ivanti-avalanche-mdm-critical-flaws.html</link>
-      <pubDate>Wed, 17 Apr 2024 10:49:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2024-3400 Detection: A Maximum Severity Command Injection PAN-OS Zero-Day Vulnerability in GlobalProtect Software</title>
-      <link>https://socprime.com/blog/cve-2024-3400-detection-a-maximum-severity-command-injection-pan-os-zero-day-vulnerability-in-globalprotect-software/</link>
-      <pubDate>Wed, 17 Apr 2024 10:33:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Fortinet Flaw, Deploy ScreenConnect, Metasploit in New Campaign</title>
-      <link>https://thehackernews.com/2024/04/hackers-exploit-fortinet-flaw-deploy.html</link>
-      <pubDate>Wed, 17 Apr 2024 10:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SoumniBot: the new Android banker’s unique techniques</title>
-      <link>https://securelist.com/soumnibot-android-banker-obfuscates-app-manifest/112334/</link>
-      <pubDate>Wed, 17 Apr 2024 10:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Junk gun’ ransomware: Peashooters can still pack a punch</title>
-      <link>https://news.sophos.com/en-us/2024/04/17/junk-gun-ransomware-peashooters-can-still-pack-a-punch/</link>
-      <pubDate>Wed, 17 Apr 2024 10:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Examining CIRCIA and VOLTZITE.</title>
-      <link>https://thecyberwire.com/podcasts/control-loop/48/notes</link>
-      <pubDate>Wed, 17 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Patches Two Critical Avalanche Flaws in Major Update</title>
-      <link>https://www.infosecurity-magazine.com/news/ivanti-patches-two-critical/</link>
-      <pubDate>Wed, 17 Apr 2024 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Warns of Global Surge in Brute-Force Attacks Targeting VPN and SSH Services</title>
-      <link>https://thehackernews.com/2024/04/cisco-warns-of-global-surge-in-brute.html</link>
-      <pubDate>Wed, 17 Apr 2024 08:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insider Threats Surge 14% Annually as Cost-of-Living Crisis Bites</title>
-      <link>https://www.infosecurity-magazine.com/news/insider-threats-14-cost-living/</link>
-      <pubDate>Wed, 17 Apr 2024 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
