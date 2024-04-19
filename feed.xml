@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Apr 2024 14:14:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 16:20:55 +0000</lastBuildDate>
+    <item>
+      <title>Frontier Communications discloses cyberattack. CryptoChameleon phishing kit impersonates LastPass.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/77</link>
+      <pubDate>Fri, 19 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DC city agency says LockBit claims tied to third-party attack</title>
+      <link>https://therecord.media/dc-city-agency-ransomware-attack-lockbit</link>
+      <pubDate>Fri, 19 Apr 2024 15:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unraveling Cyber Threats: Insights from Code Analysis</title>
+      <link>https://feeds.fortinet.com/~/881968499/0/fortinet/blog/threat-research~Unraveling-Cyber-Threats-Insights-from-Code-Analysis</link>
+      <pubDate>Fri, 19 Apr 2024 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Akira Ransomware Detection: Joint Cybersecurity Advisory (CSA) AA24-109A Highlights Attacks Targeting Businesses and Critical Infrastructure in North America, Europe, and Australia</title>
       <link>https://socprime.com/blog/akira-ransomware-detection-joint-cybersecurity-advisory-csa-aa24-109a-highlights-attacks-targeting-businesses-and-critical-infrastructure-in-north-america-europe-and-australia/</link>
       <pubDate>Fri, 19 Apr 2024 14:10:12 +0000</pubDate>
     </item>
     <item>
+      <title>BlackTech Targets Tech, Research, and Gov Sectors New 'Deuterbear' Tool</title>
+      <link>https://thehackernews.com/2024/04/blacktech-targets-tech-research-and-gov.html</link>
+      <pubDate>Fri, 19 Apr 2024 13:44:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukrainian sentenced to 15 years in prison for spreading Russian propaganda</title>
       <link>https://therecord.media/ukrainian-sentenced-for-russian-propaganda</link>
       <pubDate>Fri, 19 Apr 2024 13:30:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protecting yourself after a medical data breach – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/protecting-yourself-medical-data-breach-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 19 Apr 2024 13:14:39 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 16</title>
@@ -36,6 +61,11 @@
       <title>What’s the deal with the massive backlog of vulnerabilities at the NVD?</title>
       <link>https://blog.talosintelligence.com/nvd-vulnerability-backlog-the-need-to-know/</link>
       <pubDate>Fri, 19 Apr 2024 12:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Releases Security Advisories for Cisco Integrated Management Controller</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/19/cisco-releases-security-advisories-cisco-integrated-management-controller</link>
+      <pubDate>Fri, 19 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Attackers Can Own a Business Without Touching the Endpoint</title>
@@ -86,11 +116,6 @@
       <title>Telecom giant Frontier shuts down some systems after cyberattack</title>
       <link>https://therecord.media/telecom-giant-frontier-cyberattack-sec</link>
       <pubDate>Thu, 18 Apr 2024 21:03:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mango Markets swindler convicted for brazen $110 million crypto manipulation scheme</title>
-      <link>https://therecord.media/mango-markets-conviction-millions-theft</link>
-      <pubDate>Thu, 18 Apr 2024 20:17:16 +0000</pubDate>
     </item>
     <item>
       <title>From phishing to felony.</title>
@@ -228,13 +253,13 @@
       <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA and Partners Release Advisory on Akira Ransomware</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware</link>
+      <title>CISA Releases Three Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories</link>
       <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Releases Three Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories</link>
+      <title>CISA and Partners Release Advisory on Akira Ransomware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware</link>
       <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>Global Police Operation Disrupts 'LabHost' Phishing Service, Over 30 Arrested Worldwide</title>
       <link>https://thehackernews.com/2024/04/global-police-operation-disrupts.html</link>
       <pubDate>Thu, 18 Apr 2024 10:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DuneQuixote campaign targets Middle Eastern entities with “CR4T” malware</title>
-      <link>https://securelist.com/dunequixote/112425/</link>
-      <pubDate>Thu, 18 Apr 2024 10:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>16-31 January 2024 Cyber Attacks Timeline</title>
-      <link>https://www.hackmageddon.com/2024/04/18/16-31-january-2024-cyber-attacks-timeline/</link>
-      <pubDate>Thu, 18 Apr 2024 09:42:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Previously unknown Kapeka backdoor linked to Russian Sandworm APT</title>
-      <link>https://securityaffairs.com/161987/hacking/kapeka-backdoor-linked-sandworm.html</link>
-      <pubDate>Thu, 18 Apr 2024 09:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trust in Cyber Takes a Knock as CNI Budgets Flatline</title>
-      <link>https://www.infosecurity-magazine.com/news/trust-cyber-cni-budgets-flatline/</link>
-      <pubDate>Thu, 18 Apr 2024 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Police Lead Disruption of £1m Phishing-as-a-Service Site LabHost</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-police-disruption-1m-phaas/</link>
-      <pubDate>Thu, 18 Apr 2024 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
