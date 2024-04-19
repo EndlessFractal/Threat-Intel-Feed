@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Apr 2024 10:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 12:28:27 +0000</lastBuildDate>
+    <item>
+      <title>What’s the deal with the massive backlog of vulnerabilities at the NVD?</title>
+      <link>https://blog.talosintelligence.com/nvd-vulnerability-backlog-the-need-to-know/</link>
+      <pubDate>Fri, 19 Apr 2024 12:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Attackers Can Own a Business Without Touching the Endpoint</title>
+      <link>https://thehackernews.com/2024/04/showcasing-networkless-identity-attacks.html</link>
+      <pubDate>Fri, 19 Apr 2024 11:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Akira Ransomware Gang Extorts $42 Million; Now Targets Linux Servers</title>
+      <link>https://thehackernews.com/2024/04/akira-ransomware-gang-extorts-42.html</link>
+      <pubDate>Fri, 19 Apr 2024 11:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>Akira Ransomware Group Rakes in $42m, 250 Organizations Impacted</title>
       <link>https://www.infosecurity-magazine.com/news/akira-ransomware-42-million/</link>
@@ -291,21 +306,6 @@
       <title>Hackers Exploit OpenMetadata Flaws to Mine Crypto on Kubernetes</title>
       <link>https://thehackernews.com/2024/04/hackers-exploit-openmetadata-flaws-to.html</link>
       <pubDate>Thu, 18 Apr 2024 05:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discussions revisited.</title>
-      <link>https://thecyberwire.com/podcasts/caveat/214/notes</link>
-      <pubDate>Thu, 18 Apr 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is change presenting a window of opportunity for attackers?</title>
-      <link>https://thecyberwire.com/podcasts/hacking-humans/286/notes</link>
-      <pubDate>Thu, 18 Apr 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Google Ads Pushing Fake IP Scanner Software with Hidden Backdoor</title>
-      <link>https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html</link>
-      <pubDate>Thu, 18 Apr 2024 04:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
