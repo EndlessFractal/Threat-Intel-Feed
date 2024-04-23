@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Apr 2024 16:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:19:22 +0000</lastBuildDate>
+    <item>
+      <title>FTC commercial surveillance rules could arrive within months, sources say</title>
+      <link>https://therecord.media/ftc-commercial-surveillance-regulations-data-security-privacy-minimization</link>
+      <pubDate>Tue, 23 Apr 2024 17:40:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian hackers claim cyberattack on Indiana water plant</title>
+      <link>https://therecord.media/russia-hackers-cyberattack-tipton-indiana</link>
+      <pubDate>Tue, 23 Apr 2024 17:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Substantial proportion' of US had data stolen in Change Healthcare ransomware attack</title>
+      <link>https://therecord.media/substantial-data-theft-change-healthcare-ransomware</link>
+      <pubDate>Tue, 23 Apr 2024 16:25:57 +0000</pubDate>
+    </item>
     <item>
       <title>US Imposes Visa Restrictions on Alleged Spyware Figures</title>
       <link>https://www.infosecurity-magazine.com/news/us-imposes-visa-restrictions/</link>
@@ -61,16 +76,6 @@
       <title>Struts "devmode": Still a problem ten years later?, (Tue, Apr 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/30866</link>
       <pubDate>Tue, 23 Apr 2024 12:37:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swedish signals intelligence agency to take over national cybersecurity center</title>
-      <link>https://therecord.media/sweden-ncsc-moving-under-signals-intelligence-agency-fra</link>
-      <pubDate>Tue, 23 Apr 2024 12:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The company man: US glacial response to Nigeria’s detention of former IRS crypto investigator rankles federal agents</title>
-      <link>https://therecord.media/binance-nigeria-tigran-gambaryan-detention</link>
-      <pubDate>Tue, 23 Apr 2024 12:15:29 +0000</pubDate>
     </item>
     <item>
       <title>Suspected CoralRaider continues to expand victimology using three information stealers</title>
@@ -178,11 +183,6 @@
       <pubDate>Tue, 23 Apr 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>CrushFTP urges customers to patch file transfer tool ‘ASAP’</title>
-      <link>https://therecord.media/crushftp-file-transfer-vulnerability-patch-asap</link>
-      <pubDate>Mon, 22 Apr 2024 21:16:14 +0000</pubDate>
-    </item>
-    <item>
       <title>Russia-linked APT28 used post-compromise tool GooseEgg to exploit CVE-2022-38028 Windows flaw</title>
       <link>https://securityaffairs.com/162154/apt/apt28-gooseegg-tool-win-bug.html</link>
       <pubDate>Mon, 22 Apr 2024 21:03:45 +0000</pubDate>
@@ -208,11 +208,6 @@
       <pubDate>Mon, 22 Apr 2024 17:03:13 +0000</pubDate>
     </item>
     <item>
-      <title>Capital One Teams Up With Top-Tier Ethical Hackers at H1-305</title>
-      <link>https://www.hackerone.com/lhe/capital-one-h1-305</link>
-      <pubDate>Mon, 22 Apr 2024 16:42:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Biden reauthorizes FISA Section 702. MITRE compromised through Ivanti VPN zero-days. CrushFTP patches zero-day flaw.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/78</link>
       <pubDate>Mon, 22 Apr 2024 16:30:00 +0000</pubDate>
@@ -220,11 +215,6 @@
     <item>
       <title>Server Inventory Checklist (Free Download)</title>
       <link>https://www.techrepublic.com/resource-library/toolstemplates/checklist-server-inventory/</link>
-      <pubDate>Mon, 22 Apr 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyzing Forest Blizzard’s custom post-compromise tool for exploiting CVE-2022-38028 to obtain credentials</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/</link>
       <pubDate>Mon, 22 Apr 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -306,6 +296,16 @@
       <title>Billions of scraped Discord messages up for sale</title>
       <link>https://www.malwarebytes.com/blog/news/2024/04/billions-of-scraped-discord-messages-up-for-sale</link>
       <pubDate>Mon, 22 Apr 2024 10:57:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows DOS-to-NT flaws exploited to achieve unprivileged rootkit-like capabilities</title>
+      <link>https://securityaffairs.com/162129/security/windows-dos-to-nt-flaws-rootkit-like-capabilities.html</link>
+      <pubDate>Mon, 22 Apr 2024 10:25:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Double-Dip: Re-Victimization in Cyber Extortion</title>
+      <link>https://thehackernews.com/2024/04/ransomware-double-dip-re-victimization.html</link>
+      <pubDate>Mon, 22 Apr 2024 10:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
