@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Apr 2024 01:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 02:30:02 +0000</lastBuildDate>
+    <item>
+      <title>API Rug Pull - The NIST NVD Database and API (Part 4 of 3), (Wed, Apr 24th)</title>
+      <link>https://isc.sans.edu/diary/rss/30868</link>
+      <pubDate>Wed, 24 Apr 2024 01:19:08 +0000</pubDate>
+    </item>
     <item>
       <title>Distribution of Infostealer Made With Electron</title>
       <link>https://asec.ahnlab.com/en/64445/</link>
@@ -93,6 +98,11 @@
       <pubDate>Tue, 23 Apr 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How technology drives progress – A Q&amp;A with Nobel laureate Michel Mayor</title>
+      <link>https://www.welivesecurity.com/en/we-live-science/how-technology-drives-progress-qa-nobel-laureate-michel-mayor/</link>
+      <pubDate>Tue, 23 Apr 2024 13:33:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Passwords, passkeys and familiarity bias</title>
       <link>https://securityintelligence.com/posts/passwords-passkeys-familiarity-bias/</link>
       <pubDate>Tue, 23 Apr 2024 13:00:00 +0000</pubDate>
@@ -106,11 +116,6 @@
       <title>Struts "devmode": Still a problem ten years later?, (Tue, Apr 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/30866</link>
       <pubDate>Tue, 23 Apr 2024 12:37:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspected CoralRaider continues to expand victimology using three information stealers</title>
-      <link>https://blog.talosintelligence.com/suspected-coralraider-continues-to-expand-victimology-using-three-information-stealers/</link>
-      <pubDate>Tue, 23 Apr 2024 12:01:09 +0000</pubDate>
     </item>
     <item>
       <title>Vulnerability Exploitation on the Rise as Attackers Ditch Phishing</title>
@@ -171,6 +176,11 @@
       <title>German Authorities Issue Arrest Warrants for Three Suspected Chinese Spies</title>
       <link>https://thehackernews.com/2024/04/german-authorities-issue-arrest.html</link>
       <pubDate>Tue, 23 Apr 2024 10:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The vision behind Starmus – A Q&amp;A with the festival’s co-founder Garik Israelian</title>
+      <link>https://www.welivesecurity.com/en/we-live-science/vision-behind-starmus-qa-festivals-cofounder-garik-israelian/</link>
+      <pubDate>Tue, 23 Apr 2024 09:36:40 +0000</pubDate>
     </item>
     <item>
       <title>Russian Sandworm Group Hit 20 Ukrainian Energy and Water Sites</title>
@@ -253,6 +263,11 @@
       <pubDate>Mon, 22 Apr 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Analyzing Forest Blizzard’s custom post-compromise tool for exploiting CVE-2022-38028 to obtain credentials</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/</link>
+      <pubDate>Mon, 22 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Picking fights and gaining rights, with Justin Brookman: Lock and Code S05E09</title>
       <link>https://www.malwarebytes.com/blog/podcast/2024/04/picking-fights-and-gaining-rights-with-justin-brookman-lock-and-code-s05e09</link>
       <pubDate>Mon, 22 Apr 2024 15:46:31 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>CVEs Targeting Remote Access Technologies</title>
       <link>https://www.hackmageddon.com/2024/04/22/cves-targeting-remote-access-technologies/</link>
       <pubDate>Mon, 22 Apr 2024 13:48:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dependency Confusion Vulnerability Found in Apache Project</title>
-      <link>https://www.infosecurity-magazine.com/news/dependency-confusion-flaw-found/</link>
-      <pubDate>Mon, 22 Apr 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers threaten to leak a copy of the World-Check database used to assess potential risks associated with entities</title>
-      <link>https://securityaffairs.com/162136/cyber-crime/hackers-threaten-leak-world-check.html</link>
-      <pubDate>Mon, 22 Apr 2024 13:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0149 Attacks Ukrainian Defense Forces Using Signal, CVE-2023-38831 Exploits, and COOKBOX Malware</title>
-      <link>https://socprime.com/blog/uac-0149-attacks-ukrainian-defense-forces-using-signal-cve-2023-38831-exploits-and-cookbox-malware/</link>
-      <pubDate>Mon, 22 Apr 2024 12:04:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
