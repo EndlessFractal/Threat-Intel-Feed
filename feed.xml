@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Apr 2024 10:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 12:24:24 +0000</lastBuildDate>
+    <item>
+      <title>Talos IR trends: BEC attacks surge, while weaknesses in MFA persist</title>
+      <link>https://blog.talosintelligence.com/talos-ir-quarterly-trends-q1-2024/</link>
+      <pubDate>Thu, 25 Apr 2024 12:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Network Threats: A Step-by-Step Attack Demonstration</title>
+      <link>https://thehackernews.com/2024/04/network-threats-step-by-step-attack.html</link>
+      <pubDate>Thu, 25 Apr 2024 11:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Rise of Large-Language-Model Optimization</title>
+      <link>https://www.schneier.com/blog/archives/2024/04/the-rise-of-large.html</link>
+      <pubDate>Thu, 25 Apr 2024 11:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>DragonForce Ransomware Group Uses LockBit's Leaked Builder</title>
+      <link>https://www.infosecurity-magazine.com/news/dragonforce-ransomware-lockbit/</link>
+      <pubDate>Thu, 25 Apr 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing EclecticIQ Threat Scout</title>
+      <link>https://blog.eclecticiq.com/introducing-eclecticiq-threat-scout</link>
+      <pubDate>Thu, 25 Apr 2024 10:24:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOJ Arrests Founders of Crypto Mixer Samourai for $2 Billion in Illegal Transactions</title>
+      <link>https://thehackernews.com/2024/04/doj-arrests-founders-of-crypto-mixer.html</link>
+      <pubDate>Thu, 25 Apr 2024 10:21:00 +0000</pubDate>
+    </item>
     <item>
       <title>11% of Cybersecurity Teams Have Zero Women</title>
       <link>https://www.infosecurity-magazine.com/news/11-percent-cybersecurity-teams/</link>
@@ -41,6 +71,11 @@
       <title>Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny</title>
       <link>https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html</link>
       <pubDate>Thu, 25 Apr 2024 06:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defending against Adversarial AI and Deepfakes with Billy Hewett and Tony Huynh</title>
+      <link>https://thecyberwire.com/podcasts/threat-vector/20/notes</link>
+      <pubDate>Thu, 25 Apr 2024 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>State-Sponsored Hackers Exploit Two Cisco Zero-Day Vulnerabilities for Espionage</title>
@@ -271,41 +306,6 @@
       <title>The street lights in Leicester City cannot be turned off due to a cyber attack</title>
       <link>https://securityaffairs.com/162219/hacking/leicester-city-cyberattack.html</link>
       <pubDate>Wed, 24 Apr 2024 06:41:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decoding Cyber Marketing with Illumio’s CMO, Gautam Mahendru</title>
-      <link>https://thecyberwire.com/podcasts/breaking-through-in-cybersecurity-marketing/114/notes</link>
-      <pubDate>Wed, 24 Apr 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CoralRaider Malware Campaign Exploits CDN Cache to Spread Info-Stealers</title>
-      <link>https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html</link>
-      <pubDate>Wed, 24 Apr 2024 04:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to approach cybersecurity compliance, the female founders of the RH-ISAC, and the monthly intel briefing</title>
-      <link>https://thecyberwire.com/podcasts/rh-isac/49/notes</link>
-      <pubDate>Wed, 24 Apr 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, April 24th, 2024 https://isc.sans.edu/podcastdetail/8952, (Wed, Apr 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/30870</link>
-      <pubDate>Wed, 24 Apr 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>API Rug Pull - The NIST NVD Database and API (Part 4 of 3), (Wed, Apr 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/30868</link>
-      <pubDate>Wed, 24 Apr 2024 01:19:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Distribution of Infostealer Made With Electron</title>
-      <link>https://asec.ahnlab.com/en/64445/</link>
-      <pubDate>Wed, 24 Apr 2024 00:09:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strengthening the Cyber Talent Pipeline Apparatus Part I: Needs &amp; Challenges</title>
-      <link>https://thecyberwire.com/stories/edc5e33637f347e8a6a7d94b343abd9a/strengthening-the-cyber-talent-pipeline-apparatus-part-i-needs--challenges</link>
-      <pubDate>Tue, 23 Apr 2024 21:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
