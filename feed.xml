@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Apr 2024 14:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 16:21:04 +0000</lastBuildDate>
+    <item>
+      <title>PlugX C2 server sinkholed. Kaiser Permanente discloses data breach.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/82</link>
+      <pubDate>Fri, 26 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DHS announces AI safety board with OpenAI founder, CEOs of Microsoft, Nvidia, IBM</title>
+      <link>https://therecord.media/dhs-artificial-intelligence-safety-security-board-announcement</link>
+      <pubDate>Fri, 26 Apr 2024 15:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-21111 Detection: A New Critical Local Privilege Escalation Vulnerability in Oracle VirtualBox with the PoC Exploit Released</title>
+      <link>https://socprime.com/blog/cve-2024-21111-detection-a-new-critical-local-privilege-escalation-vulnerability-in-oracle-virtualbox-with-the-poc-exploit-released/</link>
+      <pubDate>Fri, 26 Apr 2024 14:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>DDoS attacks continue, post-election, against Russian independent media site Meduza</title>
+      <link>https://therecord.media/ddos-attacks-meduza-post-election</link>
+      <pubDate>Fri, 26 Apr 2024 14:10:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Severe Flaws Disclosed in Brocade SANnav SAN Management Software</title>
+      <link>https://thehackernews.com/2024/04/severe-flaws-disclosed-in-brocade.html</link>
+      <pubDate>Fri, 26 Apr 2024 14:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Over 850 Vulnerable Devices Secured Through CISA Ransomware Program</title>
       <link>https://www.infosecurity-magazine.com/news/vulnerable-devices-secured-cisa/</link>
@@ -16,6 +41,11 @@
       <title>British intelligence moves to protect research universities from espionage</title>
       <link>https://therecord.media/MI5-protect-british-universities-from-espionage</link>
       <pubDate>Fri, 26 Apr 2024 13:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts warn of an ongoing malware campaign targeting WP-Automatic plugin</title>
+      <link>https://securityaffairs.com/162364/hacking/wordpress-automatic-critical-flaw.html</link>
+      <pubDate>Fri, 26 Apr 2024 13:40:13 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 17</title>
@@ -113,14 +143,14 @@
       <pubDate>Thu, 25 Apr 2024 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bogus post office texts deliver a ‘shocking’ amount of traffic to scam websites</title>
-      <link>https://therecord.media/fake-postal-service-texts-web-traffic-scam-sites</link>
-      <pubDate>Thu, 25 Apr 2024 19:59:15 +0000</pubDate>
-    </item>
-    <item>
       <title>The private sector probably isn’t coming to save the NVD</title>
       <link>https://blog.talosintelligence.com/threat-source-newsletter-april-25-2024/</link>
       <pubDate>Thu, 25 Apr 2024 18:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accelerate Find-to-Fix Cycles With Hai</title>
+      <link>https://www.hackerone.com/ai/accelerate-find-to-fix-hai</link>
+      <pubDate>Thu, 25 Apr 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>“Junk gun” ransomware: the cheap new threat to small businesses</title>
@@ -136,11 +166,6 @@
       <title>ArcaneDoor cyberespionage campaign exploited Cisco zero-days.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/81</link>
       <pubDate>Thu, 25 Apr 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Digital rights watchdogs warn against internet shutdowns in Togo ahead of elections</title>
-      <link>https://therecord.media/digital-watchdogs-warn-internet-shutdown-togo</link>
-      <pubDate>Thu, 25 Apr 2024 15:52:24 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Roundup - KageNoHitobito and DoNex</title>
@@ -281,31 +306,6 @@
       <title>Defending against Adversarial AI and Deepfakes with Billy Hewett and Tony Huynh</title>
       <link>https://thecyberwire.com/podcasts/threat-vector/20/notes</link>
       <pubDate>Thu, 25 Apr 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>State-Sponsored Hackers Exploit Two Cisco Zero-Day Vulnerabilities for Espionage</title>
-      <link>https://thehackernews.com/2024/04/state-sponsored-hackers-exploit-two.html</link>
-      <pubDate>Thu, 25 Apr 2024 05:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navigating cybersecurity's regulatory maze.</title>
-      <link>https://thecyberwire.com/podcasts/caveat/215/notes</link>
-      <pubDate>Thu, 25 Apr 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fighting off phishing.</title>
-      <link>https://thecyberwire.com/podcasts/hacking-humans/287/notes</link>
-      <pubDate>Thu, 25 Apr 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, April 25th, 2024 https://isc.sans.edu/podcastdetail/8954, (Thu, Apr 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/30872</link>
-      <pubDate>Thu, 25 Apr 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does it matter if iptables isn't running on my honeypot?, (Thu, Apr 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/30862</link>
-      <pubDate>Thu, 25 Apr 2024 00:14:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
