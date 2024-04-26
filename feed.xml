@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Apr 2024 16:21:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 18:19:41 +0000</lastBuildDate>
+    <item>
+      <title>Malware campaign attempts abuse of defender binaries</title>
+      <link>https://news.sophos.com/en-us/2024/04/26/malware-campaign-abuses-legit-defender-binaries/</link>
+      <pubDate>Fri, 26 Apr 2024 16:26:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kaiser’s website tracking tools may have compromised data on 13 million customers</title>
+      <link>https://therecord.media/kaiser-permanente-potential-third-party-data-exposure</link>
+      <pubDate>Fri, 26 Apr 2024 16:20:45 +0000</pubDate>
+    </item>
     <item>
       <title>PlugX C2 server sinkholed. Kaiser Permanente discloses data breach.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/82</link>
@@ -121,11 +131,6 @@
       <title>OpenAI’s GPT-4 Can Autonomously Exploit 87% of One-Day Vulnerabilities, Study Finds</title>
       <link>https://www.techrepublic.com/article/openai-gpt4-exploit-vulnerabilities/</link>
       <pubDate>Fri, 26 Apr 2024 00:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>More than 800 vulnerabilities resolved through CISA ransomware notification pilot</title>
-      <link>https://therecord.media/vulnerabilities-resolved-through-cisa-pilot</link>
-      <pubDate>Thu, 25 Apr 2024 21:21:01 +0000</pubDate>
     </item>
     <item>
       <title>CISA adds Cisco ASA and FTD and CrushFTP VFS flaws to its Known Exploited Vulnerabilities catalog</title>
@@ -273,6 +278,11 @@
       <pubDate>Thu, 25 Apr 2024 10:05:00 +0000</pubDate>
     </item>
     <item>
+      <title>Gripped by Python: 5 reasons why Python is popular among cybersecurity professionals</title>
+      <link>https://www.welivesecurity.com/en/secure-coding/python-5-reasons-popular-cybersecurity-professionals/</link>
+      <pubDate>Thu, 25 Apr 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Online Banking Security Still Not Up to Par, Says Which?</title>
       <link>https://www.infosecurity-magazine.com/news/online-banking-security-which/</link>
       <pubDate>Thu, 25 Apr 2024 09:15:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>High Performance Podcast Duo to Unveil Secrets of Success at Infosecurity Europe 2024</title>
       <link>https://www.infosecurity-magazine.com/news/high-performance-podcasters-infeu/</link>
       <pubDate>Thu, 25 Apr 2024 07:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny</title>
-      <link>https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html</link>
-      <pubDate>Thu, 25 Apr 2024 06:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defending against Adversarial AI and Deepfakes with Billy Hewett and Tony Huynh</title>
-      <link>https://thecyberwire.com/podcasts/threat-vector/20/notes</link>
-      <pubDate>Thu, 25 Apr 2024 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
