@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Apr 2024 18:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 20:16:05 +0000</lastBuildDate>
     <item>
       <title>Okta warns of unprecedented scale in credential stuffing attacks on online services</title>
       <link>https://securityaffairs.com/162464/hacking/okta-warned-spike-credential-stuffing-attacks.html</link>
@@ -253,11 +253,6 @@
       <pubDate>Thu, 25 Apr 2024 16:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>​​Investigating industrial control systems using Microsoft’s ICSpector open-source framework</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/investigating-industrial-control-systems-using-microsoft-s/ba-p/4120580</link>
-      <pubDate>Thu, 25 Apr 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ArcaneDoor cyberespionage campaign exploited Cisco zero-days.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/81</link>
       <pubDate>Thu, 25 Apr 2024 16:00:00 +0000</pubDate>
@@ -305,6 +300,11 @@
     <item>
       <title>Siemens RUGGEDCOM APE1808 Devices Configured with Palo Alto Networks Virtual NGFW</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-116-03</link>
+      <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy MACH SCM</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-116-02</link>
       <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
