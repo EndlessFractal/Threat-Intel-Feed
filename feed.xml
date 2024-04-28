@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Apr 2024 14:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 16:17:49 +0000</lastBuildDate>
+    <item>
+      <title>Okta warns of unprecedented scale in credential stuffing attacks on online services</title>
+      <link>https://securityaffairs.com/162464/hacking/okta-warned-spike-credential-stuffing-attacks.html</link>
+      <pubDate>Sun, 28 Apr 2024 14:34:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Okta Warns of Unprecedented Surge in Proxy-Driven Credential Stuffing Attacks</title>
+      <link>https://thehackernews.com/2024/04/okta-warns-of-unprecedented-surge-in.html</link>
+      <pubDate>Sun, 28 Apr 2024 13:52:00 +0000</pubDate>
+    </item>
     <item>
       <title>Security Affairs newsletter Round 469 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/162457/breaking-news/security-affairs-newsletter-round-469-by-pierluigi-paganini-international-edition.html</link>
@@ -213,11 +223,6 @@
       <pubDate>Fri, 26 Apr 2024 00:40:05 +0000</pubDate>
     </item>
     <item>
-      <title>CISA adds Cisco ASA and FTD and CrushFTP VFS flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/162308/security/cisa-adds-cisco-asa-and-ftd-and-crushftp-vfs-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 25 Apr 2024 20:17:47 +0000</pubDate>
-    </item>
-    <item>
       <title>The shadowy adversary in Cisco's crosshairs.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/2054/notes</link>
       <pubDate>Thu, 25 Apr 2024 20:10:00 +0000</pubDate>
@@ -246,6 +251,11 @@
       <title>North Korea's Lazarus Group Deploys New Kaolin RAT via Fake Job Lures</title>
       <link>https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html</link>
       <pubDate>Thu, 25 Apr 2024 16:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​​Investigating industrial control systems using Microsoft’s ICSpector open-source framework</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/investigating-industrial-control-systems-using-microsoft-s/ba-p/4120580</link>
+      <pubDate>Thu, 25 Apr 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ArcaneDoor cyberespionage campaign exploited Cisco zero-days.</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Siemens RUGGEDCOM APE1808 Devices Configured with Palo Alto Networks Virtual NGFW</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-116-03</link>
-      <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy MACH SCM</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-116-02</link>
-      <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Honeywell Experion PKS, Experion LX, PlantCruise by Experion, Safety Manager, Safety Manager SC</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-116-04</link>
       <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
