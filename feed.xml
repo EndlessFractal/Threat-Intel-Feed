@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Apr 2024 12:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 14:15:43 +0000</lastBuildDate>
+    <item>
+      <title>China-Linked 'Muddling Meerkat' Hijacks DNS to Map Internet on Global Scale</title>
+      <link>https://thehackernews.com/2024/04/china-linked-muddling-meerkat-hijacks.html</link>
+      <pubDate>Mon, 29 Apr 2024 13:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Financial Business and Consumer Solutions (FBCS) data breach impacted 2M individuals</title>
+      <link>https://securityaffairs.com/162514/cyber-crime/fbcs-data-breach.html</link>
+      <pubDate>Mon, 29 Apr 2024 13:07:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>PinnacleOne ExecBrief | Commercial Industry in Contested “Space”</title>
+      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-commercial-industry-in-contested-space/</link>
+      <pubDate>Mon, 29 Apr 2024 13:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voter Registration System Taken Offline in Coffee County Cyber-Incident</title>
+      <link>https://www.infosecurity-magazine.com/news/voter-registration-offline-coffee/</link>
+      <pubDate>Mon, 29 Apr 2024 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>UK becomes first country to ban default bad passwords on IoT devices</title>
       <link>https://therecord.media/united-kingdom-bans-defalt-passwords-iot-devices</link>
@@ -36,6 +56,11 @@
       <title>Navigating the Threat Landscape: Understanding Exposure Management, Pentesting, Red Teaming and RBVM</title>
       <link>https://thehackernews.com/2024/04/navigating-threat-landscape.html</link>
       <pubDate>Mon, 29 Apr 2024 10:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New R Programming Vulnerability Exposes Projects to Supply Chain Attacks</title>
+      <link>https://thehackernews.com/2024/04/new-r-programming-vulnerability-exposes.html</link>
+      <pubDate>Mon, 29 Apr 2024 10:50:00 +0000</pubDate>
     </item>
     <item>
       <title>Kaiser health insurance leaked patient data to advertisers</title>
@@ -163,6 +188,11 @@
       <pubDate>Sat, 27 Apr 2024 04:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Lessons Learned from Over a Decade of On-Call</title>
+      <link>https://www.hackerone.com/engineering/on-call-lessons</link>
+      <pubDate>Fri, 26 Apr 2024 23:14:36 +0000</pubDate>
+    </item>
+    <item>
       <title>FBI: Fraudsters using fake online dating verification apps to scam lovers</title>
       <link>https://therecord.media/fbi-dating-app-verification-scams-online</link>
       <pubDate>Fri, 26 Apr 2024 21:25:45 +0000</pubDate>
@@ -198,9 +228,19 @@
       <pubDate>Fri, 26 Apr 2024 18:22:49 +0000</pubDate>
     </item>
     <item>
+      <title>Kubernetes — A Journey Has Just Begun</title>
+      <link>https://www.hackerone.com/engineering/kubernetes</link>
+      <pubDate>Fri, 26 Apr 2024 16:55:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Malware campaign attempts abuse of defender binaries</title>
       <link>https://news.sophos.com/en-us/2024/04/26/malware-campaign-abuses-legit-defender-binaries/</link>
       <pubDate>Fri, 26 Apr 2024 16:26:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>On Writing Well as a Software Engineer</title>
+      <link>https://www.hackerone.com/engineering/writing-tips-software-engineer</link>
+      <pubDate>Fri, 26 Apr 2024 16:00:22 +0000</pubDate>
     </item>
     <item>
       <title>PlugX C2 server sinkholed. Kaiser Permanente discloses data breach.</title>
@@ -221,11 +261,6 @@
       <title>Over 850 Vulnerable Devices Secured Through CISA Ransomware Program</title>
       <link>https://www.infosecurity-magazine.com/news/vulnerable-devices-secured-cisa/</link>
       <pubDate>Fri, 26 Apr 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts warn of an ongoing malware campaign targeting WP-Automatic plugin</title>
-      <link>https://securityaffairs.com/162364/hacking/wordpress-automatic-critical-flaw.html</link>
-      <pubDate>Fri, 26 Apr 2024 13:40:13 +0000</pubDate>
     </item>
     <item>
       <title>Major phishing-as-a-service platform disrupted – Week in security with Tony Anscombe</title>
@@ -271,41 +306,6 @@
       <title>Cyber Talent Insights: Strengthening the cyber talent pipeline apparatus. (Part 3 of 3)</title>
       <link>https://thecyberwire.com/podcasts/special-edition/62/notes</link>
       <pubDate>Fri, 26 Apr 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, April 26th, 2024 https://isc.sans.edu/podcastdetail/8956, (Fri, Apr 26th)</title>
-      <link>https://isc.sans.edu/diary/rss/30874</link>
-      <pubDate>Fri, 26 Apr 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI’s GPT-4 Can Autonomously Exploit 87% of One-Day Vulnerabilities, Study Finds</title>
-      <link>https://www.techrepublic.com/article/openai-gpt4-exploit-vulnerabilities/</link>
-      <pubDate>Fri, 26 Apr 2024 00:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The shadowy adversary in Cisco's crosshairs.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/2054/notes</link>
-      <pubDate>Thu, 25 Apr 2024 20:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spain reopens Israeli spyware probe into Pegasus software. Biden signs “TikTok ban bill” into law.</title>
-      <link>https://thecyberwire.com/newsletters/caveat-briefing/2/16</link>
-      <pubDate>Thu, 25 Apr 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The private sector probably isn’t coming to save the NVD</title>
-      <link>https://blog.talosintelligence.com/threat-source-newsletter-april-25-2024/</link>
-      <pubDate>Thu, 25 Apr 2024 18:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accelerate Find-to-Fix Cycles With Hai</title>
-      <link>https://www.hackerone.com/ai/accelerate-find-to-fix-hai</link>
-      <pubDate>Thu, 25 Apr 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Junk gun” ransomware: the cheap new threat to small businesses</title>
-      <link>https://www.tripwire.com/state-of-security/junk-gun-ransomware-cheap-new-threat-small-businesses</link>
-      <pubDate>Thu, 25 Apr 2024 17:02:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
