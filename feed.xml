@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Apr 2024 02:26:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 04:19:06 +0000</lastBuildDate>
     <item>
       <title>Standard Chartered CEO on why cybersecurity has become a 'disproportionately huge topic' at board meetings</title>
       <link>https://therecord.media/standard-chartered-ceo-bill-winters-cybersecurity-culture-board-focus</link>
       <pubDate>Mon, 29 Apr 2024 02:05:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Monday, April 29th, 2024 https://isc.sans.edu/podcastdetail/8958, (Mon, Apr 29th)</title>
+      <link>https://isc.sans.edu/diary/rss/30876</link>
+      <pubDate>Mon, 29 Apr 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
       <title>No more 12345: devices with weak passwords to be banned in UK</title>
@@ -301,11 +306,6 @@
       <title>Talos IR trends: BEC attacks surge, while weaknesses in MFA persist</title>
       <link>https://blog.talosintelligence.com/talos-ir-quarterly-trends-q1-2024/</link>
       <pubDate>Thu, 25 Apr 2024 12:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM APE1808 Devices Configured with Palo Alto Networks Virtual NGFW</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-116-03</link>
-      <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
