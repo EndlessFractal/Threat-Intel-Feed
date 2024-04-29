@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Apr 2024 22:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 01:09:51 +0000</lastBuildDate>
+    <item>
+      <title>No more 12345: devices with weak passwords to be banned in UK</title>
+      <link>https://www.theguardian.com/technology/2024/apr/29/devices-with-weak-passwords-to-be-banned-uk</link>
+      <pubDate>Sun, 28 Apr 2024 23:01:17 +0000</pubDate>
+    </item>
     <item>
       <title>ICICI Bank exposed credit card data of 17000 customers</title>
       <link>https://securityaffairs.com/162479/security/icici-bank-technical-glitch.html</link>
@@ -300,11 +305,6 @@
     <item>
       <title>Siemens RUGGEDCOM APE1808 Devices Configured with Palo Alto Networks Virtual NGFW</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-116-03</link>
-      <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy MACH SCM</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-116-02</link>
       <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
