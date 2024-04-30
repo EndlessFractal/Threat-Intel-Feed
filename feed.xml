@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Apr 2024 14:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 16:20:14 +0000</lastBuildDate>
+    <item>
+      <title>Ransomware Rising Despite Takedowns, Says Corvus Report</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-rising-takedowns-corvus/</link>
+      <pubDate>Tue, 30 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Healthcare hackers gained access via stolen credentials and a lack of MFA.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/84</link>
+      <pubDate>Tue, 30 Apr 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>YMCA Fined for Data Breach, ICO Raises Concerns About Privacy for People with HIV</title>
+      <link>https://www.infosecurity-magazine.com/news/ico-raises-concerns-privacy-hiv/</link>
+      <pubDate>Tue, 30 Apr 2024 15:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>On CISA's role in protecting critical infrastructure, White House sticks to the script</title>
       <link>https://therecord.media/biden-signs-updated-ppd-21-cisa-critical-infrastructure</link>
@@ -58,9 +73,19 @@
       <pubDate>Tue, 30 Apr 2024 12:51:30 +0000</pubDate>
     </item>
     <item>
+      <title>Delta Electronics CNCSoft-G2 DOPSoft DPAX</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/icsa-24-121-01</link>
+      <pubDate>Tue, 30 Apr 2024 12:30:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Cisco Talos at RSAC 2024</title>
       <link>https://blog.talosintelligence.com/cisco-talos-at-rsac-2024/</link>
       <pubDate>Tue, 30 Apr 2024 12:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Three Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-releases-three-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 30 Apr 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>EU investigating Meta for suspected failures over Russian election interference</title>
@@ -268,11 +293,6 @@
       <pubDate>Mon, 29 Apr 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Okta Warns Customers of Credential Stuffing Barrage</title>
-      <link>https://www.infosecurity-magazine.com/news/okta-customers-credential-stuffing/</link>
-      <pubDate>Mon, 29 Apr 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Los Angeles County Department of Health Services disclosed a data breach</title>
       <link>https://securityaffairs.com/162494/data-breach/los-angeles-county-department-of-health-services-data-breach.html</link>
       <pubDate>Mon, 29 Apr 2024 08:09:28 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Multiple Brocade SANnav SAN Management SW flaws allow device compromise</title>
       <link>https://securityaffairs.com/162473/uncategorized/brocade-sannav-flaws.html</link>
       <pubDate>Mon, 29 Apr 2024 06:49:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, April 29th, 2024 https://isc.sans.edu/podcastdetail/8958, (Mon, Apr 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/30876</link>
-      <pubDate>Mon, 29 Apr 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>No more 12345: devices with weak passwords to be banned in UK</title>
-      <link>https://www.theguardian.com/technology/2024/apr/29/devices-with-weak-passwords-to-be-banned-uk</link>
-      <pubDate>Sun, 28 Apr 2024 23:01:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICICI Bank exposed credit card data of 17000 customers</title>
-      <link>https://securityaffairs.com/162479/security/icici-bank-technical-glitch.html</link>
-      <pubDate>Sun, 28 Apr 2024 20:32:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okta warns of unprecedented scale in credential stuffing attacks on online services</title>
-      <link>https://securityaffairs.com/162464/hacking/okta-warned-spike-credential-stuffing-attacks.html</link>
-      <pubDate>Sun, 28 Apr 2024 14:34:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
