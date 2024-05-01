@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 May 2024 16:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 18:20:26 +0000</lastBuildDate>
+    <item>
+      <title>UnitedHealth CEO confirms company paid $22 million ransom in heated Senate hearing</title>
+      <link>https://therecord.media/unitedhealth-ceo-testifies-senate-hearing</link>
+      <pubDate>Wed, 01 May 2024 18:01:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s time to rethink the national vulnerabilities database for the AI era, senators say</title>
+      <link>https://therecord.media/senate-legislation-update-nvd-cve-program-artificial-intelligence</link>
+      <pubDate>Wed, 01 May 2024 17:41:32 +0000</pubDate>
+    </item>
     <item>
       <title>Vulnerabilities in employee management system could lead to remote code execution, login credential theft</title>
       <link>https://blog.talosintelligence.com/vulnerability-roundup-may-1-2024/</link>
@@ -21,6 +31,11 @@
       <title>Verizon releases 2024 Data Breach Investigations Report. JP Morgan discloses breach.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/85</link>
       <pubDate>Wed, 01 May 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A flaw in the R programming language could allow code execution</title>
+      <link>https://securityaffairs.com/162591/security/r-programming-language-flaw.html</link>
+      <pubDate>Wed, 01 May 2024 15:48:23 +0000</pubDate>
     </item>
     <item>
       <title>More than 100 arrested in Spain in $900,000 WhatsApp scheme</title>
@@ -85,6 +100,11 @@
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist</link>
       <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -193,19 +213,9 @@
       <pubDate>Tue, 30 Apr 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Congress circles UnitedHealth as effects of ransomware attack continue</title>
-      <link>https://therecord.media/unitedhealth-group-change-healthcare-ransomware-congress</link>
-      <pubDate>Tue, 30 Apr 2024 17:37:51 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA guidelines to protect critical infrastructure against AI-based threats</title>
       <link>https://securityaffairs.com/162565/security/cisa-guidelines-infrastructure-ai-based-attacks.html</link>
       <pubDate>Tue, 30 Apr 2024 17:23:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI searched Section 702 database half as much in 2023, Biden administration says</title>
-      <link>https://therecord.media/fbi-section-702-fisa-warrantless-searches-down-in-2023</link>
-      <pubDate>Tue, 30 Apr 2024 16:50:17 +0000</pubDate>
     </item>
     <item>
       <title>US Government Releases New Resources Against AI Threats</title>
@@ -296,16 +306,6 @@
       <title>FBI warns online daters to avoid “free” online verification schemes that prove costly</title>
       <link>https://www.malwarebytes.com/blog/news/2024/04/fbi-warns-online-daters-to-avoid-free-online-verification-schemes-that-prove-costly</link>
       <pubDate>Tue, 30 Apr 2024 11:08:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp in India</title>
-      <link>https://www.schneier.com/blog/archives/2024/04/whatsapp-in-india.html</link>
-      <pubDate>Tue, 30 Apr 2024 11:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Interstellar Intelligence” – with Harvard Astrophysicist Avi Loeb</title>
-      <link>https://thecyberwire.com/podcasts/spycast/631/notes</link>
-      <pubDate>Tue, 30 Apr 2024 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
