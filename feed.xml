@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 May 2024 16:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 18:20:47 +0000</lastBuildDate>
+    <item>
+      <title>What can we learn from the passwords used in brute-force attacks?</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-may-2-2024/</link>
+      <pubDate>Thu, 02 May 2024 18:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newly identified botnet targets decade-old flaw in unpatched D-Link devices</title>
+      <link>https://therecord.media/goldoon-botnet-unpatched-dlink-routers</link>
+      <pubDate>Thu, 02 May 2024 16:55:59 +0000</pubDate>
+    </item>
     <item>
       <title>APT42 impersonates journalists and event organizers. Threat actors abuse Microsoft Graph API for command-and-control.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/86</link>
@@ -90,6 +100,11 @@
     <item>
       <title>CISA Releases Three Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-releases-three-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate Directory Traversal Vulnerabilities</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-directory-traversal</link>
       <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -198,11 +213,6 @@
       <pubDate>Wed, 01 May 2024 23:01:21 +0000</pubDate>
     </item>
     <item>
-      <title>Dropbox says hacker accessed passwords, authentication info during breach</title>
-      <link>https://therecord.media/dropbox-data-breach-notification</link>
-      <pubDate>Wed, 01 May 2024 21:42:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Retirement plan breach shakes financial giant.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/2058/notes</link>
       <pubDate>Wed, 01 May 2024 20:10:00 +0000</pubDate>
@@ -295,16 +305,6 @@
     <item>
       <title>CERT/CC Reports R Programming Language Vulnerability</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability</link>
-      <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist</link>
-      <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
