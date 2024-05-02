@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 May 2024 20:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 22:15:53 +0000</lastBuildDate>
+    <item>
+      <title>Organizations patch CISA KEV list bugs 3.5 times faster than others, researchers find</title>
+      <link>https://therecord.media/kev-list-vulnerabilities-patched-significantly-faster</link>
+      <pubDate>Thu, 02 May 2024 21:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian REvil gang member sentenced to 13 years in prison</title>
+      <link>https://securityaffairs.com/162679/cyber-crime/revil-gang-member-sentenced.html</link>
+      <pubDate>Thu, 02 May 2024 21:11:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dropbox Sign customer data accessed in breach</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/05/dropbox-sign-customer-data-accessed-in-breach</link>
+      <pubDate>Thu, 02 May 2024 20:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 IoT Trends U.K. Businesses Should Watch in 2024</title>
+      <link>https://www.techrepublic.com/article/iot-trends-uk/</link>
+      <pubDate>Thu, 02 May 2024 20:13:25 +0000</pubDate>
+    </item>
     <item>
       <title>Dropbox sign breach exposes secrets.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/2059/notes</link>
@@ -16,6 +36,11 @@
       <title>The FCC stores net neutrality rules. Standardizing the development of artificial intelligence.</title>
       <link>https://thecyberwire.com/newsletters/caveat-briefing/2/17</link>
       <pubDate>Thu, 02 May 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro-Russia hackers target critical infrastructure in North America and Europe</title>
+      <link>https://securityaffairs.com/162672/hacking/pro-russia-hackers-target-critical-infrastructure.html</link>
+      <pubDate>Thu, 02 May 2024 19:52:06 +0000</pubDate>
     </item>
     <item>
       <title>Alleged China-based hackers using ‘Cuttlefish’ malware platform to target Turkey</title>
@@ -41,6 +66,11 @@
       <title>Newly identified botnet targets decade-old flaw in unpatched D-Link devices</title>
       <link>https://therecord.media/goldoon-botnet-unpatched-dlink-routers</link>
       <pubDate>Thu, 02 May 2024 16:55:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREST and Pentesting: What You Need to Know</title>
+      <link>https://www.hackerone.com/security-compliance/crest-pentesting</link>
+      <pubDate>Thu, 02 May 2024 16:00:06 +0000</pubDate>
     </item>
     <item>
       <title>APT42 impersonates journalists and event organizers. Threat actors abuse Microsoft Graph API for command-and-control.</title>
@@ -96,11 +126,6 @@
       <title>Ukrainian REvil Hacker Sentenced to 13 Years and Ordered to Pay $16 Million</title>
       <link>https://thehackernews.com/2024/05/ukrainian-revil-hacker-sentenced-to-13.html</link>
       <pubDate>Thu, 02 May 2024 12:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit publishes confidential data stolen from Cannes hospital in France</title>
-      <link>https://therecord.media/lockbit-ransomware-hopital-de-cannes-data-published</link>
-      <pubDate>Thu, 02 May 2024 12:09:35 +0000</pubDate>
     </item>
     <item>
       <title>5 Best Password Managers Built for Teams in 2024 (Free &amp; Paid)</title>
@@ -268,6 +293,11 @@
       <pubDate>Wed, 01 May 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood</title>
+      <link>https://www.hackerone.com/customer-stories/zoom-als-hackforgood</link>
+      <pubDate>Wed, 01 May 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Verizon releases 2024 Data Breach Investigations Report. JP Morgan discloses breach.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/85</link>
       <pubDate>Wed, 01 May 2024 16:00:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>A flaw in the R programming language could allow code execution</title>
       <link>https://securityaffairs.com/162591/security/r-programming-language-flaw.html</link>
       <pubDate>Wed, 01 May 2024 15:48:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>UnitedHealth CEO Confirms Breach Tied to Stolen Credentials, No MFA</title>
-      <link>https://www.infosecurity-magazine.com/news/unitedhealth-breach-stolen/</link>
-      <pubDate>Wed, 01 May 2024 15:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New “Goldoon” Botnet Targeting D-Link Devices</title>
-      <link>https://feeds.fortinet.com/~/889158719/0/fortinet/blog/threat-research~New-%e2%80%9cGoldoon%e2%80%9d-Botnet-Targeting-DLink-Devices</link>
-      <pubDate>Wed, 01 May 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>macOS Adload | Prolific Adware Pivots Just Days After Apple’s XProtect Clampdown</title>
-      <link>https://www.sentinelone.com/blog/macos-adload-prolific-adware-pivots-just-days-after-apples-xprotect-clampdown/</link>
-      <pubDate>Wed, 01 May 2024 14:56:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin Forensic Analysis Uncovers Money Laundering Clusters and Criminal Proceeds</title>
-      <link>https://thehackernews.com/2024/05/bitcoin-forensic-analysis-uncovers.html</link>
-      <pubDate>Wed, 01 May 2024 14:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learn Cybersecurity Skills From Scratch for Just $40</title>
-      <link>https://www.techrepublic.com/article/the-2023-complete-cyber-security-ethical-hacking-certification-bundle/</link>
-      <pubDate>Wed, 01 May 2024 14:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Malware Wpeeper Uses Compromised WordPress Sites to Hide C2 Servers</title>
-      <link>https://thehackernews.com/2024/05/android-malware-wpeeper-uses.html</link>
-      <pubDate>Wed, 01 May 2024 13:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
