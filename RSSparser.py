@@ -68,15 +68,14 @@ def parse_and_format_rss(url, max_char, posted_links):
         if current_length + entry_length <= max_char:
             formatted_content += entry_text
             current_length += entry_length
-            # Mark the link as posted
-            write_posted_link("posted_links.txt", entry_url)
         else:
             # Add payload to the list and reset variables for a new payload
             payloads.append({"content": formatted_content})
             formatted_content = entry_text
             current_length = entry_length
-            # Mark the link as posted
-            write_posted_link("posted_links.txt", entry_url)
+
+        # Mark the link as posted
+        write_posted_link("posted_links.txt", entry_url)
 
     # Add the last payload if there is any remaining content
     if formatted_content:
