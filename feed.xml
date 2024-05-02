@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 May 2024 14:14:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 16:19:32 +0000</lastBuildDate>
+    <item>
+      <title>APT42 impersonates journalists and event organizers. Threat actors abuse Microsoft Graph API for command-and-control.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/86</link>
+      <pubDate>Thu, 02 May 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigation uncovers substantial spyware exports to Indonesia</title>
+      <link>https://therecord.media/indonesia-commercial-spyware-acquisition-investigation</link>
+      <pubDate>Thu, 02 May 2024 15:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Flaw Affected Apps With 4 Billion Installs</title>
+      <link>https://www.infosecurity-magazine.com/news/android-flaw-apps-4-billion/</link>
+      <pubDate>Thu, 02 May 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian state-backed cyber spies continue to impersonate media brands, think tanks</title>
+      <link>https://therecord.media/apt42-impersonating-media-think-tanks-iran-espionage</link>
+      <pubDate>Thu, 02 May 2024 15:29:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watch out for tech support scams lurking in sponsored search results</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/05/watch-out-for-tech-support-scams-lurking-in-sponsored-search-results</link>
+      <pubDate>Thu, 02 May 2024 15:14:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Popular Android Apps Like Xiaomi, WPS Office Vulnerable to File Overwrite Flaw</title>
+      <link>https://thehackernews.com/2024/05/popular-android-apps-like-xiaomi-wps.html</link>
+      <pubDate>Thu, 02 May 2024 14:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Target New NATO Member Sweden with Surge of DDoS Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/nato-sweden-surge-ddos-attacks/</link>
       <pubDate>Thu, 02 May 2024 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat actors hacked the Dropbox Sign production environment</title>
+      <link>https://securityaffairs.com/162654/hacking/dropbox-sign-production-environment-hacked.html</link>
+      <pubDate>Thu, 02 May 2024 13:45:48 +0000</pubDate>
     </item>
     <item>
       <title>Psychotherapy practice hacker gets jail time after extorting patients, publishing personal therapy notes online</title>
@@ -33,8 +68,28 @@
       <pubDate>Thu, 02 May 2024 12:00:05 +0000</pubDate>
     </item>
     <item>
+      <title>Protecting Model Updates in Privacy-Preserving Federated Learning: Part Two</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/protecting-model-updates-privacy-preserving-federated-learning-part-two</link>
+      <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Three-Quarters of CISOs Admit App Security Incidents</title>
       <link>https://www.infosecurity-magazine.com/news/threequarters-cisos-app-security/</link>
+      <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberPower PowerPanel</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-123-01</link>
+      <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Electronics DIAEnergie</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-123-02</link>
+      <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Three Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-releases-three-industrial-control-systems-advisories</link>
       <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -158,16 +213,6 @@
       <pubDate>Wed, 01 May 2024 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zelensky officially dismisses Ukrainian security services' cyber chief</title>
-      <link>https://therecord.media/illia-vitiuk-ukraine-cyber-chief-dismissed-by-zelensky</link>
-      <pubDate>Wed, 01 May 2024 19:24:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical infrastructure operators urged to harden systems against pro-Russia hackers</title>
-      <link>https://therecord.media/cisa-warning-pro-russia-hacktivists-critical-infrastructure</link>
-      <pubDate>Wed, 01 May 2024 19:18:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Ex-NSA employee sentenced to 262 months in prison for attempting to transfer classified documents to Russia</title>
       <link>https://securityaffairs.com/162621/intelligence/ex-nsa-employee-sentenced-to-262-months.html</link>
       <pubDate>Wed, 01 May 2024 18:31:01 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HackerOne’s Next Stage of Growth</title>
-      <link>https://www.hackerone.com/hackerones-next-stage-growth</link>
-      <pubDate>Wed, 01 May 2024 11:22:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Voice Scam</title>
-      <link>https://www.schneier.com/blog/archives/2024/05/ai-voice-scam.html</link>
-      <pubDate>Wed, 01 May 2024 11:09:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Make Your Employees Your First Line of Cyber Defense</title>
-      <link>https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html</link>
-      <pubDate>Wed, 01 May 2024 11:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are VPNs Legal To Use?</title>
-      <link>https://www.techrepublic.com/article/are-vpns-legal/</link>
-      <pubDate>Wed, 01 May 2024 11:01:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>DBIR: Vulnerability Exploits Triple as Initial Access Point for Data Breaches</title>
-      <link>https://www.infosecurity-magazine.com/news/dbir-vulnerability-exploits-triple/</link>
-      <pubDate>Wed, 01 May 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZLoader Malware Evolves with Anti-Analysis Trick from Zeus Banking Trojan</title>
-      <link>https://thehackernews.com/2024/05/zloader-malware-evolves-with-anti.html</link>
-      <pubDate>Wed, 01 May 2024 10:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, May 1st, 2024 https://isc.sans.edu/podcastdetail/8962, (Wed, May 1st)</title>
-      <link>https://isc.sans.edu/diary/rss/30886</link>
-      <pubDate>Wed, 01 May 2024 10:15:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infosecurity Europe Keynote: Building Strong Teams and Driving Change with F1’s Claire Williams</title>
-      <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-keynote-claire/</link>
-      <pubDate>Wed, 01 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical infrastructure: Pending legislation and risks and rewards from AI.</title>
-      <link>https://thecyberwire.com/podcasts/control-loop/49/notes</link>
-      <pubDate>Wed, 01 May 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
