@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 May 2024 18:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 20:17:15 +0000</lastBuildDate>
+    <item>
+      <title>Dropbox sign breach exposes secrets.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/2059/notes</link>
+      <pubDate>Thu, 02 May 2024 20:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The FCC stores net neutrality rules. Standardizing the development of artificial intelligence.</title>
+      <link>https://thecyberwire.com/newsletters/caveat-briefing/2/17</link>
+      <pubDate>Thu, 02 May 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alleged China-based hackers using ‘Cuttlefish’ malware platform to target Turkey</title>
+      <link>https://therecord.media/cuttlefish-malware-routers-turkey</link>
+      <pubDate>Thu, 02 May 2024 19:38:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scans Probing for LB-Link and Vinga WR-AC1200 routers CVE-2023-24796, (Thu, May 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/30890</link>
+      <pubDate>Thu, 02 May 2024 18:07:05 +0000</pubDate>
+    </item>
     <item>
       <title>What can we learn from the passwords used in brute-force attacks?</title>
       <link>https://blog.talosintelligence.com/threat-source-newsletter-may-2-2024/</link>
       <pubDate>Thu, 02 May 2024 18:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>HPE Aruba Networking addressed four critical ArubaOS RCE flaws</title>
+      <link>https://securityaffairs.com/162663/security/hpe-aruba-networking-critical-flaws.html</link>
+      <pubDate>Thu, 02 May 2024 17:46:27 +0000</pubDate>
     </item>
     <item>
       <title>Newly identified botnet targets decade-old flaw in unpatched D-Link devices</title>
@@ -41,6 +66,11 @@
       <title>Watch out for tech support scams lurking in sponsored search results</title>
       <link>https://www.malwarebytes.com/blog/news/2024/05/watch-out-for-tech-support-scams-lurking-in-sponsored-search-results</link>
       <pubDate>Thu, 02 May 2024 15:14:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2024</title>
+      <link>https://www.techrepublic.com/article/top-tech-conferences-events/</link>
+      <pubDate>Thu, 02 May 2024 14:22:00 +0000</pubDate>
     </item>
     <item>
       <title>Popular Android Apps Like Xiaomi, WPS Office Vulnerable to File Overwrite Flaw</title>
@@ -106,11 +136,6 @@
       <title>CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate Directory Traversal Vulnerabilities</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-directory-traversal</link>
       <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian sentenced to almost 14 years for infecting thousands with REvil ransomware</title>
-      <link>https://therecord.media/revil-ransomware-yaroslav-vasinskyi-prison-sentence</link>
-      <pubDate>Thu, 02 May 2024 11:51:34 +0000</pubDate>
     </item>
     <item>
       <title>Security Breach Exposes Dropbox Sign Users</title>
@@ -281,31 +306,6 @@
       <title>Android Malware Wpeeper Uses Compromised WordPress Sites to Hide C2 Servers</title>
       <link>https://thehackernews.com/2024/05/android-malware-wpeeper-uses.html</link>
       <pubDate>Wed, 01 May 2024 13:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Adds Firefly and Content Credentials to Bug Bounty Program</title>
-      <link>https://www.techrepublic.com/article/adobe-ai-bug-bounty/</link>
-      <pubDate>Wed, 01 May 2024 13:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>1 in 5 US Ransomware Attacks Triggers Lawsuit</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-attacks-trigger-lawsuit/</link>
-      <pubDate>Wed, 01 May 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Take A Tour! NIST Cybersecurity Framework 2.0: Small Business Quick Start Guide</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/take-tour-nist-cybersecurity-framework-20-small-business-quick-start</link>
-      <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lawsuits and Company Devaluations Await For Breached Firms</title>
-      <link>https://www.infosecurity-magazine.com/news/lawsuits-company-devaluations/</link>
-      <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CERT/CC Reports R Programming Language Vulnerability</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability</link>
-      <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
