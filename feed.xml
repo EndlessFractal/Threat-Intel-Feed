@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 May 2024 20:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 22:15:24 +0000</lastBuildDate>
+    <item>
+      <title>Friday Squid Blogging: Squid Purses</title>
+      <link>https://www.schneier.com/blog/archives/2024/05/friday-squid-blogging-squid-purses.html</link>
+      <pubDate>Fri, 03 May 2024 21:05:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit published data stolen from Simone Veil hospital in Cannes</title>
+      <link>https://securityaffairs.com/162721/cyber-crime/lockbit-published-simone-veil-hospital-data.html</link>
+      <pubDate>Fri, 03 May 2024 20:58:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attack turns legal attack.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/2060/notes</link>
+      <pubDate>Fri, 03 May 2024 20:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>You get a passkey, you get a passkey, everyone should get a passkey</title>
+      <link>https://www.malwarebytes.com/blog/explained/2024/05/you-get-a-passkey-you-get-a-passkey-everyone-should-get-a-passkey</link>
+      <pubDate>Fri, 03 May 2024 20:21:40 +0000</pubDate>
+    </item>
     <item>
       <title>Illinois’ biometric data privacy law could soon be less costly for violators</title>
       <link>https://therecord.media/illinois-bipa-proposed-changes-damages-penalties</link>
@@ -233,6 +253,11 @@
       <pubDate>Thu, 02 May 2024 13:28:08 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft introduces passkeys for consumer accounts</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/05/02/microsoft-introduces-passkeys-for-consumer-accounts/</link>
+      <pubDate>Thu, 02 May 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukrainian REvil Hacker Sentenced to 13 Years and Ordered to Pay $16 Million</title>
       <link>https://thehackernews.com/2024/05/ukrainian-revil-hacker-sentenced-to-13.html</link>
       <pubDate>Thu, 02 May 2024 12:26:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>The UK Bans Default Passwords</title>
       <link>https://www.schneier.com/blog/archives/2024/05/the-uk-bans-default-passwords.html</link>
       <pubDate>Thu, 02 May 2024 11:05:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOC Prime’s Integration Highlights with Amazon Security Lake</title>
-      <link>https://socprime.com/blog/soc-primes-integration-highlights-with-amazon-security-lake/</link>
-      <pubDate>Thu, 02 May 2024 10:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA adds GitLab flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/162646/security/gitlab-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 02 May 2024 10:39:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>When is One Vulnerability Scanner Not Enough?</title>
-      <link>https://thehackernews.com/2024/05/when-is-one-vulnerability-scanner-not.html</link>
-      <pubDate>Thu, 02 May 2024 10:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dropbox Discloses Breach of Digital Signature Service Affecting All Users</title>
-      <link>https://thehackernews.com/2024/05/dropbox-discloses-breach-of-digital.html</link>
-      <pubDate>Thu, 02 May 2024 10:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New "Goldoon" Botnet Targets D-Link Routers With Decade-Old Flaw</title>
-      <link>https://thehackernews.com/2024/05/new-goldoon-botnet-targets-d-link.html</link>
-      <pubDate>Thu, 02 May 2024 10:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
