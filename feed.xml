@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 May 2024 04:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:21:03 +0000</lastBuildDate>
+    <item>
+      <title>Four Critical Vulnerabilities Expose HPE Aruba Devices to RCE Attacks</title>
+      <link>https://thehackernews.com/2024/05/four-critical-vulnerabilities-expose.html</link>
+      <pubDate>Fri, 03 May 2024 04:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Friday, May 3rd, 2024 https://isc.sans.edu/podcastdetail/8966, (Fri, May 3rd)</title>
       <link>https://isc.sans.edu/diary/rss/30892</link>
@@ -228,11 +233,6 @@
       <pubDate>Thu, 02 May 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Adding insult to injury: crypto recovery scams</title>
-      <link>https://www.welivesecurity.com/en/scams/crypto-recovery-scams-insult-injury/</link>
-      <pubDate>Thu, 02 May 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>US and UK Warn of Disruptive Russian OT Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/us-uk-warn-disruptive-russian-ot/</link>
       <pubDate>Thu, 02 May 2024 08:30:00 +0000</pubDate>
@@ -293,6 +293,11 @@
       <pubDate>Wed, 01 May 2024 18:31:01 +0000</pubDate>
     </item>
     <item>
+      <title>“Dirty stream” attack: Discovering and mitigating a common vulnerability pattern in Android apps</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/05/01/dirty-stream-attack-discovering-and-mitigating-a-common-vulnerability-pattern-in-android-apps/</link>
+      <pubDate>Wed, 01 May 2024 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cuttlefish malware targets enterprise-grade SOHO routers</title>
       <link>https://securityaffairs.com/162603/malware/cuttlefish-malware-targets-routers.html</link>
       <pubDate>Wed, 01 May 2024 17:43:39 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Vulnerabilities in employee management system could lead to remote code execution, login credential theft</title>
       <link>https://blog.talosintelligence.com/vulnerability-roundup-may-1-2024/</link>
       <pubDate>Wed, 01 May 2024 16:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit, Black Basta, Play Dominate Ransomware in Q1 2024</title>
-      <link>https://www.infosecurity-magazine.com/news/lockbit-black-basta-play/</link>
-      <pubDate>Wed, 01 May 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
