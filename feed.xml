@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 May 2024 22:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 01:11:45 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 398</title>
+      <link>https://www.troyhunt.com/weekly-update-398/</link>
+      <pubDate>Fri, 03 May 2024 00:57:10 +0000</pubDate>
+    </item>
     <item>
       <title>Organizations patch CISA KEV list bugs 3.5 times faster than others, researchers find</title>
       <link>https://therecord.media/kev-list-vulnerabilities-patched-significantly-faster</link>
@@ -301,11 +306,6 @@
       <title>Verizon releases 2024 Data Breach Investigations Report. JP Morgan discloses breach.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/85</link>
       <pubDate>Wed, 01 May 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A flaw in the R programming language could allow code execution</title>
-      <link>https://securityaffairs.com/162591/security/r-programming-language-flaw.html</link>
-      <pubDate>Wed, 01 May 2024 15:48:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
