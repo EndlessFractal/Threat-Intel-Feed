@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 May 2024 14:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 16:20:18 +0000</lastBuildDate>
+    <item>
+      <title>Talos discloses multiple zero-day vulnerabilities, two of which could lead to code execution</title>
+      <link>https://blog.talosintelligence.com/vulnerability-roundup-zero-days-may-8-2024/</link>
+      <pubDate>Wed, 08 May 2024 16:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Six Austrians Arrested in Multi-Million Euro Crypto Scheme</title>
+      <link>https://www.infosecurity-magazine.com/news/six-arrested-million-euro-crypto/</link>
+      <pubDate>Wed, 08 May 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Justice Department charges alleged leader of the Lockbit ransomware gang.</title>
+      <link>https://thecyberwire.com/newsletters/daily-briefing/13/90</link>
+      <pubDate>Wed, 08 May 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More OT attacks tied to Sandworm. Russia-linked hackers target Texas water utilities.</title>
+      <link>https://thecyberwire.com/newsletters/control-loop/3/5</link>
+      <pubDate>Wed, 08 May 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10,000 Customers’ Data Exposed in UK Government Breaches</title>
+      <link>https://www.infosecurity-magazine.com/news/10000-customers-data-exposed-uk-gov/</link>
+      <pubDate>Wed, 08 May 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Final Fantasy game servers hit by multiple DDoS attacks</title>
+      <link>https://therecord.media/final-fantasy-game-ddos-incident-square-enix</link>
+      <pubDate>Wed, 08 May 2024 14:24:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>A SaaS Security Challenge: Getting Permissions All in One Place</title>
+      <link>https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html</link>
+      <pubDate>Wed, 08 May 2024 14:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Spectre-Style 'Pathfinder' Attack Targets Intel CPU, Leak Encryption Keys and Data</title>
+      <link>https://thehackernews.com/2024/05/new-spectre-style-pathfinder-attack.html</link>
+      <pubDate>Wed, 08 May 2024 14:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK expels Russian diplomat suspected of spying, moves to ‘dismantle intelligence gathering operations’</title>
+      <link>https://therecord.media/uk-expels-russian-spying-suspect</link>
+      <pubDate>Wed, 08 May 2024 14:16:59 +0000</pubDate>
+    </item>
     <item>
       <title>LockBit claims attack on Wichita as city struggles with payment issues, airport disruption</title>
       <link>https://therecord.media/wichita-kansas-ransomware-attack-claimed-by-lockbit</link>
@@ -36,16 +81,6 @@
       <title>1-15 February 2024 Cyber Attacks Timeline</title>
       <link>https://www.hackmageddon.com/2024/05/08/1-15-february-2024-cyber-attacks-timeline/</link>
       <pubDate>Wed, 08 May 2024 12:52:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patient appointments imperiled by cyberattack on French radiologist</title>
-      <link>https://therecord.media/france-radiology-company-cyberattack-coradix-magnescan</link>
-      <pubDate>Wed, 08 May 2024 12:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK government urges caution over blaming China for Ministry of Defence breach</title>
-      <link>https://therecord.media/uk-ministry-defence-payment-system-hack-grant-shapps</link>
-      <pubDate>Wed, 08 May 2024 11:53:41 +0000</pubDate>
     </item>
     <item>
       <title>LiteSpeed Cache WordPress plugin actively exploited in the wild</title>
@@ -146,6 +181,11 @@
       <title>Detecting XFinity/Comcast DNS Spoofing, (Mon, May 6th)</title>
       <link>https://isc.sans.edu/diary/rss/30898</link>
       <pubDate>Wed, 08 May 2024 00:15:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran-Aligned Emerald Divide Influence Campaign Evolves to Exploit Israel-Hamas Conflict</title>
+      <link>https://www.recordedfuture.com/iran-aligned-emerald-divide-influence-campaign-evolves-to-exploit-israel-hamas-conflict</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>RSAC: Two-Thirds of Organizations Failing to Address AI Risks, ISACA Finds</title>
@@ -266,46 +306,6 @@
       <title>zEus Stealer Distributed via Crafted Minecraft Source Pack</title>
       <link>https://feeds.fortinet.com/~/896046242/0/fortinet/blog/threat-research~zEus-Stealer-Distributed-via-Crafted-Minecraft-Source-Pack</link>
       <pubDate>Tue, 07 May 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked Hackers Used ROOTROT Webshell in MITRE Network Intrusion</title>
-      <link>https://thehackernews.com/2024/05/china-linked-hackers-used-rootrot.html</link>
-      <pubDate>Tue, 07 May 2024 12:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SUBNET Substation Server</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-128-02</link>
-      <pubDate>Tue, 07 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PTC Codebeamer</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-128-01</link>
-      <pubDate>Tue, 07 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/07/cisa-releases-two-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 07 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can VPNs Be Tracked by the Police?</title>
-      <link>https://www.techrepublic.com/article/can-vpns-be-tracked-by-police/</link>
-      <pubDate>Tue, 07 May 2024 11:14:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>“James Foley: Journalist, ISIS Hostage, Son” – with His Mother Diane Foley</title>
-      <link>https://thecyberwire.com/podcasts/spycast/632/notes</link>
-      <pubDate>Tue, 07 May 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Case Study: The Malicious Comment</title>
-      <link>https://thehackernews.com/2024/05/new-case-study-malicious-comment.html</link>
-      <pubDate>Tue, 07 May 2024 10:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Simplifies 2-Factor Authentication Setup (It's More Important Than Ever)</title>
-      <link>https://thehackernews.com/2024/05/google-simplifies-2-factor.html</link>
-      <pubDate>Tue, 07 May 2024 10:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
