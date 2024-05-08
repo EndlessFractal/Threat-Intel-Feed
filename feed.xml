@@ -6,14 +6,39 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 May 2024 18:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 20:16:30 +0000</lastBuildDate>
     <item>
-      <title>#RSAC: CISA Launches Vulnrichment Program to Address NVD Challenges</title>
+      <title>#RSAC: Three Strategies to Boost Open-Source Security</title>
+      <link>https://www.infosecurity-magazine.com/news/strategies-boost-open-source/</link>
+      <pubDate>Wed, 08 May 2024 20:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The takedown of a ransomware ringleader.</title>
+      <link>https://thecyberwire.com/podcasts/daily-podcast/2063/notes</link>
+      <pubDate>Wed, 08 May 2024 20:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wiz raises $1 billion. Akamai to acquire Noname Security for $450 million.</title>
+      <link>https://thecyberwire.com/newsletters/business-briefing/6/19</link>
+      <pubDate>Wed, 08 May 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit gang claimed responsibility for the attack on City of Wichita</title>
+      <link>https://securityaffairs.com/162910/cyber-crime/city-of-wichita-lockbit-ransomware.html</link>
+      <pubDate>Wed, 08 May 2024 19:51:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>New TunnelVision technique can bypass the VPN encapsulation</title>
+      <link>https://securityaffairs.com/162894/hacking/tunnelvision-attack-vpn.html</link>
+      <pubDate>Wed, 08 May 2024 18:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RSAC: CISA Launches Vulnrichment Program to Address NVD Challenges</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-launches-vulnrichment-program/</link>
       <pubDate>Wed, 08 May 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>#RSAC: Researchers Share Lessons from the World's First AI Security Incident Response Team</title>
+      <title>RSAC: Researchers Share Lessons from the World's First AI Security Incident Response Team</title>
       <link>https://www.infosecurity-magazine.com/news/worlds-first-ai-security-incident/</link>
       <pubDate>Wed, 08 May 2024 17:20:00 +0000</pubDate>
     </item>
@@ -268,11 +293,6 @@
       <pubDate>Tue, 07 May 2024 15:23:04 +0000</pubDate>
     </item>
     <item>
-      <title>LockBit Leader aka LockBitSupp Identity Revealed</title>
-      <link>https://www.infosecurity-magazine.com/news/lockbit-leader-identity-revealed/</link>
-      <pubDate>Tue, 07 May 2024 14:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Australian Government’s Manufacturing Objectives Rely on IT Capabilities</title>
       <link>https://www.techrepublic.com/article/australian-government-it-manufacturing/</link>
       <pubDate>Tue, 07 May 2024 14:01:01 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>MITRE attributes the recent attack to China-linked UNC5221</title>
       <link>https://securityaffairs.com/162811/hacking/mitre-security-breach-china.html</link>
       <pubDate>Tue, 07 May 2024 13:40:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT42 Hackers Pose as Journalists to Harvest Credentials and Access Cloud Data</title>
-      <link>https://thehackernews.com/2024/05/apt42-hackers-pose-as-journalists-to.html</link>
-      <pubDate>Tue, 07 May 2024 13:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Udemy Report: Which IT Skills Are Most in Demand in Q1 2024?</title>
-      <link>https://www.techrepublic.com/article/udemy-report-tech-skills-in-demand/</link>
-      <pubDate>Tue, 07 May 2024 13:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remote access risks on the rise with CVE-2024-1708 and CVE-2024-1709</title>
-      <link>https://securityintelligence.com/articles/remote-access-risks-cve20241708-cve20241709/</link>
-      <pubDate>Tue, 07 May 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>zEus Stealer Distributed via Crafted Minecraft Source Pack</title>
-      <link>https://feeds.fortinet.com/~/896046242/0/fortinet/blog/threat-research~zEus-Stealer-Distributed-via-Crafted-Minecraft-Source-Pack</link>
-      <pubDate>Tue, 07 May 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
