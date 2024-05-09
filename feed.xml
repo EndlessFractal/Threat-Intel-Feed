@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 May 2024 20:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 22:14:31 +0000</lastBuildDate>
+    <item>
+      <title>$10 million reward offer for apprehension of unmasked LockBit ransomware leader</title>
+      <link>https://www.exponential-e.com/blog/10-million-reward-offer-for-apprehension-of-unmasked-lockbit-ransomware-leader</link>
+      <pubDate>Thu, 09 May 2024 21:17:16 +0000</pubDate>
+    </item>
     <item>
       <title>Healthcare in the crosshairs.</title>
       <link>https://thecyberwire.com/podcasts/daily-podcast/2064/notes</link>
@@ -16,11 +21,6 @@
       <title>The Biden Administration has released its new international cybersecurity plan.</title>
       <link>https://thecyberwire.com/newsletters/caveat-briefing/2/19</link>
       <pubDate>Thu, 09 May 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>State attorneys general implore Congress not to preempt their privacy laws</title>
-      <link>https://therecord.media/state-attorneys-general-congress-preempt-privacy</link>
-      <pubDate>Thu, 09 May 2024 19:24:27 +0000</pubDate>
     </item>
     <item>
       <title>A new alert system from CISA seems to be effective — now we just need companies to sign up</title>
@@ -43,14 +43,14 @@
       <pubDate>Thu, 09 May 2024 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>In interview, LockBItSupp says authorities outed the wrong guy</title>
-      <link>https://therecord.media/lockbitsupp-interview-ransomware-cybercrime-lockbit</link>
-      <pubDate>Thu, 09 May 2024 17:23:23 +0000</pubDate>
-    </item>
-    <item>
       <title>RSAC: How CISOs Should Protect Themselves Against Indictments</title>
       <link>https://www.infosecurity-magazine.com/news/ciso-should-protect-indictments/</link>
       <pubDate>Thu, 09 May 2024 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Serialized Cookies Led to RCE on a WordPress Website</title>
+      <link>https://www.hackerone.com/vulnerability-management/wordpress-custom-theme-rce</link>
+      <pubDate>Thu, 09 May 2024 16:11:07 +0000</pubDate>
     </item>
     <item>
       <title>How Criminals Are Using Generative AI</title>
@@ -103,11 +103,6 @@
       <pubDate>Thu, 09 May 2024 13:41:53 +0000</pubDate>
     </item>
     <item>
-      <title>Canadian province's networks hit by 'sophisticated cybersecurity incidents'</title>
-      <link>https://therecord.media/british-columbia-government-canada-cybersecurity-incident</link>
-      <pubDate>Thu, 09 May 2024 13:29:37 +0000</pubDate>
-    </item>
-    <item>
       <title>Upgrade Your Cybersecurity With This VPN That’s Only $70 for Three Years</title>
       <link>https://www.techrepublic.com/article/windscribe-ultimate-vpn-protection/</link>
       <pubDate>Thu, 09 May 2024 13:00:06 +0000</pubDate>
@@ -151,11 +146,6 @@
       <title>ASD’s ACSC, CISA, and Partners Release Secure by Design Guidance on Choosing Secure and Verifiable Technologies</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/05/09/asds-acsc-cisa-and-partners-release-secure-design-guidance-choosing-secure-and-verifiable</link>
       <pubDate>Thu, 09 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poland says it was targeted by Russian military intelligence hackers</title>
-      <link>https://therecord.media/poland-cyber-espionage-russia-gru</link>
-      <pubDate>Thu, 09 May 2024 11:39:46 +0000</pubDate>
     </item>
     <item>
       <title>Zscaler is investigating data breach claims</title>
@@ -228,11 +218,6 @@
       <pubDate>Thu, 09 May 2024 04:45:05 +0000</pubDate>
     </item>
     <item>
-      <title>With nation-state threats in mind, nearly 70 software firms agree to Secure by Design pledge</title>
-      <link>https://therecord.media/secure-by-design-companies-cisa-rsa</link>
-      <pubDate>Thu, 09 May 2024 01:31:56 +0000</pubDate>
-    </item>
-    <item>
       <title>Russia-Linked CopyCop Uses LLMs to Weaponize Influence Content at Scale</title>
       <link>https://www.recordedfuture.com/russia-linked-copycop-uses-llms-to-weaponize-influence-content-at-scale</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
@@ -293,6 +278,11 @@
       <pubDate>Wed, 08 May 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How implementing a trust fabric strengthens identity and network</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/05/08/how-implementing-a-trust-fabric-strengthens-identity-and-network/</link>
+      <pubDate>Wed, 08 May 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Six Austrians Arrested in Multi-Million Euro Crypto Scheme</title>
       <link>https://www.infosecurity-magazine.com/news/six-arrested-million-euro-crypto/</link>
       <pubDate>Wed, 08 May 2024 16:00:00 +0000</pubDate>
@@ -306,6 +296,16 @@
       <title>More OT attacks tied to Sandworm. Russia-linked hackers target Texas water utilities.</title>
       <link>https://thecyberwire.com/newsletters/control-loop/3/5</link>
       <pubDate>Wed, 08 May 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10,000 Customers’ Data Exposed in UK Government Breaches</title>
+      <link>https://www.infosecurity-magazine.com/news/10000-customers-data-exposed-uk-gov/</link>
+      <pubDate>Wed, 08 May 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A SaaS Security Challenge: Getting Permissions All in One Place</title>
+      <link>https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html</link>
+      <pubDate>Wed, 08 May 2024 14:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
