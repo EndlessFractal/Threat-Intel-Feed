@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 May 2024 01:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 02:29:41 +0000</lastBuildDate>
+    <item>
+      <title>With nation-state threats in mind, nearly 70 software firms agree to Secure by Design pledge</title>
+      <link>https://therecord.media/secure-by-design-companies-cisa-rsa</link>
+      <pubDate>Thu, 09 May 2024 01:31:56 +0000</pubDate>
+    </item>
     <item>
       <title>Smashing Security podcast #371: Unmasking LockBitsupp, company extortion, and a Tinder fraudster</title>
       <link>https://grahamcluley.com/smashing-security-podcast-371/</link>
@@ -63,11 +68,6 @@
       <pubDate>Wed, 08 May 2024 16:00:40 +0000</pubDate>
     </item>
     <item>
-      <title>How implementing a trust fabric strengthens identity and network</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/05/08/how-implementing-a-trust-fabric-strengthens-identity-and-network/</link>
-      <pubDate>Wed, 08 May 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Six Austrians Arrested in Multi-Million Euro Crypto Scheme</title>
       <link>https://www.infosecurity-magazine.com/news/six-arrested-million-euro-crypto/</link>
       <pubDate>Wed, 08 May 2024 16:00:00 +0000</pubDate>
@@ -106,11 +106,6 @@
       <title>UK expels Russian diplomat suspected of spying, moves to ‘dismantle intelligence gathering operations’</title>
       <link>https://therecord.media/uk-expels-russian-spying-suspect</link>
       <pubDate>Wed, 08 May 2024 14:16:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit claims attack on Wichita as city struggles with payment issues, airport disruption</title>
-      <link>https://therecord.media/wichita-kansas-ransomware-attack-claimed-by-lockbit</link>
-      <pubDate>Wed, 08 May 2024 13:54:23 +0000</pubDate>
     </item>
     <item>
       <title>Desperate Taylor Swift fans defrauded by ticket scams</title>
@@ -278,11 +273,6 @@
       <pubDate>Tue, 07 May 2024 16:00:32 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft announces the 2024 Microsoft Security Excellence Awards winners</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/05/07/microsoft-announces-the-2024-microsoft-security-excellence-awards-winners/</link>
-      <pubDate>Tue, 07 May 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>UK Ministry of Defense hacked by suspected Chinese threat actor.</title>
       <link>https://thecyberwire.com/newsletters/daily-briefing/13/89</link>
       <pubDate>Tue, 07 May 2024 16:00:00 +0000</pubDate>
@@ -306,6 +296,16 @@
       <title>How to inspire the next generation of scientists | Unlocked 403: Cybersecurity podcast</title>
       <link>https://www.welivesecurity.com/en/we-live-science/how-inspire-scientists-unlocked-403-cybersecurity-podcast/</link>
       <pubDate>Tue, 07 May 2024 15:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Australian Government’s Manufacturing Objectives Rely on IT Capabilities</title>
+      <link>https://www.techrepublic.com/article/australian-government-it-manufacturing/</link>
+      <pubDate>Tue, 07 May 2024 14:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuckoo Malware Detection: New macOS Spyware &amp; Infostealer Targeting Intel and ARM-Based Macs</title>
+      <link>https://socprime.com/blog/cuckoo-malware-detection-new-macos-spyware-infostealer-targeting-intel-and-arm-based-macs/</link>
+      <pubDate>Tue, 07 May 2024 13:58:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
