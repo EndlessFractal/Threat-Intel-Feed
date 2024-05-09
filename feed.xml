@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 May 2024 06:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 08:20:03 +0000</lastBuildDate>
+    <item>
+      <title>Experts warn of two BIG-IP Next Central Manager flaws that allow device takeover</title>
+      <link>https://securityaffairs.com/162916/security/f5-big-ip-next-central-manager.html</link>
+      <pubDate>Thu, 09 May 2024 07:37:32 +0000</pubDate>
+    </item>
     <item>
       <title>Critical F5 Central Manager Vulnerabilities Allow Enable Full Device Takeover</title>
       <link>https://thehackernews.com/2024/05/critical-f5-central-manager.html</link>
@@ -301,11 +306,6 @@
       <title>Setting Up an Environment for Web Hacking</title>
       <link>https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment</link>
       <pubDate>Tue, 07 May 2024 16:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Ministry of Defense hacked by suspected Chinese threat actor.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/89</link>
-      <pubDate>Tue, 07 May 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
