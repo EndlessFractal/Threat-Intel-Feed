@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 May 2024 18:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 20:16:19 +0000</lastBuildDate>
+    <item>
+      <title>Russian hackers are reportedly going after Kosovo’s government</title>
+      <link>https://therecord.media/russian-hackers-kosovo-ddos-pristina</link>
+      <pubDate>Fri, 10 May 2024 18:31:35 +0000</pubDate>
+    </item>
     <item>
       <title>As White House preps new cyber rules for healthcare, Neuberger says backlash is unwarranted</title>
       <link>https://therecord.media/cybersecurity-regulations-healthcare-industry-anne-neuberger-rsa</link>
@@ -33,11 +38,6 @@
       <pubDate>Fri, 10 May 2024 16:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>Russia-aligned information operation uses generative AI to modify legitimate articles. Dell discloses data breach.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/92</link>
-      <pubDate>Fri, 10 May 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MoD contractor hacked by China failed to report breach for months</title>
       <link>https://www.theguardian.com/technology/article/2024/may/10/mod-contractor-hacked-china-failed-report-breach-months</link>
       <pubDate>Fri, 10 May 2024 15:00:23 +0000</pubDate>
@@ -58,6 +58,11 @@
       <pubDate>Fri, 10 May 2024 14:04:59 +0000</pubDate>
     </item>
     <item>
+      <title>#StopRansomware: Black Basta</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a</link>
+      <pubDate>Fri, 10 May 2024 13:58:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Boeing refused to pay $200 million LockBit ransomware demand</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/boeing-refused-to-pay-200-million-ransomware-demand-from-lockbit-gang/</link>
       <pubDate>Fri, 10 May 2024 13:56:48 +0000</pubDate>
@@ -76,11 +81,6 @@
       <title>CensysGPT: AI-Powered Threat Hunting for Cybersecurity Pros (Webinar)</title>
       <link>https://thehackernews.com/2024/05/censysgpt-ai-powered-threat-hunting-for.html</link>
       <pubDate>Fri, 10 May 2024 12:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK hit by more ransomware and cyberattacks last year than ever before</title>
-      <link>https://therecord.media/uk-ico-ransomware-cyberattacks-data-2023</link>
-      <pubDate>Fri, 10 May 2024 12:14:56 +0000</pubDate>
     </item>
     <item>
       <title>Google fixes fifth actively exploited Chrome zero-day this year</title>
@@ -143,21 +143,6 @@
       <pubDate>Thu, 09 May 2024 21:17:16 +0000</pubDate>
     </item>
     <item>
-      <title>Healthcare in the crosshairs.</title>
-      <link>https://thecyberwire.com/podcasts/daily-podcast/2064/notes</link>
-      <pubDate>Thu, 09 May 2024 20:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Biden Administration has released its new international cybersecurity plan.</title>
-      <link>https://thecyberwire.com/newsletters/caveat-briefing/2/19</link>
-      <pubDate>Thu, 09 May 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RSAC 2024: AI hype overload</title>
-      <link>https://www.welivesecurity.com/en/cybersecurity/rsac-2024-ai-hype-overload/</link>
-      <pubDate>Thu, 09 May 2024 18:41:39 +0000</pubDate>
-    </item>
-    <item>
       <title>A new alert system from CISA seems to be effective — now we just need companies to sign up</title>
       <link>https://blog.talosintelligence.com/threat-source-newsletter-may-9-2024/</link>
       <pubDate>Thu, 09 May 2024 18:00:43 +0000</pubDate>
@@ -200,11 +185,6 @@
     <item>
       <title>New 'LLMjacking' Attack Exploits Stolen Cloud Credentials</title>
       <link>https://www.infosecurity-magazine.com/news/llmjacking-exploits-stolen-cloud/</link>
-      <pubDate>Thu, 09 May 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>F5 patches two serious BIG-IP vulnerabilities. Zscaler disputes claims of a breach.</title>
-      <link>https://thecyberwire.com/newsletters/daily-briefing/13/91</link>
       <pubDate>Thu, 09 May 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -306,6 +286,26 @@
       <title>AI-Powered Russian Network Pushes Fake Political News</title>
       <link>https://www.infosecurity-magazine.com/news/aipowered-russian-network-fake-news/</link>
       <pubDate>Thu, 09 May 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DocGo patient health data stolen in cyberattack</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/05/docgo-patient-health-data-stolen-in-cyberattack</link>
+      <pubDate>Thu, 09 May 2024 10:46:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT trends report Q1 2024</title>
+      <link>https://securelist.com/apt-trends-report-q1-2024/112473/</link>
+      <pubDate>Thu, 09 May 2024 10:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Online Stores Scam Over 850,000 Shoppers</title>
+      <link>https://www.infosecurity-magazine.com/news/online-stores-scams-shoppers/</link>
+      <pubDate>Thu, 09 May 2024 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts warn of two BIG-IP Next Central Manager flaws that allow device takeover</title>
+      <link>https://securityaffairs.com/162916/security/f5-big-ip-next-central-manager.html</link>
+      <pubDate>Thu, 09 May 2024 07:37:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
