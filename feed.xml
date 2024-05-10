@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 May 2024 06:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 08:20:04 +0000</lastBuildDate>
+    <item>
+      <title>Researchers Uncover 'LLMjacking' Scheme Targeting Cloud-Hosted AI Models</title>
+      <link>https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html</link>
+      <pubDate>Fri, 10 May 2024 07:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>Citrix warns customers to update PuTTY version installed on their XenCenter system manually</title>
       <link>https://securityaffairs.com/162953/security/citrix-manually-update-putty-ssh-client.html</link>
@@ -301,11 +306,6 @@
       <title>ISO 27001 and Pentesting: What You Need to Know</title>
       <link>https://www.hackerone.com/security-compliance/iso-27001-pentesting</link>
       <pubDate>Wed, 08 May 2024 16:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Talos discloses multiple zero-day vulnerabilities, two of which could lead to code execution</title>
-      <link>https://blog.talosintelligence.com/vulnerability-roundup-zero-days-may-8-2024/</link>
-      <pubDate>Wed, 08 May 2024 16:00:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
