@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 May 2024 14:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 16:19:01 +0000</lastBuildDate>
+    <item>
+      <title>DNS Suffixes on Windows, (Sun, May 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/30912</link>
+      <pubDate>Sun, 12 May 2024 13:02:10 +0000</pubDate>
+    </item>
     <item>
       <title>Security Affairs newsletter Round 471 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/163036/breaking-news/security-affairs-newsletter-round-471-by-pierluigi-paganini-international-edition.html</link>
@@ -301,11 +306,6 @@
       <title>CVE-2024-21793 and CVE-2024-26026 Detection: Exploitation of Critical F5 Central Manager Vulnerabilities Can Lead to Full System Compromise</title>
       <link>https://socprime.com/blog/latest-threats/cve-2024-21793-and-cve-2024-26026-detection-exploitation-of-critical-f5-central-manager-vulnerabilities-can-lead-to-full-system-compromise/</link>
       <pubDate>Thu, 09 May 2024 12:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Latest NICE Framework Update Offers Improvements for the Cybersecurity Workforce</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/latest-nice-framework-update-offers-improvements-cybersecurity</link>
-      <pubDate>Thu, 09 May 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
