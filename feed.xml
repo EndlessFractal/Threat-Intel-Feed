@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 May 2024 22:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 01:12:16 +0000</lastBuildDate>
+    <item>
+      <title>Malware Distributed as Copyright Violation-Related Materials (Beast Ransomware, Vidar Infostealer)</title>
+      <link>https://asec.ahnlab.com/en/65364/</link>
+      <pubDate>Mon, 13 May 2024 01:00:30 +0000</pubDate>
+    </item>
     <item>
       <title>Pro-Russia hackers targeted Kosovo’s government websites</title>
       <link>https://securityaffairs.com/163041/hacking/pro-russia-hackers-targeted-kosovo.html</link>
@@ -301,11 +306,6 @@
       <title>Social engineering in the era of generative AI: Predictions for 2024</title>
       <link>https://securityintelligence.com/articles/social-engineering-generative-ai-2024-predictions/</link>
       <pubDate>Thu, 09 May 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2024-21793 and CVE-2024-26026 Detection: Exploitation of Critical F5 Central Manager Vulnerabilities Can Lead to Full System Compromise</title>
-      <link>https://socprime.com/blog/latest-threats/cve-2024-21793-and-cve-2024-26026-detection-exploitation-of-critical-f5-central-manager-vulnerabilities-can-lead-to-full-system-compromise/</link>
-      <pubDate>Thu, 09 May 2024 12:52:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
