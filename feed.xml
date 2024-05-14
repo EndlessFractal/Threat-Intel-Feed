@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 May 2024 16:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 18:20:46 +0000</lastBuildDate>
+    <item>
+      <title>VMware fixed zero-day flaws demonstrated at Pwn2Own Vancouver 2024</title>
+      <link>https://securityaffairs.com/163152/hacking/vmware-fixed-zero-days-demonstrated-pwn2own2024.html</link>
+      <pubDate>Tue, 14 May 2024 18:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat intelligence to protect vulnerable communities</title>
+      <link>https://securityintelligence.com/posts/threat-intelligence-protect-vulnerable-communities/</link>
+      <pubDate>Tue, 14 May 2024 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Only one critical vulnerability included in May’s Microsoft Patch Tuesday; One other zero-day in DWN Core</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2024/</link>
+      <pubDate>Tue, 14 May 2024 17:57:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft May 2024 Patch Tuesday, (Tue, May 14th)</title>
+      <link>https://isc.sans.edu/diary/rss/30920</link>
+      <pubDate>Tue, 14 May 2024 17:28:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>MITRE released EMB3D Threat Model for embedded devices</title>
+      <link>https://securityaffairs.com/163144/security/mitre-released-emb3d-framework.html</link>
+      <pubDate>Tue, 14 May 2024 17:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>QakBot attacks with Windows zero-day (CVE-2024-30051)</title>
+      <link>https://securelist.com/cve-2024-30051/112618/</link>
+      <pubDate>Tue, 14 May 2024 17:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is this Iowa congressman the next House Republican point man on cyber?</title>
+      <link>https://therecord.media/zach-nunn-house-republicans-cybersecurity</link>
+      <pubDate>Tue, 14 May 2024 17:12:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Breaches in US Schools Exposed 37.6M Records</title>
+      <link>https://www.infosecurity-magazine.com/news/data-breaches-us-schools-37m/</link>
+      <pubDate>Tue, 14 May 2024 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Upcoming Speaking Engagements</title>
       <link>https://www.schneier.com/blog/archives/2024/05/upcoming-speaking-engagements-36.html</link>
@@ -41,6 +81,11 @@
       <title>CISA and Partners Unveil Cybersecurity Guide For Civil Society Groups</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-unveil-cybersecurity-guide/</link>
       <pubDate>Tue, 14 May 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 Best Cloud Security Posture Management (CSPM) Tools for 2024</title>
+      <link>https://www.techrepublic.com/article/best-cspm-tools/</link>
+      <pubDate>Tue, 14 May 2024 15:00:32 +0000</pubDate>
     </item>
     <item>
       <title>NIST Confusion Continues as Cyber Pros Complain CVE Uploads Stalled</title>
@@ -98,7 +143,7 @@
       <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SUBNET PowerSYSTEM Center and Substation Server</title>
+      <title>SUBNET PowerSYSTEM Center</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-135-02</link>
       <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
     </item>
@@ -258,54 +303,9 @@
       <pubDate>Mon, 13 May 2024 19:02:27 +0000</pubDate>
     </item>
     <item>
-      <title>FCC designates first robocall threat actor under new classification system</title>
-      <link>https://therecord.media/fcc-robocalls-ccist-royal-tiger-designation</link>
-      <pubDate>Mon, 13 May 2024 19:01:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Cloud Native Security | Prioritize Better, Respond Faster, with Verified Exploit Paths™</title>
       <link>https://www.sentinelone.com/blog/cloud-native-security-prioritize-better-response-faster-with-verified-exploit-paths/</link>
       <pubDate>Mon, 13 May 2024 18:01:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prison for cybersecurity expert selling private videos from inside 400,000 homes</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/prison-for-cybersecurity-expert-selling-private-videos-from-inside-400-000-homes/</link>
-      <pubDate>Mon, 13 May 2024 17:27:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is the Dark Web?</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/what-is-the-dark-web/</link>
-      <pubDate>Mon, 13 May 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quick Glossary: DevSecOps</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/quick-glossary-devsecops/</link>
-      <pubDate>Mon, 13 May 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerabilities in Cinterion Modems Exposed</title>
-      <link>https://www.infosecurity-magazine.com/news/critical-vulnerabilities-cinterion/</link>
-      <pubDate>Mon, 13 May 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mallox Ransomware Deployed Via MS-SQL Honeypot Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/mallox-ransomware-deployed-via-ms/</link>
-      <pubDate>Mon, 13 May 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 6 Best Encryption Software Choices for 2024</title>
-      <link>https://www.techrepublic.com/article/encryption-software/</link>
-      <pubDate>Mon, 13 May 2024 14:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian hackers defaced local British news sites</title>
-      <link>https://securityaffairs.com/163080/cyber-crime/russian-hackers-british-newspaper-websites.html</link>
-      <pubDate>Mon, 13 May 2024 14:35:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>MITRE Unveils EMB3D: A Threat-Modeling Framework for Embedded Devices</title>
-      <link>https://thehackernews.com/2024/05/mitre-unveils-emb3d-threat-modeling.html</link>
-      <pubDate>Mon, 13 May 2024 14:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
