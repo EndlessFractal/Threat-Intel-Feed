@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 May 2024 18:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 20:17:51 +0000</lastBuildDate>
+    <item>
+      <title>FTC fires 'shot across the bow' at automakers over connected-car data privacy</title>
+      <link>https://therecord.media/ftc-connected-cars-data-privacy-geolocation</link>
+      <pubDate>Tue, 14 May 2024 18:22:21 +0000</pubDate>
+    </item>
     <item>
       <title>VMware fixed zero-day flaws demonstrated at Pwn2Own Vancouver 2024</title>
       <link>https://securityaffairs.com/163152/hacking/vmware-fixed-zero-days-demonstrated-pwn2own2024.html</link>
@@ -46,6 +51,11 @@
       <title>Data Breaches in US Schools Exposed 37.6M Records</title>
       <link>https://www.infosecurity-magazine.com/news/data-breaches-us-schools-37m/</link>
       <pubDate>Tue, 14 May 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Ethical Hackers Are Securing Elections</title>
+      <link>https://www.hackerone.com/ethical-hacker/election-security</link>
+      <pubDate>Tue, 14 May 2024 16:09:37 +0000</pubDate>
     </item>
     <item>
       <title>Upcoming Speaking Engagements</title>
@@ -158,8 +168,18 @@
       <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Releases May 2024 Security Updates</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates</link>
+      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Releases Four Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products</link>
       <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -168,8 +188,8 @@
       <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Apple Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products</link>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -278,34 +298,14 @@
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>HackerOne Company Values Matter: Win as a Team</title>
+      <link>https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-win-team</link>
+      <pubDate>Mon, 13 May 2024 22:29:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Threat actors may have exploited a zero-day in older iPhones, Apple warns</title>
       <link>https://securityaffairs.com/163096/hacking/apple-iphones-zero-day-exploited.html</link>
       <pubDate>Mon, 13 May 2024 21:26:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Southeast Asian scam syndicates stealing $64 billion annually, researchers find</title>
-      <link>https://therecord.media/southeast-asian-scam-syndicates-stealing-billions-annually</link>
-      <pubDate>Mon, 13 May 2024 21:10:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>City of Helsinki suffered a data breach</title>
-      <link>https://securityaffairs.com/163088/data-breach/city-of-helsinki-data-breach.html</link>
-      <pubDate>Mon, 13 May 2024 19:52:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Christie's takes website offline after cyberattack, delays live auction</title>
-      <link>https://therecord.media/christies-website-down-auction-delayed-cyberattack</link>
-      <pubDate>Mon, 13 May 2024 19:33:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report: Organisations Have Endpoint Security Tools But Are Still Falling Short on the Basics</title>
-      <link>https://www.techrepublic.com/article/endpoint-security-tools-report/</link>
-      <pubDate>Mon, 13 May 2024 19:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud Native Security | Prioritize Better, Respond Faster, with Verified Exploit Paths™</title>
-      <link>https://www.sentinelone.com/blog/cloud-native-security-prioritize-better-response-faster-with-verified-exploit-paths/</link>
-      <pubDate>Mon, 13 May 2024 18:01:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
