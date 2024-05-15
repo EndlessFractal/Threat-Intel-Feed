@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 May 2024 12:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 14:16:16 +0000</lastBuildDate>
+    <item>
+      <title>GCHQ to protect UK election candidates’ phones from cyberattacks</title>
+      <link>https://therecord.media/british-signals-agency-cyberattacks-phones</link>
+      <pubDate>Wed, 15 May 2024 14:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Expands Election Cybersecurity to Safeguard Candidates and Officials</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-election-cybersecurity/</link>
+      <pubDate>Wed, 15 May 2024 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing Peace of Mind with Breach Response Warranty</title>
+      <link>https://www.sentinelone.com/blog/securing-peace-of-mind-with-breach-response-warranty/</link>
+      <pubDate>Wed, 15 May 2024 13:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notes on ThroughTek Kalay Vulnerabilities and Their Impact on the IoT Ecosystem</title>
+      <link>https://www.bitdefender.com/blog/labs/notes-on-throughtek-kalay-vulnerabilities-and-their-impact/</link>
+      <pubDate>Wed, 15 May 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New cybersecurity sheets from CISA and NSA: An overview</title>
+      <link>https://securityintelligence.com/articles/cisa-nsa-cybersecurity-information-sheets/</link>
+      <pubDate>Wed, 15 May 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making Waves: LATAM Sales Team Clears Beach Debris in Panama</title>
+      <link>https://news.sophos.com/en-us/2024/05/15/making-waves-latam-sales-team-clears-beach-debris-in-panama/</link>
+      <pubDate>Wed, 15 May 2024 12:45:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turla Group Deploys LunarWeb and LunarMail Backdoors in Diplomatic Missions</title>
+      <link>https://thehackernews.com/2024/05/turla-group-deploys-lunarweb-and.html</link>
+      <pubDate>Wed, 15 May 2024 12:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Got MFA?  If not, Now is the Time!, (Wed, May 15th)</title>
+      <link>https://isc.sans.edu/diary/rss/30926</link>
+      <pubDate>Wed, 15 May 2024 12:04:47 +0000</pubDate>
+    </item>
     <item>
       <title>FIN7 Attack Detection: russia-linked Financially-Motivated Group Exploits Google Ads to Drop NetSupport RAT via MSIX App Installer Files</title>
       <link>https://socprime.com/blog/fin7-attack-detection-russia-linked-financially-motivated-group-exploits-google-ads-to-drop-netsupport-rat-via-msix-app-installer-files/</link>
@@ -15,6 +55,11 @@
     <item>
       <title>Google Expands Synthetic Content Watermarking Tool to AI-Generated Text</title>
       <link>https://www.infosecurity-magazine.com/news/google-synthid-ai-text/</link>
+      <pubDate>Wed, 15 May 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products</link>
       <pubDate>Wed, 15 May 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,11 +263,6 @@
       <pubDate>Tue, 14 May 2024 14:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>Russian Actors Weaponize Legitimate Services in Multi-Malware Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-legitimate-services/</link>
-      <pubDate>Tue, 14 May 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation</title>
       <link>https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html</link>
       <pubDate>Tue, 14 May 2024 13:51:00 +0000</pubDate>
@@ -248,11 +288,6 @@
       <pubDate>Tue, 14 May 2024 12:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>UK 'increasingly concerned' about Russian intelligence links to hacktivists</title>
-      <link>https://therecord.media/russian-intelligence-hacktivists-gchq-cyberuk</link>
-      <pubDate>Tue, 14 May 2024 12:23:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Johnson Controls Software House C-CURE 9000</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-135-03</link>
       <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Rockwell Automation FactoryTalk Remote Access</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-135-01</link>
       <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases May 2024 Security Updates</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates</link>
-      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Four Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and Partners Release Guidance for Civil Society Organizations on Mitigating Cyber Threats with Limited Resources</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-and-partners-release-guidance-civil-society-organizations-mitigating-cyber-threats-limited</link>
-      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Flaws in Cacti Framework Could Let Attackers Execute Malicious Code</title>
-      <link>https://thehackernews.com/2024/05/critical-flaws-in-cacti-framework-could.html</link>
-      <pubDate>Tue, 14 May 2024 11:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Another Chrome Vulnerability</title>
-      <link>https://www.schneier.com/blog/archives/2024/05/another-chrome-vulnerability.html</link>
-      <pubDate>Tue, 14 May 2024 11:01:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
