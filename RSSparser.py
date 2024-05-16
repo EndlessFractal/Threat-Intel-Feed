@@ -58,7 +58,7 @@ def parse_and_format_rss(url, max_char, posted_links):
         entry_url = entry.link
 
         # Check if the link has already been posted
-        if entry_url in posted_links:
+        if entry_url in posted_links or any(entry_url in payload['content'] for payload in payloads):
             continue
 
         entry_text = f"{title}\n{entry_url}\n\n"
