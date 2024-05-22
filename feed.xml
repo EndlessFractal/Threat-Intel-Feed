@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 May 2024 02:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 04:20:18 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Wednesday, May 22nd, 2024 https://isc.sans.edu/podcastdetail/8992, (Wed, May 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/30946</link>
+      <pubDate>Wed, 22 May 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>How to remove a user from a shared Android device</title>
       <link>https://www.malwarebytes.com/blog/explained/2024/05/how-to-remove-a-user-from-a-shared-android-device</link>
@@ -301,11 +306,6 @@
       <title>IBM Sells Cybersecurity Group</title>
       <link>https://www.schneier.com/blog/archives/2024/05/ibm-sells-cybersecurity-group.html</link>
       <pubDate>Mon, 20 May 2024 11:04:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defending Your Commits From Known CVEs With GitGuardian SCA And Git Hooks</title>
-      <link>https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html</link>
-      <pubDate>Mon, 20 May 2024 10:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
