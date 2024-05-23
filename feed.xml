@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 May 2024 12:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 14:15:09 +0000</lastBuildDate>
+    <item>
+      <title>APT41: The threat of KeyPlug against Italian industries</title>
+      <link>https://securityaffairs.com/163598/apt/apt41-keyplug-targets-italian-industries.html</link>
+      <pubDate>Thu, 23 May 2024 13:09:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 years in prison for $4.5 million BEC scammer who bought Ferrari to launder money</title>
+      <link>https://www.tripwire.com/state-of-security/10-years-prison-45-million-bec-scammer-who-bought-ferrari-launder-money</link>
+      <pubDate>Thu, 23 May 2024 13:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Force provision gets House committee’s approval</title>
+      <link>https://therecord.media/cyber-force-amendment-added-fiscal-2025-ndaa</link>
+      <pubDate>Thu, 23 May 2024 13:07:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVD Leaves Exploited Vulnerabilities Unchecked</title>
+      <link>https://www.infosecurity-magazine.com/news/nvd-exploited-vulnerabilities/</link>
+      <pubDate>Thu, 23 May 2024 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ShrinkLocker: Turning BitLocker into ransomware</title>
       <link>https://securelist.com/ransomware-abuses-bitlocker/112643/</link>
       <pubDate>Thu, 23 May 2024 12:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>AutomationDirect Productivity PLCs</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-144-01</link>
+      <pubDate>Thu, 23 May 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases One Industrial Control Systems Advisory</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-releases-one-industrial-control-systems-advisory</link>
+      <pubDate>Thu, 23 May 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Inside Operation Diplomatic Specter: Chinese APT Group's Stealthy Tactics Exposed</title>
@@ -138,11 +168,6 @@
       <pubDate>Wed, 22 May 2024 16:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Alarm over Russian-directed sabotage operations growing across Europe</title>
-      <link>https://therecord.media/alarm-over-russia-sabotage-europe-spreads</link>
-      <pubDate>Wed, 22 May 2024 16:01:54 +0000</pubDate>
-    </item>
-    <item>
       <title>What You Need to Know About the EU’s Cyber Resilience Act</title>
       <link>https://www.hackerone.com/public-policy/eu-cyber-resilience-act</link>
       <pubDate>Wed, 22 May 2024 16:00:11 +0000</pubDate>
@@ -238,6 +263,11 @@
       <pubDate>Wed, 22 May 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What happens when AI goes rogue (and how to stop it)</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/what-happens-ai-goes-rogue-how-stop-it/</link>
+      <pubDate>Wed, 22 May 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>UK Government in £8.5m Bid to Tackle AI Cyber-Threats</title>
       <link>https://www.infosecurity-magazine.com/news/uk-government-85m-tackle-ai/</link>
       <pubDate>Wed, 22 May 2024 09:15:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Zoom Adopts NIST-Approved Post-Quantum End-to-End Encryption for Meetings</title>
       <link>https://thehackernews.com/2024/05/zoom-adopts-nist-approved-post-quantum.html</link>
       <pubDate>Wed, 22 May 2024 04:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Veeam Backup Enterprise Manager Flaw Allows Authentication Bypass</title>
-      <link>https://thehackernews.com/2024/05/critical-veeam-backup-enterprise.html</link>
-      <pubDate>Wed, 22 May 2024 03:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, May 22nd, 2024 https://isc.sans.edu/podcastdetail/8992, (Wed, May 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/30946</link>
-      <pubDate>Wed, 22 May 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to remove a user from a shared Android device</title>
-      <link>https://www.malwarebytes.com/blog/explained/2024/05/how-to-remove-a-user-from-a-shared-android-device</link>
-      <pubDate>Tue, 21 May 2024 20:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to remove a user from a shared Mac</title>
-      <link>https://www.malwarebytes.com/blog/explained/2024/05/how-to-remove-a-user-from-a-shared-mac</link>
-      <pubDate>Tue, 21 May 2024 20:08:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to remove a user from a shared Windows device</title>
-      <link>https://www.malwarebytes.com/blog/explained/2024/05/how-to-remove-a-user-from-a-shared-windows-device</link>
-      <pubDate>Tue, 21 May 2024 20:08:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA adds NextGen Healthcare Mirth Connect flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/163496/security/cisa-adds-nextgen-healthcare-mirth-connect-flaw-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Tue, 21 May 2024 19:59:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
