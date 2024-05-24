@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 May 2024 16:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 18:21:45 +0000</lastBuildDate>
+    <item>
+      <title>Amid funding cuts, backlog of unanalyzed vulnerabilities in gov't database is growing</title>
+      <link>https://therecord.media/nist-database-backlog-growing-vulncheck</link>
+      <pubDate>Fri, 24 May 2024 17:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Created Rogue VMs to Evade Detection in Recent MITRE Cyber Attack</title>
+      <link>https://thehackernews.com/2024/05/hackers-created-rogue-vms-to-evade.html</link>
+      <pubDate>Fri, 24 May 2024 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Wargames director Jackie Schneider on why cyber is one of 'the most interesting scholarly puzzles'</title>
       <link>https://therecord.media/wargames-cyber-operations-jacquelyn-schneider-interview</link>
@@ -53,7 +63,7 @@
       <pubDate>Fri, 24 May 2024 13:00:20 +0000</pubDate>
     </item>
     <item>
-      <title>Fake Antivirus Websites Deliver Malware to Android and Windows Devices</title>
+      <title>Beware: These Fake Antivirus Sites Spreading Android and Windows Malware</title>
       <link>https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html</link>
       <pubDate>Fri, 24 May 2024 12:50:00 +0000</pubDate>
     </item>
@@ -103,17 +113,17 @@
       <pubDate>Fri, 24 May 2024 10:25:35 +0000</pubDate>
     </item>
     <item>
-      <title>Google Detects 4th Chrome Zero-Day in May Actively Under Attack - Update ASAP</title>
+      <title>Update Chrome Browser Now: 4th Zero-Day Exploit Discovered in May 2024</title>
       <link>https://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html</link>
       <pubDate>Fri, 24 May 2024 10:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Courtroom Software Backdoored to Deliver RustDoor Malware in Supply Chain Attack</title>
+      <title>JAVS Courtroom Recording Software Backdoored - Deploys RustDoor Malware</title>
       <link>https://thehackernews.com/2024/05/courtroom-software-backdoored-to.html</link>
       <pubDate>Fri, 24 May 2024 09:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>Japanese Experts Warn of BLOODALCHEMY Malware Targeting Government Agencies</title>
+      <title>Stealthy BLOODALCHEMY Malware Targeting ASEAN Government Networks</title>
       <link>https://thehackernews.com/2024/05/japanese-experts-warn-of-bloodalchemy.html</link>
       <pubDate>Fri, 24 May 2024 09:13:00 +0000</pubDate>
     </item>
@@ -156,11 +166,6 @@
       <title>Anthropic’s Generative AI Research Reveals More About How LLMs Affect Security and Bias</title>
       <link>https://www.techrepublic.com/article/anthropic-claude-large-language-model-research/</link>
       <pubDate>Thu, 23 May 2024 19:46:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Courtroom recording software compromised with backdoor installer</title>
-      <link>https://therecord.media/courtroom-recording-software-compromised-backdoor</link>
-      <pubDate>Thu, 23 May 2024 19:27:40 +0000</pubDate>
     </item>
     <item>
       <title>IBM X-Force Report: Grandoreiro Malware Targets More Than 1,500 Banks in 60 Countries</title>
@@ -301,11 +306,6 @@
       <title>GitHub Fixes Maximum Severity Flaw in Enterprise Server</title>
       <link>https://www.infosecurity-magazine.com/news/github-maximum-severity-flaw/</link>
       <pubDate>Thu, 23 May 2024 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A journey into forgotten Null Session and MS-RPC interfaces</title>
-      <link>https://securelist.com/no-auth-domain-information-enumeration/112629/</link>
-      <pubDate>Thu, 23 May 2024 09:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
