@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 May 2024 20:17:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 22:15:41 +0000</lastBuildDate>
+    <item>
+      <title>Friday Squid Blogging: Dana Squid Attacking Camera</title>
+      <link>https://www.schneier.com/blog/archives/2024/05/friday-squid-blogging-dana-squid-attacking-camera.html</link>
+      <pubDate>Fri, 24 May 2024 21:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York's Albany County investigating 'cybersecurity breach' ahead of holiday weekend</title>
+      <link>https://therecord.media/albany-county-new-york-government-cybersecurity-incident</link>
+      <pubDate>Fri, 24 May 2024 20:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>An XSS flaw in GitLab allows attackers to take over accounts</title>
+      <link>https://securityaffairs.com/163649/hacking/gitlab-xss-flaw.html</link>
+      <pubDate>Fri, 24 May 2024 20:39:22 +0000</pubDate>
+    </item>
     <item>
       <title>Ascension slowly restoring network as nurses, doctors cite real-world dangers of attack</title>
       <link>https://therecord.media/ascension-restoring-network-after-cyberattack</link>
@@ -71,11 +86,6 @@
       <title>Beware: These Fake Antivirus Sites Spreading Android and Windows Malware</title>
       <link>https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html</link>
       <pubDate>Fri, 24 May 2024 12:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU wants universities to work with intelligence agencies to protect their research</title>
-      <link>https://therecord.media/eu-research-universities-intelligence-agencies-foreign-espionage</link>
-      <pubDate>Fri, 24 May 2024 12:05:43 +0000</pubDate>
     </item>
     <item>
       <title>Cisco Releases May 2024 Cisco ASA, FMC, and FTD Software Security Publication</title>
@@ -296,16 +306,6 @@
       <title>Introducing Nimfilt: A reverse-engineering tool for Nim-compiled binaries</title>
       <link>https://www.welivesecurity.com/en/eset-research/introducing-nimfilt-reverse-engineering-tool-nim-compiled-binaries/</link>
       <pubDate>Thu, 23 May 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Patches Critical Remote Code Execution Flaws in Endpoint Manager</title>
-      <link>https://thehackernews.com/2024/05/ivanti-patches-critical-remote-code.html</link>
-      <pubDate>Thu, 23 May 2024 09:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Fixes Maximum Severity Flaw in Enterprise Server</title>
-      <link>https://www.infosecurity-magazine.com/news/github-maximum-severity-flaw/</link>
-      <pubDate>Thu, 23 May 2024 09:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
