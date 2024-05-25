@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 May 2024 10:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 12:29:19 +0000</lastBuildDate>
     <item>
       <title>MITRE December 2023 attack: Threat actors created rogue VMs to evade detection</title>
       <link>https://securityaffairs.com/163658/apt/mitre-december-2023-attack-rogue-vms.html</link>
       <pubDate>Sat, 25 May 2024 09:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts Find Flaw in Replicate AI Service Exposing Customers' Models and Data</title>
+      <link>https://thehackernews.com/2024/05/experts-find-flaw-in-replicate-ai.html</link>
+      <pubDate>Sat, 25 May 2024 09:11:00 +0000</pubDate>
     </item>
     <item>
       <title>csvkit, (Sat, May 25th)</title>
@@ -301,11 +306,6 @@
       <title>Personal AI Assistants and Privacy</title>
       <link>https://www.schneier.com/blog/archives/2024/05/personal-ai-assistants-and-privacy.html</link>
       <pubDate>Thu, 23 May 2024 11:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical SQL Injection flaws impact Ivanti Endpoint Manager (EPM)</title>
-      <link>https://securityaffairs.com/163587/security/ivanti-endpoint-manager-critical-sql-injection.html</link>
-      <pubDate>Thu, 23 May 2024 10:49:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
