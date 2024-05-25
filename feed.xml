@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 May 2024 12:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 14:14:47 +0000</lastBuildDate>
     <item>
       <title>MITRE December 2023 attack: Threat actors created rogue VMs to evade detection</title>
       <link>https://securityaffairs.com/163658/apt/mitre-december-2023-attack-rogue-vms.html</link>
@@ -263,6 +263,11 @@
       <pubDate>Thu, 23 May 2024 13:00:17 +0000</pubDate>
     </item>
     <item>
+      <title>Cyber Signals: Inside the growing risk of gift card fraud</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/05/23/cyber-signals-inside-the-growing-risk-of-gift-card-fraud/</link>
+      <pubDate>Thu, 23 May 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>NVD Leaves Exploited Vulnerabilities Unchecked</title>
       <link>https://www.infosecurity-magazine.com/news/nvd-exploited-vulnerabilities/</link>
       <pubDate>Thu, 23 May 2024 13:00:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>National Records of Scotland Data Breached in NHS Cyber-Attack</title>
       <link>https://www.infosecurity-magazine.com/news/records-scotland-data-nhs-attack/</link>
       <pubDate>Thu, 23 May 2024 11:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Personal AI Assistants and Privacy</title>
-      <link>https://www.schneier.com/blog/archives/2024/05/personal-ai-assistants-and-privacy.html</link>
-      <pubDate>Thu, 23 May 2024 11:00:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
