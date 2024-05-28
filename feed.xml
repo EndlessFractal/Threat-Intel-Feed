@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 20 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 18:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 20:18:06 +0000</lastBuildDate>
+    <item>
+      <title>Ransomware attack on Seattle Public Library knocks out online systems</title>
+      <link>https://therecord.media/ransomware-attack-seattle-knocks-out</link>
+      <pubDate>Tue, 28 May 2024 19:09:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts released PoC exploit code for RCE in Fortinet SIEM</title>
+      <link>https://securityaffairs.com/163797/hacking/fortinet-siem-critical-rce-poc.html</link>
+      <pubDate>Tue, 28 May 2024 18:43:10 +0000</pubDate>
+    </item>
     <item>
       <title>Major Russian delivery company down for three days due to cyberattack</title>
       <link>https://therecord.media/russian-delivery-company-cdek-down-cyberattack</link>
@@ -16,6 +26,11 @@
       <title>Nearly 3 million affected by Sav-Rx data breach</title>
       <link>https://therecord.media/nearly-three-million-compromised-data-breach-savrx</link>
       <pubDate>Tue, 28 May 2024 17:08:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackerOne Spot Checks for On-Demand, Targeted Security Testing</title>
+      <link>https://www.hackerone.com/vulnerability-management/spot-checks</link>
+      <pubDate>Tue, 28 May 2024 16:29:10 +0000</pubDate>
     </item>
     <item>
       <title>Check Point Urges VPN Configuration Review Amid Attack Spike</title>
@@ -283,11 +298,6 @@
       <pubDate>Sun, 26 May 2024 04:11:45 +0000</pubDate>
     </item>
     <item>
-      <title>Fake AV websites used to distribute info-stealer malware</title>
-      <link>https://securityaffairs.com/163673/cyber-crime/fake-av-websites-distribute-malware.html</link>
-      <pubDate>Sat, 25 May 2024 21:20:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Experts Find Flaw in Replicate AI Service Exposing Customers' Models and Data</title>
       <link>https://thehackernews.com/2024/05/experts-find-flaw-in-replicate-ai.html</link>
       <pubDate>Sat, 25 May 2024 09:11:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>csvkit, (Sat, May 25th)</title>
       <link>https://isc.sans.edu/diary/rss/30938</link>
       <pubDate>Sat, 25 May 2024 08:08:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Dana Squid Attacking Camera</title>
-      <link>https://www.schneier.com/blog/archives/2024/05/friday-squid-blogging-dana-squid-attacking-camera.html</link>
-      <pubDate>Fri, 24 May 2024 21:03:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New York's Albany County investigating 'cybersecurity breach' ahead of holiday weekend</title>
-      <link>https://therecord.media/albany-county-new-york-government-cybersecurity-incident</link>
-      <pubDate>Fri, 24 May 2024 20:39:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
