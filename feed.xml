@@ -3,13 +3,33 @@
   <channel>
     <title>EndlessFractal's Threat Intel Feed</title>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
-    <description>A combined RSS feed of the 20 most recent articles from various sources</description>
+    <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 May 2024 16:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 17:41:55 +0000</lastBuildDate>
     <item>
-      <title>Chained Detections | Revolutionizing Adapting Threat Hunting</title>
-      <link>https://www.sentinelone.com/blog/chained-detections-revolutionizing-adapting-threat-hunting/</link>
+      <title>UnitedHealth leaders 'should be held responsible' for installing inexperienced CISO, senator says</title>
+      <link>https://therecord.media/unitedhealth-ciso-wyden-letter-sec-ftc</link>
+      <pubDate>Thu, 30 May 2024 17:14:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>FlyingYeti Exploits WinRAR Vulnerability to Deliver COOKBOX Malware in Ukraine</title>
+      <link>https://thehackernews.com/2024/05/flyingyeti-exploits-winrar.html</link>
+      <pubDate>Thu, 30 May 2024 16:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Parliament member suspected of being paid to promote Russian propaganda</title>
+      <link>https://therecord.media/eu-parliament-member-paid-propaganda</link>
+      <pubDate>Thu, 30 May 2024 16:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of scammers impersonating Malwarebytes</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/05/beware-of-scammers-impersonating-malwarebytes</link>
+      <pubDate>Thu, 30 May 2024 16:33:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chained Detections | Revolutionizing Adaptive Threat Hunting</title>
+      <link>https://www.sentinelone.com/blog/chained-detections-revolutionizing-adaptive-threat-hunting/</link>
       <pubDate>Thu, 30 May 2024 16:19:56 +0000</pubDate>
     </item>
     <item>
@@ -21,11 +41,6 @@
       <title>Introducing Sophos Central Custom Dashboards</title>
       <link>https://news.sophos.com/en-us/2024/05/30/introducing-sophos-central-custom-dashboards/</link>
       <pubDate>Thu, 30 May 2024 16:02:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Super Users Need Super Protection</title>
-      <link>https://symantec-enterprise-blogs.security.com/product-insights/super-users-need-super-protection</link>
-      <pubDate>Thu, 30 May 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Super Users Need Super Protection</title>
@@ -108,16 +123,6 @@
       <pubDate>Thu, 30 May 2024 13:00:38 +0000</pubDate>
     </item>
     <item>
-      <title>All democracies 'struggling’ with foreign manipulation, warns Estonian president</title>
-      <link>https://therecord.media/democracies-struggling-foreign-manipulation-alar-karis</link>
-      <pubDate>Thu, 30 May 2024 12:36:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Negotiations over new NATO cyber center still ongoing weeks from planned launch</title>
-      <link>https://therecord.media/new-nato-cyber-center-belgium-negotiations-continue</link>
-      <pubDate>Thu, 30 May 2024 12:18:06 +0000</pubDate>
-    </item>
-    <item>
       <title>Cloudflare acquires BastionZero to extend Zero Trust access to IT infrastructure</title>
       <link>https://blog.cloudflare.com/cloudflare-acquires-bastionzero</link>
       <pubDate>Thu, 30 May 2024 12:12:02 +0000</pubDate>
@@ -188,7 +193,7 @@
       <pubDate>Thu, 30 May 2024 10:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. Dismantles World's Largest 911 S5 Botnet, with 19 Million Infected Devices</title>
+      <title>U.S. Dismantles World's Largest 911 S5 Botnet with 19 Million Infected Devices</title>
       <link>https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html</link>
       <pubDate>Thu, 30 May 2024 08:55:00 +0000</pubDate>
     </item>
@@ -301,11 +306,6 @@
       <title>New Generative AI category added to Talos reputation services</title>
       <link>https://blog.talosintelligence.com/2024-changes-to-content-and-threat-categories/</link>
       <pubDate>Wed, 29 May 2024 16:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advance Fee Fraud Targets Colleges With Free Piano Offers</title>
-      <link>https://www.infosecurity-magazine.com/news/aff-targets-colleges-free-piano/</link>
-      <pubDate>Wed, 29 May 2024 16:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
