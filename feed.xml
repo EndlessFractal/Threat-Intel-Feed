@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 May 2024 10:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 12:31:12 +0000</lastBuildDate>
+    <item>
+      <title>New banking trojan “CarnavalHeist” targets Brazil with overlay attacks</title>
+      <link>https://blog.talosintelligence.com/new-banking-trojan-carnavalheist-targets-brazil/</link>
+      <pubDate>Fri, 31 May 2024 12:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>LilacSquid APT targeted organizations in the U.S., Europe, and Asia since at least 2021</title>
+      <link>https://securityaffairs.com/163927/apt/lilacsquid-targeted-orgs-in-us-europe-asia.html</link>
+      <pubDate>Fri, 31 May 2024 11:19:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI Will Change Democracy</title>
+      <link>https://www.schneier.com/blog/archives/2024/05/how-ai-will-change-democracy.html</link>
+      <pubDate>Fri, 31 May 2024 11:04:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Threat Detection – A Race to Digital Security</title>
+      <link>https://thehackernews.com/2024/05/beyond-threat-detection-race-to-digital.html</link>
+      <pubDate>Fri, 31 May 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-24919 Detection: Zero-Day Vulnerability Actively Exploited for In-the-Wild Attacks Against Check Point’s VPN Gateway Products</title>
+      <link>https://socprime.com/blog/cve-2024-24919-detection-zero-day-vulnerability-actively-exploited-for-in-the-wild-attacks-against-check-points-vpn-gateway-products/</link>
+      <pubDate>Fri, 31 May 2024 10:43:01 +0000</pubDate>
+    </item>
     <item>
       <title>"K1w1" InfoStealer Uses gofile.io for Exfiltration, (Fri, May 31st)</title>
       <link>https://isc.sans.edu/diary/rss/30972</link>
-      <pubDate>Fri, 31 May 2024 09:46:44 +0000</pubDate>
+      <pubDate>Fri, 31 May 2024 10:40:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>BBC Pension Scheme Breached, Exposing Employee Data</title>
+      <link>https://www.infosecurity-magazine.com/news/bbc-pension-breached-employee-data/</link>
+      <pubDate>Fri, 31 May 2024 10:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Target Europe with HeadLace Malware and Credential Harvesting</title>
+      <link>https://thehackernews.com/2024/05/russian-hackers-target-europe-with.html</link>
+      <pubDate>Fri, 31 May 2024 10:10:00 +0000</pubDate>
     </item>
     <item>
       <title>#Infosec2024: Why Cybersecurity is Critical for the 2024 Paris Olympics</title>
@@ -18,7 +53,7 @@
       <pubDate>Fri, 31 May 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI, Meta, TikTok Disrupt Multiple AI-Powered Disinformation Campaigns</title>
+      <title>OpenAI, Meta, and TikTok Crack Down on Covert Influence Campaigns, Some AI-Powered</title>
       <link>https://thehackernews.com/2024/05/openai-meta-tiktok-disrupt-multiple-ai.html</link>
       <pubDate>Fri, 31 May 2024 08:11:00 +0000</pubDate>
     </item>
@@ -271,41 +306,6 @@
       <title>Law enforcement operation dismantled 911 S5 botnet</title>
       <link>https://securityaffairs.com/163858/cyber-crime/law-enforcement-dismantled-911-s5-botnet.html</link>
       <pubDate>Thu, 30 May 2024 08:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feeding MISP with OSSEC, (Thu, May 30th)</title>
-      <link>https://isc.sans.edu/diary/rss/30968</link>
-      <pubDate>Thu, 30 May 2024 06:56:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okta warns of credential stuffing attacks targeting its Cross-Origin Authentication feature</title>
-      <link>https://securityaffairs.com/163867/cyber-crime/okta-credential-stuffing-cross-origin-authentication.html</link>
-      <pubDate>Thu, 30 May 2024 06:54:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okta Warns of Credential Stuffing Attacks Targeting Customer Identity Cloud</title>
-      <link>https://thehackernews.com/2024/05/okta-warns-of-credential-stuffing.html</link>
-      <pubDate>Thu, 30 May 2024 06:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XMRig CoinMiner Installed via Game Emulator</title>
-      <link>https://asec.ahnlab.com/en/66114/</link>
-      <pubDate>Thu, 30 May 2024 05:22:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>XWorm v5.6 Malware Being Distributed via Webhards</title>
-      <link>https://asec.ahnlab.com/en/66099/</link>
-      <pubDate>Thu, 30 May 2024 05:18:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis of APT Attack Cases Using Dora RAT Against Korean Companies (Andariel Group)</title>
-      <link>https://asec.ahnlab.com/en/66088/</link>
-      <pubDate>Thu, 30 May 2024 05:12:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ticketmaster yet to confirm if data breach has occurred or if customers in Australia impacted</title>
-      <link>https://www.theguardian.com/australia-news/article/2024/may/30/ticketmaster-hack-data-breach-australia-yet-to-confirm</link>
-      <pubDate>Thu, 30 May 2024 04:38:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
