@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jun 2024 04:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 06:21:51 +0000</lastBuildDate>
     <item>
       <title>Ticketek customer details exposed in cyber security breach</title>
       <link>https://www.theguardian.com/technology/article/2024/jun/01/ticketek-customer-details-exposed-in-cyber-security-breach</link>
@@ -61,6 +61,11 @@
       <title>How to tell if a VPN app added your Windows device to a botnet</title>
       <link>https://www.malwarebytes.com/blog/news/2024/05/how-to-tell-if-a-vpn-app-added-your-windows-device-to-a-botnet</link>
       <pubDate>Fri, 31 May 2024 16:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>What happens when facial recognition gets it wrong – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/what-happens-facial-recognition-gets-wrong-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 31 May 2024 13:45:32 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Warns of Surge in Cyber Attacks Targeting Internet-Exposed OT Devices</title>
@@ -300,11 +305,6 @@
     <item>
       <title>Inosoft VisiWin</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-151-03</link>
-      <pubDate>Thu, 30 May 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-releases-seven-industrial-control-systems-advisories</link>
       <pubDate>Thu, 30 May 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
