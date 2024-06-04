@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 16:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 18:21:58 +0000</lastBuildDate>
+    <item>
+      <title>RansomHub gang claims the hack of the telecommunications giant Frontier Communications</title>
+      <link>https://securityaffairs.com/164126/data-breach/ransomhub-gang-hacked-frontier-communications.html</link>
+      <pubDate>Tue, 04 Jun 2024 18:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack disrupts operations of supermarkets across Russia</title>
+      <link>https://therecord.media/cyberattack-disrupts-supermarket-operations-russia</link>
+      <pubDate>Tue, 04 Jun 2024 17:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals attack banking customers in EU with V3B phishing kit – PhotoTAN and SmartID supported.</title>
+      <link>https://securityaffairs.com/164130/cyber-crime/v3b-phishing-kit.html</link>
+      <pubDate>Tue, 04 Jun 2024 16:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>London Hospitals Cancel Operations Following Ransomware Incident</title>
+      <link>https://www.infosecurity-magazine.com/news/london-hospitals-cancel-operations/</link>
+      <pubDate>Tue, 04 Jun 2024 16:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Infosec2024 Ransomware: The Key Updates You Need to Know</title>
+      <link>https://www.infosecurity-magazine.com/news/infosec2024-ransomware-key-updates/</link>
+      <pubDate>Tue, 04 Jun 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Wireshark Lua Dissector for Fixed Field Length Protocols, (Mon, Jun 3rd)</title>
+      <link>https://isc.sans.edu/diary/rss/30976</link>
+      <pubDate>Tue, 04 Jun 2024 16:28:58 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco Live 2024: Cisco Unveils AI Deployment Solution With NVIDIA</title>
       <link>https://www.techrepublic.com/article/cisco-live-2024-nvidia-nexus-hyperfabric/</link>
@@ -43,7 +73,7 @@
       <pubDate>Tue, 04 Jun 2024 14:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>#Infosec2024: How to Develop Your Future Team</title>
+      <title>#Infosec2024: How to Develop Your Future Cybersecurity Team</title>
       <link>https://www.infosecurity-magazine.com/news/infosec2024-develop-future-team/</link>
       <pubDate>Tue, 04 Jun 2024 14:15:00 +0000</pubDate>
     </item>
@@ -56,6 +86,11 @@
       <title>New Multi-Stage Malware Targets Windows Users in Ukraine</title>
       <link>https://www.infosecurity-magazine.com/news/multi-stage-malware-targets/</link>
       <pubDate>Tue, 04 Jun 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No-Defender, Yes-Defender, (Tue, Jun 4th)</title>
+      <link>https://isc.sans.edu/diary/rss/30980</link>
+      <pubDate>Tue, 04 Jun 2024 13:26:45 +0000</pubDate>
     </item>
     <item>
       <title>#Infosec24: Enterprise Browser Touted as Solution to GenAI Privacy Risks</title>
@@ -163,11 +198,6 @@
       <pubDate>Mon, 03 Jun 2024 19:37:55 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberattack on telecom giant Frontier claimed by RansomHub</title>
-      <link>https://therecord.media/frontier-communications-cyberattack-ransomhub</link>
-      <pubDate>Mon, 03 Jun 2024 19:26:59 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA adds Oracle WebLogic Server flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/164094/hacking/cisa-adds-oracle-weblogic-server-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Mon, 03 Jun 2024 18:29:03 +0000</pubDate>
@@ -175,11 +205,6 @@
     <item>
       <title>How to Start a Career in Cybersecurity</title>
       <link>https://www.techrepublic.com/resource-library/downloads/how-to-start-career-in-cybersecurity/</link>
-      <pubDate>Mon, 03 Jun 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft is again named the overall leader in the Forrester Wave for XDR</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/06/03/microsoft-is-again-named-the-overall-leader-in-the-forrester-wave-for-xdr/</link>
       <pubDate>Mon, 03 Jun 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -263,11 +288,6 @@
       <pubDate>Mon, 03 Jun 2024 11:04:18 +0000</pubDate>
     </item>
     <item>
-      <title>A Wireshark Lua Dissector for Fixed Field Length Protocols, (Mon, Jun 3rd)</title>
-      <link>https://isc.sans.edu/diary/rss/30976</link>
-      <pubDate>Mon, 03 Jun 2024 11:00:11 +0000</pubDate>
-    </item>
-    <item>
       <title>SASE Threat Report: 8 Key Findings for Enterprise Security</title>
       <link>https://thehackernews.com/2024/06/sase-threat-report-8-key-findings-for.html</link>
       <pubDate>Mon, 03 Jun 2024 10:56:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Price Drop: Learn Cybersecurity Skills From Scratch for Just $35</title>
       <link>https://www.techrepublic.com/article/the-2023-complete-cyber-security-ethical-hacking-certification-bundle/</link>
       <pubDate>Mon, 03 Jun 2024 10:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>IT threat evolution in Q1 2024. Mobile statistics</title>
-      <link>https://securelist.com/it-threat-evolution-q1-2024-mobile-statistics/112750/</link>
-      <pubDate>Mon, 03 Jun 2024 10:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>IT threat evolution Q1 2024</title>
-      <link>https://securelist.com/it-threat-evolution-q1-2024/112742/</link>
-      <pubDate>Mon, 03 Jun 2024 10:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>IT threat evolution in Q1 2024. Non-mobile statistics</title>
-      <link>https://securelist.com/it-threat-evolution-q1-2024-pc-statistics/112754/</link>
-      <pubDate>Mon, 03 Jun 2024 10:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT28 targets key networks in Europe with HeadLace malware</title>
-      <link>https://securityaffairs.com/164061/apt/apt28-headlace-malware-europe.html</link>
-      <pubDate>Mon, 03 Jun 2024 09:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
