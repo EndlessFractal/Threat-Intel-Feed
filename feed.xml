@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 02:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 04:22:16 +0000</lastBuildDate>
     <item>
       <title>Warning Against Phishing Emails Prompting Execution of Commands via Paste (CTRL+V)</title>
       <link>https://asec.ahnlab.com/en/66300/</link>
@@ -16,6 +16,11 @@
       <title>Attacks Targeting MS-SQL Servers Detected by AhnLab EDR</title>
       <link>https://asec.ahnlab.com/en/66282/</link>
       <pubDate>Wed, 05 Jun 2024 02:03:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, June 5th, 2024 https://isc.sans.edu/podcastdetail/9010, (Wed, Jun 5th)</title>
+      <link>https://isc.sans.edu/diary/rss/30982</link>
+      <pubDate>Wed, 05 Jun 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
       <title>A ransomware attack on Synnovis impacted several London hospitals</title>
@@ -63,6 +68,11 @@
       <pubDate>Tue, 04 Jun 2024 17:22:02 +0000</pubDate>
     </item>
     <item>
+      <title>AI jailbreaks: What they are and how they can be mitigated</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/</link>
+      <pubDate>Tue, 04 Jun 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cybercriminals attack banking customers in EU with V3B phishing kit – PhotoTAN and SmartID supported.</title>
       <link>https://securityaffairs.com/164130/cyber-crime/v3b-phishing-kit.html</link>
       <pubDate>Tue, 04 Jun 2024 16:53:09 +0000</pubDate>
@@ -81,6 +91,11 @@
       <title>Cisco Live 2024: Cisco Unveils AI Deployment Solution With NVIDIA</title>
       <link>https://www.techrepublic.com/article/cisco-live-2024-nvidia-nexus-hyperfabric/</link>
       <pubDate>Tue, 04 Jun 2024 16:06:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>The four stages of creating a trust fabric with identity and network security</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/06/04/the-four-stages-of-creating-a-trust-fabric-with-identity-and-network-security/</link>
+      <pubDate>Tue, 04 Jun 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Privacy abuses will meet ‘full force of the law’ from new Texas unit, attorney general says</title>
@@ -228,6 +243,11 @@
       <pubDate>Mon, 03 Jun 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft is again named the overall leader in the Forrester Wave for XDR</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/06/03/microsoft-is-again-named-the-overall-leader-in-the-forrester-wave-for-xdr/</link>
+      <pubDate>Mon, 03 Jun 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>HackerOne's List of Top 10 AI EMB(arrassments)</title>
       <link>https://www.hackerone.com/ai/top-10-ai-embarrassments</link>
       <pubDate>Mon, 03 Jun 2024 16:00:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/06/03/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Do Password Managers Work and Why Do You Need One?</title>
-      <link>https://www.techrepublic.com/article/how-do-password-managers-work/</link>
-      <pubDate>Mon, 03 Jun 2024 11:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Reasons Why You Should Use a Password Manager</title>
-      <link>https://www.techrepublic.com/article/5-reasons-why-you-should-use-a-password-manager/</link>
-      <pubDate>Mon, 03 Jun 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seeing Like a Data Structure</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/seeing-like-a-data-structure.html</link>
-      <pubDate>Mon, 03 Jun 2024 11:06:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Will Increase the Quantity—and Quality—of Phishing Scams</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/ai-will-increase-the-quantity-and-quality-of-phishing-scams.html</link>
-      <pubDate>Mon, 03 Jun 2024 11:04:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
