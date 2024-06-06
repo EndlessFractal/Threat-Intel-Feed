@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 16:21:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 18:21:51 +0000</lastBuildDate>
+    <item>
+      <title>The sliding doors of misinformation that come with AI-generated search results</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-june-6-2024/</link>
+      <pubDate>Thu, 06 Jun 2024 18:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Linux version of TargetCompany ransomware targets VMware ESXi environments</title>
+      <link>https://securityaffairs.com/164219/cyber-crime/linux-version-targetcompany-ransomware.html</link>
+      <pubDate>Thu, 06 Jun 2024 17:58:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Infosec2024: CISOs Need to Move Beyond Passwords to Keep Up With Security Threats</title>
+      <link>https://www.infosecurity-magazine.com/news/infosec2024-passwordless-future/</link>
+      <pubDate>Thu, 06 Jun 2024 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Infosec2024: Ransomware Ecosystem Transformed, New Groups “Changing the Rules”</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-transformed-new-groups/</link>
+      <pubDate>Thu, 06 Jun 2024 16:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackerOne Company Values Matter: Execute with Excellence</title>
+      <link>https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence</link>
+      <pubDate>Thu, 06 Jun 2024 15:53:25 +0000</pubDate>
+    </item>
     <item>
       <title>Espionage with a Drone</title>
       <link>https://www.schneier.com/blog/archives/2024/06/espionage-with-a-drone.html</link>
@@ -208,6 +233,11 @@
       <pubDate>Wed, 05 Jun 2024 16:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>NIST CSF 2.0 and Pentesting: What You Need to Know</title>
+      <link>https://www.hackerone.com/security-compliance/nist-csf-pentesting</link>
+      <pubDate>Wed, 05 Jun 2024 16:00:10 +0000</pubDate>
+    </item>
+    <item>
       <title>FBI Warns of Rise in Work-From-Home Scams</title>
       <link>https://www.infosecurity-magazine.com/news/fbi-warns-rise-wfh-scams/</link>
       <pubDate>Wed, 05 Jun 2024 15:30:00 +0000</pubDate>
@@ -223,14 +253,14 @@
       <pubDate>Wed, 05 Jun 2024 15:05:00 +0000</pubDate>
     </item>
     <item>
+      <title>Hack My Career: Advice from HackerOne Employees</title>
+      <link>https://www.hackerone.com/culture-and-talent/hack-my-career-advice-hackerone-employees</link>
+      <pubDate>Wed, 05 Jun 2024 14:48:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Brute Force Attacks Against Watchguard VPN Endpoints, (Wed, Jun 5th)</title>
       <link>https://isc.sans.edu/diary/rss/30984</link>
       <pubDate>Wed, 05 Jun 2024 14:05:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2024: 104 EU Laws Have Different Definitions of Cybersecurity</title>
-      <link>https://www.infosecurity-magazine.com/news/104-eu-laws-different-definitions/</link>
-      <pubDate>Wed, 05 Jun 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cisco addressed Webex flaws used to compromise German government meetings</title>
@@ -241,11 +271,6 @@
       <title>Financial sextortion scams on the rise</title>
       <link>https://www.malwarebytes.com/blog/news/2024/06/financial-sextortion-scams-on-the-rise</link>
       <pubDate>Wed, 05 Jun 2024 13:30:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2024: Go Back to Basics With Risk Management to Tackle AI Risk</title>
-      <link>https://www.infosecurity-magazine.com/news/basics-risk-management-tackle-ai/</link>
-      <pubDate>Wed, 05 Jun 2024 13:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2024</title>
@@ -281,31 +306,6 @@
       <title>CNN, Paris Hilton, and Sony TikTok accounts hacked via DMs</title>
       <link>https://securityaffairs.com/164158/hacking/tiktok-accounts-hacked-via-dms.html</link>
       <pubDate>Wed, 05 Jun 2024 11:04:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Online Privacy and Overfishing</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/online-privacy-and-overfishing.html</link>
-      <pubDate>Wed, 05 Jun 2024 11:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unpacking 2024's SaaS Threat Predictions</title>
-      <link>https://thehackernews.com/2024/06/unpacking-2024s-saas-threat-predictions.html</link>
-      <pubDate>Wed, 05 Jun 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are Password Managers Safe to Use? (Benefits, Risks &amp; Best Practices)</title>
-      <link>https://www.techrepublic.com/article/are-password-managers-safe/</link>
-      <pubDate>Wed, 05 Jun 2024 10:50:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rebranded Knight Ransomware Targeting Healthcare and Businesses Worldwide</title>
-      <link>https://thehackernews.com/2024/06/rebranded-knight-ransomware-targeting.html</link>
-      <pubDate>Wed, 05 Jun 2024 10:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big name TikTok accounts hijacked after opening DM</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/06/big-name-tiktok-accounts-hijacked-after-opening-dm</link>
-      <pubDate>Wed, 05 Jun 2024 10:03:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
