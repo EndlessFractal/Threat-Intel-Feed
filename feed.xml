@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 14:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 16:19:23 +0000</lastBuildDate>
+    <item>
+      <title>PHP addressed critical RCE flaw potentially impacting millions of servers</title>
+      <link>https://securityaffairs.com/164302/breaking-news/php-critical-rce.html</link>
+      <pubDate>Sun, 09 Jun 2024 13:27:03 +0000</pubDate>
+    </item>
     <item>
       <title>The Evolving Cyber Landscape: Insights from 2024 Reports</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-evolving-cyber-landscape-insights-from-2024-reports</link>
@@ -301,11 +306,6 @@
       <title>Advance Auto Parts customer data posted for sale</title>
       <link>https://www.malwarebytes.com/blog/news/2024/06/advance-auto-parts-customer-data-posted-for-sale</link>
       <pubDate>Thu, 06 Jun 2024 12:57:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2024: How to Change Security Behaviors Beyond Awareness Training</title>
-      <link>https://www.infosecurity-magazine.com/news/change-security-behaviors-training/</link>
-      <pubDate>Thu, 06 Jun 2024 12:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
