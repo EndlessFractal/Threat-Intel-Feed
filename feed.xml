@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 20:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 22:16:35 +0000</lastBuildDate>
+    <item>
+      <title>Attacker Probing for New PHP Vulnerablity CVE-2024-4577, (Sun, Jun 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/30994</link>
+      <pubDate>Sun, 09 Jun 2024 21:03:28 +0000</pubDate>
+    </item>
     <item>
       <title>PHP addressed critical RCE flaw potentially impacting millions of servers</title>
       <link>https://securityaffairs.com/164302/breaking-news/php-critical-rce.html</link>
@@ -301,11 +306,6 @@
       <title>AI-driven compliance: The key to cloud security</title>
       <link>https://securityintelligence.com/posts/ai-driven-compliance-key-to-cloud-security/</link>
       <pubDate>Thu, 06 Jun 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advance Auto Parts customer data posted for sale</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/06/advance-auto-parts-customer-data-posted-for-sale</link>
-      <pubDate>Thu, 06 Jun 2024 12:57:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
