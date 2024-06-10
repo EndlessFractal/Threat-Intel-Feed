@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Jun 2024 08:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 10:19:09 +0000</lastBuildDate>
+    <item>
+      <title>Bypassing 2FA with phishing and OTP bots</title>
+      <link>https://securelist.com/2fa-phishing/112805/</link>
+      <pubDate>Mon, 10 Jun 2024 10:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actor Claims to Leak 270GB of New York Times Data</title>
+      <link>https://www.infosecurity-magazine.com/news/threat-actor-leak-270gb-new-york/</link>
+      <pubDate>Mon, 10 Jun 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NHS Appeals For Blood and Volunteers After Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/nhs-appeal-blood-volunteers/</link>
+      <pubDate>Mon, 10 Jun 2024 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Your Business Can Benefit from a Network Security Policy</title>
+      <link>https://www.techrepublic.com/article/how-your-business-can-benefit-from-network-security-policy/</link>
+      <pubDate>Mon, 10 Jun 2024 08:05:27 +0000</pubDate>
+    </item>
     <item>
       <title>A week in security (June 3 – June 9)</title>
       <link>https://www.malwarebytes.com/blog/news/2024/06/a-week-in-security-june-3-june-9</link>
@@ -16,6 +36,11 @@
       <title>Sticky Werewolf Expands Cyber Attack Targets in Russia and Belarus</title>
       <link>https://thehackernews.com/2024/06/sticky-werewolf-expands-cyber-attack.html</link>
       <pubDate>Mon, 10 Jun 2024 05:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware tracker: The latest figures [June 2024]</title>
+      <link>https://therecord.media/ransomware-tracker-the-latest-figures</link>
+      <pubDate>Mon, 10 Jun 2024 02:15:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Monday, June 10th, 2024 https://isc.sans.edu/podcastdetail/9016, (Mon, Jun 10th)</title>
@@ -83,9 +108,24 @@
       <pubDate>Fri, 07 Jun 2024 20:55:28 +0000</pubDate>
     </item>
     <item>
+      <title>Frontier says 750,000 Social Security numbers accessed during April cyberattack</title>
+      <link>https://therecord.media/frontier-provides-new-details-april-ransomware-attack</link>
+      <pubDate>Fri, 07 Jun 2024 20:33:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Defeating the Monster (Part 2)</title>
       <link>https://symantec-enterprise-blogs.security.com/product-insights/defeating-monster-part-2</link>
       <pubDate>Fri, 07 Jun 2024 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft reverses course, makes Recall feature opt-in only after security backlash</title>
+      <link>https://therecord.media/microsoft-reverses-course-recall-opt-in</link>
+      <pubDate>Fri, 07 Jun 2024 18:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK election campaigns ignore London hospitals cyberattack despite disruption</title>
+      <link>https://therecord.media/uk-election-campaigns-ignore-london-attacks</link>
+      <pubDate>Fri, 07 Jun 2024 18:04:41 +0000</pubDate>
     </item>
     <item>
       <title>Google will start deleting location history</title>
@@ -101,6 +141,11 @@
       <title>LightSpy Spyware's macOS Variant Found with Advanced Surveillance Capabilities</title>
       <link>https://thehackernews.com/2024/06/lightspy-spywares-macos-variant-found.html</link>
       <pubDate>Fri, 07 Jun 2024 15:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-linked Vermin hackers target Ukrainian military in new espionage campaign</title>
+      <link>https://therecord.media/russian-vermin-hackers-target-ukraine</link>
+      <pubDate>Fri, 07 Jun 2024 15:18:29 +0000</pubDate>
     </item>
     <item>
       <title>16-year-old arrested in France in connection with high-profile Epsilon hacking group attacks</title>
@@ -261,51 +306,6 @@
       <title>HackerOne Company Values Matter: Execute with Excellence</title>
       <link>https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence</link>
       <pubDate>Thu, 06 Jun 2024 15:53:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Espionage with a Drone</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/espionage-with-a-drone.html</link>
-      <pubDate>Thu, 06 Jun 2024 15:51:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hit by LockBit? The FBI is waiting to help you with over 7,000 decryption keys</title>
-      <link>https://www.tripwire.com/state-of-security/hit-lockbit-fbi-waiting-help-you-over-7000-decryption-keys</link>
-      <pubDate>Thu, 06 Jun 2024 15:41:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2024: AI Red Teaming Provider Mindgard Named UK's Most Innovative Cyber SME</title>
-      <link>https://www.infosecurity-magazine.com/news/infosec-ai-red-teaming-mindgard/</link>
-      <pubDate>Thu, 06 Jun 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Some Generative AI Company Employees Pen Letter Wanting ‘Right to Warn’ About Risks</title>
-      <link>https://www.techrepublic.com/article/openai-google-deepmind-right-to-warn/</link>
-      <pubDate>Thu, 06 Jun 2024 14:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2024: Experts Share How CISOs Can Manage Change as the Only Constant</title>
-      <link>https://www.infosecurity-magazine.com/news/infosec2024-cisos-manage-change/</link>
-      <pubDate>Thu, 06 Jun 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muhstik Botnet Exploiting Apache RocketMQ Flaw to Expand DDoS Attacks</title>
-      <link>https://thehackernews.com/2024/06/muhstik-botnet-exploiting-apache.html</link>
-      <pubDate>Thu, 06 Jun 2024 13:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2024: Third of Web Traffic Comes from Malicious Bots, Veracity Says</title>
-      <link>https://www.infosecurity-magazine.com/news/third-web-traffic-malicious-bots/</link>
-      <pubDate>Thu, 06 Jun 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-driven compliance: The key to cloud security</title>
-      <link>https://securityintelligence.com/posts/ai-driven-compliance-key-to-cloud-security/</link>
-      <pubDate>Thu, 06 Jun 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advance Auto Parts customer data posted for sale</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/06/advance-auto-parts-customer-data-posted-for-sale</link>
-      <pubDate>Thu, 06 Jun 2024 12:57:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
