@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 14:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 16:21:49 +0000</lastBuildDate>
+    <item>
+      <title>Semiconductor giants Nvidia and Arm warn of new flaws in their graphics processors</title>
+      <link>https://therecord.media/nvidia-arm-semiconductor-flaws-patches</link>
+      <pubDate>Tue, 11 Jun 2024 15:47:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing Attacks Targeting US and European Organizations Double</title>
+      <link>https://www.infosecurity-magazine.com/news/phishing-attacks-us-europe-double/</link>
+      <pubDate>Tue, 11 Jun 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale</title>
+      <link>https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html</link>
+      <pubDate>Tue, 11 Jun 2024 14:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dutch intelligence says Chinese hacking campaign ‘more extensive’ than previously known</title>
+      <link>https://therecord.media/dutch-intelligence-fortigate-vulnerability-espionage</link>
+      <pubDate>Tue, 11 Jun 2024 14:21:01 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actor Breaches Snowflake Customers, Victims Extorted</title>
       <link>https://www.infosecurity-magazine.com/news/threat-actor-breaches-snowflake/</link>
@@ -41,6 +61,31 @@
       <title>MicroDicom DICOM Viewer</title>
       <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-24-163-01</link>
       <pubDate>Tue, 11 Jun 2024 12:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVEVA PI Web API</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-163-02</link>
+      <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intrado 911 Emergency Gateway</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-163-04</link>
+      <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation ControlLogix, GuardLogix, and CompactLogix</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-163-01</link>
+      <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVEVA PI Asset Framework Client</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-163-03</link>
+      <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Six Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>23andMe data breach under joint investigation in two countries</title>
@@ -138,9 +183,19 @@
       <pubDate>Tue, 11 Jun 2024 00:44:51 +0000</pubDate>
     </item>
     <item>
+      <title>Israel-Hamas Conflict and US Elections Drive Violent Extremist Threats in 2024</title>
+      <link>https://www.recordedfuture.com/israel-hamas-conflict-and-us-elections-drive-violent-extremist-threats-in-2024</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Japanese video-sharing platform Niconico was victim of a cyber attack</title>
       <link>https://securityaffairs.com/164395/security/niconico-victim-cyber-attack.html</link>
       <pubDate>Mon, 10 Jun 2024 23:06:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto platform UwU Lend dealing with $20 million theft</title>
+      <link>https://therecord.media/uwu-lend-reimbursing-crypto-theft-customers</link>
+      <pubDate>Mon, 10 Jun 2024 21:12:50 +0000</pubDate>
     </item>
     <item>
       <title>UK NHS call for O-type blood donations following ransomware attack on London hospitals</title>
@@ -151,21 +206,6 @@
       <title>As markup nears, knives come out for comprehensive data privacy legislation</title>
       <link>https://therecord.media/apra-markup-nears-knives-out-data</link>
       <pubDate>Mon, 10 Jun 2024 19:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber incident forces Cleveland to shut down city hall</title>
-      <link>https://therecord.media/cyber-incident-cleveland-city-hall-shutdown</link>
-      <pubDate>Mon, 10 Jun 2024 17:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Privacy authorities in Canada and UK announce joint probe of 23andMe data breach</title>
-      <link>https://therecord.media/23andme-data-breach-canada-uk-privacy-investigation</link>
-      <pubDate>Mon, 10 Jun 2024 17:45:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vietnam’s state postal service claims to restore its systems after cyberattack</title>
-      <link>https://therecord.media/vietnam-claims-restore-services-cyberattack</link>
-      <pubDate>Mon, 10 Jun 2024 17:10:16 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Real-Time CWPP for Amazon ECS Fargate</title>
@@ -266,46 +306,6 @@
       <title>How Your Business Can Benefit from a Network Security Policy</title>
       <link>https://www.techrepublic.com/article/how-your-business-can-benefit-from-network-security-policy/</link>
       <pubDate>Mon, 10 Jun 2024 08:05:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (June 3 – June 9)</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/06/a-week-in-security-june-3-june-9</link>
-      <pubDate>Mon, 10 Jun 2024 07:01:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sticky Werewolf Expands Cyber Attack Targets in Russia and Belarus</title>
-      <link>https://thehackernews.com/2024/06/sticky-werewolf-expands-cyber-attack.html</link>
-      <pubDate>Mon, 10 Jun 2024 05:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, June 10th, 2024 https://isc.sans.edu/podcastdetail/9016, (Mon, Jun 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/30996</link>
-      <pubDate>Mon, 10 Jun 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontier Communications data breach impacted over 750,000 individuals</title>
-      <link>https://securityaffairs.com/164315/data-breach/frontier-communications-data-breach.html</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attacker Probing for New PHP Vulnerablity CVE-2024-4577, (Sun, Jun 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/30994</link>
-      <pubDate>Sun, 09 Jun 2024 21:03:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>PHP addressed critical RCE flaw potentially impacting millions of servers</title>
-      <link>https://securityaffairs.com/164302/breaking-news/php-critical-rce.html</link>
-      <pubDate>Sun, 09 Jun 2024 13:27:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Evolving Cyber Landscape: Insights from 2024 Reports</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-evolving-cyber-landscape-insights-from-2024-reports</link>
-      <pubDate>Sun, 09 Jun 2024 09:18:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 475 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/164292/security/security-affairs-newsletter-round-475-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 09 Jun 2024 08:56:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
