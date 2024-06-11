@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 12:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 14:15:55 +0000</lastBuildDate>
+    <item>
+      <title>Threat Actor Breaches Snowflake Customers, Victims Extorted</title>
+      <link>https://www.infosecurity-magazine.com/news/threat-actor-breaches-snowflake/</link>
+      <pubDate>Tue, 11 Jun 2024 13:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-29849 Detection: A Critical Auth Bypass In Veeam Backup Enterprise Manager</title>
+      <link>https://socprime.com/blog/cve-2024-29849-detection-a-critical-auth-bypass-in-veeam-backup-enterprise-manager/</link>
+      <pubDate>Tue, 11 Jun 2024 13:34:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Switzerland notes increase in cyberattacks ahead of Ukraine peace summit</title>
+      <link>https://therecord.media/ukraine-peace-summit-switzerland-cyberattacks-warning</link>
+      <pubDate>Tue, 11 Jun 2024 13:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Block Attacks with SentinelOne’s AI-Powered CNAPP</title>
+      <link>https://www.sentinelone.com/blog/block-attacks-with-sentinelones-ai-powered-cnapp/</link>
+      <pubDate>Tue, 11 Jun 2024 13:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use 1Password: A Guide for Beginners</title>
+      <link>https://www.techrepublic.com/article/how-to-use-1password/</link>
+      <pubDate>Tue, 11 Jun 2024 13:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arm zero-day in Mali GPU Drivers actively exploited in the wild</title>
+      <link>https://securityaffairs.com/164430/hacking/arm-zero-day-actively-exploited.html</link>
+      <pubDate>Tue, 11 Jun 2024 12:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>MicroDicom DICOM Viewer</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-24-163-01</link>
+      <pubDate>Tue, 11 Jun 2024 12:44:26 +0000</pubDate>
+    </item>
     <item>
       <title>23andMe data breach under joint investigation in two countries</title>
       <link>https://www.malwarebytes.com/blog/news/2024/06/23andme-data-breach-under-joint-investigation-in-two-countries</link>
@@ -111,6 +146,26 @@
       <title>UK NHS call for O-type blood donations following ransomware attack on London hospitals</title>
       <link>https://securityaffairs.com/164386/cyber-crime/uk-nhs-blood-donations-ransomware-attack-london-hospitals.html</link>
       <pubDate>Mon, 10 Jun 2024 20:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>As markup nears, knives come out for comprehensive data privacy legislation</title>
+      <link>https://therecord.media/apra-markup-nears-knives-out-data</link>
+      <pubDate>Mon, 10 Jun 2024 19:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber incident forces Cleveland to shut down city hall</title>
+      <link>https://therecord.media/cyber-incident-cleveland-city-hall-shutdown</link>
+      <pubDate>Mon, 10 Jun 2024 17:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privacy authorities in Canada and UK announce joint probe of 23andMe data breach</title>
+      <link>https://therecord.media/23andme-data-breach-canada-uk-privacy-investigation</link>
+      <pubDate>Mon, 10 Jun 2024 17:45:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vietnam’s state postal service claims to restore its systems after cyberattack</title>
+      <link>https://therecord.media/vietnam-claims-restore-services-cyberattack</link>
+      <pubDate>Mon, 10 Jun 2024 17:10:16 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Real-Time CWPP for Amazon ECS Fargate</title>
@@ -251,61 +306,6 @@
       <title>Security Affairs newsletter Round 475 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/164292/security/security-affairs-newsletter-round-475-by-pierluigi-paganini-international-edition.html</link>
       <pubDate>Sun, 09 Jun 2024 08:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>New York Times source code compromised via exposed GitHub token</title>
-      <link>https://securityaffairs.com/164280/data-breach/new-york-times-source-code-leaked.html</link>
-      <pubDate>Sat, 08 Jun 2024 20:34:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New PHP Vulnerability Exposes Windows Servers to Remote Code Execution</title>
-      <link>https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html</link>
-      <pubDate>Sat, 08 Jun 2024 07:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Revamps Controversial AI-Powered Recall Feature Amid Privacy Concerns</title>
-      <link>https://thehackernews.com/2024/06/microsoft-revamps-controversial-ai.html</link>
-      <pubDate>Sat, 08 Jun 2024 06:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SolarWinds fixed multiple flaws in Serv-U and SolarWinds Platform</title>
-      <link>https://securityaffairs.com/164270/security/solarwinds-flaws-serv-u-platform.html</link>
-      <pubDate>Fri, 07 Jun 2024 21:37:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI, Anthropic Research Reveals More About How LLMs Affect Security and Bias</title>
-      <link>https://www.techrepublic.com/article/anthropic-claude-openai-large-language-model-research/</link>
-      <pubDate>Fri, 07 Jun 2024 21:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Squid Catch Quotas in Peru</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/friday-squid-blogging-squid-catch-quotas-in-peru.html</link>
-      <pubDate>Fri, 07 Jun 2024 21:05:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security and Human Behavior (SHB) 2024</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/security-and-human-behavior-shb-2024.html</link>
-      <pubDate>Fri, 07 Jun 2024 20:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defeating the Monster (Part 2)</title>
-      <link>https://symantec-enterprise-blogs.security.com/product-insights/defeating-monster-part-2</link>
-      <pubDate>Fri, 07 Jun 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google will start deleting location history</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/06/google-will-start-deleting-location-history</link>
-      <pubDate>Fri, 07 Jun 2024 16:26:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultimate Cyber Hygiene Guide: Learn How to Simplify Your Security Efforts</title>
-      <link>https://thehackernews.com/2024/06/ultimate-cyber-hygiene-guide-learn-how.html</link>
-      <pubDate>Fri, 07 Jun 2024 15:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LightSpy Spyware's macOS Variant Found with Advanced Surveillance Capabilities</title>
-      <link>https://thehackernews.com/2024/06/lightspy-spywares-macos-variant-found.html</link>
-      <pubDate>Fri, 07 Jun 2024 15:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
