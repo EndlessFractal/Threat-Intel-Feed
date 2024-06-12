@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 14:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 16:21:41 +0000</lastBuildDate>
+    <item>
+      <title>WithSecure Reveals Mass Exploitation of Edge Software and Infrastructure Appliances</title>
+      <link>https://www.infosecurity-magazine.com/news/withsecure-exploitation-edge/</link>
+      <pubDate>Wed, 12 Jun 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No AI training in newly distrusted Terms of Service, Adobe says</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/06/no-ai-training-in-newly-distrusted-terms-of-service-adobe-says</link>
+      <pubDate>Wed, 12 Jun 2024 15:28:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian police identify suspected affiliate of Conti, LockBit groups</title>
+      <link>https://therecord.media/ukraine-suspected-lockbit-conti-affiliate</link>
+      <pubDate>Wed, 12 Jun 2024 15:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>No FISA fix in annual intelligence policy bill approved by House panel</title>
+      <link>https://therecord.media/house-intel-committee-approves-bill</link>
+      <pubDate>Wed, 12 Jun 2024 14:37:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Spider Now Affiliated with RansomHub Following BlackCat Exit</title>
+      <link>https://www.infosecurity-magazine.com/news/scattered-spider-affiliated/</link>
+      <pubDate>Wed, 12 Jun 2024 14:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cryptojacking Campaign Targets Misconfigured Kubernetes Clusters</title>
       <link>https://thehackernews.com/2024/06/cryptojacking-campaign-targets.html</link>
@@ -40,6 +65,16 @@
     <item>
       <title>Chinese Hackers Leveraging 'Noodle RAT' Backdoor</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-noodle-rat-backdoor/</link>
+      <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phone Scammers Impersonating CISA Employees</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees</link>
+      <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -183,11 +218,6 @@
       <pubDate>Tue, 11 Jun 2024 16:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Semiconductor giants Nvidia and Arm warn of new flaws in their graphics processors</title>
-      <link>https://therecord.media/nvidia-arm-semiconductor-flaws-patches</link>
-      <pubDate>Tue, 11 Jun 2024 15:47:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Phishing Attacks Targeting US and European Organizations Double</title>
       <link>https://www.infosecurity-magazine.com/news/phishing-attacks-us-europe-double/</link>
       <pubDate>Tue, 11 Jun 2024 15:00:00 +0000</pubDate>
@@ -196,11 +226,6 @@
       <title>Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale</title>
       <link>https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html</link>
       <pubDate>Tue, 11 Jun 2024 14:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch intelligence says Chinese hacking campaign ‘more extensive’ than previously known</title>
-      <link>https://therecord.media/dutch-intelligence-fortigate-vulnerability-espionage</link>
-      <pubDate>Tue, 11 Jun 2024 14:21:01 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actor Breaches Snowflake Customers, Victims Extorted</title>
@@ -258,13 +283,13 @@
       <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Releases Six Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories</link>
+      <title>Microsoft Releases June 2024 Security Updates</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates</link>
       <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Releases June 2024 Security Updates</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates</link>
+      <title>CISA Releases Six Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories</link>
       <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>Top 10 Critical Pentest Findings 2024: What You Need to Know</title>
       <link>https://thehackernews.com/2024/06/top-10-critical-pentest-findings-2024.html</link>
       <pubDate>Tue, 11 Jun 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>When things go wrong: A digital sharing warning for couples</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/06/when-things-go-wrong-a-digital-sharing-warning-for-couples</link>
-      <pubDate>Tue, 11 Jun 2024 10:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s Chrome changes make life harder for ad blockers</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/06/google-makes-life-hard-for-ad-blockers-by-changes-in-chrome</link>
-      <pubDate>Tue, 11 Jun 2024 10:45:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Police Arrest Two People for Smishing via Fake Cell Tower</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-police-smishing-fake-cell-tower/</link>
-      <pubDate>Tue, 11 Jun 2024 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOC Prime Introduces a Fair Usage Policy</title>
-      <link>https://socprime.com/blog/soc-prime-introduces-a-fair-usage-policy/</link>
-      <pubDate>Tue, 11 Jun 2024 10:17:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Launches Private Cloud Compute for Privacy-Centric AI Processing</title>
-      <link>https://thehackernews.com/2024/06/apple-integrates-openais-chatgpt-into.html</link>
-      <pubDate>Tue, 11 Jun 2024 10:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
