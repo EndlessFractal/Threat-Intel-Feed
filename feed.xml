@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 16:21:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 18:22:50 +0000</lastBuildDate>
+    <item>
+      <title>Indiana cop who used Clearview AI facial recognition tech for personal reasons resigns</title>
+      <link>https://therecord.media/indiana-cop-clearview-use-resigns</link>
+      <pubDate>Wed, 12 Jun 2024 17:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Basta ransomware gang may have exploited Windows flaw before it was patched</title>
+      <link>https://therecord.media/black-basta-ransomware-zero-day-windows</link>
+      <pubDate>Wed, 12 Jun 2024 16:31:36 +0000</pubDate>
+    </item>
     <item>
       <title>WithSecure Reveals Mass Exploitation of Edge Software and Infrastructure Appliances</title>
       <link>https://www.infosecurity-magazine.com/news/withsecure-exploitation-edge/</link>
@@ -61,6 +71,11 @@
       <title>CVE-2024-4577 Detection: A New Easy-to-Exploit PHP Vulnerability Could Lead to RCE</title>
       <link>https://socprime.com/blog/cve-2024-4577-detection-a-new-easy-to-exploit-php-vulnerability-could-lead-to-rce/</link>
       <pubDate>Wed, 12 Jun 2024 12:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>NIST’s International Cybersecurity and Privacy Engagement Update – Mexico City, RSA Conference, and More</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/nists-international-cybersecurity-and-privacy-engagement-update-mexico</link>
+      <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chinese Hackers Leveraging 'Noodle RAT' Backdoor</title>
@@ -188,19 +203,9 @@
       <pubDate>Tue, 11 Jun 2024 22:57:35 +0000</pubDate>
     </item>
     <item>
-      <title>Data broker shuts down product related to driver behavior patterns</title>
-      <link>https://therecord.media/data-broker-shuts-product-driver-patterns</link>
-      <pubDate>Tue, 11 Jun 2024 21:19:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Patch Tuesday June 2024, (Tue, Jun 11th)</title>
       <link>https://isc.sans.edu/diary/rss/31000</link>
       <pubDate>Tue, 11 Jun 2024 19:06:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>US and Poland to fight together against Russian disinformation</title>
-      <link>https://therecord.media/us-and-poland-russia-disinformation</link>
-      <pubDate>Tue, 11 Jun 2024 18:18:56 +0000</pubDate>
     </item>
     <item>
       <title>Cylance confirms the legitimacy of data offered for sale in the dark web</title>
@@ -301,11 +306,6 @@
       <title>LLMs Acting Deceptively</title>
       <link>https://www.schneier.com/blog/archives/2024/06/llms-acting-deceptively.html</link>
       <pubDate>Tue, 11 Jun 2024 11:02:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 10 Critical Pentest Findings 2024: What You Need to Know</title>
-      <link>https://thehackernews.com/2024/06/top-10-critical-pentest-findings-2024.html</link>
-      <pubDate>Tue, 11 Jun 2024 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
