@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 14:16:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 16:22:18 +0000</lastBuildDate>
+    <item>
+      <title>Watch out! CISA warns it is being impersonated by scammers</title>
+      <link>https://www.tripwire.com/state-of-security/watch-out-cisa-warns-it-being-impersonated-scammers</link>
+      <pubDate>Thu, 13 Jun 2024 15:36:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ascension Attack Caused by Employee Downloading Malicious File</title>
+      <link>https://www.infosecurity-magazine.com/news/ascension-attack-employee/</link>
+      <pubDate>Thu, 13 Jun 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arid Viper Hackers Spy in Egypt and Palestine Using Android Spyware</title>
+      <link>https://www.infosecurity-magazine.com/news/arid-viper-egypt-palestine-spyware/</link>
+      <pubDate>Thu, 13 Jun 2024 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Attack Technique 'Sleepy Pickle' Targets Machine Learning Models</title>
+      <link>https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html</link>
+      <pubDate>Thu, 13 Jun 2024 14:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>NATO to tackle Russian spying and sabotage operations, says Stoltenberg</title>
       <link>https://therecord.media/nato-russia-sabotage-spies-stoltenberg</link>
       <pubDate>Thu, 13 Jun 2024 13:58:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arid Viper Launches Mobile Espionage Campaign with AridSpy Malware</title>
+      <link>https://thehackernews.com/2024/06/arid-viper-launches-mobile-espionage.html</link>
+      <pubDate>Thu, 13 Jun 2024 13:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google fixed an actively exploited zero-day in the Pixel Firmware</title>
+      <link>https://securityaffairs.com/164500/security/google-fixed-pixel-firmware-zero-day.html</link>
+      <pubDate>Thu, 13 Jun 2024 13:38:48 +0000</pubDate>
     </item>
     <item>
       <title>Update now! Google Pixel vulnerability is under active exploitation</title>
@@ -36,6 +66,66 @@
       <title>VMware Carbon Black vs CrowdStrike Falcon (2024): Which Tool Is Best For Your Business?</title>
       <link>https://www.techrepublic.com/article/carbon-black-vs-crowdstrike/</link>
       <pubDate>Thu, 13 Jun 2024 12:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fuji Electric Tellus Lite V-Simulator</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-14</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SCALANCE XM-400, XR-500</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-11</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Teamcenter Visualization and JT2Go</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-08</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SITOP UPS1600</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-05</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC S7-200 SMART Devices</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-02</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk View SE</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-17</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC Traffic Analyzer</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-13</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC and SIPLUS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-10</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens PowerSys</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-07</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens ST7 ScadaConnect</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-04</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Twenty Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Spy agencies’ foreign influence hub says it is issuing more private warnings</title>
@@ -216,96 +306,6 @@
       <title>NIST’s International Cybersecurity and Privacy Engagement Update – Mexico City, RSA Conference, and More</title>
       <link>https://www.nist.gov/blogs/cybersecurity-insights/nists-international-cybersecurity-and-privacy-engagement-update-mexico</link>
       <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Leveraging 'Noodle RAT' Backdoor</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-noodle-rat-backdoor/</link>
-      <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phone Scammers Impersonating CISA Employees</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees</link>
-      <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of Ransomware in Retail 2024</title>
-      <link>https://news.sophos.com/en-us/2024/06/12/the-state-of-ransomware-in-retail-2024/</link>
-      <pubDate>Wed, 12 Jun 2024 11:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lessons from the Ticketmaster-Snowflake Breach</title>
-      <link>https://thehackernews.com/2024/06/lessons-from-ticketmaster-snowflake.html</link>
-      <pubDate>Wed, 12 Jun 2024 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Basta Ransomware May Have Exploited MS Windows Zero-Day Flaw</title>
-      <link>https://thehackernews.com/2024/06/black-basta-ransomware-may-have.html</link>
-      <pubDate>Wed, 12 Jun 2024 11:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Battered and bruised 23andMe faces probe after hack that stole seven million users’ data</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/battered-and-bruised-23andme-faces-probe-after-hack-that-stole-seven-million-users-data/</link>
-      <pubDate>Wed, 12 Jun 2024 11:05:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using AI for Political Polling</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/using-ai-for-political-polling.html</link>
-      <pubDate>Wed, 12 Jun 2024 11:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>6 Best VPNs for Australia in 2024</title>
-      <link>https://www.techrepublic.com/article/best-vpns-australia/</link>
-      <pubDate>Wed, 12 Jun 2024 10:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>JetBrains fixed IntelliJ IDE flaw exposing GitHub access tokens</title>
-      <link>https://securityaffairs.com/164466/security/jetbrains-fixed-intellij-ide-flaw.html</link>
-      <pubDate>Wed, 12 Jun 2024 10:24:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Attackers May Have Used Privilege Escalation Vulnerability as Zero-day</title>
-      <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/black-basta-ransomware-zero-day</link>
-      <pubDate>Wed, 12 Jun 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patches One Critical and One Zero-Day Vulnerability</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-patches-critica-zeroday/</link>
-      <pubDate>Wed, 12 Jun 2024 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Phishing Campaign Deploys WARMCOOKIE Backdoor Targeting Job Seekers</title>
-      <link>https://thehackernews.com/2024/06/new-phishing-campaign-deploys.html</link>
-      <pubDate>Wed, 12 Jun 2024 08:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese FortiGate Espionage Campaign Snares 20,000+ Victims</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-fortigate-espionage-20000/</link>
-      <pubDate>Wed, 12 Jun 2024 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Backed Hackers Exploit Fortinet Flaw, Infecting 20,000 Systems Globally</title>
-      <link>https://thehackernews.com/2024/06/china-backed-hackers-exploit-fortinet.html</link>
-      <pubDate>Wed, 12 Jun 2024 08:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Trails Behind Europe in Technical Skills Proficiency, Coursera Report Finds</title>
-      <link>https://www.techrepublic.com/article/uk-behind-technical-skills-proficiency-coursera/</link>
-      <pubDate>Wed, 12 Jun 2024 08:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos DNS Protection is now available</title>
-      <link>https://news.sophos.com/en-us/2024/06/12/sophos-dns-protection-is-now-available/</link>
-      <pubDate>Wed, 12 Jun 2024 06:42:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday security updates for June 2024 fixed only one critical issue</title>
-      <link>https://securityaffairs.com/164442/security/microsoft-patch-tuesday-june-2024.html</link>
-      <pubDate>Wed, 12 Jun 2024 05:58:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
