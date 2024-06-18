@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 10:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 12:32:31 +0000</lastBuildDate>
+    <item>
+      <title>Exploring malicious Windows drivers (Part 2): the I/O system, IRPs, stack locations, IOCTLs and more</title>
+      <link>https://blog.talosintelligence.com/exploring-malicious-windows-drivers-part-2/</link>
+      <pubDate>Tue, 18 Jun 2024 12:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quarter of Firms Suffer an API-Related Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/quarter-firms-suffer-api-related/</link>
+      <pubDate>Tue, 18 Jun 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How are attackers trying to bypass MFA?</title>
+      <link>https://blog.talosintelligence.com/how-are-attackers-trying-to-bypass-mfa/</link>
+      <pubDate>Tue, 18 Jun 2024 11:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estonia sentences Russian professor to six years in prison for espionage</title>
+      <link>https://therecord.media/estonia-sentences-russian-professor-espionage</link>
+      <pubDate>Tue, 18 Jun 2024 11:42:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis of user password strength</title>
+      <link>https://securelist.com/passworde-brute-force-time/112984/</link>
+      <pubDate>Tue, 18 Jun 2024 11:30:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Annual SaaS Security Report: 2025 CISO Plans and Priorities</title>
+      <link>https://thehackernews.com/2024/06/the-annual-saas-security-report-2025.html</link>
+      <pubDate>Tue, 18 Jun 2024 11:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Era of Threat Bounty Program</title>
+      <link>https://socprime.com/blog/the-new-era-of-threat-bounty-program/</link>
+      <pubDate>Tue, 18 Jun 2024 11:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rethinking Democracy for the Age of AI</title>
+      <link>https://www.schneier.com/blog/archives/2024/06/rethinking-democracy-for-the-age-of-ai.html</link>
+      <pubDate>Tue, 18 Jun 2024 11:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 5 Best VPNs With Free Trials in 2024</title>
+      <link>https://www.techrepublic.com/article/best-vpn-free-trials/</link>
+      <pubDate>Tue, 18 Jun 2024 10:31:59 +0000</pubDate>
+    </item>
     <item>
       <title>Attack Paths Into VMs in the Cloud</title>
       <link>https://unit42.paloaltonetworks.com/cloud-virtual-machine-attack-vectors/</link>
@@ -63,7 +108,7 @@
       <pubDate>Mon, 17 Jun 2024 21:34:28 +0000</pubDate>
     </item>
     <item>
-      <title>Government and military officials fair targets of Pegasus spyware, NSO Group argues</title>
+      <title>Government and military officials fair targets of Pegasus spyware in all cases, NSO Group argues</title>
       <link>https://therecord.media/government-military-fair-targets-nso-group</link>
       <pubDate>Mon, 17 Jun 2024 21:29:29 +0000</pubDate>
     </item>
@@ -88,14 +133,14 @@
       <pubDate>Mon, 17 Jun 2024 18:51:13 +0000</pubDate>
     </item>
     <item>
-      <title>Empire Market suspects potentially face life in prison for $430 million in dark web sales</title>
-      <link>https://therecord.media/empire-market-suspects-charged-potential-life-sentences</link>
-      <pubDate>Mon, 17 Jun 2024 18:19:52 +0000</pubDate>
-    </item>
-    <item>
       <title>(Almost) everything you always wanted to know about cybersecurity, but were too afraid to ask, with Tjitske de Vries: Lock and Code S05E13</title>
       <link>https://www.malwarebytes.com/blog/podcast/2024/06/almost-everything-you-always-wanted-to-know-about-cybersecurity-but-were-too-afraid-to-ask-with-tjitske-de-vries-lock-and-code-s05e13</link>
       <pubDate>Mon, 17 Jun 2024 16:17:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Managing Cloud Security Posture: Continuous Monitoring and Hardening for Visibility and Compliance</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/managing-cloud-security-posture/</link>
+      <pubDate>Mon, 17 Jun 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Los Angeles Public Health Department Discloses Large Data Breach</title>
@@ -261,51 +306,6 @@
       <title>Pakistani Hackers Use DISGOMOJI Malware in Indian Government Cyber Attacks</title>
       <link>https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html</link>
       <pubDate>Sat, 15 Jun 2024 08:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Pauses AI Training on EU User Data Amid Privacy Concerns</title>
-      <link>https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html</link>
-      <pubDate>Sat, 15 Jun 2024 07:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Squid Cartoon</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/friday-squid-blogging-squid-cartoon-2.html</link>
-      <pubDate>Fri, 14 Jun 2024 21:06:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Delays Recall Launch, Seeking Community Feedback First</title>
-      <link>https://www.techrepublic.com/article/microsoft-recall-ai-delay/</link>
-      <pubDate>Fri, 14 Jun 2024 17:47:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Roundup – Shinra and Limpopo Ransomware</title>
-      <link>https://feeds.fortinet.com/~/899480156/0/fortinet/blog/threat-research~Ransomware-Roundup-%e2%80%93-Shinra-and-Limpopo-Ransomware</link>
-      <pubDate>Fri, 14 Jun 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Truist bank confirms data breach</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/06/truist-bank-confirms-data-breach</link>
-      <pubDate>Fri, 14 Jun 2024 16:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/upcoming-speaking-engagements-37.html</link>
-      <pubDate>Fri, 14 Jun 2024 15:59:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Tips for Making the Most Out of Your Next Business Trip</title>
-      <link>https://www.techrepublic.com/article/5-tips-for-making-the-most-out-of-your-next-business-trip/</link>
-      <pubDate>Fri, 14 Jun 2024 15:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK General Election: Tech Policy Expert Calls for Law Overhaul to Combat Deepfakes</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-election-law-overhaul-combat/</link>
-      <pubDate>Fri, 14 Jun 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learn to Secure Petabyte-Scale Data in a Webinar with Industry Titans</title>
-      <link>https://thehackernews.com/2024/06/learn-to-secure-petabyte-scale-data-in.html</link>
-      <pubDate>Fri, 14 Jun 2024 13:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
