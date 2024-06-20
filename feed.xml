@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jun 2024 22:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 01:12:44 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #377: An unhealthy data dump, railway surveillance, and a cheater sues Apple</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-377/</link>
+      <pubDate>Wed, 19 Jun 2024 23:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alleged researchers stole $3 million from Kraken exchange</title>
+      <link>https://securityaffairs.com/164694/hacking/kraken-zero-day-cyber-theft.html</link>
+      <pubDate>Wed, 19 Jun 2024 21:49:27 +0000</pubDate>
+    </item>
     <item>
       <title>New Blog Moderation Policy</title>
       <link>https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html</link>
@@ -296,16 +306,6 @@
       <title>New Malware Targets Exposed Docker APIs for Cryptocurrency Mining</title>
       <link>https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html</link>
       <pubDate>Tue, 18 Jun 2024 09:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ONNX Store: Phishing-as-a-Service Platform Targeting Financial Institution</title>
-      <link>https://blog.eclecticiq.com/onnx-store-targeting-financial-institution</link>
-      <pubDate>Tue, 18 Jun 2024 09:32:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keytronic confirms data breach after ransomware attack</title>
-      <link>https://securityaffairs.com/164642/data-breach/keytronic-blackbasta-ransomware.html</link>
-      <pubDate>Tue, 18 Jun 2024 08:58:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
