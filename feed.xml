@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jun 2024 14:15:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 16:20:10 +0000</lastBuildDate>
     <item>
-      <title>What Is Threat Intelligence</title>
+      <title>US adds sanctions of Kaspersky executives to ban on company software</title>
+      <link>https://therecord.media/kaspersky-executives-sanctions-us</link>
+      <pubDate>Fri, 21 Jun 2024 15:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>With review nearly finished, UnitedHealth says ‘no evidence’ doctors’ charts stolen in ransomware attack</title>
+      <link>https://therecord.media/unitedhealth-review-finished-doctors-charts</link>
+      <pubDate>Fri, 21 Jun 2024 15:26:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polish investigators seize Pegasus spyware systems as part of probe into alleged abuse</title>
+      <link>https://therecord.media/poland-seizure-pegasus-spyware-systems</link>
+      <pubDate>Fri, 21 Jun 2024 15:07:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan's space agency hit by series of cyberattacks since last year, official says</title>
+      <link>https://therecord.media/japan-cyberattacks-space-agency-series</link>
+      <pubDate>Fri, 21 Jun 2024 14:52:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forklift manufacturer shuts down systems to investigate cyberattack</title>
+      <link>https://therecord.media/crown-equipment-shuts-down-systems-forklifts</link>
+      <pubDate>Fri, 21 Jun 2024 14:21:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Threat Intelligence?</title>
       <link>https://socprime.com/blog/what-is-threat-intelligence/</link>
       <pubDate>Fri, 21 Jun 2024 14:14:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Deploy SpiceRAT and SugarGh0st in Global Espionage Campaign</title>
+      <link>https://thehackernews.com/2024/06/chinese-hackers-deploy-spicerat-and.html</link>
+      <pubDate>Fri, 21 Jun 2024 13:42:00 +0000</pubDate>
     </item>
     <item>
       <title>Chemical Facilities Warned of Possible Data Exfiltration Following CISA Breach</title>
@@ -33,11 +63,6 @@
       <pubDate>Fri, 21 Jun 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>UK's largest nuclear site denies being hacked but pleads guilty over cybersecurity failures</title>
-      <link>https://therecord.media/sellafield-guilty-plea-uk-nuclear-facility-cybersecurity</link>
-      <pubDate>Fri, 21 Jun 2024 12:32:31 +0000</pubDate>
-    </item>
-    <item>
       <title>UEFICANHAZBUFFEROVERFLOW flaw in Phoenix SecureCore UEFI firmware potentially impacts hundreds of PC and server models</title>
       <link>https://securityaffairs.com/164771/hacking/phoenix-securecore-uefi-firmware-cve-2024-0762.html</link>
       <pubDate>Fri, 21 Jun 2024 12:32:26 +0000</pubDate>
@@ -58,9 +83,9 @@
       <pubDate>Fri, 21 Jun 2024 12:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>Almost 200 cancer operations postponed as ransomware group publishes London hospitals data</title>
-      <link>https://therecord.media/london-hospitals-surgeries-postponed-ransomware-attack</link>
-      <pubDate>Fri, 21 Jun 2024 11:55:26 +0000</pubDate>
+      <title>Juniper Networks Releases Security Bulletin for Juniper Secure Analytics</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics</link>
+      <pubDate>Fri, 21 Jun 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ross Anderson’s Memorial Service</title>
@@ -133,24 +158,9 @@
       <pubDate>Thu, 20 Jun 2024 21:38:37 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberattack on CDK Global stymies work at car dealerships across US</title>
-      <link>https://therecord.media/cyberattack-cdk-global-auto-dealershiups</link>
-      <pubDate>Thu, 20 Jun 2024 20:50:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>US to ban Kaspersky Lab software nationwide later this year</title>
-      <link>https://therecord.media/us-ban-kaspersky-lab-software</link>
-      <pubDate>Thu, 20 Jun 2024 20:15:25 +0000</pubDate>
-    </item>
-    <item>
       <title>KrebsOnSecurity Threatened with Defamation Lawsuit Over Fake Radaris CEO</title>
       <link>https://krebsonsecurity.com/2024/06/krebsonsecurity-threatened-with-defamation-lawsuit-over-fake-radaris-ceo/</link>
       <pubDate>Thu, 20 Jun 2024 19:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>More than 12,000 Santander employees in US affected by Snowflake breach</title>
-      <link>https://therecord.media/santander-employees-bank-breach-affected</link>
-      <pubDate>Thu, 20 Jun 2024 19:00:17 +0000</pubDate>
     </item>
     <item>
       <title>Atlassian fixed six high-severity bugs in Confluence Data Center and Server</title>
@@ -296,16 +306,6 @@
       <title>Threat Actor Claims AMD and Apple Breaches</title>
       <link>https://www.infosecurity-magazine.com/news/threat-actor-amd-apple-breaches/</link>
       <pubDate>Thu, 20 Jun 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An unpatched bug allows anyone to impersonate Microsoft corporate email accounts</title>
-      <link>https://securityaffairs.com/164675/hacking/expert-warns-of-a-spoofing-bug.html</link>
-      <pubDate>Thu, 20 Jun 2024 08:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration</title>
-      <link>https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html</link>
-      <pubDate>Thu, 20 Jun 2024 08:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
