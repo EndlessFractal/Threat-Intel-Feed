@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Jun 2024 22:14:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 01:15:30 +0000</lastBuildDate>
+    <item>
+      <title>Analysis of CoinMiner Attacks Targeting Korean Web Servers</title>
+      <link>https://asec.ahnlab.com/en/66994/</link>
+      <pubDate>Mon, 24 Jun 2024 00:48:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat actor attempts to sell 30 million customer records allegedly stolen from TEG</title>
+      <link>https://securityaffairs.com/164845/cyber-crime/threat-actor-selling-teg-data.html</link>
+      <pubDate>Sun, 23 Jun 2024 21:37:34 +0000</pubDate>
+    </item>
     <item>
       <title>Weekly Update 405</title>
       <link>https://www.troyhunt.com/weekly-update-405/</link>
@@ -296,16 +306,6 @@
       <title>French Diplomatic Entities Targeted in Russian-Linked Cyber Attacks</title>
       <link>https://thehackernews.com/2024/06/french-diplomatic-entities-targeted-in.html</link>
       <pubDate>Thu, 20 Jun 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit Most Prominent Ransomware Actor in May 2024</title>
-      <link>https://www.infosecurity-magazine.com/news/lockbit-prominent-ransomware-may/</link>
-      <pubDate>Thu, 20 Jun 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Rust infostealer Fickle Stealer spreads through various attack methods</title>
-      <link>https://securityaffairs.com/164726/malware/fickle-stealer-attack-methods.html</link>
-      <pubDate>Thu, 20 Jun 2024 13:08:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
