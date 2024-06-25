@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jun 2024 10:17:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 12:32:37 +0000</lastBuildDate>
+    <item>
+      <title>Taiwanese tech firms, universities, religious groups among targets in cyber-espionage campaign</title>
+      <link>https://therecord.media/taiwan-cyber-espionage-redjuliet-flax-typhoon</link>
+      <pubDate>Tue, 25 Jun 2024 11:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google's Naptime Framework to Boost Vulnerability Research with AI</title>
+      <link>https://www.infosecurity-magazine.com/news/google-naptime-vulnerability/</link>
+      <pubDate>Tue, 25 Jun 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Breaking the M-209</title>
+      <link>https://www.schneier.com/blog/archives/2024/06/breaking-the-m-209.html</link>
+      <pubDate>Tue, 25 Jun 2024 11:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wikileaks founder Julian Assange is free</title>
+      <link>https://securityaffairs.com/164916/security/julian-assange-is-free.html</link>
+      <pubDate>Tue, 25 Jun 2024 10:54:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Attack Technique Exploits Microsoft Management Console Files</title>
+      <link>https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html</link>
+      <pubDate>Tue, 25 Jun 2024 10:42:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cybersecurity in the SMB space — a growing threat</title>
       <link>https://securelist.com/smb-threat-report-2024/113010/</link>
       <pubDate>Tue, 25 Jun 2024 10:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Cut Costs with a Browser Security Platform</title>
+      <link>https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html</link>
+      <pubDate>Tue, 25 Jun 2024 09:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Cyberthreat 'Boolka' Deploying BMANAGER Trojan via SQLi Attacks</title>
+      <link>https://thehackernews.com/2024/06/new-cyberthreat-boolka-deploying.html</link>
+      <pubDate>Tue, 25 Jun 2024 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Suspected North Korean Attack Drains $2m from CoinStats Wallets</title>
@@ -48,6 +83,21 @@
       <pubDate>Tue, 25 Jun 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>CISA confirms hackers may have accessed data from chemical facilities during January incident</title>
+      <link>https://therecord.media/cisa-confirms-hackers-chemical-facilities</link>
+      <pubDate>Mon, 24 Jun 2024 21:43:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-linked group criticizes Biden, praises Trump in latest influence campaign</title>
+      <link>https://therecord.media/russia-linked-threat-actors-disinfo-trump</link>
+      <pubDate>Mon, 24 Jun 2024 19:57:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los Angeles County says 25 departments affected by February phishing incident</title>
+      <link>https://therecord.media/los-angeles-county-25-departments-february-phishing-campaign</link>
+      <pubDate>Mon, 24 Jun 2024 19:55:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Threat actors compromised 1,590 CoinStats crypto wallets</title>
       <link>https://securityaffairs.com/164895/cyber-crime/coinstats-crypto-wallets-security-breach.html</link>
       <pubDate>Mon, 24 Jun 2024 17:39:31 +0000</pubDate>
@@ -66,6 +116,11 @@
       <title>Modular Malware Boolka’s BMANAGER Trojan Exposed</title>
       <link>https://www.infosecurity-magazine.com/news/modular-malware-boolkas-bmanager/</link>
       <pubDate>Mon, 24 Jun 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple car dealers report disruptions to SEC due to cyberattack on software company</title>
+      <link>https://therecord.media/car-dealerships-reports-sec-cdk-software-ransomware</link>
+      <pubDate>Mon, 24 Jun 2024 16:09:19 +0000</pubDate>
     </item>
     <item>
       <title>Android Users Warned of Rising Malware Threat From Rafel RAT</title>
@@ -233,11 +288,6 @@
       <pubDate>Sun, 23 Jun 2024 08:23:37 +0000</pubDate>
     </item>
     <item>
-      <title>US government sanctions twelve Kaspersky Lab executives</title>
-      <link>https://securityaffairs.com/164792/security/us-sanctions-kaspersky-lab-executives.html</link>
-      <pubDate>Sat, 22 Jun 2024 14:31:49 +0000</pubDate>
-    </item>
-    <item>
       <title>ExCobalt Cyber Gang Targets Russian Sectors with New GoRed Backdoor</title>
       <link>https://thehackernews.com/2024/06/excobalt-cyber-gang-targets-russian.html</link>
       <pubDate>Sat, 22 Jun 2024 11:28:00 +0000</pubDate>
@@ -256,56 +306,6 @@
       <title>U.S. Treasury Sanctions 12 Kaspersky Executives Amid Software Ban</title>
       <link>https://thehackernews.com/2024/06/us-treasury-sanctions-12-kaspersky.html</link>
       <pubDate>Sat, 22 Jun 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian Organizations are Fascinated With Copilot for Microsoft 365, But Will They Avoid The “Gotchas”?</title>
-      <link>https://www.techrepublic.com/article/microsoft-365-copilot-australia/</link>
-      <pubDate>Fri, 21 Jun 2024 21:40:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Squid Nebula</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/friday-squid-blogging-squid-nebula-2.html</link>
-      <pubDate>Fri, 21 Jun 2024 21:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gartner: 3 Actions to Achieve Cybersecurity Consolidation</title>
-      <link>https://www.techrepublic.com/article/gartner-cybersecurity-consolidation/</link>
-      <pubDate>Fri, 21 Jun 2024 20:25:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-Day Exploits Cheat Sheet: Definition, Examples &amp; How It Works</title>
-      <link>https://www.techrepublic.com/article/zero-day-exploits-the-smart-persons-guide/</link>
-      <pubDate>Fri, 21 Jun 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>First million breached Ticketmaster records released for free</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/06/first-million-breached-ticketmaster-records-released-for-free</link>
-      <pubDate>Fri, 21 Jun 2024 16:01:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is Threat Intelligence?</title>
-      <link>https://socprime.com/blog/what-is-threat-intelligence/</link>
-      <pubDate>Fri, 21 Jun 2024 14:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Deploy SpiceRAT and SugarGh0st in Global Espionage Campaign</title>
-      <link>https://thehackernews.com/2024/06/chinese-hackers-deploy-spicerat-and.html</link>
-      <pubDate>Fri, 21 Jun 2024 13:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chemical Facilities Warned of Possible Data Exfiltration Following CISA Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/chemical-exfiltration-cisa-breach/</link>
-      <pubDate>Fri, 21 Jun 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Military-themed Email Scam Spreads Malware to Infect Pakistani Users</title>
-      <link>https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html</link>
-      <pubDate>Fri, 21 Jun 2024 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 25</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-5/</link>
-      <pubDate>Fri, 21 Jun 2024 13:00:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
