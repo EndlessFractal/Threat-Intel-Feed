@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jun 2024 08:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 10:17:54 +0000</lastBuildDate>
+    <item>
+      <title>Cybersecurity in the SMB space — a growing threat</title>
+      <link>https://securelist.com/smb-threat-report-2024/113010/</link>
+      <pubDate>Tue, 25 Jun 2024 10:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected North Korean Attack Drains $2m from CoinStats Wallets</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korean-attack-2m-coinstats/</link>
+      <pubDate>Tue, 25 Jun 2024 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Credential Stuffing Attack Hits 72,000 Levi’s Accounts</title>
+      <link>https://www.infosecurity-magazine.com/news/credential-stuffing-72000-levis/</link>
+      <pubDate>Tue, 25 Jun 2024 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>CISA confirmed that its CSAT environment was breached in January.</title>
       <link>https://securityaffairs.com/164905/data-breach/cisa-confirmed-csat-breach.html</link>
@@ -33,21 +48,6 @@
       <pubDate>Tue, 25 Jun 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>CISA confirms hackers may have accessed data from chemical facilities during January incident</title>
-      <link>https://therecord.media/cisa-confirms-hackers-chemical-facilities</link>
-      <pubDate>Mon, 24 Jun 2024 21:43:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked group criticizes Biden, praises Trump in latest influence campaign</title>
-      <link>https://therecord.media/russia-linked-threat-actors-disinfo-trump</link>
-      <pubDate>Mon, 24 Jun 2024 19:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los Angeles County says 25 departments affected by February phishing incident</title>
-      <link>https://therecord.media/los-angeles-county-25-departments-february-phishing-campaign</link>
-      <pubDate>Mon, 24 Jun 2024 19:55:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Threat actors compromised 1,590 CoinStats crypto wallets</title>
       <link>https://securityaffairs.com/164895/cyber-crime/coinstats-crypto-wallets-security-breach.html</link>
       <pubDate>Mon, 24 Jun 2024 17:39:31 +0000</pubDate>
@@ -66,16 +66,6 @@
       <title>Modular Malware Boolka’s BMANAGER Trojan Exposed</title>
       <link>https://www.infosecurity-magazine.com/news/modular-malware-boolkas-bmanager/</link>
       <pubDate>Mon, 24 Jun 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple car dealers report disruptions to SEC due to cyberattack on software company</title>
-      <link>https://therecord.media/car-dealerships-reports-sec-cdk-software-ransomware</link>
-      <pubDate>Mon, 24 Jun 2024 16:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indonesia's national data center encrypted with LockBit ransomware variant</title>
-      <link>https://therecord.media/indonesia-national-data-centre-hacked</link>
-      <pubDate>Mon, 24 Jun 2024 15:39:00 +0000</pubDate>
     </item>
     <item>
       <title>Android Users Warned of Rising Malware Threat From Rafel RAT</title>
@@ -306,6 +296,16 @@
       <title>Chemical Facilities Warned of Possible Data Exfiltration Following CISA Breach</title>
       <link>https://www.infosecurity-magazine.com/news/chemical-exfiltration-cisa-breach/</link>
       <pubDate>Fri, 21 Jun 2024 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Military-themed Email Scam Spreads Malware to Infect Pakistani Users</title>
+      <link>https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html</link>
+      <pubDate>Fri, 21 Jun 2024 13:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 25</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-5/</link>
+      <pubDate>Fri, 21 Jun 2024 13:00:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
