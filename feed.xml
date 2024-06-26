@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Jun 2024 04:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 06:24:41 +0000</lastBuildDate>
+    <item>
+      <title>Over 110,000 Websites Affected by Hijacked Polyfill Supply Chain Attack</title>
+      <link>https://thehackernews.com/2024/06/over-110000-websites-affected-by.html</link>
+      <pubDate>Wed, 26 Jun 2024 04:24:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, June 26th, 2024 https://isc.sans.edu/podcastdetail/9036, (Wed, Jun 26th)</title>
       <link>https://isc.sans.edu/diary/rss/31036</link>
@@ -18,9 +23,29 @@
       <pubDate>Tue, 25 Jun 2024 21:35:28 +0000</pubDate>
     </item>
     <item>
+      <title>South Africa’s national health lab hit with ransomware attack amid mpox outbreak</title>
+      <link>https://therecord.media/south-africa-lab-ransomware-mpox-outbreak</link>
+      <pubDate>Tue, 25 Jun 2024 20:57:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neiman Marcus says 64,000 affected by breach of Snowflake customer account</title>
+      <link>https://therecord.media/neiman-marcus-snowflake-breach-thousands</link>
+      <pubDate>Tue, 25 Jun 2024 19:40:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>California privacy regulator to partner with French data authority</title>
+      <link>https://therecord.media/california-cppa-france-cnil-partnership-data-privacy</link>
+      <pubDate>Tue, 25 Jun 2024 19:25:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Sophos XDR: Expanding our defense against active adversaries</title>
       <link>https://news.sophos.com/en-us/2024/06/25/sophos-xdr-expanding-our-defense-against-active-adversaries/</link>
       <pubDate>Tue, 25 Jun 2024 18:43:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>The inside view of spyware’s 'dirty interference,' from two recent Pegasus victims</title>
+      <link>https://therecord.media/pegasus-spyware-victims-sannikov-erlikh</link>
+      <pubDate>Tue, 25 Jun 2024 17:55:06 +0000</pubDate>
     </item>
     <item>
       <title>Mirai-like botnet is exploiting recently disclosed Zyxel NAS flaw</title>
@@ -41,6 +66,11 @@
       <title>Dark Web Sees 230% Rise in Singapore Identity Theft</title>
       <link>https://www.infosecurity-magazine.com/news/dark-web-sees-230-rise-singapore/</link>
       <pubDate>Tue, 25 Jun 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>With protections against AI bias removed, data privacy bill 'impossible for civil society to support'</title>
+      <link>https://therecord.media/ai-bias-removed-data-privacy-law</link>
+      <pubDate>Tue, 25 Jun 2024 15:25:18 +0000</pubDate>
     </item>
     <item>
       <title>The Growing Threat of Malware Concealed Behind Cloud Services</title>
@@ -276,36 +306,6 @@
       <title>A week in security (June 17 – June 23)</title>
       <link>https://www.malwarebytes.com/blog/news/2024/06/a-week-in-security-june-17-june-23</link>
       <pubDate>Mon, 24 Jun 2024 07:07:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple Threat Actors Deploying Open-Source Rafel RAT to Target Android Devices</title>
-      <link>https://thehackernews.com/2024/06/iranian-hackers-deploy-rafel-rat-in.html</link>
-      <pubDate>Mon, 24 Jun 2024 05:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, June 24th, 2024 https://isc.sans.edu/podcastdetail/9032, (Mon, Jun 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/31030</link>
-      <pubDate>Mon, 24 Jun 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis of CoinMiner Attacks Targeting Korean Web Servers</title>
-      <link>https://asec.ahnlab.com/en/66994/</link>
-      <pubDate>Mon, 24 Jun 2024 00:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is Open Source Intelligence (OSINT)?</title>
-      <link>https://www.recordedfuture.com/blog/open-source-intelligence-definition</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation</title>
-      <link>https://www.recordedfuture.com/redjuliett-intensifies-taiwanese-cyber-espionage-via-network-perimeter</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-Linked CopyCop Expands to Cover US Elections, Target Political Leaders</title>
-      <link>https://www.recordedfuture.com/copycop-expands-to-cover-us-elections-target-political-leaders</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
