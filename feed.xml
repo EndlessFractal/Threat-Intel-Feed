@@ -6,11 +6,66 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Jun 2024 10:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 12:33:53 +0000</lastBuildDate>
+    <item>
+      <title>Cyber Attackers Turn to Cloud Services to Deploy Malware</title>
+      <link>https://www.infosecurity-magazine.com/news/attackers-cloud-services-deploy/</link>
+      <pubDate>Wed, 26 Jun 2024 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia to ban 81 foreign media outlets in response to Europe’s sanctions</title>
+      <link>https://therecord.media/russian-bans-european-media-outlets-response-sanctions</link>
+      <pubDate>Wed, 26 Jun 2024 11:59:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-5806 Detection: A New Authentication Bypass Vulnerability in Progress MOVEit Transfer Under Active Exploitation</title>
+      <link>https://socprime.com/blog/cve-2024-5806-detection-a-new-authentication-bypass-vulnerability-in-progress-moveit-transfer-under-active-exploitation/</link>
+      <pubDate>Wed, 26 Jun 2024 11:49:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Crime Reports Drop 16% Annually but Job Scams Surge</title>
+      <link>https://www.infosecurity-magazine.com/news/identity-crime-drop-16-annually/</link>
+      <pubDate>Wed, 26 Jun 2024 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Man arrested over 'honey trap' WhatsApp messages sent to British politicians</title>
+      <link>https://therecord.media/honey-trap-whatsapp-messages-uk-politicians-arrest</link>
+      <pubDate>Wed, 26 Jun 2024 11:40:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Caesar Cipher Skimmer targets popular CMS used by e-stores</title>
+      <link>https://securityaffairs.com/164937/malware/caesar-cipher-skimmer-targets-popolar-cms-used-by-e-stores.html</link>
+      <pubDate>Wed, 26 Jun 2024 11:07:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The US Is Banning Kaspersky</title>
+      <link>https://www.schneier.com/blog/archives/2024/06/the-us-is-banning-kaspersky.html</link>
+      <pubDate>Wed, 26 Jun 2024 11:06:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malwarebytes Premium stops 100% of malware during AV Lab test</title>
+      <link>https://www.malwarebytes.com/blog/personal/2024/06/malwarebytes-premium-stops-100-of-malware-during-av-lab-test</link>
+      <pubDate>Wed, 26 Jun 2024 10:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese and N. Korean Hackers Target Global Infrastructure with Ransomware</title>
+      <link>https://thehackernews.com/2024/06/chinese-and-n-korean-hackers-target.html</link>
+      <pubDate>Wed, 26 Jun 2024 10:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>Attackers Exploiting Public Cobalt Strike Profiles</title>
       <link>https://unit42.paloaltonetworks.com/attackers-exploit-public-cobalt-strike-profiles/</link>
       <pubDate>Wed, 26 Jun 2024 10:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Practical Guidance For Securing Your Software Supply Chain</title>
+      <link>https://thehackernews.com/2024/06/practical-guidance-for-securing-your.html</link>
+      <pubDate>Wed, 26 Jun 2024 09:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches AirPods Bluetooth Vulnerability That Could Allow Eavesdropping</title>
+      <link>https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html</link>
+      <pubDate>Wed, 26 Jun 2024 09:36:00 +0000</pubDate>
     </item>
     <item>
       <title>New Credit Card Skimmer Targets WordPress, Magento, and OpenCart Sites</title>
@@ -63,11 +118,6 @@
       <pubDate>Tue, 25 Jun 2024 18:43:06 +0000</pubDate>
     </item>
     <item>
-      <title>The inside view of spyware’s 'dirty interference,' from two recent Pegasus victims</title>
-      <link>https://therecord.media/pegasus-spyware-victims-sannikov-erlikh</link>
-      <pubDate>Tue, 25 Jun 2024 17:55:06 +0000</pubDate>
-    </item>
-    <item>
       <title>Mirai-like botnet is exploiting recently disclosed Zyxel NAS flaw</title>
       <link>https://securityaffairs.com/164927/cyber-crime/mirai-like-botnet-zyxel-nas.html</link>
       <pubDate>Tue, 25 Jun 2024 16:52:28 +0000</pubDate>
@@ -96,11 +146,6 @@
       <title>Dark Web Sees 230% Rise in Singapore Identity Theft</title>
       <link>https://www.infosecurity-magazine.com/news/dark-web-sees-230-rise-singapore/</link>
       <pubDate>Tue, 25 Jun 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>With protections against AI bias removed, data privacy bill 'impossible for civil society to support'</title>
-      <link>https://therecord.media/ai-bias-removed-data-privacy-law</link>
-      <pubDate>Tue, 25 Jun 2024 15:25:18 +0000</pubDate>
     </item>
     <item>
       <title>The Growing Threat of Malware Concealed Behind Cloud Services</title>
@@ -175,6 +220,11 @@
     <item>
       <title>New Cyberthreat 'Boolka' Deploying BMANAGER Trojan via SQLi Attacks</title>
       <link>https://thehackernews.com/2024/06/new-cyberthreat-boolka-deploying.html</link>
+      <pubDate>Tue, 25 Jun 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Buying a VPN? Here’s what to know and look for</title>
+      <link>https://www.welivesecurity.com/en/privacy/buying-vpn-what-know-look-for/</link>
       <pubDate>Tue, 25 Jun 2024 09:30:00 +0000</pubDate>
     </item>
     <item>
@@ -256,56 +306,6 @@
       <title>Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool</title>
       <link>https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html</link>
       <pubDate>Mon, 24 Jun 2024 13:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts observed approximately 120 malicious campaigns using the Rafel RAT</title>
-      <link>https://securityaffairs.com/164844/breaking-news/multiple-threat-actors-used-rafel-rat.html</link>
-      <pubDate>Mon, 24 Jun 2024 13:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>PinnacleOne ExecBrief | Flashpoint in Focus: Israel-Hezbollah</title>
-      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-flashpoint-in-focus-israel-hezbollah/</link>
-      <pubDate>Mon, 24 Jun 2024 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Based RedJuliett Targets Taiwan in Cyber Espionage Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/china-redjuliett-targets-taiwan/</link>
-      <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ease the Burden with AI-Driven Threat Intelligence Reporting</title>
-      <link>https://thehackernews.com/2024/06/ease-burden-with-ai-driven-threat.html</link>
-      <pubDate>Mon, 24 Jun 2024 11:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paul Nakasone Joins OpenAI’s Board of Directors</title>
-      <link>https://www.schneier.com/blog/archives/2024/06/paul-nakasone-joins-openais-board-of-directors.html</link>
-      <pubDate>Mon, 24 Jun 2024 11:04:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitdefender VPN vs NordVPN (2024): Which VPN Is the Best?</title>
-      <link>https://www.techrepublic.com/article/bitdefender-vpn-vs-nordvpn/</link>
-      <pubDate>Mon, 24 Jun 2024 10:12:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get a Lifetime Subscription of FastestVPN for just $32 Through 6/26</title>
-      <link>https://www.techrepublic.com/article/top-vpn-employee-price/</link>
-      <pubDate>Mon, 24 Jun 2024 10:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>XZ backdoor: Hook analysis</title>
-      <link>https://securelist.com/xz-backdoor-part-3-hooking-ssh/113007/</link>
-      <pubDate>Mon, 24 Jun 2024 10:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit claims the hack of the US Federal Reserve</title>
-      <link>https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html</link>
-      <pubDate>Mon, 24 Jun 2024 09:58:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Polish Prosecutors Step Up Probe into Pegasus Spyware Operation</title>
-      <link>https://www.infosecurity-magazine.com/news/polish-prosecutors-probe-pegasus/</link>
-      <pubDate>Mon, 24 Jun 2024 09:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
