@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Jun 2024 06:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 08:20:33 +0000</lastBuildDate>
+    <item>
+      <title>US announces a $10M reward for Russia’s GRU hacker behind attacks on Ukraine</title>
+      <link>https://securityaffairs.com/164997/hacking/us-reward-russias-gru-hacker.html</link>
+      <pubDate>Fri, 28 Jun 2024 06:09:20 +0000</pubDate>
+    </item>
     <item>
       <title>TeamViewer Detects Security Breach in Corporate IT Environment</title>
       <link>https://thehackernews.com/2024/06/teamviewer-detects-security-breach-in.html</link>
@@ -263,11 +268,6 @@
       <pubDate>Wed, 26 Jun 2024 17:29:05 +0000</pubDate>
     </item>
     <item>
-      <title>Mitigating Skeleton Key, a new type of generative AI jailbreak technique</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/</link>
-      <pubDate>Wed, 26 Jun 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Progress Discloses Two New Vulnerabilities in MOVEit Products</title>
       <link>https://www.infosecurity-magazine.com/news/progress-new-vulnerabilities-moveit/</link>
       <pubDate>Wed, 26 Jun 2024 16:15:00 +0000</pubDate>
@@ -276,11 +276,6 @@
       <title>Multiple vulnerabilities in TP-Link Omada system could lead to root access</title>
       <link>https://blog.talosintelligence.com/multiple-vulnerabilities-in-tp-link-omada-system/</link>
       <pubDate>Wed, 26 Jun 2024 16:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Working with a cybersecurity committee of the board</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/06/26/working-with-a-cybersecurity-committee-of-the-board/</link>
-      <pubDate>Wed, 26 Jun 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pentesting for NIST 800-53, FISMA, and FedRAMP</title>
@@ -298,7 +293,7 @@
       <pubDate>Wed, 26 Jun 2024 14:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>Federal Reserve “breached” data may actually belong to Evolve Bank</title>
+      <title>[updated] Federal Reserve “breached” data may actually belong to Evolve Bank</title>
       <link>https://www.malwarebytes.com/blog/news/2024/06/federal-reserve-breached-data-may-actually-belong-to-evolve-bank</link>
       <pubDate>Wed, 26 Jun 2024 14:16:14 +0000</pubDate>
     </item>
@@ -306,6 +301,11 @@
       <title>The dangers of anthropomorphizing AI: An infosec perspective</title>
       <link>https://securityintelligence.com/articles/anthropomorphizing-ai-danger-infosec-perspective/</link>
       <pubDate>Wed, 26 Jun 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Provides Progress on its Pledge to CISA’s Secure by Design Initiative</title>
+      <link>https://news.sophos.com/en-us/2024/06/26/sophos-provides-progress-on-its-pledge-to-cisas-secure-by-design-initiative/</link>
+      <pubDate>Wed, 26 Jun 2024 12:59:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
