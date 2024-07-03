@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 02:32:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 04:19:55 +0000</lastBuildDate>
+    <item>
+      <title>Israeli Entities Targeted by Cyberattack Using Donut and Sliver Frameworks</title>
+      <link>https://thehackernews.com/2024/07/israeli-entities-targeted-by.html</link>
+      <pubDate>Wed, 03 Jul 2024 03:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Korean ERP Vendor's Server Hacked to Spread Xctdoor Malware</title>
+      <link>https://thehackernews.com/2024/07/south-korean-erp-vendors-server-hacked.html</link>
+      <pubDate>Wed, 03 Jul 2024 03:33:00 +0000</pubDate>
+    </item>
     <item>
       <title>‘RegreSSHion’ bug raises alarms but experts question chances of widespread exploitation</title>
       <link>https://therecord.media/regresshion-bug-raises-alarms-qualys</link>
@@ -296,16 +306,6 @@
       <title>Juniper Networks fixed a critical authentication bypass flaw in some of its routers</title>
       <link>https://securityaffairs.com/165069/security/juniper-networks-critical-authentication-bypass-flaw.html</link>
       <pubDate>Mon, 01 Jul 2024 07:53:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actors actively exploit D-Link DIR-859 router flaw CVE-2024-0769</title>
-      <link>https://securityaffairs.com/165045/hacking/d-link-dir-859-actively-exploited.html</link>
-      <pubDate>Mon, 01 Jul 2024 07:14:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (June 24 – June 30)</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/07/a-week-in-security-june-24-june-30</link>
-      <pubDate>Mon, 01 Jul 2024 07:09:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
