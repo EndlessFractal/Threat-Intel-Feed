@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 20:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 22:16:47 +0000</lastBuildDate>
+    <item>
+      <title>Dissecting GootLoader With Node.js</title>
+      <link>https://unit42.paloaltonetworks.com/javascript-malware-gootloader/</link>
+      <pubDate>Wed, 03 Jul 2024 22:00:26 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware attack on Patelco Credit Union causes confusion ahead of holiday weekend</title>
       <link>https://therecord.media/patelco-credit-union-california-ransomware-attack</link>
@@ -188,6 +193,11 @@
       <pubDate>Tue, 02 Jul 2024 13:10:54 +0000</pubDate>
     </item>
     <item>
+      <title>The AI Fix #5: An angry AI girlfriend, and artificial intelligence is stupid</title>
+      <link>https://grahamcluley.com/the-ai-fix-5/</link>
+      <pubDate>Tue, 02 Jul 2024 13:02:35 +0000</pubDate>
+    </item>
+    <item>
       <title>It all adds up: Pretexting in executive compromise</title>
       <link>https://securityintelligence.com/articles/pretexting-in-executive-compromise-social-engineering/</link>
       <pubDate>Tue, 02 Jul 2024 13:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Caught in the Net: Using Infostealer Logs to Unmask CSAM Consumers</title>
       <link>https://www.recordedfuture.com/caught-in-the-net-using-infostealer-logs-to-unmask-csam-consumers</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Report Finds Most Open-Source Projects Contain Memory-Unsafe Code</title>
-      <link>https://www.techrepublic.com/article/open-source-projects-memory-unsafe-code-cisa/</link>
-      <pubDate>Mon, 01 Jul 2024 21:58:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>SSH "regreSSHion" Remote Code Execution Vulnerability in OpenSSH., (Mon, Jul 1st)</title>
-      <link>https://isc.sans.edu/diary/rss/31046</link>
-      <pubDate>Mon, 01 Jul 2024 17:01:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
