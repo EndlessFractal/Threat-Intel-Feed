@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 14:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 16:21:44 +0000</lastBuildDate>
+    <item>
+      <title>WordPress Plugins at Risk From Polyfill Library Compromise</title>
+      <link>https://www.infosecurity-magazine.com/news/wordpress-plugins-risk-polyfill/</link>
+      <pubDate>Wed, 03 Jul 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Uncovers Major Flaws in Rockwell PanelView Plus</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-uncovers-flaws-rockwell/</link>
+      <pubDate>Wed, 03 Jul 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Open SSH Vulnerability</title>
+      <link>https://www.schneier.com/blog/archives/2024/07/new-open-ssh-vulnerability.html</link>
+      <pubDate>Wed, 03 Jul 2024 15:27:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cobalt Strike: International law enforcement operation tackles illegal uses of ‘Swiss army knife’ pentesting tool</title>
+      <link>https://therecord.media/cobalt-strike-law-enforcement-takedown</link>
+      <pubDate>Wed, 03 Jul 2024 15:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Millions of Apple Applications Were Vulnerable to CocoaPods Supply Chain Attack</title>
+      <link>https://www.techrepublic.com/article/apple-applications-cocoapods-supply-chain-attack/</link>
+      <pubDate>Wed, 03 Jul 2024 14:37:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea switches TV broadcasts from Chinese satellite to Russian</title>
+      <link>https://therecord.media/north-korean-state-television-satellite-switch-russia-china</link>
+      <pubDate>Wed, 03 Jul 2024 14:33:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Extortion Soars: SMBs Hit Four Times Harder</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-extortion-soars-smb-hit/</link>
+      <pubDate>Wed, 03 Jul 2024 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit group claims the hack of the Fairfield Memorial Hospital in the US</title>
+      <link>https://securityaffairs.com/165162/cyber-crime/lockbit-ransomware-fairfield-memorial-hospital.html</link>
+      <pubDate>Wed, 03 Jul 2024 14:29:37 +0000</pubDate>
+    </item>
     <item>
       <title>New ransomware group uses phone calls to pressure victims, researchers say</title>
       <link>https://therecord.media/ransomware-group-volcano-demon-lukalocker</link>
@@ -111,16 +151,6 @@
       <title>Upcoming Book on AI and Democracy</title>
       <link>https://www.schneier.com/blog/archives/2024/07/upcoming-book-on-ai-and-democracy.html</link>
       <pubDate>Tue, 02 Jul 2024 18:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fintech company Affirm says Evolve Bank attack exposed customer info</title>
-      <link>https://therecord.media/affirm-lender-data-breach-evolve-bank-cyberattack</link>
-      <pubDate>Tue, 02 Jul 2024 17:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit claims cyberattack on Croatia’s largest hospital</title>
-      <link>https://therecord.media/lockbit-claims-cyberattack-croatia-hospital</link>
-      <pubDate>Tue, 02 Jul 2024 16:51:33 +0000</pubDate>
     </item>
     <item>
       <title>Mobile Political Spam Surges Threefold For 2024 Election</title>
@@ -276,36 +306,6 @@
       <title>Personal data stolen from unsuspecting airport visitors and plane passengers in “evil twin” attacks, man charged</title>
       <link>https://www.malwarebytes.com/blog/news/2024/07/personal-data-stolen-from-unsuspecting-airport-visitors-and-plane-passengers-in-evil-twin-attacks-man-charged</link>
       <pubDate>Mon, 01 Jul 2024 16:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2024</title>
-      <link>https://www.techrepublic.com/article/top-tech-conferences-events/</link>
-      <pubDate>Mon, 01 Jul 2024 15:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta’s ‘Pay or Consent’ Data Model Breaches EU Law</title>
-      <link>https://www.infosecurity-magazine.com/news/meta-pay-consent-data-breach/</link>
-      <pubDate>Mon, 01 Jul 2024 15:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Driven Real-Time Malware and Ransomware Detection for NetApp</title>
-      <link>https://www.sentinelone.com/blog/ai-driven-real-time-malware-and-ransomware-detection-for-netapp/</link>
-      <pubDate>Mon, 01 Jul 2024 15:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Busted for book club? Why cops want to see what you’re reading, with Sarah Lamdan (Lock and Code S05E14)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2024/07/busted-for-book-club-why-cops-want-to-see-what-youre-reading-with-sarah-lamdan-lock-and-code-s05e14</link>
-      <pubDate>Mon, 01 Jul 2024 14:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical unauthenticated remote code execution flaw in OpenSSH server</title>
-      <link>https://securityaffairs.com/165087/security/openssh-server-critical-flaw.html</link>
-      <pubDate>Mon, 01 Jul 2024 14:01:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>PinnacleOne ExecBrief | Flashpoint in Focus: South China Sea</title>
-      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-flashpoint-in-focus-south-china-sea/</link>
-      <pubDate>Mon, 01 Jul 2024 14:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
