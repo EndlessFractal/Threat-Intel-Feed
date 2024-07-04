@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 22:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 01:15:11 +0000</lastBuildDate>
+    <item>
+      <title>Attack Cases Against HTTP File Server (HFS) (CVE-2024-23692)</title>
+      <link>https://asec.ahnlab.com/en/67650/</link>
+      <pubDate>Thu, 04 Jul 2024 01:07:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Defense Evasion Techniques Detected by AhnLab EDR (2)</title>
+      <link>https://asec.ahnlab.com/en/67636/</link>
+      <pubDate>Thu, 04 Jul 2024 00:56:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #379: Private nights, evil twins, and crypto home invasions</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-379/</link>
+      <pubDate>Wed, 03 Jul 2024 23:00:22 +0000</pubDate>
+    </item>
     <item>
       <title>Dissecting GootLoader With Node.js</title>
       <link>https://unit42.paloaltonetworks.com/javascript-malware-gootloader/</link>
@@ -291,21 +306,6 @@
       <title>Meta's 'Pay or Consent' Approach Faces E.U. Competition Rules Scrutiny</title>
       <link>https://thehackernews.com/2024/07/metas-pay-or-consent-approach-faces-eu.html</link>
       <pubDate>Tue, 02 Jul 2024 05:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploiting Cisco Switches Zero-Day to Deliver Malware</title>
-      <link>https://thehackernews.com/2024/07/chinese-hackers-exploiting-cisco.html</link>
-      <pubDate>Tue, 02 Jul 2024 04:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian Man Charged for Fake Wi-Fi Scam on Domestic Flights</title>
-      <link>https://thehackernews.com/2024/07/australian-man-charged-for-fake-wi-fi.html</link>
-      <pubDate>Tue, 02 Jul 2024 04:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Caught in the Net: Using Infostealer Logs to Unmask CSAM Consumers</title>
-      <link>https://www.recordedfuture.com/caught-in-the-net-using-infostealer-logs-to-unmask-csam-consumers</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
