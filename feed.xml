@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jul 2024 16:19:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 18:21:15 +0000</lastBuildDate>
+    <item>
+      <title>Apache fixed a source code disclosure flaw in Apache HTTP Server</title>
+      <link>https://securityaffairs.com/165422/security/apache-source-code-disclosure-flaw-apache-http-server.html</link>
+      <pubDate>Sun, 07 Jul 2024 17:20:15 +0000</pubDate>
+    </item>
     <item>
       <title>Security Affairs Malware Newsletter – Round 1</title>
       <link>https://securityaffairs.com/165406/malware/security-affairs-malware-newsletter-round-1.html</link>
@@ -141,11 +146,6 @@
       <title>Microsoft discloses 2 flaws in Rockwell Automation PanelView Plus</title>
       <link>https://securityaffairs.com/165276/ics-scada/rockwell-automation-panelview-plus-flaws.html</link>
       <pubDate>Fri, 05 Jul 2024 08:20:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers compromised Ethereum mailing list and launched a crypto draining attack</title>
-      <link>https://securityaffairs.com/165254/hacking/hackers-compromised-ethereum-mailing.html</link>
-      <pubDate>Fri, 05 Jul 2024 07:31:26 +0000</pubDate>
     </item>
     <item>
       <title>Polyfill[.]io Attack Impacts Over 380,000 Hosts, Including Major Companies</title>
