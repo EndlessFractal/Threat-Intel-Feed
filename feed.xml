@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jul 2024 08:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 10:18:56 +0000</lastBuildDate>
+    <item>
+      <title>10 Billion Passwords Leaked on Hacking Forum</title>
+      <link>https://www.infosecurity-magazine.com/news/10-billion-passwords-leaked/</link>
+      <pubDate>Mon, 08 Jul 2024 09:43:00 +0000</pubDate>
+    </item>
     <item>
       <title>CISA adds Cisco NX-OS Command Injection bug to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/165415/security/cisa-adds-cisco-nx-os-command-injection-bug-known-exploited-vulnerabilities-catalog.html</link>
@@ -23,6 +28,11 @@
       <pubDate>Mon, 08 Jul 2024 07:00:33 +0000</pubDate>
     </item>
     <item>
+      <title>Critical Unpatched Flaws Disclosed in Popular Gogs Open-Source Git Service</title>
+      <link>https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html</link>
+      <pubDate>Mon, 08 Jul 2024 06:55:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Apple Removes VPN Apps from Russian App Store Amid Government Pressure</title>
       <link>https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html</link>
       <pubDate>Mon, 08 Jul 2024 06:28:00 +0000</pubDate>
@@ -36,6 +46,11 @@
       <title>Apache fixed a source code disclosure flaw in Apache HTTP Server</title>
       <link>https://securityaffairs.com/165422/security/apache-source-code-disclosure-flaw-apache-http-server.html</link>
       <pubDate>Sun, 07 Jul 2024 17:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Glossary Pack</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/cybersecurity-glossary-pack/</link>
+      <pubDate>Sun, 07 Jul 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Security Affairs Malware Newsletter – Round 1</title>
@@ -291,21 +306,6 @@
       <title>The Not-So-Secret Network Access Broker x999xx</title>
       <link>https://krebsonsecurity.com/2024/07/the-not-so-secret-network-access-broker-x999xx/</link>
       <pubDate>Wed, 03 Jul 2024 16:41:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Plugins at Risk From Polyfill Library Compromise</title>
-      <link>https://www.infosecurity-magazine.com/news/wordpress-plugins-risk-polyfill/</link>
-      <pubDate>Wed, 03 Jul 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Uncovers Major Flaws in Rockwell PanelView Plus</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-uncovers-flaws-rockwell/</link>
-      <pubDate>Wed, 03 Jul 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Open SSH Vulnerability</title>
-      <link>https://www.schneier.com/blog/archives/2024/07/new-open-ssh-vulnerability.html</link>
-      <pubDate>Wed, 03 Jul 2024 15:27:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
