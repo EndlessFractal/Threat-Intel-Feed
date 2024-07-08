@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jul 2024 18:23:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 20:19:05 +0000</lastBuildDate>
+    <item>
+      <title>Shopify says stolen customer data was taken in third-party breach</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/07/shopify-says-stolen-customer-data-was-taken-in-third-party-breach</link>
+      <pubDate>Mon, 08 Jul 2024 19:27:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Africa national lab says ransomware recovery to last until mid-July</title>
+      <link>https://therecord.media/south-africa-national-health-laboratory-service-ransomware-recovery</link>
+      <pubDate>Mon, 08 Jul 2024 19:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Ghostscript flaw exploited in the wild. Patch it now!</title>
+      <link>https://securityaffairs.com/165449/hacking/ghostscript-vulnerability-cve-2024-29510.html</link>
+      <pubDate>Mon, 08 Jul 2024 18:12:51 +0000</pubDate>
+    </item>
     <item>
       <title>On the CSRB’s Non-Investigation of the SolarWinds Attack</title>
       <link>https://www.schneier.com/blog/archives/2024/07/on-the-csrbs-non-investigation-of-the-solarwinds-attack.html</link>
@@ -71,6 +86,11 @@
       <title>New Ransomware-as-a-Service 'Eldorado' Targets Windows and Linux Systems</title>
       <link>https://thehackernews.com/2024/07/new-ransomware-as-service-eldorado.html</link>
       <pubDate>Mon, 08 Jul 2024 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Best Endpoint Detection &amp; Response (EDR) Solutions for 2024</title>
+      <link>https://www.techrepublic.com/article/protect-your-endpoints-with-top-edr-software/</link>
+      <pubDate>Mon, 08 Jul 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Crypto Thefts Double to $1.4 Billion, TRM Labs Finds</title>
@@ -203,11 +223,6 @@
       <pubDate>Fri, 05 Jul 2024 19:59:47 +0000</pubDate>
     </item>
     <item>
-      <title>Ticketmaster discredits dark web claims of stolen barcodes for Taylor Swift concerts</title>
-      <link>https://therecord.media/ticketmaster-discredits-dark-web-claims-taylor-swift</link>
-      <pubDate>Fri, 05 Jul 2024 19:54:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Hackers leak 170k Taylor Swift’s ERAS Tour Barcodes</title>
       <link>https://securityaffairs.com/165328/data-breach/hackers-leak-170k-taylor-swift-eras-tour-barcodes.html</link>
       <pubDate>Fri, 05 Jul 2024 13:24:55 +0000</pubDate>
@@ -241,11 +256,6 @@
       <title>Volcano Demon Ransomware Attack Detection: Adversaries Apply a New LukaLocker Malware Demanding Ransom via Phone Calls</title>
       <link>https://socprime.com/blog/volcano-demon-ransomware-attack-detection-adversaries-apply-a-new-lukalocker-malware-demanding-ransom-via-phone-calls/</link>
       <pubDate>Fri, 05 Jul 2024 11:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Polyfill.io Supply Chain Attack: 384,773 hosts still embedding a polyfill JS script linking to the malicious domain</title>
-      <link>https://securityaffairs.com/165302/hacking/polyfill-io-supply-chain-attack.html</link>
-      <pubDate>Fri, 05 Jul 2024 11:32:00 +0000</pubDate>
     </item>
     <item>
       <title>Blueprint for Success: Implementing a CTEM Operation</title>
@@ -296,16 +306,6 @@
       <title>Meta Faces Suspension of AI Data Training in Brazil</title>
       <link>https://www.infosecurity-magazine.com/news/meta-suspension-ai-data-training/</link>
       <pubDate>Thu, 04 Jul 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volcano Demon ransomware group rings its victims to extort money</title>
-      <link>https://www.tripwire.com/state-of-security/volcano-demon-ransomware-group-rings-its-victims-extort-money</link>
-      <pubDate>Thu, 04 Jul 2024 14:50:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Social media and teen mental health – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/social-media-teen-mental-health-week-security-tony-anscombe/</link>
-      <pubDate>Thu, 04 Jul 2024 14:31:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
