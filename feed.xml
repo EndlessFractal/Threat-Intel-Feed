@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 12:34:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 14:15:36 +0000</lastBuildDate>
+    <item>
+      <title>GOP platform says protecting critical infrastructure from hackers is a ‘national priority’</title>
+      <link>https://therecord.media/rnc-policy-roadmap-critical-infrastructure-cybersecurity</link>
+      <pubDate>Tue, 09 Jul 2024 13:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>New group exploits public cloud services to spy on Russian agencies, Kaspersky says</title>
+      <link>https://therecord.media/cloudsorcerer-apt-kaspersky-research</link>
+      <pubDate>Tue, 09 Jul 2024 13:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Singularity Operations Center | Unified Security Operations for Rapid Triage</title>
+      <link>https://www.sentinelone.com/blog/singularity-operations-center-unified-security-operations-for-rapid-triage/</link>
+      <pubDate>Tue, 09 Jul 2024 13:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Developing and prioritizing a detection engineering backlog based on MITRE ATT&amp;CK</title>
+      <link>https://securelist.com/detection-engineering-backlog-prioritization/113099/</link>
+      <pubDate>Tue, 09 Jul 2024 13:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>A decade of global cyberattacks, and where they left us</title>
+      <link>https://securityintelligence.com/articles/decade-global-cyberattacks-where-they-left-us/</link>
+      <pubDate>Tue, 09 Jul 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RADIUS Protocol Vulnerability Exposes Networks to MitM Attacks</title>
+      <link>https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html</link>
+      <pubDate>Tue, 09 Jul 2024 12:39:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chinese State Actor APT40 Exploits N-Day Vulnerabilities “Within Hours”</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-state-exploits/</link>
@@ -99,7 +129,7 @@
     </item>
     <item>
       <title>OilAlpha Malicious Applications Target Humanitarian Aid Groups Operating in Yemen</title>
-      <link>https://www.recordedfuture.com/oilalpha-spyware-used-to-target-humanitarian-aid-groups</link>
+      <link>https://www.recordedfuture.com/research/oilalpha-spyware-used-to-target-humanitarian-aid-groups</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -123,11 +153,6 @@
       <pubDate>Mon, 08 Jul 2024 19:27:35 +0000</pubDate>
     </item>
     <item>
-      <title>South Africa national lab says ransomware recovery to last until mid-July</title>
-      <link>https://therecord.media/south-africa-national-health-laboratory-service-ransomware-recovery</link>
-      <pubDate>Mon, 08 Jul 2024 19:07:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Critical Ghostscript flaw exploited in the wild. Patch it now!</title>
       <link>https://securityaffairs.com/165449/hacking/ghostscript-vulnerability-cve-2024-29510.html</link>
       <pubDate>Mon, 08 Jul 2024 18:12:51 +0000</pubDate>
@@ -138,13 +163,13 @@
       <pubDate>Mon, 08 Jul 2024 17:59:33 +0000</pubDate>
     </item>
     <item>
-      <title>As Cyber Command evolves, its novel malware alert system fades away</title>
-      <link>https://therecord.media/cyber-command-virustotal-twitter-malware-alerts-cnmf</link>
-      <pubDate>Mon, 08 Jul 2024 17:45:02 +0000</pubDate>
-    </item>
-    <item>
       <title>New APT CloudSorcerer Malware Hits Russian Targets</title>
       <link>https://www.infosecurity-magazine.com/news/cloudsorcerer-malware-hits-russian/</link>
+      <pubDate>Mon, 08 Jul 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DORA: What You Need to Know</title>
+      <link>https://www.hackerone.com/penetration-testing/dora</link>
       <pubDate>Mon, 08 Jul 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -243,6 +268,11 @@
       <pubDate>Mon, 08 Jul 2024 07:15:29 +0000</pubDate>
     </item>
     <item>
+      <title>CloudSorcerer – A new APT targeting Russian government entities</title>
+      <link>https://securelist.com/cloudsorcerer-new-apt-cloud-actor/113056/</link>
+      <pubDate>Mon, 08 Jul 2024 07:00:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Critical Unpatched Flaws Disclosed in Popular Gogs Open-Source Git Service</title>
       <link>https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html</link>
       <pubDate>Mon, 08 Jul 2024 06:55:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Security Affairs Malware Newsletter – Round 1</title>
       <link>https://securityaffairs.com/165406/malware/security-affairs-malware-newsletter-round-1.html</link>
       <pubDate>Sun, 07 Jul 2024 14:07:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boom or Bust? Deciphering Mixed Messages on the Tech Job Market</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/boom-or-bust-deciphering-mixed-messages-on-the-tech-job-market</link>
-      <pubDate>Sun, 07 Jul 2024 09:25:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 479 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/165401/breaking-news/security-affairs-newsletter-round-479-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 07 Jul 2024 09:14:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alabama State Department of Education suffered a data breach following a blocked attack</title>
-      <link>https://securityaffairs.com/165389/uncategorized/alabama-state-department-of-education-data-breach.html</link>
-      <pubDate>Sun, 07 Jul 2024 08:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>GootLoader is still active and efficient</title>
-      <link>https://securityaffairs.com/165368/malware/gootloader-malware-is-still-active.html</link>
-      <pubDate>Sat, 06 Jul 2024 18:47:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 407</title>
-      <link>https://www.troyhunt.com/weekly-update-407/</link>
-      <pubDate>Sat, 06 Jul 2024 03:03:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 Security Tips for Business Travellers This Summer</title>
-      <link>https://www.techrepublic.com/article/cyber-security-tips-business-travel/</link>
-      <pubDate>Fri, 05 Jul 2024 22:32:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
