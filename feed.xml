@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 02:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 04:19:54 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Tuesday, July 9th, 2024 https://isc.sans.edu/podcastdetail/9044, (Tue, Jul 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/31056</link>
+      <pubDate>Tue, 09 Jul 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI Secrets Stolen in 2023 After Internal Forum Was Hacked</title>
       <link>https://www.techrepublic.com/article/openai-hacked-internal-communications/</link>
@@ -301,11 +306,6 @@
       <title>New Golang-Based Zergeca Botnet Capable of Powerful DDoS Attacks</title>
       <link>https://thehackernews.com/2024/07/new-golang-based-zergeca-botnet-capable.html</link>
       <pubDate>Fri, 05 Jul 2024 03:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky Group’s New Backdoor (HappyDoor)</title>
-      <link>https://asec.ahnlab.com/en/67660/</link>
-      <pubDate>Fri, 05 Jul 2024 01:12:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
