@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 18:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 20:18:27 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Patch Tuesday, July 2024 Edition</title>
+      <link>https://krebsonsecurity.com/2024/07/microsoft-patch-tuesday-july-2024-edition/</link>
+      <pubDate>Tue, 09 Jul 2024 19:50:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian state media uses covert software for disinformation bots, US warns</title>
+      <link>https://therecord.media/russia-disinformation-bots-social-media-us-canada-netherlands-alert</link>
+      <pubDate>Tue, 09 Jul 2024 18:34:46 +0000</pubDate>
+    </item>
     <item>
       <title>July Patch Tuesday Unleashes a Torrent of Updates</title>
       <link>https://news.sophos.com/en-us/2024/07/09/july-patch-tuesday-unleashes-a-torrent-of-updates/</link>
@@ -21,6 +31,16 @@
       <title>The AI Fix #6: AI lobotomies, and bots scam scam bots</title>
       <link>https://grahamcluley.com/the-ai-fix-6/</link>
       <pubDate>Tue, 09 Jul 2024 18:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than 31 million customer email addresses exposed following Neiman Marcus data breach</title>
+      <link>https://securityaffairs.com/165492/data-breach/neiman-marcus-data-breach-2.html</link>
+      <pubDate>Tue, 09 Jul 2024 17:47:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday July 2024, (Tue, Jul 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/31058</link>
+      <pubDate>Tue, 09 Jul 2024 17:35:23 +0000</pubDate>
     </item>
     <item>
       <title>Debt collection agency says data breach affected more than 4 million people</title>
@@ -98,11 +118,6 @@
       <pubDate>Tue, 09 Jul 2024 12:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Spyware attributed to pro-Houthi hackers used against militaries across Middle East</title>
-      <link>https://therecord.media/pro-houthi-hackers-yemen-spyware-middle-east-militaries</link>
-      <pubDate>Tue, 09 Jul 2024 12:20:27 +0000</pubDate>
-    </item>
-    <item>
       <title>How do cryptocurrency drainer phishing scams work?</title>
       <link>https://blog.talosintelligence.com/how-do-cryptocurrency-drainer-phishing-scams-work/</link>
       <pubDate>Tue, 09 Jul 2024 12:00:01 +0000</pubDate>
@@ -133,8 +148,23 @@
       <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Adobe Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/07/09/adobe-releases-security-updates-multiple-products</link>
+      <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Releases Seven Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-releases-seven-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/07/09/citrix-releases-security-updates-multiple-products</link>
+      <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases July 2024 Security Updates</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/07/09/microsoft-releases-july-2024-security-updates</link>
       <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>ChatGPT for Mac app flaw left users’ chat history exposed</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/chatgpt-mac-app-flaw-left-users-history-exposed/</link>
       <pubDate>Mon, 08 Jul 2024 14:47:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Warns regreSSHion Vulnerability Impacts Multiple Products</title>
-      <link>https://www.infosecurity-magazine.com/news/cisco-regresshion-vulnerability/</link>
-      <pubDate>Mon, 08 Jul 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia Blocks VPN Services in Information Crackdown</title>
-      <link>https://www.infosecurity-magazine.com/news/russia-blocks-vpn-services-2024/</link>
-      <pubDate>Mon, 08 Jul 2024 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Ransomware-as-a-Service 'Eldorado' Targets Windows and Linux Systems</title>
-      <link>https://thehackernews.com/2024/07/new-ransomware-as-service-eldorado.html</link>
-      <pubDate>Mon, 08 Jul 2024 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Best Endpoint Detection &amp; Response (EDR) Solutions for 2024</title>
-      <link>https://www.techrepublic.com/article/best-edr-software/</link>
-      <pubDate>Mon, 08 Jul 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and Partners join ASD’S ACSC to Release Advisory on PRC State-Sponsored Group, APT 40</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40</link>
-      <pubDate>Mon, 08 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crypto Thefts Double to $1.4 Billion, TRM Labs Finds</title>
-      <link>https://www.infosecurity-magazine.com/news/crypto-thefts-double-2024-trm-labs/</link>
-      <pubDate>Mon, 08 Jul 2024 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
