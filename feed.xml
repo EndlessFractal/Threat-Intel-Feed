@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jul 2024 14:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 16:21:47 +0000</lastBuildDate>
+    <item>
+      <title>15 vulnerabilities discovered in software development kit for wireless routers</title>
+      <link>https://blog.talosintelligence.com/vulnerability-roundup-july-10-2024/</link>
+      <pubDate>Wed, 10 Jul 2024 16:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Outlook Faced Critical Zero-Click RCE Vulnerability</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-outlook-zero-click-rce/</link>
+      <pubDate>Wed, 10 Jul 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scammers harness AI and deepfakes to sell bogus ‘miracle cures’ on Meta platforms</title>
+      <link>https://therecord.media/scammers-harness-ai-deepfakes-medical-bogus</link>
+      <pubDate>Wed, 10 Jul 2024 15:28:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos ZTNA now supports on-premise Microsoft AD</title>
+      <link>https://news.sophos.com/en-us/2024/07/10/sophos-ztna-now-supports-on-premise-microsoft-ad/</link>
+      <pubDate>Wed, 10 Jul 2024 15:16:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>RADIUS Vulnerability</title>
+      <link>https://www.schneier.com/blog/archives/2024/07/radius-vulnerability.html</link>
+      <pubDate>Wed, 10 Jul 2024 14:42:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix fixed critical and high-severity bugs in NetScaler product</title>
+      <link>https://securityaffairs.com/165553/security/citrix-fixed-netscaler-flaw.html</link>
+      <pubDate>Wed, 10 Jul 2024 14:31:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bellingcat warns of ‘censorship’ on X after research on Russian attack is labeled spam</title>
+      <link>https://therecord.media/bellingcat-x-russia-ukraine-spam-accusations</link>
+      <pubDate>Wed, 10 Jul 2024 14:20:49 +0000</pubDate>
+    </item>
     <item>
       <title>Peloton accused of providing customer chat data to train AI</title>
       <link>https://www.malwarebytes.com/blog/news/2024/07/peloton-accused-of-providing-customer-chat-data-to-train-ai</link>
@@ -16,6 +51,11 @@
       <title>Multiple cybersecurity agencies warn of China-linked APT40 ‘s capabilities</title>
       <link>https://securityaffairs.com/165491/breaking-news/apt40-china-joint-report.html</link>
       <pubDate>Wed, 10 Jul 2024 13:17:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Ransomware Group Exploiting Veeam Backup Software Vulnerability</title>
+      <link>https://thehackernews.com/2024/07/new-ransomware-group-exploiting-veeam.html</link>
+      <pubDate>Wed, 10 Jul 2024 13:06:00 +0000</pubDate>
     </item>
     <item>
       <title>Deep Dive on Supplement Scams: How AI Drives ‘Miracle Cures’ and Sponsored Health-Related Scams on Social Media</title>
@@ -153,19 +193,9 @@
       <pubDate>Tue, 09 Jul 2024 20:49:42 +0000</pubDate>
     </item>
     <item>
-      <title>Russia is starting to try to influence US presidential race, intelligence official says</title>
-      <link>https://therecord.media/russia-2024-presidential-race-influence-operations-start</link>
-      <pubDate>Tue, 09 Jul 2024 20:49:19 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Patch Tuesday, July 2024 Edition</title>
       <link>https://krebsonsecurity.com/2024/07/microsoft-patch-tuesday-july-2024-edition/</link>
       <pubDate>Tue, 09 Jul 2024 19:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian state media uses covert software for disinformation bots, US warns</title>
-      <link>https://therecord.media/russia-disinformation-bots-social-media-us-canada-netherlands-alert</link>
-      <pubDate>Tue, 09 Jul 2024 18:34:46 +0000</pubDate>
     </item>
     <item>
       <title>July Patch Tuesday Unleashes a Torrent of Updates</title>
@@ -275,36 +305,6 @@
     <item>
       <title>Johnson Controls Illustra Pro Gen 4</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-191-03</link>
-      <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Johnson Controls Software House C●CURE 9000</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-191-05</link>
-      <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric MELIPC Series MI5122-VW</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-191-02</link>
-      <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/09/citrix-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases July 2024 Security Updates</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/09/microsoft-releases-july-2024-security-updates</link>
-      <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/09/adobe-releases-security-updates-multiple-products</link>
       <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
