@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jul 2024 08:22:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 10:19:19 +0000</lastBuildDate>
+    <item>
+      <title>Inside the ransomware playbook: Analyzing attack chains and mapping common TTPs</title>
+      <link>https://blog.talosintelligence.com/common-ransomware-actor-ttps-playbooks/</link>
+      <pubDate>Wed, 10 Jul 2024 10:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Most Security Pros Admit Shadow SaaS and AI Use</title>
+      <link>https://www.infosecurity-magazine.com/news/most-security-pros-shadow-saas-ai/</link>
+      <pubDate>Wed, 10 Jul 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new flaw in OpenSSH can lead to remote code execution</title>
+      <link>https://securityaffairs.com/165535/hacking/openssh-flaw-cve-2024-6409.html</link>
+      <pubDate>Wed, 10 Jul 2024 09:26:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday for July 2024 fixed 2 actively exploited zero-days</title>
+      <link>https://securityaffairs.com/165520/security/microsoft-patch-tuesday-for-july-2024.html</link>
+      <pubDate>Wed, 10 Jul 2024 08:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Fixes Four Zero-Days in July Patch Tuesday</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-four-zerodays-july-patch/</link>
+      <pubDate>Wed, 10 Jul 2024 08:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. CISA adds Microsoft Windows and Rejetto HTTP File Server bugs to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/165513/security/cisa-adds-windows-rejetto-http-file-server-bugs-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Wed, 10 Jul 2024 07:33:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto Analysts Expose HuiOne Guarantee's $11 Billion Cybercrime Transactions</title>
+      <link>https://thehackernews.com/2024/07/crypto-analysts-expose-huione.html</link>
+      <pubDate>Wed, 10 Jul 2024 07:20:00 +0000</pubDate>
     </item>
     <item>
       <title>ViperSoftX Malware Disguises as eBooks on Torrents to Spread Stealthy Attacks</title>
@@ -101,6 +131,16 @@
       <title>Cyber-Attack on Evolve Bank Exposed Data of 7.6 Million Customers</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-attack-evolve-bank-exposed/</link>
       <pubDate>Tue, 09 Jul 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Run a Cybersecurity Risk Assessment in 5 Steps</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/cybersecurity-risk-assessment/</link>
+      <pubDate>Tue, 09 Jul 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social Engineering Awareness Policy</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/social-engineering-awareness-policy/</link>
+      <pubDate>Tue, 09 Jul 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Eldorado Ransomware Strikes Windows and Linux Networks</title>
@@ -266,46 +306,6 @@
       <title>Avast released a decryptor for DoNex Ransomware and its predecessors</title>
       <link>https://securityaffairs.com/165469/malware/donex-ransomware-decryptor.html</link>
       <pubDate>Tue, 09 Jul 2024 07:51:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Agencies Warn of China-linked APT40's Rapid Exploit Adaptation</title>
-      <link>https://thehackernews.com/2024/07/cybersecurity-agencies-warn-of-china.html</link>
-      <pubDate>Tue, 09 Jul 2024 05:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trojanized jQuery Packages Found on npm, GitHub, and jsDelivr Code Repositories</title>
-      <link>https://thehackernews.com/2024/07/trojanized-jquery-packages-found-on-npm.html</link>
-      <pubDate>Tue, 09 Jul 2024 04:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, July 9th, 2024 https://isc.sans.edu/podcastdetail/9044, (Tue, Jul 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/31056</link>
-      <pubDate>Tue, 09 Jul 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>OilAlpha Malicious Applications Target Humanitarian Aid Groups Operating in Yemen</title>
-      <link>https://www.recordedfuture.com/research/oilalpha-spyware-used-to-target-humanitarian-aid-groups</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Secrets Stolen in 2023 After Internal Forum Was Hacked</title>
-      <link>https://www.techrepublic.com/article/openai-hacked-internal-communications/</link>
-      <pubDate>Mon, 08 Jul 2024 23:23:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>RockYou2024 compilation containing 10 billion passwords was leaked online</title>
-      <link>https://securityaffairs.com/165460/data-breach/rockyou2024-compilation-10b-passwords.html</link>
-      <pubDate>Mon, 08 Jul 2024 22:09:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shopify says stolen customer data was taken in third-party breach</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/07/shopify-says-stolen-customer-data-was-taken-in-third-party-breach</link>
-      <pubDate>Mon, 08 Jul 2024 19:27:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Ghostscript flaw exploited in the wild. Patch it now!</title>
-      <link>https://securityaffairs.com/165449/hacking/ghostscript-vulnerability-cve-2024-29510.html</link>
-      <pubDate>Mon, 08 Jul 2024 18:12:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
