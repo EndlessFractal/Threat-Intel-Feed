@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jul 2024 06:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 08:22:57 +0000</lastBuildDate>
+    <item>
+      <title>U.S. CISA adds Microsoft Windows and Rejetto HTTP File Server bugs to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/165513/security/cisa-adds-windows-rejetto-http-file-server-bugs-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 10 Jul 2024 07:33:01 +0000</pubDate>
+    </item>
     <item>
       <title>ViperSoftX Malware Disguises as eBooks on Torrents to Spread Stealthy Attacks</title>
       <link>https://thehackernews.com/2024/07/vipersoftx-malware-disguises-as-ebooks.html</link>
@@ -301,11 +306,6 @@
       <title>Critical Ghostscript flaw exploited in the wild. Patch it now!</title>
       <link>https://securityaffairs.com/165449/hacking/ghostscript-vulnerability-cve-2024-29510.html</link>
       <pubDate>Mon, 08 Jul 2024 18:12:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the CSRB’s Non-Investigation of the SolarWinds Attack</title>
-      <link>https://www.schneier.com/blog/archives/2024/07/on-the-csrbs-non-investigation-of-the-solarwinds-attack.html</link>
-      <pubDate>Mon, 08 Jul 2024 17:59:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
