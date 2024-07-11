@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 18:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 20:17:29 +0000</lastBuildDate>
+    <item>
+      <title>BlastRADIUS Vulnerability Discovered in RADIUS Protocol Used in Corporate Networks and Cloud</title>
+      <link>https://www.techrepublic.com/article/blastradius-vulnerability-radius-protocol/</link>
+      <pubDate>Thu, 11 Jul 2024 20:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacker ‘Tank’ gets prison sentence for connections to Zeus and IcedID malware</title>
+      <link>https://therecord.media/hacker-tank-sentenced-zeus-icedid</link>
+      <pubDate>Thu, 11 Jul 2024 19:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advance Auto Parts says more than 2 million impacted by data breach</title>
+      <link>https://therecord.media/advance-auto-parts-data-breach-2million</link>
+      <pubDate>Thu, 11 Jul 2024 18:27:44 +0000</pubDate>
+    </item>
     <item>
       <title>The State of Ransomware in Education 2024</title>
       <link>https://news.sophos.com/en-us/2024/07/11/the-state-of-ransomware-in-education-2024/</link>
       <pubDate>Thu, 11 Jul 2024 18:12:28 +0000</pubDate>
     </item>
     <item>
+      <title>Understanding SSH Honeypot Logs: Attackers Fingerprinting Honeypots, (Thu, Jul 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/31064</link>
+      <pubDate>Thu, 11 Jul 2024 18:03:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Checking in on the state of cybersecurity and the Olympics</title>
       <link>https://blog.talosintelligence.com/threat-source-newsletter-july-12-2024/</link>
       <pubDate>Thu, 11 Jul 2024 18:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feedback-Driven Interviewing at HackerOne</title>
+      <link>https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone</link>
+      <pubDate>Thu, 11 Jul 2024 17:50:35 +0000</pubDate>
     </item>
     <item>
       <title>Russian disinformation network’s infrastructure is spread across Europe, report says</title>
@@ -58,19 +83,9 @@
       <pubDate>Thu, 11 Jul 2024 14:08:29 +0000</pubDate>
     </item>
     <item>
-      <title>Macau government websites hit with cyberattack by suspected foreign hackers</title>
-      <link>https://therecord.media/macau-government-websites-hit-with-cyberattack</link>
-      <pubDate>Thu, 11 Jul 2024 13:45:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Smashing Security podcast #380: Teachers TikTok targeted, and fraud in the doctors’ waiting room</title>
       <link>https://grahamcluley.com/smashing-security-podcast-380/</link>
       <pubDate>Thu, 11 Jul 2024 13:43:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>NATO members commit to creating new cyber center in Belgium</title>
-      <link>https://therecord.media/nato-cyberdefense-center-belgium-announcement</link>
-      <pubDate>Thu, 11 Jul 2024 13:36:52 +0000</pubDate>
     </item>
     <item>
       <title>CISA Urges Software Makers to Eliminate OS Command Injection Vulnerabilities</title>
@@ -268,6 +283,11 @@
       <pubDate>Wed, 10 Jul 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Pentesting for Web Applications</title>
+      <link>https://www.hackerone.com/penetration-testing/web-applications</link>
+      <pubDate>Wed, 10 Jul 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Microsoft Outlook Faced Critical Zero-Click RCE Vulnerability</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-outlook-zero-click-rce/</link>
       <pubDate>Wed, 10 Jul 2024 15:30:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Citrix fixed critical and high-severity bugs in NetScaler product</title>
       <link>https://securityaffairs.com/165553/security/citrix-fixed-netscaler-flaw.html</link>
       <pubDate>Wed, 10 Jul 2024 14:31:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peloton accused of providing customer chat data to train AI</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/07/peloton-accused-of-providing-customer-chat-data-to-train-ai</link>
-      <pubDate>Wed, 10 Jul 2024 13:44:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple cybersecurity agencies warn of China-linked APT40 ‘s capabilities</title>
-      <link>https://securityaffairs.com/165491/breaking-news/apt40-china-joint-report.html</link>
-      <pubDate>Wed, 10 Jul 2024 13:17:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Ransomware Group Exploiting Veeam Backup Software Vulnerability</title>
-      <link>https://thehackernews.com/2024/07/new-ransomware-group-exploiting-veeam.html</link>
-      <pubDate>Wed, 10 Jul 2024 13:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deep Dive on Supplement Scams: How AI Drives ‘Miracle Cures’ and Sponsored Health-Related Scams on Social Media</title>
-      <link>https://www.bitdefender.com/blog/labs/deep-dive-on-supplement-scams-how-ai-drives-miracle-cures-and-sponsored-health-related-scams-on-social-media/</link>
-      <pubDate>Wed, 10 Jul 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
