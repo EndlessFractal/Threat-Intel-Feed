@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 14:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 16:20:48 +0000</lastBuildDate>
+    <item>
+      <title>Palo Alto Networks Patches Critical Flaw in Expedition Migration Tool</title>
+      <link>https://thehackernews.com/2024/07/palo-alto-networks-patches-critical.html</link>
+      <pubDate>Thu, 11 Jul 2024 15:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese cyber agency accused of 'false and baseless' claims about US interfering in Volt Typhoon research</title>
+      <link>https://therecord.media/china-cyber-agency-claims-us-interference-volt-typhoon-research</link>
+      <pubDate>Thu, 11 Jul 2024 15:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Is Alerting iPhone Users of Spyware Attacks</title>
+      <link>https://www.schneier.com/blog/archives/2024/07/apple-is-alerting-iphone-users-of-spyware-attacks.html</link>
+      <pubDate>Thu, 11 Jul 2024 15:09:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>60 New Malicious Packages Uncovered in NuGet Supply Chain Attack</title>
+      <link>https://thehackernews.com/2024/07/60-new-malicious-packages-uncovered-in.html</link>
+      <pubDate>Thu, 11 Jul 2024 15:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple threat actors exploit PHP flaw CVE-2024-4577 to deliver malware</title>
+      <link>https://securityaffairs.com/165586/hacking/php-flaw-cve-2024-4577-actively-exploited.html</link>
+      <pubDate>Thu, 11 Jul 2024 14:31:19 +0000</pubDate>
+    </item>
     <item>
       <title>Exposed! The AI-enhanced social media bot farm that pumped out Kremlin propaganda on Twitter</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/exposed-the-ai-enhanced-social-media-bot-farm-that-pumped-out-kremlin-propaganda-on-twitter/</link>
@@ -50,6 +75,66 @@
     <item>
       <title>Fraud Campaign Targets Russians with Fake Olympics Tickets</title>
       <link>https://www.infosecurity-magazine.com/news/fraud-campaign-russians-fake/</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens JT Open and PLM XML SDK</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-10</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC and SIMIT</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-07</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Simcenter Femap</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-04</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Remote Connect Server</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-01</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation ThinManager ThinServer</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-18</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEMA Remote Connect Server</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-15</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens TIA Portal and SIMATIC STEP 7</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-12</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEMA Remote Connect Server</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-09</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-06</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Teamcenter Visualization and JT2Go</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-03</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Twenty-one Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-twenty-one-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization</link>
       <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -178,11 +263,6 @@
       <pubDate>Wed, 10 Jul 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Scammers harness AI and deepfakes to sell bogus ‘miracle cures’ on Meta platforms</title>
-      <link>https://therecord.media/scammers-harness-ai-deepfakes-medical-bogus</link>
-      <pubDate>Wed, 10 Jul 2024 15:28:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Sophos ZTNA now supports on-premise Microsoft AD</title>
       <link>https://news.sophos.com/en-us/2024/07/10/sophos-ztna-now-supports-on-premise-microsoft-ad/</link>
       <pubDate>Wed, 10 Jul 2024 15:16:31 +0000</pubDate>
@@ -226,86 +306,6 @@
       <title>Finding Honeypot Data Clusters Using DBSCAN: Part 1, (Wed, Jul 10th)</title>
       <link>https://isc.sans.edu/diary/rss/31050</link>
       <pubDate>Wed, 10 Jul 2024 12:21:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hidden between the tags: Insights into spammers’ evasion techniques in HTML Smuggling</title>
-      <link>https://blog.talosintelligence.com/hidden-between-the-tags-insights-into-evasion-techniques-in-html-smuggling/</link>
-      <pubDate>Wed, 10 Jul 2024 12:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Groups Prioritize Defense Evasion for Data Exfiltration</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-defense-evasion-data/</link>
-      <pubDate>Wed, 10 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and FBI Release Secure by Design Alert on Eliminating OS Command Injection Vulnerabilities</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/10/cisa-and-fbi-release-secure-design-alert-eliminating-os-command-injection-vulnerabilities</link>
-      <pubDate>Wed, 10 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky APT Campaign Detection Targeting Japanese Organizations</title>
-      <link>https://socprime.com/blog/kimsuky-apt-campaign-detection-targeting-japanese-organizations/</link>
-      <pubDate>Wed, 10 Jul 2024 11:36:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smash-and-Grab Extortion</title>
-      <link>https://thehackernews.com/2024/07/smash-and-grab-extortion.html</link>
-      <pubDate>Wed, 10 Jul 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's July Update Patches 143 Flaws, Including Two Actively Exploited</title>
-      <link>https://thehackernews.com/2024/07/microsofts-july-update-patches-143.html</link>
-      <pubDate>Wed, 10 Jul 2024 11:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>True Protection or False Promise? The Ultimate ITDR Shortlisting Guide</title>
-      <link>https://thehackernews.com/2024/07/true-protection-or-false-promise.html</link>
-      <pubDate>Wed, 10 Jul 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Media Uses AI-Powered Software to Spread Disinformation</title>
-      <link>https://www.infosecurity-magazine.com/news/russia-rt-ai-software/</link>
-      <pubDate>Wed, 10 Jul 2024 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Adds Passkeys to Advanced Protection Program for High-Risk Users</title>
-      <link>https://thehackernews.com/2024/07/google-adds-passkeys-to-advanced.html</link>
-      <pubDate>Wed, 10 Jul 2024 10:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the ransomware playbook: Analyzing attack chains and mapping common TTPs</title>
-      <link>https://blog.talosintelligence.com/common-ransomware-actor-ttps-playbooks/</link>
-      <pubDate>Wed, 10 Jul 2024 10:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most Security Pros Admit Shadow SaaS and AI Use</title>
-      <link>https://www.infosecurity-magazine.com/news/most-security-pros-shadow-saas-ai/</link>
-      <pubDate>Wed, 10 Jul 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding IoT security risks and how to mitigate them | Cybersecurity podcast</title>
-      <link>https://www.welivesecurity.com/en/videos/understanding-iot-security-risks-mitigate-cybersecurity-podcast/</link>
-      <pubDate>Wed, 10 Jul 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new flaw in OpenSSH can lead to remote code execution</title>
-      <link>https://securityaffairs.com/165535/hacking/openssh-flaw-cve-2024-6409.html</link>
-      <pubDate>Wed, 10 Jul 2024 09:26:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday for July 2024 fixed 2 actively exploited zero-days</title>
-      <link>https://securityaffairs.com/165520/security/microsoft-patch-tuesday-for-july-2024.html</link>
-      <pubDate>Wed, 10 Jul 2024 08:48:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes Four Zero-Days in July Patch Tuesday</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-four-zerodays-july-patch/</link>
-      <pubDate>Wed, 10 Jul 2024 08:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Microsoft Windows and Rejetto HTTP File Server bugs to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/165513/security/cisa-adds-windows-rejetto-http-file-server-bugs-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 10 Jul 2024 07:33:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
