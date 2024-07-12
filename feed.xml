@@ -6,9 +6,14 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 18:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 20:18:03 +0000</lastBuildDate>
     <item>
-      <title>Hackers Steal Phone, SMS Records for Nearly All AT&amp;T Customers</title>
+      <title>Critical flaw in Exim MTA could allow to deliver malware to users’ inboxes</title>
+      <link>https://securityaffairs.com/165649/hacking/critical-flaw-exim-mta.html</link>
+      <pubDate>Fri, 12 Jul 2024 19:25:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crooks Steal Phone, SMS Records for Nearly All AT&amp;T Customers</title>
       <link>https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/</link>
       <pubDate>Fri, 12 Jul 2024 18:12:20 +0000</pubDate>
     </item>
@@ -300,11 +305,6 @@
     <item>
       <title>Siemens RUGGEDCOM</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-06</link>
-      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Teamcenter Visualization and JT2Go</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-193-03</link>
       <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
