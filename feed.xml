@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 16:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 18:23:11 +0000</lastBuildDate>
+    <item>
+      <title>Hacking Scientific Citations</title>
+      <link>https://www.schneier.com/blog/archives/2024/07/hacking-scientific-citations.html</link>
+      <pubDate>Mon, 15 Jul 2024 17:13:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Token Leak Exposes Python's Core Repositories to Potential Attacks</title>
+      <link>https://thehackernews.com/2024/07/github-token-leak-exposes-pythons-core.html</link>
+      <pubDate>Mon, 15 Jul 2024 16:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>CRYSTALRAY Cyber-Attacks Grow Tenfold Using OSS Tools</title>
       <link>https://www.infosecurity-magazine.com/news/crystalray-cyber-attacks-grow/</link>
@@ -296,16 +306,6 @@
       <title>Australian Defence Force Private and Husband Charged with Espionage for Russia</title>
       <link>https://thehackernews.com/2024/07/australian-defence-force-private-and.html</link>
       <pubDate>Fri, 12 Jul 2024 12:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AT&amp;T Discloses Breach of Customer Data</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/12/att-discloses-breach-customer-data</link>
-      <pubDate>Fri, 12 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The NSA Has a Long-Lost Lecture by Adm. Grace Hopper</title>
-      <link>https://www.schneier.com/blog/archives/2024/07/the-nsa-has-a-long-lost-lecture-by-adm-grace-hopper.html</link>
-      <pubDate>Fri, 12 Jul 2024 11:04:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
