@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 08:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 10:15:57 +0000</lastBuildDate>
+    <item>
+      <title>Malicious npm Packages Found Using Image Files to Hide Backdoor Code</title>
+      <link>https://thehackernews.com/2024/07/malicious-npm-packages-found-using.html</link>
+      <pubDate>Tue, 16 Jul 2024 10:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of BadPack: One Weird Trick Being Used Against Android Devices</title>
+      <link>https://unit42.paloaltonetworks.com/apk-badpack-malware-tampered-headers/</link>
+      <pubDate>Tue, 16 Jul 2024 10:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Reply-chain phishing" with a twist, (Tue, Jul 16th)</title>
+      <link>https://isc.sans.edu/diary/rss/31084</link>
+      <pubDate>Tue, 16 Jul 2024 09:32:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kaspersky leaves U.S. market following the ban on the sale of its software in the country</title>
+      <link>https://securityaffairs.com/165799/breaking-news/kaspersky-is-leaving-the-u-s-market.html</link>
+      <pubDate>Tue, 16 Jul 2024 09:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kaspersky to Quit US Following Commerce Department Ban</title>
+      <link>https://www.infosecurity-magazine.com/news/kaspersky-to-quit-us/</link>
+      <pubDate>Tue, 16 Jul 2024 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Hackers Deploy New BugSleep Backdoor in Middle East Cyber Attacks</title>
+      <link>https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html</link>
+      <pubDate>Tue, 16 Jul 2024 09:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Void Banshee APT Exploits Microsoft MHTML Flaw to Spread Atlantida Stealer</title>
+      <link>https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html</link>
+      <pubDate>Tue, 16 Jul 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two-Fifths of Senior Citizens Suffer Frequent Fraud Attempts</title>
+      <link>https://www.infosecurity-magazine.com/news/senior-citizens-frequent-fraud/</link>
+      <pubDate>Tue, 16 Jul 2024 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kaspersky Exits U.S. Market Following Commerce Department Ban</title>
       <link>https://thehackernews.com/2024/07/kaspersky-exits-us-market-following.html</link>
@@ -76,6 +116,11 @@
       <title>Hacking Scientific Citations</title>
       <link>https://www.schneier.com/blog/archives/2024/07/hacking-scientific-citations.html</link>
       <pubDate>Mon, 15 Jul 2024 17:13:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disney hacked? NullBulge claims to have stolen 1.1 TB of data from internal Slack channels</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/disney-hacked-nullbulge-1-1-tb-data-internal-slack/</link>
+      <pubDate>Mon, 15 Jul 2024 16:20:31 +0000</pubDate>
     </item>
     <item>
       <title>GitHub Token Leak Exposes Python's Core Repositories to Potential Attacks</title>
@@ -261,51 +306,6 @@
       <title>AT&amp;T Confirms Data Breach Affecting Nearly All Wireless Customers</title>
       <link>https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html</link>
       <pubDate>Sat, 13 Jul 2024 05:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New AT&amp;T data breach exposed call logs of almost all customers</title>
-      <link>https://securityaffairs.com/165658/data-breach/att-disclosed-a-new-data-breach.html</link>
-      <pubDate>Fri, 12 Jul 2024 21:40:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: 1994 Lair of Squid Game</title>
-      <link>https://www.schneier.com/blog/archives/2024/07/friday-squid-blogging-1994-lair-of-squid-game.html</link>
-      <pubDate>Fri, 12 Jul 2024 21:01:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crooks Steal Phone, SMS Records for Nearly All AT&amp;T Customers</title>
-      <link>https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/</link>
-      <pubDate>Fri, 12 Jul 2024 18:12:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Microsoft Teams for Mac delivers Atomic Stealer</title>
-      <link>https://www.malwarebytes.com/blog/threat-intelligence/2024/07/fake-microsoft-teams-for-mac-delivers-atomic-stealer</link>
-      <pubDate>Fri, 12 Jul 2024 16:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attacks against the "Nette" PHP framework CVE-2020-15227, (Fri, Jul 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/31076</link>
-      <pubDate>Fri, 12 Jul 2024 15:58:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dangerous monitoring tool mSpy suffers data breach, exposes customer details</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/07/dangerous-monitoring-tool-mspy-suffers-data-breach-exposes-customer-details</link>
-      <pubDate>Fri, 12 Jul 2024 15:32:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 28</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-28-6/</link>
-      <pubDate>Fri, 12 Jul 2024 15:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>DarkGate Malware Exploits Samba File Shares in Short-Lived Campaign</title>
-      <link>https://thehackernews.com/2024/07/darkgate-malware-exploits-samba-file.html</link>
-      <pubDate>Fri, 12 Jul 2024 14:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Downloaded Call Logs from Cloud Platform in AT&amp;T Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-downloaded-call-logs-cloud/</link>
-      <pubDate>Fri, 12 Jul 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
