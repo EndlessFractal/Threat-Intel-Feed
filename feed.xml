@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jul 2024 14:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 16:21:59 +0000</lastBuildDate>
+    <item>
+      <title>Cloudflare Reports that Almost 7% of All Internet Traffic Is Malicious</title>
+      <link>https://www.schneier.com/blog/archives/2024/07/cloudflare-reports-that-almost-7-of-all-internet-traffic-is-malicious.html</link>
+      <pubDate>Wed, 17 Jul 2024 16:03:20 +0000</pubDate>
+    </item>
     <item>
       <title>Dark Web Shows Cybercriminals Ready for Olympics. Are You?</title>
       <link>https://feeds.fortinet.com/~/901311299/0/fortinet/blog/threat-research~Dark-Web-Shows-Cybercriminals-Ready-for-Olympics-Are-You</link>
       <pubDate>Wed, 17 Jul 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HardBit ransomware – what you need to know</title>
+      <link>https://www.tripwire.com/state-of-security/hardbit-ransomware-what-you-need-know</link>
+      <pubDate>Wed, 17 Jul 2024 15:33:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Ransomware’s Sophisticated Tactics Unveiled By Experts</title>
+      <link>https://www.infosecurity-magazine.com/news/qilin-ransomwares-tactics-unveiled/</link>
+      <pubDate>Wed, 17 Jul 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICO Reprimands London Council for Mass Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/ico-london-council-data-breach/</link>
+      <pubDate>Wed, 17 Jul 2024 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Void Banshee exploits CVE-2024-38112 zero-day to spread malware</title>
+      <link>https://securityaffairs.com/165832/apt/void-banshee-cve-2024-38112-zero-day-attacks.html</link>
+      <pubDate>Wed, 17 Jul 2024 14:16:11 +0000</pubDate>
     </item>
     <item>
       <title>Understanding NullBulge, the New AI-Fighting 'Hacktivist' Group</title>
@@ -51,6 +76,11 @@
       <title>Iraq-based cybercriminals deploy malicious Python packages to steal data</title>
       <link>https://therecord.media/iraq-cybercriminals-python-based-infostealer-pypi</link>
       <pubDate>Wed, 17 Jul 2024 12:37:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Wed, 17 Jul 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackney Council in London reprimanded for failing to prevent ransomware attack</title>
@@ -228,11 +258,6 @@
       <pubDate>Tue, 16 Jul 2024 09:15:35 +0000</pubDate>
     </item>
     <item>
-      <title>Kaspersky to Quit US Following Commerce Department Ban</title>
-      <link>https://www.infosecurity-magazine.com/news/kaspersky-to-quit-us/</link>
-      <pubDate>Tue, 16 Jul 2024 09:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Iranian Hackers Deploy New BugSleep Backdoor in Middle East Cyber Attacks</title>
       <link>https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html</link>
       <pubDate>Tue, 16 Jul 2024 09:13:00 +0000</pubDate>
@@ -241,11 +266,6 @@
       <title>Void Banshee APT Exploits Microsoft MHTML Flaw to Spread Atlantida Stealer</title>
       <link>https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html</link>
       <pubDate>Tue, 16 Jul 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two-Fifths of Senior Citizens Suffer Frequent Fraud Attempts</title>
-      <link>https://www.infosecurity-magazine.com/news/senior-citizens-frequent-fraud/</link>
-      <pubDate>Tue, 16 Jul 2024 08:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Kaspersky Exits U.S. Market Following Commerce Department Ban</title>
@@ -286,26 +306,6 @@
       <title>AT&amp;T paid a $370,000 ransom to prevent stolen data from being leaked</title>
       <link>https://securityaffairs.com/165755/cyber-crime/att-paid-370000-ransom.html</link>
       <pubDate>Mon, 15 Jul 2024 19:17:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 Years of the GitHub Security Bug Bounty Program</title>
-      <link>https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program</link>
-      <pubDate>Mon, 15 Jul 2024 17:50:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacking Scientific Citations</title>
-      <link>https://www.schneier.com/blog/archives/2024/07/hacking-scientific-citations.html</link>
-      <pubDate>Mon, 15 Jul 2024 17:13:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disney hacked? NullBulge claims to have stolen 1.1 TB of data from internal Slack channels</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/disney-hacked-nullbulge-1-1-tb-data-internal-slack/</link>
-      <pubDate>Mon, 15 Jul 2024 16:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Token Leak Exposes Python's Core Repositories to Potential Attacks</title>
-      <link>https://thehackernews.com/2024/07/github-token-leak-exposes-pythons-core.html</link>
-      <pubDate>Mon, 15 Jul 2024 16:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
