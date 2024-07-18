@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jul 2024 16:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 18:24:13 +0000</lastBuildDate>
+    <item>
+      <title>It's best to just assume you’ve been involved in a data breach somehow</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-july-18-2024/</link>
+      <pubDate>Thu, 18 Jul 2024 18:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP AI Core Flaws Expose Sensitive Customer Data and Keys</title>
+      <link>https://www.infosecurity-magazine.com/news/sap-ai-core-expose-customer-data/</link>
+      <pubDate>Thu, 18 Jul 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HotPage Malware Hijacks Browsers With Signed Microsoft Driver</title>
+      <link>https://www.infosecurity-magazine.com/news/hotpage-hijacks-browsers-microsoft/</link>
+      <pubDate>Thu, 18 Jul 2024 16:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chainalysis Launches Public-Private Plans to Crack Down on Crypto Scams</title>
       <link>https://www.infosecurity-magazine.com/news/chainalysis-operation-spincaster/</link>
@@ -28,16 +43,6 @@
       <pubDate>Thu, 18 Jul 2024 14:18:45 +0000</pubDate>
     </item>
     <item>
-      <title>How a little-known tool is sweeping the real estate industry by giving instant access to vast amounts of homebuyer data</title>
-      <link>https://therecord.media/forewarn-app-real-estate-homebuyer-data</link>
-      <pubDate>Thu, 18 Jul 2024 13:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile internet and social media disrupted in Bangladesh amid student protests</title>
-      <link>https://therecord.media/bangladesh-mobile-internet-social-media-outages-student-protests</link>
-      <pubDate>Thu, 18 Jul 2024 13:33:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Alert: HotPage Adware Disguised as Ad Blocker Installs Malicious Kernel Driver</title>
       <link>https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html</link>
       <pubDate>Thu, 18 Jul 2024 13:26:00 +0000</pubDate>
@@ -56,11 +61,6 @@
       <title>UAC-0180 Targets Defense Contractors in Ukraine Using GLUEEGG, DROPCLUE, and ATERA</title>
       <link>https://socprime.com/blog/uac-0180-targets-defense-contractors-in-ukraine-using-glueegg-dropclue-and-atera/</link>
       <pubDate>Thu, 18 Jul 2024 12:29:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New hacker group uses open-source tools to spy on entities in Asia-Pacific region</title>
-      <link>https://therecord.media/tag-100-espionage-hacking-backdoors-asia-pacific</link>
-      <pubDate>Thu, 18 Jul 2024 12:21:48 +0000</pubDate>
     </item>
     <item>
       <title>Subnet Solutions PowerSYSTEM Center</title>
@@ -96,16 +96,6 @@
       <title>AppSec Webinar: How to Turn Developers into Security Champions</title>
       <link>https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html</link>
       <pubDate>Thu, 18 Jul 2024 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK national blood stocks in 'very fragile' state following ransomware attack</title>
-      <link>https://therecord.media/uk-blood-stocks-ransomware-attack-london-hospitals</link>
-      <pubDate>Thu, 18 Jul 2024 11:39:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Von der Leyen pledges to tackle ransomware attacks against EU hospitals</title>
-      <link>https://therecord.media/von-der-leyen-european-commission-hospital-ransomware</link>
-      <pubDate>Thu, 18 Jul 2024 11:26:54 +0000</pubDate>
     </item>
     <item>
       <title>Cybercrime group FIN7 advertises new EDR bypass tool on hacking forums</title>
@@ -306,6 +296,16 @@
       <title>Avast SecureLine VPN vs NordVPN (2024): Which VPN Is Better?</title>
       <link>https://www.techrepublic.com/article/avast-secureline-vpn-vs-nordvpn/</link>
       <pubDate>Wed, 17 Jul 2024 10:23:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Private HTS Program Continuously Used in Attacks</title>
+      <link>https://asec.ahnlab.com/en/67969/</link>
+      <pubDate>Wed, 17 Jul 2024 09:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Police Swoop on Black Axe Cybercrime Syndicate</title>
+      <link>https://www.infosecurity-magazine.com/news/global-police-black-axe-cybercrime/</link>
+      <pubDate>Wed, 17 Jul 2024 09:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
