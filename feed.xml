@@ -6,16 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jul 2024 10:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 12:32:38 +0000</lastBuildDate>
+    <item>
+      <title>Investigation prompts European hosting companies to suspend accounts linked to Russian disinfo</title>
+      <link>https://therecord.media/european-web-hosting-companies-doppelganger-disinformation-shutdowns</link>
+      <pubDate>Fri, 19 Jul 2024 12:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Widespread Windows Crashes Due to Crowdstrike Updates, (Fri, Jul 19th)</title>
+      <link>https://isc.sans.edu/diary/rss/31094</link>
+      <pubDate>Fri, 19 Jul 2024 11:04:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Safeguard Personal and Corporate Identities with Identity Intelligence</title>
+      <link>https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html</link>
+      <pubDate>Fri, 19 Jul 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crowdstrike oopsie crashes Windows workstations across the world</title>
+      <link>https://therecord.media/crowdstrike-update-crashes-windows-devices-globally</link>
+      <pubDate>Fri, 19 Jul 2024 10:34:26 +0000</pubDate>
+    </item>
     <item>
       <title>CrowdStrike Fault Causes Global IT Outages</title>
       <link>https://www.infosecurity-magazine.com/news/crowdstrike-fault-it-outages/</link>
-      <pubDate>Fri, 19 Jul 2024 09:33:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2024 09:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>Summary of "AI Leaders Spill Their Secrets" Webinar</title>
-      <link>https://thehackernews.com/2024/07/summary-of-ai-leaders-spill-their.html</link>
-      <pubDate>Fri, 19 Jul 2024 08:55:00 +0000</pubDate>
+      <title>Pro-Houthi Group Targets Yemen Aid Organizations with Android Spyware</title>
+      <link>https://thehackernews.com/2024/07/pro-houthi-group-targets-yemen-aid.html</link>
+      <pubDate>Fri, 19 Jul 2024 09:29:00 +0000</pubDate>
     </item>
     <item>
       <title>Cisco fixed a critical flaw in Security Email Gateway that could allow attackers to add root users</title>
@@ -26,6 +46,11 @@
       <title>APT41 Infiltrates Networks in Italy, Spain, Taiwan, Turkey, and the U.K.</title>
       <link>https://thehackernews.com/2024/07/apt41-infiltrates-networks-in-italy.html</link>
       <pubDate>Fri, 19 Jul 2024 07:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Summary of "AI Leaders Spill Their Secrets" Webinar</title>
+      <link>https://thehackernews.com/2024/07/summary-of-ai-leaders-spill-their.html</link>
+      <pubDate>Fri, 19 Jul 2024 07:20:00 +0000</pubDate>
     </item>
     <item>
       <title>SolarWinds Patches 11 Critical Flaws in Access Rights Manager Software</title>
@@ -73,11 +98,6 @@
       <pubDate>Thu, 18 Jul 2024 18:00:24 +0000</pubDate>
     </item>
     <item>
-      <title>Crypto experts, law enforcement shut down network stealing billions through ‘approval phishing’</title>
-      <link>https://therecord.media/crypto-experts-law-enforcement-take-down-approval-phishing-scams</link>
-      <pubDate>Thu, 18 Jul 2024 17:32:14 +0000</pubDate>
-    </item>
-    <item>
       <title>SAP AI Core Flaws Expose Sensitive Customer Data and Keys</title>
       <link>https://www.infosecurity-magazine.com/news/sap-ai-core-expose-customer-data/</link>
       <pubDate>Thu, 18 Jul 2024 17:00:00 +0000</pubDate>
@@ -106,11 +126,6 @@
       <title>SAPwned flaws in SAP AI core could expose customers’ data</title>
       <link>https://securityaffairs.com/165888/hacking/sap-ai-core-sapwned.html</link>
       <pubDate>Thu, 18 Jul 2024 14:18:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a little-known tool is sweeping the real estate industry by giving instant access to vast amounts of homebuyer data</title>
-      <link>https://therecord.media/forewarn-app-real-estate-homebuyer-data</link>
-      <pubDate>Thu, 18 Jul 2024 13:50:00 +0000</pubDate>
     </item>
     <item>
       <title>Alert: HotPage Adware Disguised as Ad Blocker Installs Malicious Kernel Driver</title>
@@ -196,6 +211,11 @@
       <title>SAP AI Core Vulnerabilities Expose Customer Data to Cyber Attacks</title>
       <link>https://thehackernews.com/2024/07/sap-ai-core-vulnerabilities-expose.html</link>
       <pubDate>Thu, 18 Jul 2024 09:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HotPage: Story of a signed, vulnerable, ad-injecting driver</title>
+      <link>https://www.welivesecurity.com/en/eset-research/hotpage-story-signed-vulnerable-ad-injecting-driver/</link>
+      <pubDate>Thu, 18 Jul 2024 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Protect Privacy and Build Secure AI Products</title>
@@ -286,26 +306,6 @@
       <title>Cloudflare Reports that Almost 7% of All Internet Traffic Is Malicious</title>
       <link>https://www.schneier.com/blog/archives/2024/07/cloudflare-reports-that-almost-7-of-all-internet-traffic-is-malicious.html</link>
       <pubDate>Wed, 17 Jul 2024 16:03:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is Two-Factor Authentication?</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/what-is-two-factor-authentication/</link>
-      <pubDate>Wed, 17 Jul 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Shows Cybercriminals Ready for Olympics. Are You?</title>
-      <link>https://feeds.fortinet.com/~/901311299/0/fortinet/blog/threat-research~Dark-Web-Shows-Cybercriminals-Ready-for-Olympics-Are-You</link>
-      <pubDate>Wed, 17 Jul 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HardBit ransomware – what you need to know</title>
-      <link>https://www.tripwire.com/state-of-security/hardbit-ransomware-what-you-need-know</link>
-      <pubDate>Wed, 17 Jul 2024 15:33:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Ransomware’s Sophisticated Tactics Unveiled By Experts</title>
-      <link>https://www.infosecurity-magazine.com/news/qilin-ransomwares-tactics-unveiled/</link>
-      <pubDate>Wed, 17 Jul 2024 15:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
