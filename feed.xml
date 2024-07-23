@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 04:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 06:24:44 +0000</lastBuildDate>
+    <item>
+      <title>Google Abandons Plan to Phase Out Third-Party Cookies in Chrome</title>
+      <link>https://thehackernews.com/2024/07/google-abandons-plan-to-phase-out-third.html</link>
+      <pubDate>Tue, 23 Jul 2024 04:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, July 23rd, 2024 https://isc.sans.edu/podcastdetail/9064, (Tue, Jul 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/31100</link>
@@ -133,6 +138,11 @@
       <pubDate>Mon, 22 Jul 2024 09:42:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cursed tapes: Exploiting the EvilVideo vulnerability on Telegram for Android</title>
+      <link>https://www.welivesecurity.com/en/eset-research/cursed-tapes-exploiting-evilvideo-vulnerability-telegram-android/</link>
+      <pubDate>Mon, 22 Jul 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Two Russians Convicted for Role in LockBit Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/russians-convicted-lockbit-attacks/</link>
       <pubDate>Mon, 22 Jul 2024 08:15:00 +0000</pubDate>
@@ -188,7 +198,7 @@
       <pubDate>Sun, 21 Jul 2024 08:28:59 +0000</pubDate>
     </item>
     <item>
-      <title>How adware exposed victims to kernel-level threats – Week in Security with Tony Anscombe</title>
+      <title>How a signed driver exposed people to kernel-level threats – Week in Security with Tony Anscombe</title>
       <link>https://www.welivesecurity.com/en/videos/adware-kernel-level-threats-week-security-tony-anscombe/</link>
       <pubDate>Sun, 21 Jul 2024 07:24:11 +0000</pubDate>
     </item>
@@ -296,16 +306,6 @@
       <title>VMware Carbon Black vs CrowdStrike Falcon (2024): Which Tool Is Best For Your Business?</title>
       <link>https://www.techrepublic.com/article/carbon-black-vs-crowdstrike/</link>
       <pubDate>Fri, 19 Jul 2024 12:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike vs Sophos (2024): Which Solution Is Better for Your Business?</title>
-      <link>https://www.techrepublic.com/article/crowdstrike-vs-sophos/</link>
-      <pubDate>Fri, 19 Jul 2024 12:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Widespread IT Outage Due to CrowdStrike Update</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update</link>
-      <pubDate>Fri, 19 Jul 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
