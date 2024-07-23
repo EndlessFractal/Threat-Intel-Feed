@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 08:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 10:17:52 +0000</lastBuildDate>
+    <item>
+      <title>Vulnerabilities in LangChain Gen AI</title>
+      <link>https://unit42.paloaltonetworks.com/langchain-vulnerabilities/</link>
+      <pubDate>Tue, 23 Jul 2024 10:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daggerfly: Espionage Group Makes Major Update to Toolset</title>
+      <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/daggerfly-espionage-updated-toolset</link>
+      <pubDate>Tue, 23 Jul 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-15 April 2024 Cyber Attacks Timeline</title>
+      <link>https://www.hackmageddon.com/2024/07/23/1-15-april-2024-cyber-attacks-timeline/</link>
+      <pubDate>Tue, 23 Jul 2024 09:56:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strengthen Your Cybersecurity: Understanding the NIS 2 Directive</title>
+      <link>https://news.sophos.com/en-us/2024/07/23/strengthen-your-cybersecurity-understanding-the-nis-2-directive/</link>
+      <pubDate>Tue, 23 Jul 2024 09:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Gov sanctioned key members of the Cyber Army of Russia Reborn hacktivists group</title>
+      <link>https://securityaffairs.com/166065/hacktivism/us-gov-sanctioned-cyber-army-of-russia-reborn-members.html</link>
+      <pubDate>Tue, 23 Jul 2024 08:45:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prolific DDoS Marketplace Shut Down by UK Law Enforcement</title>
+      <link>https://www.infosecurity-magazine.com/news/ddos-marketplace-shut-down-uk-law/</link>
+      <pubDate>Tue, 23 Jul 2024 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Abandons Plan to Phase Out Third-Party Cookies in Chrome</title>
       <link>https://thehackernews.com/2024/07/google-abandons-plan-to-phase-out-third.html</link>
@@ -66,6 +96,11 @@
       <title>CrowdStrike Global Outage – Threat Actor Activity and Risk Mitigation Strategies</title>
       <link>https://www.sentinelone.com/blog/crowdstrike-global-outage-threat-actor-activity-and-risk-mitigation-strategies/</link>
       <pubDate>Mon, 22 Jul 2024 16:12:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hiring Kit: Security Architect</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/hiring-kit-security-architect/</link>
+      <pubDate>Mon, 22 Jul 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Groups Fragment Amid Rising Cybercrime Threats</title>
@@ -138,6 +173,11 @@
       <pubDate>Mon, 22 Jul 2024 09:42:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cursed tapes: Exploiting the EvilVideo vulnerability on Telegram for Android</title>
+      <link>https://www.welivesecurity.com/en/eset-research/cursed-tapes-exploiting-evilvideo-vulnerability-telegram-android/</link>
+      <pubDate>Mon, 22 Jul 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Two Russians Convicted for Role in LockBit Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/russians-convicted-lockbit-attacks/</link>
       <pubDate>Mon, 22 Jul 2024 08:15:00 +0000</pubDate>
@@ -193,7 +233,7 @@
       <pubDate>Sun, 21 Jul 2024 08:28:59 +0000</pubDate>
     </item>
     <item>
-      <title>How adware exposed victims to kernel-level threats – Week in Security with Tony Anscombe</title>
+      <title>How a signed driver exposed people to kernel-level threats – Week in Security with Tony Anscombe</title>
       <link>https://www.welivesecurity.com/en/videos/adware-kernel-level-threats-week-security-tony-anscombe/</link>
       <pubDate>Sun, 21 Jul 2024 07:24:11 +0000</pubDate>
     </item>
@@ -258,11 +298,6 @@
       <pubDate>Fri, 19 Jul 2024 16:02:42 +0000</pubDate>
     </item>
     <item>
-      <title>CrowdStrike update epic fail crashed Windows systems worldwide</title>
-      <link>https://securityaffairs.com/165920/security/crowdstrike-epic-fail-crashed-windows.html</link>
-      <pubDate>Fri, 19 Jul 2024 15:10:52 +0000</pubDate>
-    </item>
-    <item>
       <title>Sunburst: US Judge Dismisses Most SEC Charges Against SolarWinds</title>
       <link>https://www.infosecurity-magazine.com/news/judge-dismiss-sec-charges/</link>
       <pubDate>Fri, 19 Jul 2024 15:00:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Global Microsoft Meltdown Tied to Bad Crowdstrike Update</title>
       <link>https://krebsonsecurity.com/2024/07/global-microsoft-meltdown-tied-to-bad-crowstrike-update/</link>
       <pubDate>Fri, 19 Jul 2024 14:24:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 29</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-6/</link>
-      <pubDate>Fri, 19 Jul 2024 13:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Best Endpoint Detection &amp; Response (EDR) Solutions for 2024</title>
-      <link>https://www.techrepublic.com/article/best-edr-software/</link>
-      <pubDate>Fri, 19 Jul 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faulty CrowdStrike Update Crashes Windows Systems, Impacting Businesses Worldwide</title>
-      <link>https://thehackernews.com/2024/07/faulty-crowdstrike-update-crashes.html</link>
-      <pubDate>Fri, 19 Jul 2024 12:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks</title>
-      <link>https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html</link>
-      <pubDate>Fri, 19 Jul 2024 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The complexities of cybersecurity update processes</title>
-      <link>https://www.welivesecurity.com/en/cybersecurity/complexities-cybersecurity-update-processes/</link>
-      <pubDate>Fri, 19 Jul 2024 12:28:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware Carbon Black vs CrowdStrike Falcon (2024): Which Tool Is Best For Your Business?</title>
-      <link>https://www.techrepublic.com/article/carbon-black-vs-crowdstrike/</link>
-      <pubDate>Fri, 19 Jul 2024 12:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike vs Sophos (2024): Which Solution Is Better for Your Business?</title>
-      <link>https://www.techrepublic.com/article/crowdstrike-vs-sophos/</link>
-      <pubDate>Fri, 19 Jul 2024 12:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
