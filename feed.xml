@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jul 2024 08:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 10:19:57 +0000</lastBuildDate>
+    <item>
+      <title>North Korean Hackers Targeted Cybersecurity Firm KnowBe4 with Fake IT Worker</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korean-hackers-targeted/</link>
+      <pubDate>Wed, 24 Jul 2024 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A (somewhat) complete timeline of Talos’ history</title>
+      <link>https://blog.talosintelligence.com/a-somewhat-complete-timeline-of-talos-history/</link>
+      <pubDate>Wed, 24 Jul 2024 10:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accelerating Analysis When It Matters</title>
+      <link>https://unit42.paloaltonetworks.com/accelerating-malware-analysis/</link>
+      <pubDate>Wed, 24 Jul 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unlocking cyber insurance savings to fund MDR</title>
+      <link>https://news.sophos.com/en-us/2024/07/24/unlocking-cyber-insurance-savings-to-fund-mdr/</link>
+      <pubDate>Wed, 24 Jul 2024 09:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Explains Friday Incident Crashing Millions of Windows Devices</title>
+      <link>https://thehackernews.com/2024/07/crowdstrike-explains-friday-windows.html</link>
+      <pubDate>Wed, 24 Jul 2024 08:32:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Criticized for Abandoning Cookie Phase-Out</title>
       <link>https://www.infosecurity-magazine.com/news/google-abandon-cookie-phase-out/</link>
       <pubDate>Wed, 24 Jul 2024 08:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Mouse Logger" Malicious Python Script, (Wed, Jul 24th)</title>
+      <link>https://isc.sans.edu/diary/rss/31106</link>
+      <pubDate>Wed, 24 Jul 2024 06:45:59 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Defender Flaw Exploited to Deliver ACR, Lumma, and Meduza Stealers</title>
@@ -78,6 +108,16 @@
       <pubDate>Tue, 23 Jul 2024 16:00:33 +0000</pubDate>
     </item>
     <item>
+      <title>10 Ways AI Can Help Organizations Tackle Cyberattacks</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/10-ways-ai-can-help-organizations-tackle-cyberattacks/</link>
+      <pubDate>Tue, 23 Jul 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drone Usage Policy</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/drone-policy/</link>
+      <pubDate>Tue, 23 Jul 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New Exploit Variation Against D-Link NAS Devices (CVE-2024-3273), (Tue, Jul 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/31102</link>
       <pubDate>Tue, 23 Jul 2024 15:46:51 +0000</pubDate>
@@ -121,6 +161,11 @@
       <title>Chinese Hackers Target Taiwan and U.S. NGO with MgBot and MACMA Malware</title>
       <link>https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html</link>
       <pubDate>Tue, 23 Jul 2024 12:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building cyber-resilience: Lessons learned from the CrowdStrike incident</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/building-cyber-resilience-lessons-learned-crowdstrike-incident/</link>
+      <pubDate>Tue, 23 Jul 2024 12:23:39 +0000</pubDate>
     </item>
     <item>
       <title>The AI Fix #8: Emergence, a rancid donkey, and the world’s funniest joke</title>
@@ -223,6 +268,11 @@
       <pubDate>Tue, 23 Jul 2024 09:00:45 +0000</pubDate>
     </item>
     <item>
+      <title>The tap-estry of threats targeting Hamster Kombat players</title>
+      <link>https://www.welivesecurity.com/en/eset-research/tap-estry-threats-targeting-hamster-kombat-players/</link>
+      <pubDate>Tue, 23 Jul 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>US Gov sanctioned key members of the Cyber Army of Russia Reborn hacktivists group</title>
       <link>https://securityaffairs.com/166065/hacktivism/us-gov-sanctioned-cyber-army-of-russia-reborn-members.html</link>
       <pubDate>Tue, 23 Jul 2024 08:45:36 +0000</pubDate>
@@ -256,56 +306,6 @@
       <title>CrowdStrike: The Monday After, (Mon, Jul 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/31098</link>
       <pubDate>Mon, 22 Jul 2024 17:06:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Play Ransomware Expands to Target VMWare ESXi Environments</title>
-      <link>https://www.infosecurity-magazine.com/news/play-ransomware-target-vmware-esxi/</link>
-      <pubDate>Mon, 22 Jul 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Global Outage – Threat Actor Activity and Risk Mitigation Strategies</title>
-      <link>https://www.sentinelone.com/blog/crowdstrike-global-outage-threat-actor-activity-and-risk-mitigation-strategies/</link>
-      <pubDate>Mon, 22 Jul 2024 16:12:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hiring Kit: Security Architect</title>
-      <link>https://www.techrepublic.com/resource-library/toolstemplates/hiring-kit-security-architect/</link>
-      <pubDate>Mon, 22 Jul 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Groups Fragment Amid Rising Cybercrime Threats</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-groups-fragment-rising/</link>
-      <pubDate>Mon, 22 Jul 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heritage Foundation data breach containing personal data is available online</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/07/heritage-foundation-data-breach-containing-personal-data-is-available-online</link>
-      <pubDate>Mon, 22 Jul 2024 14:58:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Outage Disrupts Microsoft Systems Worldwide</title>
-      <link>https://www.techrepublic.com/article/crowdstrike-outage/</link>
-      <pubDate>Mon, 22 Jul 2024 14:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get a Lifetime Subscription of FastestVPN for just $40</title>
-      <link>https://www.techrepublic.com/article/top-vpn-employee-price/</link>
-      <pubDate>Mon, 22 Jul 2024 14:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts Uncover Chinese Cybercrime Network Behind Gambling and Human Trafficking</title>
-      <link>https://thehackernews.com/2024/07/experts-uncover-chinese-cybercrime.html</link>
-      <pubDate>Mon, 22 Jul 2024 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PinnacleOne ExecBrief | The New Global Disorder</title>
-      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-the-new-global-disorder/</link>
-      <pubDate>Mon, 22 Jul 2024 13:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>PINEAPPLE and FLUXROOT Hacker Groups Abuse Google Cloud for Credential Phishing</title>
-      <link>https://thehackernews.com/2024/07/pineapple-and-fluxroot-hacker-groups.html</link>
-      <pubDate>Mon, 22 Jul 2024 12:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
