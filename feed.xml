@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jul 2024 06:25:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 08:22:45 +0000</lastBuildDate>
+    <item>
+      <title>Most IT Leaders Say Severity of Cyber-Attacks has Increased</title>
+      <link>https://www.infosecurity-magazine.com/news/severity-of-cyberattacks-has/</link>
+      <pubDate>Thu, 25 Jul 2024 08:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins</title>
       <link>https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html</link>
       <pubDate>Thu, 25 Jul 2024 05:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns of Exploitable Vulnerabilities in Popular BIND 9 DNS Software</title>
+      <link>https://thehackernews.com/2024/07/cisa-warns-of-exploitable.html</link>
+      <pubDate>Thu, 25 Jul 2024 05:30:00 +0000</pubDate>
     </item>
     <item>
       <title>New Chrome Feature Scans Password-Protected Files for Malicious Content</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Hitachi Energy AFS/AFR Series Products</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-205-02</link>
-      <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>National Instruments IO Trace</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-205-01</link>
-      <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
