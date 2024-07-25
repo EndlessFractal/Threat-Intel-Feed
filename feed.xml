@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jul 2024 14:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 16:22:13 +0000</lastBuildDate>
+    <item>
+      <title>Russia to punish soldiers for using personal mobile phones in Ukraine</title>
+      <link>https://therecord.media/russia-mobile-phone-military-ban-ukraine</link>
+      <pubDate>Thu, 25 Jul 2024 16:12:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel tried to frustrate US lawsuit over Pegasus spyware, leak suggests</title>
+      <link>https://www.theguardian.com/news/article/2024/jul/25/israel-tried-to-frustrate-us-lawsuit-over-pegasus-spyware-leak-suggests</link>
+      <pubDate>Thu, 25 Jul 2024 16:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEXi / APT Inc ransomware – what you need to know</title>
+      <link>https://www.tripwire.com/state-of-security/sexi-apt-inc-ransomware-what-you-need-know</link>
+      <pubDate>Thu, 25 Jul 2024 15:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical bug in Docker Engine allowed attackers to bypass authorization plugins</title>
+      <link>https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html</link>
+      <pubDate>Thu, 25 Jul 2024 14:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Belarus-linked hackers target Ukrainian orgs with PicassoLoader malware</title>
+      <link>https://therecord.media/belarus-ukraine-picasso-malware-ghostwriter</link>
+      <pubDate>Thu, 25 Jul 2024 14:28:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Shift from Cyber Espionage to Ransomware Attacks</title>
+      <link>https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html</link>
+      <pubDate>Thu, 25 Jul 2024 14:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware and BEC Make Up 60% of Cyber Incidents</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-bec-cyber-incidents/</link>
@@ -31,6 +61,26 @@
       <title>Sophos MDR for Microsoft Defender: Gaining momentum with Microsoft-specific service enhancements</title>
       <link>https://news.sophos.com/en-us/2024/07/25/sophos-mdr-for-microsoft-defender-gaining-momentum-with-microsoft-specific-service-enhancements/</link>
       <pubDate>Thu, 25 Jul 2024 12:36:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SICAM Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-207-01</link>
+      <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Positron Broadcast Signal Processor</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-207-02</link>
+      <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity</link>
+      <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>6 Types of Applications Security Testing You Must Know About</title>
@@ -153,19 +203,14 @@
       <pubDate>Wed, 24 Jul 2024 19:45:58 +0000</pubDate>
     </item>
     <item>
-      <title>Middle East financial institution hit with six-day DDoS attack</title>
-      <link>https://therecord.media/middle-east-financial-institution-6-day-ddos-attack</link>
-      <pubDate>Wed, 24 Jul 2024 19:07:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bug in update checker blamed for CrowdStrike outages as Congress demands hearing</title>
-      <link>https://therecord.media/crowdstrike-content-validator-bug-outages</link>
-      <pubDate>Wed, 24 Jul 2024 17:52:57 +0000</pubDate>
-    </item>
-    <item>
       <title>TracFone will pay $16 million to settle FCC data breach investigation</title>
       <link>https://www.malwarebytes.com/blog/news/2024/07/tracfone-will-pay-16-million-to-settle-fcc-data-breach-investigation</link>
       <pubDate>Wed, 24 Jul 2024 17:39:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea Cyber Group Conducts Global Espionage Campaign to Advance Regime’s Military and Nuclear Programs</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-207a</link>
+      <pubDate>Wed, 24 Jul 2024 17:33:18 +0000</pubDate>
     </item>
     <item>
       <title>F5: AI Applications Will Complicate ‘Unsustainable’ Hybrid Multicloud Sprawl in Australia</title>
@@ -261,51 +306,6 @@
       <title>Google Criticized for Abandoning Cookie Phase-Out</title>
       <link>https://www.infosecurity-magazine.com/news/google-abandon-cookie-phase-out/</link>
       <pubDate>Wed, 24 Jul 2024 08:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Mouse Logger" Malicious Python Script, (Wed, Jul 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/31106</link>
-      <pubDate>Wed, 24 Jul 2024 06:45:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender Flaw Exploited to Deliver ACR, Lumma, and Meduza Stealers</title>
-      <link>https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html</link>
-      <pubDate>Wed, 24 Jul 2024 06:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Twilio Authy and IE Flaws to Exploited Vulnerabilities List</title>
-      <link>https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html</link>
-      <pubDate>Wed, 24 Jul 2024 05:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, July 24th, 2024 https://isc.sans.edu/podcastdetail/9066, (Wed, Jul 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/31104</link>
-      <pubDate>Wed, 24 Jul 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>FrostyGoop ICS malware targets Ukraine</title>
-      <link>https://securityaffairs.com/166087/malware/frostygoop-ics-malware-modbus.html</link>
-      <pubDate>Tue, 23 Jul 2024 21:47:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Custom Inbox Enhancements: Revolutionizing Vulnerability Management for Enterprises</title>
-      <link>https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements</link>
-      <pubDate>Tue, 23 Jul 2024 21:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phish-Friendly Domain Registry “.top” Put on Notice</title>
-      <link>https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/</link>
-      <pubDate>Tue, 23 Jul 2024 19:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Firewall v20 MR2 is now available</title>
-      <link>https://news.sophos.com/en-us/2024/07/23/sophos-firewall-v20-mr2-is-now-available/</link>
-      <pubDate>Tue, 23 Jul 2024 19:09:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike global outage: Sophos guidance</title>
-      <link>https://news.sophos.com/en-us/2024/07/23/crowdstrike-global-outage-sophos-guidance/</link>
-      <pubDate>Tue, 23 Jul 2024 18:40:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
