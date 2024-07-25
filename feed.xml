@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jul 2024 04:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 06:25:03 +0000</lastBuildDate>
+    <item>
+      <title>Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins</title>
+      <link>https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html</link>
+      <pubDate>Thu, 25 Jul 2024 05:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Chrome Feature Scans Password-Protected Files for Malicious Content</title>
+      <link>https://thehackernews.com/2024/07/new-chrome-feature-scans-password.html</link>
+      <pubDate>Thu, 25 Jul 2024 05:21:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, July 25th, 2024 https://isc.sans.edu/podcastdetail/9068, (Thu, Jul 25th)</title>
       <link>https://isc.sans.edu/diary/rss/31108</link>
@@ -296,16 +306,6 @@
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Four Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia Shifts Cyber Focus to Battlefield Intelligence in Ukraine</title>
-      <link>https://www.infosecurity-magazine.com/news/russia-cyber-focus-battlefield/</link>
-      <pubDate>Tue, 23 Jul 2024 11:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
