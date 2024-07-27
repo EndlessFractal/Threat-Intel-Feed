@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jul 2024 16:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 18:22:51 +0000</lastBuildDate>
     <item>
       <title>French Authorities Launch Operation to Remove PlugX Malware from Infected Systems</title>
       <link>https://thehackernews.com/2024/07/french-authorities-launch-operation-to.html</link>
@@ -96,6 +96,11 @@
       <title>What Is the Vulnerability Management Lifecycle?</title>
       <link>https://socprime.com/blog/what-is-the-vulnerability-management-lifecycle/</link>
       <pubDate>Fri, 26 Jul 2024 12:22:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telegram for Android hit by a zero-day exploit – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/telegram-android-hit-zero-day-exploit-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 26 Jul 2024 11:57:23 +0000</pubDate>
     </item>
     <item>
       <title>ExelaStealer Delivered "From Russia With Love", (Fri, Jul 26th)</title>
@@ -208,6 +213,11 @@
       <pubDate>Thu, 25 Jul 2024 16:00:25 +0000</pubDate>
     </item>
     <item>
+      <title>Onyx Sleet uses array of malware to gather intelligence for North Korea</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/07/25/onyx-sleet-uses-array-of-malware-to-gather-intelligence-for-north-korea/</link>
+      <pubDate>Thu, 25 Jul 2024 15:57:18 +0000</pubDate>
+    </item>
+    <item>
       <title>SEXi / APT Inc ransomware – what you need to know</title>
       <link>https://www.tripwire.com/state-of-security/sexi-apt-inc-ransomware-what-you-need-know</link>
       <pubDate>Thu, 25 Jul 2024 15:38:12 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>AI Tool Identifies BOLA Vulnerabilities in Easy!Appointments</title>
       <link>https://unit42.paloaltonetworks.com/bola-vulnerabilities-easyappointments/</link>
       <pubDate>Thu, 25 Jul 2024 10:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>IR Trends: Ransomware on the rise, while technology becomes most targeted sector</title>
-      <link>https://blog.talosintelligence.com/ir-trends-ransomware-on-the-rise-q2-2024/</link>
-      <pubDate>Thu, 25 Jul 2024 10:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Growing Number of Threats Leveraging AI</title>
-      <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/malware-ai-llm</link>
-      <pubDate>Thu, 25 Jul 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
