@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jul 2024 04:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 06:21:54 +0000</lastBuildDate>
+    <item>
+      <title>Malicious PyPI Package Targets macOS to Steal Google Cloud Credentials</title>
+      <link>https://thehackernews.com/2024/07/malicious-pypi-package-targets-macos-to.html</link>
+      <pubDate>Sat, 27 Jul 2024 05:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>A bug in Chrome Password Manager caused user credentials to disappear</title>
       <link>https://securityaffairs.com/166200/security/chrome-password-manager-bug.html</link>
@@ -301,11 +306,6 @@
       <title>Growing Number of Threats Leveraging AI</title>
       <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/malware-ai-llm</link>
       <pubDate>Thu, 25 Jul 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinar: Securing the Modern Workspace: What Enterprises MUST Know about Enterprise Browser Security</title>
-      <link>https://thehackernews.com/2024/07/webinar-securing-modern-workspace-what.html</link>
-      <pubDate>Thu, 25 Jul 2024 09:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
