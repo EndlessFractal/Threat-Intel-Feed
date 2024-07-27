@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 22:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 01:15:31 +0000</lastBuildDate>
+    <item>
+      <title>A bug in Chrome Password Manager caused user credentials to disappear</title>
+      <link>https://securityaffairs.com/166200/security/chrome-password-manager-bug.html</link>
+      <pubDate>Fri, 26 Jul 2024 21:58:18 +0000</pubDate>
+    </item>
     <item>
       <title>Crooks Bypassed Google’s Email Verification to Create Workspace Accounts, Access 3rd-Party Services</title>
       <link>https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/</link>
@@ -301,11 +306,6 @@
       <title>Malware Attacks Surge 30% in First Half of 2024</title>
       <link>https://www.infosecurity-magazine.com/news/malware-attacks-surge-30-per-cent/</link>
       <pubDate>Thu, 25 Jul 2024 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Reveal ConfusedFunction Vulnerability in Google Cloud Platform</title>
-      <link>https://thehackernews.com/2024/07/experts-expose-confusedfunction.html</link>
-      <pubDate>Thu, 25 Jul 2024 08:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
