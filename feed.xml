@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 02:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 04:19:17 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 410</title>
+      <link>https://www.troyhunt.com/weekly-update-410/</link>
+      <pubDate>Sun, 28 Jul 2024 03:58:51 +0000</pubDate>
+    </item>
     <item>
       <title>Ukraine’s cyber operation shut down the ATM services of major Russian banks</title>
       <link>https://securityaffairs.com/166214/cyber-warfare-2/atm-services-russian-banks-hacked.html</link>
@@ -223,6 +228,11 @@
       <pubDate>Thu, 25 Jul 2024 16:00:25 +0000</pubDate>
     </item>
     <item>
+      <title>Onyx Sleet uses array of malware to gather intelligence for North Korea</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/07/25/onyx-sleet-uses-array-of-malware-to-gather-intelligence-for-north-korea/</link>
+      <pubDate>Thu, 25 Jul 2024 15:57:18 +0000</pubDate>
+    </item>
+    <item>
       <title>SEXi / APT Inc ransomware – what you need to know</title>
       <link>https://www.tripwire.com/state-of-security/sexi-apt-inc-ransomware-what-you-need-know</link>
       <pubDate>Thu, 25 Jul 2024 15:38:12 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Hackers exploit Microsoft Defender SmartScreen bug CVE-2024-21412 to deliver ACR, Lumma, and Meduza Stealers</title>
       <link>https://securityaffairs.com/166152/security/cve-2024-21412-flaw-info-stealers.html</link>
       <pubDate>Thu, 25 Jul 2024 10:20:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Removes 63,000 Instagram Accounts Linked to Nigerian Sextortion Scams</title>
-      <link>https://thehackernews.com/2024/07/meta-removes-63000-instagram-accounts.html</link>
-      <pubDate>Thu, 25 Jul 2024 10:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0057 Attack Detection: A Surge in Adversary Activity Distributing PICASSOLOADER and Cobalt Strike Beacon</title>
-      <link>https://socprime.com/blog/uac-0057-attack-detection-a-surge-in-adversary-activity-distributing-picassoloader-and-cobalt-strike-beacon/</link>
-      <pubDate>Thu, 25 Jul 2024 10:13:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
