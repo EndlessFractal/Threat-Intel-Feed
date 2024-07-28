@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 20:17:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 22:16:01 +0000</lastBuildDate>
     <item>
       <title>French authorities launch disinfection operation to eradicate PlugX malware from infected hosts</title>
       <link>https://securityaffairs.com/166213/cyber-crime/plugx-malware-disinfection-operation.html</link>
@@ -253,6 +253,11 @@
       <pubDate>Thu, 25 Jul 2024 16:00:25 +0000</pubDate>
     </item>
     <item>
+      <title>Onyx Sleet uses array of malware to gather intelligence for North Korea</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/07/25/onyx-sleet-uses-array-of-malware-to-gather-intelligence-for-north-korea/</link>
+      <pubDate>Thu, 25 Jul 2024 15:57:18 +0000</pubDate>
+    </item>
+    <item>
       <title>SEXi / APT Inc ransomware – what you need to know</title>
       <link>https://www.tripwire.com/state-of-security/sexi-apt-inc-ransomware-what-you-need-know</link>
       <pubDate>Thu, 25 Jul 2024 15:38:12 +0000</pubDate>
@@ -300,11 +305,6 @@
     <item>
       <title>Positron Broadcast Signal Processor</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-207-02</link>
-      <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity</link>
       <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
