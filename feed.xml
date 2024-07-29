@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jul 2024 04:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 06:25:07 +0000</lastBuildDate>
+    <item>
+      <title>Fake Falcon crash reporter installer used to target German Crowdstrike users</title>
+      <link>https://securityaffairs.com/166256/hacking/fake-crowdstrike-falcon-crash-reporter-installer.html</link>
+      <pubDate>Mon, 29 Jul 2024 05:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Belarus-linked APT Ghostwriter targeted Ukraine with PicassoLoader malware</title>
+      <link>https://securityaffairs.com/166265/intelligence/belarus-apt-ghostwriter-targeted-ukraine.html</link>
+      <pubDate>Mon, 29 Jul 2024 05:35:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gh0st RAT Trojan Targets Chinese Windows Users via Fake Chrome Site</title>
+      <link>https://thehackernews.com/2024/07/gh0st-rat-trojan-targets-chinese.html</link>
+      <pubDate>Mon, 29 Jul 2024 04:56:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Monday, July 29th, 2024 https://isc.sans.edu/podcastdetail/9072, (Mon, Jul 29th)</title>
       <link>https://isc.sans.edu/diary/rss/31124</link>
@@ -268,19 +283,9 @@
       <pubDate>Thu, 25 Jul 2024 16:00:25 +0000</pubDate>
     </item>
     <item>
-      <title>Onyx Sleet uses array of malware to gather intelligence for North Korea</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/07/25/onyx-sleet-uses-array-of-malware-to-gather-intelligence-for-north-korea/</link>
-      <pubDate>Thu, 25 Jul 2024 15:57:18 +0000</pubDate>
-    </item>
-    <item>
       <title>SEXi / APT Inc ransomware – what you need to know</title>
       <link>https://www.tripwire.com/state-of-security/sexi-apt-inc-ransomware-what-you-need-know</link>
       <pubDate>Thu, 25 Jul 2024 15:38:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical bug in Docker Engine allowed attackers to bypass authorization plugins</title>
-      <link>https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html</link>
-      <pubDate>Thu, 25 Jul 2024 14:54:06 +0000</pubDate>
     </item>
     <item>
       <title>North Korean Hackers Shift from Cyber Espionage to Ransomware Attacks</title>
@@ -300,11 +305,6 @@
     <item>
       <title>Unveiling the latest banking trojan threats in LATAM</title>
       <link>https://securityintelligence.com/posts/unveiling-latest-banking-trojan-threats-latam/</link>
-      <pubDate>Thu, 25 Jul 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing Campaign Targeting Mobile Users in India Using India Post Lures</title>
-      <link>https://feeds.fortinet.com/~/901765292/0/fortinet/blog/threat-research~Phishing-Campaign-Targeting-Mobile-Users-in-India-Using-India-Post-Lures</link>
       <pubDate>Thu, 25 Jul 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
