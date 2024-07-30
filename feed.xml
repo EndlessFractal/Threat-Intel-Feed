@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jul 2024 01:17:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 02:35:14 +0000</lastBuildDate>
+    <item>
+      <title>Apache Pinot Security Update Advisory (CVE-2024-39676)</title>
+      <link>https://asec.ahnlab.com/en/81972/</link>
+      <pubDate>Tue, 30 Jul 2024 01:30:31 +0000</pubDate>
+    </item>
     <item>
       <title>ManageEngine: Australian SMEs Aim to Reduce IT Costs Amid Growing Technology Complexity</title>
       <link>https://www.techrepublic.com/article/australia-sme-tech-buying-trends/</link>
@@ -80,6 +85,16 @@
     <item>
       <title>July 30, 2024</title>
       <link>https://asec.ahnlab.com/en/81926/</link>
+      <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab Product Security Update Advisory (CVE-2024-7047)</title>
+      <link>https://asec.ahnlab.com/en/81974/</link>
+      <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache StreamPipes Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/81973/</link>
       <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -223,16 +238,6 @@
       <pubDate>Sun, 28 Jul 2024 15:13:03 +0000</pubDate>
     </item>
     <item>
-      <title>July 29, 2024</title>
-      <link>https://asec.ahnlab.com/en/80870/</link>
-      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Icegram Express Plugin Security Update Advisory (CVE-2024-5756)</title>
-      <link>https://asec.ahnlab.com/en/80854/</link>
-      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>JumpServer Security Update Advisory (CVE-2024-40628, CVE-2024-40629)</title>
       <link>https://asec.ahnlab.com/en/80853/</link>
       <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
@@ -250,11 +255,6 @@
     <item>
       <title>Dell Product Security Update Advisory (CVE-2024-25943)</title>
       <link>https://asec.ahnlab.com/en/80827/</link>
-      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telerik Report Server Product Security Update Advisory (CVE-2024-6327)</title>
-      <link>https://asec.ahnlab.com/en/80825/</link>
       <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
