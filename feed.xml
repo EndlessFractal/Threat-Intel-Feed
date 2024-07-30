@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jul 2024 22:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 01:17:14 +0000</lastBuildDate>
+    <item>
+      <title>ManageEngine: Australian SMEs Aim to Reduce IT Costs Amid Growing Technology Complexity</title>
+      <link>https://www.techrepublic.com/article/australia-sme-tech-buying-trends/</link>
+      <pubDate>Mon, 29 Jul 2024 22:24:16 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware gangs exploit recently patched VMware ESXi bug CVE-2024-37085</title>
       <link>https://securityaffairs.com/166295/cyber-crime/ransomware-gangs-exploit-cve-2024-37085-vmware-esxi.html</link>
@@ -71,6 +76,11 @@
       <title>Acronis Cyber Infrastructure bug actively exploited in the wild</title>
       <link>https://securityaffairs.com/166277/hacking/acronis-cyber-infrastructure-bug-exploited.html</link>
       <pubDate>Mon, 29 Jul 2024 15:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 30, 2024</title>
+      <link>https://asec.ahnlab.com/en/81926/</link>
+      <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2024</title>
@@ -178,6 +188,16 @@
       <pubDate>Mon, 29 Jul 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>MS Family July 2024 Routine Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/80822/</link>
+      <pubDate>Mon, 29 Jul 2024 00:25:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ManageEngine (Exchange Reporter Plus, Exchange Reporter Plus) Family July 2024 Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/80826/</link>
+      <pubDate>Mon, 29 Jul 2024 00:22:25 +0000</pubDate>
+    </item>
+    <item>
       <title>CrowdStrike Outage Themed Maldoc, (Mon, Jul 29th)</title>
       <link>https://isc.sans.edu/diary/rss/31116</link>
       <pubDate>Mon, 29 Jul 2024 00:03:44 +0000</pubDate>
@@ -201,6 +221,41 @@
       <title>Security Affairs Malware Newsletter – Round 4</title>
       <link>https://securityaffairs.com/166237/breaking-news/security-affairs-malware-newsletter-round-4.html</link>
       <pubDate>Sun, 28 Jul 2024 15:13:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 29, 2024</title>
+      <link>https://asec.ahnlab.com/en/80870/</link>
+      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Icegram Express Plugin Security Update Advisory (CVE-2024-5756)</title>
+      <link>https://asec.ahnlab.com/en/80854/</link>
+      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JumpServer Security Update Advisory (CVE-2024-40628, CVE-2024-40629)</title>
+      <link>https://asec.ahnlab.com/en/80853/</link>
+      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acronis Product Security Update Advisory (CVE-2023-45249)</title>
+      <link>https://asec.ahnlab.com/en/80852/</link>
+      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS VPN Client Security Update Advisory (CVE-2024-30165)</title>
+      <link>https://asec.ahnlab.com/en/80851/</link>
+      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dell Product Security Update Advisory (CVE-2024-25943)</title>
+      <link>https://asec.ahnlab.com/en/80827/</link>
+      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telerik Report Server Product Security Update Advisory (CVE-2024-6327)</title>
+      <link>https://asec.ahnlab.com/en/80825/</link>
+      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Security Affairs newsletter Round 482 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
@@ -251,61 +306,6 @@
       <title>Senators to FTC: Car companies’ data privacy practices must be investigated</title>
       <link>https://therecord.media/markey-wyden-ask-ftc-to-probe-car-company-data-practices</link>
       <pubDate>Fri, 26 Jul 2024 21:07:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Sunscreen from Squid Pigments</title>
-      <link>https://www.schneier.com/blog/archives/2024/07/friday-squid-blogging-sunscreen-from-squid-pigments.html</link>
-      <pubDate>Fri, 26 Jul 2024 21:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lessons from HackerOne’s First Recharge Week</title>
-      <link>https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week</link>
-      <pubDate>Fri, 26 Jul 2024 20:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Compromising the Secure Boot Process</title>
-      <link>https://www.schneier.com/blog/archives/2024/07/compromising-the-secure-boot-process.html</link>
-      <pubDate>Fri, 26 Jul 2024 16:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta takes down 63,000 sextortion-related accounts on Instagram</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/07/meta-takes-down-63000-sextortion-related-accounts-on-instagram</link>
-      <pubDate>Fri, 26 Jul 2024 15:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Synnovis Restores Systems After Cyber-Attack, But Blood Shortages Remain</title>
-      <link>https://www.infosecurity-magazine.com/news/synnovis-restores-blood-shortages/</link>
-      <pubDate>Fri, 26 Jul 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacktivists Claim Leak of CrowdStrike Threat Intelligence</title>
-      <link>https://www.infosecurity-magazine.com/news/hacktivists-leak-crowdstrike/</link>
-      <pubDate>Fri, 26 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This AI-Powered Cybercrime Service Bundles Phishing Kits with Malicious Android Apps</title>
-      <link>https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html</link>
-      <pubDate>Fri, 26 Jul 2024 13:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 30</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-30-6/</link>
-      <pubDate>Fri, 26 Jul 2024 13:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is the Vulnerability Management Lifecycle?</title>
-      <link>https://socprime.com/blog/what-is-the-vulnerability-management-lifecycle/</link>
-      <pubDate>Fri, 26 Jul 2024 12:22:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telegram for Android hit by a zero-day exploit – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/telegram-android-hit-zero-day-exploit-week-security-tony-anscombe/</link>
-      <pubDate>Fri, 26 Jul 2024 11:57:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ExelaStealer Delivered "From Russia With Love", (Fri, Jul 26th)</title>
-      <link>https://isc.sans.edu/diary/rss/31118</link>
-      <pubDate>Fri, 26 Jul 2024 11:51:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
