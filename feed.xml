@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jul 2024 04:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 06:24:36 +0000</lastBuildDate>
+    <item>
+      <title>VMware ESXi Flaw Exploited by Ransomware Groups for Admin Access</title>
+      <link>https://thehackernews.com/2024/07/vmware-esxi-flaw-exploited-by.html</link>
+      <pubDate>Tue, 30 Jul 2024 04:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, July 30th, 2024 https://isc.sans.edu/podcastdetail/9074, (Tue, Jul 30th)</title>
       <link>https://isc.sans.edu/diary/rss/31126</link>
@@ -88,11 +93,6 @@
       <pubDate>Mon, 29 Jul 2024 15:16:25 +0000</pubDate>
     </item>
     <item>
-      <title>July 30, 2024</title>
-      <link>https://asec.ahnlab.com/en/81926/</link>
-      <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>GitLab Product Security Update Advisory (CVE-2024-7047)</title>
       <link>https://asec.ahnlab.com/en/81974/</link>
       <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
@@ -100,6 +100,11 @@
     <item>
       <title>Apache StreamPipes Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/81973/</link>
+      <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 30, 2024</title>
+      <link>https://asec.ahnlab.com/en/81926/</link>
       <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -178,11 +183,6 @@
       <pubDate>Mon, 29 Jul 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beware of fake AI tools masking very real malware threats</title>
-      <link>https://www.welivesecurity.com/en/cybersecurity/beware-fake-ai-tools-masking-very-real-malware-threat/</link>
-      <pubDate>Mon, 29 Jul 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>A week in security (July 22 – July 28)</title>
       <link>https://www.malwarebytes.com/blog/news/2024/07/a-week-in-security-july-22-july-28</link>
       <pubDate>Mon, 29 Jul 2024 07:33:47 +0000</pubDate>
@@ -248,11 +248,6 @@
       <pubDate>Sun, 28 Jul 2024 15:13:03 +0000</pubDate>
     </item>
     <item>
-      <title>JumpServer Security Update Advisory (CVE-2024-40628, CVE-2024-40629)</title>
-      <link>https://asec.ahnlab.com/en/80853/</link>
-      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Acronis Product Security Update Advisory (CVE-2023-45249)</title>
       <link>https://asec.ahnlab.com/en/80852/</link>
       <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
@@ -265,6 +260,11 @@
     <item>
       <title>Dell Product Security Update Advisory (CVE-2024-25943)</title>
       <link>https://asec.ahnlab.com/en/80827/</link>
+      <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telerik Report Server Product Security Update Advisory (CVE-2024-6327)</title>
+      <link>https://asec.ahnlab.com/en/80825/</link>
       <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
