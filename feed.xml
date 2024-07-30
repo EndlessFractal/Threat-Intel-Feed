@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jul 2024 02:35:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 04:20:25 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Tuesday, July 30th, 2024 https://isc.sans.edu/podcastdetail/9074, (Tue, Jul 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/31126</link>
+      <pubDate>Tue, 30 Jul 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Apache Pinot Security Update Advisory (CVE-2024-39676)</title>
       <link>https://asec.ahnlab.com/en/81972/</link>
@@ -173,6 +178,11 @@
       <pubDate>Mon, 29 Jul 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Beware of fake AI tools masking very real malware threats</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/beware-fake-ai-tools-masking-very-real-malware-threat/</link>
+      <pubDate>Mon, 29 Jul 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A week in security (July 22 – July 28)</title>
       <link>https://www.malwarebytes.com/blog/news/2024/07/a-week-in-security-july-22-july-28</link>
       <pubDate>Mon, 29 Jul 2024 07:33:47 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>A bug in Chrome Password Manager caused user credentials to disappear</title>
       <link>https://securityaffairs.com/166200/security/chrome-password-manager-bug.html</link>
       <pubDate>Fri, 26 Jul 2024 21:58:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crooks Bypassed Google’s Email Verification to Create Workspace Accounts, Access 3rd-Party Services</title>
-      <link>https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/</link>
-      <pubDate>Fri, 26 Jul 2024 21:31:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senators to FTC: Car companies’ data privacy practices must be investigated</title>
-      <link>https://therecord.media/markey-wyden-ask-ftc-to-probe-car-company-data-practices</link>
-      <pubDate>Fri, 26 Jul 2024 21:07:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
