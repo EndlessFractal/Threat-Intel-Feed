@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jul 2024 18:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 20:16:22 +0000</lastBuildDate>
+    <item>
+      <title>Google Workspace Authentication Vulnerability Allowed Thousands of Emails to be Compromised</title>
+      <link>https://www.techrepublic.com/article/google-workspace-vulnerability-accounts-compromised/</link>
+      <pubDate>Tue, 30 Jul 2024 19:24:32 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware Attacks Are Attracting Record Payouts in Australia. Should You Pay the Ransom?</title>
       <link>https://www.techrepublic.com/article/should-you-pay-ransom-ransomware-attack-australia/</link>
@@ -21,6 +26,11 @@
       <title>Threat actor impersonates Google via fake ad for Authenticator</title>
       <link>https://www.malwarebytes.com/blog/cybercrime/2024/07/threat-actor-impersonates-google-via-fake-ad-for-authenticator</link>
       <pubDate>Tue, 30 Jul 2024 17:23:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches Everything. July 2024 Edition, (Tue, Jul 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/31128</link>
+      <pubDate>Tue, 30 Jul 2024 17:01:22 +0000</pubDate>
     </item>
     <item>
       <title>Critical ServiceNow vulnerabilities being targeted by hackers, cyber agency warns</title>
@@ -188,6 +198,11 @@
       <pubDate>Mon, 29 Jul 2024 22:24:16 +0000</pubDate>
     </item>
     <item>
+      <title>How a GraphQL Bug Resulted in Authentication Bypass</title>
+      <link>https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass</link>
+      <pubDate>Mon, 29 Jul 2024 21:00:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransomware gangs exploit recently patched VMware ESXi bug CVE-2024-37085</title>
       <link>https://securityaffairs.com/166295/cyber-crime/ransomware-gangs-exploit-cve-2024-37085-vmware-esxi.html</link>
       <pubDate>Mon, 29 Jul 2024 20:55:17 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Mon, 29 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research in Detecting AI-Generated Videos</title>
-      <link>https://www.schneier.com/blog/archives/2024/07/new-research-in-detecting-ai-generated-videos.html</link>
-      <pubDate>Mon, 29 Jul 2024 11:02:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Searchable Encryption Changes the Data Security Game</title>
-      <link>https://thehackernews.com/2024/07/how-searchable-encryption-changes-data.html</link>
-      <pubDate>Mon, 29 Jul 2024 10:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Top 5 1Password Alternatives for 2024</title>
-      <link>https://www.techrepublic.com/article/1password-alternatives/</link>
-      <pubDate>Mon, 29 Jul 2024 10:16:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
