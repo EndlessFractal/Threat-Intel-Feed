@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Jul 2024 06:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 08:20:02 +0000</lastBuildDate>
+    <item>
+      <title>A Fortune 50 company paid a record-breaking $75 million ransom</title>
+      <link>https://securityaffairs.com/166372/uncategorized/fortune-50-company-paid-record-breaking-75m-ransom.html</link>
+      <pubDate>Wed, 31 Jul 2024 07:37:05 +0000</pubDate>
+    </item>
     <item>
       <title>Meta Settles for $1.4 Billion with Texas Over Illegal Biometric Data Collection</title>
       <link>https://thehackernews.com/2024/07/meta-settles-for-14-billion-with-texas.html</link>
@@ -88,13 +93,18 @@
       <pubDate>Tue, 30 Jul 2024 15:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 1, August 2024</title>
-      <link>https://asec.ahnlab.com/en/82080/</link>
+      <title>July 31, 2024</title>
+      <link>https://asec.ahnlab.com/en/82052/</link>
       <pubDate>Tue, 30 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>July 31, 2024</title>
-      <link>https://asec.ahnlab.com/en/82052/</link>
+      <title>MOVEit Product Security Update Advisory (CVE-2024-6576)</title>
+      <link>https://asec.ahnlab.com/en/82084/</link>
+      <pubDate>Tue, 30 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 1, August 2024</title>
+      <link>https://asec.ahnlab.com/en/82080/</link>
       <pubDate>Tue, 30 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -295,16 +305,6 @@
     <item>
       <title>GitLab Product Security Update Advisory (CVE-2024-7047)</title>
       <link>https://asec.ahnlab.com/en/81974/</link>
-      <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache StreamPipes Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/81973/</link>
-      <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 30, 2024</title>
-      <link>https://asec.ahnlab.com/en/81926/</link>
       <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
