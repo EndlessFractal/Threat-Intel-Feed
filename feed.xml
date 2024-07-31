@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jul 2024 22:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 01:04:21 +0000</lastBuildDate>
+    <item>
+      <title>Senate passes landmark bill protecting children’s online safety and privacy</title>
+      <link>https://therecord.media/senate-passes-landmark-bill-children</link>
+      <pubDate>Tue, 30 Jul 2024 23:31:48 +0000</pubDate>
+    </item>
     <item>
       <title>CISA adds VMware ESXi bug to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/166362/security/cisa-vmware-esxi-bug-known-exploited-vulnerabilities-catalog.html</link>
@@ -78,11 +83,6 @@
       <pubDate>Tue, 30 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Inaugural Pentagon cyber policy chief nominee sails through Armed Services Committee</title>
-      <link>https://therecord.media/first-pentagon-cyber-policy-chief-sulmeyer-confirmation</link>
-      <pubDate>Tue, 30 Jul 2024 14:44:37 +0000</pubDate>
-    </item>
-    <item>
       <title>The AI Fix #9: When AI detectors fail (spectacularly), and OpenAI’s five steps to Skynet</title>
       <link>https://grahamcluley.com/the-ai-fix-9/</link>
       <pubDate>Tue, 30 Jul 2024 14:02:56 +0000</pubDate>
@@ -110,6 +110,11 @@
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Tue, 30 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DigiCert Certificate Revocations</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations</link>
       <pubDate>Tue, 30 Jul 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -146,6 +151,11 @@
       <title>Cyber Threat Intelligence: Illuminating the Deep, Dark Cybercriminal Underground</title>
       <link>https://thehackernews.com/2024/07/cyber-threat-intelligence-illuminating.html</link>
       <pubDate>Tue, 30 Jul 2024 10:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>16-30 April 2024 Cyber Attacks Timeline</title>
+      <link>https://www.hackmageddon.com/2024/07/30/16-30-april-2024-cyber-attacks-timeline/</link>
+      <pubDate>Tue, 30 Jul 2024 10:46:01 +0000</pubDate>
     </item>
     <item>
       <title>IPVanish vs NordVPN (2024): Which VPN Is Better?</title>
@@ -296,16 +306,6 @@
       <title>Proofpoint Email Routing Flaw Exploited to Send Millions of Spoofed Phishing Emails</title>
       <link>https://thehackernews.com/2024/07/proofpoint-email-routing-flaw-exploited.html</link>
       <pubDate>Mon, 29 Jul 2024 13:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Andariel Attack Detection: FBA, CISA, and Partners Warn of an Increasing Global Cyber-Espionage Campaign Linked to the North Korean State-Sponsored Group</title>
-      <link>https://socprime.com/blog/andariel-attack-detection-fba-cisa-and-partners-warn-of-an-increasing-global-cyber-espionage-campaign-linked-to-the-north-korean-state-sponsored-group/</link>
-      <pubDate>Mon, 29 Jul 2024 13:06:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Going For Gold | Russian Threats to the Olympic Games</title>
-      <link>https://www.sentinelone.com/blog/going-for-gold-russian-threats-to-the-olympic-games/</link>
-      <pubDate>Mon, 29 Jul 2024 13:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
