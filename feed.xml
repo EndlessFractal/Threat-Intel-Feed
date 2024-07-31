@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Jul 2024 04:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 06:20:12 +0000</lastBuildDate>
+    <item>
+      <title>Meta Settles for $1.4 Billion with Texas Over Illegal Biometric Data Collection</title>
+      <link>https://thehackernews.com/2024/07/meta-settles-for-14-billion-with-texas.html</link>
+      <pubDate>Wed, 31 Jul 2024 04:38:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, July 31st, 2024 https://isc.sans.edu/podcastdetail/9076, (Wed, Jul 31st)</title>
       <link>https://isc.sans.edu/diary/rss/31130</link>
@@ -193,11 +198,6 @@
       <pubDate>Tue, 30 Jul 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Phishing targeting Polish SMBs continues via ModiLoader</title>
-      <link>https://www.welivesecurity.com/en/eset-research/phishing-targeting-polish-smbs-continues-modiloader/</link>
-      <pubDate>Tue, 30 Jul 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>A crafty phishing campaign targets Microsoft OneDrive users</title>
       <link>https://securityaffairs.com/166312/hacking/microsoft-onedrive-phishing.html</link>
       <pubDate>Tue, 30 Jul 2024 08:20:42 +0000</pubDate>
@@ -293,11 +293,6 @@
       <pubDate>Mon, 29 Jul 2024 15:16:25 +0000</pubDate>
     </item>
     <item>
-      <title>July 30, 2024</title>
-      <link>https://asec.ahnlab.com/en/81926/</link>
-      <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>GitLab Product Security Update Advisory (CVE-2024-7047)</title>
       <link>https://asec.ahnlab.com/en/81974/</link>
       <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
@@ -305,6 +300,11 @@
     <item>
       <title>Apache StreamPipes Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/81973/</link>
+      <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 30, 2024</title>
+      <link>https://asec.ahnlab.com/en/81926/</link>
       <pubDate>Mon, 29 Jul 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
