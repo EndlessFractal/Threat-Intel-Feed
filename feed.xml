@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Jul 2024 14:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 16:21:38 +0000</lastBuildDate>
+    <item>
+      <title>Meta to pay $1.4 billion over unauthorized facial recognition image capture</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/07/meta-to-pay-1-4-billion-over-unauthorized-facial-recognition-image-capture</link>
+      <pubDate>Wed, 31 Jul 2024 16:07:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Out-of-bounds read vulnerability in NVIDIA driver; Open-source flashcard software contains multiple security issues</title>
+      <link>https://blog.talosintelligence.com/vulnerability-roundup-july-31-apple-nvidia/</link>
+      <pubDate>Wed, 31 Jul 2024 16:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nearly 7% of Internet Traffic Is Malicious</title>
+      <link>https://www.schneier.com/blog/archives/2024/07/nearly-7-of-internet-traffic-is-malicious.html</link>
+      <pubDate>Wed, 31 Jul 2024 15:55:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Urgent Blood Appeal Issued in US After Ransomware Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/urgent-blood-appeal-us-ransomware/</link>
+      <pubDate>Wed, 31 Jul 2024 15:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New SMS Stealer Malware Targets Over 600 Global Brands</title>
+      <link>https://www.infosecurity-magazine.com/news/sms-stealer-targets-600-brands/</link>
+      <pubDate>Wed, 31 Jul 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Greek prosecutor says government played no role in civil society spyware infections</title>
+      <link>https://therecord.media/greece-predator-spyware-investigation</link>
+      <pubDate>Wed, 31 Jul 2024 14:55:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attack on major US blood center prompts hundreds of hospitals to implement shortage protocols</title>
+      <link>https://therecord.media/ransomware-attack-blood-center-shortage-protocols-hospitals</link>
+      <pubDate>Wed, 31 Jul 2024 14:55:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>DigiCert to Revoke 83,000+ SSL Certificates Due to Domain Validation Oversight</title>
+      <link>https://thehackernews.com/2024/07/digicert-to-revoke-83000-ssl.html</link>
+      <pubDate>Wed, 31 Jul 2024 14:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>Germany summons Chinese ambassador over cyberattack on cartography agency</title>
       <link>https://therecord.media/germany-summons-chinese-ambassador-over-hack</link>
@@ -158,16 +198,6 @@
       <pubDate>Tue, 30 Jul 2024 17:01:22 +0000</pubDate>
     </item>
     <item>
-      <title>Critical ServiceNow vulnerabilities being targeted by hackers, cyber agency warns</title>
-      <link>https://therecord.media/critical-servicenow-vulnerabilities-hackers-cisa</link>
-      <pubDate>Tue, 30 Jul 2024 16:14:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta to pay Texas $1.4 billion to settle lawsuit alleging it illegally captured users’ faces</title>
-      <link>https://therecord.media/meta-texas-facial-recognition-settlement</link>
-      <pubDate>Tue, 30 Jul 2024 16:14:06 +0000</pubDate>
-    </item>
-    <item>
       <title>GDPR Consent Request Forms: Sample Text</title>
       <link>https://www.techrepublic.com/resource-library/toolstemplates/gdpr-consent-request-forms-sample-text/</link>
       <pubDate>Tue, 30 Jul 2024 16:00:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>16-30 April 2024 Cyber Attacks Timeline</title>
       <link>https://www.hackmageddon.com/2024/07/30/16-30-april-2024-cyber-attacks-timeline/</link>
       <pubDate>Tue, 30 Jul 2024 10:46:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>IPVanish vs NordVPN (2024): Which VPN Is Better?</title>
-      <link>https://www.techrepublic.com/article/ipvanish-vs-nordvpn/</link>
-      <pubDate>Tue, 30 Jul 2024 10:44:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Just One in 10 Attacks Flagged By Security Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/one-10-attacks-detected-security/</link>
-      <pubDate>Tue, 30 Jul 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surging data breach disruption drives costs to record highs</title>
-      <link>https://securityintelligence.com/posts/whats-new-2024-cost-of-a-data-breach-report/</link>
-      <pubDate>Tue, 30 Jul 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Millions of Spoofed Emails Bypass Proofpoint Security in Phishing Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/spoofed-emails-proofpoint-security/</link>
-      <pubDate>Tue, 30 Jul 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HealthEquity Breach Hits 4.3 Million Customers</title>
-      <link>https://www.infosecurity-magazine.com/news/healthequity-breach-43-million/</link>
-      <pubDate>Tue, 30 Jul 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing targeting Polish SMBs continues via ModiLoader</title>
-      <link>https://www.welivesecurity.com/en/eset-research/phishing-targeting-polish-smbs-continues-modiloader/</link>
-      <pubDate>Tue, 30 Jul 2024 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
