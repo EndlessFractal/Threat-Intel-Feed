@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Aug 2024 06:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 08:22:09 +0000</lastBuildDate>
+    <item>
+      <title>Facebook Ads Lead to Fake Websites Stealing Credit Card Information</title>
+      <link>https://thehackernews.com/2024/08/facebook-ads-lead-to-fake-websites.html</link>
+      <pubDate>Thu, 01 Aug 2024 06:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BingoMod Android RAT steals money from victims’ bank accounts and wipes data</title>
+      <link>https://securityaffairs.com/166410/malware/bingomod-android-rat.html</link>
+      <pubDate>Thu, 01 Aug 2024 05:58:08 +0000</pubDate>
+    </item>
     <item>
       <title>Begging for Bounties and More Info Stealer Logs</title>
       <link>https://www.troyhunt.com/begging-for-bounties-and-more-info-stealer-logs/</link>
@@ -105,6 +115,16 @@
     <item>
       <title>Dell Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82133/</link>
+      <pubDate>Wed, 31 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Family Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82143/</link>
+      <pubDate>Wed, 31 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, August 2024</title>
+      <link>https://asec.ahnlab.com/en/82141/</link>
       <pubDate>Wed, 31 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Sophisticated Phishing Campaign Targets Microsoft OneDrive Users</title>
       <link>https://www.infosecurity-magazine.com/news/phishing-campaign-targets/</link>
       <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SideWinder phishing campaign targets maritime facilities in multiple countries</title>
-      <link>https://securityaffairs.com/166325/breaking-news/sidewinder-phishing-campaign-maritime-facilities.html</link>
-      <pubDate>Tue, 30 Jul 2024 15:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Price Drop: This Complete Ethical Hacking Bundle is Now $40</title>
-      <link>https://www.techrepublic.com/article/ethical-hacking-course-bundle/</link>
-      <pubDate>Tue, 30 Jul 2024 15:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>MOVEit Product Security Update Advisory (CVE-2024-6576)</title>
-      <link>https://asec.ahnlab.com/en/82084/</link>
-      <pubDate>Tue, 30 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 1, August 2024</title>
-      <link>https://asec.ahnlab.com/en/82080/</link>
-      <pubDate>Tue, 30 Jul 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
