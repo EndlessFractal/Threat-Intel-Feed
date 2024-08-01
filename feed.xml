@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Aug 2024 04:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 06:24:47 +0000</lastBuildDate>
+    <item>
+      <title>Begging for Bounties and More Info Stealer Logs</title>
+      <link>https://www.troyhunt.com/begging-for-bounties-and-more-info-stealer-logs/</link>
+      <pubDate>Thu, 01 Aug 2024 05:52:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>MS Family July 2024 Routine Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82132/</link>
+      <pubDate>Thu, 01 Aug 2024 04:40:26 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, August 1st, 2024 https://isc.sans.edu/podcastdetail/9078, (Thu, Aug 1st)</title>
       <link>https://isc.sans.edu/diary/rss/31134</link>
@@ -81,6 +91,31 @@
       <title>New SMS Stealer Malware Targets Over 600 Global Brands</title>
       <link>https://www.infosecurity-magazine.com/news/sms-stealer-targets-600-brands/</link>
       <pubDate>Wed, 31 Jul 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Softnext Product Security Update Advisory (CVE-2024-5670)</title>
+      <link>https://asec.ahnlab.com/en/82135/</link>
+      <pubDate>Wed, 31 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EWeLink Product Security Update Advisory (CVE-2024-7205)</title>
+      <link>https://asec.ahnlab.com/en/82134/</link>
+      <pubDate>Wed, 31 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dell Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82133/</link>
+      <pubDate>Wed, 31 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware Product Security Update Advisory (CVE-2024-37085)</title>
+      <link>https://asec.ahnlab.com/en/82137/</link>
+      <pubDate>Wed, 31 Jul 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FreeRTOS Product Security Update Advisory (CVE-2024-38373)</title>
+      <link>https://asec.ahnlab.com/en/82136/</link>
+      <pubDate>Wed, 31 Jul 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Greek prosecutor says government played no role in civil society spyware infections</title>
@@ -263,11 +298,6 @@
       <pubDate>Tue, 30 Jul 2024 15:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>July 31, 2024</title>
-      <link>https://asec.ahnlab.com/en/82052/</link>
-      <pubDate>Tue, 30 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MOVEit Product Security Update Advisory (CVE-2024-6576)</title>
       <link>https://asec.ahnlab.com/en/82084/</link>
       <pubDate>Tue, 30 Jul 2024 15:00:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 1, August 2024</title>
       <link>https://asec.ahnlab.com/en/82080/</link>
       <pubDate>Tue, 30 Jul 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #9: When AI detectors fail (spectacularly), and OpenAI’s five steps to Skynet</title>
-      <link>https://grahamcluley.com/the-ai-fix-9/</link>
-      <pubDate>Tue, 30 Jul 2024 14:02:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stolen GenAI Accounts Flood Dark Web With 400 Daily Listings</title>
-      <link>https://www.infosecurity-magazine.com/news/genai-dark-web-400-daily-listings/</link>
-      <pubDate>Tue, 30 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of Ransomware in Healthcare 2024</title>
-      <link>https://news.sophos.com/en-us/2024/07/30/the-state-of-ransomware-in-healthcare-2024/</link>
-      <pubDate>Tue, 30 Jul 2024 13:52:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Mandrake Spyware Found in Google Play Store Apps After Two Years</title>
-      <link>https://thehackernews.com/2024/07/new-mandrake-spyware-found-in-google.html</link>
-      <pubDate>Tue, 30 Jul 2024 13:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Future of CIO and CISO Roles in the Era of AI</title>
-      <link>https://www.sentinelone.com/blog/the-future-of-cio-and-ciso-roles-in-the-era-of-ai/</link>
-      <pubDate>Tue, 30 Jul 2024 13:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Tue, 30 Jul 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
