@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Aug 2024 06:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 08:21:19 +0000</lastBuildDate>
+    <item>
+      <title>Cybercriminals Abusing Cloudflare Tunnels to Evade Detection and Spread Malware</title>
+      <link>https://thehackernews.com/2024/08/cybercriminals-abusing-cloudflare.html</link>
+      <pubDate>Fri, 02 Aug 2024 07:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sitting Ducks attack technique exposes over a million domains to hijacking</title>
       <link>https://securityaffairs.com/166445/hacking/sitting-ducks-attack-technique.html</link>
@@ -301,11 +306,6 @@
       <title>Microsoft Says Ransomware Groups Are Exploiting the Newly-Patched VMware ESXi Flaw</title>
       <link>https://www.techrepublic.com/article/microsoft-ransomware-groups-vmware-esxi-flaw/</link>
       <pubDate>Wed, 31 Jul 2024 17:52:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Increased Activity Against Apache OFBiz CVE-2024-32113, (Wed, Jul 31st)</title>
-      <link>https://isc.sans.edu/diary/rss/31132</link>
-      <pubDate>Wed, 31 Jul 2024 17:51:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
