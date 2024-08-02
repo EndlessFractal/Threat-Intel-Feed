@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Aug 2024 01:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 02:35:31 +0000</lastBuildDate>
+    <item>
+      <title>Security Update Advisory for Microsoft Edge browser version 127.0.6533.88/89 (Chromium-based)</title>
+      <link>https://asec.ahnlab.com/en/82145/</link>
+      <pubDate>Fri, 02 Aug 2024 00:59:17 +0000</pubDate>
+    </item>
     <item>
       <title>White House officials meet with allies, industry on connected car risks</title>
       <link>https://therecord.media/white-house-officials-meet-with-nations-industry-connected-cars</link>
@@ -301,11 +306,6 @@
       <title>Out-of-bounds read vulnerability in NVIDIA driver; Open-source flashcard software contains multiple security issues</title>
       <link>https://blog.talosintelligence.com/vulnerability-roundup-july-31-nvidia/</link>
       <pubDate>Wed, 31 Jul 2024 16:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nearly 7% of Internet Traffic Is Malicious</title>
-      <link>https://www.schneier.com/blog/archives/2024/07/nearly-7-of-internet-traffic-is-malicious.html</link>
-      <pubDate>Wed, 31 Jul 2024 15:55:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
