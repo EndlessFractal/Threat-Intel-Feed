@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Aug 2024 08:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 10:17:07 +0000</lastBuildDate>
+    <item>
+      <title>DOJ and FTC Sue TikTok for Violating Children's Privacy Laws</title>
+      <link>https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html</link>
+      <pubDate>Sat, 03 Aug 2024 09:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Exploit Misconfigured Jupyter Notebooks with Repurposed Minecraft DDoS Tool</title>
       <link>https://thehackernews.com/2024/08/hackers-exploit-misconfigured-jupyter.html</link>
@@ -101,6 +106,11 @@
       <title>Webinar: Discover the All-in-One Cybersecurity Solution for SMBs</title>
       <link>https://thehackernews.com/2024/08/webinar-discover-all-in-one.html</link>
       <pubDate>Fri, 02 Aug 2024 11:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI and automation reducing breach costs – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/ai-automation-reducing-breach-costs-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 02 Aug 2024 11:30:15 +0000</pubDate>
     </item>
     <item>
       <title>Leaked GitHub Python Token</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Johnson Controls exacqVision Web Service</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-214-04</link>
-      <pubDate>Thu, 01 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Johnson Controls exacqVision Client and exacqVision Server</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-214-01</link>
-      <pubDate>Thu, 01 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Nine Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/08/01/cisa-releases-nine-industrial-control-systems-advisories</link>
       <pubDate>Thu, 01 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
