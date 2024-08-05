@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Aug 2024 06:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 08:22:37 +0000</lastBuildDate>
+    <item>
+      <title>Is Australia’s Public Sector Ready for a Major Cyber Security Incident?</title>
+      <link>https://www.techrepublic.com/article/australian-public-sector-cyber-security-strategy/</link>
+      <pubDate>Mon, 05 Aug 2024 08:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (July 29 – August 4)</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/08/a-week-in-security-july-29-august-4-2</link>
+      <pubDate>Mon, 05 Aug 2024 07:46:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked APT41 breached Taiwanese research institute</title>
+      <link>https://securityaffairs.com/166562/breaking-news/apt41-breached-taiwanese-gov-research-institute.html</link>
+      <pubDate>Mon, 05 Aug 2024 06:19:00 +0000</pubDate>
+    </item>
     <item>
       <title>Critical Flaw in Rockwell Automation Devices Allows Unauthorized Access</title>
       <link>https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html</link>
       <pubDate>Mon, 05 Aug 2024 06:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Script obfuscation using multiple instances of the same function, (Mon, Aug 5th)</title>
+      <link>https://isc.sans.edu/diary/rss/31144</link>
+      <pubDate>Mon, 05 Aug 2024 06:01:11 +0000</pubDate>
     </item>
     <item>
       <title>New Android Trojan "BlankBot" Targets Turkish Users' Financial Data</title>
@@ -31,6 +51,26 @@
       <title>Chinese StormBamboo APT compromised ISP to deliver malware</title>
       <link>https://securityaffairs.com/166552/apt/stormbamboo-compromised-isp-malware.html</link>
       <pubDate>Sun, 04 Aug 2024 15:55:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>GStreamer Product Security Update Advisory (CVE-2024-40897)</title>
+      <link>https://asec.ahnlab.com/en/82196/</link>
+      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Security Update Advisory (CVE-2024-39392)</title>
+      <link>https://asec.ahnlab.com/en/82195/</link>
+      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAM Security Update Advisory (CVE-2024-41667)</title>
+      <link>https://asec.ahnlab.com/en/82194/</link>
+      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RaspAP Security Update Advisory (CVE-2024-41637)</title>
+      <link>https://asec.ahnlab.com/en/82193/</link>
+      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>August 05, 2024</title>
@@ -228,11 +268,6 @@
       <pubDate>Fri, 02 Aug 2024 07:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sitting Ducks attack technique exposes over a million domains to hijacking</title>
-      <link>https://securityaffairs.com/166445/hacking/sitting-ducks-attack-technique.html</link>
-      <pubDate>Fri, 02 Aug 2024 05:35:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Weekly Update 411</title>
       <link>https://www.troyhunt.com/weekly-update-411/</link>
       <pubDate>Fri, 02 Aug 2024 03:29:34 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Tracking Proxy Scans with IPv4.Games, (Thu, Aug 1st)</title>
       <link>https://isc.sans.edu/diary/rss/31136</link>
       <pubDate>Thu, 01 Aug 2024 17:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Confirms Global Azure Outage Caused by DDoS Attack</title>
-      <link>https://www.techrepublic.com/article/microsoft-azure-outage-ddos-attack/</link>
-      <pubDate>Thu, 01 Aug 2024 16:58:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 6 Cloud Computing Certifications Worth Taking</title>
-      <link>https://www.techrepublic.com/article/top-cloud-computing-certifications/</link>
-      <pubDate>Thu, 01 Aug 2024 16:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gaming Industry Faces 94% Surge in DDoS Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/gaming-industry-faces-94-surge/</link>
-      <pubDate>Thu, 01 Aug 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scam Platform Shut Down by UK Authorities After 1.8 Million Fraudulent Calls</title>
-      <link>https://www.infosecurity-magazine.com/news/scam-platform-shut-dow-by-uk/</link>
-      <pubDate>Thu, 01 Aug 2024 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>$75 million record-breaking ransom paid to cybercriminals, say researchers</title>
-      <link>https://www.tripwire.com/state-of-security/75-million-record-breaking-ransom-paid-cybercriminals-say-researchers</link>
-      <pubDate>Thu, 01 Aug 2024 15:31:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>RansomEXX Group Targets Indian Banking With New Tactics</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomexx-targets-indian-banking/</link>
-      <pubDate>Thu, 01 Aug 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Malware &amp; Security Issue 1st Week of August, 2024</title>
-      <link>https://asec.ahnlab.com/en/82153/</link>
-      <pubDate>Thu, 01 Aug 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
