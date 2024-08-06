@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Aug 2024 06:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 08:21:33 +0000</lastBuildDate>
+    <item>
+      <title>Should Organizations Pay Ransom Demands?</title>
+      <link>https://securityaffairs.com/166650/uncategorized/ransomware-organizations-should-avoid-paying-ransoms.html</link>
+      <pubDate>Tue, 06 Aug 2024 07:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea-linked hackers target construction and machinery sectors with watering hole and supply chain attacks</title>
+      <link>https://securityaffairs.com/166628/apt/north-korea-targets-construction-machinery-sectors.html</link>
+      <pubDate>Tue, 06 Aug 2024 07:02:48 +0000</pubDate>
+    </item>
     <item>
       <title>Google Patches New Android Kernel Vulnerability Exploited in the Wild</title>
       <link>https://thehackernews.com/2024/08/google-patches-new-android-kernel.html</link>
@@ -75,6 +85,21 @@
     <item>
       <title>August 06, 2024</title>
       <link>https://asec.ahnlab.com/en/82210/</link>
+      <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Family August 2024 Routine Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82280/</link>
+      <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arm Product Security Update Advisory (CVE-2024-2937, CVE-2024-4607)</title>
+      <link>https://asec.ahnlab.com/en/82279/</link>
+      <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Plugin Security Update Advisory (CVE-2024-6220, CVE-2024-5488)</title>
+      <link>https://asec.ahnlab.com/en/82278/</link>
       <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -223,16 +248,6 @@
       <pubDate>Sun, 04 Aug 2024 15:55:27 +0000</pubDate>
     </item>
     <item>
-      <title>August 05, 2024</title>
-      <link>https://asec.ahnlab.com/en/82166/</link>
-      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LibreOffice Security Update Advisory (CVE-2024-5261)</title>
-      <link>https://asec.ahnlab.com/en/82272/</link>
-      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>GStreamer Product Security Update Advisory (CVE-2024-40897)</title>
       <link>https://asec.ahnlab.com/en/82196/</link>
       <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
@@ -250,6 +265,16 @@
     <item>
       <title>RaspAP Security Update Advisory (CVE-2024-41637)</title>
       <link>https://asec.ahnlab.com/en/82193/</link>
+      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 05, 2024</title>
+      <link>https://asec.ahnlab.com/en/82166/</link>
+      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LibreOffice Security Update Advisory (CVE-2024-5261)</title>
+      <link>https://asec.ahnlab.com/en/82272/</link>
       <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -278,34 +303,9 @@
       <pubDate>Sun, 04 Aug 2024 07:23:41 +0000</pubDate>
     </item>
     <item>
-      <title>US sued TikTok and ByteDance for violating children’s privacy laws</title>
-      <link>https://securityaffairs.com/166512/laws-and-regulations/us-doj-sued-tiktok.html</link>
-      <pubDate>Sat, 03 Aug 2024 21:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 04, 2024</title>
-      <link>https://asec.ahnlab.com/en/82164/</link>
-      <pubDate>Sat, 03 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked APT used a car for sale as a phishing lure to target diplomats with HeadLace malware</title>
-      <link>https://securityaffairs.com/166496/apt/russia-apt-headlace-malware.html</link>
-      <pubDate>Sat, 03 Aug 2024 14:38:24 +0000</pubDate>
-    </item>
-    <item>
       <title>Minister apologises for Northern Ireland special education needs data breach</title>
       <link>https://www.theguardian.com/technology/article/2024/aug/03/minister-apologises-for-northern-ireland-special-education-needs-data-breach</link>
       <pubDate>Sat, 03 Aug 2024 11:27:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>DoJ and FTC Sue TikTok for Violating Children's Privacy Laws</title>
-      <link>https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html</link>
-      <pubDate>Sat, 03 Aug 2024 09:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Misconfigured Jupyter Notebooks with Repurposed Minecraft DDoS Tool</title>
-      <link>https://thehackernews.com/2024/08/hackers-exploit-misconfigured-jupyter.html</link>
-      <pubDate>Sat, 03 Aug 2024 03:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
