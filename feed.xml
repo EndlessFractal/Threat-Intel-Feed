@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Aug 2024 04:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 06:26:22 +0000</lastBuildDate>
+    <item>
+      <title>Google Patches New Android Kernel Vulnerability Exploited in the Wild</title>
+      <link>https://thehackernews.com/2024/08/google-patches-new-android-kernel.html</link>
+      <pubDate>Tue, 06 Aug 2024 06:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Zero-Day Flaw in Apache OFBiz ERP Allows Remote Code Execution</title>
+      <link>https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html</link>
+      <pubDate>Tue, 06 Aug 2024 04:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, August 6th, 2024 https://isc.sans.edu/podcastdetail/9084, (Tue, Aug 6th)</title>
       <link>https://isc.sans.edu/diary/rss/31146</link>
       <pubDate>Tue, 06 Aug 2024 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tips for Parents Working from Home from HackerOne Employees</title>
+      <link>https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees</link>
+      <pubDate>Mon, 05 Aug 2024 21:54:50 +0000</pubDate>
     </item>
     <item>
       <title>CrowdStrike vows to ‘respond aggressively’ to Delta litigation</title>
@@ -208,6 +223,16 @@
       <pubDate>Sun, 04 Aug 2024 15:55:27 +0000</pubDate>
     </item>
     <item>
+      <title>August 05, 2024</title>
+      <link>https://asec.ahnlab.com/en/82166/</link>
+      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LibreOffice Security Update Advisory (CVE-2024-5261)</title>
+      <link>https://asec.ahnlab.com/en/82272/</link>
+      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>GStreamer Product Security Update Advisory (CVE-2024-40897)</title>
       <link>https://asec.ahnlab.com/en/82196/</link>
       <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
@@ -225,11 +250,6 @@
     <item>
       <title>RaspAP Security Update Advisory (CVE-2024-41637)</title>
       <link>https://asec.ahnlab.com/en/82193/</link>
-      <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 05, 2024</title>
-      <link>https://asec.ahnlab.com/en/82166/</link>
       <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Hackers Exploit Misconfigured Jupyter Notebooks with Repurposed Minecraft DDoS Tool</title>
       <link>https://thehackernews.com/2024/08/hackers-exploit-misconfigured-jupyter.html</link>
       <pubDate>Sat, 03 Aug 2024 03:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Treating Squid Parasites</title>
-      <link>https://www.schneier.com/blog/archives/2024/08/friday-squid-blogging-treating-squid-parasites.html</link>
-      <pubDate>Fri, 02 Aug 2024 21:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Even Linux users should take a look at this Microsoft KB article., (Fri, Aug 2nd)</title>
-      <link>https://isc.sans.edu/diary/rss/31140</link>
-      <pubDate>Fri, 02 Aug 2024 20:07:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Optus and Medibank Data Breach Cases Allege Cyber Security Failures</title>
-      <link>https://www.techrepublic.com/article/optus-medibank-data-breaches-australia/</link>
-      <pubDate>Fri, 02 Aug 2024 18:38:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scammers are impersonating cryptocurrency exchanges, FBI warns</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/08/scammers-are-impersonating-cryptocurrency-exchanges-fbi-warns</link>
-      <pubDate>Fri, 02 Aug 2024 16:56:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
