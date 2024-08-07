@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 01:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 02:37:21 +0000</lastBuildDate>
     <item>
       <title>NHS software supplier Advanced faces £6m fine over ransomware attack failings</title>
       <link>https://therecord.media/nhs-software-supplier-hit-with-6-million-fine</link>
       <pubDate>Wed, 07 Aug 2024 00:55:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Same Scripts, Different Day: What My DShield Honeypot Taught Me About the Importance of Security Fundamentals [Guest Diary], (Wed, Aug 7th)</title>
+      <link>https://isc.sans.edu/diary/rss/31150</link>
+      <pubDate>Wed, 07 Aug 2024 00:42:13 +0000</pubDate>
     </item>
     <item>
       <title>Venezuelan government ratchets up digital repression surrounding tainted election</title>
@@ -56,6 +61,16 @@
       <title>Nearly 40 French museums reportedly affected by ransomware attack</title>
       <link>https://therecord.media/french-museums-reportedly-affected-by-cyberattack</link>
       <pubDate>Tue, 06 Aug 2024 15:24:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, August 2024</title>
+      <link>https://asec.ahnlab.com/en/82314/</link>
+      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 07, 2024</title>
+      <link>https://asec.ahnlab.com/en/82310/</link>
+      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Survey of Scans for GeoServer Vulnerabilities, (Tue, Aug 6th)</title>
@@ -223,11 +238,6 @@
       <pubDate>Mon, 05 Aug 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>August 06, 2024</title>
-      <link>https://asec.ahnlab.com/en/82210/</link>
-      <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Android Family August 2024 Routine Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82280/</link>
       <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
@@ -240,6 +250,11 @@
     <item>
       <title>WordPress Plugin Security Update Advisory (CVE-2024-6220, CVE-2024-5488)</title>
       <link>https://asec.ahnlab.com/en/82278/</link>
+      <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 06, 2024</title>
+      <link>https://asec.ahnlab.com/en/82210/</link>
       <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>TikTok Withdraws Lite Rewards Program from EU Over Child Safety Fears</title>
       <link>https://www.infosecurity-magazine.com/news/tiktok-lite-rewards-eu-child-safety/</link>
       <pubDate>Mon, 05 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Mon, 05 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Loper Bright Decision: How it Impacts Cybersecurity Law</title>
-      <link>https://thehackernews.com/2024/08/the-loper-bright-decision-how-it.html</link>
-      <pubDate>Mon, 05 Aug 2024 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Patent Application for Car-to-Car Surveillance</title>
-      <link>https://www.schneier.com/blog/archives/2024/08/new-patent-application-for-car-to-car-surveillance.html</link>
-      <pubDate>Mon, 05 Aug 2024 11:07:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
