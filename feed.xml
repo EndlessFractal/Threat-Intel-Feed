@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 20:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 22:16:37 +0000</lastBuildDate>
+    <item>
+      <title>Easterly: Too early to say if Supreme Court’s Chevron decision will affect cyber incident notification rules</title>
+      <link>https://therecord.media/easterly-supreme-court-decision-regulations-circia</link>
+      <pubDate>Wed, 07 Aug 2024 21:33:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical XSS bug in Roundcube Webmail allows attackers to steal emails and sensitive data</title>
+      <link>https://securityaffairs.com/166736/hacking/critical-xss-bug-in-roundcube-webmail.html</link>
+      <pubDate>Wed, 07 Aug 2024 21:10:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Royal ransomware successor BlackSuit has demanded more than $500 million</title>
+      <link>https://therecord.media/royal-ransomware-blacksuit-half-billion</link>
+      <pubDate>Wed, 07 Aug 2024 20:58:37 +0000</pubDate>
+    </item>
     <item>
       <title>#BHUSA: CrowdStrike Outage Serves as Dress Rehearsal for China-Led Cyber-Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/crowdstrike-outage-china/</link>
@@ -50,6 +65,11 @@
     <item>
       <title>How Symantec Tuned-up Security for a Formula One Icon</title>
       <link>https://symantec-enterprise-blogs.security.com/feature-stories/how-symantec-tuned-security-formula-one-icon</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 08, 2024</title>
+      <link>https://asec.ahnlab.com/en/82328/</link>
       <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -178,34 +198,14 @@
       <pubDate>Wed, 07 Aug 2024 02:43:45 +0000</pubDate>
     </item>
     <item>
-      <title>ISC Stormcast For Wednesday, August 7th, 2024 https://isc.sans.edu/podcastdetail/9086, (Wed, Aug 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/31152</link>
-      <pubDate>Wed, 07 Aug 2024 02:00:01 +0000</pubDate>
-    </item>
-    <item>
       <title>NHS software supplier Advanced faces £6m fine over ransomware attack failings</title>
       <link>https://therecord.media/nhs-software-supplier-hit-with-6-million-fine</link>
       <pubDate>Wed, 07 Aug 2024 00:55:33 +0000</pubDate>
     </item>
     <item>
-      <title>Same Scripts, Different Day: What My DShield Honeypot Taught Me About the Importance of Security Fundamentals [Guest Diary], (Wed, Aug 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/31150</link>
-      <pubDate>Wed, 07 Aug 2024 00:42:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuelan government ratchets up digital repression surrounding tainted election</title>
-      <link>https://therecord.media/venezuela-election-digital-censorship</link>
-      <pubDate>Tue, 06 Aug 2024 20:15:36 +0000</pubDate>
-    </item>
-    <item>
       <title>A ransomware attack hit French museum network</title>
       <link>https://securityaffairs.com/166696/cyber-crime/ransomware-attack-french-museum-network.html</link>
       <pubDate>Tue, 06 Aug 2024 18:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google says Android zero-day was exploited in the wild</title>
-      <link>https://therecord.media/android-zero-day-google-fix-august-patch</link>
-      <pubDate>Tue, 06 Aug 2024 17:18:46 +0000</pubDate>
     </item>
     <item>
       <title>FTC warns consumers of scammers offering to remove all negative information from credit reports</title>
@@ -258,11 +258,6 @@
       <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Survey of Scans for GeoServer Vulnerabilities, (Tue, Aug 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/31148</link>
-      <pubDate>Tue, 06 Aug 2024 14:20:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Data Breaches Are Costing Australian Organisations, IBM Report Reveals</title>
       <link>https://www.techrepublic.com/article/ibm-data-breach-cost-report-australia/</link>
       <pubDate>Tue, 06 Aug 2024 14:00:34 +0000</pubDate>
@@ -305,6 +300,11 @@
     <item>
       <title>CISA Releases One Industrial Control Systems Advisory</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory</link>
+      <pubDate>Tue, 06 Aug 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Secure by Demand Guidance</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance</link>
       <pubDate>Tue, 06 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
