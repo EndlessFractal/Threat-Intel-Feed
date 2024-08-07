@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 04:21:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:24:55 +0000</lastBuildDate>
     <item>
       <title>Hackers breached MDM firm Mobile Guardian and wiped thousands of devices</title>
       <link>https://securityaffairs.com/166710/hacking/mobile-guardian-firm-security-breach.html</link>
@@ -71,6 +71,26 @@
       <title>Nearly 40 French museums reportedly affected by ransomware attack</title>
       <link>https://therecord.media/french-museums-reportedly-affected-by-cyberattack</link>
       <pubDate>Tue, 06 Aug 2024 15:24:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>MS Family August 2024 Routine Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82322/</link>
+      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Family Security Update Advisory (CVE-2024-6242)</title>
+      <link>https://asec.ahnlab.com/en/82321/</link>
+      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache OFBiz Product Security Update Advisory (CVE-2024-38856)</title>
+      <link>https://asec.ahnlab.com/en/82320/</link>
+      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Family Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82319/</link>
+      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, August 2024</title>
@@ -248,6 +268,11 @@
       <pubDate>Mon, 05 Aug 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>August 06, 2024</title>
+      <link>https://asec.ahnlab.com/en/82210/</link>
+      <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Android Family August 2024 Routine Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82280/</link>
       <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
@@ -260,11 +285,6 @@
     <item>
       <title>WordPress Plugin Security Update Advisory (CVE-2024-6220, CVE-2024-5488)</title>
       <link>https://asec.ahnlab.com/en/82278/</link>
-      <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 06, 2024</title>
-      <link>https://asec.ahnlab.com/en/82210/</link>
       <pubDate>Mon, 05 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Researchers Uncover Flaws in Windows Smart App Control and SmartScreen</title>
       <link>https://thehackernews.com/2024/08/researchers-uncover-flaws-in-windows.html</link>
       <pubDate>Mon, 05 Aug 2024 13:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PinnacleOne ExecBrief | The Escalation of Nation-State Sabotage and Its Implications for the Private Sector</title>
-      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-the-escalation-of-nation-state-sabotage-and-its-implications-for-the-private-sector/</link>
-      <pubDate>Mon, 05 Aug 2024 13:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kazakh Organizations Targeted by 'Bloody Wolf' Cyber Attacks</title>
-      <link>https://thehackernews.com/2024/08/kazakh-organizations-targeted-by-bloody.html</link>
-      <pubDate>Mon, 05 Aug 2024 12:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keytronic incurred approximately $17 million of expenses following ransomware attack</title>
-      <link>https://securityaffairs.com/166595/data-breach/keytronic-lost-revenue-exceeding-17m.html</link>
-      <pubDate>Mon, 05 Aug 2024 12:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fighting Ursa (aka APT28) Attack Detection: Adversaries Target Diplomats Using a Car for Sale as a Phishing Lure to Spread HeadLace Malware</title>
-      <link>https://socprime.com/blog/fighting-ursa-aka-apt28-attack-detection-adversaries-target-diplomats-using-a-car-for-sale-as-a-phishing-lure-to-spread-headlace-malware/</link>
-      <pubDate>Mon, 05 Aug 2024 12:08:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
