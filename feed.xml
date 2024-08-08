@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Aug 2024 02:37:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 04:23:20 +0000</lastBuildDate>
     <item>
       <title>US offers $10 million for info on Iranian leaders behind CyberAv3ngers water utility attacks</title>
       <link>https://therecord.media/us-offers-reward-for-info-on-iranian-hackers-water-utilities</link>
@@ -16,6 +16,16 @@
       <title>Michigan hospital system struggles with cyberattack as healthcare industry decries ‘Russian’ ransomware</title>
       <link>https://therecord.media/michigan-hospital-system-struggling-after-cyberattack</link>
       <pubDate>Thu, 08 Aug 2024 01:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>MS Family August 2024 Routine Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82350/</link>
+      <pubDate>Thu, 08 Aug 2024 01:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla Products August 2024 1st Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82344/</link>
+      <pubDate>Thu, 08 Aug 2024 01:17:27 +0000</pubDate>
     </item>
     <item>
       <title>Easterly: Too early to say if Supreme Court’s Chevron decision will affect cyber incident notification rules</title>
@@ -75,6 +85,41 @@
     <item>
       <title>How Symantec Tuned-up Security for a Formula One Icon</title>
       <link>https://symantec-enterprise-blogs.security.com/feature-stories/how-symantec-tuned-security-formula-one-icon</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Western Digital Product Security Update Advisory (CVE-2024-22169)</title>
+      <link>https://asec.ahnlab.com/en/82349/</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Product Security Update Advisory (CVE-2024-43044)</title>
+      <link>https://asec.ahnlab.com/en/82348/</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JFrog Product Security Update Advisory (CVE-2024-6915)</title>
+      <link>https://asec.ahnlab.com/en/82347/</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kibana Security Update Advisory (CVE-2024-37287)</title>
+      <link>https://asec.ahnlab.com/en/82346/</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Admidio Application Security Update Advisory (CVE-2024-38529)</title>
+      <link>https://asec.ahnlab.com/en/82345/</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome Browser (127.0.6533.99/.100) Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82343/</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Family August 2024 1st Security Advisory</title>
+      <link>https://asec.ahnlab.com/en/82342/</link>
       <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -228,36 +273,6 @@
       <pubDate>Tue, 06 Aug 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>MS Family August 2024 Routine Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82322/</link>
-      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Family Security Update Advisory (CVE-2024-6242)</title>
-      <link>https://asec.ahnlab.com/en/82321/</link>
-      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache OFBiz Product Security Update Advisory (CVE-2024-38856)</title>
-      <link>https://asec.ahnlab.com/en/82320/</link>
-      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Family Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82319/</link>
-      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, August 2024</title>
-      <link>https://asec.ahnlab.com/en/82314/</link>
-      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 07, 2024</title>
-      <link>https://asec.ahnlab.com/en/82310/</link>
-      <pubDate>Tue, 06 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Data Breaches Are Costing Australian Organisations, IBM Report Reveals</title>
       <link>https://www.techrepublic.com/article/ibm-data-breach-cost-report-australia/</link>
       <pubDate>Tue, 06 Aug 2024 14:00:34 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Men report more pressure and threats to share location and accounts with partners, research shows</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/men-report-more-pressure-and-threats-to-share-location-and-accounts-with-partners-research-shows</link>
       <pubDate>Tue, 06 Aug 2024 12:59:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Delta Electronics DIAScreen</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-219-01</link>
-      <pubDate>Tue, 06 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory</link>
-      <pubDate>Tue, 06 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Secure by Demand Guidance</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance</link>
-      <pubDate>Tue, 06 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
