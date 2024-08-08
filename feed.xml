@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Aug 2024 16:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 18:24:32 +0000</lastBuildDate>
+    <item>
+      <title>The top stories coming out of the Black Hat cybersecurity conference</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-aug-8-2024/</link>
+      <pubDate>Thu, 08 Aug 2024 18:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Easterly warns of destructive cyberattacks from China that could cause widespread outages</title>
+      <link>https://therecord.media/easterly-china-cyberattacks-crowdstrike-outages</link>
+      <pubDate>Thu, 08 Aug 2024 16:51:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers return $12 million taken during Ronin network breach</title>
+      <link>https://therecord.media/hackers-return-12-million-taken-from-ronin-network</link>
+      <pubDate>Thu, 08 Aug 2024 16:37:36 +0000</pubDate>
+    </item>
     <item>
       <title>Exclusive: Russian spies hacked UK government systems earlier this year, stole data and emails</title>
       <link>https://therecord.media/russia-hack-uk-government-home-office-microsoft</link>
@@ -148,16 +163,6 @@
       <pubDate>Thu, 08 Aug 2024 05:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>US offers $10 million for info on Iranian leaders behind CyberAv3ngers water utility attacks</title>
-      <link>https://therecord.media/us-offers-reward-for-info-on-iranian-hackers-water-utilities</link>
-      <pubDate>Thu, 08 Aug 2024 02:32:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Michigan hospital system struggles with cyberattack as healthcare industry decries ‘Russian’ ransomware</title>
-      <link>https://therecord.media/michigan-hospital-system-struggling-after-cyberattack</link>
-      <pubDate>Thu, 08 Aug 2024 01:54:03 +0000</pubDate>
-    </item>
-    <item>
       <title>MS Family August 2024 Routine Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82350/</link>
       <pubDate>Thu, 08 Aug 2024 01:20:47 +0000</pubDate>
@@ -218,21 +223,6 @@
       <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Admidio Application Security Update Advisory (CVE-2024-38529)</title>
-      <link>https://asec.ahnlab.com/en/82345/</link>
-      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Browser (127.0.6533.99/.100) Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82343/</link>
-      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Family August 2024 1st Security Advisory</title>
-      <link>https://asec.ahnlab.com/en/82342/</link>
-      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>August 08, 2024</title>
       <link>https://asec.ahnlab.com/en/82328/</link>
       <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
@@ -255,6 +245,21 @@
     <item>
       <title>JFrog Product Security Update Advisory (CVE-2024-6915)</title>
       <link>https://asec.ahnlab.com/en/82347/</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kibana Security Update Advisory (CVE-2024-37287)</title>
+      <link>https://asec.ahnlab.com/en/82346/</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Admidio Application Security Update Advisory (CVE-2024-38529)</title>
+      <link>https://asec.ahnlab.com/en/82345/</link>
+      <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome Browser (127.0.6533.99/.100) Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82343/</link>
       <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -300,11 +305,6 @@
     <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Wed, 07 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory</link>
       <pubDate>Wed, 07 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
