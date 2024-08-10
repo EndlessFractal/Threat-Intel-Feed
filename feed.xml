@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Aug 2024 20:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 22:16:02 +0000</lastBuildDate>
     <item>
       <title>Researchers Uncover 10 Flaws in Google's File Transfer Tool Quick Share</title>
       <link>https://thehackernews.com/2024/08/researchers-uncover-10-flaws-in-googles.html</link>
@@ -21,6 +21,11 @@
       <title>Local gov’ts in Texas, Florida hit with ransomware as cyber leaders question best path forward</title>
       <link>https://therecord.media/texas-florida-local-governments-ransomware-neuberger-nakasone-white-house</link>
       <pubDate>Sat, 10 Aug 2024 17:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 11, 2024</title>
+      <link>https://asec.ahnlab.com/en/82385/</link>
+      <pubDate>Sat, 10 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Hits 300,000 Users with Rogue Chrome and Edge Extensions</title>
@@ -248,16 +253,6 @@
       <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Android Malware &amp; Security Issue 2st Week of August, 2024</title>
-      <link>https://asec.ahnlab.com/en/82381/</link>
-      <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RaonSecure Product Security Advisory</title>
-      <link>https://asec.ahnlab.com/en/82372/</link>
-      <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>LibreOffice Security Update Advisory (CVE-2024-6472)</title>
       <link>https://asec.ahnlab.com/en/82365/</link>
       <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
@@ -270,6 +265,16 @@
     <item>
       <title>August 09, 2024</title>
       <link>https://asec.ahnlab.com/en/82358/</link>
+      <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 2st Week of August, 2024</title>
+      <link>https://asec.ahnlab.com/en/82381/</link>
+      <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RaonSecure Product Security Advisory</title>
+      <link>https://asec.ahnlab.com/en/82372/</link>
       <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>DeathGrip RaaS | Small-Time Threat Actors Aim High With LockBit &amp; Yashma Builders</title>
       <link>https://www.sentinelone.com/blog/deathgrip-raas-small-time-threat-actors-aim-high-with-lockbit-yashma-builders/</link>
       <pubDate>Thu, 08 Aug 2024 13:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>PureHVNC Deployed via Python Multi-stage Loader</title>
-      <link>https://feeds.fortinet.com/~/902536604/0/fortinet/blog/threat-research~PureHVNC-Deployed-via-Python-Multistage-Loader</link>
-      <pubDate>Thu, 08 Aug 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
