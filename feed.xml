@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 01:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 02:38:34 +0000</lastBuildDate>
+    <item>
+      <title>Video: Same Origin, CORS, DNS Rebinding and Localhost, (Mon, Aug 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/31158</link>
+      <pubDate>Mon, 12 Aug 2024 00:26:11 +0000</pubDate>
+    </item>
     <item>
       <title>Foreign nation-state actors hacked Donald Trump’s campaign</title>
       <link>https://securityaffairs.com/166895/cyber-warfare-2/donald-trumps-campaign-hacked.html</link>
@@ -300,11 +305,6 @@
     <item>
       <title>LibreOffice Security Update Advisory (CVE-2024-6472)</title>
       <link>https://asec.ahnlab.com/en/82365/</link>
-      <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Family Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82364/</link>
       <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
