@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 02:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 04:21:03 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Monday, August 12th, 2024 https://isc.sans.edu/podcastdetail/9092, (Mon, Aug 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/31160</link>
+      <pubDate>Mon, 12 Aug 2024 02:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>Video: Same Origin, CORS, DNS Rebinding and Localhost, (Mon, Aug 12th)</title>
       <link>https://isc.sans.edu/diary/rss/31158</link>
@@ -20,6 +25,11 @@
     <item>
       <title>August 12, 2024</title>
       <link>https://asec.ahnlab.com/en/82387/</link>
+      <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 Password Product Security Update Advisory (CVE-2024-42219)</title>
+      <link>https://asec.ahnlab.com/en/82392/</link>
       <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -293,18 +303,8 @@
       <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Android Malware &amp; Security Issue 2st Week of August, 2024</title>
-      <link>https://asec.ahnlab.com/en/82381/</link>
-      <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>RaonSecure Product Security Advisory</title>
       <link>https://asec.ahnlab.com/en/82372/</link>
-      <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LibreOffice Security Update Advisory (CVE-2024-6472)</title>
-      <link>https://asec.ahnlab.com/en/82365/</link>
       <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
