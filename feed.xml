@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 06:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 08:26:00 +0000</lastBuildDate>
+    <item>
+      <title>A week in security (August 5 – August 11)</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/08/a-week-in-security-august-5-august-11</link>
+      <pubDate>Mon, 12 Aug 2024 07:25:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft found OpenVPN bugs that can be chained to achieve RCE and LPE</title>
+      <link>https://securityaffairs.com/166912/hacking/openvpn-rce-lpe.html</link>
+      <pubDate>Mon, 12 Aug 2024 07:01:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Industrial Remote Access Tool Ewon Cosy+ Vulnerable to Root Access Attacks</title>
+      <link>https://thehackernews.com/2024/08/industrial-remote-access-tool-ewon-cosy.html</link>
+      <pubDate>Mon, 12 Aug 2024 06:57:00 +0000</pubDate>
+    </item>
     <item>
       <title>EastWind Attack Deploys PlugY and GrewApacha Backdoors Using Booby-Trapped LNK Files</title>
       <link>https://thehackernews.com/2024/08/russian-government-hit-by-eastwind.html</link>
@@ -28,13 +43,13 @@
       <pubDate>Sun, 11 Aug 2024 17:06:20 +0000</pubDate>
     </item>
     <item>
-      <title>1 Password Product Security Update Advisory (CVE-2024-42219)</title>
-      <link>https://asec.ahnlab.com/en/82392/</link>
+      <title>August 12, 2024</title>
+      <link>https://asec.ahnlab.com/en/82387/</link>
       <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>August 12, 2024</title>
-      <link>https://asec.ahnlab.com/en/82387/</link>
+      <title>1 Password Product Security Update Advisory (CVE-2024-42219)</title>
+      <link>https://asec.ahnlab.com/en/82392/</link>
       <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -248,11 +263,6 @@
       <pubDate>Fri, 09 Aug 2024 06:19:14 +0000</pubDate>
     </item>
     <item>
-      <title>Russian cyber spies stole data and emails from UK government systems</title>
-      <link>https://securityaffairs.com/166795/intelligence/russia-hacked-uk-government-systems.html</link>
-      <pubDate>Fri, 09 Aug 2024 06:13:05 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Warns of Hackers Exploiting Legacy Cisco Smart Install Feature</title>
       <link>https://thehackernews.com/2024/08/cisa-warns-of-hackers-exploiting-legacy.html</link>
       <pubDate>Fri, 09 Aug 2024 05:41:00 +0000</pubDate>
@@ -293,19 +303,9 @@
       <pubDate>Thu, 08 Aug 2024 18:00:58 +0000</pubDate>
     </item>
     <item>
-      <title>Chained for attack: OpenVPN vulnerabilities discovered leading to RCE and LPE</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/08/08/chained-for-attack-openvpn-vulnerabilities-discovered-leading-to-rce-and-lpe/</link>
-      <pubDate>Thu, 08 Aug 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>University Professors Targeted by North Korean Cyber Espionage Group</title>
       <link>https://thehackernews.com/2024/08/university-professors-targeted-by-north.html</link>
       <pubDate>Thu, 08 Aug 2024 15:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over $40 million recovered and arrests made within days of firm realising it had fallen for Business Email Compromise scam</title>
-      <link>https://www.tripwire.com/state-of-security/over-40-million-recovered-and-arrests-made-within-days-after-firm-discovers</link>
-      <pubDate>Thu, 08 Aug 2024 15:06:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
