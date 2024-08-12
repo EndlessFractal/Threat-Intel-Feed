@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 04:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 06:26:46 +0000</lastBuildDate>
+    <item>
+      <title>EastWind Attack Deploys PlugY and GrewApacha Backdoors Using Booby-Trapped LNK Files</title>
+      <link>https://thehackernews.com/2024/08/russian-government-hit-by-eastwind.html</link>
+      <pubDate>Mon, 12 Aug 2024 03:43:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Monday, August 12th, 2024 https://isc.sans.edu/podcastdetail/9092, (Mon, Aug 12th)</title>
       <link>https://isc.sans.edu/diary/rss/31160</link>
@@ -23,13 +28,13 @@
       <pubDate>Sun, 11 Aug 2024 17:06:20 +0000</pubDate>
     </item>
     <item>
-      <title>August 12, 2024</title>
-      <link>https://asec.ahnlab.com/en/82387/</link>
+      <title>1 Password Product Security Update Advisory (CVE-2024-42219)</title>
+      <link>https://asec.ahnlab.com/en/82392/</link>
       <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>1 Password Product Security Update Advisory (CVE-2024-42219)</title>
-      <link>https://asec.ahnlab.com/en/82392/</link>
+      <title>August 12, 2024</title>
+      <link>https://asec.ahnlab.com/en/82387/</link>
       <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -288,6 +293,11 @@
       <pubDate>Thu, 08 Aug 2024 18:00:58 +0000</pubDate>
     </item>
     <item>
+      <title>Chained for attack: OpenVPN vulnerabilities discovered leading to RCE and LPE</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/08/08/chained-for-attack-openvpn-vulnerabilities-discovered-leading-to-rce-and-lpe/</link>
+      <pubDate>Thu, 08 Aug 2024 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>University Professors Targeted by North Korean Cyber Espionage Group</title>
       <link>https://thehackernews.com/2024/08/university-professors-targeted-by-north.html</link>
       <pubDate>Thu, 08 Aug 2024 15:31:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Over $40 million recovered and arrests made within days of firm realising it had fallen for Business Email Compromise scam</title>
       <link>https://www.tripwire.com/state-of-security/over-40-million-recovered-and-arrests-made-within-days-after-firm-discovers</link>
       <pubDate>Thu, 08 Aug 2024 15:06:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>6 Ways Application Control Benefits You</title>
-      <link>https://symantec-enterprise-blogs.security.com/product-insights/6-ways-application-control-benefits-you</link>
-      <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RaonSecure Product Security Advisory</title>
-      <link>https://asec.ahnlab.com/en/82372/</link>
-      <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
