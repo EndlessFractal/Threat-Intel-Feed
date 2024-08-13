@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 10:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 12:35:08 +0000</lastBuildDate>
+    <item>
+      <title>A refresher on Talos’ open-source tools and the importance of the open-source community</title>
+      <link>https://blog.talosintelligence.com/a-refresher-on-talos-open-source-tools/</link>
+      <pubDate>Tue, 13 Aug 2024 12:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia is pushing disinformation about Kursk operation, Ukrainian officials say</title>
+      <link>https://therecord.media/kursk-operation-disinformation-russia-ukraine</link>
+      <pubDate>Tue, 13 Aug 2024 12:01:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT trends report Q2 2024</title>
+      <link>https://securelist.com/apt-trends-report-q2-2024/113275/</link>
+      <pubDate>Tue, 13 Aug 2024 12:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected 'hostile state' behind hack of Poland’s anti-doping agency and leak of athletes' data</title>
+      <link>https://therecord.media/polish-anti-doping-agency-polada-hack-leak</link>
+      <pubDate>Tue, 13 Aug 2024 11:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data theft forum admins busted after flashing their cash in a life of luxury</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/08/data-theft-forum-admins-busted-after-flashing-their-cash-in-a-life-of-luxury</link>
+      <pubDate>Tue, 13 Aug 2024 11:11:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>On the Voynich Manuscript</title>
+      <link>https://www.schneier.com/blog/archives/2024/08/on-the-voynich-manuscript.html</link>
+      <pubDate>Tue, 13 Aug 2024 11:04:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Hardsec Matters: From Protecting Critical Services to Enhancing Resilience</title>
+      <link>https://thehackernews.com/2024/08/why-hardsec-matters-from-protecting.html</link>
+      <pubDate>Tue, 13 Aug 2024 10:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAC-0198 Attack Detection: Adversaries Massively Distribute Phishing Emails Spreading ANONVNC (MESHAGENT) Malware to Target Ukrainian State Bodies</title>
+      <link>https://socprime.com/blog/uac-0198-attack-detection-adversaries-massively-distribute-phishing-emails-spreading-anonvnc-meshagent-malware-to-target-ukrainian-state-bodies/</link>
+      <pubDate>Tue, 13 Aug 2024 10:53:11 +0000</pubDate>
+    </item>
     <item>
       <title>ArtiPACKED: Hacking Giants Through a Race Condition in GitHub Actions Artifacts</title>
       <link>https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/</link>
@@ -118,6 +158,11 @@
       <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>FreeBSD OpenSSH Product Security Update Advisory (CVE-2024-7589)</title>
+      <link>https://asec.ahnlab.com/en/82415/</link>
+      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Django Product Security Update Advisory (CVE-2024-42005)</title>
       <link>https://asec.ahnlab.com/en/82410/</link>
       <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
@@ -143,21 +188,6 @@
       <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>FreeBSD OpenSSH Product Security Update Advisory (CVE-2024-7589)</title>
-      <link>https://asec.ahnlab.com/en/82415/</link>
-      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The great location leak: Privacy risks in dating apps</title>
-      <link>https://www.welivesecurity.com/en/privacy/great-location-leak-privacy-risks-dating-apps/</link>
-      <pubDate>Mon, 12 Aug 2024 14:51:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>As he retires after two decades at Homeland Security, Brandon Wales reflects on CISA’s future</title>
-      <link>https://therecord.media/retires-dhs-brandon-wales-cisa-future</link>
-      <pubDate>Mon, 12 Aug 2024 14:19:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Manifest V3 and Malwarebytes Browser Guard</title>
       <link>https://www.malwarebytes.com/blog/personal/2024/08/google-manifest-v3-and-malwarebytes-browser-guard</link>
       <pubDate>Mon, 12 Aug 2024 14:17:19 +0000</pubDate>
@@ -166,11 +196,6 @@
       <title>DARPA Awards $14m to Seven Teams in AI Cyber Challenge</title>
       <link>https://www.infosecurity-magazine.com/news/darpa-awards-14m-seven-teams-ai-1/</link>
       <pubDate>Mon, 12 Aug 2024 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Britain and France to discuss misuse of commercial cyber intrusion tools</title>
-      <link>https://therecord.media/united-kingdom-france-pall-mall-process-cyber-intrusion-tools</link>
-      <pubDate>Mon, 12 Aug 2024 13:02:48 +0000</pubDate>
     </item>
     <item>
       <title>Advancing Threat Intelligence: JA4 fingerprints and inter-request signals</title>
@@ -243,11 +268,6 @@
       <pubDate>Mon, 12 Aug 2024 09:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Top 6 Craigslist scams: Don’t fall for these tricks</title>
-      <link>https://www.welivesecurity.com/en/scams/top-6-craigslist-scams-dont-fall-tricks/</link>
-      <pubDate>Mon, 12 Aug 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Man in Dock Accused of Breaking Hi-Tech Export Controls</title>
       <link>https://www.infosecurity-magazine.com/news/man-accused-breaking-hitech-export/</link>
       <pubDate>Mon, 12 Aug 2024 08:45:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Video: Same Origin, CORS, DNS Rebinding and Localhost, (Mon, Aug 12th)</title>
       <link>https://isc.sans.edu/diary/rss/31158</link>
       <pubDate>Mon, 12 Aug 2024 00:26:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foreign nation-state actors hacked Donald Trump’s campaign</title>
-      <link>https://securityaffairs.com/166895/cyber-warfare-2/donald-trumps-campaign-hacked.html</link>
-      <pubDate>Sun, 11 Aug 2024 17:06:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-Factor Authentication Policy</title>
-      <link>https://www.techrepublic.com/resource-library/toolstemplates/multi-factor-authentication-policy/</link>
-      <pubDate>Sun, 11 Aug 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Organizations Can Prevent Their Employees Falling for Cyber Scams</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/how-organizations-can-prevent-their-employees-falling-for-cyber-scams/</link>
-      <pubDate>Sun, 11 Aug 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MongoDB Family Security Update Advisory (CVE-2024-7553)</title>
-      <link>https://asec.ahnlab.com/en/82406/</link>
-      <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
