@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 08:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 10:19:27 +0000</lastBuildDate>
+    <item>
+      <title>ArtiPACKED: Hacking Giants Through a Race Condition in GitHub Actions Artifacts</title>
+      <link>https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/</link>
+      <pubDate>Tue, 13 Aug 2024 10:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t get Mad, get wise</title>
+      <link>https://news.sophos.com/en-us/2024/08/13/dont-get-mad-get-wise/</link>
+      <pubDate>Tue, 13 Aug 2024 09:59:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Korea Warns Pyongyang Has Stolen Spy Plane Details</title>
+      <link>https://www.infosecurity-magazine.com/news/south-korea-pyongyang-stolen-spy/</link>
+      <pubDate>Tue, 13 Aug 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Shuts Down Dispossessor Ransomware Group's Servers Across U.S., U.K., and Germany</title>
+      <link>https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html</link>
+      <pubDate>Tue, 13 Aug 2024 09:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Leads Effort to Dismantle Radar/Dispossessor Ransomware</title>
+      <link>https://www.infosecurity-magazine.com/news/fbi-dismantle-radardispossessor/</link>
+      <pubDate>Tue, 13 Aug 2024 08:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERT-UA warns of a phishing campaign targeting government entities</title>
+      <link>https://securityaffairs.com/166970/apt/cert-ua-warns-security-service-of-ukraine-campaign.html</link>
+      <pubDate>Tue, 13 Aug 2024 08:24:47 +0000</pubDate>
+    </item>
     <item>
       <title>US DoJ dismantled remote IT worker fraud schemes run by North Korea</title>
       <link>https://securityaffairs.com/166951/intelligence/north-korea-t-worker-fraud-schemes.html</link>
@@ -88,11 +118,6 @@
       <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>FreeBSD OpenSSH Product Security Update Advisory (CVE-2024-7589)</title>
-      <link>https://asec.ahnlab.com/en/82415/</link>
-      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Django Product Security Update Advisory (CVE-2024-42005)</title>
       <link>https://asec.ahnlab.com/en/82410/</link>
       <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
@@ -116,6 +141,16 @@
       <title>August 13, 2024</title>
       <link>https://asec.ahnlab.com/en/82398/</link>
       <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FreeBSD OpenSSH Product Security Update Advisory (CVE-2024-7589)</title>
+      <link>https://asec.ahnlab.com/en/82415/</link>
+      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The great location leak: Privacy risks in dating apps</title>
+      <link>https://www.welivesecurity.com/en/privacy/great-location-leak-privacy-risks-dating-apps/</link>
+      <pubDate>Mon, 12 Aug 2024 14:51:08 +0000</pubDate>
     </item>
     <item>
       <title>As he retires after two decades at Homeland Security, Brandon Wales reflects on CISA’s future</title>
@@ -208,6 +243,11 @@
       <pubDate>Mon, 12 Aug 2024 09:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Top 6 Craigslist scams: Don’t fall for these tricks</title>
+      <link>https://www.welivesecurity.com/en/scams/top-6-craigslist-scams-dont-fall-tricks/</link>
+      <pubDate>Mon, 12 Aug 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Man in Dock Accused of Breaking Hi-Tech Export Controls</title>
       <link>https://www.infosecurity-magazine.com/news/man-accused-breaking-hitech-export/</link>
       <pubDate>Mon, 12 Aug 2024 08:45:00 +0000</pubDate>
@@ -263,49 +303,9 @@
       <pubDate>Sun, 11 Aug 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>August 12, 2024</title>
-      <link>https://asec.ahnlab.com/en/82387/</link>
-      <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MongoDB Family Security Update Advisory (CVE-2024-7553)</title>
       <link>https://asec.ahnlab.com/en/82406/</link>
       <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1 Password Product Security Update Advisory (CVE-2024-42219)</title>
-      <link>https://asec.ahnlab.com/en/82392/</link>
-      <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rogue PyPI Library Solana Users, Steals Blockchain Wallet Keys</title>
-      <link>https://thehackernews.com/2024/08/rogue-pypi-library-solana-users-steals.html</link>
-      <pubDate>Sun, 11 Aug 2024 10:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Book Review: ‘Why Cybersecurity Fails in America’</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/book-review-why-cybersecurity-fails-in-america</link>
-      <pubDate>Sun, 11 Aug 2024 09:28:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 6</title>
-      <link>https://securityaffairs.com/166890/malware/security-affairs-malware-newsletter-round-6.html</link>
-      <pubDate>Sun, 11 Aug 2024 08:28:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 484 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/166884/breaking-news/security-affairs-newsletter-round-484-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 11 Aug 2024 08:18:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ADT disclosed a data breach that impacted more than 30,000 customers</title>
-      <link>https://securityaffairs.com/166857/cyber-crime/adt-disclosed-a-data-breach.html</link>
-      <pubDate>Sun, 11 Aug 2024 07:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 412</title>
-      <link>https://www.troyhunt.com/weekly-update-412/</link>
-      <pubDate>Sun, 11 Aug 2024 05:11:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
