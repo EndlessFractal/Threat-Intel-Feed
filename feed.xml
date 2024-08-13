@@ -6,14 +6,24 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 22:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 01:19:50 +0000</lastBuildDate>
+    <item>
+      <title>ManageEngine (ADAudit Plus, ADAudit Plus, and others) Family August 2024 Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82408/</link>
+      <pubDate>Tue, 13 Aug 2024 01:03:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI says it is investigating purported Trump campaign hack</title>
+      <link>https://therecord.media/fbi-investigating-trump-campaign-hack</link>
+      <pubDate>Mon, 12 Aug 2024 22:14:43 +0000</pubDate>
+    </item>
     <item>
       <title>The cybersecurity kids aren’t all right</title>
       <link>https://news.sophos.com/en-us/2024/08/12/the-cybersecurity-kids-arent-all-right/</link>
       <pubDate>Mon, 12 Aug 2024 22:05:32 +0000</pubDate>
     </item>
     <item>
-      <title>FBI seizes Radar/Dispossessor ransomware gang servers in US and Europe</title>
+      <title>Feds seize Radar/Dispossessor ransomware gang servers in US and Europe</title>
       <link>https://therecord.media/fbi-seizes-ransomware-servers-radar</link>
       <pubDate>Mon, 12 Aug 2024 21:48:37 +0000</pubDate>
     </item>
@@ -60,6 +70,26 @@
     <item>
       <title>High-Risk Cloud Exposures Surge Due to Rapid Service Growth</title>
       <link>https://www.infosecurity-magazine.com/news/high-risk-cloud-exposures-palo/</link>
+      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Django Product Security Update Advisory (CVE-2024-42005)</title>
+      <link>https://asec.ahnlab.com/en/82410/</link>
+      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rejetto HFS Product Security Update Advisory (CVE-2024-39943)</title>
+      <link>https://asec.ahnlab.com/en/82409/</link>
+      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu wpa_supplicant Security Update Advisory (CVE-2024-5290)</title>
+      <link>https://asec.ahnlab.com/en/82407/</link>
+      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenVPN Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82405/</link>
       <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -111,11 +141,6 @@
       <title>Actor240524 Attack Detection: Novel APT Group Targets Israeli and Azerbaijani Diplomats Using ABCloader and ABCsync Malware</title>
       <link>https://socprime.com/blog/actor240524-attack-detection-novel-apt-group-targets-israeli-and-azerbaijani-diplomats-using-abcloader-and-abcsync-malware/</link>
       <pubDate>Mon, 12 Aug 2024 12:39:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian gold mining company Evolution Mining announces ransomware attack</title>
-      <link>https://therecord.media/evolution-mining-gold-ransomware-incident</link>
-      <pubDate>Mon, 12 Aug 2024 11:57:12 +0000</pubDate>
     </item>
     <item>
       <title>How Phishing Attacks Adapt Quickly to Capitalize on Current Events</title>
@@ -218,13 +243,18 @@
       <pubDate>Sun, 11 Aug 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>1 Password Product Security Update Advisory (CVE-2024-42219)</title>
-      <link>https://asec.ahnlab.com/en/82392/</link>
+      <title>August 12, 2024</title>
+      <link>https://asec.ahnlab.com/en/82387/</link>
       <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>August 12, 2024</title>
-      <link>https://asec.ahnlab.com/en/82387/</link>
+      <title>MongoDB Family Security Update Advisory (CVE-2024-7553)</title>
+      <link>https://asec.ahnlab.com/en/82406/</link>
+      <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 Password Product Security Update Advisory (CVE-2024-42219)</title>
+      <link>https://asec.ahnlab.com/en/82392/</link>
       <pubDate>Sun, 11 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>New Malware Hits 300,000 Users with Rogue Chrome and Edge Extensions</title>
       <link>https://thehackernews.com/2024/08/new-malware-hits-300000-users-with.html</link>
       <pubDate>Sat, 10 Aug 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crooks took control of a cow milking robot causing the death of a cow</title>
-      <link>https://securityaffairs.com/166839/cyber-crime/cow-milking-robot-hacked.html</link>
-      <pubDate>Sat, 10 Aug 2024 08:19:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Warns of Unpatched Office Vulnerability Leading to Data Exposure</title>
-      <link>https://thehackernews.com/2024/08/microsoft-warns-of-unpatched-office.html</link>
-      <pubDate>Sat, 10 Aug 2024 05:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sonos smart speakers flaw allowed to eavesdrop on users</title>
-      <link>https://securityaffairs.com/166823/hacking/sonos-smart-speakers-flaw.html</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts Uncover Severe AWS Flaws Leading to RCE, Data Theft, and Full-Service Takeovers</title>
-      <link>https://thehackernews.com/2024/08/experts-uncover-severe-aws-flaws.html</link>
-      <pubDate>Fri, 09 Aug 2024 21:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian Enterprises Coming 4th in 2024 Global Survey of Generative AI Usage</title>
-      <link>https://www.techrepublic.com/article/generative-ai-adoption-survey-australia/</link>
-      <pubDate>Fri, 09 Aug 2024 19:54:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: SQUID Is a New Computational Tool for Analyzing Genomic AI</title>
-      <link>https://www.schneier.com/blog/archives/2024/08/friday-squid-blogging-squid-is-a-new-computational-tool-for-analyzing-genomic-ai.html</link>
-      <pubDate>Fri, 09 Aug 2024 19:04:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
