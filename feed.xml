@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 20:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 22:16:10 +0000</lastBuildDate>
+    <item>
+      <title>Six 0-Days Lead Microsoft’s August 2024 Patch Push</title>
+      <link>https://krebsonsecurity.com/2024/08/six-0-days-lead-microsofts-august-2024-patch-push/</link>
+      <pubDate>Tue, 13 Aug 2024 21:43:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft August 2024 Patch Tuesday, (Tue, Aug 13th)</title>
+      <link>https://isc.sans.edu/diary/rss/31164</link>
+      <pubDate>Tue, 13 Aug 2024 20:14:47 +0000</pubDate>
+    </item>
     <item>
       <title>Talos discovers Microsoft kernel mode driver vulnerabilities that could lead to SYSTEM privileges; Seven other critical issues disclosed</title>
       <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-august-2024/</link>
@@ -70,6 +80,11 @@
     <item>
       <title>East Valley Institute of Technology Data Breach Exposes Over 200,000 Records</title>
       <link>https://www.infosecurity-magazine.com/news/evit-suffers-data-breach-2024/</link>
+      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 14, 2024</title>
+      <link>https://asec.ahnlab.com/en/82441/</link>
       <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -203,6 +218,11 @@
       <pubDate>Tue, 13 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager</link>
+      <pubDate>Tue, 13 Aug 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Data theft forum admins busted after flashing their cash in a life of luxury</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/data-theft-forum-admins-busted-after-flashing-their-cash-in-a-life-of-luxury</link>
       <pubDate>Tue, 13 Aug 2024 11:11:56 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Harnessing LLMs for Automating BOLA Detection</title>
       <link>https://unit42.paloaltonetworks.com/automated-bola-detection-and-ai/</link>
       <pubDate>Mon, 12 Aug 2024 20:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-adds-six-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Mon, 12 Aug 2024 18:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>A FreeBSD flaw could allow remote code execution, patch it now!</title>
-      <link>https://securityaffairs.com/166941/security/freebsd-openssh-flaw.html</link>
-      <pubDate>Mon, 12 Aug 2024 17:38:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Hat and DEF CON Roundup 2024: CrowdStrike Accepts ‘Epic Fail’ Award</title>
-      <link>https://www.techrepublic.com/article/black-hat-def-con-roundup-2024/</link>
-      <pubDate>Mon, 12 Aug 2024 17:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI girlfriends want to know all about you. So might ChatGPT (Lock and Code S05E17)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2024/08/ai-girlfriends-want-to-know-all-about-you-so-might-chatgpt-lock-and-code-s05e17</link>
-      <pubDate>Mon, 12 Aug 2024 16:19:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
