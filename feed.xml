@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 18:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 20:18:22 +0000</lastBuildDate>
+    <item>
+      <title>Talos discovers Microsoft kernel mode driver vulnerabilities that could lead to SYSTEM privileges; Seven other critical issues disclosed</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-august-2024/</link>
+      <pubDate>Tue, 13 Aug 2024 19:12:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carbon black supplier Orion loses $60 million in business email compromise scam</title>
+      <link>https://therecord.media/orion-carbon-black-bec-scam-millions</link>
+      <pubDate>Tue, 13 Aug 2024 19:05:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the "3 Billion People" National Public Data Breach</title>
+      <link>https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/</link>
+      <pubDate>Tue, 13 Aug 2024 18:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>StickmanCyber Report: A Look Inside Australia’s Cybersecurity Skills Crisis</title>
+      <link>https://www.techrepublic.com/article/stickmancyber-report-australia-cybersecurity-skills-crisis/</link>
+      <pubDate>Tue, 13 Aug 2024 18:26:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>A PoC exploit code is available for critical Ivanti vTM bug</title>
+      <link>https://securityaffairs.com/166991/hacking/ivanti-virtual-traffic-manager-flaw.html</link>
+      <pubDate>Tue, 13 Aug 2024 18:05:50 +0000</pubDate>
+    </item>
     <item>
       <title>Biden administration pledges $11 million to open source security initiative</title>
       <link>https://therecord.media/open-source-software-security-white-house-dhs-11million-funding</link>
@@ -81,11 +106,6 @@
       <title>Proactive Security | Enhancing Risk Visibility with Extended Security Posture Management (xSPM)</title>
       <link>https://www.sentinelone.com/blog/proactive-security-enhancing-risk-visibility-with-extended-security-posture-management-xspm/</link>
       <pubDate>Tue, 13 Aug 2024 13:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 100 Ukrainian computers infected with backdoor malware, researchers say</title>
-      <link>https://therecord.media/ukraine-computers-backdoor-cert-ua-anonvnc</link>
-      <pubDate>Tue, 13 Aug 2024 13:00:16 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover Vulnerabilities in AI-Powered Azure Health Bot Service</title>
@@ -170,6 +190,11 @@
     <item>
       <title>Rockwell Automation AADvance Standalone OPC-DA Server</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-226-02</link>
+      <pubDate>Tue, 13 Aug 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases August 2024 Security Updates</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates</link>
       <pubDate>Tue, 13 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -264,7 +289,7 @@
     </item>
     <item>
       <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/node/21966</link>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-adds-six-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Mon, 12 Aug 2024 18:34:58 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>AI girlfriends want to know all about you. So might ChatGPT (Lock and Code S05E17)</title>
       <link>https://www.malwarebytes.com/blog/podcast/2024/08/ai-girlfriends-want-to-know-all-about-you-so-might-chatgpt-lock-and-code-s05e17</link>
       <pubDate>Mon, 12 Aug 2024 16:19:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerability in Windows Driver Leads to System Crashes</title>
-      <link>https://www.infosecurity-magazine.com/news/vulnerability-windows-driver/</link>
-      <pubDate>Mon, 12 Aug 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secureworks Fills Australian Mid-Market Demand for Simplified Cyber Security Solutions</title>
-      <link>https://www.techrepublic.com/article/secureworks-australian-cyber-security/</link>
-      <pubDate>Mon, 12 Aug 2024 15:18:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>PinnacleOne ExecBrief | Terrorism on the Horizon</title>
-      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-terrorism-on-the-horizon/</link>
-      <pubDate>Mon, 12 Aug 2024 15:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>FreeBSD OpenSSH Product Security Update Advisory (CVE-2024-7589)</title>
-      <link>https://asec.ahnlab.com/en/82415/</link>
-      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Django Product Security Update Advisory (CVE-2024-42005)</title>
-      <link>https://asec.ahnlab.com/en/82410/</link>
-      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
