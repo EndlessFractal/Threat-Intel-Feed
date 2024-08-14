@@ -6,9 +6,19 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Aug 2024 06:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 08:23:18 +0000</lastBuildDate>
     <item>
-      <title>Microsoft Issues Patches for 90 Flaws, Including 10 Critical Zero-Day Exploits</title>
+      <title>Microsoft Patch Tuesday security updates for August 2024 addressed six actively exploited bugs</title>
+      <link>https://securityaffairs.com/167000/security/microsoft-patch-tuesday-august-2024.html</link>
+      <pubDate>Wed, 14 Aug 2024 07:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>DDoS Attacks Surge 46% in First Half of 2024, Gcore Report Reveals</title>
+      <link>https://thehackernews.com/2024/08/ddos-attacks-surge-46-in-first-half-of.html</link>
+      <pubDate>Wed, 14 Aug 2024 06:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Issues Patches for 90 Flaws, Including 10 Critical Zero-Days</title>
       <link>https://thehackernews.com/2024/08/microsoft-issues-patches-for-90-flaws.html</link>
       <pubDate>Wed, 14 Aug 2024 05:48:00 +0000</pubDate>
     </item>
@@ -108,6 +118,16 @@
       <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, August 2024</title>
+      <link>https://asec.ahnlab.com/en/82462/</link>
+      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82460/</link>
+      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Zabbix Server Product Security Update Advisory (CVE-2024-22116)</title>
       <link>https://asec.ahnlab.com/en/82459/</link>
       <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
@@ -140,11 +160,6 @@
     <item>
       <title>August 14, 2024</title>
       <link>https://asec.ahnlab.com/en/82441/</link>
-      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82460/</link>
       <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>On the Voynich Manuscript</title>
       <link>https://www.schneier.com/blog/archives/2024/08/on-the-voynich-manuscript.html</link>
       <pubDate>Tue, 13 Aug 2024 11:04:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Hardsec Matters: From Protecting Critical Services to Enhancing Resilience</title>
-      <link>https://thehackernews.com/2024/08/why-hardsec-matters-from-protecting.html</link>
-      <pubDate>Tue, 13 Aug 2024 10:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0198 Attack Detection: Adversaries Massively Distribute Phishing Emails Spreading ANONVNC (MESHAGENT) Malware to Target Ukrainian State Bodies</title>
-      <link>https://socprime.com/blog/uac-0198-attack-detection-adversaries-massively-distribute-phishing-emails-spreading-anonvnc-meshagent-malware-to-target-ukrainian-state-bodies/</link>
-      <pubDate>Tue, 13 Aug 2024 10:53:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ArtiPACKED: Hacking Giants Through a Race Condition in GitHub Actions Artifacts</title>
-      <link>https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/</link>
-      <pubDate>Tue, 13 Aug 2024 10:00:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
