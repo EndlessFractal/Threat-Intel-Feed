@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Aug 2024 04:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 06:25:04 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Issues Patches for 90 Flaws, Including 10 Critical Zero-Day Exploits</title>
+      <link>https://thehackernews.com/2024/08/microsoft-issues-patches-for-90-flaws.html</link>
+      <pubDate>Wed, 14 Aug 2024 05:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access</title>
+      <link>https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html</link>
+      <pubDate>Wed, 14 Aug 2024 05:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Backed Earth Baku Expands Cyber Attacks to Europe, Middle East, and Africa</title>
+      <link>https://thehackernews.com/2024/08/china-backed-earth-baku-expands-cyber.html</link>
+      <pubDate>Wed, 14 Aug 2024 05:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MS Family August 2024 Routine Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82455/</link>
+      <pubDate>Wed, 14 Aug 2024 04:03:36 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, August 14th, 2024 https://isc.sans.edu/podcastdetail/9096, (Wed, Aug 14th)</title>
       <link>https://isc.sans.edu/diary/rss/31166</link>
@@ -88,6 +108,31 @@
       <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Zabbix Server Product Security Update Advisory (CVE-2024-22116)</title>
+      <link>https://asec.ahnlab.com/en/82459/</link>
+      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MS Windows Security Update Advisory (CVE-2024-38178)</title>
+      <link>https://asec.ahnlab.com/en/82458/</link>
+      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM Product Security Update Advisory (CVE-2024-40697)</title>
+      <link>https://asec.ahnlab.com/en/82457/</link>
+      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82456/</link>
+      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti product security update advisory</title>
+      <link>https://asec.ahnlab.com/en/82454/</link>
+      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, August 2024</title>
       <link>https://asec.ahnlab.com/en/82444/</link>
       <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
@@ -95,6 +140,11 @@
     <item>
       <title>August 14, 2024</title>
       <link>https://asec.ahnlab.com/en/82441/</link>
+      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82460/</link>
       <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -256,56 +306,6 @@
       <title>ArtiPACKED: Hacking Giants Through a Race Condition in GitHub Actions Artifacts</title>
       <link>https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/</link>
       <pubDate>Tue, 13 Aug 2024 10:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don’t get Mad, get wise</title>
-      <link>https://news.sophos.com/en-us/2024/08/13/dont-get-mad-get-wise/</link>
-      <pubDate>Tue, 13 Aug 2024 09:59:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea Warns Pyongyang Has Stolen Spy Plane Details</title>
-      <link>https://www.infosecurity-magazine.com/news/south-korea-pyongyang-stolen-spy/</link>
-      <pubDate>Tue, 13 Aug 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Shuts Down Dispossessor Ransomware Group's Servers Across U.S., U.K., and Germany</title>
-      <link>https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html</link>
-      <pubDate>Tue, 13 Aug 2024 09:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Leads Effort to Dismantle Radar/Dispossessor Ransomware</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-dismantle-radardispossessor/</link>
-      <pubDate>Tue, 13 Aug 2024 08:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CERT-UA warns of a phishing campaign targeting government entities</title>
-      <link>https://securityaffairs.com/166970/apt/cert-ua-warns-security-service-of-ukraine-campaign.html</link>
-      <pubDate>Tue, 13 Aug 2024 08:24:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>US DoJ dismantled remote IT worker fraud schemes run by North Korea</title>
-      <link>https://securityaffairs.com/166951/intelligence/north-korea-t-worker-fraud-schemes.html</link>
-      <pubDate>Tue, 13 Aug 2024 07:09:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Warns of New Phishing Campaign Targeting Government Computers</title>
-      <link>https://thehackernews.com/2024/08/ukraine-warns-of-new-phishing-campaign.html</link>
-      <pubDate>Tue, 13 Aug 2024 05:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, August 13th, 2024 https://isc.sans.edu/podcastdetail/9094, (Tue, Aug 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/31162</link>
-      <pubDate>Tue, 13 Aug 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ManageEngine (ADAudit Plus, ADAudit Plus, and others) Family August 2024 Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82408/</link>
-      <pubDate>Tue, 13 Aug 2024 01:03:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malign Influence Threats Mount Ahead of US 2024 Elections</title>
-      <link>https://www.recordedfuture.com/research/malign-influence-threats-mount-ahead-us-2024-elections</link>
-      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
