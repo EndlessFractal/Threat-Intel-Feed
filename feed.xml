@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Aug 2024 02:37:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 04:20:53 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Wednesday, August 14th, 2024 https://isc.sans.edu/podcastdetail/9096, (Wed, Aug 14th)</title>
+      <link>https://isc.sans.edu/diary/rss/31166</link>
+      <pubDate>Wed, 14 Aug 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Six 0-Days Lead Microsoft’s August 2024 Patch Push</title>
       <link>https://krebsonsecurity.com/2024/08/six-0-days-lead-microsofts-august-2024-patch-push/</link>
@@ -80,6 +85,11 @@
     <item>
       <title>East Valley Institute of Technology Data Breach Exposes Over 200,000 Records</title>
       <link>https://www.infosecurity-magazine.com/news/evit-suffers-data-breach-2024/</link>
+      <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, August 2024</title>
+      <link>https://asec.ahnlab.com/en/82444/</link>
       <pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>Malign Influence Threats Mount Ahead of US 2024 Elections</title>
       <link>https://www.recordedfuture.com/research/malign-influence-threats-mount-ahead-us-2024-elections</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The cybersecurity kids aren’t all right</title>
-      <link>https://news.sophos.com/en-us/2024/08/12/the-cybersecurity-kids-arent-all-right/</link>
-      <pubDate>Mon, 12 Aug 2024 22:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harnessing LLMs for Automating BOLA Detection</title>
-      <link>https://unit42.paloaltonetworks.com/automated-bola-detection-and-ai/</link>
-      <pubDate>Mon, 12 Aug 2024 20:00:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
