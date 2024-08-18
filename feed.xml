@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Aug 2024 08:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 10:17:43 +0000</lastBuildDate>
+    <item>
+      <title>Cybersecurity Pioneers: Lessons from Virginia Tech’s CISO</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cybersecurity-pioneers-lessons-from-virginia-techs-ciso</link>
+      <pubDate>Sun, 18 Aug 2024 09:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 7</title>
+      <link>https://securityaffairs.com/167213/malware/security-affairs-malware-newsletter-round-7.html</link>
+      <pubDate>Sun, 18 Aug 2024 08:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Affairs newsletter Round 485 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
+      <link>https://securityaffairs.com/167207/breaking-news/security-affairs-newsletter-round-485-by-pierluigi-paganini-international-edition.html</link>
+      <pubDate>Sun, 18 Aug 2024 08:23:28 +0000</pubDate>
+    </item>
     <item>
       <title>Large-scale extortion campaign targets publicly accessible environment variable files (.env)</title>
       <link>https://securityaffairs.com/167180/cyber-crime/extortion-campaign-environment-variable-files.html</link>
@@ -178,11 +193,6 @@
       <pubDate>Fri, 16 Aug 2024 08:19:30 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft urges customers to fix zero-click Windows RCE in the TCP/IP stack</title>
-      <link>https://securityaffairs.com/167117/hacking/windows-rce-tcp-ip.html</link>
-      <pubDate>Fri, 16 Aug 2024 07:10:42 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Pixel Devices Shipped with Vulnerable App, Leaving Millions at Risk</title>
       <link>https://thehackernews.com/2024/08/google-pixel-devices-shipped-with.html</link>
       <pubDate>Fri, 16 Aug 2024 07:10:00 +0000</pubDate>
@@ -201,11 +211,6 @@
       <title>NationalPublicData.com Hack Exposes a Nation’s Data</title>
       <link>https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/</link>
       <pubDate>Thu, 15 Aug 2024 22:38:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>A group linked to RansomHub operation employs EDR-killing tool EDRKillShifter</title>
-      <link>https://securityaffairs.com/167105/cyber-crime/ransomhub-tool-kill-edr-software.html</link>
-      <pubDate>Thu, 15 Aug 2024 20:12:37 +0000</pubDate>
     </item>
     <item>
       <title>Dozens of Google products targeted by scammers via malicious search ads</title>
@@ -300,11 +305,6 @@
     <item>
       <title>PTC Kepware ThingWorx Kepware Server</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-11</link>
-      <pubDate>Thu, 15 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens COMOS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-08</link>
       <pubDate>Thu, 15 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
