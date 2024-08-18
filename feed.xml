@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Aug 2024 02:37:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 04:22:14 +0000</lastBuildDate>
     <item>
       <title>OpenAI dismantled an Iranian influence operation targeting the U.S. presidential election</title>
       <link>https://securityaffairs.com/167194/intelligence/openai-dismantled-iranian-influence-operation.html</link>
@@ -43,6 +43,16 @@
       <pubDate>Fri, 16 Aug 2024 20:13:33 +0000</pubDate>
     </item>
     <item>
+      <title>Background-check giant confirms security incident leaked millions of SSNs</title>
+      <link>https://therecord.media/social-security-numbers-leak-national-public-data</link>
+      <pubDate>Fri, 16 Aug 2024 19:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Routers from China-based TP-Link a national security threat, US lawmakers claim</title>
+      <link>https://therecord.media/routers-from-tp-link-security-commerce-department</link>
+      <pubDate>Fri, 16 Aug 2024 18:31:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Russian national sentenced to 40 months for selling stolen data on the dark web</title>
       <link>https://securityaffairs.com/167146/deep-web/russian-national-sentenced-40-months.html</link>
       <pubDate>Fri, 16 Aug 2024 17:56:33 +0000</pubDate>
@@ -51,6 +61,11 @@
       <title>Threat Actors Increasingly Target macOS, Report Finds</title>
       <link>https://www.techrepublic.com/article/threat-actors-target-mac-os-2024/</link>
       <pubDate>Fri, 16 Aug 2024 17:52:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attack on Flint affecting city services as FBI investigates incident</title>
+      <link>https://therecord.media/ransomare-flint-incident-cyberattack-fbi-investigating</link>
+      <pubDate>Fri, 16 Aug 2024 17:40:21 +0000</pubDate>
     </item>
     <item>
       <title>Attackers Exploit Public .env Files to Breach Cloud Accounts in Extortion Campaign</title>
@@ -66,6 +81,11 @@
       <title>Price Drop: Get a Lifetime Subscription of FastestVPN for just $30</title>
       <link>https://www.techrepublic.com/article/top-vpn-employee-price/</link>
       <pubDate>Fri, 16 Aug 2024 15:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>New infostealer targets macOS devices, appears to have Russian links</title>
+      <link>https://therecord.media/apple-macos-infostealer-banshee-stealer</link>
+      <pubDate>Fri, 16 Aug 2024 15:01:33 +0000</pubDate>
     </item>
     <item>
       <title>August 17, 2024</title>
@@ -86,6 +106,11 @@
       <title>US Bipartisan Committee Urges Investigation Into Chinese Wi-Fi Routers</title>
       <link>https://www.infosecurity-magazine.com/news/us-committee-investigation-tplink/</link>
       <pubDate>Fri, 16 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attack on Indian payment system traced back to Jenkins bug</title>
+      <link>https://therecord.media/jenkins-vulnerability-india-npci-ransomware-attack</link>
+      <pubDate>Fri, 16 Aug 2024 13:27:52 +0000</pubDate>
     </item>
     <item>
       <title>Russian Hackers Using Fake Brand Sites to Spread DanaBot and StealC Malware</title>
@@ -280,31 +305,6 @@
     <item>
       <title>Siemens LOGO! V8.3 BM Devices</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-05</link>
-      <pubDate>Thu, 15 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens INTRALOG WMS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-02</link>
-      <pubDate>Thu, 15 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AVEVA Historian Web Server</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-10</link>
-      <pubDate>Thu, 15 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Location Intelligence</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-07</link>
-      <pubDate>Thu, 15 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINEC Traffic Analyzer</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-04</link>
-      <pubDate>Thu, 15 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SCALANCE M-800, RUGGEDCOM RM1224</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-01</link>
       <pubDate>Thu, 15 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
