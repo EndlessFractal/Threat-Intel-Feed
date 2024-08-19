@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Aug 2024 08:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 10:20:44 +0000</lastBuildDate>
+    <item>
+      <title>How multiple vulnerabilities in Microsoft apps for macOS pave the way to stealing permissions</title>
+      <link>https://blog.talosintelligence.com/how-multiple-vulnerabilities-in-microsoft-apps-for-macos-pave-the-way-to-stealing-permissions/</link>
+      <pubDate>Mon, 19 Aug 2024 10:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlindEagle flying high in Latin America</title>
+      <link>https://securelist.com/blindeagle-apt/113414/</link>
+      <pubDate>Mon, 19 Aug 2024 10:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts warn of exploit attempt for Ivanti vTM bug</title>
+      <link>https://securityaffairs.com/167250/hacking/exploit-attempt-ivanti-vtm-bug.html</link>
+      <pubDate>Mon, 19 Aug 2024 09:35:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Opens Cyber Resilience Audit Scheme to Applicants</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-opens-cyber-resilience-audit/</link>
+      <pubDate>Mon, 19 Aug 2024 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Zero-Day CVE-2024-38193 was exploited by North Korea-linked Lazarus APT</title>
+      <link>https://securityaffairs.com/167246/apt/microsoft-zero-day-cve-2024-38193-lazarus.html</link>
+      <pubDate>Mon, 19 Aug 2024 08:41:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unicoin Staff Locked Out of G-Suite in Mystery Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/unicoin-staff-locked-out-gsuite/</link>
+      <pubDate>Mon, 19 Aug 2024 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>A week in security (August 12 – August 18)</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/a-week-in-security-august-12-august-18</link>
@@ -41,6 +71,11 @@
       <title>From 2018: DeepMasterPrints: deceive fingerprint recognition systems with MasterPrints generated with GANs</title>
       <link>https://securityaffairs.com/167219/hacking/deepmasterprints-deceive-fingerprint-recognition-systems-with-masterprints.html</link>
       <pubDate>Sun, 18 Aug 2024 16:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supply Chain Security Policy</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/supply-chain-security-policy/</link>
+      <pubDate>Sun, 18 Aug 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>F5 (BIG-IP, NGINX) Family August 2024 Security Update Advisory</title>
@@ -123,11 +158,6 @@
       <pubDate>Fri, 16 Aug 2024 21:06:32 +0000</pubDate>
     </item>
     <item>
-      <title>CISA adds SolarWinds Web Help Desk bug to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/167157/security/cisa-adds-solarwinds-web-help-desk-bug-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Fri, 16 Aug 2024 20:13:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Background-check giant confirms security incident leaked millions of SSNs</title>
       <link>https://therecord.media/social-security-numbers-leak-national-public-data</link>
       <pubDate>Fri, 16 Aug 2024 19:38:12 +0000</pubDate>
@@ -136,11 +166,6 @@
       <title>Routers from China-based TP-Link a national security threat, US lawmakers claim</title>
       <link>https://therecord.media/routers-from-tp-link-security-commerce-department</link>
       <pubDate>Fri, 16 Aug 2024 18:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian national sentenced to 40 months for selling stolen data on the dark web</title>
-      <link>https://securityaffairs.com/167146/deep-web/russian-national-sentenced-40-months.html</link>
-      <pubDate>Fri, 16 Aug 2024 17:56:33 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actors Increasingly Target macOS, Report Finds</title>
@@ -281,31 +306,6 @@
       <title>Cyber-criminals Exploited Paris Olympics With Fake Domains</title>
       <link>https://www.infosecurity-magazine.com/news/cybercriminals-exploit-paris-fake/</link>
       <pubDate>Thu, 15 Aug 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIST Releases First Post-Quantum Encryption Algorithms</title>
-      <link>https://www.schneier.com/blog/archives/2024/08/nist-releases-first-post-quantum-encryption-algorithms.html</link>
-      <pubDate>Thu, 15 Aug 2024 15:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advanced ValleyRAT Campaign Hits Windows Users in China</title>
-      <link>https://www.infosecurity-magazine.com/news/valleyrat-campaign-hits-windows/</link>
-      <pubDate>Thu, 15 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Signs That You’re Ready for EDR</title>
-      <link>https://symantec-enterprise-blogs.security.com/product-insights/5-signs-you-are-ready-edr</link>
-      <pubDate>Thu, 15 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 16, 2024</title>
-      <link>https://asec.ahnlab.com/en/82482/</link>
-      <pubDate>Thu, 15 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Malware &amp; Security Issue 3st Week of August, 2024</title>
-      <link>https://asec.ahnlab.com/en/82492/</link>
-      <pubDate>Thu, 15 Aug 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
