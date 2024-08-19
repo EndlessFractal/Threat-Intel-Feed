@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Aug 2024 14:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 16:21:30 +0000</lastBuildDate>
+    <item>
+      <title>FBI and CISA Assure Public on Election Ransomware Security</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-assure-public-election/</link>
+      <pubDate>Mon, 19 Aug 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-linked Vermin hackers target Ukraine with new malware strain</title>
+      <link>https://therecord.media/vermin-targets-ukrainians-malware-espionage</link>
+      <pubDate>Mon, 19 Aug 2024 16:12:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Tool Xeon Sender Enables Large-Scale SMS Spam Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/xeon-sender-enables-sms-spam/</link>
+      <pubDate>Mon, 19 Aug 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian bank's service for military donations targeted by ‘massive’ DDoS attack</title>
+      <link>https://therecord.media/ukraine-monobank-ddos-attack-donations</link>
+      <pubDate>Mon, 19 Aug 2024 15:05:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacked GPS tracker reveals location data of customers</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/08/hacked-gps-tracker-reveals-location-data-of-customers</link>
+      <pubDate>Mon, 19 Aug 2024 14:39:04 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Apps for macOS Exposed to Library Injection Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-apps-macos-exposed/</link>
@@ -31,6 +56,11 @@
       <title>Cybercriminals Exploit Popular Software Searches to Spread FakeBat Malware</title>
       <link>https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html</link>
       <pubDate>Mon, 19 Aug 2024 12:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Mon, 19 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Resilience Drives Down Cyber Insurance Claims</title>
@@ -233,11 +263,6 @@
       <pubDate>Fri, 16 Aug 2024 17:52:56 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware attack on Flint affecting city services as FBI investigates incident</title>
-      <link>https://therecord.media/ransomare-flint-incident-cyberattack-fbi-investigating</link>
-      <pubDate>Fri, 16 Aug 2024 17:40:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Attackers Exploit Public .env Files to Breach Cloud Accounts in Extortion Campaign</title>
       <link>https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html</link>
       <pubDate>Fri, 16 Aug 2024 16:30:00 +0000</pubDate>
@@ -251,11 +276,6 @@
       <title>Price Drop: Get a Lifetime Subscription of FastestVPN for just $30</title>
       <link>https://www.techrepublic.com/article/top-vpn-employee-price/</link>
       <pubDate>Fri, 16 Aug 2024 15:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>New infostealer targets macOS devices, appears to have Russian links</title>
-      <link>https://therecord.media/apple-macos-infostealer-banshee-stealer</link>
-      <pubDate>Fri, 16 Aug 2024 15:01:33 +0000</pubDate>
     </item>
     <item>
       <title>August 17, 2024</title>
@@ -286,26 +306,6 @@
       <title>Microsoft Mandates MFA for All Azure Sign-Ins</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-mandates-mfa-azure/</link>
       <pubDate>Fri, 16 Aug 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-Stage ValleyRAT Targets Chinese Users with Advanced Tactics</title>
-      <link>https://thehackernews.com/2024/08/multi-stage-valleyrat-targets-chinese.html</link>
-      <pubDate>Fri, 16 Aug 2024 11:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hidden Security Gaps in Your SaaS Apps: Are You Doing Due Diligence?</title>
-      <link>https://thehackernews.com/2024/08/the-hidden-security-gaps-in-your-saas.html</link>
-      <pubDate>Fri, 16 Aug 2024 11:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Windows IPv6 Zero-Click Vulnerability</title>
-      <link>https://www.schneier.com/blog/archives/2024/08/new-windows-ipv6-zero-click-vulnerability.html</link>
-      <pubDate>Fri, 16 Aug 2024 11:07:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a BEC scam cost a company $60 Million – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/how-a-bec-scam-cost-a-company-60-million-week-in-security-with-tony-anscombe/</link>
-      <pubDate>Fri, 16 Aug 2024 11:01:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
