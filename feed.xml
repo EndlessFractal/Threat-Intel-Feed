@@ -6,16 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Aug 2024 10:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 12:34:54 +0000</lastBuildDate>
+    <item>
+      <title>Sophos NDR 1.7 is now available</title>
+      <link>https://news.sophos.com/en-us/2024/08/20/sophos-ndr-1-7-is-now-available/</link>
+      <pubDate>Tue, 20 Aug 2024 12:04:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Approach to mainframe penetration testing on z/OS</title>
+      <link>https://securelist.com/zos-mainframe-pentesting/113427/</link>
+      <pubDate>Tue, 20 Aug 2024 12:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vermin Cyber-Attacks Target Ukraine, Exploiting Kursk Battle</title>
+      <link>https://www.infosecurity-magazine.com/news/vermin-cyberattacks-ukraine-kursk/</link>
+      <pubDate>Tue, 20 Aug 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking Wireless Bicycle Shifters</title>
+      <link>https://www.schneier.com/blog/archives/2024/08/hacking-wireless-bicycle-shifters.html</link>
+      <pubDate>Tue, 20 Aug 2024 11:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran Behind Trump Campaign Hack, US Government Confirms</title>
+      <link>https://www.infosecurity-magazine.com/news/iran-trump-campaign-hack-us/</link>
+      <pubDate>Tue, 20 Aug 2024 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit PHP Vulnerability to Deploy Stealthy Msupedge Backdoor</title>
+      <link>https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html</link>
+      <pubDate>Tue, 20 Aug 2024 10:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatomy of an Attack</title>
+      <link>https://thehackernews.com/2024/08/anatomy-of-attack.html</link>
+      <pubDate>Tue, 20 Aug 2024 10:06:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Backdoor Targeting Taiwan Employs Stealthy Communications</title>
       <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/taiwan-malware-dns</link>
       <pubDate>Tue, 20 Aug 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Researchers Uncover TLS Bootstrap Attack on Azure Kubernetes Clusters</title>
+      <link>https://thehackernews.com/2024/08/researchers-uncover-tls-bootstrap.html</link>
+      <pubDate>Tue, 20 Aug 2024 09:36:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Former Congressman Santos Admits Identity Theft and Fraud</title>
       <link>https://www.infosecurity-magazine.com/news/congressman-santos-identity-theft/</link>
       <pubDate>Tue, 20 Aug 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Cyber Group TA453 Targets Jewish Leader with New AnvilEcho Malware</title>
+      <link>https://thehackernews.com/2024/08/iranian-cyber-group-ta453-targets.html</link>
+      <pubDate>Tue, 20 Aug 2024 09:07:00 +0000</pubDate>
     </item>
     <item>
       <title>Iranian hackers targeted Jewish figure with malware attached to podcast invite, researchers say</title>
@@ -63,6 +108,11 @@
       <pubDate>Tue, 20 Aug 2024 00:16:31 +0000</pubDate>
     </item>
     <item>
+      <title>GreenCharlie Infrastructure Linked to US Political Campaign Targeting</title>
+      <link>https://www.recordedfuture.com/research/greencharlie-infrastructure-linked-us-political-campaign-targeting</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SOCI Act 2024: Thales Report Reveals Critical Infrastructure Breaches in Australia</title>
       <link>https://www.techrepublic.com/article/soci-act-2024/</link>
       <pubDate>Mon, 19 Aug 2024 21:20:33 +0000</pubDate>
@@ -108,11 +158,6 @@
       <pubDate>Mon, 19 Aug 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>August 20, 2024</title>
-      <link>https://asec.ahnlab.com/en/82522/</link>
-      <pubDate>Mon, 19 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Intel Family Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82531/</link>
       <pubDate>Mon, 19 Aug 2024 15:00:00 +0000</pubDate>
@@ -120,6 +165,11 @@
     <item>
       <title>SolarWinds Product Security Update Advisory (CVE-2024-28986)</title>
       <link>https://asec.ahnlab.com/en/82529/</link>
+      <pubDate>Mon, 19 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 20, 2024</title>
+      <link>https://asec.ahnlab.com/en/82522/</link>
       <pubDate>Mon, 19 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -256,56 +306,6 @@
       <title>Supply Chain Security Policy</title>
       <link>https://www.techrepublic.com/resource-library/toolstemplates/supply-chain-security-policy/</link>
       <pubDate>Sun, 18 Aug 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>F5 (BIG-IP, NGINX) Family August 2024 Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82516/</link>
-      <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webmin Product Security Update Advisory (CVE-2024-36451)</title>
-      <link>https://asec.ahnlab.com/en/82515/</link>
-      <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MIPC Product Security Update Advisory (CVE-2024-39091)</title>
-      <link>https://asec.ahnlab.com/en/82514/</link>
-      <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenBMC Package Security Update Advisory (CVE-2024-41660)</title>
-      <link>https://asec.ahnlab.com/en/82513/</link>
-      <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 19, 2024</title>
-      <link>https://asec.ahnlab.com/en/82498/</link>
-      <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Pioneers: Lessons from Virginia Tech’s CISO</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cybersecurity-pioneers-lessons-from-virginia-techs-ciso</link>
-      <pubDate>Sun, 18 Aug 2024 09:57:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 7</title>
-      <link>https://securityaffairs.com/167213/malware/security-affairs-malware-newsletter-round-7.html</link>
-      <pubDate>Sun, 18 Aug 2024 08:38:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 485 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/167207/breaking-news/security-affairs-newsletter-round-485-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 18 Aug 2024 08:23:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 413</title>
-      <link>https://www.troyhunt.com/weekly-update-413/</link>
-      <pubDate>Sun, 18 Aug 2024 07:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 18, 2024</title>
-      <link>https://asec.ahnlab.com/en/82496/</link>
-      <pubDate>Sat, 17 Aug 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
