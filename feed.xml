@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Aug 2024 06:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 08:22:49 +0000</lastBuildDate>
+    <item>
+      <title>Toyota disclosed a data breach after ZeroSevenGroup leaked stolen data on a cybercrime forum</title>
+      <link>https://securityaffairs.com/167274/uncategorized/zerosevengroup-toyota-data-breach.html</link>
+      <pubDate>Tue, 20 Aug 2024 07:09:49 +0000</pubDate>
+    </item>
     <item>
       <title>Blind Eagle Hackers Exploit Spear-Phishing to Deploy RATs in Latin America</title>
       <link>https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html</link>
@@ -85,6 +90,16 @@
     <item>
       <title>August 20, 2024</title>
       <link>https://asec.ahnlab.com/en/82522/</link>
+      <pubDate>Mon, 19 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel Family Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82531/</link>
+      <pubDate>Mon, 19 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SolarWinds Product Security Update Advisory (CVE-2024-28986)</title>
+      <link>https://asec.ahnlab.com/en/82529/</link>
       <pubDate>Mon, 19 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -223,16 +238,6 @@
       <pubDate>Sun, 18 Aug 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenBMC Package Security Update Advisory (CVE-2024-41660)</title>
-      <link>https://asec.ahnlab.com/en/82513/</link>
-      <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 19, 2024</title>
-      <link>https://asec.ahnlab.com/en/82498/</link>
-      <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>F5 (BIG-IP, NGINX) Family August 2024 Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82516/</link>
       <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
@@ -245,6 +250,16 @@
     <item>
       <title>MIPC Product Security Update Advisory (CVE-2024-39091)</title>
       <link>https://asec.ahnlab.com/en/82514/</link>
+      <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenBMC Package Security Update Advisory (CVE-2024-41660)</title>
+      <link>https://asec.ahnlab.com/en/82513/</link>
+      <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 19, 2024</title>
+      <link>https://asec.ahnlab.com/en/82498/</link>
       <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -273,11 +288,6 @@
       <pubDate>Sun, 18 Aug 2024 07:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI dismantled an Iranian influence operation targeting the U.S. presidential election</title>
-      <link>https://securityaffairs.com/167194/intelligence/openai-dismantled-iranian-influence-operation.html</link>
-      <pubDate>Sat, 17 Aug 2024 23:03:00 +0000</pubDate>
-    </item>
-    <item>
       <title>August 18, 2024</title>
       <link>https://asec.ahnlab.com/en/82496/</link>
       <pubDate>Sat, 17 Aug 2024 15:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Threat Actors Increasingly Target macOS, Report Finds</title>
       <link>https://www.techrepublic.com/article/threat-actors-target-mac-os-2024/</link>
       <pubDate>Fri, 16 Aug 2024 17:52:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Exploit Public .env Files to Breach Cloud Accounts in Extortion Campaign</title>
-      <link>https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html</link>
-      <pubDate>Fri, 16 Aug 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Experts Welcome NIST’s New Encryption Standards For Quantum Computers</title>
-      <link>https://www.techrepublic.com/article/nist-new-post-quantum-cryptography-standards/</link>
-      <pubDate>Fri, 16 Aug 2024 15:26:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
