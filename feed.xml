@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Aug 2024 20:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 22:15:45 +0000</lastBuildDate>
     <item>
       <title>Detecting AWS Account Compromise: Key Indicators in CloudTrail Logs for Stolen API Keys</title>
       <link>https://thehackernews.com/2024/08/detecting-aws-account-compromise-key.html</link>
@@ -66,6 +66,11 @@
       <title>Iranian Group TA453 Launches Phishing Attacks with BlackSmith</title>
       <link>https://www.infosecurity-magazine.com/news/iran-ta453-phishing-attacks-isw/</link>
       <pubDate>Tue, 20 Aug 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 21, 2024</title>
+      <link>https://asec.ahnlab.com/en/82548/</link>
+      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Where are we with CVE-2024-38063: Microsoft IPv6 Vulnerability, (Tue, Aug 20th)</title>
@@ -301,11 +306,6 @@
       <title>PinnacleOne ExecBrief | Bangladesh’s New Government Spells Uncertainty for Competing Global Powers</title>
       <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-bangladeshs-new-government-spells-uncertainty-for-competing-global-powers/</link>
       <pubDate>Mon, 19 Aug 2024 13:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Exploit Popular Software Searches to Spread FakeBat Malware</title>
-      <link>https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html</link>
-      <pubDate>Mon, 19 Aug 2024 12:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
