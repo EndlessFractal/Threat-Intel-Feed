@@ -6,10 +6,20 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 16:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 18:23:46 +0000</lastBuildDate>
+    <item>
+      <title>North Korea-linked APT used a new RAT called MoonPeak</title>
+      <link>https://securityaffairs.com/167340/malware/north-korea-apt-moonpeaknorth.html</link>
+      <pubDate>Wed, 21 Aug 2024 17:26:36 +0000</pubDate>
+    </item>
     <item>
       <title>New MoonPeak RAT Linked to North Korean Threat Group UAT-5394</title>
       <link>https://www.infosecurity-magazine.com/news/moonpeak-rat-north-korea/</link>
+      <pubDate>Wed, 21 Aug 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches Critical Copilot Studio Vulnerability Exposing Sensitive Data</title>
+      <link>https://thehackernews.com/2024/08/microsoft-patches-critical-copilot.html</link>
       <pubDate>Wed, 21 Aug 2024 16:15:00 +0000</pubDate>
     </item>
     <item>
@@ -21,6 +31,11 @@
       <title>More than 3 in 4 Tech Leaders Worry About SaaS Security Threats, New Survey Reveals</title>
       <link>https://www.techrepublic.com/article/tech-leaders-saas-security-threats/</link>
       <pubDate>Wed, 21 Aug 2024 15:38:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Deploy New MoonPeak Trojan in Cyber Campaign</title>
+      <link>https://thehackernews.com/2024/08/north-korean-hackers-deploy-new.html</link>
+      <pubDate>Wed, 21 Aug 2024 15:37:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical LiteSpeed Cache Plugin Flaw Exposes WordPress Sites</title>
@@ -291,21 +306,6 @@
       <title>Streamlining Threat Intelligence with Customizable Keyword-Based Watchlists</title>
       <link>https://blog.eclecticiq.com/eclecticiq-intelligence-center-keyword-based-watchlist</link>
       <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unleashing the Power of Collaboration: Extended STIX 2.1 Support with Collaborative Notes</title>
-      <link>https://blog.eclecticiq.com/eclecticiq-intelligence-center-stix-2.1-support-with-collaborative-notes</link>
-      <pubDate>Tue, 20 Aug 2024 13:59:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transforming Threat Intelligence with AI-Powered, Multilingual NLP Search</title>
-      <link>https://blog.eclecticiq.com/eclecticiq-intelligence-center-ai-powered-multilingual-nlp-search</link>
-      <pubDate>Tue, 20 Aug 2024 13:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transform Your Threat Management with Advanced MITRE ATT&amp;CK Analysis Tools</title>
-      <link>https://blog.eclecticiq.com/eclecticiq-intelligence-center-mitre-attck-navigator</link>
-      <pubDate>Tue, 20 Aug 2024 13:57:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
