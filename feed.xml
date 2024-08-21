@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 14:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 16:23:05 +0000</lastBuildDate>
+    <item>
+      <title>New MoonPeak RAT Linked to North Korean Threat Group UAT-5394</title>
+      <link>https://www.infosecurity-magazine.com/news/moonpeak-rat-north-korea/</link>
+      <pubDate>Wed, 21 Aug 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the ITU Can Spearhead a Standards Renaissance</title>
+      <link>https://symantec-enterprise-blogs.security.com/expert-perspectives/why-itu-can-spearhead-standards-renaissance</link>
+      <pubDate>Wed, 21 Aug 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than 3 in 4 Tech Leaders Worry About SaaS Security Threats, New Survey Reveals</title>
+      <link>https://www.techrepublic.com/article/tech-leaders-saas-security-threats/</link>
+      <pubDate>Wed, 21 Aug 2024 15:38:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical LiteSpeed Cache Plugin Flaw Exposes WordPress Sites</title>
+      <link>https://www.infosecurity-magazine.com/news/litespeed-cache-plugin-flaw/</link>
+      <pubDate>Wed, 21 Aug 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip Technology says operations disrupted by cyberattack</title>
+      <link>https://therecord.media/microchip-technology-operations-cyberattack-disrupted</link>
+      <pubDate>Wed, 21 Aug 2024 15:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 Steps to Win Quickly With Carbon Black App Control</title>
+      <link>https://symantec-enterprise-blogs.security.com/product-insights/3-steps-win-quickly-carbon-black-app-control</link>
+      <pubDate>Wed, 21 Aug 2024 14:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australia Calls Off Clearview AI Investigation Despite Lack of Compliance</title>
+      <link>https://www.infosecurity-magazine.com/news/australia-calls-off-clearview-ai/</link>
+      <pubDate>Wed, 21 Aug 2024 14:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Story of an Undercover CIA Agent who Penetrated Al Qaeda</title>
       <link>https://www.schneier.com/blog/archives/2024/08/story-of-an-undercover-cia-agent-who-penetrated-al-qaeda.html</link>
@@ -51,6 +86,11 @@
       <title>1-15 May 2024 Cyber Attacks Timeline</title>
       <link>https://www.hackmageddon.com/2024/08/21/1-15-may-2024-cyber-attacks-timeline/</link>
       <pubDate>Wed, 21 Aug 2024 12:21:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/21/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Wed, 21 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>It's Time To Untangle the SaaS Ball of Yarn</title>
@@ -198,29 +238,9 @@
       <pubDate>Tue, 20 Aug 2024 16:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>British civil service to target cyber specialists with new graduate scheme</title>
-      <link>https://therecord.media/british-civil-service-cyber-fast-stream-program</link>
-      <pubDate>Tue, 20 Aug 2024 15:40:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Iranian Group TA453 Launches Phishing Attacks with BlackSmith</title>
       <link>https://www.infosecurity-magazine.com/news/iran-ta453-phishing-attacks-isw/</link>
       <pubDate>Tue, 20 Aug 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, August 2024</title>
-      <link>https://asec.ahnlab.com/en/82550/</link>
-      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 21, 2024</title>
-      <link>https://asec.ahnlab.com/en/82548/</link>
-      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP Product Security Update Advisory (CVE-2024-33003)</title>
-      <link>https://asec.ahnlab.com/en/82567/</link>
-      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cellopoint Product Security Update Advisory (CVE-2024-6744)</title>
@@ -240,6 +260,21 @@
     <item>
       <title>Dell Family Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82563/</link>
+      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, August 2024</title>
+      <link>https://asec.ahnlab.com/en/82550/</link>
+      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 21, 2024</title>
+      <link>https://asec.ahnlab.com/en/82548/</link>
+      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP Product Security Update Advisory (CVE-2024-33003)</title>
+      <link>https://asec.ahnlab.com/en/82567/</link>
       <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -271,41 +306,6 @@
       <title>Transform Your Threat Management with Advanced MITRE ATT&amp;CK Analysis Tools</title>
       <link>https://blog.eclecticiq.com/eclecticiq-intelligence-center-mitre-attck-navigator</link>
       <pubDate>Tue, 20 Aug 2024 13:57:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elevate Your Intelligence Reports with EclecticIQ's AI Writing Assistant</title>
-      <link>https://blog.eclecticiq.com/eclecticiq-intelligence-center-ai-writing-assistant</link>
-      <pubDate>Tue, 20 Aug 2024 13:45:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Resilient Security | Why Fundamentals Matter More Than Ever</title>
-      <link>https://www.sentinelone.com/blog/building-resilient-security-why-fundamentals-matter-more-than-ever/</link>
-      <pubDate>Tue, 20 Aug 2024 13:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three-Quarters of Companies Retain An Increasing Amount of Sensitive Data, Report Finds</title>
-      <link>https://www.techrepublic.com/article/sensitive-data-management-report/</link>
-      <pubDate>Tue, 20 Aug 2024 13:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most Ransomware Attacks Occur When Security Staff Are Asleep, Study Finds</title>
-      <link>https://www.techrepublic.com/article/ransomware-trends-malwarebytes/</link>
-      <pubDate>Tue, 20 Aug 2024 13:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cost of a data breach: The industrial sector</title>
-      <link>https://securityintelligence.com/articles/cost-of-a-data-breach-industrial-sector/</link>
-      <pubDate>Tue, 20 Aug 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“We will hold them accountable”: General Motors sued for selling customer driving data to third parties</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/08/we-will-hold-them-accountable-general-motors-sued-for-selling-customer-driving-data-to-third-parties</link>
-      <pubDate>Tue, 20 Aug 2024 12:59:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos NDR 1.7 is now available</title>
-      <link>https://news.sophos.com/en-us/2024/08/20/sophos-ndr-1-7-is-now-available/</link>
-      <pubDate>Tue, 20 Aug 2024 12:04:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
