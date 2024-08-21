@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 08:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 10:18:21 +0000</lastBuildDate>
+    <item>
+      <title>Toyota confirms customer and employee data stolen, says breach at third party to blame</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/08/toyota-confirms-customer-and-employee-data-stolen-says-breach-at-third-party-to-blame</link>
+      <pubDate>Wed, 21 Aug 2024 10:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>MoonPeak malware from North Korean actors unveils new details on attacker infrastructure</title>
+      <link>https://blog.talosintelligence.com/moonpeak-malware-infrastructure-north-korea/</link>
+      <pubDate>Wed, 21 Aug 2024 10:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autoencoder Is All You Need: Profiling and Detecting Malicious DNS Traffic</title>
+      <link>https://unit42.paloaltonetworks.com/profiling-detecting-malicious-dns-traffic/</link>
+      <pubDate>Wed, 21 Aug 2024 10:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Most Ransomware Attacks Now Happen at Night</title>
+      <link>https://www.infosecurity-magazine.com/news/most-ransomware-attacks-happen/</link>
+      <pubDate>Wed, 21 Aug 2024 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip Technology Says IT Incident Impacted Operations</title>
+      <link>https://www.infosecurity-magazine.com/news/microchip-technology-it-incident/</link>
+      <pubDate>Wed, 21 Aug 2024 08:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAC-0020 (Vermin) Activity Detection: A New Phishing Attack Abusing the Topic of Prisoners of War at the Kursk Front and Using FIRMACHAGENT Malware</title>
+      <link>https://socprime.com/blog/uac-0020-vermin-activity-detection-a-new-phishing-attack/</link>
+      <pubDate>Wed, 21 Aug 2024 08:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro-Russia group Vermin targets Ukraine with a new malware family</title>
+      <link>https://securityaffairs.com/167327/apt/cer-ua-vermin-phishing-campaign.html</link>
+      <pubDate>Wed, 21 Aug 2024 08:11:10 +0000</pubDate>
+    </item>
     <item>
       <title>A backdoor in millions of Shanghai Fudan Microelectronics RFID cards allows cloning</title>
       <link>https://securityaffairs.com/167321/hacking/shanghai-fudan-microelectronics-rfid-cards-backdoor.html</link>
@@ -98,6 +133,21 @@
       <pubDate>Tue, 20 Aug 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, August 2024</title>
+      <link>https://asec.ahnlab.com/en/82550/</link>
+      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 21, 2024</title>
+      <link>https://asec.ahnlab.com/en/82548/</link>
+      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP Product Security Update Advisory (CVE-2024-33003)</title>
+      <link>https://asec.ahnlab.com/en/82567/</link>
+      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cellopoint Product Security Update Advisory (CVE-2024-6744)</title>
       <link>https://asec.ahnlab.com/en/82566/</link>
       <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
@@ -115,21 +165,6 @@
     <item>
       <title>Dell Family Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82563/</link>
-      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, August 2024</title>
-      <link>https://asec.ahnlab.com/en/82550/</link>
-      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 21, 2024</title>
-      <link>https://asec.ahnlab.com/en/82548/</link>
-      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP Product Security Update Advisory (CVE-2024-33003)</title>
-      <link>https://asec.ahnlab.com/en/82567/</link>
       <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -268,44 +303,9 @@
       <pubDate>Tue, 20 Aug 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Oracle NetSuite misconfiguration could lead to data exposure</title>
-      <link>https://securityaffairs.com/167287/hacking/oracle-netsuite-misconfiguration.html</link>
-      <pubDate>Tue, 20 Aug 2024 08:33:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toyota disclosed a data breach after ZeroSevenGroup leaked stolen data on a cybercrime forum</title>
-      <link>https://securityaffairs.com/167274/data-breach/zerosevengroup-toyota-data-breach.html</link>
-      <pubDate>Tue, 20 Aug 2024 07:09:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blind Eagle Hackers Exploit Spear-Phishing to Deploy RATs in Latin America</title>
-      <link>https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html</link>
-      <pubDate>Tue, 20 Aug 2024 06:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thousands of Oracle NetSuite Sites at Risk of Exposing Customer Information</title>
-      <link>https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html</link>
-      <pubDate>Tue, 20 Aug 2024 05:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Critical Jenkins Vulnerability Exploited in Ransomware Attacks</title>
-      <link>https://thehackernews.com/2024/08/cisa-warns-of-critical-jenkins.html</link>
-      <pubDate>Tue, 20 Aug 2024 04:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, August 20th, 2024 https://isc.sans.edu/podcastdetail/9104, (Tue, Aug 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/31184</link>
-      <pubDate>Tue, 20 Aug 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>GreenCharlie Infrastructure Targeting US Political Entities with Advanced Phishing and Malware</title>
-      <link>https://www.recordedfuture.com/research/greencharlie-infrastructure-linked-us-political-campaign-targeting</link>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOCI Act 2024: Thales Report Reveals Critical Infrastructure Breaches in Australia</title>
-      <link>https://www.techrepublic.com/article/soci-act-2024/</link>
-      <pubDate>Mon, 19 Aug 2024 21:20:33 +0000</pubDate>
+      <title>Be careful what you pwish for – Phishing in PWA applications</title>
+      <link>https://www.welivesecurity.com/en/eset-research/be-careful-what-you-pwish-for-phishing-in-pwa-applications/</link>
+      <pubDate>Tue, 20 Aug 2024 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
