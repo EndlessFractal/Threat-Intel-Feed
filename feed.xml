@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 01:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 02:36:33 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Wednesday, August 21st, 2024 https://isc.sans.edu/podcastdetail/9106, (Wed, Aug 21st)</title>
+      <link>https://isc.sans.edu/diary/rss/31190</link>
+      <pubDate>Wed, 21 Aug 2024 02:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mapping Threats with DNSTwist and the Internet Storm Center [Guest Diary], (Tue, Aug 20th)</title>
+      <link>https://isc.sans.edu/diary/rss/31188</link>
+      <pubDate>Wed, 21 Aug 2024 00:17:41 +0000</pubDate>
+    </item>
     <item>
       <title>Detecting AWS Account Compromise: Key Indicators in CloudTrail Logs for Stolen API Keys</title>
       <link>https://thehackernews.com/2024/08/detecting-aws-account-compromise-key.html</link>
@@ -296,16 +306,6 @@
       <title>Hacked GPS tracker reveals location data of customers</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/hacked-gps-tracker-reveals-location-data-of-customers</link>
       <pubDate>Mon, 19 Aug 2024 14:39:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Apps for macOS Exposed to Library Injection Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-apps-macos-exposed/</link>
-      <pubDate>Mon, 19 Aug 2024 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New UULoader Malware Distributes Gh0st RAT and Mimikatz in East Asia</title>
-      <link>https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html</link>
-      <pubDate>Mon, 19 Aug 2024 13:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
