@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Aug 2024 04:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 06:24:47 +0000</lastBuildDate>
+    <item>
+      <title>Google Fixes High-Severity Chrome Flaw Actively Exploited in the Wild</title>
+      <link>https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html</link>
+      <pubDate>Thu, 22 Aug 2024 05:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Flaw in WordPress LiteSpeed Cache Plugin Allows Hackers Admin Access</title>
+      <link>https://thehackernews.com/2024/08/critical-flaw-in-wordpress-litespeed.html</link>
+      <pubDate>Thu, 22 Aug 2024 05:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Patches Critical Security Flaw in Enterprise Server Granting Admin Privileges</title>
+      <link>https://thehackernews.com/2024/08/github-patches-critical-security-flaw.html</link>
+      <pubDate>Thu, 22 Aug 2024 04:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Malware PG_MEM Targets PostgreSQL Databases for Crypto Mining</title>
+      <link>https://thehackernews.com/2024/08/new-malware-pgmem-targets-postgresql.html</link>
+      <pubDate>Thu, 22 Aug 2024 04:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, August 22nd, 2024 https://isc.sans.edu/podcastdetail/9108, (Thu, Aug 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/31192</link>
@@ -286,26 +306,6 @@
       <title>Previously unseen Msupedge backdoor targeted a university in Taiwan</title>
       <link>https://securityaffairs.com/167298/malware/msupedge-backdoor.html</link>
       <pubDate>Tue, 20 Aug 2024 17:27:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Novel Phishing Method Used in Android/iOS Financial Fraud Campaigns</title>
-      <link>https://www.infosecurity-magazine.com/news/novel-phishing-android-ios-pwa/</link>
-      <pubDate>Tue, 20 Aug 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New DNS-Based Backdoor Threat Discovered at Taiwanese University</title>
-      <link>https://www.infosecurity-magazine.com/news/dns-based-backdoor-taiwanese/</link>
-      <pubDate>Tue, 20 Aug 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Group TA453 Launches Phishing Attacks with BlackSmith</title>
-      <link>https://www.infosecurity-magazine.com/news/iran-ta453-phishing-attacks-isw/</link>
-      <pubDate>Tue, 20 Aug 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cellopoint Product Security Update Advisory (CVE-2024-6744)</title>
-      <link>https://asec.ahnlab.com/en/82566/</link>
-      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
