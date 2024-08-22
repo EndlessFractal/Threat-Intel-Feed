@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Aug 2024 06:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 08:21:57 +0000</lastBuildDate>
+    <item>
+      <title>GitHub fixed a new critical flaw in the GitHub Enterprise Server</title>
+      <link>https://securityaffairs.com/167387/security/github-enterprise-server-critical-flaw.html</link>
+      <pubDate>Thu, 22 Aug 2024 07:08:23 +0000</pubDate>
+    </item>
     <item>
       <title>Google Fixes High-Severity Chrome Flaw Actively Exploited in the Wild</title>
       <link>https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html</link>
@@ -101,6 +106,11 @@
       <title>Microchip Technology says operations disrupted by cyberattack</title>
       <link>https://therecord.media/microchip-technology-operations-cyberattack-disrupted</link>
       <pubDate>Wed, 21 Aug 2024 15:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, August 2024</title>
+      <link>https://asec.ahnlab.com/en/82576/</link>
+      <pubDate>Wed, 21 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>August 22, 2024</title>
@@ -223,11 +233,6 @@
       <pubDate>Wed, 21 Aug 2024 09:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>How regulatory standards and cyber insurance inform each other</title>
-      <link>https://www.welivesecurity.com/en/business-security/how-regulatory-standards-and-cyber-insurance-inform-each-other/</link>
-      <pubDate>Wed, 21 Aug 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Microchip Technology Says IT Incident Impacted Operations</title>
       <link>https://www.infosecurity-magazine.com/news/microchip-technology-it-incident/</link>
       <pubDate>Wed, 21 Aug 2024 08:50:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Best Practices for Event Logging and Threat Detection</title>
       <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-234a</link>
       <pubDate>Tue, 20 Aug 2024 17:31:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Previously unseen Msupedge backdoor targeted a university in Taiwan</title>
-      <link>https://securityaffairs.com/167298/malware/msupedge-backdoor.html</link>
-      <pubDate>Tue, 20 Aug 2024 17:27:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
