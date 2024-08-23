@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Aug 2024 12:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 14:17:28 +0000</lastBuildDate>
+    <item>
+      <title>Georgia Tech Sued Over Cybersecurity Violations</title>
+      <link>https://www.infosecurity-magazine.com/news/georgia-tech-sued-cybersecurity/</link>
+      <pubDate>Fri, 23 Aug 2024 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 34</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-6/</link>
+      <pubDate>Fri, 23 Aug 2024 13:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Paris Olympic authorities battled cyberattacks, and won gold</title>
+      <link>https://securityintelligence.com/articles/paris-olympic-authorities-battled-cyberattacks-won-gold/</link>
+      <pubDate>Fri, 23 Aug 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pandas Errors: What encoding are my logs in?, (Fri, Aug 23rd)</title>
+      <link>https://isc.sans.edu/diary/rss/31200</link>
+      <pubDate>Fri, 23 Aug 2024 12:26:15 +0000</pubDate>
+    </item>
     <item>
       <title>Webinar: Experience the Power of a Must-Have All-in-One Cybersecurity Platform</title>
       <link>https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html</link>
@@ -103,6 +123,11 @@
       <pubDate>Thu, 22 Aug 2024 23:46:03 +0000</pubDate>
     </item>
     <item>
+      <title>Android malware used to steal ATM info from customers at three European banks</title>
+      <link>https://therecord.media/android-malware-atm-stealing-czech-banks</link>
+      <pubDate>Thu, 22 Aug 2024 19:13:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Cyber Security and IT Leadership: A Growing Threat to Australia’s Renewable Energy Efforts</title>
       <link>https://www.techrepublic.com/article/cyber-security-renewable-energy-australia/</link>
       <pubDate>Thu, 22 Aug 2024 18:14:58 +0000</pubDate>
@@ -148,9 +173,19 @@
       <pubDate>Thu, 22 Aug 2024 16:13:00 +0000</pubDate>
     </item>
     <item>
+      <title>US charges alleged member of Russian Karakurt ransomware group</title>
+      <link>https://therecord.media/us-charges-alleged-karakurt-ransomware-member</link>
+      <pubDate>Thu, 22 Aug 2024 16:04:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Hundreds of online stores hacked in new campaign</title>
       <link>https://www.malwarebytes.com/blog/cybercrime/2024/08/hundreds-of-online-stores-hacked-in-new-campaign</link>
       <pubDate>Thu, 22 Aug 2024 15:58:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telecom company hit with $1 million penalty over AI-generated fake Biden robocalls</title>
+      <link>https://therecord.media/telecom-company-fined-1-million-biden-ai-robocalls</link>
+      <pubDate>Thu, 22 Aug 2024 15:44:11 +0000</pubDate>
     </item>
     <item>
       <title>Cthulhu Stealer Malware Targets macOS With Deceptive Tactics</title>
@@ -171,6 +206,16 @@
       <title>August 23, 2024</title>
       <link>https://asec.ahnlab.com/en/82590/</link>
       <pubDate>Thu, 22 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil industry giant Halliburton confirms 'issue' following reported cyberattack</title>
+      <link>https://therecord.media/halliburton-reported-cyberattack-company-confirms-issue</link>
+      <pubDate>Thu, 22 Aug 2024 14:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia calls for restrictions on surveillance cameras, dating apps in cities under attack from Ukraine</title>
+      <link>https://therecord.media/russia-calls-for-restrictions-on-surveillance-cameras-dating-apps-kursk</link>
+      <pubDate>Thu, 22 Aug 2024 14:30:22 +0000</pubDate>
     </item>
     <item>
       <title>FAA Admits Gaps in Aircraft Cybersecurity Rules: New Regulation Proposed</title>
@@ -261,51 +306,6 @@
       <title>Novel Android Malware Steals Card NFC Data For ATM Withdrawals</title>
       <link>https://www.infosecurity-magazine.com/news/android-malware-steals-card-nfc/</link>
       <pubDate>Thu, 22 Aug 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Facts About Continuous Penetration Testing and Why It’s Important</title>
-      <link>https://thehackernews.com/2024/08/the-facts-about-continuous-penetration.html</link>
-      <pubDate>Thu, 22 Aug 2024 10:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Memory corruption vulnerabilities in Suricata and FreeRDP</title>
-      <link>https://securelist.com/suricata-freerdp-memory-corruption/113489/</link>
-      <pubDate>Thu, 22 Aug 2024 10:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Backdoor in Mifare Smart Cards Could Open Doors Around the World</title>
-      <link>https://www.infosecurity-magazine.com/news/backdoor-mifare-smart-cards-open/</link>
-      <pubDate>Thu, 22 Aug 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NGate Android malware relays NFC traffic to steal cash</title>
-      <link>https://www.welivesecurity.com/en/eset-research/ngate-android-malware-relays-nfc-traffic-to-steal-cash/</link>
-      <pubDate>Thu, 22 Aug 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A cyberattack disrupted operations of US chipmaker Microchip Technology</title>
-      <link>https://securityaffairs.com/167369/hacking/cyberattack-disrupted-operations-microchip-technology.html</link>
-      <pubDate>Thu, 22 Aug 2024 08:15:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google addressed the ninth actively exploited Chrome zero-day this year</title>
-      <link>https://securityaffairs.com/167403/hacking/9th-chrome-zero-day-2024-html.html</link>
-      <pubDate>Thu, 22 Aug 2024 08:10:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub fixed a new critical flaw in the GitHub Enterprise Server</title>
-      <link>https://securityaffairs.com/167387/security/github-enterprise-server-critical-flaw.html</link>
-      <pubDate>Thu, 22 Aug 2024 07:08:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Fixes High-Severity Chrome Flaw Actively Exploited in the Wild</title>
-      <link>https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html</link>
-      <pubDate>Thu, 22 Aug 2024 05:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Flaw in WordPress LiteSpeed Cache Plugin Allows Hackers Admin Access</title>
-      <link>https://thehackernews.com/2024/08/critical-flaw-in-wordpress-litespeed.html</link>
-      <pubDate>Thu, 22 Aug 2024 05:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
