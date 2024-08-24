@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Aug 2024 22:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 01:17:11 +0000</lastBuildDate>
     <item>
       <title>Qilin ransomware steals credentials stored in Google Chrome</title>
       <link>https://securityaffairs.com/167496/cyber-crime/qilin-ransomware-steal-google-chrome-passwords.html</link>
@@ -91,6 +91,11 @@
       <title>Pandas Errors: What encoding are my logs in?, (Fri, Aug 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/31200</link>
       <pubDate>Fri, 23 Aug 2024 12:26:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director</link>
+      <pubDate>Fri, 23 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Webinar: Experience the Power of a Must-Have All-in-One Cybersecurity Platform</title>
@@ -300,11 +305,6 @@
     <item>
       <title>MOBOTIX P3 and Mx6 Cameras</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-235-03</link>
-      <pubDate>Thu, 22 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation 5015 - AENFTXT</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-235-02</link>
       <pubDate>Thu, 22 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
