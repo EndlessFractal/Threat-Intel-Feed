@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 18:24:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 20:19:53 +0000</lastBuildDate>
     <item>
       <title>SonicWall addressed an improper access control issue in its firewalls</title>
       <link>https://securityaffairs.com/167595/security/sonicwall-sonicos-cve-2024-40766.html</link>
@@ -71,6 +71,11 @@
       <title>Seattle's airport, seaport isolate systems after cyberattack</title>
       <link>https://therecord.media/seatac-airport-port-of-seattle-cyberattack</link>
       <pubDate>Mon, 26 Aug 2024 12:47:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/26/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Mon, 26 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>US Federal Court Rules Against Geofence Warrants</title>
@@ -301,11 +306,6 @@
       <title>Focus on What Matters Most: Exposure Management and Your Attack Surface</title>
       <link>https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html</link>
       <pubDate>Fri, 23 Aug 2024 10:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Qilin Ransomware Attack Uses VPN Credentials, Steals Chrome Data</title>
-      <link>https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html</link>
-      <pubDate>Fri, 23 Aug 2024 10:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
