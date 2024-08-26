@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 20:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 22:17:29 +0000</lastBuildDate>
+    <item>
+      <title>California credit union confirms 726k affected by June ransomware attack</title>
+      <link>https://therecord.media/patelco-california-credit-union-data-breach</link>
+      <pubDate>Mon, 26 Aug 2024 20:52:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>PSA: These ‘Microsoft Support’ ploys may just fool you</title>
+      <link>https://www.malwarebytes.com/blog/scams/2024/08/psa-these-microsoft-support-ploys-may-just-fool-you</link>
+      <pubDate>Mon, 26 Aug 2024 20:02:14 +0000</pubDate>
+    </item>
     <item>
       <title>SonicWall addressed an improper access control issue in its firewalls</title>
       <link>https://securityaffairs.com/167595/security/sonicwall-sonicos-cve-2024-40766.html</link>
@@ -66,11 +76,6 @@
       <title>PinnacleOne ExecBrief | Post-Quantum Cryptography and Enterprise Risks</title>
       <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-post-quantum-cryptography-and-enterprise-risks/</link>
       <pubDate>Mon, 26 Aug 2024 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seattle's airport, seaport isolate systems after cyberattack</title>
-      <link>https://therecord.media/seatac-airport-port-of-seattle-cyberattack</link>
-      <pubDate>Mon, 26 Aug 2024 12:47:34 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
@@ -301,11 +306,6 @@
       <title>Qilin Caught Red-Handed Stealing Credentials in Google Chrome</title>
       <link>https://www.infosecurity-magazine.com/news/qilin-steal-credentials-google/</link>
       <pubDate>Fri, 23 Aug 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Focus on What Matters Most: Exposure Management and Your Attack Surface</title>
-      <link>https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html</link>
-      <pubDate>Fri, 23 Aug 2024 10:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
