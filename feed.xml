@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 08:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 10:19:32 +0000</lastBuildDate>
+    <item>
+      <title>A cyberattack impacted operations at the Port of Seattle and Sea-Tac Airport</title>
+      <link>https://securityaffairs.com/167581/hacking/port-of-seattle-sea-tac-airport-cyberattack.html</link>
+      <pubDate>Mon, 26 Aug 2024 08:22:35 +0000</pubDate>
+    </item>
     <item>
       <title>Chinese Velvet Ant Uses Cisco Zero-Day to Deploy Custom Malware</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-velvet-ant-cisco-0day/</link>
@@ -41,6 +46,16 @@
       <title>ISC Stormcast For Monday, August 26th, 2024 https://isc.sans.edu/podcastdetail/9112, (Mon, Aug 26th)</title>
       <link>https://isc.sans.edu/diary/rss/31202</link>
       <pubDate>Mon, 26 Aug 2024 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82646/</link>
+      <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SolarWinds Product Security Update Advisory (CVE-2024-28987)</title>
+      <link>https://asec.ahnlab.com/en/82644/</link>
+      <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>August 26, 2024</title>
@@ -151,11 +166,6 @@
       <title>Halliburton forced to take systems offline to contain cyberattack</title>
       <link>https://therecord.media/halliburton-systems-offline-cyberattack-sec</link>
       <pubDate>Fri, 23 Aug 2024 16:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Member of cybercrime group Karakurt charged in the US</title>
-      <link>https://securityaffairs.com/167466/uncategorized/karakurt-cybercrime-gang-member-arrested.html</link>
-      <pubDate>Fri, 23 Aug 2024 16:40:38 +0000</pubDate>
     </item>
     <item>
       <title>Russian arrested in Argentina for laundering money for hackers</title>
@@ -296,16 +306,6 @@
       <title>Android malware used to steal ATM info from customers at three European banks</title>
       <link>https://therecord.media/android-malware-atm-stealing-czech-banks</link>
       <pubDate>Thu, 22 Aug 2024 19:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Security and IT Leadership: A Growing Threat to Australia’s Renewable Energy Efforts</title>
-      <link>https://www.techrepublic.com/article/cyber-security-renewable-energy-australia/</link>
-      <pubDate>Thu, 22 Aug 2024 18:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>No, not every Social Security number in the U.S. was stolen</title>
-      <link>https://blog.talosintelligence.com/threat-source-newsletter-aug-22-2024/</link>
-      <pubDate>Thu, 22 Aug 2024 18:00:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
