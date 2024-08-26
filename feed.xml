@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 10:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 12:34:45 +0000</lastBuildDate>
+    <item>
+      <title>US Federal Court Rules Against Geofence Warrants</title>
+      <link>https://www.schneier.com/blog/archives/2024/08/us-federal-court-rules-against-geofence-warrants.html</link>
+      <pubDate>Mon, 26 Aug 2024 11:05:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberGhost vs NordVPN (2024): Which VPN Should You Choose?</title>
+      <link>https://www.techrepublic.com/article/cyberghost-vs-nordvpn/</link>
+      <pubDate>Mon, 26 Aug 2024 11:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Identify Over 20 Supply Chain Vulnerabilities in MLOps Platforms</title>
+      <link>https://thehackernews.com/2024/08/researchers-identify-over-20-supply.html</link>
+      <pubDate>Mon, 26 Aug 2024 10:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unpacking Slack Hacks: 6 Ways to Protect Sensitive Data with Secure Collaboration</title>
+      <link>https://thehackernews.com/2024/08/unpacking-slack-hacks-6-ways-to-protect.html</link>
+      <pubDate>Mon, 26 Aug 2024 10:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>A cyberattack impacted operations at the Port of Seattle and Sea-Tac Airport</title>
       <link>https://securityaffairs.com/167581/hacking/port-of-seattle-sea-tac-airport-cyberattack.html</link>
@@ -48,11 +68,6 @@
       <pubDate>Mon, 26 Aug 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>GitLab Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82646/</link>
-      <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SolarWinds Product Security Update Advisory (CVE-2024-28987)</title>
       <link>https://asec.ahnlab.com/en/82644/</link>
       <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
@@ -60,6 +75,11 @@
     <item>
       <title>August 26, 2024</title>
       <link>https://asec.ahnlab.com/en/82636/</link>
+      <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82646/</link>
       <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>ManageEngine (OpManager, RMM, and others) Family August 2024 Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82610/</link>
       <pubDate>Fri, 23 Aug 2024 01:54:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Family August 2024 First Round Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82611/</link>
-      <pubDate>Fri, 23 Aug 2024 01:49:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Browser (128.0.6613.84) Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82612/</link>
-      <pubDate>Fri, 23 Aug 2024 01:48:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surveillance Watch</title>
-      <link>https://www.schneier.com/blog/archives/2024/08/surveillance-watch.html</link>
-      <pubDate>Fri, 23 Aug 2024 01:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android malware used to steal ATM info from customers at three European banks</title>
-      <link>https://therecord.media/android-malware-atm-stealing-czech-banks</link>
-      <pubDate>Thu, 22 Aug 2024 19:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
