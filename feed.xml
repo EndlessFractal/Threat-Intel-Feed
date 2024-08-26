@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 12:34:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 14:17:04 +0000</lastBuildDate>
+    <item>
+      <title>NSA Releases Guide to Combat Living Off the Land Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/nsa-releases-guide-living-off-the/</link>
+      <pubDate>Mon, 26 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers warn of text scams that send drivers fake bills for highway tolls</title>
+      <link>https://therecord.media/highway-toll-text-scams-spread-to-new-states</link>
+      <pubDate>Mon, 26 Aug 2024 13:33:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>PinnacleOne ExecBrief | Post-Quantum Cryptography and Enterprise Risks</title>
+      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-post-quantum-cryptography-and-enterprise-risks/</link>
+      <pubDate>Mon, 26 Aug 2024 13:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seattle's airport, seaport isolate systems after cyberattack</title>
+      <link>https://therecord.media/seatac-airport-port-of-seattle-cyberattack</link>
+      <pubDate>Mon, 26 Aug 2024 12:47:34 +0000</pubDate>
+    </item>
     <item>
       <title>US Federal Court Rules Against Geofence Warrants</title>
       <link>https://www.schneier.com/blog/archives/2024/08/us-federal-court-rules-against-geofence-warrants.html</link>
@@ -68,6 +88,16 @@
       <pubDate>Mon, 26 Aug 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>August 26, 2024</title>
+      <link>https://asec.ahnlab.com/en/82652/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82646/</link>
+      <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SolarWinds Product Security Update Advisory (CVE-2024-28987)</title>
       <link>https://asec.ahnlab.com/en/82644/</link>
       <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
@@ -75,11 +105,6 @@
     <item>
       <title>August 26, 2024</title>
       <link>https://asec.ahnlab.com/en/82636/</link>
-      <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82646/</link>
       <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -203,11 +228,6 @@
       <pubDate>Fri, 23 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Suspect in $14 billion cryptocurrency pyramid scheme extradited to China</title>
-      <link>https://therecord.media/cryptocurrecy-pyramid-scheme-extradited-china-thailand</link>
-      <pubDate>Fri, 23 Aug 2024 14:29:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Local Networks Go Global When Domain Names Collide</title>
       <link>https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/</link>
       <pubDate>Fri, 23 Aug 2024 14:12:31 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Liverpool Fans Lose Big in Premier League Ticket Scams</title>
       <link>https://www.infosecurity-magazine.com/news/liverpool-fans-lose-big-ticket/</link>
       <pubDate>Fri, 23 Aug 2024 07:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New macOS Malware "Cthulhu Stealer" Targets Apple Users' Data</title>
-      <link>https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html</link>
-      <pubDate>Fri, 23 Aug 2024 05:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Latvian Hacker Extradited to U.S. for Role in Karakurt Cybercrime Group</title>
-      <link>https://thehackernews.com/2024/08/latvian-hacker-extradited-to-us-for.html</link>
-      <pubDate>Fri, 23 Aug 2024 04:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, August 23rd, 2024 https://isc.sans.edu/podcastdetail/9110, (Fri, Aug 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/31198</link>
-      <pubDate>Fri, 23 Aug 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ManageEngine (OpManager, RMM, and others) Family August 2024 Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82610/</link>
-      <pubDate>Fri, 23 Aug 2024 01:54:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
