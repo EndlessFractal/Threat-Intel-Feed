@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Aug 2024 16:22:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 18:24:00 +0000</lastBuildDate>
+    <item>
+      <title>Attack tool update impairs Windows computers</title>
+      <link>https://news.sophos.com/en-us/2024/08/27/burnt-cigar-2/</link>
+      <pubDate>Tue, 27 Aug 2024 16:33:35 +0000</pubDate>
+    </item>
     <item>
       <title>The AI Fix #13: ChatGPT runs for mayor, and should we stop killer robots?</title>
       <link>https://grahamcluley.com/the-ai-fix-13/</link>
@@ -16,6 +21,11 @@
       <title>Microsoft 365 Copilot Vulnerability Exposes User Data Risks</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-365-copilot-flaw-exposes/</link>
       <pubDate>Tue, 27 Aug 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Version of HZ RAT Backdoor Targets Chinese Messaging App Users</title>
+      <link>https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html</link>
+      <pubDate>Tue, 27 Aug 2024 16:08:00 +0000</pubDate>
     </item>
     <item>
       <title>MOVEit Hack Exposed Personal Data of Half Million TDECU Users</title>
@@ -36,11 +46,6 @@
       <title>Chinese Volt Typhoon Exploits Versa Director Flaw, Targets U.S. and Global IT Sectors</title>
       <link>https://thehackernews.com/2024/08/chinese-volt-typhoon-exploits-versa.html</link>
       <pubDate>Tue, 27 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Internet outages spread across Ukraine following Russian air strikes on critical infrastructure</title>
-      <link>https://therecord.media/internet-outages-ukraine-russian-air-strikes</link>
-      <pubDate>Tue, 27 Aug 2024 13:35:12 +0000</pubDate>
     </item>
     <item>
       <title>SMS scammers use toll fees as a lure</title>
@@ -73,9 +78,9 @@
       <pubDate>Tue, 27 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Abigail Bradshaw picked as new head of Australia’s cyber intelligence agency</title>
-      <link>https://therecord.media/australian-signals-directorate-abigail-bradshaw</link>
-      <pubDate>Tue, 27 Aug 2024 11:55:24 +0000</pubDate>
+      <title>Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717</link>
+      <pubDate>Tue, 27 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Researchers unmasked the notorious threat actor USDoD</title>
@@ -163,11 +168,6 @@
       <pubDate>Mon, 26 Aug 2024 22:57:13 +0000</pubDate>
     </item>
     <item>
-      <title>California credit union confirms 726k affected by June ransomware attack</title>
-      <link>https://therecord.media/patelco-california-credit-union-data-breach</link>
-      <pubDate>Mon, 26 Aug 2024 20:52:38 +0000</pubDate>
-    </item>
-    <item>
       <title>PSA: These ‘Microsoft Support’ ploys may just fool you</title>
       <link>https://www.malwarebytes.com/blog/scams/2024/08/psa-these-microsoft-support-ploys-may-just-fool-you</link>
       <pubDate>Mon, 26 Aug 2024 20:02:14 +0000</pubDate>
@@ -178,14 +178,9 @@
       <pubDate>Mon, 26 Aug 2024 17:20:59 +0000</pubDate>
     </item>
     <item>
-      <title>Telegram says arrested CEO has ‘nothing to hide’ as France reportedly extends his detention</title>
-      <link>https://therecord.media/telegram-founder-arrest-nothing-to-hide</link>
-      <pubDate>Mon, 26 Aug 2024 16:23:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>In a Kyiv hangar, Ukraine launches a cyber range for everyone</title>
-      <link>https://therecord.media/ukraine-cyber-range-kyiv-hangar</link>
-      <pubDate>Mon, 26 Aug 2024 15:24:58 +0000</pubDate>
+      <title>How Microsoft Entra ID supports US government agencies in meeting identity security requirements</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/08/26/how-microsoft-entra-id-supports-us-government-agencies-in-meeting-identity-security-requirements/</link>
+      <pubDate>Mon, 26 Aug 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Newly Discovered Group Offers CAPTCHA-Solving Services to Cybercriminals</title>
@@ -305,6 +300,11 @@
     <item>
       <title>SolarWinds Product Security Update Advisory (CVE-2024-28987)</title>
       <link>https://asec.ahnlab.com/en/82644/</link>
+      <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 26, 2024</title>
+      <link>https://asec.ahnlab.com/en/82636/</link>
       <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
