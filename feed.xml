@@ -6,10 +6,35 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Aug 2024 14:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 16:22:07 +0000</lastBuildDate>
+    <item>
+      <title>The AI Fix #13: ChatGPT runs for mayor, and should we stop killer robots?</title>
+      <link>https://grahamcluley.com/the-ai-fix-13/</link>
+      <pubDate>Tue, 27 Aug 2024 16:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 Copilot Vulnerability Exposes User Data Risks</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-365-copilot-flaw-exposes/</link>
+      <pubDate>Tue, 27 Aug 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MOVEit Hack Exposed Personal Data of Half Million TDECU Users</title>
+      <link>https://www.infosecurity-magazine.com/news/moveit-hack-exposed-tdecu-data/</link>
+      <pubDate>Tue, 27 Aug 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New 0-Day Attacks Linked to China’s ‘Volt Typhoon’</title>
+      <link>https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/</link>
+      <pubDate>Tue, 27 Aug 2024 14:26:41 +0000</pubDate>
+    </item>
     <item>
       <title>FBI Flawed Data Handling Raises Security Concerns</title>
       <link>https://www.infosecurity-magazine.com/news/fbi-flawed-data-security-concerns/</link>
+      <pubDate>Tue, 27 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Volt Typhoon Exploits Versa Director Flaw, Targets U.S. and Global IT Sectors</title>
+      <link>https://thehackernews.com/2024/08/chinese-volt-typhoon-exploits-versa.html</link>
       <pubDate>Tue, 27 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -41,6 +66,11 @@
       <title>TDECU data breach affects half a million people</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/tdecu-data-breach-affects-half-a-million-people</link>
       <pubDate>Tue, 27 Aug 2024 12:33:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Tue, 27 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Abigail Bradshaw picked as new head of Australia’s cyber intelligence agency</title>
@@ -96,6 +126,11 @@
       <title>A Third of Organizations Suffer SaaS Data Breaches</title>
       <link>https://www.infosecurity-magazine.com/news/third-organizations-saas-data/</link>
       <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nearly 1/3 of Companies Suffered a SaaS Data Breach in Last Year</title>
+      <link>https://www.techrepublic.com/article/appomni-saas-security-report/</link>
+      <pubDate>Tue, 27 Aug 2024 07:01:29 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft 365 Copilot</title>
@@ -271,41 +306,6 @@
       <title>SolarWinds Product Security Update Advisory (CVE-2024-28987)</title>
       <link>https://asec.ahnlab.com/en/82644/</link>
       <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 26, 2024</title>
-      <link>https://asec.ahnlab.com/en/82636/</link>
-      <pubDate>Sun, 25 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Says Stopping Online Fraud and Scams Requires New Focus</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/fbi-says-stopping-online-fraud-and-scams-requires-new-focus</link>
-      <pubDate>Sun, 25 Aug 2024 09:52:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>France police arrested Telegram CEO Pavel Durov</title>
-      <link>https://securityaffairs.com/167556/cyber-crime/police-arrested-telegram-ceo-pavel-durov.html</link>
-      <pubDate>Sun, 25 Aug 2024 08:34:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 8</title>
-      <link>https://securityaffairs.com/167525/malware/security-affairs-malware-newsletter-round-8.html</link>
-      <pubDate>Sun, 25 Aug 2024 08:12:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 486 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/167519/breaking-news/security-affairs-newsletter-round-486-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 25 Aug 2024 07:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Versa Director bug to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/167534/hacking/cisa-adds-versa-director-bug-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Sun, 25 Aug 2024 07:11:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telegram Founder Pavel Durov Arrested in France for Content Moderation Failures</title>
-      <link>https://thehackernews.com/2024/08/telegram-founder-pavel-durov-arrested.html</link>
-      <pubDate>Sun, 25 Aug 2024 05:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
