@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 01:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 02:39:12 +0000</lastBuildDate>
     <item>
       <title>Vega-Lite with Kibana to Parse and Display IP Activity over Time, (Tue, Aug 27th)</title>
       <link>https://isc.sans.edu/diary/rss/31210</link>
       <pubDate>Wed, 28 Aug 2024 00:34:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 28, 2024</title>
+      <link>https://asec.ahnlab.com/en/82685/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 5, August 2024</title>
@@ -26,21 +31,6 @@
       <title>China-linked APT Volt Typhoon exploited a zero-day in Versa Director</title>
       <link>https://securityaffairs.com/167658/apt/volt-typhoon-versa-director-zero-day.html</link>
       <pubDate>Tue, 27 Aug 2024 19:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s Volt Typhoon reportedly targets US internet providers using Versa zero-day</title>
-      <link>https://therecord.media/versa-zero-day-volt-typhoon-china</link>
-      <pubDate>Tue, 27 Aug 2024 17:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>US offers $2.5 million reward for information on Belarusian hacker</title>
-      <link>https://therecord.media/state-department-reward-for-information-on-belarussian-hacker-kadariya</link>
-      <pubDate>Tue, 27 Aug 2024 17:27:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Marshals say data posted by ransomware gang not from 'new or undisclosed incident'</title>
-      <link>https://therecord.media/marshals-service-data-posted-ransomware-gang</link>
-      <pubDate>Tue, 27 Aug 2024 17:18:59 +0000</pubDate>
     </item>
     <item>
       <title>Attack tool update impairs Windows computers</title>
@@ -83,11 +73,6 @@
       <pubDate>Tue, 27 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Internet outages spread across Ukraine following Russian air strikes on critical infrastructure</title>
-      <link>https://therecord.media/internet-outages-ukraine-russian-air-strikes</link>
-      <pubDate>Tue, 27 Aug 2024 13:35:12 +0000</pubDate>
-    </item>
-    <item>
       <title>SMS scammers use toll fees as a lure</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/sms-scammers-use-toll-fees-as-a-lure</link>
       <pubDate>Tue, 27 Aug 2024 13:24:24 +0000</pubDate>
@@ -121,11 +106,6 @@
       <title>Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717</link>
       <pubDate>Tue, 27 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abigail Bradshaw picked as new head of Australia’s cyber intelligence agency</title>
-      <link>https://therecord.media/australian-signals-directorate-abigail-bradshaw</link>
-      <pubDate>Tue, 27 Aug 2024 11:55:24 +0000</pubDate>
     </item>
     <item>
       <title>Researchers unmasked the notorious threat actor USDoD</title>
@@ -223,6 +203,11 @@
       <pubDate>Mon, 26 Aug 2024 17:20:59 +0000</pubDate>
     </item>
     <item>
+      <title>How Microsoft Entra ID supports US government agencies in meeting identity security requirements</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/08/26/how-microsoft-entra-id-supports-us-government-agencies-in-meeting-identity-security-requirements/</link>
+      <pubDate>Mon, 26 Aug 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Newly Discovered Group Offers CAPTCHA-Solving Services to Cybercriminals</title>
       <link>https://www.infosecurity-magazine.com/news/captcha-solving-cybercriminals/</link>
       <pubDate>Mon, 26 Aug 2024 15:00:00 +0000</pubDate>
@@ -306,6 +291,21 @@
       <title>A week in security (August 19 – August 25)</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/a-week-in-security-august-19-august-25</link>
       <pubDate>Mon, 26 Aug 2024 07:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Highly Obfuscated Batch File to XWorm and Redline, (Mon, Aug 26th)</title>
+      <link>https://isc.sans.edu/diary/rss/31204</link>
+      <pubDate>Mon, 26 Aug 2024 07:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux malware sedexp uses udev rules for persistence and evasion</title>
+      <link>https://securityaffairs.com/167567/malware/linux-malware-sedexp.html</link>
+      <pubDate>Mon, 26 Aug 2024 06:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android Malware NGate Steals NFC Data to Clone Contactless Payment Cards</title>
+      <link>https://thehackernews.com/2024/08/new-android-malware-ngate-steals-nfc.html</link>
+      <pubDate>Mon, 26 Aug 2024 04:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
