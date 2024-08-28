@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 04:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 06:25:19 +0000</lastBuildDate>
+    <item>
+      <title>CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports</title>
+      <link>https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html</link>
+      <pubDate>Wed, 28 Aug 2024 05:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical WPML Plugin Flaw Exposes WordPress Sites to Remote Code Execution</title>
+      <link>https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html</link>
+      <pubDate>Wed, 28 Aug 2024 04:14:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, August 28th, 2024 https://isc.sans.edu/podcastdetail/9116, (Wed, Aug 28th)</title>
       <link>https://isc.sans.edu/diary/rss/31212</link>
@@ -36,6 +46,21 @@
       <title>China-linked APT Volt Typhoon exploited a zero-day in Versa Director</title>
       <link>https://securityaffairs.com/167658/apt/volt-typhoon-versa-director-zero-day.html</link>
       <pubDate>Tue, 27 Aug 2024 19:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s Volt Typhoon reportedly targets US internet providers using Versa zero-day</title>
+      <link>https://therecord.media/versa-zero-day-volt-typhoon-china</link>
+      <pubDate>Tue, 27 Aug 2024 17:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>US offers $2.5 million reward for information on Belarusian hacker</title>
+      <link>https://therecord.media/state-department-reward-for-information-on-belarussian-hacker-kadariya</link>
+      <pubDate>Tue, 27 Aug 2024 17:27:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Marshals say data posted by ransomware gang not from 'new or undisclosed incident'</title>
+      <link>https://therecord.media/marshals-service-data-posted-ransomware-gang</link>
+      <pubDate>Tue, 27 Aug 2024 17:18:59 +0000</pubDate>
     </item>
     <item>
       <title>Attack tool update impairs Windows computers</title>
@@ -78,6 +103,11 @@
       <pubDate>Tue, 27 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Internet outages spread across Ukraine following Russian air strikes on critical infrastructure</title>
+      <link>https://therecord.media/internet-outages-ukraine-russian-air-strikes</link>
+      <pubDate>Tue, 27 Aug 2024 13:35:12 +0000</pubDate>
+    </item>
+    <item>
       <title>SMS scammers use toll fees as a lure</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/sms-scammers-use-toll-fees-as-a-lure</link>
       <pubDate>Tue, 27 Aug 2024 13:24:24 +0000</pubDate>
@@ -111,6 +141,11 @@
       <title>Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717</link>
       <pubDate>Tue, 27 Aug 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abigail Bradshaw picked as new head of Australia’s cyber intelligence agency</title>
+      <link>https://therecord.media/australian-signals-directorate-abigail-bradshaw</link>
+      <pubDate>Tue, 27 Aug 2024 11:55:24 +0000</pubDate>
     </item>
     <item>
       <title>Researchers unmasked the notorious threat actor USDoD</title>
@@ -258,54 +293,19 @@
       <pubDate>Mon, 26 Aug 2024 11:00:44 +0000</pubDate>
     </item>
     <item>
-      <title>Researchers Identify Over 20 Supply Chain Vulnerabilities in MLOps Platforms</title>
-      <link>https://thehackernews.com/2024/08/researchers-identify-over-20-supply.html</link>
+      <title>Unpacking Slack Hacks: 6 Ways to Protect Sensitive Data with Secure Collaboration</title>
+      <link>https://thehackernews.com/2024/08/unpacking-slack-hacks-6-ways-to-protect.html</link>
       <pubDate>Mon, 26 Aug 2024 10:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>Unpacking Slack Hacks: 6 Ways to Protect Sensitive Data with Secure Collaboration</title>
-      <link>https://thehackernews.com/2024/08/unpacking-slack-hacks-6-ways-to-protect.html</link>
+      <title>Researchers Identify Over 20 Supply Chain Vulnerabilities in MLOps Platforms</title>
+      <link>https://thehackernews.com/2024/08/researchers-identify-over-20-supply.html</link>
       <pubDate>Mon, 26 Aug 2024 10:31:00 +0000</pubDate>
     </item>
     <item>
       <title>Exploring Android threats and ways to mitigate them | Unlocked 403 cybersecurity podcast (ep.5)</title>
       <link>https://www.welivesecurity.com/en/videos/exploring-android-threats-and-ways-to-mitigate-them-unlocked-403-cybersecurity-podcast-ep5/</link>
       <pubDate>Mon, 26 Aug 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A cyberattack impacted operations at the Port of Seattle and Sea-Tac Airport</title>
-      <link>https://securityaffairs.com/167581/hacking/port-of-seattle-sea-tac-airport-cyberattack.html</link>
-      <pubDate>Mon, 26 Aug 2024 08:22:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Velvet Ant Uses Cisco Zero-Day to Deploy Custom Malware</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-velvet-ant-cisco-0day/</link>
-      <pubDate>Mon, 26 Aug 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Flaws in Traccar GPS System Expose Users to Remote Attacks</title>
-      <link>https://thehackernews.com/2024/08/critical-flaws-in-traccar-gps-system.html</link>
-      <pubDate>Mon, 26 Aug 2024 07:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (August 19 – August 25)</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/08/a-week-in-security-august-19-august-25</link>
-      <pubDate>Mon, 26 Aug 2024 07:21:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Highly Obfuscated Batch File to XWorm and Redline, (Mon, Aug 26th)</title>
-      <link>https://isc.sans.edu/diary/rss/31204</link>
-      <pubDate>Mon, 26 Aug 2024 07:01:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux malware sedexp uses udev rules for persistence and evasion</title>
-      <link>https://securityaffairs.com/167567/malware/linux-malware-sedexp.html</link>
-      <pubDate>Mon, 26 Aug 2024 06:50:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Android Malware NGate Steals NFC Data to Clone Contactless Payment Cards</title>
-      <link>https://thehackernews.com/2024/08/new-android-malware-ngate-steals-nfc.html</link>
-      <pubDate>Mon, 26 Aug 2024 04:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
