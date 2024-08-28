@@ -6,7 +6,67 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 14:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 16:23:01 +0000</lastBuildDate>
+    <item>
+      <title>LummaC2 Infostealer Resurfaces With Obfuscated PowerShell Tactics</title>
+      <link>https://www.infosecurity-magazine.com/news/lummac2-infostealer-obfuscated/</link>
+      <pubDate>Wed, 28 Aug 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel officials say they anticipate more hacking attempts as US election nears</title>
+      <link>https://therecord.media/intel-officials-anticipate-more-hacking-attempts-us-election-trump-harris</link>
+      <pubDate>Wed, 28 Aug 2024 16:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The vulnerabilities we uncovered by fuzzing µC/OS protocol stacks</title>
+      <link>https://blog.talosintelligence.com/fuzzing-uc-os-protocol-stacks/</link>
+      <pubDate>Wed, 28 Aug 2024 16:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fuzzing µCOS protocol stacks, Part 2: Handling multiple requests per test case</title>
+      <link>https://blog.talosintelligence.com/fuzzing-ucos-protocol-stacks-part-2/</link>
+      <pubDate>Wed, 28 Aug 2024 16:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fuzzing µC/OS protocol stacks, Part 1: HTTP server fuzzing</title>
+      <link>https://blog.talosintelligence.com/fuzzing-uc-os-protocol-stacks-part-1/</link>
+      <pubDate>Wed, 28 Aug 2024 16:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fuzzing µC/OS protocol stacks, Part 3: TCP/IP server fuzzing, implementing a TAP driver</title>
+      <link>https://blog.talosintelligence.com/fuzzing-uc-os-protocol-stacks-part-3/</link>
+      <pubDate>Wed, 28 Aug 2024 16:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI: Iran working with ransomware gangs for attacks in US, Azerbaijan, UAE and Israel</title>
+      <link>https://therecord.media/iran-government-working-with-ransomware-hackers-fbi-advisory</link>
+      <pubDate>Wed, 28 Aug 2024 15:55:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Play ransomware hackers claim attack on US manufacturer Microchip Technology</title>
+      <link>https://therecord.media/microchip-technology-hack-play-ransomware</link>
+      <pubDate>Wed, 28 Aug 2024 15:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran-Backed Peach Sandstorm Hackers Deploy New Tickler Backdoor</title>
+      <link>https://www.infosecurity-magazine.com/news/iran-peach-sandstorm-hackers/</link>
+      <pubDate>Wed, 28 Aug 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackByte Ransomware group targets recently patched VMware ESXi flaw CVE-2024-37085</title>
+      <link>https://securityaffairs.com/167695/malware/blackbyte-ransomware-vmware-esxi-flaw.html</link>
+      <pubDate>Wed, 28 Aug 2024 14:39:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Store now, decrypt later’: US leaders prep for quantum cryptography concerns</title>
+      <link>https://therecord.media/us-leaders-prep-for-quantum-cryptography-concerns</link>
+      <pubDate>Wed, 28 Aug 2024 14:19:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT-C-60 Group Exploit WPS Office Flaw to Deploy SpyGlace Backdoor</title>
+      <link>https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html</link>
+      <pubDate>Wed, 28 Aug 2024 13:48:00 +0000</pubDate>
+    </item>
     <item>
       <title>Price Drop: This Complete Ethical Hacking Bundle is Now $40</title>
       <link>https://www.techrepublic.com/article/ethical-hacking-course-bundle/</link>
@@ -23,18 +83,13 @@
       <pubDate>Wed, 28 Aug 2024 12:59:07 +0000</pubDate>
     </item>
     <item>
-      <title>Productivity app Notion to exit Russia, citing US sanctions</title>
-      <link>https://therecord.media/notion-app-leaving-russia-us-sanctions</link>
-      <pubDate>Wed, 28 Aug 2024 12:18:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Labour Party reprimanded over cyberattack backlog by privacy regulator</title>
-      <link>https://therecord.media/labour-party-2021-data-breach-ico-reprimand</link>
-      <pubDate>Wed, 28 Aug 2024 12:10:22 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us</link>
+      <pubDate>Wed, 28 Aug 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Wed, 28 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -121,16 +176,6 @@
       <title>China-linked APT Volt Typhoon exploited a zero-day in Versa Director</title>
       <link>https://securityaffairs.com/167658/apt/volt-typhoon-versa-director-zero-day.html</link>
       <pubDate>Tue, 27 Aug 2024 19:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s Volt Typhoon reportedly targets US internet providers using Versa zero-day</title>
-      <link>https://therecord.media/versa-zero-day-volt-typhoon-china</link>
-      <pubDate>Tue, 27 Aug 2024 17:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>US offers $2.5 million reward for information on Belarusian hacker</title>
-      <link>https://therecord.media/state-department-reward-for-information-on-belarussian-hacker-kadariya</link>
-      <pubDate>Tue, 27 Aug 2024 17:27:01 +0000</pubDate>
     </item>
     <item>
       <title>Attack tool update impairs Windows computers</title>
@@ -261,51 +306,6 @@
       <title>16-31 May 2024 Cyber Attacks Timeline</title>
       <link>https://www.hackmageddon.com/2024/08/27/16-31-may-2024-cyber-attacks-timeline/</link>
       <pubDate>Tue, 27 Aug 2024 09:25:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Third of Organizations Suffer SaaS Data Breaches</title>
-      <link>https://www.infosecurity-magazine.com/news/third-organizations-saas-data/</link>
-      <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Old devices, new dangers: The risks of unsupported IoT tech</title>
-      <link>https://www.welivesecurity.com/en/internet-of-things/old-devices-new-dangers-the-risks-of-unsupported-iot-tech/</link>
-      <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nearly 1/3 of Companies Suffered a SaaS Data Breach in Last Year</title>
-      <link>https://www.techrepublic.com/article/appomni-saas-security-report/</link>
-      <pubDate>Tue, 27 Aug 2024 07:01:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft 365 Copilot</title>
-      <link>https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html</link>
-      <pubDate>Tue, 27 Aug 2024 06:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Warns of CVE-2024-7965 Chrome Security Flaw Under Active Exploitation</title>
-      <link>https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html</link>
-      <pubDate>Tue, 27 Aug 2024 04:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Dutch Data Protection Authority (DPA) has fined Uber a record €290M</title>
-      <link>https://securityaffairs.com/167606/digital-id/dutch-dpa-fined-uber-e290m.html</link>
-      <pubDate>Tue, 27 Aug 2024 03:12:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, August 27th, 2024 https://isc.sans.edu/podcastdetail/9114, (Tue, Aug 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/31206</link>
-      <pubDate>Tue, 27 Aug 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 27, 2024</title>
-      <link>https://asec.ahnlab.com/en/82676/</link>
-      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google addressed the tenth actively exploited Chrome zero-day this year</title>
-      <link>https://securityaffairs.com/167631/hacking/10th-google-chrome-zero-day-this-year.html</link>
-      <pubDate>Mon, 26 Aug 2024 22:57:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
