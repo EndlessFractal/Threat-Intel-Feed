@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 20:19:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 22:16:38 +0000</lastBuildDate>
+    <item>
+      <title>U.S. CISA adds Google Chromium V8 bug to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/167722/security/u-s-cisa-adds-google-chromium-v8-bug-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 28 Aug 2024 21:01:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Young Consulting data breach impacts 954,177 individuals</title>
+      <link>https://securityaffairs.com/167714/data-breach/blacksuit-group-attack-young-consulting.html</link>
+      <pubDate>Wed, 28 Aug 2024 20:17:08 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco: BlackByte ransomware gang only posting 20% to 30% of successful attacks</title>
       <link>https://therecord.media/blackbyte-ransomware-group-posting-fraction-of-leaks</link>
@@ -71,6 +81,11 @@
       <title>Iran-Backed Peach Sandstorm Hackers Deploy New Tickler Backdoor</title>
       <link>https://www.infosecurity-magazine.com/news/iran-peach-sandstorm-hackers/</link>
       <pubDate>Wed, 28 Aug 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peach Sandstorm deploys new custom Tickler malware in long-running intelligence gathering operations</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/08/28/peach-sandstorm-deploys-new-custom-tickler-malware-in-long-running-intelligence-gathering-operations/</link>
+      <pubDate>Wed, 28 Aug 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>BlackByte Ransomware group targets recently patched VMware ESXi flaw CVE-2024-37085</title>
@@ -291,21 +306,6 @@
       <title>The Present and Future of TV Surveillance</title>
       <link>https://www.schneier.com/blog/archives/2024/08/the-present-and-future-of-tv-surveillance.html</link>
       <pubDate>Tue, 27 Aug 2024 11:08:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Is Python so Popular to Infect Windows Hosts?, (Tue, Aug 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/31208</link>
-      <pubDate>Tue, 27 Aug 2024 10:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>PEAKLIGHT Malware Detection: New Stealthy Downloader Leveraged in Attacks Against Windows Systems</title>
-      <link>https://socprime.com/blog/peaklight-malware-detection/</link>
-      <pubDate>Tue, 27 Aug 2024 10:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>HZ Rat backdoor for macOS attacks users of China’s DingTalk and WeChat</title>
-      <link>https://securelist.com/hz-rat-attacks-wechat-and-dingtalk/113513/</link>
-      <pubDate>Tue, 27 Aug 2024 10:00:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
