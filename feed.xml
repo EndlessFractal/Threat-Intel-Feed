@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Aug 2024 22:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 01:20:53 +0000</lastBuildDate>
+    <item>
+      <title>Vega-Lite with Kibana to Parse and Display IP Activity over Time, (Tue, Aug 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/31210</link>
+      <pubDate>Wed, 28 Aug 2024 00:34:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 5, August 2024</title>
+      <link>https://asec.ahnlab.com/en/82678/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Critical flaw in WPML WordPress plugin impacts 1M websites</title>
       <link>https://securityaffairs.com/167673/hacking/wpml-wordpress-plugin-rce-1m-websites.html</link>
@@ -158,6 +168,11 @@
       <pubDate>Tue, 27 Aug 2024 09:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>16-31 May 2024 Cyber Attacks Timeline</title>
+      <link>https://www.hackmageddon.com/2024/08/27/16-31-may-2024-cyber-attacks-timeline/</link>
+      <pubDate>Tue, 27 Aug 2024 09:25:49 +0000</pubDate>
+    </item>
+    <item>
       <title>A Third of Organizations Suffer SaaS Data Breaches</title>
       <link>https://www.infosecurity-magazine.com/news/third-organizations-saas-data/</link>
       <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>A week in security (August 19 – August 25)</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/a-week-in-security-august-19-august-25</link>
       <pubDate>Mon, 26 Aug 2024 07:21:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Highly Obfuscated Batch File to XWorm and Redline, (Mon, Aug 26th)</title>
-      <link>https://isc.sans.edu/diary/rss/31204</link>
-      <pubDate>Mon, 26 Aug 2024 07:01:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux malware sedexp uses udev rules for persistence and evasion</title>
-      <link>https://securityaffairs.com/167567/malware/linux-malware-sedexp.html</link>
-      <pubDate>Mon, 26 Aug 2024 06:50:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Android Malware NGate Steals NFC Data to Clone Contactless Payment Cards</title>
-      <link>https://thehackernews.com/2024/08/new-android-malware-ngate-steals-nfc.html</link>
-      <pubDate>Mon, 26 Aug 2024 04:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
