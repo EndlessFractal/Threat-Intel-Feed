@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 12:35:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 14:18:13 +0000</lastBuildDate>
+    <item>
+      <title>California passes landmark bill requiring easier data sharing opt outs for consumers</title>
+      <link>https://therecord.media/california-landmark-opt-out-bill-passes</link>
+      <pubDate>Thu, 29 Aug 2024 14:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unpatched CCTV Cameras Exploited to Spread Mirai Variant</title>
+      <link>https://www.infosecurity-magazine.com/news/unpatched-cctv-cameras-exploited/</link>
+      <pubDate>Thu, 29 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to embrace Secure by Design principles while adopting AI</title>
+      <link>https://securityintelligence.com/posts/how-to-embrace-secure-by-design-while-adopting-ai/</link>
+      <pubDate>Thu, 29 Aug 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Corona Mirai botnet spreads via AVTECH CCTV zero-day</title>
+      <link>https://securityaffairs.com/167764/malware/corona-mirai-botnet-avtech-cctv-zero-day.html</link>
+      <pubDate>Thu, 29 Aug 2024 12:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Old CCTV cameras provide a fresh opportunity for a Mirai botnet variant</title>
+      <link>https://therecord.media/avtech-zero-day-cctv-cameras-mirai-botnet-variant</link>
+      <pubDate>Thu, 29 Aug 2024 12:40:50 +0000</pubDate>
+    </item>
     <item>
       <title>Surge in New Scams as Pig Butchering Dominates</title>
       <link>https://www.infosecurity-magazine.com/news/surge-new-scams-pig-butchering/</link>
@@ -113,6 +138,11 @@
       <pubDate>Thu, 29 Aug 2024 00:18:13 +0000</pubDate>
     </item>
     <item>
+      <title>H1 2024 Check Fraud Report: Geographic Trends and Threat Actor Patterns</title>
+      <link>https://www.recordedfuture.com/research/h1-2024-check-fraud-report</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dell Product Security Update Advisory (CVE-2024-39584)</title>
       <link>https://asec.ahnlab.com/en/82728/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
@@ -168,11 +198,6 @@
       <pubDate>Wed, 28 Aug 2024 20:12:42 +0000</pubDate>
     </item>
     <item>
-      <title>Telegram CEO's arrest sparks flurry of questions over motivation, privacy impact</title>
-      <link>https://therecord.media/telegram-ceo-arrest-flurry-of-questions-pavel-durov</link>
-      <pubDate>Wed, 28 Aug 2024 18:59:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CODAC Behavioral Healthcare, US Marshalls are latest ransomware targets</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/codac-behavioral-healthcare-us-marshalls-are-latest-ransomware-targets</link>
       <pubDate>Wed, 28 Aug 2024 17:36:41 +0000</pubDate>
@@ -191,11 +216,6 @@
       <title>Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability</title>
       <link>https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html</link>
       <pubDate>Wed, 28 Aug 2024 16:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intel officials say they anticipate more hacking attempts as US election nears</title>
-      <link>https://therecord.media/intel-officials-anticipate-more-hacking-attempts-us-election-trump-harris</link>
-      <pubDate>Wed, 28 Aug 2024 16:02:26 +0000</pubDate>
     </item>
     <item>
       <title>The vulnerabilities we uncovered by fuzzing µC/OS protocol stacks</title>
@@ -286,26 +306,6 @@
       <title>South Korean Spies Exploit WPS Office Zero-Day</title>
       <link>https://www.infosecurity-magazine.com/news/south-korean-spies-exploit-wps/</link>
       <pubDate>Wed, 28 Aug 2024 08:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Apache OFBiz bug to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/167676/uncategorized/u-s-cisa-apache-ofbiz-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 28 Aug 2024 07:41:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports</title>
-      <link>https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html</link>
-      <pubDate>Wed, 28 Aug 2024 06:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New QR Code Phishing Campaign Exploits Microsoft Sway to Steal Credentials</title>
-      <link>https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html</link>
-      <pubDate>Wed, 28 Aug 2024 06:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical WPML Plugin Flaw Exposes WordPress Sites to Remote Code Execution</title>
-      <link>https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html</link>
-      <pubDate>Wed, 28 Aug 2024 04:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
