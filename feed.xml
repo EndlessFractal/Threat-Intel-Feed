@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 20:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 22:16:59 +0000</lastBuildDate>
+    <item>
+      <title>Cisco addressed a high-severity flaw in NX-OS software</title>
+      <link>https://securityaffairs.com/167785/security/cisco-high-severity-flaw-nx-os.html</link>
+      <pubDate>Thu, 29 Aug 2024 21:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Exploit Microsoft Sway to Host QR Code Phishing Campaigns</title>
+      <link>https://www.techrepublic.com/article/qr-code-phishing-campaign-targets-microsoft/</link>
+      <pubDate>Thu, 29 Aug 2024 20:42:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>The North American Have I Been Pwned Tour</title>
+      <link>https://www.troyhunt.com/the-north-american-have-i-been-pwned-tour/</link>
+      <pubDate>Thu, 29 Aug 2024 20:28:16 +0000</pubDate>
+    </item>
     <item>
       <title>US agencies warn against ransomware group behind hundreds of attacks in recent months</title>
       <link>https://therecord.media/agencies-warn-against-ransomhub-group</link>
@@ -223,6 +238,11 @@
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ransom &amp; Dark Web Issues Week 5, August 2024</title>
+      <link>https://asec.ahnlab.com/en/82740/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dell Product Security Update Advisory (CVE-2024-39584)</title>
       <link>https://asec.ahnlab.com/en/82728/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
@@ -253,11 +273,6 @@
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 5, August 2024</title>
-      <link>https://asec.ahnlab.com/en/82740/</link>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>When Get-Out-The-Vote Efforts Look Like Phishing</title>
       <link>https://krebsonsecurity.com/2024/08/when-get-out-the-vote-efforts-look-like-phishing/</link>
       <pubDate>Wed, 28 Aug 2024 23:55:17 +0000</pubDate>
@@ -273,6 +288,11 @@
       <pubDate>Wed, 28 Aug 2024 20:17:08 +0000</pubDate>
     </item>
     <item>
+      <title>The art and science behind Microsoft threat hunting: Part 3</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/08/28/the-art-and-science-behind-microsoft-threat-hunting-part-3/</link>
+      <pubDate>Wed, 28 Aug 2024 19:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CODAC Behavioral Healthcare, US Marshalls are latest ransomware targets</title>
       <link>https://www.malwarebytes.com/blog/news/2024/08/codac-behavioral-healthcare-us-marshalls-are-latest-ransomware-targets</link>
       <pubDate>Wed, 28 Aug 2024 17:36:41 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>LummaC2 Infostealer Resurfaces With Obfuscated PowerShell Tactics</title>
       <link>https://www.infosecurity-magazine.com/news/lummac2-infostealer-obfuscated/</link>
       <pubDate>Wed, 28 Aug 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability</title>
-      <link>https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html</link>
-      <pubDate>Wed, 28 Aug 2024 16:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The vulnerabilities we uncovered by fuzzing µC/OS protocol stacks</title>
-      <link>https://blog.talosintelligence.com/fuzzing-uc-os-protocol-stacks/</link>
-      <pubDate>Wed, 28 Aug 2024 16:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fuzzing µCOS protocol stacks, Part 2: Handling multiple requests per test case</title>
-      <link>https://blog.talosintelligence.com/fuzzing-ucos-protocol-stacks-part-2/</link>
-      <pubDate>Wed, 28 Aug 2024 16:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fuzzing µC/OS protocol stacks, Part 1: HTTP server fuzzing</title>
-      <link>https://blog.talosintelligence.com/fuzzing-uc-os-protocol-stacks-part-1/</link>
-      <pubDate>Wed, 28 Aug 2024 16:00:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
