@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 16:22:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 18:24:17 +0000</lastBuildDate>
+    <item>
+      <title>What kind of summer has it been?</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-aug-28-2024/</link>
+      <pubDate>Thu, 29 Aug 2024 18:00:38 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean Hackers Launch New Wave of npm Package Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/north-korea-launch-npm-package/</link>
@@ -53,6 +58,11 @@
       <pubDate>Thu, 29 Aug 2024 15:04:20 +0000</pubDate>
     </item>
     <item>
+      <title>#StopRansomware: RansomHub Ransomware</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-242a</link>
+      <pubDate>Thu, 29 Aug 2024 14:13:11 +0000</pubDate>
+    </item>
+    <item>
       <title>California passes landmark bill requiring easier data sharing opt outs for consumers</title>
       <link>https://therecord.media/california-landmark-opt-out-bill-passes</link>
       <pubDate>Thu, 29 Aug 2024 14:10:18 +0000</pubDate>
@@ -90,6 +100,11 @@
     <item>
       <title>Rockwell Automation ThinManager ThinServer</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-242-01</link>
+      <pubDate>Thu, 29 Aug 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and Partners Release Advisory on RansomHub Ransomware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware</link>
       <pubDate>Thu, 29 Aug 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>Fuzzing µC/OS protocol stacks, Part 3: TCP/IP server fuzzing, implementing a TAP driver</title>
       <link>https://blog.talosintelligence.com/fuzzing-uc-os-protocol-stacks-part-3/</link>
       <pubDate>Wed, 28 Aug 2024 16:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-Backed Peach Sandstorm Hackers Deploy New Tickler Backdoor</title>
-      <link>https://www.infosecurity-magazine.com/news/iran-peach-sandstorm-hackers/</link>
-      <pubDate>Wed, 28 Aug 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peach Sandstorm deploys new custom Tickler malware in long-running intelligence gathering operations</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/08/28/peach-sandstorm-deploys-new-custom-tickler-malware-in-long-running-intelligence-gathering-operations/</link>
-      <pubDate>Wed, 28 Aug 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BlackByte Ransomware group targets recently patched VMware ESXi flaw CVE-2024-37085</title>
-      <link>https://securityaffairs.com/167695/malware/blackbyte-ransomware-vmware-esxi-flaw.html</link>
-      <pubDate>Wed, 28 Aug 2024 14:39:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
