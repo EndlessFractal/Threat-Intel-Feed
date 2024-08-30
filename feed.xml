@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Aug 2024 01:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 02:41:38 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Friday, August 30th, 2024 https://isc.sans.edu/podcastdetail/9120, (Fri, Aug 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/31222</link>
+      <pubDate>Fri, 30 Aug 2024 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simulating Traffic With Scapy, (Fri, Aug 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/31216</link>
+      <pubDate>Fri, 30 Aug 2024 00:01:35 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco addressed a high-severity flaw in NX-OS software</title>
       <link>https://securityaffairs.com/167785/security/cisco-high-severity-flaw-nx-os.html</link>
@@ -183,6 +193,11 @@
       <pubDate>Thu, 29 Aug 2024 10:59:09 +0000</pubDate>
     </item>
     <item>
+      <title>May 2024 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2024/08/29/may-2024-cyber-attacks-statistics/</link>
+      <pubDate>Thu, 29 Aug 2024 10:49:37 +0000</pubDate>
+    </item>
+    <item>
       <title>The Emerging Dynamics of Deepfake Scam Campaigns on the Web</title>
       <link>https://unit42.paloaltonetworks.com/dynamics-of-deepfake-scams/</link>
       <pubDate>Thu, 29 Aug 2024 10:00:23 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Ransomware Attacks Exposed 6.7 Million Records in US Schools</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-exposed-67m-records/</link>
       <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LummaC2 Infostealer Resurfaces With Obfuscated PowerShell Tactics</title>
-      <link>https://www.infosecurity-magazine.com/news/lummac2-infostealer-obfuscated/</link>
-      <pubDate>Wed, 28 Aug 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability</title>
-      <link>https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html</link>
-      <pubDate>Wed, 28 Aug 2024 16:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The vulnerabilities we uncovered by fuzzing µC/OS protocol stacks</title>
-      <link>https://blog.talosintelligence.com/fuzzing-uc-os-protocol-stacks/</link>
-      <pubDate>Wed, 28 Aug 2024 16:00:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
