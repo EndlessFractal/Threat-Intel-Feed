@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Sep 2024 14:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 16:21:56 +0000</lastBuildDate>
+    <item>
+      <title>Wireshark 4.4: Converting Display Filters to BPF Capture Filters, (Sun, Sep 1st)</title>
+      <link>https://isc.sans.edu/diary/rss/31224</link>
+      <pubDate>Sun, 01 Sep 2024 14:56:40 +0000</pubDate>
+    </item>
     <item>
       <title>An air transport security system flaw allowed to bypass airport security screenings</title>
       <link>https://securityaffairs.com/167862/hacking/air-transport-security-systems-critical-flaw.html</link>
@@ -301,11 +306,6 @@
       <title>CISA Releases Three Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories</link>
       <pubDate>Thu, 29 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telegram CEO Pavel Durov charged with allowing criminal activity</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/08/telegram-ceo-pavel-durov-charged-with-allowing-criminal-activity</link>
-      <pubDate>Thu, 29 Aug 2024 11:46:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
