@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Sep 2024 01:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 02:44:39 +0000</lastBuildDate>
     <item>
       <title>Wireshark 4.4: Converting Display Filters to BPF Capture Filters, (Sun, Sep 1st)</title>
       <link>https://isc.sans.edu/diary/rss/31224</link>
@@ -38,6 +38,11 @@
       <pubDate>Sun, 01 Sep 2024 06:22:41 +0000</pubDate>
     </item>
     <item>
+      <title>September 01, 2024</title>
+      <link>https://asec.ahnlab.com/en/82754/</link>
+      <pubDate>Sun, 01 Sep 2024 04:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>North Korea-linked APT Citrine Sleet exploit Chrome zero-day to deliver FudModule rootkit</title>
       <link>https://securityaffairs.com/167848/breaking-news/north-korea-linked-apt-exploited-chrome-zero-day-cve-2024-7971.html</link>
       <pubDate>Sat, 31 Aug 2024 18:15:55 +0000</pubDate>
@@ -51,6 +56,11 @@
       <title>Wireshark 4.4.0 is now available, (Sat, Aug 31st)</title>
       <link>https://isc.sans.edu/diary/rss/31220</link>
       <pubDate>Sat, 31 Aug 2024 05:56:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 31, 2024</title>
+      <link>https://asec.ahnlab.com/en/82752/</link>
+      <pubDate>Sat, 31 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Friday Squid Blogging: Economic Fallout from Falklands Halting Squid Fishing</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Rockwell Automation ThinManager ThinServer</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-242-01</link>
-      <pubDate>Thu, 29 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and Partners Release Advisory on RansomHub Ransomware</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware</link>
-      <pubDate>Thu, 29 Aug 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Three Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories</link>
       <pubDate>Thu, 29 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
