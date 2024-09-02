@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Sep 2024 08:24:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 10:19:36 +0000</lastBuildDate>
+    <item>
+      <title>Spoofed GlobalProtect Used to Deliver Unique WikiLoader Variant</title>
+      <link>https://unit42.paloaltonetworks.com/global-protect-vpn-spoof-distributes-wikiloader/</link>
+      <pubDate>Mon, 02 Sep 2024 10:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Head Mare: adventures of a unicorn in Russia and Belarus</title>
+      <link>https://securelist.com/head-mare-hacktivists/113555/</link>
+      <pubDate>Mon, 02 Sep 2024 10:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cicada3301 Ransomware Group Emerges From the Ashes of ALPHV</title>
+      <link>https://www.infosecurity-magazine.com/news/cicada3301-ransomware-group-alphv/</link>
+      <pubDate>Mon, 02 Sep 2024 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinar: Learn to Boost Cybersecurity with AI-Powered Vulnerability Management</title>
+      <link>https://thehackernews.com/2024/09/webinar-learn-to-boost-cybersecurity.html</link>
+      <pubDate>Mon, 02 Sep 2024 08:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IT worker charged over $750,000 cyber extortion plot against former employer</title>
+      <link>https://www.bitdefender.com/blog/hotforsecurity/it-worker-charged-over-750-000-cyber-extortion-plot-against-former-employer/</link>
+      <pubDate>Mon, 02 Sep 2024 08:35:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scores of Organizations Hit By Novel Voldemort Malware</title>
+      <link>https://www.infosecurity-magazine.com/news/scores-organizations-voldemort/</link>
+      <pubDate>Mon, 02 Sep 2024 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>A week in security (August 26 – September 1)</title>
       <link>https://www.malwarebytes.com/blog/news/2024/09/a-week-in-security-august-26-september-1-2</link>
@@ -18,14 +48,14 @@
       <pubDate>Mon, 02 Sep 2024 07:06:29 +0000</pubDate>
     </item>
     <item>
-      <title>Next-Generation Attacks, Same Targets - How to Protect Your Users' Identities</title>
-      <link>https://thehackernews.com/2024/09/next-generation-attacks-same-targets.html</link>
+      <title>TechRepublic Premium Editorial Calendar: Policies, Hiring Kits, and Glossaries for Download</title>
+      <link>https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar-it-policies-checklists-toolkits-and-research-for-download/</link>
       <pubDate>Mon, 02 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>September 02, 2024</title>
-      <link>https://asec.ahnlab.com/en/82756/</link>
-      <pubDate>Mon, 02 Sep 2024 04:00:00 +0000</pubDate>
+      <title>Next-Generation Attacks, Same Targets - How to Protect Your Users' Identities</title>
+      <link>https://thehackernews.com/2024/09/next-generation-attacks-same-targets.html</link>
+      <pubDate>Mon, 02 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Malicious npm Packages Mimicking 'noblox.js' Compromise Roblox Developers’ Systems</title>
@@ -33,9 +63,19 @@
       <pubDate>Mon, 02 Sep 2024 03:36:00 +0000</pubDate>
     </item>
     <item>
+      <title>ManageEngine (Exchange Reporter Plus) Product August 2024 Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82809/</link>
+      <pubDate>Mon, 02 Sep 2024 01:04:59 +0000</pubDate>
+    </item>
+    <item>
       <title>September 02, 2024</title>
       <link>https://asec.ahnlab.com/en/82791/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM Product Security Update Advisory (CVE-2024-39747)</title>
+      <link>https://asec.ahnlab.com/en/82804/</link>
+      <pubDate>Sun, 01 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wireshark 4.4: Converting Display Filters to BPF Capture Filters, (Sun, Sep 1st)</title>
@@ -223,6 +263,26 @@
       <pubDate>Fri, 30 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cisco Family August 2024 First Round Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82806/</link>
+      <pubDate>Fri, 30 Aug 2024 02:26:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ManageEngine (Password Manager Pro, PAM360) Family August 2024 Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82807/</link>
+      <pubDate>Fri, 30 Aug 2024 02:26:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome Browser (128.0.6613.113/.114) Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82802/</link>
+      <pubDate>Fri, 30 Aug 2024 02:26:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82646/</link>
+      <pubDate>Fri, 30 Aug 2024 02:25:11 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Friday, August 30th, 2024 https://isc.sans.edu/podcastdetail/9120, (Fri, Aug 30th)</title>
       <link>https://isc.sans.edu/diary/rss/31222</link>
       <pubDate>Fri, 30 Aug 2024 02:00:02 +0000</pubDate>
@@ -246,66 +306,6 @@
       <title>Threat Actors Exploit Microsoft Sway to Host QR Code Phishing Campaigns</title>
       <link>https://www.techrepublic.com/article/qr-code-phishing-campaign-targets-microsoft/</link>
       <pubDate>Thu, 29 Aug 2024 20:42:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>The North American Have I Been Pwned Tour</title>
-      <link>https://www.troyhunt.com/the-north-american-have-i-been-pwned-tour/</link>
-      <pubDate>Thu, 29 Aug 2024 20:28:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Canva home page leads to browser lock</title>
-      <link>https://www.malwarebytes.com/blog/scams/2024/08/fake-canva-home-page-leads-to-browser-lock</link>
-      <pubDate>Thu, 29 Aug 2024 18:48:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>What kind of summer has it been?</title>
-      <link>https://blog.talosintelligence.com/threat-source-newsletter-aug-28-2024/</link>
-      <pubDate>Thu, 29 Aug 2024 18:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Launch New Wave of npm Package Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/north-korea-launch-npm-package/</link>
-      <pubDate>Thu, 29 Aug 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vietnamese Human Rights Group Targeted in Multi-Year Cyberattack by APT32</title>
-      <link>https://thehackernews.com/2024/08/vietnamese-human-rights-group-targeted.html</link>
-      <pubDate>Thu, 29 Aug 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Exploit Safari and Chrome Flaws in High-Profile Cyberattack</title>
-      <link>https://thehackernews.com/2024/08/russian-hackers-exploit-safari-and.html</link>
-      <pubDate>Thu, 29 Aug 2024 15:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adm. Grace Hopper’s 1982 NSA Lecture Has Been Published</title>
-      <link>https://www.schneier.com/blog/archives/2024/08/adm-grace-hoppers-1982-nsa-lecture-has-been-published.html</link>
-      <pubDate>Thu, 29 Aug 2024 15:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>$2.5 million reward offered for hacker linked to notorious Angler Exploit Kit</title>
-      <link>https://www.tripwire.com/state-of-security/25-million-reward-offered-cyber-criminal-linked-notorious-angler-exploit-kit</link>
-      <pubDate>Thu, 29 Aug 2024 15:31:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>BlackByte Adopts New Tactics, Targets ESXi Hypervisors</title>
-      <link>https://www.infosecurity-magazine.com/news/blackbyte-targets-esxi-hypervisors/</link>
-      <pubDate>Thu, 29 Aug 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Firewall v21 early access is now available</title>
-      <link>https://news.sophos.com/en-us/2024/08/29/sophos-firewall-v21-early-access-is-now-available/</link>
-      <pubDate>Thu, 29 Aug 2024 15:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volt Typhoon Hackers Exploit Zero-Day Vulnerability in Versa Director Servers Used by MSPs, ISPs</title>
-      <link>https://www.techrepublic.com/article/volt-typhoon-exploits-versa-director/</link>
-      <pubDate>Thu, 29 Aug 2024 15:17:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>#StopRansomware: RansomHub Ransomware</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-242a</link>
-      <pubDate>Thu, 29 Aug 2024 14:13:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
