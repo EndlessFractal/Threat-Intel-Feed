@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Sep 2024 06:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 08:24:24 +0000</lastBuildDate>
+    <item>
+      <title>A week in security (August 26 – September 1)</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/09/a-week-in-security-august-26-september-1-2</link>
+      <pubDate>Mon, 02 Sep 2024 08:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new variant of Cicada ransomware targets VMware ESXi systems</title>
+      <link>https://securityaffairs.com/167897/cyber-crime/a-new-variant-of-cicada-ransomware-targets-vmware-esxi-systems.html</link>
+      <pubDate>Mon, 02 Sep 2024 07:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next-Generation Attacks, Same Targets - How to Protect Your Users' Identities</title>
+      <link>https://thehackernews.com/2024/09/next-generation-attacks-same-targets.html</link>
+      <pubDate>Mon, 02 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>September 02, 2024</title>
       <link>https://asec.ahnlab.com/en/82756/</link>
@@ -16,6 +31,11 @@
       <title>Malicious npm Packages Mimicking 'noblox.js' Compromise Roblox Developers’ Systems</title>
       <link>https://thehackernews.com/2024/09/malicious-npm-packages-mimicking.html</link>
       <pubDate>Mon, 02 Sep 2024 03:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 02, 2024</title>
+      <link>https://asec.ahnlab.com/en/82791/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wireshark 4.4: Converting Display Filters to BPF Capture Filters, (Sun, Sep 1st)</title>
@@ -286,26 +306,6 @@
       <title>#StopRansomware: RansomHub Ransomware</title>
       <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-242a</link>
       <pubDate>Thu, 29 Aug 2024 14:13:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unpatched CCTV Cameras Exploited to Spread Mirai Variant</title>
-      <link>https://www.infosecurity-magazine.com/news/unpatched-cctv-cameras-exploited/</link>
-      <pubDate>Thu, 29 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to embrace Secure by Design principles while adopting AI</title>
-      <link>https://securityintelligence.com/posts/how-to-embrace-secure-by-design-while-adopting-ai/</link>
-      <pubDate>Thu, 29 Aug 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Corona Mirai botnet spreads via AVTECH CCTV zero-day</title>
-      <link>https://securityaffairs.com/167764/malware/corona-mirai-botnet-avtech-cctv-zero-day.html</link>
-      <pubDate>Thu, 29 Aug 2024 12:50:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surge in New Scams as Pig Butchering Dominates</title>
-      <link>https://www.infosecurity-magazine.com/news/surge-new-scams-pig-butchering/</link>
-      <pubDate>Thu, 29 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
