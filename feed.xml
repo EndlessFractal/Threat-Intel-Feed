@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Sep 2024 06:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 08:24:44 +0000</lastBuildDate>
+    <item>
+      <title>IT threat evolution in Q2 2024. Non-mobile statistics</title>
+      <link>https://securelist.com/it-threat-evolution-q2-2024-pc-statistics/113683/</link>
+      <pubDate>Tue, 03 Sep 2024 08:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>IT threat evolution in Q2 2024. Mobile statistics</title>
+      <link>https://securelist.com/it-threat-evolution-q2-2024-mobile-statistics/113678/</link>
+      <pubDate>Tue, 03 Sep 2024 08:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>IT threat evolution Q2 2024</title>
+      <link>https://securelist.com/it-threat-evolution-q2-2024/113669/</link>
+      <pubDate>Tue, 03 Sep 2024 08:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Secrets Exposed: Why Your CISO Should Worry About Slack</title>
+      <link>https://thehackernews.com/2024/09/secrets-exposed-why-your-ciso-should.html</link>
+      <pubDate>Tue, 03 Sep 2024 07:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three men plead guilty to running MFA bypass service OTP.Agency</title>
+      <link>https://securityaffairs.com/167958/cyber-crime/otp-agency-operators-pleaded-guilty.html</link>
+      <pubDate>Tue, 03 Sep 2024 07:02:58 +0000</pubDate>
+    </item>
     <item>
       <title>New Flaws in Microsoft macOS Apps Could Allow Hackers to Gain Unrestricted Access</title>
       <link>https://thehackernews.com/2024/09/new-flaws-in-microsoft-macos-apps-could.html</link>
@@ -21,6 +46,21 @@
       <title>Ex-Engineer Charged in Missouri for Failed $750,000 Bitcoin Extortion Attempt</title>
       <link>https://thehackernews.com/2024/09/ex-engineer-charged-in-missouri-for.html</link>
       <pubDate>Tue, 03 Sep 2024 01:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82873/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TP-Link Product Security Update Advisory (CVE-2024-42815)</title>
+      <link>https://asec.ahnlab.com/en/82872/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82871/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>September 03, 2024</title>
@@ -78,7 +118,7 @@
       <pubDate>Mon, 02 Sep 2024 12:52:56 +0000</pubDate>
     </item>
     <item>
-      <title>Verkada Facing $3m Penalty After Hackers Viewed Sensitive Video Footage</title>
+      <title>Verkada Facing Penalty After Hackers Viewed Sensitive Video Footage</title>
       <link>https://www.infosecurity-magazine.com/news/verkada-penalty-hackers-sensitive/</link>
       <pubDate>Mon, 02 Sep 2024 12:45:00 +0000</pubDate>
     </item>
@@ -266,46 +306,6 @@
       <title>Cyberattackers Exploit Google Sheets for Malware Control in Likely Espionage Campaign</title>
       <link>https://thehackernews.com/2024/08/cyberattackers-exploit-google-sheets.html</link>
       <pubDate>Fri, 30 Aug 2024 13:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 35</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-35-6/</link>
-      <pubDate>Fri, 30 Aug 2024 13:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Published Vulnerabilities Surge by 43%</title>
-      <link>https://www.infosecurity-magazine.com/news/published-vulnerabilities-surge/</link>
-      <pubDate>Fri, 30 Aug 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Roundup - Underground</title>
-      <link>https://feeds.fortinet.com/~/903758144/0/fortinet/blog/threat-research~Ransomware-Roundup-Underground</link>
-      <pubDate>Fri, 30 Aug 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Hackers Set Up New Network to Target U.S. Political Campaigns</title>
-      <link>https://thehackernews.com/2024/08/iranian-hackers-set-up-new-network-to.html</link>
-      <pubDate>Fri, 30 Aug 2024 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea-linked group APT-C-60 exploited a WPS Office zero-day</title>
-      <link>https://securityaffairs.com/167825/hacking/apt-c-60-wps-office-zero-day.html</link>
-      <pubDate>Fri, 30 Aug 2024 11:09:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breaking Down AD CS Vulnerabilities: Insights for InfoSec Professionals</title>
-      <link>https://thehackernews.com/2024/08/breaking-down-ad-cs-vulnerabilities.html</link>
-      <pubDate>Fri, 30 Aug 2024 10:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Use Commercial Spyware Exploits to Target Victims</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-hackers-spyware-exploits/</link>
-      <pubDate>Fri, 30 Aug 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Malware Masquerades as Palo Alto VPN Targeting Middle East Users</title>
-      <link>https://thehackernews.com/2024/08/new-malware-masquerades-as-palo-alto.html</link>
-      <pubDate>Fri, 30 Aug 2024 10:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
