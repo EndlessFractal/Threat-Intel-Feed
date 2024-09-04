@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Sep 2024 08:22:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 10:19:19 +0000</lastBuildDate>
+    <item>
+      <title>Mallox ransomware: in-depth analysis and evolution</title>
+      <link>https://securelist.com/mallox-ransomware/113529/</link>
+      <pubDate>Wed, 04 Sep 2024 10:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Initial Access Brokers Target $2bn Revenue Companies</title>
+      <link>https://www.infosecurity-magazine.com/news/initial-access-brokers-2bn-revenue/</link>
+      <pubDate>Wed, 04 Sep 2024 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clearview AI Faces €30.5M Fine for Building Illegal Facial Recognition Database</title>
+      <link>https://thehackernews.com/2024/09/clearview-ai-faces-305m-fine-for.html</link>
+      <pubDate>Wed, 04 Sep 2024 08:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APP Fraud Dominates as Scams Hit All-Time High</title>
+      <link>https://www.infosecurity-magazine.com/news/app-fraud-scams-alltime-high/</link>
+      <pubDate>Wed, 04 Sep 2024 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zyxel fixed critical OS command injection flaw in multiple routers</title>
       <link>https://securityaffairs.com/168020/security/zyxel-os-command-injection-flaw-cve-2024-7261.html</link>
@@ -21,11 +41,6 @@
       <title>ISC Stormcast For Wednesday, September 4th, 2024 https://isc.sans.edu/podcastdetail/9124, (Wed, Sep 4th)</title>
       <link>https://isc.sans.edu/diary/rss/31228</link>
       <pubDate>Wed, 04 Sep 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Product Security Update Advisory (CVE-2024-39420)</title>
-      <link>https://asec.ahnlab.com/en/82915/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 1, September 2024</title>
@@ -60,6 +75,11 @@
     <item>
       <title>Zyxel Product Line Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82919/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Product Security Update Advisory (CVE-2024-39420)</title>
+      <link>https://asec.ahnlab.com/en/82915/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -238,6 +258,11 @@
       <pubDate>Tue, 03 Sep 2024 09:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>In plain sight: Malicious ads hiding in search results</title>
+      <link>https://www.welivesecurity.com/en/malware/in-plain-sight-malicious-ads-hiding-in-search-results/</link>
+      <pubDate>Tue, 03 Sep 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>TfL Claims Cyber-Incident is Not Impacting Services</title>
       <link>https://www.infosecurity-magazine.com/news/tfl-cyberincident-not-impacting/</link>
       <pubDate>Tue, 03 Sep 2024 08:30:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>Ex-Engineer Charged in Missouri for Failed $750,000 Bitcoin Extortion Attempt</title>
       <link>https://thehackernews.com/2024/09/ex-engineer-charged-in-missouri-for.html</link>
       <pubDate>Tue, 03 Sep 2024 01:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsUp Gold product security update advisory</title>
-      <link>https://asec.ahnlab.com/en/82917/</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Identity Product Security Update Advisory (CVE-2024-45488)</title>
-      <link>https://asec.ahnlab.com/en/82914/</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82873/</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TP-Link Product Security Update Advisory (CVE-2024-42815)</title>
-      <link>https://asec.ahnlab.com/en/82872/</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intel Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82871/</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
