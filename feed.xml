@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Sep 2024 02:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 04:22:06 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Thursday, September 5th, 2024 https://isc.sans.edu/podcastdetail/9126, (Thu, Sep 5th)</title>
+      <link>https://isc.sans.edu/diary/rss/31234</link>
+      <pubDate>Thu, 05 Sep 2024 03:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack Surface [Guest Diary], (Wed, Sep 4th)</title>
+      <link>https://isc.sans.edu/diary/rss/31232</link>
+      <pubDate>Thu, 05 Sep 2024 01:15:09 +0000</pubDate>
+    </item>
     <item>
       <title>September 05, 2024</title>
       <link>https://asec.ahnlab.com/en/82931/</link>
@@ -21,6 +31,11 @@
       <title>Google fixed actively exploited Android flaw CVE-2024-32896</title>
       <link>https://securityaffairs.com/168047/mobile-2/google-fixed-actively-exploited-android-flaw-cve-2024-32896.html</link>
       <pubDate>Wed, 04 Sep 2024 22:18:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?</title>
+      <link>https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both</link>
+      <pubDate>Wed, 04 Sep 2024 21:49:09 +0000</pubDate>
     </item>
     <item>
       <title>US indicts two RT employees for alleged Russian disinformation effort</title>
@@ -148,6 +163,11 @@
       <pubDate>Wed, 04 Sep 2024 09:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>The key considerations for cyber insurance: A pragmatic approach</title>
+      <link>https://www.welivesecurity.com/en/business-security/the-key-considerations-for-cyber-insurance-a-pragmatic-approach/</link>
+      <pubDate>Wed, 04 Sep 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Clearview AI Faces €30.5M Fine for Building Illegal Facial Recognition Database</title>
       <link>https://thehackernews.com/2024/09/clearview-ai-faces-305m-fine-for.html</link>
       <pubDate>Wed, 04 Sep 2024 08:43:00 +0000</pubDate>
@@ -173,26 +193,6 @@
       <pubDate>Wed, 04 Sep 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 1, September 2024</title>
-      <link>https://asec.ahnlab.com/en/82913/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Product Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82912/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roundcube Webmail Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/82911/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 04, 2024</title>
-      <link>https://asec.ahnlab.com/en/82895/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenSSL Vulnerability Security Update Advisory (CVE-2024-6119)</title>
       <link>https://asec.ahnlab.com/en/82926/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
@@ -210,6 +210,26 @@
     <item>
       <title>Adobe Product Security Update Advisory (CVE-2024-39420)</title>
       <link>https://asec.ahnlab.com/en/82915/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 1, September 2024</title>
+      <link>https://asec.ahnlab.com/en/82913/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Product Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82912/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roundcube Webmail Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/82911/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 04, 2024</title>
+      <link>https://asec.ahnlab.com/en/82895/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Active Ransomware Groups Surge by 56% in 2024</title>
       <link>https://www.infosecurity-magazine.com/news/active-ransomware-groups-surge/</link>
       <pubDate>Tue, 03 Sep 2024 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto's GlobalProtect VPN Spoofed to Deliver New Malware Variant</title>
-      <link>https://www.infosecurity-magazine.com/news/palo-alto-vpn-spoofed-wikiloader/</link>
-      <pubDate>Tue, 03 Sep 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacktivists Exploits WinRAR Vulnerability in Attacks Against Russia and Belarus</title>
-      <link>https://thehackernews.com/2024/09/hacktivists-exploits-winrar.html</link>
-      <pubDate>Tue, 03 Sep 2024 13:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Rust-Based Ransomware Cicada3301 Targets Windows and Linux Systems</title>
-      <link>https://thehackernews.com/2024/09/new-rust-based-ransomware-cicada3301.html</link>
-      <pubDate>Tue, 03 Sep 2024 13:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerabilities in Microsoft apps for macOS allow stealing permissions</title>
-      <link>https://securityaffairs.com/167973/hacking/microsoft-apps-for-macos-flaws.html</link>
-      <pubDate>Tue, 03 Sep 2024 13:04:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
