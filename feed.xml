@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 14:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 16:24:20 +0000</lastBuildDate>
+    <item>
+      <title>YubiKey Side-Channel Attack</title>
+      <link>https://www.schneier.com/blog/archives/2024/09/yubikey-side-channel-attack.html</link>
+      <pubDate>Fri, 06 Sep 2024 15:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>GeoServer Vulnerability Targeted by Hackers to Deliver Backdoors and Botnet Malware</title>
+      <link>https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html</link>
+      <pubDate>Fri, 06 Sep 2024 15:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Actions Vulnerable to Typosquatting, Exposing Developers to Hidden Malicious Code</title>
+      <link>https://thehackernews.com/2024/09/github-actions-vulnerable-to.html</link>
+      <pubDate>Fri, 06 Sep 2024 15:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Russian authorities able to identify train saboteur from anonymous Telegram account</title>
       <link>https://therecord.media/telegram-russia-train-sabotage-investigation</link>
@@ -253,6 +268,11 @@
       <pubDate>Thu, 05 Sep 2024 10:00:41 +0000</pubDate>
     </item>
     <item>
+      <title>ESET Research Podcast: HotPage</title>
+      <link>https://www.welivesecurity.com/en/podcasts/eset-research-podcast-hotpage/</link>
+      <pubDate>Thu, 05 Sep 2024 09:26:54 +0000</pubDate>
+    </item>
+    <item>
       <title>NIST Cybersecurity Framework (CSF) and CTEM – Better Together</title>
       <link>https://thehackernews.com/2024/09/nist-cybersecurity-framework-csf-and.html</link>
       <pubDate>Thu, 05 Sep 2024 09:19:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Malware Attackers Using MacroPack to Deliver Havoc, Brute Ratel, and PhantomCore</title>
       <link>https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html</link>
       <pubDate>Thu, 05 Sep 2024 07:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Cross-Platform Malware KTLVdoor Discovered in Attack on Chinese Trading Firm</title>
-      <link>https://thehackernews.com/2024/09/new-cross-platform-malware-ktlvdoor.html</link>
-      <pubDate>Thu, 05 Sep 2024 05:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Fixes Two Critical Flaws in Smart Licensing Utility to Prevent Remote Attacks</title>
-      <link>https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html</link>
-      <pubDate>Thu, 05 Sep 2024 04:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, September 5th, 2024 https://isc.sans.edu/podcastdetail/9126, (Thu, Sep 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/31234</link>
-      <pubDate>Thu, 05 Sep 2024 03:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attack Surface [Guest Diary], (Wed, Sep 4th)</title>
-      <link>https://isc.sans.edu/diary/rss/31232</link>
-      <pubDate>Thu, 05 Sep 2024 01:15:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
