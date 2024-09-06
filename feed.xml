@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 06:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 08:23:33 +0000</lastBuildDate>
+    <item>
+      <title>Apache fixed a new remote code execution flaw in Apache OFBiz</title>
+      <link>https://securityaffairs.com/168106/security/apache-ofbiz-rce-cve-2024-45195.html</link>
+      <pubDate>Fri, 06 Sep 2024 08:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-linked GRU Unit 29155 targeted critical infrastructure globally</title>
+      <link>https://securityaffairs.com/168095/cyber-warfare-2/russia-gru-unit-29155-critical-infrastructure.html</link>
+      <pubDate>Fri, 06 Sep 2024 07:09:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Security Flaw Found in LiteSpeed Cache Plugin for WordPress</title>
+      <link>https://thehackernews.com/2024/09/critical-security-flaw-found-in.html</link>
+      <pubDate>Fri, 06 Sep 2024 06:35:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apache OFBiz Update Fixes High-Severity Flaw Leading to Remote Code Execution</title>
       <link>https://thehackernews.com/2024/09/apache-ofbiz-update-fixes-high-severity.html</link>
@@ -253,6 +268,11 @@
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, September 2024</title>
+      <link>https://asec.ahnlab.com/en/82963/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cisco Products September 2024 First Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/82950/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
@@ -273,11 +293,6 @@
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, September 2024</title>
-      <link>https://asec.ahnlab.com/en/82963/</link>
-      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Smashing Security podcast #383: The Godfather club, and AirTags to the rescue</title>
       <link>https://grahamcluley.com/smashing-security-podcast-383/</link>
       <pubDate>Wed, 04 Sep 2024 23:01:12 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?</title>
       <link>https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both</link>
       <pubDate>Wed, 04 Sep 2024 21:49:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Military Cyber Actors Target US and Global Critical Infrastructure</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a</link>
-      <pubDate>Wed, 04 Sep 2024 19:57:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Cyber Attack: Fox Kitten Facilitates Ransomware in US</title>
-      <link>https://www.techrepublic.com/article/iran-cyber-attack-fox-kitten/</link>
-      <pubDate>Wed, 04 Sep 2024 17:01:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Hello pervert” sextortion scam includes new threat of Pegasus—and a picture of your home</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/09/hello-pervert-sextortion-scam-includes-new-threat-of-pegasus-and-a-picture-of-your-home</link>
-      <pubDate>Wed, 04 Sep 2024 16:52:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
