@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Sep 2024 12:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 14:15:24 +0000</lastBuildDate>
+    <item>
+      <title>Python &amp; Notepad++, (Sat, Sep 7th)</title>
+      <link>https://isc.sans.edu/diary/rss/31240</link>
+      <pubDate>Sat, 07 Sep 2024 13:11:33 +0000</pubDate>
+    </item>
     <item>
       <title>A flaw in WordPress LiteSpeed Cache Plugin allows account takeover</title>
       <link>https://securityaffairs.com/168145/security/litespeed-cache-plugin-wordpress-flaw.html</link>
@@ -301,11 +306,6 @@
       <title>FBI, CISA, NSA, and US and International Partners Release Advisory on Russian Military Cyber Actors Targeting US and Global Critical Infrastructure</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/09/05/fbi-cisa-nsa-and-us-and-international-partners-release-advisory-russian-military-cyber-actors</link>
       <pubDate>Thu, 05 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researcher Finds Unfixable Yet Tricky to Exploit Flaw in Yubikeys</title>
-      <link>https://www.infosecurity-magazine.com/news/researcher-vulnerability-yubikeys/</link>
-      <pubDate>Thu, 05 Sep 2024 11:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
