@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 14:19:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 16:23:49 +0000</lastBuildDate>
+    <item>
+      <title>Technology Causes “Digital Entropy” as Firms Struggle With Governance</title>
+      <link>https://www.infosecurity-magazine.com/news/tech-causes-digital-entropy/</link>
+      <pubDate>Mon, 09 Sep 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predator spyware operation is back with a new infrastructure</title>
+      <link>https://securityaffairs.com/168222/intelligence/predator-spyware-new-infrastructure.html</link>
+      <pubDate>Mon, 09 Sep 2024 15:54:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Official: DHS cyber review board will announce next investigation ‘soon’</title>
+      <link>https://therecord.media/dhs-cyber-safety-review-board-new-investigation-coming-soon</link>
+      <pubDate>Mon, 09 Sep 2024 15:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>DDoS Attacks Double With Governments Most Targeted</title>
+      <link>https://www.infosecurity-magazine.com/news/ddos-attacks-double-govt-targeted/</link>
+      <pubDate>Mon, 09 Sep 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Spending Is Slowing With the Economy</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cybersecurity-spending-is-slowing-with-the-economy</link>
+      <pubDate>Mon, 09 Sep 2024 15:09:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber-Attack on Payment Gateway Exposes 1.7 Million Credit Card Details</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-attack-exposes-credit-card/</link>
+      <pubDate>Mon, 09 Sep 2024 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poland dismantles cyber sabotage group linked to Russia, Belarus</title>
+      <link>https://therecord.media/poland-dismantles-cyber-sabotage-group-russia-belarus</link>
+      <pubDate>Mon, 09 Sep 2024 14:25:46 +0000</pubDate>
+    </item>
     <item>
       <title>Man Charged in AI-Generated Music Fraud on Spotify and Apple Music</title>
       <link>https://www.infosecurity-magazine.com/news/man-charged-ai-fake-music-scheme/</link>
@@ -46,6 +81,11 @@
       <title>Surfshark vs NordVPN (2024): Which VPN Should You Choose?</title>
       <link>https://www.techrepublic.com/article/surfshark-vs-nordvpn/</link>
       <pubDate>Mon, 09 Sep 2024 12:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/09/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Mon, 09 Sep 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wireshark 4.4's IP Address Functions, (Mon, Sep 9th)</title>
@@ -133,6 +173,11 @@
       <pubDate>Mon, 09 Sep 2024 02:50:06 +0000</pubDate>
     </item>
     <item>
+      <title>Intel Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83045/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Apache OFBiz Product Security Update Advisory (CVE-2024-45195)</title>
       <link>https://asec.ahnlab.com/en/83038/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
@@ -160,11 +205,6 @@
     <item>
       <title>September 09, 2024</title>
       <link>https://asec.ahnlab.com/en/83019/</link>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intel Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83045/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -258,21 +298,6 @@
       <pubDate>Fri, 06 Sep 2024 19:28:46 +0000</pubDate>
     </item>
     <item>
-      <title>YouTube removes Tenet Media channel over alleged ties to Russian disinformation effort</title>
-      <link>https://therecord.media/youtube-removes-tenet-media-russian-ties</link>
-      <pubDate>Fri, 06 Sep 2024 19:22:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall warns that SonicOS bug exploited in attacks</title>
-      <link>https://securityaffairs.com/168112/hacking/sonicwall-sonicos-bug-exploited.html</link>
-      <pubDate>Fri, 06 Sep 2024 18:59:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>In latest check-in, spy agencies describe 'ramp up' in election influence</title>
-      <link>https://therecord.media/election-interference-odni-briefing</link>
-      <pubDate>Fri, 06 Sep 2024 18:23:21 +0000</pubDate>
-    </item>
-    <item>
       <title>SonicWall Urges Users to Patch Critical Firewall Flaw Amid Possible Exploitation</title>
       <link>https://thehackernews.com/2024/09/sonicwall-urges-users-to-patch-critical.html</link>
       <pubDate>Fri, 06 Sep 2024 15:55:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>YubiKey Side-Channel Attack</title>
       <link>https://www.schneier.com/blog/archives/2024/09/yubikey-side-channel-attack.html</link>
       <pubDate>Fri, 06 Sep 2024 15:16:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>GeoServer Vulnerability Targeted by Hackers to Deliver Backdoors and Botnet Malware</title>
-      <link>https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html</link>
-      <pubDate>Fri, 06 Sep 2024 15:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Actions Vulnerable to Typosquatting, Exposing Developers to Hidden Malicious Code</title>
-      <link>https://thehackernews.com/2024/09/github-actions-vulnerable-to.html</link>
-      <pubDate>Fri, 06 Sep 2024 15:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spyware Vendors' Nebulous Ecosystem Helps Them Evade Sanctions</title>
-      <link>https://www.infosecurity-magazine.com/news/spyware-ecosystem-evade-sanctions/</link>
-      <pubDate>Fri, 06 Sep 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 36</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-36-6/</link>
-      <pubDate>Fri, 06 Sep 2024 13:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>How cyber criminals are compromising AI software supply chains</title>
-      <link>https://securityintelligence.com/articles/cyber-criminals-compromising-ai-software-supply-chains/</link>
-      <pubDate>Fri, 06 Sep 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
