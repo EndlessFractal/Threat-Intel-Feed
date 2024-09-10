@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Sep 2024 18:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 20:19:54 +0000</lastBuildDate>
+    <item>
+      <title>Quad7 botnet evolves to more stealthy tactics to evade detection</title>
+      <link>https://securityaffairs.com/168250/malware/quad7-botnet-evolves.html</link>
+      <pubDate>Tue, 10 Sep 2024 20:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four zero-days included in group of 79 vulnerabilities Microsoft discloses, including one with 9.8 severity score</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-september-2024/</link>
+      <pubDate>Tue, 10 Sep 2024 19:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall v21: Third-party threat feeds</title>
+      <link>https://news.sophos.com/en-us/2024/09/10/sophos-firewall-v21-third-party-threat-feeds/</link>
+      <pubDate>Tue, 10 Sep 2024 18:54:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft September 2024 Patch Tuesday, (Tue, Sep 10th)</title>
+      <link>https://isc.sans.edu/diary/rss/31254</link>
+      <pubDate>Tue, 10 Sep 2024 17:59:45 +0000</pubDate>
+    </item>
     <item>
       <title>Feds say ‘Terrorgram’ white supremacists used Telegram to incite attacks</title>
       <link>https://therecord.media/feds-terrorgram-white-supremacists-telegram</link>
@@ -113,6 +133,21 @@
       <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Citrix Releases Security Updates for Citrix Workspace App for Windows</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/10/citrix-releases-security-updates-citrix-workspace-app-windows</link>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/10/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases September 2024 Security Updates</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/10/microsoft-releases-september-2024-security-updates</link>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Releases Four Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/09/10/cisa-releases-four-industrial-control-systems-advisories</link>
       <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
@@ -123,8 +158,8 @@
       <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Citrix Releases Security Updates for Citrix Workspace App for Windows</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/10/citrix-releases-security-updates-citrix-workspace-app-windows</link>
+      <title>Cisco Releases Security Updates for Cisco Smart Licensing Utility</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/10/cisco-releases-security-updates-cisco-smart-licensing-utility</link>
       <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -193,6 +228,11 @@
       <pubDate>Tue, 10 Sep 2024 03:20:05 +0000</pubDate>
     </item>
     <item>
+      <title>Dell Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83087/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>IBM Product Security Update Advisory (CVE-2024-40681)</title>
       <link>https://asec.ahnlab.com/en/83086/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
@@ -200,11 +240,6 @@
     <item>
       <title>September 10, 2024</title>
       <link>https://asec.ahnlab.com/en/83079/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dell Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83087/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -271,41 +306,6 @@
       <title>PinnacleOne ExecBrief | Volt Typhoon’s Winds Pick Up Speed</title>
       <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-volt-typhoons-winds-pick-up-speed/</link>
       <pubDate>Mon, 09 Sep 2024 13:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>One More Tool Will Do It? Reflecting on the CrowdStrike Fallout</title>
-      <link>https://thehackernews.com/2024/09/one-more-tool-will-do-it-reflecting-on.html</link>
-      <pubDate>Mon, 09 Sep 2024 12:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blind Eagle Targets Colombian Insurance Sector with Customized Quasar RAT</title>
-      <link>https://thehackernews.com/2024/09/blind-eagle-targets-colombian-insurance.html</link>
-      <pubDate>Mon, 09 Sep 2024 12:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploit Visual Studio Code in Southeast Asian Cyberattacks</title>
-      <link>https://thehackernews.com/2024/09/chinese-hackers-exploit-visual-studio.html</link>
-      <pubDate>Mon, 09 Sep 2024 12:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surfshark vs NordVPN (2024): Which VPN Should You Choose?</title>
-      <link>https://www.techrepublic.com/article/surfshark-vs-nordvpn/</link>
-      <pubDate>Mon, 09 Sep 2024 12:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/09/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Mon, 09 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wireshark 4.4's IP Address Functions, (Mon, Sep 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/31250</link>
-      <pubDate>Mon, 09 Sep 2024 11:35:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinar: How to Protect Your Company from GenAI Data Leakage Without Losing It’s Productivity Benefits</title>
-      <link>https://thehackernews.com/2024/09/webinar-how-to-protect-your-company.html</link>
-      <pubDate>Mon, 09 Sep 2024 11:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
