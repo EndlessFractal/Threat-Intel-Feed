@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 01:22:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 02:41:51 +0000</lastBuildDate>
+    <item>
+      <title>MS Family September 2024 Routine Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83125/</link>
+      <pubDate>Wed, 11 Sep 2024 00:24:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83138/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FreeBSD Vulnerability Security Update Advisory (CVE-2024-43102)</title>
+      <link>https://asec.ahnlab.com/en/83133/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kibana Security Update Advisory (CVE-2024-37288)</title>
+      <link>https://asec.ahnlab.com/en/83132/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MindsDB Security Update Advisory (CVE-2024-24759)</title>
+      <link>https://asec.ahnlab.com/en/83127/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Product Security Update Advisory (CVE-2024-41856)</title>
+      <link>https://asec.ahnlab.com/en/83126/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, September 2024</title>
       <link>https://asec.ahnlab.com/en/83116/</link>
@@ -258,7 +288,7 @@
       <pubDate>Tue, 10 Sep 2024 03:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>IBM Product Security Update Advisory (CVE-2024-40681)</title>
+      <title>IBM Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83086/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
     </item>
@@ -268,44 +298,14 @@
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Dell Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83087/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Experts demonstrated how to bypass WhatsApp View Once feature</title>
       <link>https://securityaffairs.com/168242/hacking/whatsapp-view-once-privacy-feature.html</link>
       <pubDate>Mon, 09 Sep 2024 23:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Assessment: North Korean Threat Groups</title>
-      <link>https://unit42.paloaltonetworks.com/threat-assessment-north-korean-threat-groups-2024/</link>
-      <pubDate>Mon, 09 Sep 2024 22:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capital One Launches Public Bug Bounty Program with HackerOne</title>
-      <link>https://www.hackerone.com/customer-stories/capital-one-public-bug-bounty</link>
-      <pubDate>Mon, 09 Sep 2024 21:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New RAMBO Attack Uses RAM Radio Signals to Steal Data from Air-Gapped Networks</title>
-      <link>https://thehackernews.com/2024/09/new-rambo-attack-uses-ram-radio-signals.html</link>
-      <pubDate>Mon, 09 Sep 2024 17:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What the arrest of Telegram’s CEO means, with Eva Galperin (Lock and Code S05E19)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2024/09/what-the-arrest-of-telegrams-ceo-means-with-eva-galperin-lock-and-code-s05e19</link>
-      <pubDate>Mon, 09 Sep 2024 16:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Technology Causes “Digital Entropy” as Firms Struggle With Governance</title>
-      <link>https://www.infosecurity-magazine.com/news/tech-causes-digital-entropy/</link>
-      <pubDate>Mon, 09 Sep 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Predator spyware operation is back with a new infrastructure</title>
-      <link>https://securityaffairs.com/168222/intelligence/predator-spyware-new-infrastructure.html</link>
-      <pubDate>Mon, 09 Sep 2024 15:54:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>DDoS Attacks Double With Governments Most Targeted</title>
-      <link>https://www.infosecurity-magazine.com/news/ddos-attacks-double-govt-targeted/</link>
-      <pubDate>Mon, 09 Sep 2024 15:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
