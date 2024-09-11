@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 10:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 12:36:50 +0000</lastBuildDate>
+    <item>
+      <title>Cybersecurity Workforce Gap Rises by 19% Amid Budget Pressures</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-workforce-gap-budget/</link>
+      <pubDate>Wed, 11 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poland's Supreme Court Blocks Pegasus Spyware Probe</title>
+      <link>https://www.infosecurity-magazine.com/news/poland-court-blocks-pegasus/</link>
+      <pubDate>Wed, 11 Sep 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating the Effectiveness of Reward Modeling of Generative AI Systems</title>
+      <link>https://www.schneier.com/blog/archives/2024/09/evaluating-the-effectiveness-of-reward-modeling-of-generative-ai-systems-2.html</link>
+      <pubDate>Wed, 11 Sep 2024 11:03:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Is It So Challenging to Go Passwordless?</title>
+      <link>https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html</link>
+      <pubDate>Wed, 11 Sep 2024 10:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>Phishing Pages Delivered Through Refresh HTTP Response Header</title>
       <link>https://unit42.paloaltonetworks.com/rare-phishing-page-delivery-header-refresh/</link>
@@ -18,8 +38,13 @@
       <pubDate>Wed, 11 Sep 2024 09:55:52 +0000</pubDate>
     </item>
     <item>
+      <title>Developers Beware: Lazarus Group Uses Fake Coding Tests to Spread Malware</title>
+      <link>https://thehackernews.com/2024/09/developers-beware-lazarus-group-uses.html</link>
+      <pubDate>Wed, 11 Sep 2024 09:46:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ivanti fixed a maximum severity flaw in its Endpoint Management software (EPM)</title>
-      <link>https://securityaffairs.com/168286/uncategorized/ivanti-epm-critical-flaws.html</link>
+      <link>https://securityaffairs.com/168286/security/ivanti-epm-critical-flaws.html</link>
       <pubDate>Wed, 11 Sep 2024 09:19:00 +0000</pubDate>
     </item>
     <item>
@@ -63,6 +88,21 @@
       <pubDate>Wed, 11 Sep 2024 00:24:32 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, September 2024</title>
+      <link>https://asec.ahnlab.com/en/83116/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 11, 2024</title>
+      <link>https://asec.ahnlab.com/en/83101/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83138/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FreeBSD Vulnerability Security Update Advisory (CVE-2024-43102)</title>
       <link>https://asec.ahnlab.com/en/83133/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
@@ -80,21 +120,6 @@
     <item>
       <title>Adobe Product Security Update Advisory (CVE-2024-41856)</title>
       <link>https://asec.ahnlab.com/en/83126/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, September 2024</title>
-      <link>https://asec.ahnlab.com/en/83116/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 11, 2024</title>
-      <link>https://asec.ahnlab.com/en/83101/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83138/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -156,6 +181,16 @@
       <title>Highline Public Schools Forced to Close By Cyber-Attack</title>
       <link>https://www.infosecurity-magazine.com/news/highline-schools-cyberattack/</link>
       <pubDate>Tue, 10 Sep 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity for Small Businesses: Challenges and Best Practices</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/cybersecurity-for-small-businesses-challenges-and-best-practices/</link>
+      <pubDate>Tue, 10 Sep 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hiring Kit: Cyber Threat Hunter</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/hiring-kit-cyber-threat-hunter/</link>
+      <pubDate>Tue, 10 Sep 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CosmicBeetle Deploys Custom ScRansom Ransomware, Partnering with RansomHub</title>
@@ -271,41 +306,6 @@
       <title>Cisco Releases Security Updates for Cisco Smart Licensing Utility</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/09/10/cisco-releases-security-updates-cisco-smart-licensing-utility</link>
       <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts Identify 3 Chinese-Linked Clusters Behind Cyberattacks in Southeast Asia</title>
-      <link>https://thehackernews.com/2024/09/experts-identify-3-chinese-linked.html</link>
-      <pubDate>Tue, 10 Sep 2024 11:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shining a Light on Shadow Apps: The Invisible Gateway to SaaS Data Breaches</title>
-      <link>https://thehackernews.com/2024/09/shining-light-on-shadow-apps-invisible.html</link>
-      <pubDate>Tue, 10 Sep 2024 11:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Chrome Zero-Day</title>
-      <link>https://www.schneier.com/blog/archives/2024/09/new-chrome-zero-day.html</link>
-      <pubDate>Tue, 10 Sep 2024 11:04:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>New PIXHELL Attack Exploits LCD Screen Noise to Exfiltrate Data from Air-Gapped Computers</title>
-      <link>https://thehackernews.com/2024/09/new-pixhell-attack-exploits-screen.html</link>
-      <pubDate>Tue, 10 Sep 2024 10:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crimson Palace returns: New Tools, Tactics, and Targets</title>
-      <link>https://news.sophos.com/en-us/2024/09/10/crimson-palace-new-tools-tactics-targets/</link>
-      <pubDate>Tue, 10 Sep 2024 10:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Assessment: Repellent Scorpius, Distributors of Cicada3301 Ransomware</title>
-      <link>https://unit42.paloaltonetworks.com/repellent-scorpius-cicada3301-ransomware/</link>
-      <pubDate>Tue, 10 Sep 2024 10:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mustang Panda Deploys Advanced Malware to Spy on Asia-Pacific Governments</title>
-      <link>https://thehackernews.com/2024/09/mustang-panda-deploys-advanced-malware.html</link>
-      <pubDate>Tue, 10 Sep 2024 09:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
