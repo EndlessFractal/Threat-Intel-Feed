@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 06:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 08:24:40 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Patch Tuesday security updates for September 2024 addressed four actively exploited zero-days</title>
+      <link>https://securityaffairs.com/168279/security/microsoft-patch-tuesday-sept-2024.html</link>
+      <pubDate>Wed, 11 Sep 2024 07:07:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Issues Patches for 79 Flaws, Including 3 Actively Exploited Windows Flaws</title>
+      <link>https://thehackernews.com/2024/09/microsoft-issues-patches-for-79-flaws.html</link>
+      <pubDate>Wed, 11 Sep 2024 06:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Python Libraries Used for Malicious Purposes, (Wed, Sep 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/31248</link>
+      <pubDate>Wed, 11 Sep 2024 06:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Releases Urgent Security Updates for Endpoint Manager Vulnerabilities</title>
+      <link>https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html</link>
+      <pubDate>Wed, 11 Sep 2024 06:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, September 11th, 2024 https://isc.sans.edu/podcastdetail/9134, (Wed, Sep 11th)</title>
       <link>https://isc.sans.edu/diary/rss/31256</link>
@@ -16,11 +36,6 @@
       <title>MS Family September 2024 Routine Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83125/</link>
       <pubDate>Wed, 11 Sep 2024 00:24:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83138/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>FreeBSD Vulnerability Security Update Advisory (CVE-2024-43102)</title>
@@ -50,6 +65,11 @@
     <item>
       <title>September 11, 2024</title>
       <link>https://asec.ahnlab.com/en/83101/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83138/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -243,7 +263,7 @@
       <pubDate>Tue, 10 Sep 2024 11:04:29 +0000</pubDate>
     </item>
     <item>
-      <title>New PIXHELL Attack Exploits Screen Noise to Exfiltrates Data from Air-Gapped Computers</title>
+      <title>New PIXHELL Attack Exploits LCD Screen Noise to Exfiltrate Data from Air-Gapped Computers</title>
       <link>https://thehackernews.com/2024/09/new-pixhell-attack-exploits-screen.html</link>
       <pubDate>Tue, 10 Sep 2024 10:10:00 +0000</pubDate>
     </item>
@@ -286,26 +306,6 @@
       <title>Most Common Cybersecurity Threats to Avoid!</title>
       <link>https://www.techrepublic.com/videos/most-common-cybersecurity-threats-to-avoid/</link>
       <pubDate>Tue, 10 Sep 2024 05:09:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, September 10th, 2024 https://isc.sans.edu/podcastdetail/9132, (Tue, Sep 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/31252</link>
-      <pubDate>Tue, 10 Sep 2024 03:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83086/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 10, 2024</title>
-      <link>https://asec.ahnlab.com/en/83079/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dell Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83087/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
