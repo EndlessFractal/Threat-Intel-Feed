@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 02:41:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 04:24:40 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Wednesday, September 11th, 2024 https://isc.sans.edu/podcastdetail/9134, (Wed, Sep 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/31256</link>
+      <pubDate>Wed, 11 Sep 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>MS Family September 2024 Routine Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83125/</link>
       <pubDate>Wed, 11 Sep 2024 00:24:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, September 2024</title>
+      <link>https://asec.ahnlab.com/en/83116/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 11, 2024</title>
+      <link>https://asec.ahnlab.com/en/83101/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Siemens Product Security Update Advisory</title>
@@ -35,16 +50,6 @@
     <item>
       <title>Adobe Product Security Update Advisory (CVE-2024-41856)</title>
       <link>https://asec.ahnlab.com/en/83126/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, September 2024</title>
-      <link>https://asec.ahnlab.com/en/83116/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 11, 2024</title>
-      <link>https://asec.ahnlab.com/en/83101/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -288,6 +293,11 @@
       <pubDate>Tue, 10 Sep 2024 03:20:05 +0000</pubDate>
     </item>
     <item>
+      <title>Dell Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83087/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>IBM Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83086/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>September 10, 2024</title>
       <link>https://asec.ahnlab.com/en/83079/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dell Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83087/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts demonstrated how to bypass WhatsApp View Once feature</title>
-      <link>https://securityaffairs.com/168242/hacking/whatsapp-view-once-privacy-feature.html</link>
-      <pubDate>Mon, 09 Sep 2024 23:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
