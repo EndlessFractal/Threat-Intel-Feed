@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 22:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 01:22:36 +0000</lastBuildDate>
+    <item>
+      <title>Hygiene, Hygiene, Hygiene! [Guest Diary], (Wed, Sep 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/31260</link>
+      <pubDate>Thu, 12 Sep 2024 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK designates the data center sector part of its ‘Critical National Infrastructure’</title>
+      <link>https://therecord.media/uk-designates-data-centers-critical-infrastructure</link>
+      <pubDate>Wed, 11 Sep 2024 23:01:20 +0000</pubDate>
+    </item>
     <item>
       <title>The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security</title>
       <link>https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings</link>
@@ -66,11 +76,6 @@
       <title>Highline Public Schools school district suspended its activities following a cyberattack</title>
       <link>https://securityaffairs.com/168305/cyber-crime/highline-public-schools-school-district-cyberattack.html</link>
       <pubDate>Wed, 11 Sep 2024 13:58:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Payment-processing company says data breach potentially affected 1.7 million people</title>
-      <link>https://therecord.media/payment-processing-company-data-breach-slim-cd</link>
-      <pubDate>Wed, 11 Sep 2024 13:48:38 +0000</pubDate>
     </item>
     <item>
       <title>RansomHub ransomware gang relies on Kaspersky TDSKiller tool to disable EDR</title>
@@ -168,11 +173,6 @@
       <pubDate>Wed, 11 Sep 2024 00:24:32 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83138/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>FreeBSD Vulnerability Security Update Advisory (CVE-2024-43102)</title>
       <link>https://asec.ahnlab.com/en/83133/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
@@ -200,6 +200,11 @@
     <item>
       <title>September 11, 2024</title>
       <link>https://asec.ahnlab.com/en/83101/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83138/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Your partner “is cheating on you” scam asks you to pay to see proof</title>
       <link>https://www.malwarebytes.com/blog/news/2024/09/your-partner-is-cheating-on-you-scam-asks-you-to-pay-to-see-proof</link>
       <pubDate>Tue, 10 Sep 2024 13:05:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 4 can exploit 87% of one-day vulnerabilities: Is it really that impressive?</title>
-      <link>https://securityintelligence.com/articles/chatgpt4-exploit-87-percent-vulnerabilities-really-impressive/</link>
-      <pubDate>Tue, 10 Sep 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
