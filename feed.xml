@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Sep 2024 16:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 18:25:18 +0000</lastBuildDate>
+    <item>
+      <title>New Linux malware called Hadooken targets Oracle WebLogic servers</title>
+      <link>https://securityaffairs.com/168364/malware/hadooken-targets-oracle-weblogic-servers.html</link>
+      <pubDate>Fri, 13 Sep 2024 18:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>My TedXBillings Talk</title>
+      <link>https://www.schneier.com/blog/archives/2024/09/my-tedxbillings-talk.html</link>
+      <pubDate>Fri, 13 Sep 2024 18:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple seeks dismissal of its NSO Group lawsuit, citing risk of exposing ‘vital security information’</title>
+      <link>https://therecord.media/apple-seeks-dismissal-of-nso-lawsuit-pegasus-spyware</link>
+      <pubDate>Fri, 13 Sep 2024 17:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kawasaki’s European arm restores operation after cyberattack claimed by Ransomhub</title>
+      <link>https://therecord.media/kawasaki-europe-cyberattack-operations-restored</link>
+      <pubDate>Fri, 13 Sep 2024 17:08:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ford seeks patent for conversation-based advertising</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/09/ford-seeks-patent-for-conversation-based-advertising</link>
+      <pubDate>Fri, 13 Sep 2024 16:09:20 +0000</pubDate>
+    </item>
     <item>
       <title>New Android malware targets bank customers in Central Asia</title>
       <link>https://therecord.media/new-android-malware-banking-central-asia</link>
@@ -65,6 +90,16 @@
     <item>
       <title>CISA Releases Analysis of FY23 Risk and Vulnerability Assessments</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-releases-analysis-fy23-risk-and-vulnerability-assessments</link>
+      <pubDate>Fri, 13 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Releases Security Update for Cloud Services Appliance</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/13/ivanti-releases-security-update-cloud-services-appliance</link>
+      <pubDate>Fri, 13 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Fri, 13 Sep 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -143,11 +178,6 @@
       <pubDate>Thu, 12 Sep 2024 17:59:15 +0000</pubDate>
     </item>
     <item>
-      <title>US sanctions Cambodian tycoon for alleged human trafficking to cyber scam centers</title>
-      <link>https://therecord.media/us-sanctions-cambodian-tycoon-cyber-scam-compounds</link>
-      <pubDate>Thu, 12 Sep 2024 17:55:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Cloud Strengthens Backup Service With Untouchable Vaults</title>
       <link>https://www.techrepublic.com/article/google-cloud-vault-backup/</link>
       <pubDate>Thu, 12 Sep 2024 17:09:55 +0000</pubDate>
@@ -166,11 +196,6 @@
       <title>New Android Malware 'Ajina.Banker' Steals Financial Data and Bypasses 2FA via Telegram</title>
       <link>https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html</link>
       <pubDate>Thu, 12 Sep 2024 16:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-linked hackers target Iraqi government in new campaign</title>
-      <link>https://therecord.media/iran-linked-hackers-target-iraq-government</link>
-      <pubDate>Thu, 12 Sep 2024 16:11:22 +0000</pubDate>
     </item>
     <item>
       <title>Urgent: GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Job Execution</title>
@@ -280,31 +305,6 @@
     <item>
       <title>Siemens Mendix Runtime</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-256-05</link>
-      <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINUMERIK ONE, SINUMERIK 840D and SINUMERIK 828D</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-256-02</link>
-      <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation ThinManager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-256-25</link>
-      <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FactoryTalk Batch View</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-256-22</link>
-      <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/12/adobe-releases-security-updates-multiple-products</link>
-      <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Twenty-Five Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/12/cisa-releases-twenty-five-industrial-control-systems-advisories</link>
       <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
