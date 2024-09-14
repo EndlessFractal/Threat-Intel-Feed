@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Sep 2024 14:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 16:21:44 +0000</lastBuildDate>
+    <item>
+      <title>Upcoming Speaking Engagements</title>
+      <link>https://www.schneier.com/blog/archives/2024/09/upcoming-speaking-engagements-40.html</link>
+      <pubDate>Sat, 14 Sep 2024 16:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Ivanti Cloud Services Appliance Vulnerability to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/168398/hacking/u-s-cisa-adds-ivanti-csa-vulnerability-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Sat, 14 Sep 2024 15:45:27 +0000</pubDate>
+    </item>
     <item>
       <title>Ivanti Cloud Service Appliance flaw is being actively exploited in the wild</title>
       <link>https://securityaffairs.com/168388/hacking/ivanti-csa-cve-2024-8190.html</link>
@@ -296,16 +306,6 @@
       <title>How I got started: AI security executive</title>
       <link>https://securityintelligence.com/articles/how-i-got-started-ai-security-executive/</link>
       <pubDate>Thu, 12 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exposed Selenium Grid Servers Targeted for Crypto Mining and Proxyjacking</title>
-      <link>https://thehackernews.com/2024/09/exposed-selenium-grid-servers-targeted.html</link>
-      <pubDate>Thu, 12 Sep 2024 12:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FactoryTalk View Site</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-256-23</link>
-      <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
