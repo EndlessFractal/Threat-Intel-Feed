@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Sep 2024 20:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 22:17:33 +0000</lastBuildDate>
     <item>
       <title>Upcoming Speaking Engagements</title>
       <link>https://www.schneier.com/blog/archives/2024/09/upcoming-speaking-engagements-40.html</link>
@@ -16,6 +16,11 @@
       <title>U.S. CISA adds Ivanti Cloud Services Appliance Vulnerability to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/168398/hacking/u-s-cisa-adds-ivanti-csa-vulnerability-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Sat, 14 Sep 2024 15:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 15, 2024</title>
+      <link>https://asec.ahnlab.com/en/83203/</link>
+      <pubDate>Sat, 14 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ivanti Cloud Service Appliance flaw is being actively exploited in the wild</title>
@@ -204,7 +209,7 @@
     </item>
     <item>
       <title>UK NCA arrested a teenager linked to the attack on Transport for London</title>
-      <link>https://securityaffairs.com/168327/uncategorized/uk-nca-arrested-teenager-transport-for-london-attack.html</link>
+      <link>https://securityaffairs.com/168327/cyber-crime/uk-nca-arrested-teenager-transport-for-london-attack.html</link>
       <pubDate>Thu, 12 Sep 2024 19:49:57 +0000</pubDate>
     </item>
     <item>
@@ -300,11 +305,6 @@
     <item>
       <title>Lazarus Group Targets Developers in Fresh VMConnect Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/lazarus-developers-vmconnect/</link>
-      <pubDate>Thu, 12 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How I got started: AI security executive</title>
-      <link>https://securityintelligence.com/articles/how-i-got-started-ai-security-executive/</link>
       <pubDate>Thu, 12 Sep 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
