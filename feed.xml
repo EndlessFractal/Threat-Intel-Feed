@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Sep 2024 08:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 10:20:51 +0000</lastBuildDate>
+    <item>
+      <title>Meta Goes Ahead With Controversial AI Training in UK</title>
+      <link>https://www.infosecurity-magazine.com/news/meta-controversial-ai-training-uk/</link>
+      <pubDate>Mon, 16 Sep 2024 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>23andMe Agrees to $30m Data Breach Settlement</title>
+      <link>https://www.infosecurity-magazine.com/news/23andme-30m-data-breach-settlement/</link>
+      <pubDate>Mon, 16 Sep 2024 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apple Drops Spyware Case Against NSO Group, Citing Risk of Threat Intelligence Exposure</title>
       <link>https://thehackernews.com/2024/09/apple-drops-spyware-case-against-nso.html</link>
@@ -46,6 +56,11 @@
       <title>YARA-X's Dump Command, (Sun, Sep 15th)</title>
       <link>https://isc.sans.edu/diary/rss/31264</link>
       <pubDate>Sun, 15 Sep 2024 18:32:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Access Security Broker Policy</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/cloud-access-security-broker-policy/</link>
+      <pubDate>Sun, 15 Sep 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Port of Seattle confirmed that Rhysida ransomware gang was behind the August attack</title>
@@ -291,21 +306,6 @@
       <title>Google Cloud Strengthens Backup Service With Untouchable Vaults</title>
       <link>https://www.techrepublic.com/article/google-cloud-vault-backup/</link>
       <pubDate>Thu, 12 Sep 2024 17:09:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Standing on the Windows platform, waiting for change</title>
-      <link>https://news.sophos.com/en-us/2024/09/12/endpoint-security-ecosystem/</link>
-      <pubDate>Thu, 12 Sep 2024 17:01:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Irish Data Protection Regulator to Investigate Google AI</title>
-      <link>https://www.infosecurity-magazine.com/news/irish-regulator-google-ai/</link>
-      <pubDate>Thu, 12 Sep 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Android Malware 'Ajina.Banker' Steals Financial Data and Bypasses 2FA via Telegram</title>
-      <link>https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html</link>
-      <pubDate>Thu, 12 Sep 2024 16:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
