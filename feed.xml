@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Sep 2024 14:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 16:23:51 +0000</lastBuildDate>
+    <item>
+      <title>DuckDuckGo Joins AI Chat, Promises Enhanced Anonymity</title>
+      <link>https://www.techrepublic.com/article/duckduckgo-joins-ai-chat/</link>
+      <pubDate>Mon, 16 Sep 2024 16:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>White House to Tackle AI-Generated Sexual Abuse Images</title>
+      <link>https://www.infosecurity-magazine.com/news/white-house-ai-abuse-images/</link>
+      <pubDate>Mon, 16 Sep 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Legacy Ivanti Cloud Service Appliance Being Exploited</title>
+      <link>https://www.schneier.com/blog/archives/2024/09/legacy-ivanti-cloud-service-appliance-being-exploited.html</link>
+      <pubDate>Mon, 16 Sep 2024 14:49:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half of UK Firms Lack Basic Cybersecurity Skills</title>
+      <link>https://www.infosecurity-magazine.com/news/half-of-uk-firms-lack-basic/</link>
+      <pubDate>Mon, 16 Sep 2024 14:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Advanced Phishing Attacks Put X Accounts at Risk</title>
       <link>https://www.infosecurity-magazine.com/news/phishing-x-accounts-risk/</link>
       <pubDate>Mon, 16 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recently patched Windows flaw CVE-2024-43461 was actively exploited as a zero-day before July 2024</title>
+      <link>https://securityaffairs.com/168467/hacking/windows-cve-2024-43461-actively-exploited-before-july-2024.html</link>
+      <pubDate>Mon, 16 Sep 2024 13:56:11 +0000</pubDate>
     </item>
     <item>
       <title>Google Fixes GCP Composer Flaw That Could've Led to Remote Code Execution</title>
@@ -36,6 +61,11 @@
       <title>German radio station forced to broadcast 'emergency tape' following cyberattack</title>
       <link>https://therecord.media/germany-cyberattack-radio-geretsried</link>
       <pubDate>Mon, 16 Sep 2024 12:05:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Mon, 16 Sep 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>North Korean Hackers Target Cryptocurrency Users on LinkedIn with RustDoor Malware</title>
@@ -208,11 +238,6 @@
       <pubDate>Fri, 13 Sep 2024 20:29:54 +0000</pubDate>
     </item>
     <item>
-      <title>New Linux malware called Hadooken targets Oracle WebLogic servers</title>
-      <link>https://securityaffairs.com/168364/malware/hadooken-targets-oracle-weblogic-servers.html</link>
-      <pubDate>Fri, 13 Sep 2024 18:16:39 +0000</pubDate>
-    </item>
-    <item>
       <title>My TedXBillings Talk</title>
       <link>https://www.schneier.com/blog/archives/2024/09/my-tedxbillings-talk.html</link>
       <pubDate>Fri, 13 Sep 2024 18:02:26 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Fri, 13 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RansomHub Ransomware Detection: Attackers Exploits Kaspersky’s TDSSKiller to Disable EDR Systems</title>
-      <link>https://socprime.com/blog/ransomhub-ransomware-detection-ransomware-gang-exploits-kasperskys-tdsskiller-to-disable-edr-systems/</link>
-      <pubDate>Fri, 13 Sep 2024 11:30:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud</title>
-      <link>https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html</link>
-      <pubDate>Fri, 13 Sep 2024 11:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft</title>
-      <link>https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html</link>
-      <pubDate>Fri, 13 Sep 2024 11:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Progress WhatsUp Gold Exploited Just Hours After PoC Release for Critical Flaw</title>
-      <link>https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html</link>
-      <pubDate>Fri, 13 Sep 2024 11:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CosmicBeetle joins the ranks of RansomHub affiliates – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/cosmicbeetle-joins-ranks-ransomhub-affiliates-week-security-tony-anscombe/</link>
-      <pubDate>Fri, 13 Sep 2024 10:21:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
