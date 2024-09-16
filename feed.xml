@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Sep 2024 10:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 12:38:01 +0000</lastBuildDate>
+    <item>
+      <title>German radio station forced to broadcast 'emergency tape' following cyberattack</title>
+      <link>https://therecord.media/germany-cyberattack-radio-geretsried</link>
+      <pubDate>Mon, 16 Sep 2024 12:05:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Breach to Recovery: Designing an Identity-Focused Incident Response Playbook</title>
+      <link>https://thehackernews.com/2024/09/from-breach-to-recovery-designing.html</link>
+      <pubDate>Mon, 16 Sep 2024 11:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple to Drop Spyware Lawsuit Over Security Concerns</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-drop-spyware-lawsuit/</link>
+      <pubDate>Mon, 16 Sep 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Master Your PCI DSS v4 Compliance with Innovative Smart Approvals</title>
+      <link>https://thehackernews.com/2024/09/master-your-pci-dss-v4-compliance-with.html</link>
+      <pubDate>Mon, 16 Sep 2024 11:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SolarWinds fixed critical RCE CVE-2024-28991 in Access Rights Manager</title>
+      <link>https://securityaffairs.com/168456/security/solarwinds-fixed-rce-cve-2024-28991.html</link>
+      <pubDate>Mon, 16 Sep 2024 10:59:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple dismisses lawsuit against surveillance firm NSO Group due to risk of threat intelligence exposure</title>
+      <link>https://securityaffairs.com/168450/laws-and-regulations/apple-drops-lawsuit-against-nso-group.html</link>
+      <pubDate>Mon, 16 Sep 2024 09:56:04 +0000</pubDate>
+    </item>
     <item>
       <title>Meta Goes Ahead With Controversial AI Training in UK</title>
       <link>https://www.infosecurity-magazine.com/news/meta-controversial-ai-training-uk/</link>
@@ -153,11 +183,6 @@
       <pubDate>Fri, 13 Sep 2024 20:12:59 +0000</pubDate>
     </item>
     <item>
-      <title>Russia’s RT news agency has ‘cyber operational capabilities,’ assists in military procurement, State Dept says</title>
-      <link>https://therecord.media/russia-rt-news-agency-intelligence-military-functions-state-department-blinken</link>
-      <pubDate>Fri, 13 Sep 2024 20:06:56 +0000</pubDate>
-    </item>
-    <item>
       <title>New Linux malware called Hadooken targets Oracle WebLogic servers</title>
       <link>https://securityaffairs.com/168364/malware/hadooken-targets-oracle-weblogic-servers.html</link>
       <pubDate>Fri, 13 Sep 2024 18:16:39 +0000</pubDate>
@@ -181,11 +206,6 @@
       <title>Finding Honeypot Data Clusters Using DBSCAN: Part 2, (Fri, Sep 13th)</title>
       <link>https://isc.sans.edu/diary/rss/31194</link>
       <pubDate>Fri, 13 Sep 2024 14:45:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lehigh Valley Health Network hospital network has agreed to a $65 million settlement after data breach</title>
-      <link>https://securityaffairs.com/168356/data-breach/lehigh-valley-health-network-settlement-data-breach.html</link>
-      <pubDate>Fri, 13 Sep 2024 14:08:38 +0000</pubDate>
     </item>
     <item>
       <title>Malicious Actors Spreading False US Voter Registration Breach Claims</title>
@@ -263,11 +283,6 @@
       <pubDate>Fri, 13 Sep 2024 10:21:33 +0000</pubDate>
     </item>
     <item>
-      <title>Vo1d malware infected 1.3 Million Android-based TV Boxes in 197 countries</title>
-      <link>https://securityaffairs.com/168342/malware/vo1d-android-malware-tv-boxes.html</link>
-      <pubDate>Fri, 13 Sep 2024 09:58:59 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Vows to Prevent Future CrowdStrike-Like Outages</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-prevent-crowdstrike/</link>
       <pubDate>Fri, 13 Sep 2024 09:35:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Hygiene, Hygiene, Hygiene! [Guest Diary], (Wed, Sep 11th)</title>
       <link>https://isc.sans.edu/diary/rss/31260</link>
       <pubDate>Thu, 12 Sep 2024 22:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>We can try to bridge the cybersecurity skills gap, but that doesn’t necessarily mean more jobs for defenders</title>
-      <link>https://blog.talosintelligence.com/threat-source-newsletter-sept-12-2024/</link>
-      <pubDate>Thu, 12 Sep 2024 18:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Amos to Poseidon | A SOC Team’s Guide to Detecting macOS Atomic Stealers 2024</title>
-      <link>https://www.sentinelone.com/blog/from-amos-to-poseidon-a-soc-teams-guide-to-detecting-macos-atomic-stealers-2024/</link>
-      <pubDate>Thu, 12 Sep 2024 17:59:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Strengthens Backup Service With Untouchable Vaults</title>
-      <link>https://www.techrepublic.com/article/google-cloud-vault-backup/</link>
-      <pubDate>Thu, 12 Sep 2024 17:09:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
