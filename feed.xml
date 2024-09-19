@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 04:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 06:26:48 +0000</lastBuildDate>
+    <item>
+      <title>GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions</title>
+      <link>https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html</link>
+      <pubDate>Thu, 19 Sep 2024 05:07:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, September 19th, 2024 https://isc.sans.edu/podcastdetail/9144, (Thu, Sep 19th)</title>
       <link>https://isc.sans.edu/diary/rss/31280</link>
@@ -78,6 +83,21 @@
       <pubDate>Wed, 18 Sep 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>VMware Product Security Update Advisory (CVE-2024-38812, CVE-2024-38813)</title>
+      <link>https://asec.ahnlab.com/en/83259/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ruby Library Security Update Advisory (CVE-2024-45409)</title>
+      <link>https://asec.ahnlab.com/en/83258/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docker Desktop Security Update Advisory (CVE-2024-8695, CVE-2024-8696)</title>
+      <link>https://asec.ahnlab.com/en/83256/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SolarWinds Product Security Update Advisory (CVE-2024-28991)</title>
       <link>https://asec.ahnlab.com/en/83254/</link>
       <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
@@ -103,6 +123,11 @@
       <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, September 2024</title>
+      <link>https://asec.ahnlab.com/en/83264/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>September 19, 2024</title>
       <link>https://asec.ahnlab.com/en/83227/</link>
       <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
@@ -110,21 +135,6 @@
     <item>
       <title>NVIDIA Product Security Update Advisory (CVE-2024-0110)</title>
       <link>https://asec.ahnlab.com/en/83260/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware Product Security Update Advisory (CVE-2024-38812, CVE-2024-38813)</title>
-      <link>https://asec.ahnlab.com/en/83259/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruby Library Security Update Advisory (CVE-2024-45409)</title>
-      <link>https://asec.ahnlab.com/en/83258/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docker Desktop Security Update Advisory (CVE-2024-8695, CVE-2024-8696)</title>
-      <link>https://asec.ahnlab.com/en/83256/</link>
       <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -206,6 +216,11 @@
       <title>Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer Browsing</title>
       <link>https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html</link>
       <pubDate>Wed, 18 Sep 2024 09:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding cyber-incident disclosure</title>
+      <link>https://www.welivesecurity.com/en/business-security/understanding-cyber-incident-disclosure/</link>
+      <pubDate>Wed, 18 Sep 2024 09:02:40 +0000</pubDate>
     </item>
     <item>
       <title>CISA Issues Advice to Help Eliminate XSS Bugs</title>
@@ -291,21 +306,6 @@
       <title>Most Cyber Leaders Fear AI-Generated Code Will Increase Security Risks</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-leaders-fear-ai-generated/</link>
       <pubDate>Tue, 17 Sep 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese man charged for spear-phishing against NASA and US Government</title>
-      <link>https://securityaffairs.com/168514/cyber-crime/chinese-man-spear-phishing-nasa-us-government.html</link>
-      <pubDate>Tue, 17 Sep 2024 14:03:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2024-6670 and CVE-2024-6671 Detection: RCE Attacks Exploiting Critical SQL Injection Vulnerabilities in WhatsUp Gold</title>
-      <link>https://socprime.com/blog/cve-2024-6670-and-cve-2024-6671-detection/</link>
-      <pubDate>Tue, 17 Sep 2024 13:09:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE backlog update: The NVD struggles as attackers change tactics</title>
-      <link>https://securityintelligence.com/articles/cve-backlog-update-nvd-struggles-attackers-change-tactics/</link>
-      <pubDate>Tue, 17 Sep 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
