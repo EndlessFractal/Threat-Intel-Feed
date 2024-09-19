@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 18:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 20:19:43 +0000</lastBuildDate>
+    <item>
+      <title>This Windows PowerShell Phish Has Scary Potential</title>
+      <link>https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/</link>
+      <pubDate>Thu, 19 Sep 2024 19:39:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>International law enforcement operation dismantled criminal communication platform Ghost</title>
+      <link>https://securityaffairs.com/168575/cyber-crime/police-dismantled-criminal-communication-platform-ghost.html</link>
+      <pubDate>Thu, 19 Sep 2024 18:32:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran backdoors planted across Middle East telecoms, government agencies, Google says</title>
+      <link>https://therecord.media/iran-backdoors-planted-across-middle-east-telecoms-government-orgs</link>
+      <pubDate>Thu, 19 Sep 2024 18:24:57 +0000</pubDate>
+    </item>
     <item>
       <title>Talk of election security is good, but we still need more money to solve the problem</title>
       <link>https://blog.talosintelligence.com/threat-source-newsletter-sept-19-24/</link>
       <pubDate>Thu, 19 Sep 2024 18:00:20 +0000</pubDate>
     </item>
     <item>
+      <title>Wherever There's Ransomware, There's Service Account Compromise. Are You Protected?</title>
+      <link>https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html</link>
+      <pubDate>Thu, 19 Sep 2024 17:34:00 +0000</pubDate>
+    </item>
+    <item>
       <title>17 arrested in takedown targeting phishing service with nearly 500,000 victims</title>
       <link>https://therecord.media/17-arrested-phishing-as-a-service-takedown-iserver-europol</link>
       <pubDate>Thu, 19 Sep 2024 16:39:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/19/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Thu, 19 Sep 2024 16:24:14 +0000</pubDate>
     </item>
     <item>
       <title>UK spyware victims file criminal complaint against NSO Group</title>
@@ -73,14 +98,14 @@
       <pubDate>Thu, 19 Sep 2024 13:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>FTC: Social media and video streaming companies violate user privacy on 'vast' scale</title>
-      <link>https://therecord.media/ftc-social-media-companies-violate-privacy-vast-scale</link>
-      <pubDate>Thu, 19 Sep 2024 13:07:40 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA chief AI officer follow-up: Current state of the role (and where it’s heading)</title>
       <link>https://securityintelligence.com/articles/cisa-chief-ai-officer-follow-up-state-of-the-role/</link>
       <pubDate>Thu, 19 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Managing Cybersecurity and Privacy Risks in the Age of Artificial Intelligence: Launching a New Program at NIST</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/managing-cybersecurity-and-privacy-risks-age-artificial-intelligence</link>
+      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kastle Systems Access Control System</title>
@@ -105,6 +130,11 @@
     <item>
       <title>IDEC CORPORATION WindLDR and WindO/I-NV4</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-03</link>
+      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance</link>
       <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -183,6 +213,11 @@
       <pubDate>Thu, 19 Sep 2024 00:20:09 +0000</pubDate>
     </item>
     <item>
+      <title>Bridge Detection Gaps for Superior Threat Visibility</title>
+      <link>https://www.recordedfuture.com/blog/bridge-detection-gaps-superior-threat-visibility</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Smashing Security podcast #385: TFL security derailed, and is Trump the king of crypto?</title>
       <link>https://grahamcluley.com/smashing-security-podcast-385/</link>
       <pubDate>Wed, 18 Sep 2024 23:00:18 +0000</pubDate>
@@ -248,51 +283,6 @@
       <pubDate>Wed, 18 Sep 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, September 2024</title>
-      <link>https://asec.ahnlab.com/en/83277/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HPE Product Security Update Advisory (CVE-2024-42500)</title>
-      <link>https://asec.ahnlab.com/en/83246/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenShift Security Update Advisory (CVE-2024-7387, CVE-2024-45496)</title>
-      <link>https://asec.ahnlab.com/en/83266/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, September 2024</title>
-      <link>https://asec.ahnlab.com/en/83264/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 19, 2024</title>
-      <link>https://asec.ahnlab.com/en/83227/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Product Security Update Advisory (CVE-2024-0110)</title>
-      <link>https://asec.ahnlab.com/en/83260/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware Product Security Update Advisory (CVE-2024-38812, CVE-2024-38813)</title>
-      <link>https://asec.ahnlab.com/en/83259/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruby Library Security Update Advisory (CVE-2024-45409)</title>
-      <link>https://asec.ahnlab.com/en/83258/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docker Desktop Security Update Advisory (CVE-2024-8695, CVE-2024-8696)</title>
-      <link>https://asec.ahnlab.com/en/83256/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SolarWinds Product Security Update Advisory (CVE-2024-28991)</title>
       <link>https://asec.ahnlab.com/en/83254/</link>
       <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
@@ -305,6 +295,16 @@
     <item>
       <title>Citrix Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83249/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spring Product Security Update Advisory (CVE-2024-38816)</title>
+      <link>https://asec.ahnlab.com/en/83247/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, September 2024</title>
+      <link>https://asec.ahnlab.com/en/83277/</link>
       <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
