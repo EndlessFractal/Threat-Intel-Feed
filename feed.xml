@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 16:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 18:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Talk of election security is good, but we still need more money to solve the problem</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-sept-19-24/</link>
+      <pubDate>Thu, 19 Sep 2024 18:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>17 arrested in takedown targeting phishing service with nearly 500,000 victims</title>
+      <link>https://therecord.media/17-arrested-phishing-as-a-service-takedown-iserver-europol</link>
+      <pubDate>Thu, 19 Sep 2024 16:39:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK spyware victims file criminal complaint against NSO Group</title>
+      <link>https://therecord.media/uk-criminal-complaint-nso-group-pegasus-spyware</link>
+      <pubDate>Thu, 19 Sep 2024 16:20:12 +0000</pubDate>
+    </item>
     <item>
       <title>Infostealers Cause Surge in Ransomware Attacks, Just One in Three Recover Data</title>
       <link>https://www.infosecurity-magazine.com/news/infostealers-ransomware-attacks/</link>
@@ -101,16 +116,6 @@
       <title>VMware Releases Security Advisory for VMware Cloud Foundation and vCenter Server</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/09/19/vmware-releases-security-advisory-vmware-cloud-foundation-and-vcenter-server</link>
       <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Iran vs. Trump, and Russia vs. Harris': Congress presses Silicon Valley giants on disinformation</title>
-      <link>https://therecord.media/2024-election-disinformation-hearing-senate-alphabet-meta-microsoft</link>
-      <pubDate>Thu, 19 Sep 2024 11:42:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>US agencies say Iran offered hacked Trump docs to Democrats but was ignored</title>
-      <link>https://therecord.media/iran-hacked-trump-documents-biden-fbi-odni-cisa</link>
-      <pubDate>Thu, 19 Sep 2024 11:26:49 +0000</pubDate>
     </item>
     <item>
       <title>Astra Vulnerability Scanner Review (2024): How Good Is Astra?</title>
@@ -243,26 +248,6 @@
       <pubDate>Wed, 18 Sep 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>SolarWinds Product Security Update Advisory (CVE-2024-28991)</title>
-      <link>https://asec.ahnlab.com/en/83254/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83251/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83249/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spring Product Security Update Advisory (CVE-2024-38816)</title>
-      <link>https://asec.ahnlab.com/en/83247/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, September 2024</title>
       <link>https://asec.ahnlab.com/en/83277/</link>
       <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
@@ -305,6 +290,21 @@
     <item>
       <title>Docker Desktop Security Update Advisory (CVE-2024-8695, CVE-2024-8696)</title>
       <link>https://asec.ahnlab.com/en/83256/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SolarWinds Product Security Update Advisory (CVE-2024-28991)</title>
+      <link>https://asec.ahnlab.com/en/83254/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83251/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83249/</link>
       <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
