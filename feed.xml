@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 01:24:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 02:46:47 +0000</lastBuildDate>
+    <item>
+      <title>Time-to-Live Analysis of DShield Data with Vega-Lite, (Wed, Sep 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/31278</link>
+      <pubDate>Thu, 19 Sep 2024 00:20:09 +0000</pubDate>
+    </item>
     <item>
       <title>Smashing Security podcast #385: TFL security derailed, and is Trump the king of crypto?</title>
       <link>https://grahamcluley.com/smashing-security-podcast-385/</link>
       <pubDate>Wed, 18 Sep 2024 23:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edge browser security update advisory</title>
+      <link>https://asec.ahnlab.com/en/83248/</link>
+      <pubDate>Wed, 18 Sep 2024 22:43:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>MS Family September 2024 Routine Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83252/</link>
+      <pubDate>Wed, 18 Sep 2024 22:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome Browser (129.0.6668.58) Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83250/</link>
+      <pubDate>Wed, 18 Sep 2024 22:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla Products September 2024 1st Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83253/</link>
+      <pubDate>Wed, 18 Sep 2024 22:40:01 +0000</pubDate>
     </item>
     <item>
       <title>Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and MacOS Backdoors</title>
@@ -48,8 +73,53 @@
       <pubDate>Wed, 18 Sep 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>SolarWinds Product Security Update Advisory (CVE-2024-28991)</title>
+      <link>https://asec.ahnlab.com/en/83254/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83251/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83249/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spring Product Security Update Advisory (CVE-2024-38816)</title>
+      <link>https://asec.ahnlab.com/en/83247/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HPE Product Security Update Advisory (CVE-2024-42500)</title>
+      <link>https://asec.ahnlab.com/en/83246/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>September 19, 2024</title>
       <link>https://asec.ahnlab.com/en/83227/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Product Security Update Advisory (CVE-2024-0110)</title>
+      <link>https://asec.ahnlab.com/en/83260/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware Product Security Update Advisory (CVE-2024-38812, CVE-2024-38813)</title>
+      <link>https://asec.ahnlab.com/en/83259/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ruby Library Security Update Advisory (CVE-2024-45409)</title>
+      <link>https://asec.ahnlab.com/en/83258/</link>
+      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docker Desktop Security Update Advisory (CVE-2024-8695, CVE-2024-8696)</title>
+      <link>https://asec.ahnlab.com/en/83256/</link>
       <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -236,76 +306,6 @@
       <title>iOS 18 is out. Here are the new privacy and security features</title>
       <link>https://www.malwarebytes.com/blog/news/2024/09/ios-18-is-out-here-are-the-new-privacy-and-security-features</link>
       <pubDate>Tue, 17 Sep 2024 12:54:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Switches to ML-KEM for Post-Quantum Cryptography Defense</title>
-      <link>https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html</link>
-      <pubDate>Tue, 17 Sep 2024 12:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Treasury Sanctions Executives Linked to Intellexa Predator Spyware Operation</title>
-      <link>https://thehackernews.com/2024/09/us-treasury-sanctions-executives-linked.html</link>
-      <pubDate>Tue, 17 Sep 2024 12:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LastPass Review 2024: Is it Still Safe and Reliable?</title>
-      <link>https://www.techrepublic.com/article/lastpass-review/</link>
-      <pubDate>Tue, 17 Sep 2024 12:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Millbeck Communications Proroute H685t-w</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-261-02</link>
-      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIMATIC S7-200 SMART Devices</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-261-01</link>
-      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yokogawa Dual-redundant Platform for Computer (PC2CKM)</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-261-03</link>
-      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Three Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-releases-three-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and FBI Release Secure by Design Alert on Eliminating Cross-Site Scripting Vulnerabilities</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-and-fbi-release-secure-design-alert-eliminating-cross-site-scripting-vulnerabilities</link>
-      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Investigate ChatGPT activity in Google Workspace</title>
-      <link>https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html</link>
-      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta to Train AI Models Using Public U.K. Facebook and Instagram Posts</title>
-      <link>https://thehackernews.com/2024/09/meta-to-train-ai-models-using-public-uk.html</link>
-      <pubDate>Tue, 17 Sep 2024 11:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Singapore Launches Accelerator for International Cybersecurity Startups</title>
-      <link>https://www.infosecurity-magazine.com/news/singapore-accelerator-cyber/</link>
-      <pubDate>Tue, 17 Sep 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Users of ‘throuples’ dating app Feeld may have had intimate photos accessed</title>
-      <link>https://www.theguardian.com/business/2024/sep/17/dating-app-feeld-personal-data-cybersecurity</link>
-      <pubDate>Tue, 17 Sep 2024 11:18:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python Developers Targeted with Malware During Fake Job Interviews</title>
-      <link>https://www.schneier.com/blog/archives/2024/09/python-developers-targeted-with-malware-during-fake-job-interviews.html</link>
-      <pubDate>Tue, 17 Sep 2024 11:02:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
