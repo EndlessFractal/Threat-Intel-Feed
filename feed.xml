@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 12:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 14:17:33 +0000</lastBuildDate>
+    <item>
+      <title>Western Agencies Warn Risk from Chinese-Controlled Botnet</title>
+      <link>https://www.infosecurity-magazine.com/news/nsa-ncsc-china-botnet/</link>
+      <pubDate>Thu, 19 Sep 2024 13:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA chief AI officer follow-up: Current state of the role (and where it’s heading)</title>
+      <link>https://securityintelligence.com/articles/cisa-chief-ai-officer-follow-up-state-of-the-role/</link>
+      <pubDate>Thu, 19 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kastle Systems Access Control System</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-05</link>
+      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IDEC PLCs</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-02</link>
+      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MegaSys Computer Technologies Telenium Online Web Application</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-04</link>
+      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation RSLogix 5 and RSLogix 500</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-01</link>
+      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IDEC CORPORATION WindLDR and WindO/I-NV4</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-03</link>
+      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Six Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/19/cisa-releases-six-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Astra Vulnerability Scanner Review (2024): How Good Is Astra?</title>
       <link>https://www.techrepublic.com/article/astra-review/</link>
@@ -126,6 +166,11 @@
       <title>Walmart customers scammed via fake shopping lists, threatened with arrest</title>
       <link>https://www.malwarebytes.com/blog/scams/2024/09/walmart-customers-scammed-via-fake-shopping-lists-threatened-with-arrest</link>
       <pubDate>Wed, 18 Sep 2024 16:03:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>How comprehensive security simplifies the defense of your digital estate</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/09/18/how-comprehensive-security-simplifies-the-defense-of-your-digital-estate/</link>
+      <pubDate>Wed, 18 Sep 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New "Raptor Train" IoT Botnet Compromises Over 200,000 Devices Worldwide</title>
@@ -261,51 +306,6 @@
       <title>U.S. Treasury issued fresh sanctions against entities linked to the Intellexa Consortium</title>
       <link>https://securityaffairs.com/168550/security/intellexa-consortium-sactions.html</link>
       <pubDate>Wed, 18 Sep 2024 10:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exotic SambaSpy is now dancing with Italian users</title>
-      <link>https://securelist.com/sambaspy-rat-targets-italian-users/113851/</link>
-      <pubDate>Wed, 18 Sep 2024 10:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Target Energy and Aerospace Industries with New MISTPEN Malware</title>
-      <link>https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html</link>
-      <pubDate>Wed, 18 Sep 2024 09:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AT&amp;T Agrees $13m FCC Settlement Over Cloud Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/att-13m-fcc-settlement-cloud-data/</link>
-      <pubDate>Wed, 18 Sep 2024 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer Browsing</title>
-      <link>https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html</link>
-      <pubDate>Wed, 18 Sep 2024 09:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Issues Advice to Help Eliminate XSS Bugs</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-advice-eliminate-xss-bugs/</link>
-      <pubDate>Wed, 18 Sep 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python Infostealer Patching Windows Exodus App, (Wed, Sep 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/31276</link>
-      <pubDate>Wed, 18 Sep 2024 07:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Broadcom fixed Critical VMware vCenter Server flaw CVE-2024-38812</title>
-      <link>https://securityaffairs.com/168536/security/vmware-vcenter-server-cve-2024-38812.html</link>
-      <pubDate>Wed, 18 Sep 2024 07:41:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging</title>
-      <link>https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html</link>
-      <pubDate>Wed, 18 Sep 2024 06:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Dreams to Reality: The Magic of 3D Printing, with Elle Hunt</title>
-      <link>https://www.troyhunt.com/from-dreams-to-reality-the-magic-of-3d-printing-with-elle-hunt/</link>
-      <pubDate>Wed, 18 Sep 2024 06:07:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
