@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Sep 2024 20:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 22:19:17 +0000</lastBuildDate>
+    <item>
+      <title>Tor Project responded to claims that law enforcement can de-anonymize Tor users</title>
+      <link>https://securityaffairs.com/168667/security/tor-project-commented-on-deanonymizing-technique.html</link>
+      <pubDate>Fri, 20 Sep 2024 20:23:48 +0000</pubDate>
+    </item>
     <item>
       <title>More than $44 million in cryptocurrency stolen from Singaporean platform BingX</title>
       <link>https://therecord.media/44-million-stolen-from-crypto-platform-singapore</link>
@@ -43,6 +48,11 @@
       <pubDate>Fri, 20 Sep 2024 15:32:37 +0000</pubDate>
     </item>
     <item>
+      <title>September 21, 2024</title>
+      <link>https://asec.ahnlab.com/en/83304/</link>
+      <pubDate>Fri, 20 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>UNC1860 provides Iran-linked APTs with access to Middle Eastern networks</title>
       <link>https://securityaffairs.com/168656/apt/unc1860-provides-iran-linked-apts-access-middle-east.html</link>
       <pubDate>Fri, 20 Sep 2024 13:51:51 +0000</pubDate>
@@ -76,6 +86,11 @@
       <title>-=TWELVE=- is back</title>
       <link>https://securelist.com/twelve-group-unified-kill-chain/113877/</link>
       <pubDate>Fri, 20 Sep 2024 12:31:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229</link>
+      <pubDate>Fri, 20 Sep 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Passwordless AND Keyless: The Future of (Privileged) Access Management</title>
@@ -290,21 +305,6 @@
     <item>
       <title>IDEC CORPORATION WindLDR and WindO/I-NV4</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-03</link>
-      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance</link>
-      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Six Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/19/cisa-releases-six-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware Releases Security Advisory for VMware Cloud Foundation and vCenter Server</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/19/vmware-releases-security-advisory-vmware-cloud-foundation-and-vcenter-server</link>
       <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
