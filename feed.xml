@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 22:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 01:24:27 +0000</lastBuildDate>
+    <item>
+      <title>DOJ charges hackers for stealing $230 million in crypto from individual</title>
+      <link>https://therecord.media/doj-charges-hackers-for-230-million-crypto-heist</link>
+      <pubDate>Fri, 20 Sep 2024 00:14:02 +0000</pubDate>
+    </item>
     <item>
       <title>Federal civil rights watchdog sounds alarm over DOJ, DHS and HUD use of facial recognition technology</title>
       <link>https://therecord.media/federal-civil-rights-watchdog-facial-recognition-technology-report</link>
@@ -73,11 +78,6 @@
       <pubDate>Thu, 19 Sep 2024 16:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nakasone on his new gig at Vanderbilt, deliberations at OpenAI, and nation-state threats</title>
-      <link>https://therecord.media/nakasone-vanderbilt-institute-openai-election-security-china</link>
-      <pubDate>Thu, 19 Sep 2024 15:52:55 +0000</pubDate>
-    </item>
-    <item>
       <title>U.S. CISA adds Microsoft Windows, Apache HugeGraph-Server, Oracle JDeveloper, Oracle WebLogic Server, and Microsoft SQL Server bugs to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/168592/security/u-s-cisa-windows-apache-hugegraph-oracle-jdeveloper-oracle-weblogic-sql-server-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Thu, 19 Sep 2024 15:47:30 +0000</pubDate>
@@ -96,6 +96,16 @@
       <title>Digital Maturity Key to AI Success in Australian Cyber Security</title>
       <link>https://www.techrepublic.com/article/digital-maturity-key-to-ai-success/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nix Security Update Advisory (CVE-2024-45593)</title>
+      <link>https://asec.ahnlab.com/en/83291/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Product Security Update Advisory (CVE-2024-45823, CVE-2024-45824)</title>
+      <link>https://asec.ahnlab.com/en/83290/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>September 20, 2024</title>
@@ -296,16 +306,6 @@
       <title>New "Raptor Train" IoT Botnet Compromises Over 200,000 Devices Worldwide</title>
       <link>https://thehackernews.com/2024/09/new-raptor-train-iot-botnet-compromises.html</link>
       <pubDate>Wed, 18 Sep 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Street View Images Used For Extortion Scams</title>
-      <link>https://www.infosecurity-magazine.com/news/google-street-view-extortion/</link>
-      <pubDate>Wed, 18 Sep 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83249/</link>
-      <pubDate>Wed, 18 Sep 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
