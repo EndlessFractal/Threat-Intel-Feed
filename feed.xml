@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Sep 2024 14:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 16:23:25 +0000</lastBuildDate>
+    <item>
+      <title>HackerOne: Nearly Half of Security Professionals Believe AI Is Risky</title>
+      <link>https://www.techrepublic.com/article/hackerone-generative-ai-security-survey/</link>
+      <pubDate>Fri, 20 Sep 2024 16:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clever Social Engineering Attack Using Captchas</title>
+      <link>https://www.schneier.com/blog/archives/2024/09/clever-social-engineering-attack-using-captchas.html</link>
+      <pubDate>Fri, 20 Sep 2024 15:32:37 +0000</pubDate>
+    </item>
     <item>
       <title>UNC1860 provides Iran-linked APTs with access to Middle Eastern networks</title>
       <link>https://securityaffairs.com/168656/apt/unc1860-provides-iran-linked-apts-access-middle-east.html</link>
@@ -163,6 +173,11 @@
       <pubDate>Thu, 19 Sep 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Join us at Microsoft Ignite 2024 and learn to build a security-first culture with AI</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/09/19/join-us-at-microsoft-ignite-2024-and-learn-to-build-a-security-first-culture-with-ai/</link>
+      <pubDate>Thu, 19 Sep 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. CISA adds Microsoft Windows, Apache HugeGraph-Server, Oracle JDeveloper, Oracle WebLogic Server, and Microsoft SQL Server bugs to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/168592/security/u-s-cisa-windows-apache-hugegraph-oracle-jdeveloper-oracle-weblogic-sql-server-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Thu, 19 Sep 2024 15:47:30 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>8000 Claimants Sue Outsourcing Giant Capita Over 2023 Data Breach</title>
       <link>https://www.infosecurity-magazine.com/news/8000-claimants-sue-outsourcing/</link>
       <pubDate>Thu, 19 Sep 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Healthcare's Diagnosis is Critical: The Cure is Cybersecurity Hygiene</title>
-      <link>https://thehackernews.com/2024/09/healthcares-diagnosis-is-critical-cure.html</link>
-      <pubDate>Thu, 19 Sep 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Warns of New INC Ransomware Targeting U.S. Healthcare Sector</title>
-      <link>https://thehackernews.com/2024/09/microsoft-warns-of-new-inc-ransomware.html</link>
-      <pubDate>Thu, 19 Sep 2024 10:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discovering Splinter: A First Look at a New Post-Exploitation Red Team Tool</title>
-      <link>https://unit42.paloaltonetworks.com/analysis-pentest-tool-splinter/</link>
-      <pubDate>Thu, 19 Sep 2024 10:00:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
