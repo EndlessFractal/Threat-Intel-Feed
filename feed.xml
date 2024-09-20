@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Sep 2024 04:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 06:26:43 +0000</lastBuildDate>
+    <item>
+      <title>Critical Ivanti Cloud Appliance Vulnerability Exploited in Active Cyberattacks</title>
+      <link>https://thehackernews.com/2024/09/critical-ivanti-cloud-appliance.html</link>
+      <pubDate>Fri, 20 Sep 2024 04:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Friday, September 20th, 2024 https://isc.sans.edu/podcastdetail/9146, (Fri, Sep 20th)</title>
       <link>https://isc.sans.edu/diary/rss/31284</link>
@@ -103,11 +108,6 @@
       <pubDate>Thu, 19 Sep 2024 15:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>D-Link Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83293/</link>
-      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Nix Security Update Advisory (CVE-2024-45593)</title>
       <link>https://asec.ahnlab.com/en/83291/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
@@ -120,6 +120,21 @@
     <item>
       <title>September 20, 2024</title>
       <link>https://asec.ahnlab.com/en/83279/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOOSAN INT Product Security Update Recommendation</title>
+      <link>https://asec.ahnlab.com/en/83297/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fence Agents Remediation Security Update Advisory (CVE-2024-5651)</title>
+      <link>https://asec.ahnlab.com/en/83295/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>D-Link Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83293/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>Experts warn of China-linked APT’s Raptor Train IoT Botnet</title>
       <link>https://securityaffairs.com/168563/malware/raptor-train-botnet-iot.html</link>
       <pubDate>Wed, 18 Sep 2024 19:50:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Top 7 Enterprise VPN Solutions for 2024</title>
-      <link>https://www.techrepublic.com/article/top-6-enterprise-vpns/</link>
-      <pubDate>Wed, 18 Sep 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two-Thirds of Security Leaders Consider Banning AI-Generated Code, Report Finds</title>
-      <link>https://www.techrepublic.com/article/leaders-banning-ai-generated-code/</link>
-      <pubDate>Wed, 18 Sep 2024 16:26:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Infrastructure at Risk From Email Security Breaches</title>
-      <link>https://www.infosecurity-magazine.com/news/critical-infrastructure-email/</link>
-      <pubDate>Wed, 18 Sep 2024 16:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
