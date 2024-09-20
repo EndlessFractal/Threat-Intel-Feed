@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Sep 2024 16:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 18:25:33 +0000</lastBuildDate>
+    <item>
+      <title>Republicans demand FBI hearing on Iran theft of Trump documents</title>
+      <link>https://therecord.media/iran-trump-hack-house-judiciary-requests-unclassified-fbi-hearing</link>
+      <pubDate>Fri, 20 Sep 2024 18:06:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Simply staggering” surveillance conducted by social media and streaming services, FTC finds</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/09/ftc-finds-social-media-and-video-streaming-services-engaged-in-vast-surveillance-of-consumers</link>
+      <pubDate>Fri, 20 Sep 2024 16:26:39 +0000</pubDate>
+    </item>
     <item>
       <title>HackerOne: Nearly Half of Security Professionals Believe AI Is Risky</title>
       <link>https://www.techrepublic.com/article/hackerone-generative-ai-security-survey/</link>
@@ -118,9 +128,9 @@
       <pubDate>Fri, 20 Sep 2024 00:14:02 +0000</pubDate>
     </item>
     <item>
-      <title>Federal civil rights watchdog sounds alarm over DOJ, DHS and HUD use of facial recognition technology</title>
-      <link>https://therecord.media/federal-civil-rights-watchdog-facial-recognition-technology-report</link>
-      <pubDate>Thu, 19 Sep 2024 21:02:50 +0000</pubDate>
+      <title>How to Accelerate Vulnerability Remediation with Hai</title>
+      <link>https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai</link>
+      <pubDate>Thu, 19 Sep 2024 22:06:48 +0000</pubDate>
     </item>
     <item>
       <title>Ivanti warns of a new actively exploited Cloud Services Appliance (CSA) flaw</title>
@@ -173,11 +183,6 @@
       <pubDate>Thu, 19 Sep 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Join us at Microsoft Ignite 2024 and learn to build a security-first culture with AI</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/09/19/join-us-at-microsoft-ignite-2024-and-learn-to-build-a-security-first-culture-with-ai/</link>
-      <pubDate>Thu, 19 Sep 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>U.S. CISA adds Microsoft Windows, Apache HugeGraph-Server, Oracle JDeveloper, Oracle WebLogic Server, and Microsoft SQL Server bugs to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/168592/security/u-s-cisa-windows-apache-hugegraph-oracle-jdeveloper-oracle-weblogic-sql-server-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Thu, 19 Sep 2024 15:47:30 +0000</pubDate>
@@ -198,6 +203,21 @@
       <pubDate>Thu, 19 Sep 2024 15:00:43 +0000</pubDate>
     </item>
     <item>
+      <title>Nix Security Update Advisory (CVE-2024-45593)</title>
+      <link>https://asec.ahnlab.com/en/83291/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Product Security Update Advisory (CVE-2024-45823, CVE-2024-45824)</title>
+      <link>https://asec.ahnlab.com/en/83290/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 20, 2024</title>
+      <link>https://asec.ahnlab.com/en/83279/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Android Malware &amp; Security Issue 3st Week of September, 2024</title>
       <link>https://asec.ahnlab.com/en/83299/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
@@ -215,21 +235,6 @@
     <item>
       <title>D-Link Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83293/</link>
-      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nix Security Update Advisory (CVE-2024-45593)</title>
-      <link>https://asec.ahnlab.com/en/83291/</link>
-      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Product Security Update Advisory (CVE-2024-45823, CVE-2024-45824)</title>
-      <link>https://asec.ahnlab.com/en/83290/</link>
-      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 20, 2024</title>
-      <link>https://asec.ahnlab.com/en/83279/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Astra Vulnerability Scanner Review (2024): How Good Is Astra?</title>
       <link>https://www.techrepublic.com/article/astra-review/</link>
       <pubDate>Thu, 19 Sep 2024 11:24:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>8000 Claimants Sue Outsourcing Giant Capita Over 2023 Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/8000-claimants-sue-outsourcing/</link>
-      <pubDate>Thu, 19 Sep 2024 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
