@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Sep 2024 08:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 10:17:57 +0000</lastBuildDate>
     <item>
       <title>Ukraine bans Telegram for government agencies, military, and critical infrastructure</title>
       <link>https://securityaffairs.com/168674/cyber-warfare-2/ukraine-nccc-banned-telegram-military-government.html</link>
@@ -101,6 +101,11 @@
       <title>Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229</link>
       <pubDate>Fri, 20 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI, CISA warning over false claims of hacked voter data – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/false-claims-hacked-voter-data-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 20 Sep 2024 11:03:10 +0000</pubDate>
     </item>
     <item>
       <title>Passwordless AND Keyless: The Future of (Privileged) Access Management</title>
@@ -213,6 +218,11 @@
       <pubDate>Thu, 19 Sep 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Join us at Microsoft Ignite 2024 and learn to build a security-first culture with AI</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/09/19/join-us-at-microsoft-ignite-2024-and-learn-to-build-a-security-first-culture-with-ai/</link>
+      <pubDate>Thu, 19 Sep 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. CISA adds Microsoft Windows, Apache HugeGraph-Server, Oracle JDeveloper, Oracle WebLogic Server, and Microsoft SQL Server bugs to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/168592/security/u-s-cisa-windows-apache-hugegraph-oracle-jdeveloper-oracle-weblogic-sql-server-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Thu, 19 Sep 2024 15:47:30 +0000</pubDate>
@@ -233,21 +243,6 @@
       <pubDate>Thu, 19 Sep 2024 15:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>Nix Security Update Advisory (CVE-2024-45593)</title>
-      <link>https://asec.ahnlab.com/en/83291/</link>
-      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Product Security Update Advisory (CVE-2024-45823, CVE-2024-45824)</title>
-      <link>https://asec.ahnlab.com/en/83290/</link>
-      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 20, 2024</title>
-      <link>https://asec.ahnlab.com/en/83279/</link>
-      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Android Malware &amp; Security Issue 3st Week of September, 2024</title>
       <link>https://asec.ahnlab.com/en/83299/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
@@ -265,6 +260,21 @@
     <item>
       <title>D-Link Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83293/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nix Security Update Advisory (CVE-2024-45593)</title>
+      <link>https://asec.ahnlab.com/en/83291/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Product Security Update Advisory (CVE-2024-45823, CVE-2024-45824)</title>
+      <link>https://asec.ahnlab.com/en/83290/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 20, 2024</title>
+      <link>https://asec.ahnlab.com/en/83279/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -295,16 +305,6 @@
     <item>
       <title>Kastle Systems Access Control System</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-05</link>
-      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IDEC PLCs</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-02</link>
-      <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MegaSys Computer Technologies Telenium Online Web Application</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-04</link>
       <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
