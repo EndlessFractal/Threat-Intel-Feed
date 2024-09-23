@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Sep 2024 02:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 04:22:45 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Monday, September 23rd, 2024 https://isc.sans.edu/podcastdetail/9148, (Mon, Sep 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/31286</link>
@@ -288,11 +288,6 @@
       <pubDate>Thu, 19 Sep 2024 15:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>Ivanti Product Security Update Advisory (CVE-2024-8963)</title>
-      <link>https://asec.ahnlab.com/en/83309/</link>
-      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Android Malware &amp; Security Issue 3st Week of September, 2024</title>
       <link>https://asec.ahnlab.com/en/83299/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
@@ -305,6 +300,11 @@
     <item>
       <title>Fence Agents Remediation Security Update Advisory (CVE-2024-5651)</title>
       <link>https://asec.ahnlab.com/en/83295/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>D-Link Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83293/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
