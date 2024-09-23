@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Sep 2024 22:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 01:26:11 +0000</lastBuildDate>
     <item>
       <title>September 23, 2024</title>
       <link>https://asec.ahnlab.com/en/83308/</link>
@@ -283,6 +283,11 @@
       <pubDate>Thu, 19 Sep 2024 15:00:43 +0000</pubDate>
     </item>
     <item>
+      <title>Ivanti Product Security Update Advisory (CVE-2024-8963)</title>
+      <link>https://asec.ahnlab.com/en/83309/</link>
+      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Android Malware &amp; Security Issue 3st Week of September, 2024</title>
       <link>https://asec.ahnlab.com/en/83299/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
@@ -300,11 +305,6 @@
     <item>
       <title>D-Link Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83293/</link>
-      <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nix Security Update Advisory (CVE-2024-45593)</title>
-      <link>https://asec.ahnlab.com/en/83291/</link>
       <pubDate>Thu, 19 Sep 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
