@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Sep 2024 10:22:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 12:37:50 +0000</lastBuildDate>
+    <item>
+      <title>THN Cybersecurity Recap: Last Week's Top Threats and Trends (September 16-22)</title>
+      <link>https://thehackernews.com/2024/09/thn-cybersecurity-recap-last-weeks-top.html</link>
+      <pubDate>Mon, 23 Sep 2024 11:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why 'Never Expire' Passwords Can Be a Risky Decision</title>
+      <link>https://thehackernews.com/2024/09/why-never-expire-passwords-can-be-risky.html</link>
+      <pubDate>Mon, 23 Sep 2024 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How the Necro Trojan infiltrated Google Play, again</title>
       <link>https://securelist.com/necro-trojan-is-back-on-google-play/113881/</link>
       <pubDate>Mon, 23 Sep 2024 10:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Flaw in Microchip ASF Exposes IoT Devices to Remote Code Execution Risk</title>
+      <link>https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html</link>
+      <pubDate>Mon, 23 Sep 2024 09:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discord Introduces DAVE Protocol for End-to-End Encryption in Audio and Video Calls</title>
+      <link>https://thehackernews.com/2024/09/discord-introduces-dave-protocol-for.html</link>
+      <pubDate>Mon, 23 Sep 2024 09:43:00 +0000</pubDate>
     </item>
     <item>
       <title>LinkedIn Pauses GenAI Training Following ICO Concerns</title>
@@ -286,26 +306,6 @@
       <title>Wherever There's Ransomware, There's Service Account Compromise. Are You Protected?</title>
       <link>https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html</link>
       <pubDate>Thu, 19 Sep 2024 17:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/19/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Thu, 19 Sep 2024 16:24:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infostealers Cause Surge in Ransomware Attacks, Just One in Three Recover Data</title>
-      <link>https://www.infosecurity-magazine.com/news/infostealers-ransomware-attacks/</link>
-      <pubDate>Thu, 19 Sep 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best of CrowdStrike Fal.Con 2024: Tackling Adversity with a Wave of Cybersecurity Innovation</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/crowdstrike-falcon-2024/</link>
-      <pubDate>Thu, 19 Sep 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms</title>
-      <link>https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html</link>
-      <pubDate>Thu, 19 Sep 2024 15:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
