@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Sep 2024 01:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 02:50:15 +0000</lastBuildDate>
+    <item>
+      <title>llama.cpp Security Update Advisory (CVE-2024-42479)</title>
+      <link>https://asec.ahnlab.com/en/83318/</link>
+      <pubDate>Tue, 24 Sep 2024 00:58:52 +0000</pubDate>
+    </item>
     <item>
       <title>US intelligence agencies confirm Russia is pushing fake videos of Kamala Harris</title>
       <link>https://therecord.media/us-intelligence-confirms-russia-fake-videos</link>
@@ -301,11 +306,6 @@
       <title>-=TWELVE=- is back</title>
       <link>https://securelist.com/twelve-group-unified-kill-chain/113877/</link>
       <pubDate>Fri, 20 Sep 2024 12:31:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229</link>
-      <pubDate>Fri, 20 Sep 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
