@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Sep 2024 02:52:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 04:23:48 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Wednesday, September 25th, 2024 https://isc.sans.edu/podcastdetail/9152, (Wed, Sep 25th)</title>
+      <link>https://isc.sans.edu/diary/rss/31294</link>
+      <pubDate>Wed, 25 Sep 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Investigating Infrastructure and Tactics of Phishing-as-a-Service Platform Sniper Dz</title>
       <link>https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/</link>
@@ -68,8 +73,18 @@
       <pubDate>Tue, 24 Sep 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Intel Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83346/</link>
+      <pubDate>Tue, 24 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>September 25, 2024</title>
       <link>https://asec.ahnlab.com/en/83342/</link>
+      <pubDate>Tue, 24 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, September 2024</title>
+      <link>https://asec.ahnlab.com/en/83348/</link>
       <pubDate>Tue, 24 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -110,6 +125,21 @@
     <item>
       <title>SANS Institute: Top 5 dangerous cyberattack techniques in 2024</title>
       <link>https://securityintelligence.com/articles/sans-institute-top-5-dangerous-cyberattack-techniques/</link>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare helps verify the security of end-to-end encrypted messages by auditing key transparency for WhatsApp</title>
+      <link>https://blog.cloudflare.com/key-transparency</link>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A safer Internet with Cloudflare: free threat intelligence, analytics, and new threat detections</title>
+      <link>https://blog.cloudflare.com/a-safer-internet-with-cloudflare</link>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare partners with Internet Service Providers and network equipment providers to deliver a safer browsing experience to millions of homes</title>
+      <link>https://blog.cloudflare.com/safer-resolver</link>
       <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>San Francisco’s fight against deepfake porn, with City Attorney David Chiu (Lock and Code S05E20)</title>
       <link>https://www.malwarebytes.com/blog/podcast/2024/09/san-franciscos-fight-against-deepfake-porn-with-city-attorney-david-chiu-lock-and-code-s05e20</link>
       <pubDate>Mon, 23 Sep 2024 16:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Create an Effective Cybersecurity Awareness Program</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/how-to-create-cybersecurity-awareness-program/</link>
-      <pubDate>Mon, 23 Sep 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacking the “Bike Angels” System for Moving Bikeshares</title>
-      <link>https://www.schneier.com/blog/archives/2024/09/hacking-the-bike-angels-system-for-moving-bikeshares.html</link>
-      <pubDate>Mon, 23 Sep 2024 15:46:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerabilities Found in Popular Houzez Theme and Plugin</title>
-      <link>https://www.infosecurity-magazine.com/news/vulnerabilities-found-houzez-theme/</link>
-      <pubDate>Mon, 23 Sep 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos named a Leader in the 2024 Gartner®️ Magic Quadrant™️ for Endpoint Protection Platforms</title>
-      <link>https://news.sophos.com/en-us/2024/09/23/sophos-named-a-leader-in-the-2024-gartner-magic-quadrant-for-endpoint-protection-platforms/</link>
-      <pubDate>Mon, 23 Sep 2024 15:14:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acronis Product Security Update Advisory (CVE-2024-8767)</title>
-      <link>https://asec.ahnlab.com/en/83327/</link>
-      <pubDate>Mon, 23 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js Security Update Advisory (CVE-2024-46982)</title>
-      <link>https://asec.ahnlab.com/en/83326/</link>
-      <pubDate>Mon, 23 Sep 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
