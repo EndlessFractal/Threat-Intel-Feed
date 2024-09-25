@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Sep 2024 20:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 22:17:57 +0000</lastBuildDate>
     <item>
       <title>New variant of Necro Trojan infected more than 11 million devices</title>
       <link>https://securityaffairs.com/168898/malware/new-necro-trojan-apps-11m-downloads.html</link>
@@ -71,6 +71,11 @@
       <title>Modified LockBit and Conti ransomware shows up in DragonForce gang’s attacks</title>
       <link>https://therecord.media/lockbit-conti-dragonforce-ransomware-cybercrime</link>
       <pubDate>Wed, 25 Sep 2024 15:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 26, 2024</title>
+      <link>https://asec.ahnlab.com/en/83356/</link>
+      <pubDate>Wed, 25 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mozilla Faces Privacy Complaint for Enabling Tracking in Firefox Without User Consent</title>
@@ -248,6 +253,11 @@
       <pubDate>Tue, 24 Sep 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, September 2024</title>
+      <link>https://asec.ahnlab.com/en/83348/</link>
+      <pubDate>Tue, 24 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Intel Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83346/</link>
       <pubDate>Tue, 24 Sep 2024 15:00:00 +0000</pubDate>
@@ -255,11 +265,6 @@
     <item>
       <title>September 25, 2024</title>
       <link>https://asec.ahnlab.com/en/83342/</link>
-      <pubDate>Tue, 24 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, September 2024</title>
-      <link>https://asec.ahnlab.com/en/83348/</link>
       <pubDate>Tue, 24 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -300,11 +305,6 @@
     <item>
       <title>Franklin Fueling Systems TS-550 EVO</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-268-03</link>
-      <pubDate>Tue, 24 Sep 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moxa MXview One</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-268-05</link>
       <pubDate>Tue, 24 Sep 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
