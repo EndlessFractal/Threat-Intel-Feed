@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 10:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 12:41:46 +0000</lastBuildDate>
+    <item>
+      <title>Privacy watchdog files complaint over Firefox quietly enabling its Privacy Preserving Attribution</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/09/privacy-watchdog-files-complaint-over-firefox-quietly-enabling-its-privacy-preserving-attribution</link>
+      <pubDate>Thu, 26 Sep 2024 12:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advanced Threat Protection Solutions: Our Top Picks for 2024</title>
+      <link>https://www.techrepublic.com/article/advanced-threat-protection-solutions/</link>
+      <pubDate>Thu, 26 Sep 2024 12:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telegram will hand over user details to law enforcement</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/09/telegram-will-hand-over-user-details-to-law-enforcement</link>
+      <pubDate>Thu, 26 Sep 2024 11:38:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Analysis of the EU’s Cyber Resilience Act</title>
+      <link>https://www.schneier.com/blog/archives/2024/09/an-analysis-of-the-eus-cyber-resilience-act.html</link>
+      <pubDate>Thu, 26 Sep 2024 11:03:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>EPSS vs. CVSS: What’s the Best Approach to Vulnerability Prioritization?</title>
+      <link>https://thehackernews.com/2024/09/epss-vs-cvss-whats-best-approach-to.html</link>
+      <pubDate>Thu, 26 Sep 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>16-30 June 2024 Cyber Attacks Timeline</title>
+      <link>https://www.hackmageddon.com/2024/09/26/16-30-june-2024-cyber-attacks-timeline/</link>
+      <pubDate>Thu, 26 Sep 2024 10:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watering Hole Attack on Kurdish Sites Distributing Malicious APKs and Spyware</title>
+      <link>https://thehackernews.com/2024/09/watering-hole-attack-on-kurdish-sites.html</link>
+      <pubDate>Thu, 26 Sep 2024 10:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get Real-World Cybersecurity Skills for $30</title>
+      <link>https://www.techrepublic.com/article/cyber-security-projects-bundle/</link>
+      <pubDate>Thu, 26 Sep 2024 10:33:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privacy non-profit noyb claims that Firefox tracks users with privacy preserving feature</title>
+      <link>https://securityaffairs.com/168927/digital-id/firefox-enables-tracking-firefox.html</link>
+      <pubDate>Thu, 26 Sep 2024 10:01:04 +0000</pubDate>
+    </item>
     <item>
       <title>Unraveling Sparkling Pisces’s Tool Set: KLogEXE and FPSpy</title>
       <link>https://unit42.paloaltonetworks.com/kimsuky-new-keylogger-backdoor-variant/</link>
@@ -111,11 +156,6 @@
       <title>Talos discovers denial-of-service vulnerability in Microsoft Audio Bus; Potential remote code execution in popular open-source PLC</title>
       <link>https://blog.talosintelligence.com/talos-discovers-denial-of-service-vulnerability-in-microsoft-audio-bus-potential-remote-code-execution-in-popular-open-source-plc/</link>
       <pubDate>Wed, 25 Sep 2024 16:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Activate your data responsibly in the era of AI with Microsoft Purview</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/09/25/activate-your-data-responsibly-in-the-era-of-ai-with-microsoft-purview/</link>
-      <pubDate>Wed, 25 Sep 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>82% of Phishing Sites Now Target Mobile Devices</title>
@@ -266,46 +306,6 @@
       <title>New Android banking trojan Octo2 targets European banks</title>
       <link>https://securityaffairs.com/168857/malware/octo2-android-banking-trojan.html</link>
       <pubDate>Wed, 25 Sep 2024 06:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Flags Critical Ivanti vTM Vulnerability Amid Active Exploitation Concerns</title>
-      <link>https://thehackernews.com/2024/09/cisa-flags-critical-ivanti-vtm.html</link>
-      <pubDate>Wed, 25 Sep 2024 06:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, September 25th, 2024 https://isc.sans.edu/podcastdetail/9152, (Wed, Sep 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/31294</link>
-      <pubDate>Wed, 25 Sep 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating Infrastructure and Tactics of Phishing-as-a-Service Platform Sniper Dz</title>
-      <link>https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/</link>
-      <pubDate>Tue, 24 Sep 2024 21:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>A generative artificial intelligence malware used in phishing attacks</title>
-      <link>https://securityaffairs.com/168840/malware/generative-artificial-intelligence-malware.html</link>
-      <pubDate>Tue, 24 Sep 2024 20:08:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Shift to JavaScript-Based Phishing Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/threat-actors-shift-javascript/</link>
-      <pubDate>Tue, 24 Sep 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Incident Affects Arkansas City Water Treatment Facility</title>
-      <link>https://www.infosecurity-magazine.com/news/incident-arkansas-city-water/</link>
-      <pubDate>Tue, 24 Sep 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Necro Android Malware Found in Popular Camera and Browser Apps on Play Store</title>
-      <link>https://thehackernews.com/2024/09/necro-android-malware-found-in-popular.html</link>
-      <pubDate>Tue, 24 Sep 2024 16:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Initiative the ‘Largest Cybersecurity Engineering Effort in History’</title>
-      <link>https://www.techrepublic.com/article/microsoft-secure-future-initiative-report/</link>
-      <pubDate>Tue, 24 Sep 2024 16:01:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
