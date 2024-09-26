@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 02:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 04:23:56 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Thursday, September 26th, 2024 https://isc.sans.edu/podcastdetail/9154, (Thu, Sep 26th)</title>
+      <link>https://isc.sans.edu/diary/rss/31300</link>
+      <pubDate>Thu, 26 Sep 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>OSINT - Image Analysis or More Where, When, and Metadata [Guest Diary], (Wed, Sep 25th)</title>
       <link>https://isc.sans.edu/diary/rss/31298</link>
@@ -66,6 +71,11 @@
       <title>Talos discovers denial-of-service vulnerability in Microsoft Audio Bus; Potential remote code execution in popular open-source PLC</title>
       <link>https://blog.talosintelligence.com/talos-discovers-denial-of-service-vulnerability-in-microsoft-audio-bus-potential-remote-code-execution-in-popular-open-source-plc/</link>
       <pubDate>Wed, 25 Sep 2024 16:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Activate your data responsibly in the era of AI with Microsoft Purview</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/09/25/activate-your-data-responsibly-in-the-era-of-ai-with-microsoft-purview/</link>
+      <pubDate>Wed, 25 Sep 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>82% of Phishing Sites Now Target Mobile Devices</title>
@@ -288,24 +298,14 @@
       <pubDate>Tue, 24 Sep 2024 14:15:41 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Trustworthy AI: Unlocking human potential starts with trust</title>
+      <link>https://blogs.microsoft.com/blog/2024/09/24/microsoft-trustworthy-ai-unlocking-human-potential-starts-with-trust/</link>
+      <pubDate>Tue, 24 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. Proposes Ban on Connected Vehicles Using Chinese and Russian Tech</title>
       <link>https://thehackernews.com/2024/09/us-proposes-ban-on-connected-vehicles.html</link>
       <pubDate>Tue, 24 Sep 2024 13:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SANS Institute: Top 5 dangerous cyberattack techniques in 2024</title>
-      <link>https://securityintelligence.com/articles/sans-institute-top-5-dangerous-cyberattack-techniques/</link>
-      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare helps verify the security of end-to-end encrypted messages by auditing key transparency for WhatsApp</title>
-      <link>https://blog.cloudflare.com/key-transparency</link>
-      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A safer Internet with Cloudflare: free threat intelligence, analytics, and new threat detections</title>
-      <link>https://blog.cloudflare.com/a-safer-internet-with-cloudflare</link>
-      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
