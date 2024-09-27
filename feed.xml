@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Sep 2024 02:50:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 04:23:17 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Friday, September 27th, 2024 https://isc.sans.edu/podcastdetail/9156, (Fri, Sep 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/31304</link>
+      <pubDate>Fri, 27 Sep 2024 02:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>Hacking Kia cars made after 2013 using just their license plate</title>
       <link>https://securityaffairs.com/168966/hacking/hacking-kia-cars-made-after-2013.html</link>
@@ -63,13 +68,13 @@
       <pubDate>Thu, 26 Sep 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>September 27, 2024</title>
-      <link>https://asec.ahnlab.com/en/83381/</link>
+      <title>Android Malware &amp; Security Issue 4st Week of September, 2024</title>
+      <link>https://asec.ahnlab.com/en/83385/</link>
       <pubDate>Thu, 26 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Android Malware &amp; Security Issue 4st Week of September, 2024</title>
-      <link>https://asec.ahnlab.com/en/83385/</link>
+      <title>September 27, 2024</title>
+      <link>https://asec.ahnlab.com/en/83381/</link>
       <pubDate>Thu, 26 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Google's Shift to Rust Programming Cuts Android Memory Vulnerabilities by 52%</title>
       <link>https://thehackernews.com/2024/09/googles-shift-to-rust-programming-cuts.html</link>
       <pubDate>Wed, 25 Sep 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DNS Reflection Update and Odd Corrupted DNS Requests, (Wed, Sep 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/31296</link>
-      <pubDate>Wed, 25 Sep 2024 16:33:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
