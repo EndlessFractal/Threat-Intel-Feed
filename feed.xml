@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Sep 2024 01:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 02:50:45 +0000</lastBuildDate>
     <item>
       <title>Hacking Kia cars made after 2013 using just their license plate</title>
       <link>https://securityaffairs.com/168966/hacking/hacking-kia-cars-made-after-2013.html</link>
@@ -65,6 +65,11 @@
     <item>
       <title>September 27, 2024</title>
       <link>https://asec.ahnlab.com/en/83381/</link>
+      <pubDate>Thu, 26 Sep 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 4st Week of September, 2024</title>
+      <link>https://asec.ahnlab.com/en/83385/</link>
       <pubDate>Thu, 26 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>DNS Reflection Update and Odd Corrupted DNS Requests, (Wed, Sep 25th)</title>
       <link>https://isc.sans.edu/diary/rss/31296</link>
       <pubDate>Wed, 25 Sep 2024 16:33:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Timeshare Owner? The Mexican Drug Cartels Want You</title>
-      <link>https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/</link>
-      <pubDate>Wed, 25 Sep 2024 16:26:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
