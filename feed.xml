@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Sep 2024 22:16:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 01:36:51 +0000</lastBuildDate>
     <item>
       <title>Israel army hacked the communication network of the Beirut Airport control tower</title>
       <link>https://securityaffairs.com/169080/cyber-warfare-2/idf-hacked-beirut-airport-control-tower.html</link>
@@ -78,6 +78,11 @@
       <pubDate>Fri, 27 Sep 2024 22:35:19 +0000</pubDate>
     </item>
     <item>
+      <title>UK national hacked public companies for stock trading intel, DOJ says</title>
+      <link>https://therecord.media/uk-national-hacked-companies-trading</link>
+      <pubDate>Fri, 27 Sep 2024 21:10:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Squid Fishing in Japan</title>
       <link>https://www.schneier.com/blog/archives/2024/09/squid-fishing-in-japan.html</link>
       <pubDate>Fri, 27 Sep 2024 21:06:23 +0000</pubDate>
@@ -86,6 +91,11 @@
       <title>Australian Organisations Targeted by Phishing Attacks Disguised as Atlassian</title>
       <link>https://www.techrepublic.com/article/phishing-attacks-australia-atlassian/</link>
       <pubDate>Fri, 27 Sep 2024 19:28:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>US charges three Iranians allegedly behind Trump campaign hack</title>
+      <link>https://therecord.media/us-charges-iranians-behind-hack</link>
+      <pubDate>Fri, 27 Sep 2024 19:06:29 +0000</pubDate>
     </item>
     <item>
       <title>Cyber vandalism on Wi-Fi networks at UK train stations spread an anti-Islam message</title>
@@ -133,6 +143,11 @@
       <pubDate>Fri, 27 Sep 2024 14:50:00 +0000</pubDate>
     </item>
     <item>
+      <title>Pentagon gives thumbs-down to cyber service proposal in defense bills</title>
+      <link>https://therecord.media/pentagon-asks-congress-drop-cyber-force-study-defense-bill</link>
+      <pubDate>Fri, 27 Sep 2024 14:02:35 +0000</pubDate>
+    </item>
+    <item>
       <title>CUPS flaws allow remote code execution on Linux systems under certain conditions</title>
       <link>https://securityaffairs.com/169001/hacking/cups-flaws-allow-rce-on-linux-systems.html</link>
       <pubDate>Fri, 27 Sep 2024 14:00:43 +0000</pubDate>
@@ -158,9 +173,19 @@
       <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>GCHQ: Lawyers don’t undermine cyber capabilities, they underpin them</title>
+      <link>https://therecord.media/gchq-officials-defend-legal-frameworks-cyber-operations</link>
+      <pubDate>Fri, 27 Sep 2024 12:49:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Critical Linux CUPS Printing System Flaws Could Allow Remote Command Execution</title>
       <link>https://thehackernews.com/2024/09/critical-linux-cups-printing-system.html</link>
       <pubDate>Fri, 27 Sep 2024 12:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta fined $101 million for storing hundreds of millions of passwords in plaintext</title>
+      <link>https://therecord.media/meta-unprotected-passwords-fine-gdpr</link>
+      <pubDate>Fri, 27 Sep 2024 11:43:28 +0000</pubDate>
     </item>
     <item>
       <title>How to Plan and Prepare for Penetration Testing</title>
@@ -213,6 +238,16 @@
       <pubDate>Fri, 27 Sep 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cisco Family September 2024 Secondary Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83430/</link>
+      <pubDate>Fri, 27 Sep 2024 08:28:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>TeamViewer Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83427/</link>
+      <pubDate>Fri, 27 Sep 2024 08:27:50 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. Sanctions Two Crypto Exchanges for Facilitating Cybercrime and Money Laundering</title>
       <link>https://thehackernews.com/2024/09/us-sanctions-two-crypto-exchanges-for.html</link>
       <pubDate>Fri, 27 Sep 2024 07:47:00 +0000</pubDate>
@@ -258,8 +293,8 @@
       <pubDate>Thu, 26 Sep 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>September 27, 2024</title>
-      <link>https://asec.ahnlab.com/en/83381/</link>
+      <title>WordPress The Events Calendar Plugin security update advisory (CVE-2024-8275)</title>
+      <link>https://asec.ahnlab.com/en/83428/</link>
       <pubDate>Thu, 26 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -268,44 +303,9 @@
       <pubDate>Thu, 26 Sep 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. Indicts 2 Top Russian Hackers, Sanctions Cryptex</title>
-      <link>https://krebsonsecurity.com/2024/09/u-s-indicts-2-top-russian-hackers-sanctions-cryptex/</link>
-      <pubDate>Thu, 26 Sep 2024 14:54:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>When UK rail stations’ Wi-Fi was defaced by hackers the only casualty was the truth</title>
-      <link>https://www.bitdefender.com/blog/hotforsecurity/when-uk-rail-stations-wi-fi-was-defaced-by-hackers-the-only-casualty-was-the-truth/</link>
-      <pubDate>Thu, 26 Sep 2024 14:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gamaredon Attack Detection: Cyber-Espionage Operations Against Ukraine by the russia-linked APT</title>
-      <link>https://socprime.com/blog/gamaredon-attack-detection-cyber-espionage-operations-against-ukraine/</link>
-      <pubDate>Thu, 26 Sep 2024 14:11:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over a Third of Employees Secretly Sharing Work Info with AI</title>
-      <link>https://www.infosecurity-magazine.com/news/third-employees-sharing-work-info/</link>
-      <pubDate>Thu, 26 Sep 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA warns hackers targeting industrial systems with “unsophisticated methods” as claims made of Lebanon water hack</title>
-      <link>https://www.tripwire.com/state-of-security/cisa-warns-hackers-targeting-industrial-systems-unsophisticated-methods</link>
-      <pubDate>Thu, 26 Sep 2024 13:34:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Hack UK Rail Network Wi-Fi</title>
-      <link>https://www.infosecurity-magazine.com/news/cybercriminals-hack-uk-rail-wifi/</link>
-      <pubDate>Thu, 26 Sep 2024 13:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simple Mail Transfer Pirates:   How threat actors are abusing third-party infrastructure to send spam</title>
-      <link>https://blog.talosintelligence.com/simple-mail-transfer-pirates/</link>
-      <pubDate>Thu, 26 Sep 2024 13:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>First Mobile Crypto Drainer Found on Google Play</title>
-      <link>https://www.infosecurity-magazine.com/news/first-mobile-crypto-drainer-google/</link>
-      <pubDate>Thu, 26 Sep 2024 13:00:00 +0000</pubDate>
+      <title>September 27, 2024</title>
+      <link>https://asec.ahnlab.com/en/83381/</link>
+      <pubDate>Thu, 26 Sep 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
