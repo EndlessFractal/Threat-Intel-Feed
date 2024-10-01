@@ -6,11 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Oct 2024 10:22:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 12:38:48 +0000</lastBuildDate>
+    <item>
+      <title>Top 7 Cyber Threat Hunting Tools Reviewed by Experts for 2024</title>
+      <link>https://www.techrepublic.com/article/cyber-threat-hunting-tools/</link>
+      <pubDate>Tue, 01 Oct 2024 12:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Threat Hunting In Cybersecurity?</title>
+      <link>https://www.techrepublic.com/article/cyber-threat-hunting/</link>
+      <pubDate>Tue, 01 Oct 2024 12:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advanced Threat Protection Solutions: Our Top Picks for 2024</title>
+      <link>https://www.techrepublic.com/article/advanced-threat-protection-solutions/</link>
+      <pubDate>Tue, 01 Oct 2024 12:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting CUPS Exploits: Critical Security Vulnerabilities in Linux and Unix Systems Allow Remote Code Execution</title>
+      <link>https://socprime.com/blog/detecting-cups-exploits/</link>
+      <pubDate>Tue, 01 Oct 2024 11:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking ChatGPT by Planting False Memories into Its Data</title>
+      <link>https://www.schneier.com/blog/archives/2024/10/hacking-chatgpt-by-planting-false-memories-into-its-data.html</link>
+      <pubDate>Tue, 01 Oct 2024 11:07:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos announced as inaugural sponsor of The Hacking Games</title>
+      <link>https://news.sophos.com/en-us/2024/10/01/sophos-announced-as-inaugural-sponsor-of-the-hacking-games/</link>
+      <pubDate>Tue, 01 Oct 2024 11:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Actionable Steps to Prevent GenAI Data Leaks Without Fully Blocking AI Usage</title>
+      <link>https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html</link>
+      <pubDate>Tue, 01 Oct 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facebook and Instagram passwords were stored in plaintext, Meta fined</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/10/facebook-and-instagram-passwords-were-stored-in-plaintext-meta-fined</link>
+      <pubDate>Tue, 01 Oct 2024 10:29:41 +0000</pubDate>
+    </item>
     <item>
       <title>Uncoder for Flexible Threat Detection: From Cloud to Air-Gapped Networks</title>
       <link>https://socprime.com/blog/uncoder-for-flexible-threat-detection-from-cloud-to-air-gapped-networks/</link>
       <pubDate>Tue, 01 Oct 2024 10:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>News agency AFP hit by cyberattack, client services impacted</title>
+      <link>https://securityaffairs.com/169175/hacking/news-agency-afp-hit-by-cyberattack-client-services-impacted.html</link>
+      <pubDate>Tue, 01 Oct 2024 10:09:09 +0000</pubDate>
     </item>
     <item>
       <title>Key Group: another ransomware group using leaked builders</title>
@@ -261,51 +306,6 @@
       <title>September 30, 2024</title>
       <link>https://asec.ahnlab.com/en/83424/</link>
       <pubDate>Sun, 29 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 13</title>
-      <link>https://securityaffairs.com/169073/breaking-news/security-affairs-malware-newsletter-round-13.html</link>
-      <pubDate>Sun, 29 Sep 2024 13:45:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 491 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/169063/breaking-news/security-affairs-newsletter-round-491-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 29 Sep 2024 13:08:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can CISOs Meet Expectations?</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/can-cisos-meet-expectations</link>
-      <pubDate>Sun, 29 Sep 2024 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In tackling Vladimir Putin’s web of troll farms and hackers, we have one advantage: democracy | Peter Pomarantsev</title>
-      <link>https://www.theguardian.com/commentisfree/2024/sep/29/in-tackling-vladimir-putins-web-of-troll-farms-and-hackers-we-have-one-advantage-democracy</link>
-      <pubDate>Sun, 29 Sep 2024 08:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Progress Software fixed 2 new critical flaws in WhatsUp Gold</title>
-      <link>https://securityaffairs.com/169056/security/progress-software-whatsup-gold-critical-bugs.html</link>
-      <pubDate>Sun, 29 Sep 2024 07:43:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 419</title>
-      <link>https://www.troyhunt.com/weekly-update-419/</link>
-      <pubDate>Sat, 28 Sep 2024 21:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Irish Data Protection Commission fined Meta €91 million for storing passwords in readable format</title>
-      <link>https://securityaffairs.com/169045/social-networks/irish-data-protection-commission-fined-meta-euro-91-million.html</link>
-      <pubDate>Sat, 28 Sep 2024 15:18:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 29, 2024</title>
-      <link>https://asec.ahnlab.com/en/83421/</link>
-      <pubDate>Sat, 28 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crypto Scam App Disguised as WalletConnect Steals $70K in Five-Month Campaign</title>
-      <link>https://thehackernews.com/2024/09/crypto-scam-app-disguised-as.html</link>
-      <pubDate>Sat, 28 Sep 2024 09:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
