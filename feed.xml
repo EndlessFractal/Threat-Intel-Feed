@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Oct 2024 10:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 12:37:58 +0000</lastBuildDate>
+    <item>
+      <title>As ransomware attacks surge, UK privacy regulator investigating fewer incidents than ever</title>
+      <link>https://therecord.media/uk-ico-ransomware-investigations-data</link>
+      <pubDate>Thu, 03 Oct 2024 12:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Radiology provider exposed tens of thousands of patient files</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/10/radiology-provider-exposes-tens-of-thousands-of-patient-files</link>
+      <pubDate>Thu, 03 Oct 2024 12:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Spending on the Rise, But Security Leaders Still Feel Vulnerable</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-security-leaders/</link>
+      <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sellafield, UK’s largest nuclear site, fined £330,000 for cybersecurity failings</title>
+      <link>https://therecord.media/sellafield-nuclear-site-cybersecurity-failings-fine</link>
+      <pubDate>Thu, 03 Oct 2024 11:48:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weird Zimbra Vulnerability</title>
+      <link>https://www.schneier.com/blog/archives/2024/10/weird-zimbra-vulnerability.html</link>
+      <pubDate>Thu, 03 Oct 2024 11:04:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Northern Ireland Police Data Leak Sees Service Fined by ICO</title>
+      <link>https://www.infosecurity-magazine.com/news/northern-ireland-police-data-leak-1/</link>
+      <pubDate>Thu, 03 Oct 2024 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat actor believed to be spreading new MedusaLocker variant since 2022</title>
       <link>https://blog.talosintelligence.com/threat-actor-believed-to-be-spreading-new-medusalocker-variant-since-2022/</link>
@@ -21,6 +51,11 @@
       <title>Crypto-Doubling Scams Surge Following Presidential Debate</title>
       <link>https://www.infosecurity-magazine.com/news/cryptodoubling-scams-surge/</link>
       <pubDate>Thu, 03 Oct 2024 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>INTERPOL Arrests 8 in Major Phishing and Romance Fraud Crackdown in West Africa</title>
+      <link>https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html</link>
+      <pubDate>Thu, 03 Oct 2024 09:10:00 +0000</pubDate>
     </item>
     <item>
       <title>Email Phishing Attacks Surge as Attackers Bypass Security Controls</title>
@@ -98,11 +133,6 @@
       <pubDate>Wed, 02 Oct 2024 18:11:33 +0000</pubDate>
     </item>
     <item>
-      <title>Zimbra bug causes alarm among researchers, CERTs after exploitation attempts</title>
-      <link>https://therecord.media/zimbra-email-vulnerability-exploitation</link>
-      <pubDate>Wed, 02 Oct 2024 18:07:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Security related Docker containers, (Wed, Oct 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/31318</link>
       <pubDate>Wed, 02 Oct 2024 18:03:00 +0000</pubDate>
@@ -126,11 +156,6 @@
       <title>ACSC and CISA Launch Critical OT Cybersecurity Guidelines</title>
       <link>https://www.infosecurity-magazine.com/news/acsc-cisa-launch-ot-guidelines/</link>
       <pubDate>Wed, 02 Oct 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>International police dismantle cybercrime group in West Africa</title>
-      <link>https://therecord.media/interpol-west-africa-cybercrime-group-cote-divoire</link>
-      <pubDate>Wed, 02 Oct 2024 16:04:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Balance Data Storage, Features, and Cost in Security Applications</title>
@@ -185,6 +210,11 @@
     <item>
       <title>Cybersecurity Awareness Month: Cybersecurity awareness for developers</title>
       <link>https://securityintelligence.com/articles/cybersecurity-awareness-developers/</link>
+      <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack</title>
+      <link>https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack</link>
       <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>ISC Stormcast For Wednesday, October 2nd, 2024 https://isc.sans.edu/podcastdetail/9162, (Wed, Oct 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/31316</link>
       <pubDate>Wed, 02 Oct 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Disney+ activation page redirects to pornographic scam</title>
-      <link>https://www.malwarebytes.com/blog/scams/2024/10/fake-disney-activation-page-redirects-to-pornographic-scam</link>
-      <pubDate>Tue, 01 Oct 2024 21:16:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is Inside Microsoft’s Major Windows 11 Update?</title>
-      <link>https://www.techrepublic.com/article/microsoft-windows-11-2024-update-24h2/</link>
-      <pubDate>Tue, 01 Oct 2024 19:08:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>UMC Health System diverted patients following a ransomware attack</title>
-      <link>https://securityaffairs.com/169198/cyber-crime/umc-health-system-cyberattack.html</link>
-      <pubDate>Tue, 01 Oct 2024 18:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #18: ChatGPT’s false memories, and would an inner critic stop AI hallucinations?</title>
-      <link>https://grahamcluley.com/the-ai-fix-18/</link>
-      <pubDate>Tue, 01 Oct 2024 16:51:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>SophosAI at Virus Bulletin ’24: Using multimodal AI as a “sixth sense” for cyber defense</title>
-      <link>https://news.sophos.com/en-us/2024/10/01/sophos-ai-at-virus-bulletin-24-using-multimodal-ai-as-a-sixth-sense-for-cyber-defense/</link>
-      <pubDate>Tue, 01 Oct 2024 16:49:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Powered Rhadamanthys Stealer Targets Crypto Wallets with Image Recognition</title>
-      <link>https://thehackernews.com/2024/10/ai-powered-rhadamanthys-stealer-targets.html</link>
-      <pubDate>Tue, 01 Oct 2024 16:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
