@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Oct 2024 01:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 02:50:21 +0000</lastBuildDate>
+    <item>
+      <title>Kickstart Your DShield Honeypot [Guest Diary], (Thu, Oct 3rd)</title>
+      <link>https://isc.sans.edu/diary/rss/31320</link>
+      <pubDate>Thu, 03 Oct 2024 00:04:17 +0000</pubDate>
+    </item>
     <item>
       <title>Northern Ireland police fined for data breach exposing secret identities of officers</title>
       <link>https://therecord.media/northern-ireland-police-fined-data-breach</link>
@@ -125,6 +130,11 @@
     <item>
       <title>Cybersecurity Awareness Month: Cybersecurity awareness for developers</title>
       <link>https://securityintelligence.com/articles/cybersecurity-awareness-developers/</link>
+      <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack</title>
+      <link>https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack</link>
       <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -268,11 +278,6 @@
       <pubDate>Tue, 01 Oct 2024 15:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, October 2024</title>
-      <link>https://asec.ahnlab.com/en/83492/</link>
-      <pubDate>Tue, 01 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Zimbra Product Security Update Advisory (CVE-2024-45519)</title>
       <link>https://asec.ahnlab.com/en/83490/</link>
       <pubDate>Tue, 01 Oct 2024 15:00:00 +0000</pubDate>
@@ -288,6 +293,11 @@
       <pubDate>Tue, 01 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, October 2024</title>
+      <link>https://asec.ahnlab.com/en/83492/</link>
+      <pubDate>Tue, 01 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2024</title>
       <link>https://www.techrepublic.com/article/top-tech-conferences-events/</link>
       <pubDate>Tue, 01 Oct 2024 14:22:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Global Cyber Attacks to Double from 2020 to 2024, Report Finds</title>
       <link>https://www.techrepublic.com/article/global-cyber-attacks-double-qbe/</link>
       <pubDate>Tue, 01 Oct 2024 14:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android users targeted on Facebook and porn sites, served adware</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/10/android-users-targeted-on-facebook-and-porn-sites-served-adware</link>
-      <pubDate>Tue, 01 Oct 2024 14:16:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds D-Link DIR-820 Router, DrayTek Multiple Vigor Router, Motion Spell GPAC, SAP Commerce Cloud bugs to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/169189/hacking/u-s-cisa-adds-d-link-dir-820-router-draytek-multiple-vigor-router-motion-spell-gpac-sap-commerce-cloud-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Tue, 01 Oct 2024 14:13:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
