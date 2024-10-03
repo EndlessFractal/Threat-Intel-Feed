@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Oct 2024 16:24:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 18:26:28 +0000</lastBuildDate>
+    <item>
+      <title>CISA is warning us (again) about the threat to critical infrastructure networks</title>
+      <link>https://blog.talosintelligence.com/threat-source-newsletter-oct-3-2024/</link>
+      <pubDate>Thu, 03 Oct 2024 18:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOJ, Microsoft seize dozens of domains ‘used by Russian intelligence agents’</title>
+      <link>https://therecord.media/doj-microsoft-seize-domains-russian-intelligence</link>
+      <pubDate>Thu, 03 Oct 2024 17:03:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effective Fuzzing: A Dav1d Case Study</title>
+      <link>https://googleprojectzero.blogspot.com/2024/10/effective-fuzzing-dav1d-case-study.html</link>
+      <pubDate>Thu, 03 Oct 2024 17:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android 14 Adds New Security Features to Block 2G Exploits and Baseband Attacks</title>
+      <link>https://thehackernews.com/2024/10/android-14-adds-new-security-features.html</link>
+      <pubDate>Thu, 03 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TikTok more dangerous to Ukraine than Telegram, say local disinformation experts</title>
+      <link>https://therecord.media/tiktok-more-dangerous-ukraine-telegram</link>
+      <pubDate>Thu, 03 Oct 2024 16:52:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Litespeed Cache Plugin Flaw Allows XSS Attack, Update Now</title>
+      <link>https://www.infosecurity-magazine.com/news/litespeed-cache-plugin-flaw-allows/</link>
+      <pubDate>Thu, 03 Oct 2024 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft and US Government Disrupt Russian Star Blizzard Operations</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-us-govenment-disrupt/</link>
@@ -88,11 +118,6 @@
       <pubDate>Thu, 03 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>As ransomware attacks surge, UK privacy regulator investigating fewer incidents than ever</title>
-      <link>https://therecord.media/uk-ico-ransomware-investigations-data</link>
-      <pubDate>Thu, 03 Oct 2024 12:16:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Radiology provider exposed tens of thousands of patient files</title>
       <link>https://www.malwarebytes.com/blog/news/2024/10/radiology-provider-exposes-tens-of-thousands-of-patient-files</link>
       <pubDate>Thu, 03 Oct 2024 12:06:25 +0000</pubDate>
@@ -123,9 +148,9 @@
       <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sellafield, UK’s largest nuclear site, fined £330,000 for cybersecurity failings</title>
-      <link>https://therecord.media/sellafield-nuclear-site-cybersecurity-failings-fine</link>
-      <pubDate>Thu, 03 Oct 2024 11:48:30 +0000</pubDate>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Weird Zimbra Vulnerability</title>
@@ -281,31 +306,6 @@
       <title>Adaptive Threat Hunting | Adopting a Multi-Directional Approach</title>
       <link>https://www.sentinelone.com/blog/adaptive-threat-hunting-adopting-a-multi-directional-approach/</link>
       <pubDate>Wed, 02 Oct 2024 13:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>80% of Manufacturing Firms Have Critical Vulnerabilities</title>
-      <link>https://www.infosecurity-magazine.com/news/manufacturing-critical/</link>
-      <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alert: Over 700,000 DrayTek Routers Exposed to Hacking via 14 New Vulnerabilities</title>
-      <link>https://thehackernews.com/2024/10/alert-over-700000-draytek-routers.html</link>
-      <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Awareness Month: Cybersecurity awareness for developers</title>
-      <link>https://securityintelligence.com/articles/cybersecurity-awareness-developers/</link>
-      <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack</title>
-      <link>https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack</link>
-      <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Firewall v21: Streamlined management</title>
-      <link>https://news.sophos.com/en-us/2024/10/02/sophos-firewall-v21-streamlined-management/</link>
-      <pubDate>Wed, 02 Oct 2024 12:35:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
