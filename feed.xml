@@ -6,16 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Oct 2024 08:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 10:21:15 +0000</lastBuildDate>
+    <item>
+      <title>How to Get Going with CTEM When You Don't Know Where to Start</title>
+      <link>https://thehackernews.com/2024/10/how-to-get-going-with-ctem-when-you.html</link>
+      <pubDate>Fri, 04 Oct 2024 09:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Thwarts Largest-Ever 3.8 Tbps DDoS Attack Targeting Global Sectors</title>
+      <link>https://thehackernews.com/2024/10/cloudflare-thwarts-largest-ever-38-tbps.html</link>
+      <pubDate>Fri, 04 Oct 2024 09:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sellafield Fined for Cybersecurity Failures at Nuclear Site</title>
+      <link>https://www.infosecurity-magazine.com/news/sellafield-fined-cybersecurity/</link>
+      <pubDate>Fri, 04 Oct 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks</title>
+      <link>https://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html</link>
+      <pubDate>Fri, 04 Oct 2024 09:11:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sellafield nuclear site hit with £332,500 fine after “significant cybersecurity shortfalls”</title>
       <link>https://www.bitdefender.com/blog/hotforsecurity/sellafield-nuclear-site-332500-fine-cybersecurity-shortfalls/</link>
       <pubDate>Fri, 04 Oct 2024 08:12:08 +0000</pubDate>
     </item>
     <item>
+      <title>Scam Information and Event Management</title>
+      <link>https://securelist.com/miner-campaign-misuses-open-source-siem-agent/114022/</link>
+      <pubDate>Fri, 04 Oct 2024 08:00:48 +0000</pubDate>
+    </item>
+    <item>
       <title>CRI Releases Guidance on Avoiding Ransomware Payments</title>
       <link>https://www.infosecurity-magazine.com/news/cri-releases-guidance-ransomware/</link>
       <pubDate>Fri, 04 Oct 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity and compliance: The dynamic duo of 2024</title>
+      <link>https://grahamcluley.com/feed-sponsor-manageengine/</link>
+      <pubDate>Fri, 04 Oct 2024 07:39:37 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft and DOJ seized the attack infrastructure used by Russia-linked Callisto Group</title>
@@ -108,11 +138,6 @@
       <pubDate>Thu, 03 Oct 2024 15:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>Android Malware &amp; Security Issue 1st Week of October, 2024</title>
-      <link>https://asec.ahnlab.com/en/83552/</link>
-      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Western Digital Product Security Update Advisory (CVE-2024-22170)</title>
       <link>https://asec.ahnlab.com/en/83546/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
@@ -145,6 +170,11 @@
     <item>
       <title>October 04, 2024</title>
       <link>https://asec.ahnlab.com/en/83530/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 1st Week of October, 2024</title>
+      <link>https://asec.ahnlab.com/en/83552/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>Ivanti Endpoint Manager Flaw Actively Targeted, CISA Warns Agencies to Patch</title>
       <link>https://thehackernews.com/2024/10/ivanti-endpoint-manager-flaw-actively.html</link>
       <pubDate>Thu, 03 Oct 2024 06:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telegram revealed it shared U.S. user data with law enforcement</title>
-      <link>https://securityaffairs.com/169288/digital-id/telegramshared-u-s-user-data-with-law-enforcement.html</link>
-      <pubDate>Thu, 03 Oct 2024 05:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, October 3rd, 2024 https://isc.sans.edu/podcastdetail/9164, (Thu, Oct 3rd)</title>
-      <link>https://isc.sans.edu/diary/rss/31322</link>
-      <pubDate>Thu, 03 Oct 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kickstart Your DShield Honeypot [Guest Diary], (Thu, Oct 3rd)</title>
-      <link>https://isc.sans.edu/diary/rss/31320</link>
-      <pubDate>Thu, 03 Oct 2024 00:04:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #387: Breaches in your genes, and Kaspersky switcheroo raises a red flag</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-387/</link>
-      <pubDate>Wed, 02 Oct 2024 23:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Singularity Cloud Native Security | Now Available in the Asia Pacific Region</title>
-      <link>https://www.sentinelone.com/blog/singularity-cloud-native-security-now-ga-in-the-asia-pacific-region/</link>
-      <pubDate>Wed, 02 Oct 2024 21:01:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Ivanti Endpoint Manager (EPM) flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/169279/security/u-s-cisa-adds-ivanti-epm-flaw-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 02 Oct 2024 19:29:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
