@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Oct 2024 01:26:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 02:50:45 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Friday, October 4th, 2024 https://isc.sans.edu/podcastdetail/9166, (Fri, Oct 4th)</title>
+      <link>https://isc.sans.edu/diary/rss/31324</link>
+      <pubDate>Fri, 04 Oct 2024 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Family October 2024 First Round Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83541/</link>
+      <pubDate>Fri, 04 Oct 2024 01:58:10 +0000</pubDate>
+    </item>
     <item>
       <title>Dutch police breached by a state actor</title>
       <link>https://securityaffairs.com/169328/hacking/dutch-police-breached-by-state-actor.html</link>
@@ -80,6 +90,36 @@
     <item>
       <title>October 04, 2024</title>
       <link>https://asec.ahnlab.com/en/83530/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Western Digital Product Security Update Advisory (CVE-2024-22170)</title>
+      <link>https://asec.ahnlab.com/en/83546/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PLANET Technology Product Security Update Advisory (CVE-2024-8456)</title>
+      <link>https://asec.ahnlab.com/en/83545/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HPE Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83544/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DrayTek Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83543/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WatchGuard Authentication Gateway Recommends Single Sign-On Security Measures</title>
+      <link>https://asec.ahnlab.com/en/83542/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress GiveWP Plugin Security Update Advisory (CVE-2024-8353)</title>
+      <link>https://asec.ahnlab.com/en/83540/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -266,46 +306,6 @@
       <title>Cybersecurity Awareness Month: A timely reminder to review your security posture</title>
       <link>https://news.sophos.com/en-us/2024/10/02/cybersecurity-awareness-month-a-timely-reminder-to-review-your-security-posture/</link>
       <pubDate>Wed, 02 Oct 2024 16:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sellafield ordered to pay nearly £400,000 over cybersecurity failings</title>
-      <link>https://www.theguardian.com/business/2024/oct/02/sellafield-ordered-to-pay-nearly-400000-over-cybersecurity-failings</link>
-      <pubDate>Wed, 02 Oct 2024 16:18:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACSC and CISA Launch Critical OT Cybersecurity Guidelines</title>
-      <link>https://www.infosecurity-magazine.com/news/acsc-cisa-launch-ot-guidelines/</link>
-      <pubDate>Wed, 02 Oct 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Balance Data Storage, Features, and Cost in Security Applications</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/how-to-balance-data-storage-features-and-cost-in-security-applications/</link>
-      <pubDate>Wed, 02 Oct 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 Must-Read Books on Cybersecurity</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/10-must-read-books-on-cybersecurity/</link>
-      <pubDate>Wed, 02 Oct 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stonefly Group Targets US Firms With New Malware Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/stonefly-targets-us-firms-new/</link>
-      <pubDate>Wed, 02 Oct 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked CeranaKeeper Targeting Southeast Asia with Data Exfiltration</title>
-      <link>https://thehackernews.com/2024/10/china-linked-ceranakeeper-targeting.html</link>
-      <pubDate>Wed, 02 Oct 2024 15:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Job Applications Deliver Dangerous More_eggs Malware to HR Professionals</title>
-      <link>https://thehackernews.com/2024/10/fake-job-applications-deliver-dangerous.html</link>
-      <pubDate>Wed, 02 Oct 2024 15:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 03, 2024</title>
-      <link>https://asec.ahnlab.com/en/83524/</link>
-      <pubDate>Wed, 02 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
