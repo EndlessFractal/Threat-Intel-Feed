@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Oct 2024 20:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 22:17:30 +0000</lastBuildDate>
+    <item>
+      <title>Setting Up Your Network Security? Avoid These 4 Mistakes</title>
+      <link>https://www.techrepublic.com/article/network-security/</link>
+      <pubDate>Fri, 04 Oct 2024 21:59:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: Map of All Colossal Squid Sightings</title>
+      <link>https://www.schneier.com/blog/archives/2024/10/friday-squid-blogging-map-of-all-colossal-squid-sightings.html</link>
+      <pubDate>Fri, 04 Oct 2024 21:07:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Way to Hide: Uncovering New Campaigns from Daily Tunneling Detection</title>
+      <link>https://unit42.paloaltonetworks.com/detecting-dns-tunneling-campaigns/</link>
+      <pubDate>Fri, 04 Oct 2024 21:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google removed Kaspersky’s security apps from the Play Store</title>
+      <link>https://securityaffairs.com/169362/security/google-removed-kaspersky-apps-from-the-play-store.html</link>
+      <pubDate>Fri, 04 Oct 2024 20:18:32 +0000</pubDate>
+    </item>
     <item>
       <title>Over 5,000 Fake Microsoft Notifications Fueling Email Compromise Campaigns</title>
       <link>https://www.techrepublic.com/article/spoof-microsoft-notifications-2024/</link>
       <pubDate>Fri, 04 Oct 2024 16:41:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are Ghost Calls a Problem? Yes, if They Don’t Stop</title>
+      <link>https://www.techrepublic.com/article/ghost-calls/</link>
+      <pubDate>Fri, 04 Oct 2024 16:05:28 +0000</pubDate>
     </item>
     <item>
       <title>Tech platforms urged to tackle Hamas’ and Hezbollah’s online propaganda</title>
@@ -26,6 +51,11 @@
       <title>Dutch police blame ‘state actor’ for recent data breach</title>
       <link>https://therecord.media/dutch-police-state-actor-breach</link>
       <pubDate>Fri, 04 Oct 2024 15:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 05, 2024</title>
+      <link>https://asec.ahnlab.com/en/83556/</link>
+      <pubDate>Fri, 04 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Survey of CUPS exploit attempts, (Fri, Oct 4th)</title>
@@ -188,11 +218,6 @@
       <pubDate>Thu, 03 Oct 2024 15:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>October 04, 2024</title>
-      <link>https://asec.ahnlab.com/en/83530/</link>
-      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Android Malware &amp; Security Issue 1st Week of October, 2024</title>
       <link>https://asec.ahnlab.com/en/83552/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
@@ -225,6 +250,11 @@
     <item>
       <title>WordPress GiveWP Plugin Security Update Advisory (CVE-2024-8353)</title>
       <link>https://asec.ahnlab.com/en/83540/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 04, 2024</title>
+      <link>https://asec.ahnlab.com/en/83530/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>Radiology provider exposed tens of thousands of patient files</title>
       <link>https://www.malwarebytes.com/blog/news/2024/10/radiology-provider-exposes-tens-of-thousands-of-patient-files</link>
       <pubDate>Thu, 03 Oct 2024 12:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Spending on the Rise, But Security Leaders Still Feel Vulnerable</title>
-      <link>https://www.infosecurity-magazine.com/news/cybersecurity-security-leaders/</link>
-      <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subnet Solutions Inc. PowerSYSTEM Center</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-277-02</link>
-      <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TEM Opera Plus FM Family Transmitter</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-277-01</link>
-      <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Delta Electronics DIAEnergie</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-277-03</link>
-      <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Three Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-releases-three-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
