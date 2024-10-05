@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 04:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 06:25:48 +0000</lastBuildDate>
+    <item>
+      <title>Apple iOS 18.0.1 and iPadOS 18.0.1 fix media session and passwords bugs</title>
+      <link>https://securityaffairs.com/169381/mobile-2/apple-ios-18-0-1.html</link>
+      <pubDate>Sat, 05 Oct 2024 05:59:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Releases Critical iOS and iPadOS Updates to Fix VoiceOver Password Vulnerability</title>
+      <link>https://thehackernews.com/2024/10/apple-releases-critical-ios-and-ipados.html</link>
+      <pubDate>Sat, 05 Oct 2024 04:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Setting Up Your Network Security? Avoid These 4 Mistakes</title>
       <link>https://www.techrepublic.com/article/network-security/</link>
@@ -218,11 +228,6 @@
       <pubDate>Thu, 03 Oct 2024 15:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>October 04, 2024</title>
-      <link>https://asec.ahnlab.com/en/83530/</link>
-      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Android Malware &amp; Security Issue 1st Week of October, 2024</title>
       <link>https://asec.ahnlab.com/en/83552/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
@@ -255,6 +260,11 @@
     <item>
       <title>WordPress GiveWP Plugin Security Update Advisory (CVE-2024-8353)</title>
       <link>https://asec.ahnlab.com/en/83540/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 04, 2024</title>
+      <link>https://asec.ahnlab.com/en/83530/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>North Korean Hackers Using New VeilShell Backdoor in Stealthy Cyber Attacks</title>
       <link>https://thehackernews.com/2024/10/north-korean-hackers-using-new.html</link>
       <pubDate>Thu, 03 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trends: Hardware gets AI updates in 2024</title>
-      <link>https://securityintelligence.com/articles/trends-hardware-gets-ai-updates-2024/</link>
-      <pubDate>Thu, 03 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Radiology provider exposed tens of thousands of patient files</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/10/radiology-provider-exposes-tens-of-thousands-of-patient-files</link>
-      <pubDate>Thu, 03 Oct 2024 12:06:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
