@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 12:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 14:15:50 +0000</lastBuildDate>
+    <item>
+      <title>WordPress LiteSpeed Cache plugin flaw could allow site takeover</title>
+      <link>https://securityaffairs.com/169390/security/wordpress-litespeed-cache-plugin-flaw-site-takeover.html</link>
+      <pubDate>Sat, 05 Oct 2024 13:48:37 +0000</pubDate>
+    </item>
     <item>
       <title>Apple iOS 18.0.1 and iPadOS 18.0.1 fix media session and passwords bugs</title>
       <link>https://securityaffairs.com/169381/mobile-2/apple-ios-18-0-1.html</link>
@@ -228,16 +233,6 @@
       <pubDate>Thu, 03 Oct 2024 15:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>WatchGuard Authentication Gateway Recommends Single Sign-On Security Measures</title>
-      <link>https://asec.ahnlab.com/en/83542/</link>
-      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress GiveWP Plugin Security Update Advisory (CVE-2024-8353)</title>
-      <link>https://asec.ahnlab.com/en/83540/</link>
-      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>October 04, 2024</title>
       <link>https://asec.ahnlab.com/en/83530/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
@@ -265,6 +260,16 @@
     <item>
       <title>DrayTek Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83543/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WatchGuard Authentication Gateway Recommends Single Sign-On Security Measures</title>
+      <link>https://asec.ahnlab.com/en/83542/</link>
+      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress GiveWP Plugin Security Update Advisory (CVE-2024-8353)</title>
+      <link>https://asec.ahnlab.com/en/83540/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Cloudflare mitigated new record-breaking DDoS attack of 3.8 Tbps</title>
       <link>https://securityaffairs.com/169305/hacking/new-record-breaking-ddos-attack-3-8-tbps.html</link>
       <pubDate>Thu, 03 Oct 2024 13:01:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Using New VeilShell Backdoor in Stealthy Cyber Attacks</title>
-      <link>https://thehackernews.com/2024/10/north-korean-hackers-using-new.html</link>
-      <pubDate>Thu, 03 Oct 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
