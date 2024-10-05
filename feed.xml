@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 18:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 20:18:52 +0000</lastBuildDate>
     <item>
       <title>WordPress LiteSpeed Cache plugin flaw could allow site takeover</title>
       <link>https://securityaffairs.com/169390/security/wordpress-litespeed-cache-plugin-flaw-site-takeover.html</link>
@@ -116,6 +116,11 @@
       <title>White House official says insurance companies must stop funding ransomware payments</title>
       <link>https://therecord.media/cyber-insurance-ransomware-payments-anne-neuberger-op-ed</link>
       <pubDate>Fri, 04 Oct 2024 12:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The complexities of attack attribution – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/complexities-attack-attribution-week-security-tony-anscombe/</link>
+      <pubDate>Fri, 04 Oct 2024 11:55:10 +0000</pubDate>
     </item>
     <item>
       <title>How to Get Going with CTEM When You Don't Know Where to Start</title>
@@ -301,11 +306,6 @@
       <title>A Single Cloud Compromise Can Feed an Army of AI Sex Bots</title>
       <link>https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/</link>
       <pubDate>Thu, 03 Oct 2024 13:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare mitigated new record-breaking DDoS attack of 3.8 Tbps</title>
-      <link>https://securityaffairs.com/169305/hacking/new-record-breaking-ddos-attack-3-8-tbps.html</link>
-      <pubDate>Thu, 03 Oct 2024 13:01:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
