@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 01:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 02:53:48 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Edge browser (129.0.2792.79) version security update advisory</title>
+      <link>https://asec.ahnlab.com/en/83580/</link>
+      <pubDate>Mon, 07 Oct 2024 02:22:24 +0000</pubDate>
+    </item>
     <item>
       <title>China-linked group Salt Typhoon hacked US broadband providers and breached wiretap systems</title>
       <link>https://securityaffairs.com/169460/apt/salt-typhoon-hacked-us-broadband-providers.html</link>
@@ -15,6 +20,16 @@
     <item>
       <title>October 07, 2024</title>
       <link>https://asec.ahnlab.com/en/83573/</link>
+      <pubDate>Sun, 06 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Authd PAM Security Update Advisory (CVE-2024-9313)</title>
+      <link>https://asec.ahnlab.com/en/83582/</link>
+      <pubDate>Sun, 06 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Octopus Server Security Update Advisory (CVE-2024-9194)</title>
+      <link>https://asec.ahnlab.com/en/83581/</link>
       <pubDate>Sun, 06 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -278,11 +293,6 @@
       <pubDate>Thu, 03 Oct 2024 15:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>October 04, 2024</title>
-      <link>https://asec.ahnlab.com/en/83530/</link>
-      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Android Malware &amp; Security Issue 1st Week of October, 2024</title>
       <link>https://asec.ahnlab.com/en/83552/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
@@ -295,16 +305,6 @@
     <item>
       <title>PLANET Technology Product Security Update Advisory (CVE-2024-8456)</title>
       <link>https://asec.ahnlab.com/en/83545/</link>
-      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HPE Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83544/</link>
-      <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DrayTek Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83543/</link>
       <pubDate>Thu, 03 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
