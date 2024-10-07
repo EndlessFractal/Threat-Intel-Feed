@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 20:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 22:19:01 +0000</lastBuildDate>
     <item>
       <title>Timeline: 15 Notable Cyberattacks and Data Breaches</title>
       <link>https://www.techrepublic.com/article/top-15-cyber-crimes/</link>
@@ -65,6 +65,11 @@
     <item>
       <title>Board-CISO Mismatch on Cyber Responsibility, NCSC Research Finds</title>
       <link>https://www.infosecurity-magazine.com/news/boardciso-mismatch-on-cyber/</link>
+      <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 08, 2024</title>
+      <link>https://asec.ahnlab.com/en/83597/</link>
       <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>No Way to Hide: Uncovering New Campaigns from Daily Tunneling Detection</title>
       <link>https://unit42.paloaltonetworks.com/detecting-dns-tunneling-campaigns/</link>
       <pubDate>Fri, 04 Oct 2024 21:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 5,000 Fake Microsoft Notifications Fueling Email Compromise Campaigns</title>
-      <link>https://www.techrepublic.com/article/spoof-microsoft-notifications-2024/</link>
-      <pubDate>Fri, 04 Oct 2024 16:41:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
