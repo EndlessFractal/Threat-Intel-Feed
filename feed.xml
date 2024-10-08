@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Oct 2024 18:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 20:16:52 +0000</lastBuildDate>
+    <item>
+      <title>MoneyGram confirms customer data breach</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/10/moneygram-confirms-customer-data-breach</link>
+      <pubDate>Tue, 08 Oct 2024 19:42:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases October 2024 Security Updates</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/08/microsoft-releases-october-2024-security-updates</link>
+      <pubDate>Tue, 08 Oct 2024 19:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Largest Patch Tuesday since July includes two exploited in the wild, three critical vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-october-2024/</link>
+      <pubDate>Tue, 08 Oct 2024 19:04:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian national pleads guilty in U.S. court for operating the Raccoon Infostealer</title>
+      <link>https://securityaffairs.com/169547/cyber-crime/ukrainian-national-pleads-guilty-for-operating-raccoon-infostealer.html</link>
+      <pubDate>Tue, 08 Oct 2024 18:37:53 +0000</pubDate>
+    </item>
     <item>
       <title>Zero-Day Alert: Three Critical Ivanti CSA Vulnerabilities Actively Exploited</title>
       <link>https://thehackernews.com/2024/10/zero-day-alert-three-critical-ivanti.html</link>
@@ -115,6 +135,11 @@
     <item>
       <title>Avoid Scams After Disaster Strikes</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/10/08/avoid-scams-after-disaster-strikes</link>
+      <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -238,6 +263,21 @@
       <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Optigo Networks Product Security Advisory</title>
+      <link>https://asec.ahnlab.com/en/83644/</link>
+      <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nessus Network Monitor Security Update Advisory (CVE-2024-9158)</title>
+      <link>https://asec.ahnlab.com/en/83643/</link>
+      <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress LiteSpeed Cache Plugin Security Update Advisory (CVE-2024-47374)</title>
+      <link>https://asec.ahnlab.com/en/83642/</link>
+      <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Foxit Product Security Update Advisory (CVE-2024-28888)</title>
       <link>https://asec.ahnlab.com/en/83630/</link>
       <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
@@ -258,21 +298,6 @@
       <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Optigo Networks Product Security Advisory</title>
-      <link>https://asec.ahnlab.com/en/83644/</link>
-      <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nessus Network Monitor Security Update Advisory (CVE-2024-9158)</title>
-      <link>https://asec.ahnlab.com/en/83643/</link>
-      <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress LiteSpeed Cache Plugin Security Update Advisory (CVE-2024-47374)</title>
-      <link>https://asec.ahnlab.com/en/83642/</link>
-      <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Learn Cybersecurity Essentials for Just $40 from Home</title>
       <link>https://www.techrepublic.com/article/the-cybersecurity-essentials-course-bundle/</link>
       <pubDate>Mon, 07 Oct 2024 14:32:56 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>ICO Releases New Data Protection Audit Framework</title>
       <link>https://www.infosecurity-magazine.com/news/ico-data-protection-audit-framework/</link>
       <pubDate>Mon, 07 Oct 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kyiv’s hackers launched an unprecedented cyber attack on Russian state media VGTRK on Putin’s birthday</title>
-      <link>https://securityaffairs.com/169486/cyber-warfare-2/kyivs-hackers-hit-russian-state-media.html</link>
-      <pubDate>Mon, 07 Oct 2024 14:11:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-cloud Strategies Making DDI and DNS Cumbersome to Manage</title>
-      <link>https://www.techrepublic.com/article/infoblox-multi-cloud-strategies/</link>
-      <pubDate>Mon, 07 Oct 2024 13:54:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Gorilla Botnet Launches Over 300,000 DDoS Attacks Across 100 Countries</title>
-      <link>https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html</link>
-      <pubDate>Mon, 07 Oct 2024 13:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU Urged to Harmonize Incident Reporting Requirements</title>
-      <link>https://www.infosecurity-magazine.com/news/eu-urged-harmonize-incident/</link>
-      <pubDate>Mon, 07 Oct 2024 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone flaw could read your saved passwords out loud. Update now!</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/10/iphone-flaw-could-read-your-saved-passwords-out-loud-update-now</link>
-      <pubDate>Mon, 07 Oct 2024 13:37:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
