@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Oct 2024 22:18:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 01:25:53 +0000</lastBuildDate>
+    <item>
+      <title>Patch Tuesday, October 2024 Edition</title>
+      <link>https://krebsonsecurity.com/2024/10/patch-tuesday-october-2024-edition/</link>
+      <pubDate>Tue, 08 Oct 2024 22:21:19 +0000</pubDate>
+    </item>
     <item>
       <title>Three new Ivanti CSA zero-day actively exploited in attacks</title>
       <link>https://securityaffairs.com/169553/hacking/ivanti-csa-zero-days-actively-exploited.html</link>
@@ -300,11 +305,6 @@
     <item>
       <title>Apple Family Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83629/</link>
-      <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RAON Secure product security update advisory</title>
-      <link>https://asec.ahnlab.com/en/83622/</link>
       <pubDate>Mon, 07 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
