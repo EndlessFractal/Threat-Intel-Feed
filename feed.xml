@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 14:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 16:23:36 +0000</lastBuildDate>
+    <item>
+      <title>Apple’s iPhone Mirroring Flaw Exposes Employee Privacy Risks</title>
+      <link>https://www.infosecurity-magazine.com/news/apples-iphone-mirroring-flaw/</link>
+      <pubDate>Wed, 09 Oct 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability in popular PDF reader could lead to arbitrary code execution; Multiple issues in GNOME project</title>
+      <link>https://blog.talosintelligence.com/vulnerability-roundup-foxit-gnome-oct-9-2024/</link>
+      <pubDate>Wed, 09 Oct 2024 16:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>European Commission finds US agencies are adhering to data protection commitments</title>
+      <link>https://therecord.media/european-commission-data-privacy-framework-us-agencies</link>
+      <pubDate>Wed, 09 Oct 2024 15:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover Major Security Vulnerabilities in Industrial MMS Protocol Libraries</title>
+      <link>https://thehackernews.com/2024/10/researchers-uncover-major-security.html</link>
+      <pubDate>Wed, 09 Oct 2024 15:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New BeaverTail Malware Targets Job Seekers via Fake Recruiters</title>
+      <link>https://www.infosecurity-magazine.com/news/beavertail-malware-job-seekers/</link>
+      <pubDate>Wed, 09 Oct 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Generation of Malicious QR Codes Uncovered by Researchers</title>
+      <link>https://www.infosecurity-magazine.com/news/new-gen-malicious-qr-codes/</link>
+      <pubDate>Wed, 09 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Launches New Competition to Spur Cybersecurity Careers</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-competition-cybersecurity/</link>
+      <pubDate>Wed, 09 Oct 2024 14:26:00 +0000</pubDate>
+    </item>
     <item>
       <title>Rejoice! The charade of having to change our passwords every few months is coming to an end | Kate O'Flaherty</title>
       <link>https://www.theguardian.com/commentisfree/2024/oct/09/charade-change-passwords-cyberattacks</link>
@@ -21,6 +56,11 @@
       <title>Cloud and Container | The Attack &amp; Defend Series</title>
       <link>https://www.sentinelone.com/blog/cloud-and-container-the-attack-defend-series/</link>
       <pubDate>Wed, 09 Oct 2024 13:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>N. Korean Hackers Use Fake Interviews to Infect Developers with Cross-Platform Malware</title>
+      <link>https://thehackernews.com/2024/10/n-korean-hackers-use-fake-interviews-to.html</link>
+      <pubDate>Wed, 09 Oct 2024 13:33:00 +0000</pubDate>
     </item>
     <item>
       <title>Russia and Turkey ban Discord messaging app</title>
@@ -45,6 +85,11 @@
     <item>
       <title>Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024</title>
       <link>https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024-2</link>
+      <pubDate>Wed, 09 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/09/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Wed, 09 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -133,14 +178,14 @@
       <pubDate>Tue, 08 Oct 2024 21:26:20 +0000</pubDate>
     </item>
     <item>
+      <title>How an IDOR Vulnerability Led to User Profile Modification</title>
+      <link>https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive</link>
+      <pubDate>Tue, 08 Oct 2024 20:53:50 +0000</pubDate>
+    </item>
+    <item>
       <title>MoneyGram confirms customer data breach</title>
       <link>https://www.malwarebytes.com/blog/news/2024/10/moneygram-confirms-customer-data-breach</link>
       <pubDate>Tue, 08 Oct 2024 19:42:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases October 2024 Security Updates</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/08/microsoft-releases-october-2024-security-updates</link>
-      <pubDate>Tue, 08 Oct 2024 19:37:58 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Patch Tuesday - October 2024, (Tue, Oct 8th)</title>
@@ -175,6 +220,11 @@
     <item>
       <title>How to Safeguard Enterprises from Exploitation of AI Applications</title>
       <link>https://www.techrepublic.com/resource-library/downloads/how-to-safeguard-enterprises-from-exploitation-of-ai-applications/</link>
+      <pubDate>Tue, 08 Oct 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>File hosting services misused for identity phishing</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/10/08/file-hosting-services-misused-for-identity-phishing/</link>
       <pubDate>Tue, 08 Oct 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -213,11 +263,6 @@
       <pubDate>Tue, 08 Oct 2024 13:50:09 +0000</pubDate>
     </item>
     <item>
-      <title>Ukrainian pleads guilty to running Raccoon Infostealer malware, agrees to pay nearly $1 million</title>
-      <link>https://therecord.media/raccoon-stealer-operator-pleads-guilty</link>
-      <pubDate>Tue, 08 Oct 2024 13:37:41 +0000</pubDate>
-    </item>
-    <item>
       <title>31 New Ransomware Groups Join the Ecosystem in 12 Months</title>
       <link>https://www.infosecurity-magazine.com/news/new-ransomware-groups-emerge-2024/</link>
       <pubDate>Tue, 08 Oct 2024 13:30:00 +0000</pubDate>
@@ -253,59 +298,14 @@
       <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Adobe Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/08/adobe-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA and FBI Release Fact Sheet on Protecting Against Iranian Targeting of Accounts Associated with National Political Organizations</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-and-fbi-release-fact-sheet-protecting-against-iranian-targeting-accounts-associated-national</link>
       <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Avoid Scams After Disaster Strikes</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/08/avoid-scams-after-disaster-strikes</link>
+      <title>Adobe Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/08/adobe-releases-security-updates-multiple-products</link>
       <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOC Prime Threat Bounty Digest — September 2024 Results</title>
-      <link>https://socprime.com/blog/soc-prime-threat-bounty-digest-september-2024-results/</link>
-      <pubDate>Tue, 08 Oct 2024 11:22:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattack Group 'Awaken Likho' Targets Russian Government with Advanced Tools</title>
-      <link>https://thehackernews.com/2024/10/cyberattack-group-awaken-likho-targets.html</link>
-      <pubDate>Tue, 08 Oct 2024 11:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China Possibly Hacking US “Lawful Access” Backdoor</title>
-      <link>https://www.schneier.com/blog/archives/2024/10/china-possibly-hacking-us-lawful-access-backdoor.html</link>
-      <pubDate>Tue, 08 Oct 2024 11:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Case Study: The Evil Twin Checkout Page</title>
-      <link>https://thehackernews.com/2024/10/new-case-study-evil-twin-checkout-page.html</link>
-      <pubDate>Tue, 08 Oct 2024 10:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GoldenJackal Target Embassies and Air-Gapped Systems Using Malware Toolsets</title>
-      <link>https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html</link>
-      <pubDate>Tue, 08 Oct 2024 10:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Fraud Cost up to $37bn in Southeast Asia Last Year</title>
-      <link>https://www.infosecurity-magazine.com/news/cyber-fraud-cost-37bn-southeast/</link>
-      <pubDate>Tue, 08 Oct 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MoneyGram discloses data breach following September cyberattack</title>
-      <link>https://securityaffairs.com/169527/data-breach/moneygram-disclosed-a-data-breach.html</link>
-      <pubDate>Tue, 08 Oct 2024 10:18:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
