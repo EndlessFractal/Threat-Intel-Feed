@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 16:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 18:26:05 +0000</lastBuildDate>
+    <item>
+      <title>Lamborghini Carjackers Lured by $243M Cyberheist</title>
+      <link>https://krebsonsecurity.com/2024/10/lamborghini-carjackers-lured-by-243m-cyberheist/</link>
+      <pubDate>Wed, 09 Oct 2024 17:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Are Targeting AI Conversational Platforms</title>
+      <link>https://securityaffairs.com/169580/security/cybercriminals-are-targeting-ai-conversational-platforms.html</link>
+      <pubDate>Wed, 09 Oct 2024 17:33:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Search user interface: A/B testing shows security concerns remain</title>
+      <link>https://www.malwarebytes.com/blog/cybercrime/2024/10/google-search-user-interface-a-b-testing-shows-security-concerns-remain</link>
+      <pubDate>Wed, 09 Oct 2024 17:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Joins Forces with GASA and DNS RF to Tackle Online Scams at Scale</title>
+      <link>https://thehackernews.com/2024/10/google-joins-forces-with-gasa-and-dns.html</link>
+      <pubDate>Wed, 09 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>National Cyber Director warns of ransomware, Chinese infrastructure attacks and cyber supply chain concerns</title>
+      <link>https://therecord.media/national-cyber-director-coker-warns-ransomware-supply-chain-attacks-china-critical-infrastructure</link>
+      <pubDate>Wed, 09 Oct 2024 16:55:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected Bohemia dark web marketplace admins arrested by Dutch, Irish police</title>
+      <link>https://therecord.media/bohemia-cannabia-dark-web-market-arrests</link>
+      <pubDate>Wed, 09 Oct 2024 16:30:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>20% of Generative AI ‘Jailbreak’ Attacks Succeed, With 90% Exposing Sensitive Data</title>
+      <link>https://www.techrepublic.com/article/genai-jailbreak-report-pillar-security/</link>
+      <pubDate>Wed, 09 Oct 2024 16:29:28 +0000</pubDate>
+    </item>
     <item>
       <title>Apple’s iPhone Mirroring Flaw Exposes Employee Privacy Risks</title>
       <link>https://www.infosecurity-magazine.com/news/apples-iphone-mirroring-flaw/</link>
@@ -223,11 +258,6 @@
       <pubDate>Tue, 08 Oct 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>File hosting services misused for identity phishing</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/10/08/file-hosting-services-misused-for-identity-phishing/</link>
-      <pubDate>Tue, 08 Oct 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cloud Security Risks Surge as 38% of Firms Face Exposures</title>
       <link>https://www.infosecurity-magazine.com/news/cloud-security-risks-surge-38/</link>
       <pubDate>Tue, 08 Oct 2024 15:30:00 +0000</pubDate>
@@ -236,16 +266,6 @@
       <title>Exposing the Facebook funeral livestream scam (Lock and Code S05E21)</title>
       <link>https://www.malwarebytes.com/blog/podcast/2024/10/exposing-the-facebook-funeral-livestream-scam-lock-and-code-s05e21</link>
       <pubDate>Tue, 08 Oct 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Casio says recent cyberattack 'caused system failure'</title>
-      <link>https://therecord.media/casio-cyberattack-system-failure</link>
-      <pubDate>Tue, 08 Oct 2024 15:25:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>State-backed ‘GoldenJackal’ hackers deploy new tools against government entities</title>
-      <link>https://therecord.media/goldenjackal-hackers-target-government-diplomatic-entities</link>
-      <pubDate>Tue, 08 Oct 2024 15:17:22 +0000</pubDate>
     </item>
     <item>
       <title>SOC Prime Successfully Completes SOC 2 Type II Compliance</title>
@@ -286,26 +306,6 @@
       <title>Can a VPN Be Hacked?</title>
       <link>https://www.techrepublic.com/article/can-vpn-be-hacked/</link>
       <pubDate>Tue, 08 Oct 2024 12:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scalability Challenges in Privacy-Preserving Federated Learning</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/scalability-challenges-privacy-preserving-federated-learning</link>
-      <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Warns of Foreign Interference in Congressional Races Ahead of Election</title>
-      <link>https://www.infosecurity-magazine.com/news/us-foreign-interference-congress/</link>
-      <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and FBI Release Fact Sheet on Protecting Against Iranian Targeting of Accounts Associated with National Political Organizations</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-and-fbi-release-fact-sheet-protecting-against-iranian-targeting-accounts-associated-national</link>
-      <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/08/adobe-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
