@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 06:27:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 08:24:53 +0000</lastBuildDate>
+    <item>
+      <title>Mozilla issued an urgent Firefox update to fix an actively exploited flaw</title>
+      <link>https://securityaffairs.com/169590/security/mozilla-firefox-actively-exploited-flaw.html</link>
+      <pubDate>Thu, 10 Oct 2024 07:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Use Unicode to Hide Mongolian Skimmer in E-Commerce Platforms</title>
+      <link>https://thehackernews.com/2024/10/cybercriminals-use-unicode-to-hide.html</link>
+      <pubDate>Thu, 10 Oct 2024 07:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>CISA Warns of Critical Fortinet Flaw as Palo Alto and Cisco Issue Urgent Security Patches</title>
       <link>https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html</link>
@@ -148,6 +158,16 @@
       <pubDate>Wed, 09 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>SAP Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83736/</link>
+      <pubDate>Wed, 09 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83711/</link>
+      <pubDate>Wed, 09 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ivanti Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83706/</link>
       <pubDate>Wed, 09 Oct 2024 15:00:00 +0000</pubDate>
@@ -163,8 +183,8 @@
       <pubDate>Wed, 09 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83711/</link>
+      <title>Ransom &amp; Dark Web Issues Week 2, October 2024</title>
+      <link>https://asec.ahnlab.com/en/83739/</link>
       <pubDate>Wed, 09 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Outmaneuvering Rhysida: How Advanced Threat Intelligence Shields Critical Infrastructure from Ransomware</title>
       <link>https://www.recordedfuture.com/research/outmaneuvering-rhysida-advanced-threat-intelligence-shields-critical-infrastructure-ransomware</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch Tuesday, October 2024 Edition</title>
-      <link>https://krebsonsecurity.com/2024/10/patch-tuesday-october-2024-edition/</link>
-      <pubDate>Tue, 08 Oct 2024 22:21:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three new Ivanti CSA zero-day actively exploited in attacks</title>
-      <link>https://securityaffairs.com/169553/hacking/ivanti-csa-zero-days-actively-exploited.html</link>
-      <pubDate>Tue, 08 Oct 2024 21:26:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>How an IDOR Vulnerability Led to User Profile Modification</title>
-      <link>https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive</link>
-      <pubDate>Tue, 08 Oct 2024 20:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>MoneyGram confirms customer data breach</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/10/moneygram-confirms-customer-data-breach</link>
-      <pubDate>Tue, 08 Oct 2024 19:42:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
