@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 22:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 01:26:11 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #388: Vacuum cleaner voyeur, and pepperoni pact blocks payout</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-388/</link>
+      <pubDate>Wed, 09 Oct 2024 23:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Recruitment Process: What to Expect When You Apply at HackerOne</title>
+      <link>https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone</link>
+      <pubDate>Wed, 09 Oct 2024 22:58:10 +0000</pubDate>
+    </item>
     <item>
       <title>Two updated malware strains used in North Korean fake recruiter scams</title>
       <link>https://therecord.media/updated-malware-strains-north-korea</link>
@@ -31,6 +41,11 @@
       <title>Cybercriminals Are Targeting AI Conversational Platforms</title>
       <link>https://securityaffairs.com/169580/security/cybercriminals-are-targeting-ai-conversational-platforms.html</link>
       <pubDate>Wed, 09 Oct 2024 17:33:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pentesting for Internal Networks</title>
+      <link>https://www.hackerone.com/penetration-testing/internal-network-pentests</link>
+      <pubDate>Wed, 09 Oct 2024 17:29:56 +0000</pubDate>
     </item>
     <item>
       <title>Google Search user interface: A/B testing shows security concerns remain</title>
@@ -278,6 +293,11 @@
       <pubDate>Tue, 08 Oct 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, October 2024</title>
+      <link>https://asec.ahnlab.com/en/83688/</link>
+      <pubDate>Tue, 08 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SOC Prime Successfully Completes SOC 2 Type II Compliance</title>
       <link>https://socprime.com/news/soc-prime-successfully-completes-soc-2-type-ii-compliance/</link>
       <pubDate>Tue, 08 Oct 2024 14:27:34 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>The AI Fix #19: AI spy specs, robot dogs with ladders, and is it AI or the climate?</title>
       <link>https://grahamcluley.com/the-ai-fix-19/</link>
       <pubDate>Tue, 08 Oct 2024 14:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qualcomm fixed a zero-day exploited limited, targeted attacks</title>
-      <link>https://securityaffairs.com/169540/hacking/qualcomm-zero-day-exploited-targeted-attacks.html</link>
-      <pubDate>Tue, 08 Oct 2024 13:50:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>31 New Ransomware Groups Join the Ecosystem in 12 Months</title>
-      <link>https://www.infosecurity-magazine.com/news/new-ransomware-groups-emerge-2024/</link>
-      <pubDate>Tue, 08 Oct 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is AI saving jobs… or taking them?</title>
-      <link>https://securityintelligence.com/articles/is-ai-saving-jobs-or-taking-them/</link>
-      <pubDate>Tue, 08 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare acquires Kivera to add simple, preventive cloud security to Cloudflare One</title>
-      <link>https://blog.cloudflare.com/cloudflare-acquires-kivera</link>
-      <pubDate>Tue, 08 Oct 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
