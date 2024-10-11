@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Oct 2024 02:49:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 04:23:21 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Friday, October 11th, 2024 https://isc.sans.edu/podcastdetail/9176, (Fri, Oct 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/31344</link>
+      <pubDate>Fri, 11 Oct 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Lynx Ransomware: A Rebranding of INC Ransomware</title>
       <link>https://unit42.paloaltonetworks.com/inc-ransomware-rebrand-to-lynx/</link>
@@ -58,11 +63,6 @@
       <pubDate>Thu, 10 Oct 2024 15:03:24 +0000</pubDate>
     </item>
     <item>
-      <title>October 11, 2024</title>
-      <link>https://asec.ahnlab.com/en/83758/</link>
-      <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cisco Family October 2024 Secondary Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83777/</link>
       <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
@@ -80,6 +80,11 @@
     <item>
       <title>GitLab Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83774/</link>
+      <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 11, 2024</title>
+      <link>https://asec.ahnlab.com/en/83758/</link>
       <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Over 240 Million US Breach Victims Recorded in Q3</title>
       <link>https://www.infosecurity-magazine.com/news/240-million-us-breach-victims-q3/</link>
       <pubDate>Thu, 10 Oct 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozilla issued an urgent Firefox update to fix an actively exploited flaw</title>
-      <link>https://securityaffairs.com/169590/security/mozilla-firefox-actively-exploited-flaw.html</link>
-      <pubDate>Thu, 10 Oct 2024 07:40:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
