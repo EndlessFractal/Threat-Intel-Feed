@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Oct 2024 12:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 14:15:48 +0000</lastBuildDate>
     <item>
       <title>Ransomware operators exploited Veeam Backup &amp; Replication flaw CVE-2024-40711 in recent attacks</title>
       <link>https://securityaffairs.com/169679/cyber-crime/ransomware-groups-exploit-veeam-backup-replication-bug.html</link>
@@ -106,11 +106,6 @@
       <title>Cyber insurer says ransomware attacks drove a spike in claim sizes</title>
       <link>https://therecord.media/cyber-insurer-says-ransomware-attacks-drove-higher-claims</link>
       <pubDate>Fri, 11 Oct 2024 14:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>GoldenJackal jumps the air gap … twice  – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/goldenjackal-jumps-air-gap-twice-week-security-tony-anscombe/</link>
-      <pubDate>Fri, 11 Oct 2024 13:28:05 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 41</title>
@@ -305,6 +300,11 @@
     <item>
       <title>Rockwell Automation PowerFlex 6000T</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-284-19</link>
+      <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation DataMosaix Private Cloud</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-284-16</link>
       <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
