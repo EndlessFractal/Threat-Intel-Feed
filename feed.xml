@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Oct 2024 14:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 16:22:27 +0000</lastBuildDate>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 15</title>
       <link>https://securityaffairs.com/169733/uncategorized/security-affairs-malware-newsletter-round-15.html</link>
@@ -106,6 +106,11 @@
       <title>Modern TVs have “unprecedented capabilities for surveillance and manipulation,” group reveals</title>
       <link>https://www.malwarebytes.com/blog/personal/2024/10/modern-tvs-equipped-with-unprecedented-capabilities-for-surveillance-and-manipulation-group-reveals</link>
       <pubDate>Fri, 11 Oct 2024 17:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft’s guidance to help mitigate Kerberoasting</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/10/11/microsofts-guidance-to-help-mitigate-kerberoasting/</link>
+      <pubDate>Fri, 11 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cybersecurity Awareness Lags as Global Workforce Engages in Risky AI Practices</title>
@@ -301,11 +306,6 @@
       <title>E-skimming campaign uses Unicode obfuscation to hide the Mongolian Skimmer</title>
       <link>https://securityaffairs.com/169632/malware/skimming-campaign-mongolian-skimmer.html</link>
       <pubDate>Thu, 10 Oct 2024 14:40:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware attack leaks social security numbers of over 230,000 Comcast customers</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-attack-leaks-social-security-numbers-of-over-230-000-comcast-customers/</link>
-      <pubDate>Thu, 10 Oct 2024 14:04:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
