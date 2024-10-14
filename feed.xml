@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 04:23:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 06:28:33 +0000</lastBuildDate>
     <item>
       <title>SonicWall Family October 2024 1st Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83826/</link>
@@ -283,6 +283,16 @@
       <pubDate>Thu, 10 Oct 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Fortinet Product Security Update Advisory (CVE-2024-23113)</title>
+      <link>https://asec.ahnlab.com/en/83803/</link>
+      <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 2st Week of October, 2024</title>
+      <link>https://asec.ahnlab.com/en/83784/</link>
+      <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cisco Family October 2024 Secondary Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83777/</link>
       <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
@@ -295,16 +305,6 @@
     <item>
       <title>Livewire Security Update Advisory (CVE-2024-47823)</title>
       <link>https://asec.ahnlab.com/en/83775/</link>
-      <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83774/</link>
-      <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 11, 2024</title>
-      <link>https://asec.ahnlab.com/en/83758/</link>
       <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
