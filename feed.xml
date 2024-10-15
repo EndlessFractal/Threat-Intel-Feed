@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Oct 2024 20:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 22:18:08 +0000</lastBuildDate>
+    <item>
+      <title>Calgary Public Library forced to limit services after cyberattack</title>
+      <link>https://therecord.media/calgary-public-library-limits-services</link>
+      <pubDate>Tue, 15 Oct 2024 21:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nearly 400 US healthcare institutions hit with ransomware over last year, Microsoft says</title>
+      <link>https://therecord.media/ransomware-healthcare-microsoft-last-year</link>
+      <pubDate>Tue, 15 Oct 2024 20:37:04 +0000</pubDate>
+    </item>
     <item>
       <title>Hong Kong police bust fraud ring that used face-swapping tech for romance scams</title>
       <link>https://therecord.media/hong-kong-police-bust-romance-scammers-face-swapping-deepfakes</link>
@@ -53,6 +63,11 @@
       <pubDate>Tue, 15 Oct 2024 15:08:01 +0000</pubDate>
     </item>
     <item>
+      <title>October 16, 2024</title>
+      <link>https://asec.ahnlab.com/en/83872/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New Linux Variant of FASTCash Malware Targets Payment Switches in ATM Heists</title>
       <link>https://thehackernews.com/2024/10/new-linux-variant-of-fastcash-malware.html</link>
       <pubDate>Tue, 15 Oct 2024 14:43:00 +0000</pubDate>
@@ -66,11 +81,6 @@
       <title>Google’s Heather Adkins on infostealers, two-factor authentication and fixing the security ‘mess’ for future generations</title>
       <link>https://therecord.media/healther-adkins-interview-future-generations</link>
       <pubDate>Tue, 15 Oct 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress plugin Jetpack fixes nearly decade-old critical security flaw</title>
-      <link>https://therecord.media/wordpress-jetpack-plugin-fixes-flaw</link>
-      <pubDate>Tue, 15 Oct 2024 14:07:49 +0000</pubDate>
     </item>
     <item>
       <title>AI scammers target Gmail accounts, say they have your death certificate</title>
@@ -111,11 +121,6 @@
       <title>Election season raises fears for nearly a third of people who worry their vote could be leaked</title>
       <link>https://www.malwarebytes.com/blog/personal/2024/10/election-season-raises-fears-for-nearly-a-third-of-people-who-worry-their-vote-could-be-leaked</link>
       <pubDate>Tue, 15 Oct 2024 12:51:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>British intelligence services to protect all UK schools from ransomware attacks</title>
-      <link>https://therecord.media/uk-pdns-schools-cyberdefense-intelligence-services</link>
-      <pubDate>Tue, 15 Oct 2024 12:04:01 +0000</pubDate>
     </item>
     <item>
       <title>Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024</title>
@@ -248,6 +253,16 @@
       <pubDate>Mon, 14 Oct 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Btcd Security Update Advisory (CVE-2024-38365)</title>
+      <link>https://asec.ahnlab.com/en/83869/</link>
+      <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Enterprise Server (GHES) Security Update Advisory (CVE-2024-9487)</title>
+      <link>https://asec.ahnlab.com/en/83868/</link>
+      <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pac4j Security Update Advisory (CVE-2023-25581)</title>
       <link>https://asec.ahnlab.com/en/83867/</link>
       <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
@@ -260,16 +275,6 @@
     <item>
       <title>October 15, 2024</title>
       <link>https://asec.ahnlab.com/en/83854/</link>
-      <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Btcd Security Update Advisory (CVE-2024-38365)</title>
-      <link>https://asec.ahnlab.com/en/83869/</link>
-      <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Enterprise Server (GHES) Security Update Advisory (CVE-2024-9487)</title>
-      <link>https://asec.ahnlab.com/en/83868/</link>
       <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Nation-State Attackers Exploiting Ivanti CSA Flaws for Network Infiltration</title>
       <link>https://thehackernews.com/2024/10/nation-state-attackers-exploiting.html</link>
       <pubDate>Mon, 14 Oct 2024 11:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pokémon Developer Game Freak Suffers Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/pokemon-developer-game-freak-data/</link>
-      <pubDate>Mon, 14 Oct 2024 11:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
