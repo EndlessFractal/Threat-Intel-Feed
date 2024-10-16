@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 04:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 06:27:23 +0000</lastBuildDate>
+    <item>
+      <title>GitHub Patches Critical Flaw in Enterprise Server Allowing Unauthorized Instance Access</title>
+      <link>https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html</link>
+      <pubDate>Wed, 16 Oct 2024 05:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than two dozen countries have used internet outages to sway elections: report</title>
+      <link>https://therecord.media/internet-freedoms-decline-2024-government-arrests-violence-outages-elections</link>
+      <pubDate>Wed, 16 Oct 2024 05:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns of Active Exploitation in SolarWinds Help Desk Software Vulnerability</title>
+      <link>https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-in.html</link>
+      <pubDate>Wed, 16 Oct 2024 04:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MS Family October 2024 Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83911/</link>
+      <pubDate>Wed, 16 Oct 2024 04:51:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla Products October 2024 1st Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83905/</link>
+      <pubDate>Wed, 16 Oct 2024 04:49:54 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, October 16th, 2024 https://isc.sans.edu/podcastdetail/9182, (Wed, Oct 16th)</title>
       <link>https://isc.sans.edu/diary/rss/31358</link>
@@ -68,11 +93,6 @@
       <pubDate>Tue, 15 Oct 2024 15:08:01 +0000</pubDate>
     </item>
     <item>
-      <title>ASEC and NCSC Release Joint Report on Microsoft Zero-Day Browser Vulnerability (CVE-2024-38178)</title>
-      <link>https://asec.ahnlab.com/en/83877/</link>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, October 2024</title>
       <link>https://asec.ahnlab.com/en/83874/</link>
       <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
@@ -83,6 +103,41 @@
       <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Moxa Product Security Update Advisory (CVE-2024-9137, CVE-2024-9139)</title>
+      <link>https://asec.ahnlab.com/en/83910/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vault Product Security Update Advisory (CVE-2024-9180)</title>
+      <link>https://asec.ahnlab.com/en/83909/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oracle Family October 2024 Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83908/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>angular-base64-upload Security Update Advisory (CVE-2024-42640)</title>
+      <link>https://asec.ahnlab.com/en/83906/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plane Security Update Advisory (CVE-2024-47830)</title>
+      <link>https://asec.ahnlab.com/en/83901/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telerik Report Server Security Update Advisory (CVE-2024-8015)</title>
+      <link>https://asec.ahnlab.com/en/83900/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AhnLab and NCSC Release Joint Report on Microsoft Zero-Day Browser Vulnerability (CVE-2024-38178)</title>
+      <link>https://asec.ahnlab.com/en/83877/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New Linux Variant of FASTCash Malware Targets Payment Switches in ATM Heists</title>
       <link>https://thehackernews.com/2024/10/new-linux-variant-of-fastcash-malware.html</link>
       <pubDate>Tue, 15 Oct 2024 14:43:00 +0000</pubDate>
@@ -90,11 +145,6 @@
     <item>
       <title>UK: NCSC Offers Education Organizations Free Cyber Services</title>
       <link>https://www.infosecurity-magazine.com/news/uk-ncsc-education-free-cyber/</link>
-      <pubDate>Tue, 15 Oct 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s Heather Adkins on infostealers, two-factor authentication and fixing the security ‘mess’ for future generations</title>
-      <link>https://therecord.media/healther-adkins-interview-future-generations</link>
       <pubDate>Tue, 15 Oct 2024 14:30:00 +0000</pubDate>
     </item>
     <item>
@@ -256,56 +306,6 @@
       <title>Upcoming Speaking Engagements</title>
       <link>https://www.schneier.com/blog/archives/2024/10/upcoming-speaking-engagements-41.html</link>
       <pubDate>Mon, 14 Oct 2024 16:49:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telekopye Scammers Target Booking.com and Airbnb Users</title>
-      <link>https://www.infosecurity-magazine.com/news/telekopye-target-bookingcom-airbnb/</link>
-      <pubDate>Mon, 14 Oct 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Urges Encryption of Cookies in F5 BIG-IP Systems</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-urges-encryption-cookies-f/</link>
-      <pubDate>Mon, 14 Oct 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Btcd Security Update Advisory (CVE-2024-38365)</title>
-      <link>https://asec.ahnlab.com/en/83869/</link>
-      <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Enterprise Server (GHES) Security Update Advisory (CVE-2024-9487)</title>
-      <link>https://asec.ahnlab.com/en/83868/</link>
-      <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pac4j Security Update Advisory (CVE-2023-25581)</title>
-      <link>https://asec.ahnlab.com/en/83867/</link>
-      <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin Core Security Update Advisory (CVE-2024-35202)</title>
-      <link>https://asec.ahnlab.com/en/83866/</link>
-      <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 15, 2024</title>
-      <link>https://asec.ahnlab.com/en/83854/</link>
-      <pubDate>Mon, 14 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surfshark VPN Review (2024): Is it a Safe and Trustworthy VPN?</title>
-      <link>https://www.techrepublic.com/article/surfshark-vpn-review/</link>
-      <pubDate>Mon, 14 Oct 2024 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>PinnacleOne ExecBrief | China’s Great Power Means Great Responsibility</title>
-      <link>https://www.sentinelone.com/blog/pinnacleone-execbrief-chinas-great-power-means-great-responsibility/</link>
-      <pubDate>Mon, 14 Oct 2024 13:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>US DoD Tightens Cybersecurity Standards for Defense Contractors</title>
-      <link>https://www.infosecurity-magazine.com/news/dod-cybersecurity-standards/</link>
-      <pubDate>Mon, 14 Oct 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
