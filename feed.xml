@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 16:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 18:26:40 +0000</lastBuildDate>
+    <item>
+      <title>7 Security and Compliance Tips From ISC2 Security Congress</title>
+      <link>https://www.techrepublic.com/article/isc2-security-compliance-habits/</link>
+      <pubDate>Wed, 16 Oct 2024 18:26:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Engaging Executives: How to Present Cybersecurity in a Way That Resonates</title>
+      <link>https://www.techrepublic.com/article/isc2-cybersecurity-executive-buy-in/</link>
+      <pubDate>Wed, 16 Oct 2024 17:06:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Abuse EDRSilencer Tool to Bypass Security and Hide Malicious Activity</title>
+      <link>https://thehackernews.com/2024/10/hackers-abuse-edrsilencer-tool-to.html</link>
+      <pubDate>Wed, 16 Oct 2024 16:21:00 +0000</pubDate>
+    </item>
     <item>
       <title>Russia's case against REvil hackers proceeds as government recommends 6.5-year sentence</title>
       <link>https://therecord.media/russia-revil-hackers-case-sentencing</link>
@@ -75,6 +90,11 @@
     <item>
       <title>Cyber Threats Escalating Beyond Ability to Defend, New NCSC Head Warns</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-threats-defend-ncsc-head/</link>
+      <pubDate>Wed, 16 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and FBI Release Joint Guidance on Product Security Bad Practices for Public Comment</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-and-fbi-release-joint-guidance-product-security-bad-practices-public-comment</link>
       <pubDate>Wed, 16 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +243,21 @@
       <pubDate>Tue, 15 Oct 2024 15:08:01 +0000</pubDate>
     </item>
     <item>
+      <title>Plane Security Update Advisory (CVE-2024-47830)</title>
+      <link>https://asec.ahnlab.com/en/83901/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telerik Report Server Security Update Advisory (CVE-2024-8015)</title>
+      <link>https://asec.ahnlab.com/en/83900/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AhnLab and NCSC Release Joint Report on Microsoft Zero-Day Browser Vulnerability (CVE-2024-38178)</title>
+      <link>https://asec.ahnlab.com/en/83877/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, October 2024</title>
       <link>https://asec.ahnlab.com/en/83874/</link>
       <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
@@ -253,21 +288,6 @@
       <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Plane Security Update Advisory (CVE-2024-47830)</title>
-      <link>https://asec.ahnlab.com/en/83901/</link>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telerik Report Server Security Update Advisory (CVE-2024-8015)</title>
-      <link>https://asec.ahnlab.com/en/83900/</link>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AhnLab and NCSC Release Joint Report on Microsoft Zero-Day Browser Vulnerability (CVE-2024-38178)</title>
-      <link>https://asec.ahnlab.com/en/83877/</link>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New Linux Variant of FASTCash Malware Targets Payment Switches in ATM Heists</title>
       <link>https://thehackernews.com/2024/10/new-linux-variant-of-fastcash-malware.html</link>
       <pubDate>Tue, 15 Oct 2024 14:43:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>The AI Fix #20: Elon’s androids, emotional support chickens, and an AI Fix super fan</title>
       <link>https://grahamcluley.com/the-ai-fix-20/</link>
       <pubDate>Tue, 15 Oct 2024 14:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most Organizations Unprepared for Post-Quantum Threat</title>
-      <link>https://www.infosecurity-magazine.com/news/orgs-unprepared-postquantum-threat/</link>
-      <pubDate>Tue, 15 Oct 2024 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SentinelOne CISO Identifies ‘Most Pressing Concern’ for Cyber Professionals</title>
-      <link>https://www.techrepublic.com/article/isc2-security-summit-cyber-interview/</link>
-      <pubDate>Tue, 15 Oct 2024 13:28:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>99% of UK Businesses Faced Cyber Attacks in the Last Year</title>
-      <link>https://www.techrepublic.com/article/xalient-breach-report/</link>
-      <pubDate>Tue, 15 Oct 2024 13:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantifying Vulnerability Risk | Identify &amp; Remediate CVEs with Exploit-Driven Prioritization</title>
-      <link>https://www.sentinelone.com/blog/quantifying-vulnerability-risk-identify-remediate-cves-with-exploit-driven-prioritization/</link>
-      <pubDate>Tue, 15 Oct 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
