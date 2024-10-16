@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 14:18:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 16:23:18 +0000</lastBuildDate>
+    <item>
+      <title>Russia's case against REvil hackers proceeds as government recommends 6.5-year sentence</title>
+      <link>https://therecord.media/russia-revil-hackers-case-sentencing</link>
+      <pubDate>Wed, 16 Oct 2024 16:08:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Urges Improvements in US Software Supply Chain Transparency</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-software-supply-chain/</link>
+      <pubDate>Wed, 16 Oct 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ethical Hackers Embrace AI Tools Amid Rising Cyber Threats</title>
+      <link>https://www.infosecurity-magazine.com/news/ethical-hackers-embrace-ai-tools/</link>
+      <pubDate>Wed, 16 Oct 2024 15:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Urban VPN Review (2024): Is it a Safe &amp; Reliable VPN to Use?</title>
+      <link>https://www.techrepublic.com/article/urban-vpn-review/</link>
+      <pubDate>Wed, 16 Oct 2024 14:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use Call Detail Records to Detect Fraud</title>
+      <link>https://www.techrepublic.com/article/call-detail-records/</link>
+      <pubDate>Wed, 16 Oct 2024 14:35:37 +0000</pubDate>
+    </item>
     <item>
       <title>Coffee Lovers Warned of New Starbucks Phishing Scam</title>
       <link>https://www.infosecurity-magazine.com/news/coffee-lovers-warned-of-starbucks/</link>
@@ -18,13 +43,18 @@
       <pubDate>Wed, 16 Oct 2024 13:34:11 +0000</pubDate>
     </item>
     <item>
+      <title>FIDO Alliance Drafts New Protocol to Simplify Passkey Transfers Across Different Platforms</title>
+      <link>https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html</link>
+      <pubDate>Wed, 16 Oct 2024 13:23:00 +0000</pubDate>
+    </item>
+    <item>
       <title>“Nudify” deepfake bots remove clothes from victims in minutes, and millions are using them</title>
       <link>https://www.malwarebytes.com/blog/news/2024/10/nudify-deepfake-bots-remove-clothes-from-victims-in-minutes-and-millions-are-using-them</link>
       <pubDate>Wed, 16 Oct 2024 13:14:29 +0000</pubDate>
     </item>
     <item>
       <title>From QR to compromise: The growing “quishing” threat</title>
-      <link>https://news.sophos.com/en-us/2024/10/16/attackers-leverage-qr-codes-in-pdf-email-attachments-for-phishing-on-mobile-devices/</link>
+      <link>https://news.sophos.com/en-us/2024/10/16/quishing/</link>
       <pubDate>Wed, 16 Oct 2024 13:01:41 +0000</pubDate>
     </item>
     <item>
@@ -45,6 +75,11 @@
     <item>
       <title>Cyber Threats Escalating Beyond Ability to Defend, New NCSC Head Warns</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-threats-defend-ncsc-head/</link>
+      <pubDate>Wed, 16 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA, FBI, NSA, and International Partners Release Advisory on Iranian Cyber Actors Targeting Critical Infrastructure Organizations Using Brute Force</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-fbi-nsa-and-international-partners-release-advisory-iranian-cyber-actors-targeting-critical</link>
       <pubDate>Wed, 16 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -153,11 +188,6 @@
       <pubDate>Tue, 15 Oct 2024 21:02:21 +0000</pubDate>
     </item>
     <item>
-      <title>Nearly 400 US healthcare institutions hit with ransomware over last year, Microsoft says</title>
-      <link>https://therecord.media/ransomware-healthcare-microsoft-last-year</link>
-      <pubDate>Tue, 15 Oct 2024 20:37:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Generative AI in Security: Risks and Mitigation Strategies</title>
       <link>https://www.techrepublic.com/article/microsoft-generative-ai-security-risk-reduction-isc2/</link>
       <pubDate>Tue, 15 Oct 2024 18:18:03 +0000</pubDate>
@@ -193,21 +223,6 @@
       <pubDate>Tue, 15 Oct 2024 15:08:01 +0000</pubDate>
     </item>
     <item>
-      <title>Plane Security Update Advisory (CVE-2024-47830)</title>
-      <link>https://asec.ahnlab.com/en/83901/</link>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telerik Report Server Security Update Advisory (CVE-2024-8015)</title>
-      <link>https://asec.ahnlab.com/en/83900/</link>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AhnLab and NCSC Release Joint Report on Microsoft Zero-Day Browser Vulnerability (CVE-2024-38178)</title>
-      <link>https://asec.ahnlab.com/en/83877/</link>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, October 2024</title>
       <link>https://asec.ahnlab.com/en/83874/</link>
       <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
@@ -235,6 +250,21 @@
     <item>
       <title>angular-base64-upload Security Update Advisory (CVE-2024-42640)</title>
       <link>https://asec.ahnlab.com/en/83906/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plane Security Update Advisory (CVE-2024-47830)</title>
+      <link>https://asec.ahnlab.com/en/83901/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telerik Report Server Security Update Advisory (CVE-2024-8015)</title>
+      <link>https://asec.ahnlab.com/en/83900/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AhnLab and NCSC Release Joint Report on Microsoft Zero-Day Browser Vulnerability (CVE-2024-38178)</title>
+      <link>https://asec.ahnlab.com/en/83877/</link>
       <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>Quantifying Vulnerability Risk | Identify &amp; Remediate CVEs with Exploit-Driven Prioritization</title>
       <link>https://www.sentinelone.com/blog/quantifying-vulnerability-risk-identify-remediate-cves-with-exploit-driven-prioritization/</link>
       <pubDate>Tue, 15 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Nation-States Team Up with Cybercriminals for Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/nation-states-cybercriminals/</link>
-      <pubDate>Tue, 15 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Election season raises fears for nearly a third of people who worry their vote could be leaked</title>
-      <link>https://www.malwarebytes.com/blog/personal/2024/10/election-season-raises-fears-for-nearly-a-third-of-people-who-worry-their-vote-could-be-leaked</link>
-      <pubDate>Tue, 15 Oct 2024 12:51:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024-1</link>
-      <pubDate>Tue, 15 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Siveillance Video Camera</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-289-01</link>
-      <pubDate>Tue, 15 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Data Center Expert</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-289-02</link>
-      <pubDate>Tue, 15 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-releases-two-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 15 Oct 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
