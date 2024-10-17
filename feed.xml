@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 08:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 10:20:03 +0000</lastBuildDate>
+    <item>
+      <title>UAT-5647 targets Ukrainian and Polish entities with RomCom malware variants</title>
+      <link>https://blog.talosintelligence.com/uat-5647-romcom/</link>
+      <pubDate>Thu, 17 Oct 2024 10:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS CTF and the many ways to persist a kernel shellcode on Windows 7</title>
+      <link>https://securelist.com/sas-ctf-windows-7-challenge-explained/114180/</link>
+      <pubDate>Thu, 17 Oct 2024 10:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gatekeeper Bypass: Uncovering Weaknesses in a macOS Security Mechanism</title>
+      <link>https://unit42.paloaltonetworks.com/gatekeeper-bypass-macos/</link>
+      <pubDate>Thu, 17 Oct 2024 10:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RansomHub Overtakes LockBit as Most Prolific Ransomware Group</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomhub-overtakes-lockbit/</link>
+      <pubDate>Thu, 17 Oct 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware: Threat Level Remains High in Third Quarter</title>
+      <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomware-threat-level-remains-high</link>
+      <pubDate>Thu, 17 Oct 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A critical flaw in Kubernetes Image Builder could allow attackers to gain root access</title>
+      <link>https://securityaffairs.com/169919/security/kubernetes-image-builder-critical-flaw.html</link>
+      <pubDate>Thu, 17 Oct 2024 09:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two-thirds of Attributable Malware Linked to Nation States</title>
+      <link>https://www.infosecurity-magazine.com/news/twothirds-attributable-malware/</link>
+      <pubDate>Thu, 17 Oct 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Charges Two Sudanese Brothers for Record 35,000 DDoS Attacks</title>
+      <link>https://thehackernews.com/2024/10/us-charges-two-sudanese-brothers-for.html</link>
+      <pubDate>Thu, 17 Oct 2024 09:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Seeks Feedback on Upcoming Product Security Flaws Guidance</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-product-security-flaws/</link>
+      <pubDate>Thu, 17 Oct 2024 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NIS2 Confusion: Concerns Over Readiness as Deadline Reached</title>
       <link>https://www.infosecurity-magazine.com/news/nis2-confusion-concerns-deadline/</link>
@@ -248,6 +293,11 @@
       <pubDate>Wed, 16 Oct 2024 09:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Protecting children from grooming | Unlocked 403 cybersecurity podcast (ep. 7)</title>
+      <link>https://www.welivesecurity.com/en/videos/protecting-children-grooming-unlocked-403-cybersecurity-podcast-ep-7/</link>
+      <pubDate>Wed, 16 Oct 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>UK Government Launches AI Safety Scheme to Tackle Deepfakes</title>
       <link>https://www.infosecurity-magazine.com/news/uk-government-launches-ai-safety/</link>
       <pubDate>Wed, 16 Oct 2024 08:30:00 +0000</pubDate>
@@ -256,56 +306,6 @@
       <title>Astaroth Banking Malware Resurfaces in Brazil via Spear-Phishing Attack</title>
       <link>https://thehackernews.com/2024/10/astaroth-banking-malware-resurfaces-in.html</link>
       <pubDate>Wed, 16 Oct 2024 07:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub addressed a critical vulnerability in Enterprise Server</title>
-      <link>https://securityaffairs.com/169873/security/github-addressed-ctitical-flaw-in-enterprise-server.html</link>
-      <pubDate>Wed, 16 Oct 2024 06:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Patches Critical Flaw in Enterprise Server Allowing Unauthorized Instance Access</title>
-      <link>https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html</link>
-      <pubDate>Wed, 16 Oct 2024 05:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Active Exploitation in SolarWinds Help Desk Software Vulnerability</title>
-      <link>https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-in.html</link>
-      <pubDate>Wed, 16 Oct 2024 04:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MS Family October 2024 Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83911/</link>
-      <pubDate>Wed, 16 Oct 2024 04:51:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozilla Products October 2024 1st Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83905/</link>
-      <pubDate>Wed, 16 Oct 2024 04:49:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, October 16th, 2024 https://isc.sans.edu/podcastdetail/9182, (Wed, Oct 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/31358</link>
-      <pubDate>Wed, 16 Oct 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generative AI in Security: Risks and Mitigation Strategies</title>
-      <link>https://www.techrepublic.com/article/microsoft-generative-ai-security-risk-reduction-isc2/</link>
-      <pubDate>Tue, 15 Oct 2024 18:18:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new Linux variant of FASTCash malware targets financial systems</title>
-      <link>https://securityaffairs.com/169860/malware/new-linux-variant-fastcash-malware-targets-financial-systems.html</link>
-      <pubDate>Tue, 15 Oct 2024 17:57:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ConfusedPilot Attack Targets AI Systems with Data Poisoning</title>
-      <link>https://www.infosecurity-magazine.com/news/confusedpilot-attack-targets-ai/</link>
-      <pubDate>Tue, 15 Oct 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TrickMo Banking Trojan Can Now Capture Android PINs and Unlock Patterns</title>
-      <link>https://thehackernews.com/2024/10/trickmo-banking-trojan-can-now-capture.html</link>
-      <pubDate>Tue, 15 Oct 2024 15:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
