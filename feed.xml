@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 06:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 08:25:25 +0000</lastBuildDate>
+    <item>
+      <title>NIS2 Confusion: Concerns Over Readiness as Deadline Reached</title>
+      <link>https://www.infosecurity-magazine.com/news/nis2-confusion-concerns-deadline/</link>
+      <pubDate>Thu, 17 Oct 2024 07:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware fixes high-severity SQL injection flaw CVE-2024-38814 in HCX</title>
+      <link>https://securityaffairs.com/169904/security/vmware-sql-injection-flaw-cve-2024-38814.html</link>
+      <pubDate>Thu, 17 Oct 2024 07:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Kubernetes Image Builder Vulnerability Exposes Nodes to Root Access Risk</title>
+      <link>https://thehackernews.com/2024/10/critical-kubernetes-image-builder.html</link>
+      <pubDate>Thu, 17 Oct 2024 05:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Chrome Browser (130.0.6723.58/.59) Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83923/</link>
@@ -101,6 +116,16 @@
       <title>Ethical Hackers Embrace AI Tools Amid Rising Cyber Threats</title>
       <link>https://www.infosecurity-magazine.com/news/ethical-hackers-embrace-ai-tools/</link>
       <pubDate>Wed, 16 Oct 2024 15:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IcePeony with the ‘996’ work culture</title>
+      <link>http://nao-sec.org/2024/10/IcePeony-with-the-996-work-culture.html</link>
+      <pubDate>Wed, 16 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, October 2024</title>
+      <link>https://asec.ahnlab.com/en/83932/</link>
+      <pubDate>Wed, 16 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WordPress GiveWP Plugin Update Advisory (CVE-2024-9634)</title>
@@ -281,31 +306,6 @@
       <title>TrickMo Banking Trojan Can Now Capture Android PINs and Unlock Patterns</title>
       <link>https://thehackernews.com/2024/10/trickmo-banking-trojan-can-now-capture.html</link>
       <pubDate>Tue, 15 Oct 2024 15:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Malware Campaign Uses PureCrypter Loader to Deliver DarkVision RAT</title>
-      <link>https://thehackernews.com/2024/10/new-malware-campaign-uses-purecrypter.html</link>
-      <pubDate>Tue, 15 Oct 2024 15:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Darknet Activity Increases Ahead of 2024 Presidential Vote</title>
-      <link>https://www.infosecurity-magazine.com/news/darknet-activity-increases/</link>
-      <pubDate>Tue, 15 Oct 2024 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Angular-base64-update Demo Script Exploited (CVE-2024-42640), (Tue, Oct 15th)</title>
-      <link>https://isc.sans.edu/diary/rss/31354</link>
-      <pubDate>Tue, 15 Oct 2024 15:08:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plane Security Update Advisory (CVE-2024-47830)</title>
-      <link>https://asec.ahnlab.com/en/83901/</link>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telerik Report Server Security Update Advisory (CVE-2024-8015)</title>
-      <link>https://asec.ahnlab.com/en/83900/</link>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
