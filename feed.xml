@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 02:50:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 04:23:16 +0000</lastBuildDate>
     <item>
       <title>Google Chrome Browser (130.0.6723.58/.59) Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83923/</link>
@@ -16,6 +16,11 @@
       <title>Cisco Family October 2024 3rd Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83922/</link>
       <pubDate>Thu, 17 Oct 2024 02:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Thursday, October 17th, 2024 https://isc.sans.edu/podcastdetail/9184, (Thu, Oct 17th)</title>
+      <link>https://isc.sans.edu/diary/rss/31364</link>
+      <pubDate>Thu, 17 Oct 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Scanning Activity from Subnet 15.184.0.0/16, (Thu, Oct 17th)</title>
@@ -293,18 +298,13 @@
       <pubDate>Tue, 15 Oct 2024 15:08:01 +0000</pubDate>
     </item>
     <item>
-      <title>Plane Security Update Advisory (CVE-2024-47830)</title>
-      <link>https://asec.ahnlab.com/en/83901/</link>
+      <title>Moxa Product Security Update Advisory (CVE-2024-9137, CVE-2024-9139)</title>
+      <link>https://asec.ahnlab.com/en/83910/</link>
       <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Telerik Report Server Security Update Advisory (CVE-2024-8015)</title>
-      <link>https://asec.ahnlab.com/en/83900/</link>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AhnLab and NCSC Release Joint Report on Microsoft Zero-Day Browser Vulnerability (CVE-2024-38178)</title>
-      <link>https://asec.ahnlab.com/en/83877/</link>
+      <title>Vault Product Security Update Advisory (CVE-2024-9180)</title>
+      <link>https://asec.ahnlab.com/en/83909/</link>
       <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
