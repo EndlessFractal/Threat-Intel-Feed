@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Oct 2024 08:25:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 10:21:27 +0000</lastBuildDate>
+    <item>
+      <title>Analysis of the Crypt Ghouls group: continuing the investigation into a series of attacks on Russia</title>
+      <link>https://securelist.com/crypt-ghouls-hacktivists-tools-overlap-analysis/114217/</link>
+      <pubDate>Fri, 18 Oct 2024 10:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS HM Surf flaw in TCC allows bypass Safari privacy settings</title>
+      <link>https://securityaffairs.com/169945/security/macos-hm-surf-flaw-tcc-bypass-safari-privacy-settings.html</link>
+      <pubDate>Fri, 18 Oct 2024 10:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Arrest Man for SEC X Account Hack</title>
+      <link>https://www.infosecurity-magazine.com/news/us-arrest-sec-x-account-hack/</link>
+      <pubDate>Fri, 18 Oct 2024 09:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Reveals macOS Vulnerability that Bypasses Privacy Controls in Safari Browser</title>
       <link>https://thehackernews.com/2024/10/microsoft-reveals-macos-vulnerability.html</link>
@@ -83,6 +98,11 @@
       <pubDate>Thu, 17 Oct 2024 16:13:00 +0000</pubDate>
     </item>
     <item>
+      <title>Vendor Comparison: DIY Home Security Systems</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/vendor-comparison-diy-home-security-systems/</link>
+      <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The cybersecurity skills gap contributed to a $1.76 million increase in average breach costs</title>
       <link>https://securityintelligence.com/articles/cybersecurity-skills-gap-contributed-increase-average-breach-costs/</link>
       <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
@@ -118,6 +138,16 @@
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>October 18, 2024</title>
+      <link>https://asec.ahnlab.com/en/83950/</link>
+      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 3st Week of October, 2024</title>
+      <link>https://asec.ahnlab.com/en/83982/</link>
+      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>VMware Product Security Update Advisory (CVE-2024-38814)</title>
       <link>https://asec.ahnlab.com/en/83974/</link>
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
@@ -145,11 +175,6 @@
     <item>
       <title>Google Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83961/</link>
-      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 18, 2024</title>
-      <link>https://asec.ahnlab.com/en/83950/</link>
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>CISA Seeks Feedback on Upcoming Product Security Flaws Guidance</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-product-security-flaws/</link>
       <pubDate>Thu, 17 Oct 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIS2 Confusion: Concerns Over Readiness as Deadline Reached</title>
-      <link>https://www.infosecurity-magazine.com/news/nis2-confusion-concerns-deadline/</link>
-      <pubDate>Thu, 17 Oct 2024 07:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware fixes high-severity SQL injection flaw CVE-2024-38814 in HCX</title>
-      <link>https://securityaffairs.com/169904/security/vmware-sql-injection-flaw-cve-2024-38814.html</link>
-      <pubDate>Thu, 17 Oct 2024 07:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Kubernetes Image Builder Vulnerability Exposes Nodes to Root Access Risk</title>
-      <link>https://thehackernews.com/2024/10/critical-kubernetes-image-builder.html</link>
-      <pubDate>Thu, 17 Oct 2024 05:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Browser (130.0.6723.58/.59) Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83923/</link>
-      <pubDate>Thu, 17 Oct 2024 02:01:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Family October 2024 3rd Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83922/</link>
-      <pubDate>Thu, 17 Oct 2024 02:00:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
