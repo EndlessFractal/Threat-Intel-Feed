@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Oct 2024 04:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 06:27:29 +0000</lastBuildDate>
+    <item>
+      <title>Siemens Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83969/</link>
+      <pubDate>Fri, 18 Oct 2024 04:03:34 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Friday, October 18th, 2024 https://isc.sans.edu/podcastdetail/9186, (Fri, Oct 18th)</title>
       <link>https://isc.sans.edu/diary/rss/31366</link>
@@ -108,6 +113,26 @@
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ragic Product Security Update Advisory (CVE-2024-9984)</title>
+      <link>https://asec.ahnlab.com/en/83973/</link>
+      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache CloudStack Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83972/</link>
+      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>F5 Product Security Update Advisory (CVE-2024-45844)</title>
+      <link>https://asec.ahnlab.com/en/83971/</link>
+      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Authd Security Update Advisory (CVE-2024-9312)</title>
+      <link>https://asec.ahnlab.com/en/83970/</link>
+      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Google Product Security Update Advisory</title>
       <link>https://asec.ahnlab.com/en/83961/</link>
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
@@ -115,6 +140,11 @@
     <item>
       <title>October 18, 2024</title>
       <link>https://asec.ahnlab.com/en/83950/</link>
+      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware Product Security Update Advisory (CVE-2024-38814)</title>
+      <link>https://asec.ahnlab.com/en/83974/</link>
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>ISC Stormcast For Thursday, October 17th, 2024 https://isc.sans.edu/podcastdetail/9184, (Thu, Oct 17th)</title>
       <link>https://isc.sans.edu/diary/rss/31364</link>
       <pubDate>Thu, 17 Oct 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazil’s Polícia Federal arrested the notorious hacker USDoD</title>
-      <link>https://securityaffairs.com/169914/cyber-crime/brazils-policia-federal-arrested-hacker-usdod.html</link>
-      <pubDate>Wed, 16 Oct 2024 23:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #389: WordPress vs WP Engine, and the Internet Archive is down</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-389/</link>
-      <pubDate>Wed, 16 Oct 2024 23:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Finnish Customs dismantled the dark web drugs market Sipulitie</title>
-      <link>https://securityaffairs.com/169893/cyber-crime/finnish-customs-dismantled-sipulitie.html</link>
-      <pubDate>Wed, 16 Oct 2024 19:32:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zscaler Report: Mobile, IoT, and OT Cyber Threats Surge in 2024</title>
-      <link>https://www.techrepublic.com/article/zscaler-2024-mobile-iot-ot-cyber-threat-report/</link>
-      <pubDate>Wed, 16 Oct 2024 19:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>7 Security and Compliance Tips From ISC2 Security Congress</title>
-      <link>https://www.techrepublic.com/article/isc2-security-compliance-habits/</link>
-      <pubDate>Wed, 16 Oct 2024 18:26:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Top 10 Not So Common SSH Usernames and Passwords, (Wed, Oct 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/31360</link>
-      <pubDate>Wed, 16 Oct 2024 17:26:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
