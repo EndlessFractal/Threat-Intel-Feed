@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Oct 2024 10:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 12:36:19 +0000</lastBuildDate>
+    <item>
+      <title>Security Affairs newsletter Round 494 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
+      <link>https://securityaffairs.com/170041/breaking-news/security-affairs-newsletter-round-494-by-pierluigi-paganini-international-edition.html</link>
+      <pubDate>Sun, 20 Oct 2024 12:03:09 +0000</pubDate>
+    </item>
     <item>
       <title>F5 fixed a high-severity elevation of privilege vulnerability in BIG-IP</title>
       <link>https://securityaffairs.com/170022/security/f5-patches-big-ip-elevation-of-privilege-bug.html</link>
@@ -263,11 +268,6 @@
       <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>New macOS vulnerability, “HM Surf”, could lead to unauthorized data access</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/10/17/new-macos-vulnerability-hm-surf-could-lead-to-unauthorized-data-access/</link>
-      <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The cybersecurity skills gap contributed to a $1.76 million increase in average breach costs</title>
       <link>https://securityintelligence.com/articles/cybersecurity-skills-gap-contributed-increase-average-breach-costs/</link>
       <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
@@ -288,6 +288,11 @@
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Google Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/83961/</link>
+      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>October 18, 2024</title>
       <link>https://asec.ahnlab.com/en/83950/</link>
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
@@ -300,11 +305,6 @@
     <item>
       <title>VMware Product Security Update Advisory (CVE-2024-38814)</title>
       <link>https://asec.ahnlab.com/en/83974/</link>
-      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ragic Product Security Update Advisory (CVE-2024-9984)</title>
-      <link>https://asec.ahnlab.com/en/83973/</link>
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
