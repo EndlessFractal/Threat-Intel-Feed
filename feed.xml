@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Oct 2024 04:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 06:26:12 +0000</lastBuildDate>
     <item>
       <title>U.S. CISA adds Veeam Backup and Replication flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/170014/security/u-s-cisa-adds-veeam-backup-and-replication-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
@@ -248,6 +248,11 @@
       <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>New macOS vulnerability, “HM Surf”, could lead to unauthorized data access</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/10/17/new-macos-vulnerability-hm-surf-could-lead-to-unauthorized-data-access/</link>
+      <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The cybersecurity skills gap contributed to a $1.76 million increase in average breach costs</title>
       <link>https://securityintelligence.com/articles/cybersecurity-skills-gap-contributed-increase-average-breach-costs/</link>
       <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
@@ -300,11 +305,6 @@
     <item>
       <title>Authd Security Update Advisory (CVE-2024-9312)</title>
       <link>https://asec.ahnlab.com/en/83970/</link>
-      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83961/</link>
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
