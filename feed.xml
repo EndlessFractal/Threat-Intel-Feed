@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Oct 2024 14:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 16:22:17 +0000</lastBuildDate>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 16</title>
       <link>https://securityaffairs.com/170047/malware/security-affairs-malware-newsletter-round-16.html</link>
@@ -273,6 +273,11 @@
       <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>New macOS vulnerability, “HM Surf”, could lead to unauthorized data access</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/10/17/new-macos-vulnerability-hm-surf-could-lead-to-unauthorized-data-access/</link>
+      <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The cybersecurity skills gap contributed to a $1.76 million increase in average breach costs</title>
       <link>https://securityintelligence.com/articles/cybersecurity-skills-gap-contributed-increase-average-breach-costs/</link>
       <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
@@ -293,18 +298,13 @@
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>VMware Product Security Update Advisory (CVE-2024-38814)</title>
-      <link>https://asec.ahnlab.com/en/83974/</link>
+      <title>October 18, 2024</title>
+      <link>https://asec.ahnlab.com/en/83950/</link>
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ragic Product Security Update Advisory (CVE-2024-9984)</title>
-      <link>https://asec.ahnlab.com/en/83973/</link>
-      <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache CloudStack Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/83972/</link>
+      <title>Android Malware &amp; Security Issue 3st Week of October, 2024</title>
+      <link>https://asec.ahnlab.com/en/83982/</link>
       <pubDate>Thu, 17 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
