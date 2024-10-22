@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Oct 2024 06:27:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 08:25:37 +0000</lastBuildDate>
+    <item>
+      <title>AI-Powered Attacks Flood Retail Websites</title>
+      <link>https://www.infosecurity-magazine.com/news/aipowered-attacks-flood-retail/</link>
+      <pubDate>Tue, 22 Oct 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware failed to fully address vCenter Server RCE flaw CVE-2024-38812</title>
+      <link>https://securityaffairs.com/170096/security/vmware-failed-to-fix-rce-vcenter-server-cve-2024-38812.html</link>
+      <pubDate>Tue, 22 Oct 2024 07:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware Releases vCenter Server Update to Fix Critical RCE Vulnerability</title>
+      <link>https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html</link>
+      <pubDate>Tue, 22 Oct 2024 07:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>CISA Adds ScienceLogic SL1 Vulnerability to Exploited Catalog After Active Zero-Day Attack</title>
       <link>https://thehackernews.com/2024/10/cisa-adds-sciencelogic-sl1.html</link>
@@ -83,11 +98,6 @@
       <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>October 22, 2024</title>
-      <link>https://asec.ahnlab.com/en/83994/</link>
-      <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ScienceLogic Security Update Advisory (CVE-2024-9537)</title>
       <link>https://asec.ahnlab.com/en/84007/</link>
       <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
@@ -105,6 +115,11 @@
     <item>
       <title>SolarWinds Product Security Update Advisory (CVE-2024-45711)</title>
       <link>https://asec.ahnlab.com/en/84002/</link>
+      <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 22, 2024</title>
+      <link>https://asec.ahnlab.com/en/83994/</link>
       <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>Omni Family Health data breach impacts 468,344 individuals</title>
       <link>https://securityaffairs.com/169972/data-breach/omni-family-health-disclosed-a-data-breach.html</link>
       <pubDate>Sat, 19 Oct 2024 06:04:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Squid Scarf</title>
-      <link>https://www.schneier.com/blog/archives/2024/10/friday-squid-blogging-squid-scarf.html</link>
-      <pubDate>Fri, 18 Oct 2024 21:08:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-linked actors target critical infrastructure organizations</title>
-      <link>https://securityaffairs.com/169960/apt/iran-linked-actors-a-year-long-campaign.html</link>
-      <pubDate>Fri, 18 Oct 2024 20:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unauthorized data access vulnerability in macOS is detailed by Microsoft</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/10/microsoft-reveals-details-about-hm-surf-vulnerability-in-macos</link>
-      <pubDate>Fri, 18 Oct 2024 16:02:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
