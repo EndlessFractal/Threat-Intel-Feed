@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Oct 2024 22:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 01:35:11 +0000</lastBuildDate>
     <item>
       <title>Crypto payment services firm says more than 92,000 affected by data breach</title>
       <link>https://therecord.media/crypto-payment-services-data-breach</link>
@@ -65,6 +65,16 @@
     <item>
       <title>50,000 Files Exposed in Nidec Ransomware Attack</title>
       <link>https://www.infosecurity-magazine.com/news/nidec-ransomware-attack-expose/</link>
+      <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache Solr Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/84003/</link>
+      <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SolarWinds Product Security Update Advisory (CVE-2024-45711)</title>
+      <link>https://asec.ahnlab.com/en/84002/</link>
       <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -146,6 +156,11 @@
       <title>Stealer here, stealer there, stealers everywhere!</title>
       <link>https://securelist.com/kral-amos-vidar-acr-stealers/114237/</link>
       <pubDate>Mon, 21 Oct 2024 10:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dell Product Security Update Advisory (CVE-2024-45766)</title>
+      <link>https://asec.ahnlab.com/en/83995/</link>
+      <pubDate>Mon, 21 Oct 2024 08:37:05 +0000</pubDate>
     </item>
     <item>
       <title>Half of Organizations Have Unmanaged Long-Lived Cloud Credentials</title>
@@ -291,21 +306,6 @@
       <title>macOS Vulnerability Could Expose User Data, Microsoft Warns</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-macos-vulnerability/</link>
       <pubDate>Fri, 18 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s behind the 51% drop in ransomware attacks?</title>
-      <link>https://securityintelligence.com/articles/whats-behind-51-drop-in-ransomware-attacks/</link>
-      <pubDate>Fri, 18 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazil Arrests ‘USDoD,’ Hacker in FBI Infragard Breach</title>
-      <link>https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/</link>
-      <pubDate>Fri, 18 Oct 2024 12:33:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actors exploiting zero-days faster than ever – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/threat-actors-exploiting-zero-days-faster-ever-week-security-tony-anscombe/</link>
-      <pubDate>Fri, 18 Oct 2024 12:10:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
