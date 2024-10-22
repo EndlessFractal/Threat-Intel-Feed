@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Oct 2024 02:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 04:24:20 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Tuesday, October 22nd, 2024 https://isc.sans.edu/podcastdetail/9190, (Tue, Oct 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/31370</link>
+      <pubDate>Tue, 22 Oct 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Crypto payment services firm says more than 92,000 affected by data breach</title>
       <link>https://therecord.media/crypto-payment-services-data-breach</link>
@@ -48,6 +53,11 @@
       <pubDate>Mon, 21 Oct 2024 16:03:08 +0000</pubDate>
     </item>
     <item>
+      <title>Severe Flaws Discovered in Major E2EE Cloud Storage Services</title>
+      <link>https://www.infosecurity-magazine.com/news/flaws-e2ee-cloud-storage-services/</link>
+      <pubDate>Mon, 21 Oct 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Stolen Access Tokens Lead to New Internet Archive Breach</title>
       <link>https://www.infosecurity-magazine.com/news/stolen-tokens-internet-archive/</link>
       <pubDate>Mon, 21 Oct 2024 15:30:00 +0000</pubDate>
@@ -68,11 +78,6 @@
       <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>October 22, 2024</title>
-      <link>https://asec.ahnlab.com/en/83994/</link>
-      <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ScienceLogic Security Update Advisory (CVE-2024-9537)</title>
       <link>https://asec.ahnlab.com/en/84007/</link>
       <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
@@ -90,6 +95,11 @@
     <item>
       <title>SolarWinds Product Security Update Advisory (CVE-2024-45711)</title>
       <link>https://asec.ahnlab.com/en/84002/</link>
+      <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 22, 2024</title>
+      <link>https://asec.ahnlab.com/en/83994/</link>
       <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>October 19, 2024</title>
       <link>https://asec.ahnlab.com/en/83985/</link>
       <pubDate>Fri, 18 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Internet Archive and Wayback Machine Resurrect After DDoS Wave</title>
-      <link>https://www.infosecurity-magazine.com/news/internet-archive-wayback-machine/</link>
-      <pubDate>Fri, 18 Oct 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Justice Department Indicts Tech CEO for Falsifying Security Certifications</title>
-      <link>https://www.schneier.com/blog/archives/2024/10/justice-department-indicts-tech-ceo-for-falsifying-security-certifications.html</link>
-      <pubDate>Fri, 18 Oct 2024 13:58:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
