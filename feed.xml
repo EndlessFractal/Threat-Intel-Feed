@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 01:26:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 02:50:40 +0000</lastBuildDate>
     <item>
       <title>Zendesk helped Internet Archive secure account after hacker breached email system</title>
       <link>https://therecord.media/zendesk-helped-internet-archive-secure-system-after-hacker-breached-emails</link>
@@ -76,6 +76,16 @@
       <title>macOS NotLockBit | Evolving Ransomware Samples Suggest a Threat Actor Sharpening Its Tools</title>
       <link>https://www.sentinelone.com/blog/macos-notlockbit-evolving-ransomware-samples-suggest-a-threat-actor-sharpening-its-tools/</link>
       <pubDate>Tue, 22 Oct 2024 15:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trend Micro Product Security Update Advisory (CVE-2024-48904)</title>
+      <link>https://asec.ahnlab.com/en/84034/</link>
+      <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protobuf Library Security Update Advisory (CVE-2024-7254)</title>
+      <link>https://asec.ahnlab.com/en/84033/</link>
+      <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>October 23, 2024</title>
@@ -296,16 +306,6 @@
       <title>SolarWinds Product Security Update Advisory (CVE-2024-45711)</title>
       <link>https://asec.ahnlab.com/en/84002/</link>
       <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 22, 2024</title>
-      <link>https://asec.ahnlab.com/en/83994/</link>
-      <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This industry profits from knowing you have cancer, explains Cody Venzke (Lock and Code S05E22)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2024/10/this-industry-profits-from-knowing-you-have-cancer-explains-cody-venzke-lock-and-code-s05e22</link>
-      <pubDate>Mon, 21 Oct 2024 14:50:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
