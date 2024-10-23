@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 10:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 12:38:12 +0000</lastBuildDate>
+    <item>
+      <title>The Global Surveillance Free-for-All in Mobile Ad Data</title>
+      <link>https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/</link>
+      <pubDate>Wed, 23 Oct 2024 11:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Internet Archive Secures Zendesk Account, Works Toward Full-Service Restoration</title>
+      <link>https://www.infosecurity-magazine.com/news/internet-archive-secures-zendesk/</link>
+      <pubDate>Wed, 23 Oct 2024 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Addressing the cybersecurity skills shortage in SMBs</title>
+      <link>https://news.sophos.com/en-us/2024/10/23/addressing-the-cybersecurity-skills-shortage-in-smbs/</link>
+      <pubDate>Wed, 23 Oct 2024 11:11:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Crypto Game of Lazarus APT: Investors vs. Zero-days</title>
+      <link>https://securelist.com/lazarus-apt-steals-crypto-with-a-tank-game/114282/</link>
+      <pubDate>Wed, 23 Oct 2024 11:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crooks are targeting Docker API servers to deploy SRBMiner</title>
+      <link>https://securityaffairs.com/170144/malware/docker-remote-api-servers-srbminer.html</link>
+      <pubDate>Wed, 23 Oct 2024 10:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Government Pledges to Cyber Threat Sharing Via TLP Protocol</title>
+      <link>https://www.infosecurity-magazine.com/news/us-government-threat-sharing-tlp/</link>
+      <pubDate>Wed, 23 Oct 2024 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Spotlight: WarmCookie/BadSpace</title>
       <link>https://blog.talosintelligence.com/warmcookie-analysis/</link>
@@ -23,6 +53,11 @@
       <pubDate>Wed, 23 Oct 2024 10:00:55 +0000</pubDate>
     </item>
     <item>
+      <title>Researchers Reveal 'Deceptive Delight' Method to Jailbreak AI Models</title>
+      <link>https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html</link>
+      <pubDate>Wed, 23 Oct 2024 09:54:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Why DSPM is Essential for Achieving Data Privacy in 2024</title>
       <link>https://securityaffairs.com/170137/security/dspm-data-privacy-2024.html</link>
       <pubDate>Wed, 23 Oct 2024 09:37:18 +0000</pubDate>
@@ -31,6 +66,16 @@
       <title>UK Government Weighs Review of Computer Misuse Act to Combat Cybercrime</title>
       <link>https://www.infosecurity-magazine.com/news/uk-government-weighs-review/</link>
       <pubDate>Wed, 23 Oct 2024 09:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Think You’re Secure? 49% of Enterprises Underestimate SaaS Risks</title>
+      <link>https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html</link>
+      <pubDate>Wed, 23 Oct 2024 09:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Gangs Use LockBit's Fame to Intimidate Victims in Latest Attacks</title>
+      <link>https://thehackernews.com/2024/10/ransomware-gangs-use-lockbits-fame-to.html</link>
+      <pubDate>Wed, 23 Oct 2024 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>SEC fined 4 companies for misleading disclosures about the impact of the SolarWinds attack</title>
@@ -118,6 +163,11 @@
       <pubDate>Tue, 22 Oct 2024 15:01:07 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, October 2024</title>
+      <link>https://asec.ahnlab.com/en/84043/</link>
+      <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Samsung Product Security Update Advisory (CVE-2024-44068)</title>
       <link>https://asec.ahnlab.com/en/84039/</link>
       <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
@@ -135,11 +185,6 @@
     <item>
       <title>October 23, 2024</title>
       <link>https://asec.ahnlab.com/en/84027/</link>
-      <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, October 2024</title>
-      <link>https://asec.ahnlab.com/en/84043/</link>
       <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -261,51 +306,6 @@
       <title>AI-Powered Attacks Flood Retail Websites</title>
       <link>https://www.infosecurity-magazine.com/news/aipowered-attacks-flood-retail/</link>
       <pubDate>Tue, 22 Oct 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware failed to fully address vCenter Server RCE flaw CVE-2024-38812</title>
-      <link>https://securityaffairs.com/170096/security/vmware-failed-to-fix-rce-vcenter-server-cve-2024-38812.html</link>
-      <pubDate>Tue, 22 Oct 2024 07:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware Releases vCenter Server Update to Fix Critical RCE Vulnerability</title>
-      <link>https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html</link>
-      <pubDate>Tue, 22 Oct 2024 07:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Falcon Foundry: Build Custom Apps to Solve Tough Security Challenges</title>
-      <link>https://www.crowdstrike.com/en-us/blog/building-custom-apps-with-crowdstrike-falcon-foundry/</link>
-      <pubDate>Tue, 22 Oct 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike + Fortinet: Unifying AI-Native Endpoint and Next-Gen Firewall Protection</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-fortinet-partnership-unifies-endpoint-firewall-protection/</link>
-      <pubDate>Tue, 22 Oct 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds ScienceLogic SL1 Vulnerability to Exploited Catalog After Active Zero-Day Attack</title>
-      <link>https://thehackernews.com/2024/10/cisa-adds-sciencelogic-sl1.html</link>
-      <pubDate>Tue, 22 Oct 2024 04:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, October 22nd, 2024 https://isc.sans.edu/podcastdetail/9190, (Tue, Oct 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/31370</link>
-      <pubDate>Tue, 22 Oct 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco states that data published on cybercrime forum was taken from public-facing DevHub environment</title>
-      <link>https://securityaffairs.com/170075/cyber-crime/cisco-confirms-a-security-breach.html</link>
-      <pubDate>Mon, 21 Oct 2024 18:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC2 Security Congress 2024: The Landscape of Nation-State Cyber Attacks</title>
-      <link>https://www.techrepublic.com/article/isc2-security-congress-nation-state-cyber-threats/</link>
-      <pubDate>Mon, 21 Oct 2024 17:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Akira ransomware continues to evolve</title>
-      <link>https://blog.talosintelligence.com/akira-ransomware-continues-to-evolve/</link>
-      <pubDate>Mon, 21 Oct 2024 16:50:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
