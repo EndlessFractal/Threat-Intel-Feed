@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 06:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 08:25:17 +0000</lastBuildDate>
+    <item>
+      <title>US Energy Sector Vulnerable to Supply Chain Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/us-energy-vulnerable-supply-chain/</link>
+      <pubDate>Wed, 23 Oct 2024 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, October 23rd, 2024 https://isc.sans.edu/podcastdetail/9192, (Wed, Oct 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/31374</link>
@@ -33,7 +38,7 @@
       <pubDate>Tue, 22 Oct 2024 18:21:36 +0000</pubDate>
     </item>
     <item>
-      <title>Grandoreiro, the global trojan with grandiose ambitions</title>
+      <title>Grandoreiro, the global trojan with grandiose goals</title>
       <link>https://securelist.com/grandoreiro-banking-trojan/114257/</link>
       <pubDate>Tue, 22 Oct 2024 18:00:17 +0000</pubDate>
     </item>
@@ -83,6 +88,11 @@
       <pubDate>Tue, 22 Oct 2024 15:01:07 +0000</pubDate>
     </item>
     <item>
+      <title>Samsung Product Security Update Advisory (CVE-2024-44068)</title>
+      <link>https://asec.ahnlab.com/en/84039/</link>
+      <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Trend Micro Product Security Update Advisory (CVE-2024-48904)</title>
       <link>https://asec.ahnlab.com/en/84034/</link>
       <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
@@ -95,6 +105,11 @@
     <item>
       <title>October 23, 2024</title>
       <link>https://asec.ahnlab.com/en/84027/</link>
+      <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, October 2024</title>
+      <link>https://asec.ahnlab.com/en/84043/</link>
       <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -290,21 +305,6 @@
     <item>
       <title>50,000 Files Exposed in Nidec Ransomware Attack</title>
       <link>https://www.infosecurity-magazine.com/news/nidec-ransomware-attack-expose/</link>
-      <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 22, 2024</title>
-      <link>https://asec.ahnlab.com/en/83994/</link>
-      <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ScienceLogic Security Update Advisory (CVE-2024-9537)</title>
-      <link>https://asec.ahnlab.com/en/84007/</link>
-      <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roundcube Webmail Security Update Advisory (CVE-2024-37383)</title>
-      <link>https://asec.ahnlab.com/en/84006/</link>
       <pubDate>Mon, 21 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
