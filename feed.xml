@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 14:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 16:24:36 +0000</lastBuildDate>
+    <item>
+      <title>Threat Actors Are Exploiting Vulnerabilities Faster Than Ever</title>
+      <link>https://www.techrepublic.com/article/threat-actors-mandiant-report-2024/</link>
+      <pubDate>Wed, 23 Oct 2024 16:15:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK court says dissident can sue the Saudi government for targeting him with spyware</title>
+      <link>https://therecord.media/dissident-can-sue-saudi-arabia-in-uk-court-pegasus-spyware</link>
+      <pubDate>Wed, 23 Oct 2024 16:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Malware WarmCookie Targets Users with Malicious Links</title>
+      <link>https://www.infosecurity-magazine.com/news/malware-warmcookie-users-malicious/</link>
+      <pubDate>Wed, 23 Oct 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn bots and spear phishers target job seekers</title>
+      <link>https://www.malwarebytes.com/blog/cybercrime/2024/10/linkedin-bots-and-spear-phishers-target-job-seekers</link>
+      <pubDate>Wed, 23 Oct 2024 15:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>SophosAI team presents three papers on AI applied to cybersecurity at CAMLIS</title>
+      <link>https://news.sophos.com/en-us/2024/10/23/sophosai-team-presents-three-papers-on-ai-applied-to-cybersecurity-at-camlis/</link>
+      <pubDate>Wed, 23 Oct 2024 15:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Embargo Ransomware Gang Deploys Customized Defense Evasion Tools</title>
+      <link>https://www.infosecurity-magazine.com/news/embargo-ransomware-defense-evasion/</link>
+      <pubDate>Wed, 23 Oct 2024 15:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>Former British PM Cameron Calls for Tech Engagement with China Despite Cyber Threats</title>
       <link>https://www.infosecurity-magazine.com/news/david-cameron-us-china-cyber/</link>
@@ -31,6 +61,11 @@
       <title>Climbing The Ladder | Kubernetes Privilege Escalation (Part 1)</title>
       <link>https://www.sentinelone.com/blog/climbing-the-ladder-kubernetes-privilege-escalation-part-1/</link>
       <pubDate>Wed, 23 Oct 2024 13:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is a VPN Really Worth It in 2024?</title>
+      <link>https://www.techrepublic.com/article/is-vpn-worth-it/</link>
+      <pubDate>Wed, 23 Oct 2024 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>70% of Leaders See Cyber Knowledge Gap in Employees</title>
@@ -163,11 +198,6 @@
       <pubDate>Tue, 22 Oct 2024 18:26:41 +0000</pubDate>
     </item>
     <item>
-      <title>Lawmakers ask DOJ to prosecute tax prep firms for sharing customer data with big tech</title>
-      <link>https://therecord.media/lawmakers-ask-doj-to-prosecute-tax-prep-firms-sharing-data-meta-google</link>
-      <pubDate>Tue, 22 Oct 2024 18:21:36 +0000</pubDate>
-    </item>
-    <item>
       <title>Grandoreiro, the global trojan with grandiose goals</title>
       <link>https://securelist.com/grandoreiro-banking-trojan/114257/</link>
       <pubDate>Tue, 22 Oct 2024 18:00:17 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Exposing the Danger Within: Hardcoded Cloud Credentials in Popular Mobile Apps</title>
       <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/exposing-danger-within-hardcoded-cloud-credentials-popular-mobile-apps</link>
       <pubDate>Tue, 22 Oct 2024 12:06:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>NordVPN Review (2024): Is NordVPN Worth the Cost?</title>
-      <link>https://www.techrepublic.com/article/nordvpn-review/</link>
-      <pubDate>Tue, 22 Oct 2024 12:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>IoT Assignment Completed! Report on Barriers to U.S. IoT Adoption</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/iot-assignment-completed-report-barriers-us-iot-adoption</link>
-      <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICONICS and Mitsubishi Electric Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-296-01</link>
-      <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory</link>
-      <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No, The Chinese Have Not Broken Modern Encryption Systems with a Quantum Computer</title>
-      <link>https://www.schneier.com/blog/archives/2024/10/no-the-chinese-have-not-broken-modern-encryption-systems-with-a-quantum-computer.html</link>
-      <pubDate>Tue, 22 Oct 2024 11:03:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
