@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 06:28:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 08:25:26 +0000</lastBuildDate>
+    <item>
+      <title>UK Government Urges Organizations to Get Cyber Essentials Certified</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-government-cyber-essentials/</link>
+      <pubDate>Thu, 24 Oct 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Warns of Critical Vulnerability in FortiManager Under Active Exploitation</title>
+      <link>https://thehackernews.com/2024/10/fortinet-warns-of-critical.html</link>
+      <pubDate>Thu, 24 Oct 2024 06:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. CISA adds Fortinet FortiManager flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/170175/hacking/us-cisa-adds-fortinet-fortimanager-flaw-known-exploited-vulnerabilities-catalog.html</link>
@@ -91,6 +101,16 @@
       <title>Embargo Ransomware Gang Deploys Customized Defense Evasion Tools</title>
       <link>https://www.infosecurity-magazine.com/news/embargo-ransomware-defense-evasion/</link>
       <pubDate>Wed, 23 Oct 2024 15:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, October 2024</title>
+      <link>https://asec.ahnlab.com/en/84071/</link>
+      <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Product Security Update Advisory (CVE-2024-47575)</title>
+      <link>https://asec.ahnlab.com/en/84062/</link>
+      <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Siemens Product Security Update Advisory</title>
@@ -273,11 +293,6 @@
       <pubDate>Tue, 22 Oct 2024 16:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Threat Intelligence healthcare ransomware report highlights need for collective industry action</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/10/22/microsoft-threat-intelligence-healthcare-ransomware-report-highlights-need-for-collective-industry-action/</link>
-      <pubDate>Tue, 22 Oct 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SEC Charges Tech Firms Over Misleading SolarWinds Hack Disclosures</title>
       <link>https://www.infosecurity-magazine.com/news/sec-charges-solarwinds-hack/</link>
       <pubDate>Tue, 22 Oct 2024 15:45:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>AI chatbots can be tricked by hackers into helping them steal your private data</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/ai-chatbots-can-be-tricked-by-hackers-into-stealing-your-data/</link>
       <pubDate>Tue, 22 Oct 2024 15:36:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>What NIST’s post-quantum cryptography standards mean for data security</title>
-      <link>https://securityintelligence.com/posts/nist-post-quantum-cryptography-standards-data-security/</link>
-      <pubDate>Tue, 22 Oct 2024 15:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>macOS NotLockBit | Evolving Ransomware Samples Suggest a Threat Actor Sharpening Its Tools</title>
-      <link>https://www.sentinelone.com/blog/macos-notlockbit-evolving-ransomware-samples-suggest-a-threat-actor-sharpening-its-tools/</link>
-      <pubDate>Tue, 22 Oct 2024 15:01:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung Product Security Update Advisory (CVE-2024-44068)</title>
-      <link>https://asec.ahnlab.com/en/84039/</link>
-      <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
