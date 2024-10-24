@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 01:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 02:50:27 +0000</lastBuildDate>
     <item>
       <title>Smashing Security podcast #390: When security firms get hacked, and your new North Korean remote worker</title>
       <link>https://grahamcluley.com/smashing-security-podcast-390/</link>
@@ -258,11 +258,6 @@
       <pubDate>Tue, 22 Oct 2024 16:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Threat Intelligence healthcare ransomware report highlights need for collective industry action</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/10/22/microsoft-threat-intelligence-healthcare-ransomware-report-highlights-need-for-collective-industry-action/</link>
-      <pubDate>Tue, 22 Oct 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SEC Charges Tech Firms Over Misleading SolarWinds Hack Disclosures</title>
       <link>https://www.infosecurity-magazine.com/news/sec-charges-solarwinds-hack/</link>
       <pubDate>Tue, 22 Oct 2024 15:45:00 +0000</pubDate>
@@ -286,6 +281,11 @@
       <title>macOS NotLockBit | Evolving Ransomware Samples Suggest a Threat Actor Sharpening Its Tools</title>
       <link>https://www.sentinelone.com/blog/macos-notlockbit-evolving-ransomware-samples-suggest-a-threat-actor-sharpening-its-tools/</link>
       <pubDate>Tue, 22 Oct 2024 15:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, October 2024</title>
+      <link>https://asec.ahnlab.com/en/84043/</link>
+      <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Samsung Product Security Update Advisory (CVE-2024-44068)</title>
