@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 20:21:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 22:18:03 +0000</lastBuildDate>
+    <item>
+      <title>Pwn2Own Ireland 2024 Day 2: participants demonstrated an exploit against Samsung Galaxy S24</title>
+      <link>https://securityaffairs.com/170221/hacking/pwn2own-ireland-2024-day-two.html</link>
+      <pubDate>Thu, 24 Oct 2024 20:52:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>CFPB warns industry against ‘deeply invasive’ workplace digital surveillance</title>
+      <link>https://therecord.media/cfpb-warns-industry-against-workplace-surveillance</link>
+      <pubDate>Thu, 24 Oct 2024 20:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Senator questions internet domain companies over Russian disinformation charges</title>
+      <link>https://therecord.media/senator-questions-internet-domain-companies-russia-disinformation-election</link>
+      <pubDate>Thu, 24 Oct 2024 20:37:39 +0000</pubDate>
+    </item>
     <item>
       <title>Commerce Department IoT panel says car dealers should display privacy labels on vehicles</title>
       <link>https://therecord.media/commerce-dept-iot-panel-car-privacy-recommendations</link>
@@ -63,9 +78,9 @@
       <pubDate>Thu, 24 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Georgian authorities raid homes of disinformation researchers ahead of elections</title>
-      <link>https://therecord.media/georgian-authorities-raid-homes-disinformation-researchers-election</link>
-      <pubDate>Thu, 24 Oct 2024 14:44:00 +0000</pubDate>
+      <title>October 25, 2024</title>
+      <link>https://asec.ahnlab.com/en/84078/</link>
+      <pubDate>Thu, 24 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>White House Issues AI National Security Memo</title>
@@ -91,11 +106,6 @@
       <title>Cisco Issues Urgent Fix for ASA and FTD Software Vulnerability Under Active Attack</title>
       <link>https://thehackernews.com/2024/10/cisco-issues-urgent-fix-for-asa-and-ftd.html</link>
       <pubDate>Thu, 24 Oct 2024 12:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK proposes new data protection regime, hopes for £10 billion economic boost</title>
-      <link>https://therecord.media/uk-data-use-access-bill-privacy-regulation</link>
-      <pubDate>Thu, 24 Oct 2024 12:18:44 +0000</pubDate>
     </item>
     <item>
       <title>What Is PCI Compliance? A Simple Guide for Businesses</title>
@@ -268,16 +278,6 @@
       <pubDate>Wed, 23 Oct 2024 15:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/84058/</link>
-      <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 24, 2024</title>
-      <link>https://asec.ahnlab.com/en/84048/</link>
-      <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 4, October 2024</title>
       <link>https://asec.ahnlab.com/en/84071/</link>
       <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
@@ -285,6 +285,16 @@
     <item>
       <title>Fortinet Product Security Update Advisory (CVE-2024-47575)</title>
       <link>https://asec.ahnlab.com/en/84062/</link>
+      <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Product Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/84058/</link>
+      <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 24, 2024</title>
+      <link>https://asec.ahnlab.com/en/84048/</link>
       <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>U.S. CISA adds Microsoft SharePoint flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/170157/security/u-s-cisa-adds-microsoft-sharepoint-flaw-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Wed, 23 Oct 2024 13:49:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large</title>
-      <link>https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html</link>
-      <pubDate>Wed, 23 Oct 2024 13:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Climbing The Ladder | Kubernetes Privilege Escalation (Part 1)</title>
-      <link>https://www.sentinelone.com/blog/climbing-the-ladder-kubernetes-privilege-escalation-part-1/</link>
-      <pubDate>Wed, 23 Oct 2024 13:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
