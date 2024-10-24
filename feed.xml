@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 16:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 18:26:24 +0000</lastBuildDate>
+    <item>
+      <title>Landmark, an administrator for insurance firms, says 800,000 affected by data breach</title>
+      <link>https://therecord.media/landmark-admin-data-breach-insurance-industry</link>
+      <pubDate>Thu, 24 Oct 2024 18:15:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing Your Foundation</title>
+      <link>https://symantec-enterprise-blogs.security.com/product-insights/securingyourfoundation</link>
+      <pubDate>Thu, 24 Oct 2024 17:07:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>REST Architecture</title>
+      <link>https://symantec-enterprise-blogs.security.com/product-insights/restarchitecture</link>
+      <pubDate>Thu, 24 Oct 2024 16:43:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Qilin.B Ransomware Variant Emerges with Improved Encryption and Evasion Tactics</title>
+      <link>https://thehackernews.com/2024/10/new-qilinb-ransomware-variant-emerges.html</link>
+      <pubDate>Thu, 24 Oct 2024 16:38:00 +0000</pubDate>
+    </item>
     <item>
       <title>NotLockBit: ransomware discovery serves as wake-up call for Mac users</title>
       <link>https://www.tripwire.com/state-of-security/notlockbit-rransomware-discovery-serves-wake-call-mac-users</link>
@@ -16,6 +36,11 @@
       <title>Lazarus Group Exploits Google Chrome Flaw in New Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/lazarus-group-exploits-google/</link>
       <pubDate>Thu, 24 Oct 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco fixed tens of vulnerabilities, including an actively exploited one</title>
+      <link>https://securityaffairs.com/170203/breaking-news/cisco-fixed-tens-of-vulnerabilities-including-actively-exploited-one.html</link>
+      <pubDate>Thu, 24 Oct 2024 15:58:57 +0000</pubDate>
     </item>
     <item>
       <title>LinkedIn hit with $335 million fine for using member data for ad targeting without consent</title>
@@ -95,6 +120,11 @@
     <item>
       <title>CISA Releases Four Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-releases-four-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software</link>
       <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -183,9 +213,9 @@
       <pubDate>Wed, 23 Oct 2024 23:00:28 +0000</pubDate>
     </item>
     <item>
-      <title>High-severity FortiManager bug being exploited by hackers</title>
-      <link>https://therecord.media/high-severity-fortimanager-bug-being-exploited</link>
-      <pubDate>Wed, 23 Oct 2024 20:25:27 +0000</pubDate>
+      <title>AWS Security Configuration Review and Best Practices</title>
+      <link>https://www.hackerone.com/penetration-testing/aws-security-configuration</link>
+      <pubDate>Wed, 23 Oct 2024 20:53:26 +0000</pubDate>
     </item>
     <item>
       <title>Are Automatic License Plate Scanners Constitutional?</title>
@@ -276,36 +306,6 @@
       <title>Is a VPN Really Worth It in 2024?</title>
       <link>https://www.techrepublic.com/article/is-vpn-worth-it/</link>
       <pubDate>Wed, 23 Oct 2024 13:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>70% of Leaders See Cyber Knowledge Gap in Employees</title>
-      <link>https://www.infosecurity-magazine.com/news/70-cyber-knowledge-gap-employees/</link>
-      <pubDate>Wed, 23 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI hallucinations can pose a risk to your cybersecurity</title>
-      <link>https://securityintelligence.com/articles/ai-hallucinations-pose-risk-cybersecurity/</link>
-      <pubDate>Wed, 23 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Active Exploitation of Microsoft SharePoint Vulnerability (CVE-2024-38094)</title>
-      <link>https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-of.html</link>
-      <pubDate>Wed, 23 Oct 2024 12:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Everybody Loves Bash Scripts. Including Attackers., (Wed, Oct 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/31376</link>
-      <pubDate>Wed, 23 Oct 2024 12:52:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024-0</link>
-      <pubDate>Wed, 23 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/23/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Wed, 23 Oct 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
