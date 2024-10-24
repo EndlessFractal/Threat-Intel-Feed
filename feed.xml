@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 12:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 14:18:55 +0000</lastBuildDate>
+    <item>
+      <title>White House Issues AI National Security Memo</title>
+      <link>https://www.infosecurity-magazine.com/news/white-house-ai-national-security/</link>
+      <pubDate>Thu, 24 Oct 2024 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pinterest tracks users without consent, alleges complaint</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/10/pinterest-tracks-users-without-consent-alleges-complaint</link>
+      <pubDate>Thu, 24 Oct 2024 13:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Cloud Development Kit Vulnerability Exposes Users to Potential Account Takeover Risks</title>
+      <link>https://thehackernews.com/2024/10/aws-cloud-development-kit-vulnerability.html</link>
+      <pubDate>Thu, 24 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 proven use cases for AI in preventative cybersecurity</title>
+      <link>https://securityintelligence.com/articles/3-proven-use-cases-for-ai-preventative-cybersecurity/</link>
+      <pubDate>Thu, 24 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Issues Urgent Fix for ASA and FTD Software Vulnerability Under Active Attack</title>
+      <link>https://thehackernews.com/2024/10/cisco-issues-urgent-fix-for-asa-and-ftd.html</link>
+      <pubDate>Thu, 24 Oct 2024 12:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>UK proposes new data protection regime, hopes for £10 billion economic boost</title>
       <link>https://therecord.media/uk-data-use-access-bill-privacy-regulation</link>
@@ -16,6 +41,26 @@
       <title>What Is PCI Compliance? A Simple Guide for Businesses</title>
       <link>https://www.techrepublic.com/article/pci-compliance/</link>
       <pubDate>Thu, 24 Oct 2024 12:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>VIMESA VHF/FM Transmitter Blue Plus</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-298-01</link>
+      <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iniNet Solutions SpiderControl SCADA PC HMI Editor</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-298-02</link>
+      <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deep Sea Electronics DSE855</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-298-03</link>
+      <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Four Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-releases-four-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>White House unveils plan for US government to keep its edge on AI development</title>
@@ -91,6 +136,11 @@
       <title>ISC Stormcast For Thursday, October 24th, 2024 https://isc.sans.edu/podcastdetail/9194, (Thu, Oct 24th)</title>
       <link>https://isc.sans.edu/diary/rss/31378</link>
       <pubDate>Thu, 24 Oct 2024 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Strategic Information Attack for Catastrophic Effect</title>
+      <link>https://www.recordedfuture.com/research/russian-strategic-information-attack-catastrophic-effect</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Smashing Security podcast #390: When security firms get hacked, and your new North Korean remote worker</title>
@@ -256,56 +306,6 @@
       <title>Crooks are targeting Docker API servers to deploy SRBMiner</title>
       <link>https://securityaffairs.com/170144/malware/docker-remote-api-servers-srbminer.html</link>
       <pubDate>Wed, 23 Oct 2024 10:57:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Government Pledges to Cyber Threat Sharing Via TLP Protocol</title>
-      <link>https://www.infosecurity-magazine.com/news/us-government-threat-sharing-tlp/</link>
-      <pubDate>Wed, 23 Oct 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Spotlight: WarmCookie/BadSpace</title>
-      <link>https://blog.talosintelligence.com/warmcookie-analysis/</link>
-      <pubDate>Wed, 23 Oct 2024 10:02:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Highlighting TA866/Asylum Ambuscade Activity Since 2021</title>
-      <link>https://blog.talosintelligence.com/highlighting-ta866-asylum-ambuscade/</link>
-      <pubDate>Wed, 23 Oct 2024 10:02:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deceptive Delight: Jailbreak LLMs Through Camouflage and Distraction</title>
-      <link>https://unit42.paloaltonetworks.com/jailbreak-llms-through-camouflage-distraction/</link>
-      <pubDate>Wed, 23 Oct 2024 10:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Reveal 'Deceptive Delight' Method to Jailbreak AI Models</title>
-      <link>https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html</link>
-      <pubDate>Wed, 23 Oct 2024 09:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why DSPM is Essential for Achieving Data Privacy in 2024</title>
-      <link>https://securityaffairs.com/170137/security/dspm-data-privacy-2024.html</link>
-      <pubDate>Wed, 23 Oct 2024 09:37:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Government Weighs Review of Computer Misuse Act to Combat Cybercrime</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-government-weighs-review/</link>
-      <pubDate>Wed, 23 Oct 2024 09:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Think You’re Secure? 49% of Enterprises Underestimate SaaS Risks</title>
-      <link>https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html</link>
-      <pubDate>Wed, 23 Oct 2024 09:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Browser (130.0.6723.69/.70) Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/84049/</link>
-      <pubDate>Wed, 23 Oct 2024 09:32:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Gangs Use LockBit's Fame to Intimidate Victims in Latest Attacks</title>
-      <link>https://thehackernews.com/2024/10/ransomware-gangs-use-lockbits-fame-to.html</link>
-      <pubDate>Wed, 23 Oct 2024 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
