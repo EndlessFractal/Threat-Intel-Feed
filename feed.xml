@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Oct 2024 06:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 08:25:03 +0000</lastBuildDate>
+    <item>
+      <title>MacOS-Focused Ransomware Attempts Leverage LockBit Brand</title>
+      <link>https://www.infosecurity-magazine.com/news/macos-ransomware-attempts-leverage/</link>
+      <pubDate>Fri, 25 Oct 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Cisco ASA and FTD, and RoundCube Webmail bugs to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/170231/security/u-s-cisa-adds-cisco-asa-and-ftd-and-roundcube-webmail-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Fri, 25 Oct 2024 07:40:19 +0000</pubDate>
+    </item>
     <item>
       <title>Irish Watchdog Imposes Record €310 Million Fine on LinkedIn for GDPR Violations</title>
       <link>https://thehackernews.com/2024/10/irish-watchdog-imposes-record-310.html</link>
@@ -85,6 +95,16 @@
     <item>
       <title>Penn State Settles for $1.25M Over Cybersecurity Violations</title>
       <link>https://www.infosecurity-magazine.com/news/penn-state-settles-dollar125m/</link>
+      <pubDate>Thu, 24 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 4st Week of October, 2024</title>
+      <link>https://asec.ahnlab.com/en/84098/</link>
+      <pubDate>Thu, 24 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nginx UI Security Update Advisory (CVE-2024-49368)</title>
+      <link>https://asec.ahnlab.com/en/84090/</link>
       <pubDate>Thu, 24 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +243,11 @@
       <pubDate>Thu, 24 Oct 2024 05:19:54 +0000</pubDate>
     </item>
     <item>
+      <title>Protect Your Weakest Link: New Account Linking Capabilities Use AI to Thwart Identity-Based Attacks</title>
+      <link>https://www.crowdstrike.com/en-us/blog/new-account-linking-capabilities-crowdstrike-falcon-identity-protection/</link>
+      <pubDate>Thu, 24 Oct 2024 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Thursday, October 24th, 2024 https://isc.sans.edu/podcastdetail/9194, (Thu, Oct 24th)</title>
       <link>https://isc.sans.edu/diary/rss/31378</link>
       <pubDate>Thu, 24 Oct 2024 02:00:02 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>SophosAI team presents three papers on AI applied to cybersecurity at CAMLIS</title>
       <link>https://news.sophos.com/en-us/2024/10/23/sophosai-team-presents-three-papers-on-ai-applied-to-cybersecurity-at-camlis/</link>
       <pubDate>Wed, 23 Oct 2024 15:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Embargo Ransomware Gang Deploys Customized Defense Evasion Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/embargo-ransomware-defense-evasion/</link>
-      <pubDate>Wed, 23 Oct 2024 15:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Product Security Update Advisory</title>
-      <link>https://asec.ahnlab.com/en/84058/</link>
-      <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 24, 2024</title>
-      <link>https://asec.ahnlab.com/en/84048/</link>
-      <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 4, October 2024</title>
-      <link>https://asec.ahnlab.com/en/84071/</link>
-      <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Product Security Update Advisory (CVE-2024-47575)</title>
-      <link>https://asec.ahnlab.com/en/84062/</link>
-      <pubDate>Wed, 23 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
