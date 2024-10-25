@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Oct 2024 12:38:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 14:18:20 +0000</lastBuildDate>
+    <item>
+      <title>How LLMs could help defenders write better and faster detection</title>
+      <link>https://blog.talosintelligence.com/how-llms-could-help-defenders-write-better-and-faster-detection/</link>
+      <pubDate>Fri, 25 Oct 2024 14:09:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Safely Expanding the Frontiers of AI &amp; LLMs | S Ventures’ Investment in Galileo</title>
+      <link>https://www.sentinelone.com/blog/safely-expanding-the-frontiers-of-ai-llms-s-ventures-investment-in-galileo/</link>
+      <pubDate>Fri, 25 Oct 2024 14:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Healthcare Breach Affects 100 Million Americans</title>
+      <link>https://www.infosecurity-magazine.com/news/change-healthcare-breach-americans/</link>
+      <pubDate>Fri, 25 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watermark for LLM-Generated Text</title>
+      <link>https://www.schneier.com/blog/archives/2024/10/watermark-for-llm-generated-text.html</link>
+      <pubDate>Fri, 25 Oct 2024 13:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Healthcare says 100 million people impacted by February ransomware attack</title>
+      <link>https://therecord.media/change-healthcare-100-million-impacted-ransomware-attack</link>
+      <pubDate>Fri, 25 Oct 2024 13:38:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux creator approves de-listing of several kernel maintainers associated with Russia</title>
+      <link>https://therecord.media/linus-torvalds-russian-linux-kernel-maintainers-removed</link>
+      <pubDate>Fri, 25 Oct 2024 13:05:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 43</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-6/</link>
+      <pubDate>Fri, 25 Oct 2024 13:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Addressing growing concerns about cybersecurity in manufacturing</title>
+      <link>https://securityintelligence.com/articles/addressing-growing-concerns-cybersecurity-in-manufacturing/</link>
+      <pubDate>Fri, 25 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall hardening best practices</title>
+      <link>https://news.sophos.com/en-us/2024/10/25/sophos-firewall-hardening-best-practices/</link>
+      <pubDate>Fri, 25 Oct 2024 12:41:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Opens PCC Source Code for Researchers to Identify Bugs in Cloud AI Security</title>
+      <link>https://thehackernews.com/2024/10/apple-opens-pcc-source-code-for.html</link>
+      <pubDate>Fri, 25 Oct 2024 12:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>UAC-0218 Attack Detection: Adversaries Steal Files Using HOMESTEEL Malware</title>
       <link>https://socprime.com/blog/uac-0218-attack-detection/</link>
@@ -68,6 +118,11 @@
       <pubDate>Fri, 25 Oct 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks</title>
+      <link>https://www.hackerone.com/vulnerability-management/hackerone-benchmarks</link>
+      <pubDate>Thu, 24 Oct 2024 21:29:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Pwn2Own Ireland 2024 Day 2: participants demonstrated an exploit against Samsung Galaxy S24</title>
       <link>https://securityaffairs.com/170221/hacking/pwn2own-ireland-2024-day-two.html</link>
       <pubDate>Thu, 24 Oct 2024 20:52:07 +0000</pubDate>
@@ -86,11 +141,6 @@
       <title>Commerce Department IoT panel says car dealers should display privacy labels on vehicles</title>
       <link>https://therecord.media/commerce-dept-iot-panel-car-privacy-recommendations</link>
       <pubDate>Thu, 24 Oct 2024 19:41:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Landmark, an administrator for insurance firms, says 800,000 affected by data breach</title>
-      <link>https://therecord.media/landmark-admin-data-breach-insurance-industry</link>
-      <pubDate>Thu, 24 Oct 2024 18:15:57 +0000</pubDate>
     </item>
     <item>
       <title>Securing Your Foundation</title>
@@ -126,11 +176,6 @@
       <title>Cisco fixed tens of vulnerabilities, including an actively exploited one</title>
       <link>https://securityaffairs.com/170203/breaking-news/cisco-fixed-tens-of-vulnerabilities-including-actively-exploited-one.html</link>
       <pubDate>Thu, 24 Oct 2024 15:58:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn hit with $335 million fine for using member data for ad targeting without consent</title>
-      <link>https://therecord.media/linkedin-hit-with-335-million-fine-gdpr-ireland</link>
-      <pubDate>Thu, 24 Oct 2024 15:53:56 +0000</pubDate>
     </item>
     <item>
       <title>Penn State Settles for $1.25M Over Cybersecurity Violations</title>
@@ -261,51 +306,6 @@
       <title>Lazarus Group Exploits Google Chrome Vulnerability to Control Infected Devices</title>
       <link>https://thehackernews.com/2024/10/lazarus-group-exploits-google-chrome.html</link>
       <pubDate>Thu, 24 Oct 2024 09:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Teams Largely Ignored in AI Policy Development</title>
-      <link>https://www.infosecurity-magazine.com/news/cybersecurity-teams-ignored-ai/</link>
-      <pubDate>Thu, 24 Oct 2024 09:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESET Research Podcast: CosmicBeetle</title>
-      <link>https://www.welivesecurity.com/en/podcasts/eset-research-podcast-cosmicbeetle/</link>
-      <pubDate>Thu, 24 Oct 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Government Urges Organizations to Get Cyber Essentials Certified</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-government-cyber-essentials/</link>
-      <pubDate>Thu, 24 Oct 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Warns of Critical Vulnerability in FortiManager Under Active Exploitation</title>
-      <link>https://thehackernews.com/2024/10/fortinet-warns-of-critical.html</link>
-      <pubDate>Thu, 24 Oct 2024 06:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Fortinet FortiManager flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/170175/hacking/us-cisa-adds-fortinet-fortimanager-flaw-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 24 Oct 2024 05:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protect Your Weakest Link: New Account Linking Capabilities Use AI to Thwart Identity-Based Attacks</title>
-      <link>https://www.crowdstrike.com/en-us/blog/new-account-linking-capabilities-crowdstrike-falcon-identity-protection/</link>
-      <pubDate>Thu, 24 Oct 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, October 24th, 2024 https://isc.sans.edu/podcastdetail/9194, (Thu, Oct 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/31378</link>
-      <pubDate>Thu, 24 Oct 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Strategic Information Attack for Catastrophic Effect</title>
-      <link>https://www.recordedfuture.com/research/russian-strategic-information-attack-catastrophic-effect</link>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #390: When security firms get hacked, and your new North Korean remote worker</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-390/</link>
-      <pubDate>Wed, 23 Oct 2024 23:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
