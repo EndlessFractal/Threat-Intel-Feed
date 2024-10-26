@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Oct 2024 02:47:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 04:23:11 +0000</lastBuildDate>
+    <item>
+      <title>CERT-UA Identifies Malicious RDP Files in Latest Attack on Ukrainian Entities</title>
+      <link>https://thehackernews.com/2024/10/cert-ua-identifies-malicious-rdp-files.html</link>
+      <pubDate>Sat, 26 Oct 2024 04:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI, CISA investigating China-linked telecom hacks following reports of intrusions on Trump, Harris phones</title>
+      <link>https://therecord.media/fbi-cisa-investigating-china-linked-telecom-hack-trump-harris</link>
+      <pubDate>Sat, 26 Oct 2024 03:02:24 +0000</pubDate>
+    </item>
     <item>
       <title>Friday Squid Blogging: Giant Squid Found on Spanish Beach</title>
       <link>https://www.schneier.com/blog/archives/2024/10/friday-squid-blogging-giant-squid-found-on-spanish-beach.html</link>
@@ -36,6 +46,21 @@
       <title>The Windows Registry Adventure #4: Hives and the registry layout</title>
       <link>https://googleprojectzero.blogspot.com/2024/10/the-windows-registry-adventure-4-hives.html</link>
       <pubDate>Fri, 25 Oct 2024 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four REvil members sentenced to more than four years in prison</title>
+      <link>https://therecord.media/four-revil-ransomware-gang-members-sentenced-prison-russia</link>
+      <pubDate>Fri, 25 Oct 2024 16:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kremlin-linked hackers target Ukraine’s state, military agencies in new espionage campaign</title>
+      <link>https://therecord.media/kremlin-linked-apt29-hackers-target-ukrainian-state-agencies-espionage</link>
+      <pubDate>Fri, 25 Oct 2024 16:17:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>RansomHub gang allegedly behind attack on Mexican airport operator</title>
+      <link>https://therecord.media/ransomhub-gang-behind-attack-mexican-airport-operator</link>
+      <pubDate>Fri, 25 Oct 2024 16:10:05 +0000</pubDate>
     </item>
     <item>
       <title>100 million US citizens officially impacted by Change Healthcare data breach</title>
@@ -76,6 +101,11 @@
       <title>Researchers Discover Command Injection Flaw in Wi-Fi Alliance's Test Suite</title>
       <link>https://thehackernews.com/2024/10/researchers-discover-command-injection.html</link>
       <pubDate>Fri, 25 Oct 2024 13:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Healthcare says 100 million people impacted by February ransomware attack</title>
+      <link>https://therecord.media/change-healthcare-100-million-impacted-ransomware-attack</link>
+      <pubDate>Fri, 25 Oct 2024 13:38:32 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 43</title>
@@ -123,7 +153,7 @@
       <pubDate>Fri, 25 Oct 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SEC Charges 4 Companies Over Misleading SolarWinds Cyberattack Disclosures</title>
+      <title>SEC Charges 4 Companies Over Misleading SolarWinds Cyber Attack Disclosures</title>
       <link>https://thehackernews.com/2024/10/sec-charges-4-companies-over-misleading.html</link>
       <pubDate>Fri, 25 Oct 2024 09:36:00 +0000</pubDate>
     </item>
@@ -276,36 +306,6 @@
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Four Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-releases-four-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software</link>
-      <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FortiJump flaw CVE-2024-47575 has been exploited in zero-day attacks since June 2024</title>
-      <link>https://securityaffairs.com/170189/hacking/fortijump-flaw-exploited-since-june-2024.html</link>
-      <pubDate>Thu, 24 Oct 2024 11:08:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Phishing-Resistant MFA Is No Longer Optional: The Hidden Risks of Legacy MFA</title>
-      <link>https://thehackernews.com/2024/10/why-phishing-resistant-mfa-is-no-longer.html</link>
-      <pubDate>Thu, 24 Oct 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Confirms Exploitation of Critical FortiManager Zero-Day Vulnerability</title>
-      <link>https://www.infosecurity-magazine.com/news/fortinet-exploitation-fortimanager/</link>
-      <pubDate>Thu, 24 Oct 2024 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>16-31 July 2024 Cyber Attacks Timeline</title>
-      <link>https://www.hackmageddon.com/2024/10/24/16-31-july-2024-cyber-attacks-timeline/</link>
-      <pubDate>Thu, 24 Oct 2024 10:14:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
