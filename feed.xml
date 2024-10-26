@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Oct 2024 04:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 06:25:30 +0000</lastBuildDate>
     <item>
       <title>CERT-UA Identifies Malicious RDP Files in Latest Attack on Ukrainian Entities</title>
       <link>https://thehackernews.com/2024/10/cert-ua-identifies-malicious-rdp-files.html</link>
@@ -183,6 +183,11 @@
       <pubDate>Fri, 25 Oct 2024 05:49:00 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Statement on Bloomberg’s October 25, 2024 Story</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-statement-bloomberg/</link>
+      <pubDate>Fri, 25 Oct 2024 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Friday, October 25th, 2024 https://isc.sans.edu/podcastdetail/9196, (Fri, Oct 25th)</title>
       <link>https://isc.sans.edu/diary/rss/31382</link>
       <pubDate>Fri, 25 Oct 2024 02:00:02 +0000</pubDate>
@@ -300,11 +305,6 @@
     <item>
       <title>CISA, US, and International Partners Release Joint Guidance to Assist Software Manufacturers with Safe Software Deployment Processes</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-us-and-international-partners-release-joint-guidance-assist-software-manufacturers-safe</link>
-      <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
