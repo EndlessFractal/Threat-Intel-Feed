@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Oct 2024 20:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 22:18:10 +0000</lastBuildDate>
+    <item>
+      <title>Two currently (old) exploited Ivanti vulnerabilities, (Sun, Oct 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/31384</link>
+      <pubDate>Sun, 27 Oct 2024 19:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 28, 2024</title>
+      <link>https://asec.ahnlab.com/en/84106/</link>
+      <pubDate>Sun, 27 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 17</title>
       <link>https://securityaffairs.com/170306/malware/security-affairs-malware-newsletter-round-17.html</link>
@@ -296,16 +306,6 @@
       <title>Nginx UI Security Update Advisory (CVE-2024-49368)</title>
       <link>https://asec.ahnlab.com/en/84090/</link>
       <pubDate>Thu, 24 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 25, 2024</title>
-      <link>https://asec.ahnlab.com/en/84078/</link>
-      <pubDate>Thu, 24 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>White House Issues AI National Security Memo</title>
-      <link>https://www.infosecurity-magazine.com/news/white-house-ai-national-security/</link>
-      <pubDate>Thu, 24 Oct 2024 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
