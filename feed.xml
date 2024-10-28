@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Oct 2024 22:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 01:38:19 +0000</lastBuildDate>
     <item>
       <title>Two currently (old) exploited Ivanti vulnerabilities, (Sun, Oct 27th)</title>
       <link>https://isc.sans.edu/diary/rss/31384</link>
       <pubDate>Sun, 27 Oct 2024 19:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Comments – wpDiscuz Plugin Security Update Advisory (CVE-2024-9488)</title>
+      <link>https://asec.ahnlab.com/en/84111/</link>
+      <pubDate>Sun, 27 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Okta Verify Security Update Advisory (CVE-2024-10327)</title>
+      <link>https://asec.ahnlab.com/en/84110/</link>
+      <pubDate>Sun, 27 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>October 28, 2024</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Penn State Settles for $1.25M Over Cybersecurity Violations</title>
       <link>https://www.infosecurity-magazine.com/news/penn-state-settles-dollar125m/</link>
-      <pubDate>Thu, 24 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Malware &amp; Security Issue 4st Week of October, 2024</title>
-      <link>https://asec.ahnlab.com/en/84098/</link>
-      <pubDate>Thu, 24 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nginx UI Security Update Advisory (CVE-2024-49368)</title>
-      <link>https://asec.ahnlab.com/en/84090/</link>
       <pubDate>Thu, 24 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
