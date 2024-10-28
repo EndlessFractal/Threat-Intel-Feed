@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 14:19:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 16:25:19 +0000</lastBuildDate>
+    <item>
+      <title>Criminals Are Blowing up ATMs in Germany</title>
+      <link>https://www.schneier.com/blog/archives/2024/10/criminals-are-blowing-up-atms-in-germany.html</link>
+      <pubDate>Mon, 28 Oct 2024 16:12:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Malware Campaign Targets Ukrainian Recruits Via Telegram</title>
+      <link>https://www.infosecurity-magazine.com/news/russian-malware-ukrainian-recruits/</link>
+      <pubDate>Mon, 28 Oct 2024 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol warns about counterfeit goods and the criminals behind them</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/10/europol-warns-about-counterfeit-goods-and-the-criminals-behind-them</link>
+      <pubDate>Mon, 28 Oct 2024 15:22:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected Russian spies target devices of potential Ukrainian military recruits</title>
+      <link>https://therecord.media/russia-linked-hackers-target-ukrainian-military-recruits</link>
+      <pubDate>Mon, 28 Oct 2024 15:01:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>A crime ring compromised Italian state databases reselling stolen info</title>
+      <link>https://securityaffairs.com/170328/data-breach/a-crime-ring-compromised-italian-state-databases.html</link>
+      <pubDate>Mon, 28 Oct 2024 14:34:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Espionage Group Targets Ukrainian Military with Malware via Telegram</title>
+      <link>https://thehackernews.com/2024/10/russian-espionage-group-targets.html</link>
+      <pubDate>Mon, 28 Oct 2024 14:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BeaverTail Malware Resurfaces in Malicious npm Packages Targeting Developers</title>
+      <link>https://thehackernews.com/2024/10/beavertail-malware-resurfaces-in.html</link>
+      <pubDate>Mon, 28 Oct 2024 13:51:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dozens under investigation in Italy amid scandal over hacked government databases and illegal dossiers</title>
       <link>https://therecord.media/italy-arrests-illegal-dossiers-private-intelligence</link>
@@ -21,6 +56,11 @@
       <title>Free, France’s second-largest telecoms company, confirms being hit by cyberattack</title>
       <link>https://therecord.media/france-telecom-free-cyberattack</link>
       <pubDate>Mon, 28 Oct 2024 12:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024</link>
+      <pubDate>Mon, 28 Oct 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>'All servers' for Redline and Meta infostealers hacked by Dutch police and FBI</title>
@@ -86,6 +126,11 @@
       <title>ISC Stormcast For Monday, October 28th, 2024 https://isc.sans.edu/podcastdetail/9198, (Mon, Oct 28th)</title>
       <link>https://isc.sans.edu/diary/rss/31386</link>
       <pubDate>Mon, 28 Oct 2024 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Awareness Month: Gamifying Cybersecurity Training</title>
+      <link>https://www.recordedfuture.com/blog/cybersecurity-awareness-month-gamifying-cybersecurity-training</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Two currently (old) exploited Ivanti vulnerabilities, (Sun, Oct 27th)</title>
@@ -203,11 +248,6 @@
       <pubDate>Fri, 25 Oct 2024 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Four REvil members sentenced to more than four years in prison</title>
-      <link>https://therecord.media/four-revil-ransomware-gang-members-sentenced-prison-russia</link>
-      <pubDate>Fri, 25 Oct 2024 16:57:58 +0000</pubDate>
-    </item>
-    <item>
       <title>100 million US citizens officially impacted by Change Healthcare data breach</title>
       <link>https://www.malwarebytes.com/blog/news/2024/10/100-million-us-citizens-officially-impacted-by-change-healthcare-data-breach</link>
       <pubDate>Fri, 25 Oct 2024 15:56:58 +0000</pubDate>
@@ -266,46 +306,6 @@
       <title>Apple Opens PCC Source Code for Researchers to Identify Bugs in Cloud AI Security</title>
       <link>https://thehackernews.com/2024/10/apple-opens-pcc-source-code-for.html</link>
       <pubDate>Fri, 25 Oct 2024 12:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0218 Attack Detection: Adversaries Steal Files Using HOMESTEEL Malware</title>
-      <link>https://socprime.com/blog/uac-0218-attack-detection/</link>
-      <pubDate>Fri, 25 Oct 2024 12:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Warns of Mass Phishing Campaign Targeting Citizens Data</title>
-      <link>https://www.infosecurity-magazine.com/news/ukraine-phishing-campaign-citizens/</link>
-      <pubDate>Fri, 25 Oct 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eliminating AI Deepfake Threats: Is Your Identity Security AI-Proof?</title>
-      <link>https://thehackernews.com/2024/10/eliminating-ai-deepfake-threats-is-your.html</link>
-      <pubDate>Fri, 25 Oct 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OnePoint Patient Care data breach impacted 795916 individuals</title>
-      <link>https://securityaffairs.com/170247/data-breach/onepoint-patient-care-data-breach.html</link>
-      <pubDate>Fri, 25 Oct 2024 10:39:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Irish Data Protection Watchdog Fines LinkedIn $336m</title>
-      <link>https://www.infosecurity-magazine.com/news/irish-data-watchdog-fines-linkedin/</link>
-      <pubDate>Fri, 25 Oct 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEC Charges 4 Companies Over Misleading SolarWinds Cyber Attack Disclosures</title>
-      <link>https://thehackernews.com/2024/10/sec-charges-4-companies-over-misleading.html</link>
-      <pubDate>Fri, 25 Oct 2024 09:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Risk Assessment to Action: Improving Your DLP Response</title>
-      <link>https://securityaffairs.com/170239/security/dlp-risk-assessment.html</link>
-      <pubDate>Fri, 25 Oct 2024 09:25:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inequity Challenges Women in Digital Trust, But Progress is Being Made</title>
-      <link>https://www.infosecurity-magazine.com/news/inequity-challenges-women-digital/</link>
-      <pubDate>Fri, 25 Oct 2024 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
