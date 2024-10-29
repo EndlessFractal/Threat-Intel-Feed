@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 22:18:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 01:36:32 +0000</lastBuildDate>
+    <item>
+      <title>NVIDIA Product Line Security Update Advisory</title>
+      <link>https://asec.ahnlab.com/en/84120/</link>
+      <pubDate>Tue, 29 Oct 2024 01:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing Our Elections Through Vulnerability Testing and Disclosure</title>
+      <link>https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing</link>
+      <pubDate>Mon, 28 Oct 2024 22:55:07 +0000</pubDate>
+    </item>
     <item>
       <title>France’s second-largest telecoms provider Free suffered a cyber attack</title>
       <link>https://securityaffairs.com/170333/data-breach/free-suffered-a-cyber-attack.html</link>
@@ -71,6 +81,21 @@
       <title>Suspected Russian spies target devices of potential Ukrainian military recruits</title>
       <link>https://therecord.media/russia-linked-hackers-target-ukrainian-military-recruits</link>
       <pubDate>Mon, 28 Oct 2024 15:01:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsUp Gold Security Update Advisory (CVE-2024-7763)</title>
+      <link>https://asec.ahnlab.com/en/84121/</link>
+      <pubDate>Mon, 28 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spring Product Security Update Advisory (CVE-2024-38821)</title>
+      <link>https://asec.ahnlab.com/en/84119/</link>
+      <pubDate>Mon, 28 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OneDev Security Update Advisory (CVE-2024-45309)</title>
+      <link>https://asec.ahnlab.com/en/84118/</link>
+      <pubDate>Mon, 28 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>October 29, 2024</title>
@@ -281,31 +306,6 @@
       <title>100 million US citizens officially impacted by Change Healthcare data breach</title>
       <link>https://www.malwarebytes.com/blog/news/2024/10/100-million-us-citizens-officially-impacted-by-change-healthcare-data-breach</link>
       <pubDate>Fri, 25 Oct 2024 15:56:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 26, 2024</title>
-      <link>https://asec.ahnlab.com/en/84102/</link>
-      <pubDate>Fri, 25 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enter the World of Ethical Hacking with Confidence</title>
-      <link>https://www.techrepublic.com/article/the-all-in-one-ethical-hacking-course-bundle/</link>
-      <pubDate>Fri, 25 Oct 2024 14:31:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>How LLMs could help defenders write better and faster detection</title>
-      <link>https://blog.talosintelligence.com/how-llms-could-help-defenders-write-better-and-faster-detection/</link>
-      <pubDate>Fri, 25 Oct 2024 14:09:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Safely Expanding the Frontiers of AI &amp; LLMs | S Ventures’ Investment in Galileo</title>
-      <link>https://www.sentinelone.com/blog/safely-expanding-the-frontiers-of-ai-llms-s-ventures-investment-in-galileo/</link>
-      <pubDate>Fri, 25 Oct 2024 14:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Change Healthcare Breach Affects 100 Million Americans</title>
-      <link>https://www.infosecurity-magazine.com/news/change-healthcare-breach-americans/</link>
-      <pubDate>Fri, 25 Oct 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
