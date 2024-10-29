@@ -2,22 +2,10 @@
 
 This automated feed retrieves a list of feeds from various sources, consolidates them and saves to a file called `feed.xml`.
 
-## Description
+## Files
 
-The script performs the following steps:
-
-1. The script starts by importing necessary libraries and modules.
-2. It contains functions for handling date and time conversions, as well as parsing dates with time zones.
-3. The main part of the script combines multiple RSS feeds from given URLs:
-   - It fetches articles from these feeds concurrently.
-   - Combines all the fetched articles into one list.
-   - Sorts the list based on the publication dates of the articles, in ascending order.
-4. After combining and sorting the articles, the script creates a new RSS feed with specific metadata:
-   - It sets the title and description for the new feed.
-   - Provides a link to the feed.
-   - Adds the most recent 20 articles to the feed.
-   - Generates an XML representation of the feed.
-5. Finally, the script reads a list of RSS feed URLs from 'list.txt', combines the feeds, creates a new feed with the most recent articles, and saves it to 'feed.xml'.
+- `FeedMerger.py` - Combines multiple RSS feeds into a single feed and saves it as an XML file.
+- `RSSparser.py` - Parses an RSS feed, formats new entries as payloads, and sends them to specified webhook URLs with a delay between each post.
 
 ## Usage
 
@@ -78,3 +66,4 @@ The script retrieves feeds from the following sources:
 - [US-CERT Alerts](https://us-cert.cisa.gov/ncas/alerts.xml)
 - [US-CERT Analysis Reports](https://us-cert.cisa.gov/ncas/analysis-reports.xml)
 - [US-CERT Current Activity](https://us-cert.cisa.gov/ncas/current-activity.xml)
+- [US-DOJ Cybercrime News](https://www.justice.gov/news/rss?f[0]=facet_topics:3911)
