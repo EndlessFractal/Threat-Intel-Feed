@@ -38,6 +38,7 @@ The script retrieves feeds from the following sources:
 - [IBM Security Intelligence Blog](https://securityintelligence.com/feed/)
 - [Infosecurity Magazine News](https://www.infosecurity-magazine.com/rss/news/)
 - [Intezer Research Blog](https://intezer.com/blog/research/feed/)
+- [Infostealers by Hudson Rock Blog](https://www.infostealers.com/learn-info-stealers/feed/)
 - [Kaspersky Securelist Blog](https://securelist.com/feed/)
 - [KrebsOnSecurity Blog](https://krebsonsecurity.com/feed/)
 - [Malwarebytes Blog](https://blog.malwarebytes.com/feed/)
