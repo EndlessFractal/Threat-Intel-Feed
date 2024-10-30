@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 22:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 01:35:21 +0000</lastBuildDate>
+    <item>
+      <title>Russia’s ‘Midnight Blizzard’ hackers target government workers in novel info-stealing campaign</title>
+      <link>https://therecord.media/russia-midnight-blizzard-hackers-target-government-sector</link>
+      <pubDate>Wed, 30 Oct 2024 01:25:13 +0000</pubDate>
+    </item>
     <item>
       <title>International law enforcement operation dismantled RedLine and Meta infostealers</title>
       <link>https://securityaffairs.com/170369/cyber-crime/law-enforcement-operation-disrupted-redline-and-meta-infostealers.html</link>
@@ -36,6 +41,11 @@
       <title>The AI Fix #22: Probing AI tongues and ASCII smuggling attacks</title>
       <link>https://grahamcluley.com/the-ai-fix-22/</link>
       <pubDate>Tue, 29 Oct 2024 15:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 5, October 2024</title>
+      <link>https://asec.ahnlab.com/en/84143/</link>
+      <pubDate>Tue, 29 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>US names and charges Maxim Rudometov with developing the Redline infostealer</title>
@@ -91,11 +101,6 @@
       <title>Why safeguarding sensitive data is so crucial</title>
       <link>https://securityintelligence.com/articles/why-safeguarding-sensitive-data-is-crucial/</link>
       <pubDate>Tue, 29 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia says it might build its own Linux community after removal of several kernel maintainers</title>
-      <link>https://therecord.media/russia-separate-linux-community-kernel-maintainers-delisted</link>
-      <pubDate>Tue, 29 Oct 2024 12:51:39 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Joins International Action Against RedLine and META Infostealers</title>
@@ -301,11 +306,6 @@
       <title>Sailing the Seven Seas Securely from Port to Port – OT Access Security for Ships and Cranes</title>
       <link>https://thehackernews.com/2024/10/sailing-seven-seas-securely-from-port.html</link>
       <pubDate>Mon, 28 Oct 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Firefox Password Manager Secure?</title>
-      <link>https://www.techrepublic.com/article/is-firefox-password-manager-secure/</link>
-      <pubDate>Mon, 28 Oct 2024 10:16:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
