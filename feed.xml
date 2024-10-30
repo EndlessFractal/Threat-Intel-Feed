@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 16:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 18:27:00 +0000</lastBuildDate>
+    <item>
+      <title>Operation Magnus: Joint Law Enforcement Operation Targets Major Infostealer Networks</title>
+      <link>https://www.techrepublic.com/article/operation-magnus-joint-law-enforcement-2024/</link>
+      <pubDate>Wed, 30 Oct 2024 18:13:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>LiteSpeed Cache Plugin Vulnerability Poses Admin Access Risk</title>
+      <link>https://www.infosecurity-magazine.com/news/litespeed-cache-plugin-flaw-admin/</link>
+      <pubDate>Wed, 30 Oct 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The FCC’s top privacy cop on how the agency views its data protection mission</title>
+      <link>https://therecord.media/fcc-privacy-cop-robocalls-telecom-supply-chain-enforcement-interview</link>
+      <pubDate>Wed, 30 Oct 2024 16:40:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated FakeCall Malware Targets Mobile Devices with Vishing</title>
+      <link>https://www.infosecurity-magazine.com/news/updated-fakecall-malware-targets/</link>
+      <pubDate>Wed, 30 Oct 2024 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean Group Collaborates with Play Ransomware in Significant Cyber Attack</title>
       <link>https://thehackernews.com/2024/10/north-korean-group-collaborates-with.html</link>
@@ -73,6 +93,11 @@
       <pubDate>Wed, 30 Oct 2024 12:05:34 +0000</pubDate>
     </item>
     <item>
+      <title>Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability</link>
+      <pubDate>Wed, 30 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Inside Intelligence Center: LUNAR SPIDER Enabling Ransomware Attacks on Financial Sector with Brute Ratel C4 and Latrodectus</title>
       <link>https://blog.eclecticiq.com/inside-intelligence-center-lunar-spider-enabling-ransomware-attacks-on-financial-sector-with-brute-ratel-c4-and-latrodectus</link>
       <pubDate>Wed, 30 Oct 2024 11:57:30 +0000</pubDate>
@@ -133,6 +158,11 @@
       <pubDate>Tue, 29 Oct 2024 21:24:59 +0000</pubDate>
     </item>
     <item>
+      <title>Midnight Blizzard conducts large-scale spear-phishing campaign using RDP files</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/</link>
+      <pubDate>Tue, 29 Oct 2024 19:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Six senators tell Biden administration UN cybercrime treaty must be changed</title>
       <link>https://therecord.media/un-cybercrime-treaty-democratic-senators-seek-changes</link>
       <pubDate>Tue, 29 Oct 2024 17:27:25 +0000</pubDate>
@@ -146,11 +176,6 @@
       <title>Chenlun’s Evolving Phishing Tactics Target Trusted Brands</title>
       <link>https://www.infosecurity-magazine.com/news/chenluns-phishing-tactics-target/</link>
       <pubDate>Tue, 29 Oct 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia and China-linked state hackers intensify attacks on Netherlands, security officials warn</title>
-      <link>https://therecord.media/china-russia-cyberattacks-targeting-netherlands</link>
-      <pubDate>Tue, 29 Oct 2024 16:08:22 +0000</pubDate>
     </item>
     <item>
       <title>Everything You Need to Know about the Malvertising Cybersecurity Threat</title>
@@ -203,7 +228,7 @@
       <pubDate>Tue, 29 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Data protection made simple</title>
+      <title>Data Protection Made Simple</title>
       <link>https://symantec-enterprise-blogs.security.com/product-insights/dlp1</link>
       <pubDate>Tue, 29 Oct 2024 13:00:00 +0000</pubDate>
     </item>
@@ -281,31 +306,6 @@
       <title>Dutch Police Disrupt Major Info Stealers RedLine and MetaStealer in Operation Magnus</title>
       <link>https://thehackernews.com/2024/10/dutch-police-disrupt-major-info.html</link>
       <pubDate>Tue, 29 Oct 2024 10:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma/Amadey: fake CAPTCHAs want to know if you’re human</title>
-      <link>https://securelist.com/fake-captcha-delivers-lumma-amadey/114312/</link>
-      <pubDate>Tue, 29 Oct 2024 10:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five Eyes Agencies Launch Startup Security Initiative</title>
-      <link>https://www.infosecurity-magazine.com/news/five-eyes-agencies-startup/</link>
-      <pubDate>Tue, 29 Oct 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICO: 55% of UK Adults Have Had Data Lost or Stolen</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-55-uk-adults-have-data-lost/</link>
-      <pubDate>Tue, 29 Oct 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked espionage group UNC5812 targets Ukraine’s military with malware</title>
-      <link>https://securityaffairs.com/170346/cyber-warfare-2/unc5812-targets-ukraines-military-malware.html</link>
-      <pubDate>Tue, 29 Oct 2024 07:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Government Issues New TLP Guidance for Cross-Sector Threat Intelligence Sharing</title>
-      <link>https://thehackernews.com/2024/10/us-government-issues-new-tlp-guidance.html</link>
-      <pubDate>Tue, 29 Oct 2024 07:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
