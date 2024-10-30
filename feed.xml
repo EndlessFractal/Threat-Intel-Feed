@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 08:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 10:21:18 +0000</lastBuildDate>
+    <item>
+      <title>Writing a BugSleep C2 server and detecting its traffic with Snort</title>
+      <link>https://blog.talosintelligence.com/writing-a-bugsleep-c2-server/</link>
+      <pubDate>Wed, 30 Oct 2024 10:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jumpy Pisces Engages in Play Ransomware</title>
+      <link>https://unit42.paloaltonetworks.com/north-korean-threat-group-play-ransomware/</link>
+      <pubDate>Wed, 30 Oct 2024 10:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT29 Spearphishing Campaign Targets Thousands with RDP Files</title>
+      <link>https://www.infosecurity-magazine.com/news/apt29-spearphishing-thousands-rdp/</link>
+      <pubDate>Wed, 30 Oct 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QNAP fixed NAS backup zero-day demonstrated at Pwn2Own Ireland 2024</title>
+      <link>https://securityaffairs.com/170386/uncategorized/qnap-fixed-zero-day-cve-2024-50388-pwn2own-ireland-2024.html</link>
+      <pubDate>Wed, 30 Oct 2024 08:12:36 +0000</pubDate>
+    </item>
     <item>
       <title>Best Antivirus Software for Small Businesses in 2024</title>
       <link>https://www.techrepublic.com/article/antivirus-software-for-small-businesses/</link>
@@ -46,6 +66,11 @@
       <title>Russia and China-linked state hackers intensify attacks on Netherlands, security officials warn</title>
       <link>https://therecord.media/china-russia-cyberattacks-targeting-netherlands</link>
       <pubDate>Tue, 29 Oct 2024 16:08:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Everything You Need to Know about the Malvertising Cybersecurity Threat</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/malvertising-cybersecurity-threat/</link>
+      <pubDate>Tue, 29 Oct 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The AI Fix #22: Probing AI tongues and ASCII smuggling attacks</title>
@@ -281,31 +306,6 @@
       <title>A crime ring compromised Italian state databases reselling stolen info</title>
       <link>https://securityaffairs.com/170328/data-breach/a-crime-ring-compromised-italian-state-databases.html</link>
       <pubDate>Mon, 28 Oct 2024 14:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Espionage Group Targets Ukrainian Military with Malware via Telegram</title>
-      <link>https://thehackernews.com/2024/10/russian-espionage-group-targets.html</link>
-      <pubDate>Mon, 28 Oct 2024 14:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BeaverTail Malware Resurfaces in Malicious npm Packages Targeting Developers</title>
-      <link>https://thehackernews.com/2024/10/beavertail-malware-resurfaces-in.html</link>
-      <pubDate>Mon, 28 Oct 2024 13:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best AI Security Tools: Top Solutions, Features &amp; Comparisons</title>
-      <link>https://www.techrepublic.com/article/best-ai-security-tools/</link>
-      <pubDate>Mon, 28 Oct 2024 13:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2024-47575 Detection: FortiManager API Vulnerability Exploited in Zero-Day Attacks</title>
-      <link>https://socprime.com/blog/cve-2024-47575-detection/</link>
-      <pubDate>Mon, 28 Oct 2024 12:28:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024</link>
-      <pubDate>Mon, 28 Oct 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
