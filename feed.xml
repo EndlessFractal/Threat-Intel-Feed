@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 01:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 02:53:35 +0000</lastBuildDate>
     <item>
       <title>New version of Android malware FakeCall redirects bank calls to scammers</title>
       <link>https://securityaffairs.com/170410/malware/fakecall-malware-intercepts-outgoing-bank-calls.html</link>
@@ -78,8 +78,8 @@
       <pubDate>Wed, 30 Oct 2024 14:55:54 +0000</pubDate>
     </item>
     <item>
-      <title>Simpson Garfinkel on Spooky Cryptographic Action at a Distance</title>
-      <link>https://www.schneier.com/blog/archives/2024/10/simpson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html</link>
+      <title>Simson Garfinkel on Spooky Cryptographic Action at a Distance</title>
+      <link>https://www.schneier.com/blog/archives/2024/10/simson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html</link>
       <pubDate>Wed, 30 Oct 2024 14:48:19 +0000</pubDate>
     </item>
     <item>
@@ -193,11 +193,6 @@
       <pubDate>Tue, 29 Oct 2024 21:24:59 +0000</pubDate>
     </item>
     <item>
-      <title>Midnight Blizzard conducts large-scale spear-phishing campaign using RDP files</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/</link>
-      <pubDate>Tue, 29 Oct 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New LightSpy Spyware Targets iOS with Enhanced Capabilities</title>
       <link>https://www.infosecurity-magazine.com/news/lightspy-spyware-targets-ios/</link>
       <pubDate>Tue, 29 Oct 2024 17:15:00 +0000</pubDate>
@@ -305,6 +300,11 @@
     <item>
       <title>Apple Releases Security Updates for Multiple Products</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products</link>
+      <pubDate>Tue, 29 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage</link>
       <pubDate>Tue, 29 Oct 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
