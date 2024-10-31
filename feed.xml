@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 06:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 08:22:41 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Thursday, October 31st, 2024 https://isc.sans.edu/podcastdetail/9204, (Thu, Oct 31st)</title>
       <link>https://isc.sans.edu/diary/rss/31402</link>
@@ -76,6 +76,11 @@
       <title>Apple Rolls Out Major Security Update to Patch macOS and iOS Vulnerabilities</title>
       <link>https://www.infosecurity-magazine.com/news/apple-security-update-macos-ios/</link>
       <pubDate>Wed, 30 Oct 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 5, October 2024</title>
+      <link>https://asec.ahnlab.com/en/84168/</link>
+      <pubDate>Wed, 30 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Patch now! New Chrome update for two critical vulnerabilities</title>
@@ -300,11 +305,6 @@
     <item>
       <title>CISA Releases Three Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 29 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products</link>
       <pubDate>Tue, 29 Oct 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
