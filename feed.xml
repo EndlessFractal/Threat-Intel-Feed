@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 22:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 01:36:24 +0000</lastBuildDate>
     <item>
-      <title>Test page title</title>
-      <link>https://www.malwarebytes.com/blog/uncategorized/2024/10/test-page-title</link>
-      <pubDate>Wed, 30 Oct 2024 22:09:35 +0000</pubDate>
+      <title>New version of Android malware FakeCall redirects bank calls to scammers</title>
+      <link>https://securityaffairs.com/170410/malware/fakecall-malware-intercepts-outgoing-bank-calls.html</link>
+      <pubDate>Thu, 31 Oct 2024 00:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2024 Activity with Username chenzilong, (Thu, Oct 31st)</title>
+      <link>https://isc.sans.edu/diary/rss/31400</link>
+      <pubDate>Thu, 31 Oct 2024 00:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scans for RDP Gateways, (Wed, Oct 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/31398</link>
+      <pubDate>Wed, 30 Oct 2024 23:08:30 +0000</pubDate>
     </item>
     <item>
       <title>Russia-linked Midnight Blizzard APT targeted 100+ organizations with a spear-phishing campaign using RDP files</title>
@@ -168,6 +178,11 @@
       <pubDate>Wed, 30 Oct 2024 07:16:17 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Falcon Platform Supports Google Cloud's ARM-Based Axion CPUs</title>
+      <link>https://www.crowdstrike.com/en-us/blog/falcon-platform-supports-google-cloud-arm-based-axion-cpus/</link>
+      <pubDate>Wed, 30 Oct 2024 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Wednesday, October 30th, 2024 https://isc.sans.edu/podcastdetail/9202, (Wed, Oct 30th)</title>
       <link>https://isc.sans.edu/diary/rss/31396</link>
       <pubDate>Wed, 30 Oct 2024 02:00:02 +0000</pubDate>
@@ -176,6 +191,11 @@
       <title>International law enforcement operation dismantled RedLine and Meta infostealers</title>
       <link>https://securityaffairs.com/170369/cyber-crime/law-enforcement-operation-disrupted-redline-and-meta-infostealers.html</link>
       <pubDate>Tue, 29 Oct 2024 21:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Midnight Blizzard conducts large-scale spear-phishing campaign using RDP files</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/</link>
+      <pubDate>Tue, 29 Oct 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New LightSpy Spyware Targets iOS with Enhanced Capabilities</title>
@@ -286,26 +306,6 @@
       <title>Apple Releases Security Updates for Multiple Products</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products</link>
       <pubDate>Tue, 29 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage</link>
-      <pubDate>Tue, 29 Oct 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fog and Akira ransomware attacks exploit SonicWall VPN flaw CVE-2024-40766</title>
-      <link>https://securityaffairs.com/170359/cyber-crime/fog-akira-ransomware-sonicwall-vpn-flaw.html</link>
-      <pubDate>Tue, 29 Oct 2024 11:51:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2024 Cyber Attacks Statistics</title>
-      <link>https://www.hackmageddon.com/2024/10/29/july-2024-cyber-attacks-statistics/</link>
-      <pubDate>Tue, 29 Oct 2024 11:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Law Enforcement Deanonymizes Tor Users</title>
-      <link>https://www.schneier.com/blog/archives/2024/10/law-enforcement-deanonymizes-tor-users.html</link>
-      <pubDate>Tue, 29 Oct 2024 11:02:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
