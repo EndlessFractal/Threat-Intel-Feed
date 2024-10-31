@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 12:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 14:18:26 +0000</lastBuildDate>
+    <item>
+      <title>Canadian Government Data Stolen By Chinese Hackers</title>
+      <link>https://www.infosecurity-magazine.com/news/canadian-government-data-chinese/</link>
+      <pubDate>Thu, 31 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat actors use copyright infringement phishing lure to deploy infostealers</title>
+      <link>https://blog.talosintelligence.com/threat-actors-use-copyright-infringement-phishing-lure-to-deploy-infostealers/</link>
+      <pubDate>Thu, 31 Oct 2024 13:37:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Climbing The Ladder | Kubernetes Privilege Escalation (Part 2)</title>
+      <link>https://www.sentinelone.com/blog/climbing-the-ladder-kubernetes-privilege-escalation-part-2/</link>
+      <pubDate>Thu, 31 Oct 2024 13:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Collaborate with Play Ransomware</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korean-hackers-collaborate/</link>
+      <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quishing: A growing threat hiding in plain sight</title>
+      <link>https://securityintelligence.com/articles/quishing-growing-threat-hiding-plain-sight/</link>
+      <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pacific Rim: Inside the Counter-Offensive—The TTPs Used to Neutralize China-Based Threats</title>
+      <link>https://news.sophos.com/en-us/2024/10/31/pacific-rim-neutralizing-china-based-threat/</link>
+      <pubDate>Thu, 31 Oct 2024 12:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>From the frontlines: Our CISO’s view of Pacific Rim</title>
+      <link>https://news.sophos.com/en-us/2024/10/31/from-the-frontlines-our-cisos-view-of-pacific-rim/</link>
+      <pubDate>Thu, 31 Oct 2024 12:41:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pacific Rim: What’s it to you?</title>
+      <link>https://news.sophos.com/en-us/2024/10/31/pacific-rim-whats-it-to-you/</link>
+      <pubDate>Thu, 31 Oct 2024 12:38:52 +0000</pubDate>
+    </item>
     <item>
       <title>Pacific Rim: Learning to eat soup with a knife</title>
       <link>https://news.sophos.com/en-us/2024/10/31/pacific-rim-learning-to-eat-soup-with-a-knife/</link>
@@ -26,6 +66,11 @@
       <title>Large Peruvian bank warns of data theft after dark web post emerges</title>
       <link>https://therecord.media/interbank-peru-data-breach</link>
       <pubDate>Thu, 31 Oct 2024 12:18:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is a Passkey? Definition, How It Works and More</title>
+      <link>https://www.techrepublic.com/article/what-is-passkey/</link>
+      <pubDate>Thu, 31 Oct 2024 12:00:39 +0000</pubDate>
     </item>
     <item>
       <title>Government Sector Suffers 236% Surge in Malware Attacks</title>
@@ -261,51 +306,6 @@
       <title>International law enforcement operation dismantled RedLine and Meta infostealers</title>
       <link>https://securityaffairs.com/170369/cyber-crime/law-enforcement-operation-disrupted-redline-and-meta-infostealers.html</link>
       <pubDate>Tue, 29 Oct 2024 21:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>New LightSpy Spyware Targets iOS with Enhanced Capabilities</title>
-      <link>https://www.infosecurity-magazine.com/news/lightspy-spyware-targets-ios/</link>
-      <pubDate>Tue, 29 Oct 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chenlun’s Evolving Phishing Tactics Target Trusted Brands</title>
-      <link>https://www.infosecurity-magazine.com/news/chenluns-phishing-tactics-target/</link>
-      <pubDate>Tue, 29 Oct 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Everything You Need to Know about the Malvertising Cybersecurity Threat</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/malvertising-cybersecurity-threat/</link>
-      <pubDate>Tue, 29 Oct 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #22: Probing AI tongues and ASCII smuggling attacks</title>
-      <link>https://grahamcluley.com/the-ai-fix-22/</link>
-      <pubDate>Tue, 29 Oct 2024 15:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 5, October 2024</title>
-      <link>https://asec.ahnlab.com/en/84143/</link>
-      <pubDate>Tue, 29 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Risk reduction redefined: How compromise assessment helps strengthen cyberdefenses</title>
-      <link>https://securelist.com/compromise-assessment-cases/114332/</link>
-      <pubDate>Tue, 29 Oct 2024 14:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 8 Best Network Monitoring Tools for 2024</title>
-      <link>https://www.techrepublic.com/article/network-monitoring-software/</link>
-      <pubDate>Tue, 29 Oct 2024 14:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Law Enforcement Operation Takes Down Redline and Meta Infostealers</title>
-      <link>https://www.infosecurity-magazine.com/news/law-enforcement-redline-meta/</link>
-      <pubDate>Tue, 29 Oct 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0001 aka APT28 Attack Detection: Leveraging PowerShell Command in Clipboard as Initial Entry Point</title>
-      <link>https://socprime.com/blog/uac-0001-aka-apt28-attack-detection/</link>
-      <pubDate>Tue, 29 Oct 2024 13:25:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
