@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 02:48:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 04:23:13 +0000</lastBuildDate>
+    <item>
+      <title>Google Warns of Actively Exploited CVE-2024-43093 Vulnerability in Android System</title>
+      <link>https://thehackernews.com/2024/11/google-warns-of-actively-exploited-cve.html</link>
+      <pubDate>Tue, 05 Nov 2024 03:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, November 5th, 2024 https://isc.sans.edu/podcastdetail/9208, (Tue, Nov 5th)</title>
       <link>https://isc.sans.edu/diary/rss/31412</link>
@@ -301,11 +306,6 @@
       <title>Massive Git Config Breach Exposes 15,000 Credentials; 10,000 Private Repos Cloned</title>
       <link>https://thehackernews.com/2024/11/massive-git-config-breach-exposes-15000.html</link>
       <pubDate>Fri, 01 Nov 2024 10:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 SaaS Misconfigurations Leading to Major Fu*%@ Ups</title>
-      <link>https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html</link>
-      <pubDate>Fri, 01 Nov 2024 10:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
