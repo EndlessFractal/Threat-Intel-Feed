@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 12:36:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 14:18:11 +0000</lastBuildDate>
+    <item>
+      <title>US Voters Urged to Use Official Sources for Election Information</title>
+      <link>https://www.infosecurity-magazine.com/news/us-voters-official-sources-election/</link>
+      <pubDate>Tue, 05 Nov 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skills shortage directly tied to financial loss in data breaches</title>
+      <link>https://securityintelligence.com/articles/skills-shortage-directly-tied-to-financial-loss-in-data-breaches/</link>
+      <pubDate>Tue, 05 Nov 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feds identify two more Russian election disinfo attempts, say Iranian campaigns remain a threat</title>
+      <link>https://therecord.media/presidential-election-disinformation-article-video-russia-iran</link>
+      <pubDate>Tue, 05 Nov 2024 13:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stealthy Strela Stealer Detection: Info-Stealing Malware Resurfaces with Enhanced Capabilities to Target Central and Southwestern Europe</title>
+      <link>https://socprime.com/blog/stealthy-strela-stealer-detection/</link>
+      <pubDate>Tue, 05 Nov 2024 13:37:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lithuania: Russian military intelligence behind plot to parcel bomb cargo planes</title>
+      <link>https://therecord.media/parcel-bombs-planes-russia-lithuania-dhl</link>
+      <pubDate>Tue, 05 Nov 2024 13:26:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social media and mobile internet restricted in Mozambique amid election protests</title>
+      <link>https://therecord.media/election-mozambique-outages-social-media-internet-service</link>
+      <pubDate>Tue, 05 Nov 2024 13:04:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds PTZOptics camera bugs to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/170595/security/u-s-cisa-adds-ptzoptics-camera-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Tue, 05 Nov 2024 12:23:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android Banking Malware 'ToxicPanda' Targets Users with Fraudulent Money Transfers</title>
+      <link>https://thehackernews.com/2024/11/new-android-banking-malware-toxicpanda.html</link>
+      <pubDate>Tue, 05 Nov 2024 12:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>AIs Discovering Vulnerabilities</title>
       <link>https://www.schneier.com/blog/archives/2024/11/ais-discovering-vulnerabilities.html</link>
@@ -98,16 +138,6 @@
       <pubDate>Mon, 04 Nov 2024 21:15:25 +0000</pubDate>
     </item>
     <item>
-      <title>Cisco notifies ‘limited set’ of customers after hacker accessed non-public files</title>
-      <link>https://therecord.media/cisco-notifies-limited-set-of-customers-hacker-accessed-non-public-info</link>
-      <pubDate>Mon, 04 Nov 2024 20:56:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exclusive: Nakasone says all the news about influence campaigns ahead of Election Day is actually 'a sign of success'</title>
-      <link>https://therecord.media/nakasone-2024-election-security-influence-operations</link>
-      <pubDate>Mon, 04 Nov 2024 19:57:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Software Makers Encouraged to Stop Using C/C++ by 2026</title>
       <link>https://www.techrepublic.com/article/cisa-fbi-memory-safety-recommendations/</link>
       <pubDate>Mon, 04 Nov 2024 19:51:56 +0000</pubDate>
@@ -116,11 +146,6 @@
       <title>How AI Is Changing the Cloud Security and Risk Equation</title>
       <link>https://www.techrepublic.com/article/cloud-security-for-ai/</link>
       <pubDate>Mon, 04 Nov 2024 18:06:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio's capital says July ransomware attack leaked info of 500,000</title>
-      <link>https://therecord.media/columbus-ohio-city-government-ransomware-data-breach</link>
-      <pubDate>Mon, 04 Nov 2024 17:15:15 +0000</pubDate>
     </item>
     <item>
       <title>Columbus Ransomware Attack Exposes Data of 500,000 Residents</title>
@@ -268,11 +293,6 @@
       <pubDate>Sun, 03 Nov 2024 12:10:32 +0000</pubDate>
     </item>
     <item>
-      <title>Chinese threat actors use Quad7 botnet in password-spray attacks</title>
-      <link>https://securityaffairs.com/170503/malware/quad7-botnet-used-by-chinese-threat-actors.html</link>
-      <pubDate>Sun, 03 Nov 2024 10:09:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Government Implications from the ISC2 2024 Cyber Workforce Study</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/government-implications-from-the-isc2-2024-cyber-workforce-study</link>
       <pubDate>Sun, 03 Nov 2024 10:04:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>qpdf: Extracting PDF Streams, (Sat, Nov 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/31406</link>
       <pubDate>Sat, 02 Nov 2024 13:08:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert Webinar</title>
-      <link>https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html</link>
-      <pubDate>Sat, 02 Nov 2024 05:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TA Phone Home: EDR Evasion Testing Reveals Extortion Actor's Toolkit</title>
-      <link>https://unit42.paloaltonetworks.com/edr-bypass-extortion-attempt-thwarted/</link>
-      <pubDate>Fri, 01 Nov 2024 22:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Booking.com Phishers May Leave You With Reservations</title>
-      <link>https://krebsonsecurity.com/2024/11/booking-com-phishers-may-leave-you-with-reservations/</link>
-      <pubDate>Fri, 01 Nov 2024 21:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Squid Sculpture in Massachusetts Building</title>
-      <link>https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-squid-sculpture-in-massachusetts-building.html</link>
-      <pubDate>Fri, 01 Nov 2024 21:04:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
