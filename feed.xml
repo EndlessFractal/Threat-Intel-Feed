@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 16:24:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 18:26:09 +0000</lastBuildDate>
+    <item>
+      <title>How an Improper Access Control Vulnerability Led to Account Theft in One Click</title>
+      <link>https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive</link>
+      <pubDate>Wed, 06 Nov 2024 17:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>SelectBlinds says 200,000 customers impacted after hackers embed malware on site</title>
+      <link>https://therecord.media/selectblinds-customers-credit-card-info-data-breach-website-malware</link>
+      <pubDate>Wed, 06 Nov 2024 16:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber-Attack on Microlise Disrupts DHL and Serco Tracking Services</title>
+      <link>https://www.infosecurity-magazine.com/news/cyberattack-microlise-disrupts-dhl/</link>
+      <pubDate>Wed, 06 Nov 2024 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>IRISSCON: Organizations Still Falling Victim to Predictable Cyber-Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/orgs-victim-predictable-attacks/</link>
@@ -143,11 +158,6 @@
       <pubDate>Wed, 06 Nov 2024 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>Interpol operation nets 41 arrests, takedown of 22,000 malicious IPs</title>
-      <link>https://therecord.media/interpol-operation-arrests-takedowns</link>
-      <pubDate>Tue, 05 Nov 2024 22:17:02 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Become a Chief Information Officer: CIO Cheat Sheet</title>
       <link>https://www.techrepublic.com/article/how-to-become-a-cio-a-cheat-sheet/</link>
       <pubDate>Tue, 05 Nov 2024 21:45:00 +0000</pubDate>
@@ -171,6 +181,11 @@
       <title>Canadian Man Arrested in Snowflake Data Extortions</title>
       <link>https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/</link>
       <pubDate>Tue, 05 Nov 2024 17:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How an Information Disclosure Vulnerability Led to Critical Data Exposure</title>
+      <link>https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive</link>
+      <pubDate>Tue, 05 Nov 2024 17:00:13 +0000</pubDate>
     </item>
     <item>
       <title>The AI Fix #23: Murder most weird, and why 9.11 is bigger than 9.9</title>
@@ -258,11 +273,6 @@
       <pubDate>Tue, 05 Nov 2024 09:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chinese Air Fryers May Be Spying on Consumers, Which? Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-air-fryers-spying/</link>
-      <pubDate>Tue, 05 Nov 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Android flaw CVE-2024-43093 may be under limited, targeted exploitation</title>
       <link>https://securityaffairs.com/170581/uncategorized/cve-2024-43093-android-flaw-actively-exploited.html</link>
       <pubDate>Tue, 05 Nov 2024 08:51:28 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Is your air fryer spying on you? Concerns over ‘excessive’ surveillance in smart devices</title>
       <link>https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers</link>
       <pubDate>Tue, 05 Nov 2024 00:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Automatically Detecting DNS Hijacking in Passive DNS</title>
-      <link>https://unit42.paloaltonetworks.com/detect-dns-hijacking-passive-dns/</link>
-      <pubDate>Mon, 04 Nov 2024 23:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2024 ransomware attack on the City of Columbus impacted 500,000 people</title>
-      <link>https://securityaffairs.com/170568/data-breach/city-of-columbus-ransomware-attack-impacted-500000-people.html</link>
-      <pubDate>Mon, 04 Nov 2024 22:53:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
