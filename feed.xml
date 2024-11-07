@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 10:19:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 12:36:45 +0000</lastBuildDate>
+    <item>
+      <title>UK Regulator Urges Stronger Data Protection in AI Recruitment Tools</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-regulator-data-protection-ai/</link>
+      <pubDate>Thu, 07 Nov 2024 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subverting LLM Coders</title>
+      <link>https://www.schneier.com/blog/archives/2024/11/subverting-llm-coders.html</link>
+      <pubDate>Thu, 07 Nov 2024 12:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada Orders Shutdown of Local TikTok Branch Over Security Concerns</title>
+      <link>https://www.infosecurity-magazine.com/news/canada-orders-shutdown-tiktok/</link>
+      <pubDate>Thu, 07 Nov 2024 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silent Skimmer Gets Loud (Again)</title>
+      <link>https://unit42.paloaltonetworks.com/silent-skimmer-latest-campaign/</link>
+      <pubDate>Thu, 07 Nov 2024 11:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unwrapping the emerging Interlock ransomware attack</title>
+      <link>https://blog.talosintelligence.com/emerging-interlock-ransomware/</link>
+      <pubDate>Thu, 07 Nov 2024 11:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Publishes Tips to Tackle Malvertising Threat</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-publishes-tips-tackle/</link>
+      <pubDate>Thu, 07 Nov 2024 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>5 Most Common Malware Techniques in 2024</title>
       <link>https://thehackernews.com/2024/11/5-most-common-malware-techniques-in-2024.html</link>
@@ -21,6 +51,16 @@
       <title>SteelFox and Rhadamanthys Malware Use Copyright Scams, Driver Exploits to Target Victims</title>
       <link>https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html</link>
       <pubDate>Thu, 07 Nov 2024 09:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait</title>
+      <link>https://thehackernews.com/2024/11/china-aligned-mirrorface-hackers-target.html</link>
+      <pubDate>Thu, 07 Nov 2024 09:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Releases Patch for Critical URWB Vulnerability in Industrial Wireless Systems</title>
+      <link>https://thehackernews.com/2024/11/cisco-releases-patch-for-critical-urwb.html</link>
+      <pubDate>Thu, 07 Nov 2024 09:08:00 +0000</pubDate>
     </item>
     <item>
       <title>Malicious PyPI Package ‘Fabrice’ Found Stealing AWS Keys from Thousands of Developers</title>
@@ -41,11 +81,6 @@
       <title>Canada ordered ByteDance to shut down TikTok operations in the country over security concerns</title>
       <link>https://securityaffairs.com/170653/security/canada-ordered-bytedance-to-shut-down-tiktok-operations.html</link>
       <pubDate>Thu, 07 Nov 2024 07:30:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Releases Patch for Critical URWB Vulnerability in Industrial Wireless Systems</title>
-      <link>https://thehackernews.com/2024/11/cisco-releases-patch-for-critical-urwb.html</link>
-      <pubDate>Thu, 07 Nov 2024 07:13:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical bug in Cisco UWRB access points allows attackers to run commands as root</title>
@@ -121,6 +156,16 @@
       <title>Cyber-Attack on Microlise Disrupts DHL and Serco Tracking Services</title>
       <link>https://www.infosecurity-magazine.com/news/cyberattack-microlise-disrupts-dhl/</link>
       <pubDate>Wed, 06 Nov 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Effectively Manage a Data Breach</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/how-to-manage-data-breach/</link>
+      <pubDate>Wed, 06 Nov 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a Cyber Threat Hunting Team: Methods, Strategies, and Technologies</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/building-cyber-threat-hunting-team/</link>
+      <pubDate>Wed, 06 Nov 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>IRISSCON: Organizations Still Falling Victim to Predictable Cyber-Attacks</title>
@@ -261,51 +306,6 @@
       <title>[Guest Diary] Insights from August Web Traffic Surge, (Wed, Nov 6th)</title>
       <link>https://isc.sans.edu/diary/rss/31408</link>
       <pubDate>Wed, 06 Nov 2024 04:32:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, November 6th, 2024 https://isc.sans.edu/podcastdetail/9210, (Wed, Nov 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/31416</link>
-      <pubDate>Wed, 06 Nov 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Become a Chief Information Officer: CIO Cheat Sheet</title>
-      <link>https://www.techrepublic.com/article/how-to-become-a-cio-a-cheat-sheet/</link>
-      <pubDate>Tue, 05 Nov 2024 21:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ToxicPanda Android banking trojan targets Europe and LATAM, with a focus on Italy</title>
-      <link>https://securityaffairs.com/170605/malware/toxicpanda-android-malware-targets-italy.html</link>
-      <pubDate>Tue, 05 Nov 2024 21:25:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClickFix Exploits Users with Fake Errors and Malicious Code</title>
-      <link>https://www.infosecurity-magazine.com/news/clickfix-fake-errors-malicious-code/</link>
-      <pubDate>Tue, 05 Nov 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Seeks Public Help to Identify Chinese Hackers Behind Global Cyber Intrusions</title>
-      <link>https://thehackernews.com/2024/11/fbi-seeks-public-help-to-identify.html</link>
-      <pubDate>Tue, 05 Nov 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian Man Arrested in Snowflake Data Extortions</title>
-      <link>https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/</link>
-      <pubDate>Tue, 05 Nov 2024 17:10:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>How an Information Disclosure Vulnerability Led to Critical Data Exposure</title>
-      <link>https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive</link>
-      <pubDate>Tue, 05 Nov 2024 17:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #23: Murder most weird, and why 9.11 is bigger than 9.9</title>
-      <link>https://grahamcluley.com/the-ai-fix-23/</link>
-      <pubDate>Tue, 05 Nov 2024 16:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ToxicPanda Malware Targets Banking Apps on Android Devices</title>
-      <link>https://www.infosecurity-magazine.com/news/toxicpanda-malware-banking-android/</link>
-      <pubDate>Tue, 05 Nov 2024 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
