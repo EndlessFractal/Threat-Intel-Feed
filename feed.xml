@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 12:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 14:17:29 +0000</lastBuildDate>
+    <item>
+      <title>Exploring DORA: How to manage ICT incidents and minimize cyber threat risks</title>
+      <link>https://securityintelligence.com/posts/exploring-dora-how-to-manage-ict-incidents/</link>
+      <pubDate>Thu, 07 Nov 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malwarebytes acquires AzireVPN to fuel additional VPN features and functionalities</title>
+      <link>https://www.malwarebytes.com/blog/personal/2024/11/malwarebytes-acquires-azirevpn-to-fuel-additional-vpn-features-and-functionalities</link>
+      <pubDate>Thu, 07 Nov 2024 13:54:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>COTS vs. FOSS in Cybersecurity: Why COTS is the Smarter Choice ...</title>
+      <link>https://blog.eclecticiq.com/cots-vs-foss-in-cybersecurity-why-cots-is-the-smarter-choice</link>
+      <pubDate>Thu, 07 Nov 2024 13:49:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Target Crypto Firms with Hidden Risk Malware on macOS</title>
+      <link>https://thehackernews.com/2024/11/north-korean-hackers-target-crypto.html</link>
+      <pubDate>Thu, 07 Nov 2024 12:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>UK Regulator Urges Stronger Data Protection in AI Recruitment Tools</title>
       <link>https://www.infosecurity-magazine.com/news/uk-regulator-data-protection-ai/</link>
@@ -16,6 +36,11 @@
       <title>Subverting LLM Coders</title>
       <link>https://www.schneier.com/blog/archives/2024/11/subverting-llm-coders.html</link>
       <pubDate>Thu, 07 Nov 2024 12:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Hacker's Guide to Password Cracking</title>
+      <link>https://thehackernews.com/2024/11/a-hackers-guide-to-password-cracking.html</link>
+      <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Canada Orders Shutdown of Local TikTok Branch Over Security Concerns</title>
@@ -88,6 +113,11 @@
       <pubDate>Thu, 07 Nov 2024 06:17:16 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Launches AI Red Team Services to Secure AI Innovation</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-ai-red-team-services/</link>
+      <pubDate>Thu, 07 Nov 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Canada Orders TikTok to Shut Down Canadian Operations Over Security Concerns</title>
       <link>https://thehackernews.com/2024/11/canada-orders-tiktok-to-shut-down.html</link>
       <pubDate>Thu, 07 Nov 2024 04:39:00 +0000</pubDate>
@@ -113,7 +143,7 @@
       <pubDate>Wed, 06 Nov 2024 23:41:26 +0000</pubDate>
     </item>
     <item>
-      <title>AI-Assisted Attacks Top Cyber Threat For Third Consecutive Quarter, Gartner Finds</title>
+      <title>AI-Assisted Attacks Top Cyber Threat for Third Consecutive Quarter, Gartner Finds</title>
       <link>https://www.techrepublic.com/article/ai-cyber-attacks-gartner/</link>
       <pubDate>Wed, 06 Nov 2024 22:18:49 +0000</pubDate>
     </item>
@@ -276,36 +306,6 @@
       <title>New SteelFox Trojan mimics software activators, stealing sensitive data and mining cryptocurrency</title>
       <link>https://securelist.com/steelfox-trojan-drops-stealer-and-miner/114414/</link>
       <pubDate>Wed, 06 Nov 2024 10:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global Operation Takes Down 22,000 Malicious IPs</title>
-      <link>https://www.infosecurity-magazine.com/news/global-operation-takes-down-22000/</link>
-      <pubDate>Wed, 06 Nov 2024 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Synology fixed critical flaw impacting millions of DiskStation and BeePhotos NAS devices</title>
-      <link>https://securityaffairs.com/170602/hacking/synology-fixed-critical-bug-in-diskstation-and-beephotos-nas.html</link>
-      <pubDate>Wed, 06 Nov 2024 09:09:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike to Acquire Adaptive Shield to Deliver Integrated SaaS Security Posture Management</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-acquires-adaptive-shield-and-integrates-saas-protection/</link>
-      <pubDate>Wed, 06 Nov 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea Fines Meta $15.67M for Illegally Sharing Sensitive User Data with Advertisers</title>
-      <link>https://thehackernews.com/2024/11/south-korea-fines-meta-1567m-for.html</link>
-      <pubDate>Wed, 06 Nov 2024 06:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud to Enforce Multi-Factor Authentication by 2025 for All Users</title>
-      <link>https://thehackernews.com/2024/11/google-cloud-to-enforce-multi-factor.html</link>
-      <pubDate>Wed, 06 Nov 2024 05:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Guest Diary] Insights from August Web Traffic Surge, (Wed, Nov 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/31408</link>
-      <pubDate>Wed, 06 Nov 2024 04:32:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
