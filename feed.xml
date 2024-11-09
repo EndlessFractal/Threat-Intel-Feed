@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Nov 2024 16:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 18:23:16 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 09 Nov 2024 15:05:02 +0000</pubDate>
+      <pubDate>Sat, 09 Nov 2024 18:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Veeam Backup &amp; Replication exploit reused in new Frag ransomware attack</title>
+      <link>https://securityaffairs.com/170717/malware/veeam-backup-replication-flaw-frag-ransomware.html</link>
+      <pubDate>Sat, 09 Nov 2024 17:50:11 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Update 425</title>
@@ -173,6 +178,11 @@
       <pubDate>Fri, 08 Nov 2024 10:00:15 +0000</pubDate>
     </item>
     <item>
+      <title>Life on a crooked RedLine: Analyzing the infamous infostealer’s backend</title>
+      <link>https://www.welivesecurity.com/en/eset-research/life-crooked-redline-analyzing-infamous-infostealers-backend/</link>
+      <pubDate>Fri, 08 Nov 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Top Vulnerability Management Tools: Reviews &amp; Comparisons 2024</title>
       <link>https://www.techrepublic.com/article/top-vulnerability-management-tools/</link>
       <pubDate>Fri, 08 Nov 2024 08:13:05 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>CISA Releases Three Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories</link>
       <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Hacker's Guide to Password Cracking</title>
-      <link>https://thehackernews.com/2024/11/a-hackers-guide-to-password-cracking.html</link>
-      <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada Orders Shutdown of Local TikTok Branch Over Security Concerns</title>
-      <link>https://www.infosecurity-magazine.com/news/canada-orders-shutdown-tiktok/</link>
-      <pubDate>Thu, 07 Nov 2024 11:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
