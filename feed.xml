@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Nov 2024 10:18:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 12:34:00 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sun, 10 Nov 2024 12:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 19</title>
+      <link>https://securityaffairs.com/170771/breaking-news/security-affairs-malware-newsletter-round-19.html</link>
+      <pubDate>Sun, 10 Nov 2024 11:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Affairs newsletter Round 497 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
+      <link>https://securityaffairs.com/170764/breaking-news/security-affairs-newsletter-round-497-by-pierluigi-paganini-international-edition.html</link>
+      <pubDate>Sun, 10 Nov 2024 11:28:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Factors Slow Enterprise AI Implementations?</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/what-factors-slow-enterprise-ai-implementations</link>
+      <pubDate>Sun, 10 Nov 2024 10:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. agency cautions employees to limit phone use due to Salt Typhoon hack of telco providers</title>
       <link>https://securityaffairs.com/170737/hacking/u-s-agency-limit-phone-use-due-to-salt-typhoon-hack.html</link>
       <pubDate>Sun, 10 Nov 2024 09:12:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 10 Nov 2024 08:10:02 +0000</pubDate>
     </item>
     <item>
       <title>Mazda Connect flaws allow to hack some Mazda vehicles</title>
@@ -291,21 +306,6 @@
       <title>Subverting LLM Coders</title>
       <link>https://www.schneier.com/blog/archives/2024/11/subverting-llm-coders.html</link>
       <pubDate>Thu, 07 Nov 2024 12:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Attorney’s Office and University of Maryland Co Host Cybersecurity Conference Amid Spike in Data-Breach Crimes</title>
-      <link>https://www.justice.gov/usao-md/pr/us-attorneys-office-and-university-maryland-co-host-cybersecurity-conference-amid-spike</link>
-      <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beckhoff Automation TwinCAT Package Manager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-312-01</link>
-      <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Delta Electronics DIAScreen</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-312-02</link>
-      <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
