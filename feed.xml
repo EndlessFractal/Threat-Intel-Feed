@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Nov 2024 08:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 10:18:04 +0000</lastBuildDate>
+    <item>
+      <title>U.S. agency cautions employees to limit phone use due to Salt Typhoon hack of telco providers</title>
+      <link>https://securityaffairs.com/170737/hacking/u-s-agency-limit-phone-use-due-to-salt-typhoon-hack.html</link>
+      <pubDate>Sun, 10 Nov 2024 09:12:54 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 10 Nov 2024 07:10:03 +0000</pubDate>
+      <pubDate>Sun, 10 Nov 2024 08:10:02 +0000</pubDate>
     </item>
     <item>
       <title>Mazda Connect flaws allow to hack some Mazda vehicles</title>
@@ -300,11 +305,6 @@
     <item>
       <title>Delta Electronics DIAScreen</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-312-02</link>
-      <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bosch Rexroth IndraDrive</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-312-03</link>
       <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
