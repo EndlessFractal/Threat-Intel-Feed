@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 10:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 12:38:21 +0000</lastBuildDate>
     <item>
-      <title>Energy Giant Halliburton Reveals $35m Ransomware Loss</title>
-      <link>https://www.infosecurity-magazine.com/news/energy-giant-halliburton-35m/</link>
-      <pubDate>Tue, 12 Nov 2024 09:30:00 +0000</pubDate>
+      <title>SOC Prime Threat Bounty Digest — October 2024 Results</title>
+      <link>https://socprime.com/blog/soc-prime-threat-bounty-digest-october-2024-results/</link>
+      <pubDate>Tue, 12 Nov 2024 12:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple indeed added a feature called “inactivity reboot” in iOS 18.1 that reboots locked devices</title>
+      <link>https://securityaffairs.com/170824/security/apple-feature-inactivity-reboot-ios-18-1.html</link>
+      <pubDate>Tue, 12 Nov 2024 12:06:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Criminals Exploiting FBI Emergency Data Requests</title>
+      <link>https://www.schneier.com/blog/archives/2024/11/criminals-exploiting-fbi-emergency-data-requests.html</link>
+      <pubDate>Tue, 12 Nov 2024 12:05:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ModeLeak: Privilege Escalation to LLM Model Exfiltration in Vertex AI</title>
+      <link>https://unit42.paloaltonetworks.com/privilege-escalation-llm-model-exfil-vertex-ai/</link>
+      <pubDate>Tue, 12 Nov 2024 11:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Ways Behavioral Analytics is Revolutionizing Incident Response</title>
+      <link>https://thehackernews.com/2024/11/5-ways-behavioral-analytics-is.html</link>
+      <pubDate>Tue, 12 Nov 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Winter Fuel Payment scam targets UK citizens via SMS</title>
+      <link>https://www.tripwire.com/state-of-security/winter-fuel-payment-scam-targets-uk-citizens-sms</link>
+      <pubDate>Tue, 12 Nov 2024 10:43:43 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 12 Nov 2024 08:20:03 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2024 10:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ymir ransomware, a new stealthy ransomware grow in the wild</title>
+      <link>https://securityaffairs.com/170814/malware/ymir-ransomware-analysis.html</link>
+      <pubDate>Tue, 12 Nov 2024 10:26:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energy Giant Halliburton Reveals $35m Ransomware Loss</title>
+      <link>https://www.infosecurity-magazine.com/news/energy-giant-halliburton-35m/</link>
+      <pubDate>Tue, 12 Nov 2024 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>New Ymir Ransomware Exploits Memory for Stealthy Attacks; Targets Corporate Networks</title>
@@ -218,11 +253,6 @@
       <pubDate>Fri, 08 Nov 2024 23:25:28 +0000</pubDate>
     </item>
     <item>
-      <title>Texas oilfield supplier Newpark Resources suffered a ransomware attack</title>
-      <link>https://securityaffairs.com/170696/cyber-crime/newpark-resources-ransomware-attack.html</link>
-      <pubDate>Fri, 08 Nov 2024 23:05:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Nigerian national gets 10-year sentence for stealing $20 million through business email compromise scams</title>
       <link>https://therecord.media/nigeria-national-twenty-million-scams</link>
       <pubDate>Fri, 08 Nov 2024 22:05:27 +0000</pubDate>
@@ -241,11 +271,6 @@
       <title>TSA floats new rules mandating cyber incident reporting for pipelines, railroads</title>
       <link>https://therecord.media/tsa-new-rules-cyber-response</link>
       <pubDate>Fri, 08 Nov 2024 19:41:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto Networks warns of potential RCE in PAN-OS management interface</title>
-      <link>https://securityaffairs.com/170697/security/palo-alto-networks-warns-potential-pan-os-rce.html</link>
-      <pubDate>Fri, 08 Nov 2024 19:01:00 +0000</pubDate>
     </item>
     <item>
       <title>Webinar: Learn How Storytelling Can Make Cybersecurity Training Fun and Effective</title>
@@ -281,31 +306,6 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 45</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-6/</link>
       <pubDate>Fri, 08 Nov 2024 14:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpyAgent malware targets crypto wallets by stealing screenshots</title>
-      <link>https://securityintelligence.com/articles/spyagent-malware-targets-crypto-wallets-stealing-screenshots/</link>
-      <pubDate>Fri, 08 Nov 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Campaign Uses Remcos RAT to Exploit Victims</title>
-      <link>https://feeds.fortinet.com/~/907586438/0/fortinet/blog/threat-research~New-Campaign-Uses-Remcos-RAT-to-Exploit-Victims</link>
-      <pubDate>Fri, 08 Nov 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IcePeony and Transparent Tribe Target Indian Entities with Cloud-Based Tools</title>
-      <link>https://thehackernews.com/2024/11/icepeony-and-transparent-tribe-target.html</link>
-      <pubDate>Fri, 08 Nov 2024 12:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Industry is Trying to Subvert the Definition of “Open Source AI”</title>
-      <link>https://www.schneier.com/blog/archives/2024/11/ai-industry-is-trying-to-subvert-the-definition-of-open-source-ai.html</link>
-      <pubDate>Fri, 08 Nov 2024 12:03:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin Fog Operator Sentenced for Money Laundering Conspiracy</title>
-      <link>https://www.justice.gov/opa/pr/bitcoin-fog-operator-sentenced-money-laundering-conspiracy</link>
-      <pubDate>Fri, 08 Nov 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
