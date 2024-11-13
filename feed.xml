@@ -6,21 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Nov 2024 10:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 12:37:56 +0000</lastBuildDate>
+    <item>
+      <title>Mapping License Plate Scanners in the US</title>
+      <link>https://www.schneier.com/blog/archives/2024/11/mapping-license-plate-scanners-in-the-us.html</link>
+      <pubDate>Wed, 13 Nov 2024 12:06:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 13 Nov 2024 11:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-15 August 2024 Cyber Attacks Timeline</title>
+      <link>https://www.hackmageddon.com/2024/11/13/1-15-august-2024-cyber-attacks-timeline/</link>
+      <pubDate>Wed, 13 Nov 2024 11:30:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Companies Are Unknowingly Paying North Koreans: Here’s How to Catch Them</title>
+      <link>https://unit42.paloaltonetworks.com/north-korean-it-workers/</link>
+      <pubDate>Wed, 13 Nov 2024 11:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comprehensive Guide to Building a Strong Browser Security Program</title>
+      <link>https://thehackernews.com/2024/11/comprehensive-guide-to-building-strong.html</link>
+      <pubDate>Wed, 13 Nov 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon MOVEit Leaker Claims to Be Ethical Hacker</title>
+      <link>https://www.infosecurity-magazine.com/news/amazon-moveit-leaker-claims/</link>
+      <pubDate>Wed, 13 Nov 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threats in space (or rather, on Earth): internet-exposed GNSS receivers</title>
+      <link>https://securelist.com/internet-exposed-gnss-receivers-in-2024/114548/</link>
+      <pubDate>Wed, 13 Nov 2024 10:00:14 +0000</pubDate>
+    </item>
     <item>
       <title>Inside the DemandScience by Pure Incubation Data Breach</title>
       <link>https://www.troyhunt.com/inside-the-demandscience-by-pure-incubation-data-breach/</link>
       <pubDate>Wed, 13 Nov 2024 09:59:27 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 13 Nov 2024 09:45:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Fixes Four More Zero-Days in November Patch Tuesday</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-four-zerodays-november/</link>
       <pubDate>Wed, 13 Nov 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OvrC Platform Vulnerabilities Expose IoT Devices to Remote Attacks and Code Execution</title>
+      <link>https://thehackernews.com/2024/11/ovrc-platform-vulnerabilities-expose.html</link>
+      <pubDate>Wed, 13 Nov 2024 09:28:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Fixes 90 New Flaws, Including Actively Exploited NTLM and Task Scheduler Bugs</title>
@@ -271,41 +306,6 @@
       <title>Energy Giant Halliburton Reveals $35m Ransomware Loss</title>
       <link>https://www.infosecurity-magazine.com/news/energy-giant-halliburton-35m/</link>
       <pubDate>Tue, 12 Nov 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>November 2024 Patch Tuesday: Four Critical and Three Zero-Days Among 158 Vulnerabilities Patched</title>
-      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2024/</link>
-      <pubDate>Tue, 12 Nov 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Ymir Ransomware Exploits Memory for Stealthy Attacks; Targets Corporate Networks</title>
-      <link>https://thehackernews.com/2024/11/new-ymir-ransomware-exploits-memory-for.html</link>
-      <pubDate>Tue, 12 Nov 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, November 12th, 2024 https://isc.sans.edu/podcastdetail/9218, (Tue, Nov 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/31436</link>
-      <pubDate>Tue, 12 Nov 2024 02:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the Shift to SaaS Amplifies Identity-Based Risk</title>
-      <link>https://www.recordedfuture.com/blog/navigating-the-new-era-of-identity</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Nexus TAG-112 Compromises Tibetan Websites to Distribute Cobalt Strike</title>
-      <link>https://www.recordedfuture.com/research/china-nexus-tag-112-compromises-tibetan-websites</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon discloses employee data breach after May 2023 MOVEit attacks</title>
-      <link>https://securityaffairs.com/170804/data-breach/amazon-employee-data-breach-may-2023-moveit-attacks.html</link>
-      <pubDate>Mon, 11 Nov 2024 22:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>WEF Introduces Framework to Strengthen Anti-Cybercrime Partnerships</title>
-      <link>https://www.infosecurity-magazine.com/news/wef-framework-combat-cybercrime/</link>
-      <pubDate>Mon, 11 Nov 2024 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
