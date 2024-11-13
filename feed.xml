@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 22:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 01:26:29 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Patch Tuesday security updates for November 2024 fix two actively exploited zero-days</title>
+      <link>https://securityaffairs.com/170851/hacking/microsoft-patch-tuesday-november-2024.html</link>
+      <pubDate>Wed, 13 Nov 2024 00:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 13 Nov 2024 00:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>November Patch Tuesday release contains three critical remote code execution vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/november-patch-tuesday-release/</link>
+      <pubDate>Tue, 12 Nov 2024 23:11:47 +0000</pubDate>
+    </item>
     <item>
       <title>Dutch company behind Hannaford, Stop &amp; Shop says cyber issue affecting US network</title>
       <link>https://therecord.media/dutch-company-stop-shop-hannaford-cyber</link>
@@ -26,11 +41,6 @@
       <title>Ahold Delhaize experienced a cyber incident affecting several of its U.S. brands</title>
       <link>https://securityaffairs.com/170840/security/ahold-delhaize-cyber-incident-u-s-brands.html</link>
       <pubDate>Tue, 12 Nov 2024 20:45:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 12 Nov 2024 20:40:03 +0000</pubDate>
     </item>
     <item>
       <title>Exclusive: Nakasone on exploding pagers, life after the NSA and another possible government job</title>
@@ -75,6 +85,11 @@
     <item>
       <title>CISOs Turn to Indemnity Insurance as Breach Pressure Mounts</title>
       <link>https://www.infosecurity-magazine.com/news/cisos-indemnity-insurance-breach/</link>
+      <pubDate>Tue, 12 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, November 2024</title>
+      <link>https://asec.ahnlab.com/en/84346/</link>
       <pubDate>Tue, 12 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -136,6 +151,11 @@
       <title>Criminals Exploiting FBI Emergency Data Requests</title>
       <link>https://www.schneier.com/blog/archives/2024/11/criminals-exploiting-fbi-emergency-data-requests.html</link>
       <pubDate>Tue, 12 Nov 2024 12:05:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Foreign National Pleads Guilty to Laundering Millions in Proceeds from Cryptocurrency Investment Scams</title>
+      <link>https://www.justice.gov/opa/pr/foreign-national-pleads-guilty-laundering-millions-proceeds-cryptocurrency-investment-scams</link>
+      <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Subnet Solutions PowerSYSTEM Center</title>
@@ -253,11 +273,6 @@
       <pubDate>Mon, 11 Nov 2024 17:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>DoD Zero Trust Strategy proves security benchmark years ahead of schedule with Microsoft collaboration</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/11/11/dod-zero-trust-strategy-proves-security-benchmark-years-ahead-of-schedule-with-microsoft-collaboration/</link>
-      <pubDate>Mon, 11 Nov 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Visio Files Used in Sophisticated Phishing Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-visio-files-phishing/</link>
       <pubDate>Mon, 11 Nov 2024 16:30:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>THN Recap: Top Cybersecurity Threats, Tools, and Practices (Nov 04 - Nov 10)</title>
       <link>https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_11.html</link>
       <pubDate>Mon, 11 Nov 2024 11:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New GootLoader Campaign Targets Users Searching for Bengal Cat Laws in Australia</title>
-      <link>https://thehackernews.com/2024/11/new-gootloader-campaign-targets-users.html</link>
-      <pubDate>Mon, 11 Nov 2024 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The ROI of Security Investments: How Cybersecurity Leaders Prove It</title>
-      <link>https://thehackernews.com/2024/11/the-roi-of-security-investments-how.html</link>
-      <pubDate>Mon, 11 Nov 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pensioners Warned Over Winter Fuel Payment Scam Texts</title>
-      <link>https://www.infosecurity-magazine.com/news/pensioners-winter-fuel-payment/</link>
-      <pubDate>Mon, 11 Nov 2024 10:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
