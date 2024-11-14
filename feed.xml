@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Nov 2024 22:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 01:26:29 +0000</lastBuildDate>
+    <item>
+      <title>HackerOne’s Fall Day of Service</title>
+      <link>https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service</link>
+      <pubDate>Thu, 14 Nov 2024 00:13:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>How HackerOne Disproved an MFA Bypass With a Spot Check</title>
+      <link>https://www.hackerone.com/vulnerability-management/spot-check-mfa-bypass</link>
+      <pubDate>Thu, 14 Nov 2024 00:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitdefender released a decryptor for the ShrinkLocker ransomware</title>
+      <link>https://securityaffairs.com/170934/cyber-crime/shrinklocker-ransomware-decryptor.html</link>
+      <pubDate>Thu, 14 Nov 2024 00:05:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #393: Who needs a laptop to hack when you have a Firestick?</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-393/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 13 Nov 2024 23:50:03 +0000</pubDate>
+    </item>
     <item>
       <title>NIST says exploited vulnerability backlog cleared but end-of-year goal for full list unlikely</title>
       <link>https://therecord.media/nist-vulnerability-backlog-cleared-cisa</link>
       <pubDate>Wed, 13 Nov 2024 22:12:19 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 13 Nov 2024 21:50:03 +0000</pubDate>
+      <title>Temu must respect consumer protection laws, says EU</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/11/temu-must-respect-consumer-protection-laws-says-eu</link>
+      <pubDate>Wed, 13 Nov 2024 22:10:11 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday: Four Critical Vulnerabilities Paved Over</title>
@@ -100,6 +125,21 @@
     <item>
       <title>Digital Identities: Getting to Know the Verifiable Digital Credential Ecosystem</title>
       <link>https://www.nist.gov/blogs/cybersecurity-insights/digital-identities-getting-know-verifiable-digital-credential-ecosystem</link>
+      <pubDate>Wed, 13 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Computer Intrusion and Theft Charges Unsealed Against Two Men</title>
+      <link>https://www.justice.gov/usao-ma/pr/computer-intrusion-and-theft-charges-unsealed-against-two-men</link>
+      <pubDate>Wed, 13 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Idaho Man Sentenced for Computer Hacking and Extortion Scheme</title>
+      <link>https://www.justice.gov/usao-ndga/pr/idaho-man-sentenced-computer-hacking-and-extortion-scheme</link>
+      <pubDate>Wed, 13 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Idaho Man Sentenced for Computer Hacking and Extortion Scheme</title>
+      <link>https://www.justice.gov/opa/pr/idaho-man-sentenced-computer-hacking-and-extortion-scheme</link>
       <pubDate>Wed, 13 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -266,46 +306,6 @@
       <title>SOC Prime Threat Bounty Digest — October 2024 Results</title>
       <link>https://socprime.com/blog/soc-prime-threat-bounty-digest-october-2024-results/</link>
       <pubDate>Tue, 12 Nov 2024 12:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple indeed added a feature called “inactivity reboot” in iOS 18.1 that reboots locked devices</title>
-      <link>https://securityaffairs.com/170824/security/apple-feature-inactivity-reboot-ios-18-1.html</link>
-      <pubDate>Tue, 12 Nov 2024 12:06:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Criminals Exploiting FBI Emergency Data Requests</title>
-      <link>https://www.schneier.com/blog/archives/2024/11/criminals-exploiting-fbi-emergency-data-requests.html</link>
-      <pubDate>Tue, 12 Nov 2024 12:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foreign National Pleads Guilty to Laundering Millions in Proceeds from Cryptocurrency Investment Scams</title>
-      <link>https://www.justice.gov/opa/pr/foreign-national-pleads-guilty-laundering-millions-proceeds-cryptocurrency-investment-scams</link>
-      <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subnet Solutions PowerSYSTEM Center</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-317-01</link>
-      <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy TRO600</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-317-02</link>
-      <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FactoryTalk View ME</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-317-03</link>
-      <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Five Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-adds-five-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA, FBI, NSA, and International Partners Release Joint Advisory on 2023 Top Routinely Exploited Vulnerabilities</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-fbi-nsa-and-international-partners-release-joint-advisory-2023-top-routinely-exploited</link>
-      <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
