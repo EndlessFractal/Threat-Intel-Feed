@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Nov 2024 18:27:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 20:21:25 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 14 Nov 2024 18:55:03 +0000</pubDate>
+    </item>
     <item>
       <title>Malware being delivered by mail, warns Swiss cyber agency</title>
       <link>https://therecord.media/malware-delivered-by-mail-swiss-cyber-agency</link>
@@ -21,11 +26,6 @@
       <title>Sitting Ducks DNS Attacks Put Global Domains at Risk</title>
       <link>https://www.infosecurity-magazine.com/news/sitting-ducks-dns-attacks-global/</link>
       <pubDate>Thu, 14 Nov 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 14 Nov 2024 16:55:03 +0000</pubDate>
     </item>
     <item>
       <title>Hungary confirms hack of defense procurement agency</title>
@@ -223,6 +223,11 @@
       <pubDate>Thu, 14 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Thu, 14 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The State of Cloud Ransomware in 2024</title>
       <link>https://www.sentinelone.com/blog/the-state-of-cloud-ransomware-in-2024/</link>
       <pubDate>Thu, 14 Nov 2024 11:00:26 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>China’s Volt Typhoon botnet has re-emerged</title>
       <link>https://securityaffairs.com/170872/apt/volt-typhoon-botnet-has-re-emerged.html</link>
       <pubDate>Wed, 13 Nov 2024 19:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hive0145 Targets Europe with Advanced Strela Stealer Campaigns</title>
-      <link>https://www.infosecurity-magazine.com/news/hive0145-targets-eu-strela-stealer/</link>
-      <pubDate>Wed, 13 Nov 2024 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
