@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Nov 2024 06:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 08:25:43 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 14 Nov 2024 04:50:02 +0000</pubDate>
+      <pubDate>Thu, 14 Nov 2024 07:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Exploit New NTLM Flaw to Deploy RAT Malware via Phishing Emails</title>
+      <link>https://thehackernews.com/2024/11/russian-hackers-exploit-new-ntlm-flaw.html</link>
+      <pubDate>Thu, 14 Nov 2024 05:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US agencies confirm Beijing-linked telecom breach involving call records of politicians, wiretaps</title>
+      <link>https://therecord.media/us-agencies-confirm-china-telecom-hack-wiretaps</link>
+      <pubDate>Thu, 14 Nov 2024 01:40:08 +0000</pubDate>
     </item>
     <item>
       <title>HackerOne’s Fall Day of Service</title>
@@ -33,6 +43,11 @@
       <pubDate>Thu, 14 Nov 2024 00:00:33 +0000</pubDate>
     </item>
     <item>
+      <title>NIST says exploited vulnerability backlog cleared but end-of-year goal for full list unlikely</title>
+      <link>https://therecord.media/nist-vulnerability-backlog-cleared-cisa</link>
+      <pubDate>Wed, 13 Nov 2024 22:12:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Temu must respect consumer protection laws, says EU</title>
       <link>https://www.malwarebytes.com/blog/news/2024/11/temu-must-respect-consumer-protection-laws-says-eu</link>
       <pubDate>Wed, 13 Nov 2024 22:10:11 +0000</pubDate>
@@ -43,9 +58,19 @@
       <pubDate>Wed, 13 Nov 2024 19:55:13 +0000</pubDate>
     </item>
     <item>
+      <title>Top White House cyber official urges Trump to focus on ransomware, China</title>
+      <link>https://therecord.media/neuberger-urges-trump-admin-focus-china-ransomware</link>
+      <pubDate>Wed, 13 Nov 2024 19:25:47 +0000</pubDate>
+    </item>
+    <item>
       <title>China’s Volt Typhoon botnet has re-emerged</title>
       <link>https://securityaffairs.com/170872/apt/volt-typhoon-botnet-has-re-emerged.html</link>
       <pubDate>Wed, 13 Nov 2024 19:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese national faces 20 years in US prison for laundering pig-butchering proceeds</title>
+      <link>https://therecord.media/chinese-national-faces-20-years-money-laundering-pig-butchering</link>
+      <pubDate>Wed, 13 Nov 2024 18:39:38 +0000</pubDate>
     </item>
     <item>
       <title>Hive0145 Targets Europe with Advanced Strela Stealer Campaigns</title>
@@ -71,6 +96,11 @@
       <title>Lazarus Group Uses Extended Attributes for Code Smuggling in macOS</title>
       <link>https://www.infosecurity-magazine.com/news/lazarus-extended-attributes-macos/</link>
       <pubDate>Wed, 13 Nov 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wisconsin city of Sheboygan says ransom demanded after cyberattack</title>
+      <link>https://therecord.media/sheboygan-wisconsin-hackers-demand-ransom</link>
+      <pubDate>Wed, 13 Nov 2024 15:49:49 +0000</pubDate>
     </item>
     <item>
       <title>Zoom addressed two high-severity issues in its platform</title>
@@ -146,6 +176,11 @@
       <title>Threats in space (or rather, on Earth): internet-exposed GNSS receivers</title>
       <link>https://securelist.com/internet-exposed-gnss-receivers-in-2024/114548/</link>
       <pubDate>Wed, 13 Nov 2024 10:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESET Research Podcast: Gamaredon</title>
+      <link>https://www.welivesecurity.com/en/podcasts/eset-research-podcast-gamaredon/</link>
+      <pubDate>Wed, 13 Nov 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Inside the DemandScience by Pure Incubation Data Breach</title>
@@ -271,41 +306,6 @@
       <title>North Korea Hackers Leverage Flutter to Deliver macOS Malware</title>
       <link>https://www.infosecurity-magazine.com/news/north-korea-hackers-flutter-macos/</link>
       <pubDate>Tue, 12 Nov 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Target macOS Using Flutter-Embedded Malware</title>
-      <link>https://thehackernews.com/2024/11/north-korean-hackers-target-macos-using.html</link>
-      <pubDate>Tue, 12 Nov 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DNA testing company vanishes along with its customers’ genetic data</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data</link>
-      <pubDate>Tue, 12 Nov 2024 12:42:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOC Prime Threat Bounty Digest — October 2024 Results</title>
-      <link>https://socprime.com/blog/soc-prime-threat-bounty-digest-october-2024-results/</link>
-      <pubDate>Tue, 12 Nov 2024 12:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple indeed added a feature called “inactivity reboot” in iOS 18.1 that reboots locked devices</title>
-      <link>https://securityaffairs.com/170824/security/apple-feature-inactivity-reboot-ios-18-1.html</link>
-      <pubDate>Tue, 12 Nov 2024 12:06:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Criminals Exploiting FBI Emergency Data Requests</title>
-      <link>https://www.schneier.com/blog/archives/2024/11/criminals-exploiting-fbi-emergency-data-requests.html</link>
-      <pubDate>Tue, 12 Nov 2024 12:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foreign National Pleads Guilty to Laundering Millions in Proceeds from Cryptocurrency Investment Scams</title>
-      <link>https://www.justice.gov/opa/pr/foreign-national-pleads-guilty-laundering-millions-proceeds-cryptocurrency-investment-scams</link>
-      <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subnet Solutions PowerSYSTEM Center</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-317-01</link>
-      <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
