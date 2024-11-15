@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Nov 2024 04:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 06:31:21 +0000</lastBuildDate>
+    <item>
+      <title>CISA Flags Critical Palo Alto Network Flaws Actively Exploited in the Wild</title>
+      <link>https://thehackernews.com/2024/11/cisa-flags-critical-palo-alto-network.html</link>
+      <pubDate>Fri, 15 Nov 2024 05:04:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 15 Nov 2024 03:00:03 +0000</pubDate>
+      <pubDate>Fri, 15 Nov 2024 05:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Interview With the Target &amp; Home Depot Hacker</title>
+      <link>https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/</link>
+      <pubDate>Fri, 15 Nov 2024 04:45:32 +0000</pubDate>
     </item>
     <item>
       <title>Hackers target critical flaw CVE-2024-10914 in EOL D-Link NAS Devices</title>
@@ -61,6 +71,11 @@
       <title>China-linked threat actors compromised multiple telecos and spied on a limited number of U.S. government officials</title>
       <link>https://securityaffairs.com/170981/intelligence/china-linked-threat-actors-spied-on-u-s-gov-officials.html</link>
       <pubDate>Thu, 14 Nov 2024 16:28:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESET APT Activity Report Q2 2024–Q3 2024: Key findings</title>
+      <link>https://www.welivesecurity.com/en/videos/eset-apt-activity-report-q2-2024-q3-2024-key-findings/</link>
+      <pubDate>Thu, 14 Nov 2024 16:16:27 +0000</pubDate>
     </item>
     <item>
       <title>ShrinkLocker ransomware: what you need to know</title>
@@ -291,21 +306,6 @@
       <title>HackerOne’s Fall Day of Service</title>
       <link>https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service</link>
       <pubDate>Thu, 14 Nov 2024 00:13:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>How HackerOne Disproved an MFA Bypass With a Spot Check</title>
-      <link>https://www.hackerone.com/vulnerability-management/spot-check-mfa-bypass</link>
-      <pubDate>Thu, 14 Nov 2024 00:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitdefender released a decryptor for the ShrinkLocker ransomware</title>
-      <link>https://securityaffairs.com/170934/cyber-crime/shrinklocker-ransomware-decryptor.html</link>
-      <pubDate>Thu, 14 Nov 2024 00:05:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #393: Who needs a laptop to hack when you have a Firestick?</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-393/</link>
-      <pubDate>Thu, 14 Nov 2024 00:00:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
