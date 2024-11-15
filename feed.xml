@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Nov 2024 06:31:21 +0000</lastBuildDate>
-    <item>
-      <title>CISA Flags Critical Palo Alto Network Flaws Actively Exploited in the Wild</title>
-      <link>https://thehackernews.com/2024/11/cisa-flags-critical-palo-alto-network.html</link>
-      <pubDate>Fri, 15 Nov 2024 05:04:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Nov 2024 08:25:39 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 15 Nov 2024 05:00:04 +0000</pubDate>
+      <pubDate>Fri, 15 Nov 2024 08:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>High-Severity Flaw in PostgreSQL Allows Hackers to Exploit Environment Variables</title>
+      <link>https://thehackernews.com/2024/11/high-severity-flaw-in-postgresql-allows.html</link>
+      <pubDate>Fri, 15 Nov 2024 06:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitfinex Hacker Sentenced to 5 Years, Guilty of Laundering $10.5 Billion in Bitcoin</title>
+      <link>https://thehackernews.com/2024/11/bitfinex-hacker-sentenced-to-5-years.html</link>
+      <pubDate>Fri, 15 Nov 2024 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Flags Two Actively Exploited Palo Alto Flaws; New RCE Attack Confirmed</title>
+      <link>https://thehackernews.com/2024/11/cisa-flags-critical-palo-alto-network.html</link>
+      <pubDate>Fri, 15 Nov 2024 05:04:00 +0000</pubDate>
     </item>
     <item>
       <title>An Interview With the Target &amp; Home Depot Hacker</title>
@@ -81,6 +91,11 @@
       <title>ShrinkLocker ransomware: what you need to know</title>
       <link>https://www.tripwire.com/state-of-security/shrinklocker-ransomware-what-you-need-know</link>
       <pubDate>Thu, 14 Nov 2024 15:39:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 2st Week of November, 2024</title>
+      <link>https://asec.ahnlab.com/en/84521/</link>
+      <pubDate>Thu, 14 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>German football club leaves X, warning Elon Musk ‘capable of influencing German election’</title>
@@ -291,21 +306,6 @@
       <title>Bank of England U-turns on Vulnerability Disclosure Rules</title>
       <link>https://www.infosecurity-magazine.com/news/bank-england-uturns-vulnerability/</link>
       <pubDate>Thu, 14 Nov 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сrimeware and financial cyberthreats in 2025</title>
-      <link>https://securelist.com/ksb-financial-and-crimeware-predictions-2025/114565/</link>
-      <pubDate>Thu, 14 Nov 2024 09:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Exploit New NTLM Flaw to Deploy RAT Malware via Phishing Emails</title>
-      <link>https://thehackernews.com/2024/11/russian-hackers-exploit-new-ntlm-flaw.html</link>
-      <pubDate>Thu, 14 Nov 2024 05:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HackerOne’s Fall Day of Service</title>
-      <link>https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service</link>
-      <pubDate>Thu, 14 Nov 2024 00:13:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
