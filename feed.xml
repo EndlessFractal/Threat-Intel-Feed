@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Nov 2024 22:19:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 01:39:27 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 18 Nov 2024 21:30:02 +0000</pubDate>
+      <pubDate>Tue, 19 Nov 2024 01:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Many US water systems exposed to ‘high-risk’ vulnerabilities, watchdog finds</title>
+      <link>https://therecord.media/us-water-systems-exposed-vulnerabilities</link>
+      <pubDate>Mon, 18 Nov 2024 23:14:50 +0000</pubDate>
     </item>
     <item>
       <title>Recently disclosed VMware vCenter Server bugs are actively exploited in attacks</title>
@@ -51,11 +56,6 @@
       <title>Swiss Cyber Agency Warns of QR Code Malware in Mail Scam</title>
       <link>https://www.infosecurity-magazine.com/news/swiss-cyberagency-qr-code-mail-scam/</link>
       <pubDate>Mon, 18 Nov 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple still blocking access to news apps and podcasts at Moscow’s request</title>
-      <link>https://therecord.media/apple-blocking-access-news-apps-kremlin</link>
-      <pubDate>Mon, 18 Nov 2024 16:05:49 +0000</pubDate>
     </item>
     <item>
       <title>QuickBooks popup scam still being delivered via Google ads</title>
@@ -115,6 +115,16 @@
     <item>
       <title>Unlocking Cybersecurity Talent: The Power of Apprenticeships</title>
       <link>https://www.nist.gov/blogs/cybersecurity-insights/unlocking-cybersecurity-talent-power-apprenticeships</link>
+      <pubDate>Mon, 18 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phobos Ransomware Administrator Extradited From South Korea To Face Cybercrime Charges</title>
+      <link>https://www.justice.gov/usao-md/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges</link>
+      <pubDate>Mon, 18 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phobos Ransomware Administrator Extradited from South Korea to Face Cybercrime Charges</title>
+      <link>https://www.justice.gov/opa/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges</link>
       <pubDate>Mon, 18 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 46</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-6/</link>
       <pubDate>Fri, 15 Nov 2024 14:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity dominates concerns among the C-suite, small businesses and the nation</title>
-      <link>https://securityintelligence.com/articles/cybersecurity-dominates-concerns-c-suite-small-businesses-nation/</link>
-      <pubDate>Fri, 15 Nov 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitfinex Hacker Jailed for Five Years Over Billion Dollar Crypto Heist</title>
-      <link>https://www.infosecurity-magazine.com/news/bitfinex-hacker-jailed-5-years/</link>
-      <pubDate>Fri, 15 Nov 2024 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
