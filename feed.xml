@@ -6,9 +6,34 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 10:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 12:40:05 +0000</lastBuildDate>
     <item>
-      <title>Scammer Black Friday offers: Online shopping threats and dark web</title>
+      <title>Why Italy Sells So Much Spyware</title>
+      <link>https://www.schneier.com/blog/archives/2024/11/why-italy-sells-so-much-spyware.html</link>
+      <pubDate>Tue, 19 Nov 2024 12:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 19 Nov 2024 11:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>FrostyGoop’s Zoom-In: A Closer Look into the Malware Artifacts, Behaviors and Network Communications</title>
+      <link>https://unit42.paloaltonetworks.com/frostygoop-malware-analysis/</link>
+      <pubDate>Tue, 19 Nov 2024 11:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malware delivered via malicious QR codes sent in the post</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/malware-malicious-qr-codes-the-post</link>
+      <pubDate>Tue, 19 Nov 2024 10:33:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected Phobos Ransomware Admin Extradited to US</title>
+      <link>https://www.infosecurity-magazine.com/news/phobos-ransomware-admin-extradited/</link>
+      <pubDate>Tue, 19 Nov 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scammer Black Friday offers: Online shopping threats and dark web sales</title>
       <link>https://securelist.com/black-friday-report-2024/114589/</link>
       <pubDate>Tue, 19 Nov 2024 10:00:00 +0000</pubDate>
     </item>
@@ -18,9 +43,9 @@
       <pubDate>Tue, 19 Nov 2024 09:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 19 Nov 2024 09:35:03 +0000</pubDate>
+      <title>New 'Helldown' Ransomware Variant Expands Attacks to VMware and Linux Systems</title>
+      <link>https://thehackernews.com/2024/11/new-helldown-ransomware-expands-attacks.html</link>
+      <pubDate>Tue, 19 Nov 2024 09:40:00 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds Progress Kemp LoadMaster, Palo Alto Networks PAN-OS and Expedition bugs to its Known Exploited Vulnerabilities catalog</title>
@@ -101,6 +126,11 @@
       <title>QuickBooks popup scam still being delivered via Google ads</title>
       <link>https://www.malwarebytes.com/blog/scams/2024/11/quickbooks-popup-scam-still-being-delivered-via-google-ads</link>
       <pubDate>Mon, 18 Nov 2024 16:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity: Benefits and Best Practices</title>
+      <link>https://www.techrepublic.com/resource-library/downloads/cybersecurity-benefits-and-best-practices/</link>
+      <pubDate>Mon, 18 Nov 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Most of 2023’s Top Exploited Vulnerabilities Were Zero-Days</title>
@@ -276,36 +306,6 @@
       <title>Ancient TP-Link Backdoor Discovered by Attackers, (Sun, Nov 17th)</title>
       <link>https://isc.sans.edu/diary/rss/31442</link>
       <pubDate>Sun, 17 Nov 2024 07:07:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>A botnet exploits e GeoVision zero-day to compromise EoL devices</title>
-      <link>https://securityaffairs.com/171067/malware/ddos-botnet-exploits-geovision-zero-day.html</link>
-      <pubDate>Sun, 17 Nov 2024 04:52:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 426</title>
-      <link>https://www.troyhunt.com/weekly-update-426/</link>
-      <pubDate>Sun, 17 Nov 2024 02:39:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>PAN-OS Firewall Vulnerability Under Active Exploitation – IoCs and Patch Released</title>
-      <link>https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html</link>
-      <pubDate>Sat, 16 Nov 2024 08:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warning: DEEPDATA Malware Exploiting Unpatched Fortinet Flaw to Steal VPN Credentials</title>
-      <link>https://thehackernews.com/2024/11/warning-deepdata-malware-exploiting.html</link>
-      <pubDate>Sat, 16 Nov 2024 06:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Female Gonatus Onyx Squid Carrying Her Eggs</title>
-      <link>https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-female-gonatus-onyx-squid-carrying-her-eggs.html</link>
-      <pubDate>Fri, 15 Nov 2024 22:07:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ANZ CIO Challenges: AI, Cybersecurity &amp; Data Analytics for 2025</title>
-      <link>https://www.techrepublic.com/article/anz-cio-challenges-ai-cybersecurity/</link>
-      <pubDate>Fri, 15 Nov 2024 21:13:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
