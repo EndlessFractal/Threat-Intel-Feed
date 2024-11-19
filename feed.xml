@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 06:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 08:26:35 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 19 Nov 2024 05:35:03 +0000</pubDate>
+      <pubDate>Tue, 19 Nov 2024 07:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Great Plains Regional Medical Center ransomware attack impacted 133,000 individuals</title>
+      <link>https://securityaffairs.com/171156/data-breach/great-plains-regional-medical-center-data-breach.html</link>
+      <pubDate>Tue, 19 Nov 2024 07:34:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit T-Mobile and Other U.S. Telecoms in Broader Espionage Campaign</title>
+      <link>https://thehackernews.com/2024/11/chinese-hackers-exploit-t-mobile-and.html</link>
+      <pubDate>Tue, 19 Nov 2024 07:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warning: VMware vCenter and Kemp LoadMaster Flaws Under Active Exploitation</title>
+      <link>https://thehackernews.com/2024/11/cisa-alert-active-exploitation-of.html</link>
+      <pubDate>Tue, 19 Nov 2024 06:31:00 +0000</pubDate>
     </item>
     <item>
       <title>Detecting the Presence of a Debugger in Linux, (Tue, Nov 19th)</title>
@@ -263,11 +278,6 @@
       <pubDate>Sat, 16 Nov 2024 17:39:06 +0000</pubDate>
     </item>
     <item>
-      <title>NSO Group used WhatsApp exploits even after Meta-owned company sued it</title>
-      <link>https://securityaffairs.com/171047/security/nso-group-used-whatsapp-exploits-even-after-meta-owned-company-sued-it.html</link>
-      <pubDate>Sat, 16 Nov 2024 11:47:31 +0000</pubDate>
-    </item>
-    <item>
       <title>PAN-OS Firewall Vulnerability Under Active Exploitation – IoCs and Patch Released</title>
       <link>https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html</link>
       <pubDate>Sat, 16 Nov 2024 08:21:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Iranian Hackers Deploy WezRat Malware in Attacks Targeting Israeli Organizations</title>
       <link>https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html</link>
       <pubDate>Fri, 15 Nov 2024 17:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI in SecOps: How AI is Impacting Red and Blue Team Operations</title>
-      <link>https://www.hackerone.com/ai/sans-red-blue-team-ops</link>
-      <pubDate>Fri, 15 Nov 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious QR codes sent in the mail deliver malware</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/11/malicious-qr-codes-sent-in-the-mail-deliver-malware</link>
-      <pubDate>Fri, 15 Nov 2024 16:25:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
