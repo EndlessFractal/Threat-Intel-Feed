@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 14:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 16:26:35 +0000</lastBuildDate>
+    <item>
+      <title>Steve Bellovin’s Retirement Talk</title>
+      <link>https://www.schneier.com/blog/archives/2024/11/steve-bellovins-retirement-talk.html</link>
+      <pubDate>Wed, 20 Nov 2024 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacker obtained documents tied to lawsuit over Matt Gaetz’s sexual misconduct allegations</title>
+      <link>https://securityaffairs.com/171207/security/matt-gaetzs-sexual-misconduct-allegations-doc-compromised.html</link>
+      <pubDate>Wed, 20 Nov 2024 15:33:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Brief: Operation Lunar Peek, Activity Related to CVE-2024-0012 and CVE-2024-9474 (Updated Nov. 19)</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474/</link>
+      <pubDate>Wed, 20 Nov 2024 15:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 20 Nov 2024 14:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Protecting your digital assets from non-human identity attacks</title>
       <link>https://securityintelligence.com/articles/protecting-digital-assets-non-human-identity-attacks/</link>
@@ -28,11 +48,6 @@
       <pubDate>Wed, 20 Nov 2024 13:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 20 Nov 2024 13:00:03 +0000</pubDate>
-    </item>
-    <item>
       <title>UK says a new law banning social media for under-16s is 'on the table'</title>
       <link>https://therecord.media/britain-social-media-ban-children-proposal</link>
       <pubDate>Wed, 20 Nov 2024 12:58:01 +0000</pubDate>
@@ -45,6 +60,11 @@
     <item>
       <title>Apple Issues Emergency Security Update for Actively Exploited Vulnerabilities</title>
       <link>https://www.infosecurity-magazine.com/news/apple-security-update/</link>
+      <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>USDA Releases Success Story Detailing the Implementation of Phishing-Resistant Multi-Factor Authentication</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/11/20/usda-releases-success-story-detailing-implementation-phishing-resistant-multi-factor-authentication</link>
       <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -141,11 +161,6 @@
       <title>Fintech Giant Finastra Investigating Data Breach</title>
       <link>https://krebsonsecurity.com/2024/11/fintech-giant-finastra-investigating-data-breach/</link>
       <pubDate>Wed, 20 Nov 2024 01:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Brief: Operation Lunar Peek, Activity Related to CVE-2024-0012 and CVE-2024-9474 (Updated Nov. 19)</title>
-      <link>https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474/</link>
-      <pubDate>Tue, 19 Nov 2024 23:15:18 +0000</pubDate>
     </item>
     <item>
       <title>Russian Phobos ransomware operator faces cybercrime charges</title>
@@ -291,21 +306,6 @@
       <title>FrostyGoop’s Zoom-In: A Closer Look into the Malware Artifacts, Behaviors and Network Communications</title>
       <link>https://unit42.paloaltonetworks.com/frostygoop-malware-analysis/</link>
       <pubDate>Tue, 19 Nov 2024 11:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malware delivered via malicious QR codes sent in the post</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/malware-malicious-qr-codes-the-post</link>
-      <pubDate>Tue, 19 Nov 2024 10:33:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspected Phobos Ransomware Admin Extradited to US</title>
-      <link>https://www.infosecurity-magazine.com/news/phobos-ransomware-admin-extradited/</link>
-      <pubDate>Tue, 19 Nov 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scammer Black Friday offers: Online shopping threats and dark web sales</title>
-      <link>https://securelist.com/black-friday-report-2024/114589/</link>
-      <pubDate>Tue, 19 Nov 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
