@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 10:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 12:39:51 +0000</lastBuildDate>
+    <item>
+      <title>Apple Issues Emergency Security Update for Actively Exploited Vulnerabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-security-update/</link>
+      <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NHIs Are the Future of Cybersecurity: Meet NHIDR</title>
+      <link>https://thehackernews.com/2024/11/nhis-are-future-of-cybersecurity-meet.html</link>
+      <pubDate>Wed, 20 Nov 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Assessment: Ignoble Scorpius, Distributors of BlackSuit Ransomware</title>
+      <link>https://unit42.paloaltonetworks.com/threat-assessment-blacksuit-ransomware-ignoble-scorpius/</link>
+      <pubDate>Wed, 20 Nov 2024 11:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious QR codes</title>
+      <link>https://blog.talosintelligence.com/malicious_qr_codes/</link>
+      <pubDate>Wed, 20 Nov 2024 11:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 20 Nov 2024 11:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>OWASP Warns of Growing Data Exposure Risk from AI in New Top 10 List for LLMs</title>
+      <link>https://www.infosecurity-magazine.com/news/owasp-data-exposure-risk-ai/</link>
+      <pubDate>Wed, 20 Nov 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple addressed two actively exploited zero-day vulnerabilities</title>
+      <link>https://securityaffairs.com/171202/uncategorized/apple-fixed-2-actively-exploited-zero-day-bugs.html</link>
+      <pubDate>Wed, 20 Nov 2024 10:39:57 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Hijack Jupyter Servers for Sport Stream Ripping</title>
       <link>https://www.infosecurity-magazine.com/news/hijack-jupyter-servers-sport/</link>
@@ -28,11 +63,6 @@
       <pubDate>Wed, 20 Nov 2024 09:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 20 Nov 2024 08:55:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Cybercriminals Exploit Weekend Lull to Launch Ransomware Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/cybercriminals-exploit-weekend/</link>
       <pubDate>Wed, 20 Nov 2024 08:45:00 +0000</pubDate>
@@ -41,6 +71,11 @@
       <title>Unsecured JupyterLab and Jupyter Notebooks servers abused for illegal streaming of Sports events</title>
       <link>https://securityaffairs.com/171193/cyber-crime/misconfigured-jupyterlab-and-jupyter-notebooks-illegal-live-sports-streaming.html</link>
       <pubDate>Wed, 20 Nov 2024 07:32:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Launches Windows Resiliency Initiative to Boost Security and System Integrity</title>
+      <link>https://thehackernews.com/2024/11/microsoft-launches-windows-resiliency.html</link>
+      <pubDate>Wed, 20 Nov 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>China-Backed Hackers Leverage SIGTRAN, GSM Protocols to Infiltrate Telecom Networks</title>
@@ -271,41 +306,6 @@
       <title>Chinese Hackers Exploit T-Mobile and Other U.S. Telecoms in Broader Espionage Campaign</title>
       <link>https://thehackernews.com/2024/11/chinese-hackers-exploit-t-mobile-and.html</link>
       <pubDate>Tue, 19 Nov 2024 07:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warning: VMware vCenter and Kemp LoadMaster Flaws Under Active Exploitation</title>
-      <link>https://thehackernews.com/2024/11/cisa-alert-active-exploitation-of.html</link>
-      <pubDate>Tue, 19 Nov 2024 06:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unveiling LIMINAL PANDA: A Closer Look at China's Cyber Threats to the Telecom Sector</title>
-      <link>https://www.crowdstrike.com/en-us/blog/liminal-panda-telecom-sector-threats/</link>
-      <pubDate>Tue, 19 Nov 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detecting the Presence of a Debugger in Linux, (Tue, Nov 19th)</title>
-      <link>https://isc.sans.edu/diary/rss/31450</link>
-      <pubDate>Tue, 19 Nov 2024 05:12:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, November 19th, 2024 https://isc.sans.edu/podcastdetail/9224, (Tue, Nov 19th)</title>
-      <link>https://isc.sans.edu/diary/rss/31448</link>
-      <pubDate>Tue, 19 Nov 2024 02:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>How REI Strengthens Security with HackerOne’s Global Security Researcher Community</title>
-      <link>https://www.hackerone.com/customer-story/rei-strengthens-security</link>
-      <pubDate>Tue, 19 Nov 2024 00:41:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recently disclosed VMware vCenter Server bugs are actively exploited in attacks</title>
-      <link>https://securityaffairs.com/171147/security/vmware-vcenter-server-bugs-actively-exploited.html</link>
-      <pubDate>Mon, 18 Nov 2024 20:42:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>An air fryer, a ring, and a vacuum get brought into a home. What they take out is your data (Lock and Code S05E24)</title>
-      <link>https://www.malwarebytes.com/blog/uncategorized/2024/11/an-air-fryer-a-ring-and-a-vacuum-get-brought-into-a-home-what-they-take-out-is-your-data-lock-and-code-s05e24</link>
-      <pubDate>Mon, 18 Nov 2024 16:53:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
