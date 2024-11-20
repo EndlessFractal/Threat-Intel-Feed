@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 18:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 20:22:06 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 20 Nov 2024 19:05:03 +0000</pubDate>
+    </item>
     <item>
       <title>Five Privilege Escalation Flaws Found in Ubuntu needrestart</title>
       <link>https://www.infosecurity-magazine.com/news/5-privilege-escalation-flaws/</link>
@@ -31,11 +36,6 @@
       <title>Steve Bellovin’s Retirement Talk</title>
       <link>https://www.schneier.com/blog/archives/2024/11/steve-bellovins-retirement-talk.html</link>
       <pubDate>Wed, 20 Nov 2024 16:22:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 20 Nov 2024 16:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Hacker obtained documents tied to lawsuit over Matt Gaetz’s sexual misconduct allegations</title>
@@ -88,6 +88,11 @@
       <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA and Partners Release Update to BianLian Ransomware Cybersecurity Advisory</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/11/20/cisa-and-partners-release-update-bianlian-ransomware-cybersecurity-advisory</link>
+      <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/11/20/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
@@ -124,7 +129,7 @@
     </item>
     <item>
       <title>Apple addressed two actively exploited zero-day vulnerabilities</title>
-      <link>https://securityaffairs.com/171202/uncategorized/apple-fixed-2-actively-exploited-zero-day-bugs.html</link>
+      <link>https://securityaffairs.com/171202/security/apple-fixed-2-actively-exploited-zero-day-bugs.html</link>
       <pubDate>Wed, 20 Nov 2024 10:39:57 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Why Italy Sells So Much Spyware</title>
       <link>https://www.schneier.com/blog/archives/2024/11/why-italy-sells-so-much-spyware.html</link>
       <pubDate>Tue, 19 Nov 2024 12:05:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upstate New York Resident and Bangladeshi National Charged with Digital Streaming Piracy Scheme</title>
-      <link>https://www.justice.gov/usao-edny/pr/upstate-new-york-resident-and-bangladeshi-national-charged-digital-streaming-piracy</link>
-      <pubDate>Tue, 19 Nov 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
