@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Nov 2024 06:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 08:26:14 +0000</lastBuildDate>
+    <item>
+      <title>Decade-old local privilege escalation bugs impacts Ubuntu needrestart package</title>
+      <link>https://securityaffairs.com/171228/security/privilege-escalation-bugs-ubuntu-needrestart-package.html</link>
+      <pubDate>Thu, 21 Nov 2024 07:44:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closer to the Edge: Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching</title>
+      <link>https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/</link>
+      <pubDate>Thu, 21 Nov 2024 07:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google's AI-Powered OSS-Fuzz Tool Finds 26 Vulnerabilities in Open-Source Projects</title>
+      <link>https://thehackernews.com/2024/11/googles-ai-powered-oss-fuzz-tool-finds.html</link>
+      <pubDate>Thu, 21 Nov 2024 07:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NodeStealer Malware Targets Facebook Ad Accounts, Harvesting Credit Card Data</title>
+      <link>https://thehackernews.com/2024/11/nodestealer-malware-targets-facebook-ad.html</link>
+      <pubDate>Thu, 21 Nov 2024 06:34:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 21 Nov 2024 05:25:02 +0000</pubDate>
+      <pubDate>Thu, 21 Nov 2024 06:20:02 +0000</pubDate>
     </item>
     <item>
       <title>Increase In Phishing SVG Attachments, (Thu, Nov 21st)</title>
@@ -76,6 +96,11 @@
       <title>Threat Brief: Operation Lunar Peek, Activity Related to CVE-2024-0012 and CVE-2024-9474 (Updated Nov. 20)</title>
       <link>https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474/</link>
       <pubDate>Wed, 20 Nov 2024 15:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, November 2024</title>
+      <link>https://asec.ahnlab.com/en/84664/</link>
+      <pubDate>Wed, 20 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Protecting your digital assets from non-human identity attacks</title>
@@ -281,31 +306,6 @@
       <title>The AI Fix #25: Beware of the superintelligence, and a spam-eating AI super gran</title>
       <link>https://grahamcluley.com/the-ai-fix-25/</link>
       <pubDate>Tue, 19 Nov 2024 15:39:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-linked actor’s malware DeepData exploits FortiClient VPN zero-day</title>
-      <link>https://securityaffairs.com/171173/security/china-linked-actors-malware-deepdata-exploits-forticlient-vpn-zero-day.html</link>
-      <pubDate>Tue, 19 Nov 2024 15:05:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Ignite 2024 Unveils Groundbreaking AI, Security, and Teams Innovations</title>
-      <link>https://www.techrepublic.com/article/microsoft-ignite-2024-ai-security-teams-innovations/</link>
-      <pubDate>Tue, 19 Nov 2024 15:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto Networks Patches Critical Firewall Vulnerability</title>
-      <link>https://www.infosecurity-magazine.com/news/palo-alto-patches-critical/</link>
-      <pubDate>Tue, 19 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, November 2024</title>
-      <link>https://asec.ahnlab.com/en/84652/</link>
-      <pubDate>Tue, 19 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free AI editor lures in victims, installs information stealer instead on Windows and Mac</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/11/free-ai-editor-lures-in-victims-installs-information-stealer-instead-on-windows-and-mac</link>
-      <pubDate>Tue, 19 Nov 2024 14:51:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
