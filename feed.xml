@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 22:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 01:38:14 +0000</lastBuildDate>
     <item>
-      <title>Ford data breach involved a third-party supplier</title>
-      <link>https://securityaffairs.com/171217/breaking-news/ford-admits-data-breach-linked-third-party-supplier.html</link>
-      <pubDate>Wed, 20 Nov 2024 21:22:09 +0000</pubDate>
+      <title>FBI says BianLian based in Russia, moving from ransomware attacks to extortion</title>
+      <link>https://therecord.media/fbi-says-bianlian-based-in-russia-switching-tactics</link>
+      <pubDate>Thu, 21 Nov 2024 01:08:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #394: Digital arrest scams and stream-jacking</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-394/</link>
+      <pubDate>Thu, 21 Nov 2024 00:01:54 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 20 Nov 2024 21:10:03 +0000</pubDate>
+      <pubDate>Wed, 20 Nov 2024 23:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ford data breach involved a third-party supplier</title>
+      <link>https://securityaffairs.com/171217/breaking-news/ford-admits-data-breach-linked-third-party-supplier.html</link>
+      <pubDate>Wed, 20 Nov 2024 21:22:09 +0000</pubDate>
     </item>
     <item>
       <title>Phobos ransomware indictment sheds light on long-running, quietly successful scheme</title>
@@ -58,7 +68,7 @@
       <pubDate>Wed, 20 Nov 2024 15:33:01 +0000</pubDate>
     </item>
     <item>
-      <title>Threat Brief: Operation Lunar Peek, Activity Related to CVE-2024-0012 and CVE-2024-9474 (Updated Nov. 19)</title>
+      <title>Threat Brief: Operation Lunar Peek, Activity Related to CVE-2024-0012 and CVE-2024-9474 (Updated Nov. 20)</title>
       <link>https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474/</link>
       <pubDate>Wed, 20 Nov 2024 15:26:18 +0000</pubDate>
     </item>
@@ -91,16 +101,6 @@
       <title>Chinese APT Group Targets Telecom Firms Linked to Belt and Road Initiative</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-apt-targets-telecoms-bri/</link>
       <pubDate>Wed, 20 Nov 2024 12:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Defendants Charged Federally with Running Scheme that Targeted Victim Companies via Phishing Text Messages</title>
-      <link>https://www.justice.gov/usao-cdca/pr/5-defendants-charged-federally-running-scheme-targeted-victim-companies-phishing-text</link>
-      <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Justice Department Seizes Cybercrime Website and Charges Its Administrators</title>
-      <link>https://www.justice.gov/opa/pr/justice-department-seizes-cybercrime-website-and-charges-its-administrators</link>
-      <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apple Issues Emergency Security Update for Actively Exploited Vulnerabilities</title>
@@ -213,11 +213,6 @@
       <pubDate>Wed, 20 Nov 2024 02:45:06 +0000</pubDate>
     </item>
     <item>
-      <title>GAO recommends new agency to streamline how US government protects citizens’ data</title>
-      <link>https://therecord.media/gao-recommends-new-agency-data-privacy-protections</link>
-      <pubDate>Wed, 20 Nov 2024 01:51:46 +0000</pubDate>
-    </item>
-    <item>
       <title>How HackerOne Employees Stay Connected and Have Fun</title>
       <link>https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun</link>
       <pubDate>Wed, 20 Nov 2024 01:15:57 +0000</pubDate>
@@ -305,6 +300,11 @@
     <item>
       <title>Hackers Hijack Unsecured Jupyter Notebooks to Stream Illegal Sports Broadcasts</title>
       <link>https://thehackernews.com/2024/11/hackers-hijack-unsecured-jupyter.html</link>
+      <pubDate>Tue, 19 Nov 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Communication platforms play a major role in data breach risks</title>
+      <link>https://securityintelligence.com/articles/communication-platforms-major-role-in-data-breach-risks/</link>
       <pubDate>Tue, 19 Nov 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
