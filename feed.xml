@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Nov 2024 04:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 06:28:36 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 21 Nov 2024 02:15:02 +0000</pubDate>
+      <pubDate>Thu, 21 Nov 2024 05:25:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Increase In Phishing SVG Attachments, (Thu, Nov 21st)</title>
+      <link>https://isc.sans.edu/diary/rss/31456</link>
+      <pubDate>Thu, 21 Nov 2024 03:26:19 +0000</pubDate>
     </item>
     <item>
       <title>FBI says BianLian based in Russia, moving from ransomware attacks to extortion</title>
@@ -301,11 +306,6 @@
       <title>Free AI editor lures in victims, installs information stealer instead on Windows and Mac</title>
       <link>https://www.malwarebytes.com/blog/news/2024/11/free-ai-editor-lures-in-victims-installs-information-stealer-instead-on-windows-and-mac</link>
       <pubDate>Tue, 19 Nov 2024 14:51:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices</title>
-      <link>https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html</link>
-      <pubDate>Tue, 19 Nov 2024 14:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
