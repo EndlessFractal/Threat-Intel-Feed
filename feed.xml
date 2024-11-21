@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Nov 2024 01:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 02:56:40 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 21 Nov 2024 01:15:03 +0000</pubDate>
+    </item>
     <item>
       <title>FBI says BianLian based in Russia, moving from ransomware attacks to extortion</title>
       <link>https://therecord.media/fbi-says-bianlian-based-in-russia-switching-tactics</link>
@@ -16,11 +21,6 @@
       <title>Smashing Security podcast #394: Digital arrest scams and stream-jacking</title>
       <link>https://grahamcluley.com/smashing-security-podcast-394/</link>
       <pubDate>Thu, 21 Nov 2024 00:01:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 20 Nov 2024 23:15:03 +0000</pubDate>
     </item>
     <item>
       <title>Ford data breach involved a third-party supplier</title>
@@ -101,6 +101,16 @@
       <title>Chinese APT Group Targets Telecom Firms Linked to Belt and Road Initiative</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-apt-targets-telecoms-bri/</link>
       <pubDate>Wed, 20 Nov 2024 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Defendants Charged Federally with Running Scheme that Targeted Victim Companies via Phishing Text Messages</title>
+      <link>https://www.justice.gov/usao-cdca/pr/5-defendants-charged-federally-running-scheme-targeted-victim-companies-phishing-text</link>
+      <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Justice Department Seizes Cybercrime Website and Charges Its Administrators</title>
+      <link>https://www.justice.gov/opa/pr/justice-department-seizes-cybercrime-website-and-charges-its-administrators</link>
+      <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apple Issues Emergency Security Update for Actively Exploited Vulnerabilities</title>
@@ -296,16 +306,6 @@
       <title>Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices</title>
       <link>https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html</link>
       <pubDate>Tue, 19 Nov 2024 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Hijack Unsecured Jupyter Notebooks to Stream Illegal Sports Broadcasts</title>
-      <link>https://thehackernews.com/2024/11/hackers-hijack-unsecured-jupyter.html</link>
-      <pubDate>Tue, 19 Nov 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Communication platforms play a major role in data breach risks</title>
-      <link>https://securityintelligence.com/articles/communication-platforms-major-role-in-data-breach-risks/</link>
-      <pubDate>Tue, 19 Nov 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
