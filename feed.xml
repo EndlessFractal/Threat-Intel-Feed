@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 04:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 06:28:33 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 22 Nov 2024 03:55:03 +0000</pubDate>
+      <pubDate>Fri, 22 Nov 2024 04:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Infostealer Searching for Â« BIP-0039 Â» Data, (Fri, Nov 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/31464</link>
+      <pubDate>Fri, 22 Nov 2024 03:58:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, November 22nd, 2024 https://isc.sans.edu/podcastdetail/9230, (Fri, Nov 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/31462</link>
       <pubDate>Fri, 22 Nov 2024 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gambling and lottery giant disrupted by cyberattack, working to bring systems back online</title>
+      <link>https://therecord.media/gambling-lottery-giant-hit-with-disruptive-cyberattack</link>
+      <pubDate>Thu, 21 Nov 2024 21:33:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft seizes 240 websites used by Egyptian phishing-as-a-service operation ‘ONNX’</title>
+      <link>https://therecord.media/microsoft-seizes-websites-onnx-phishing</link>
+      <pubDate>Thu, 21 Nov 2024 21:11:55 +0000</pubDate>
     </item>
     <item>
       <title>Ransomhub ransomware gang claims the hack of Mexican government Legal Affairs Office</title>
@@ -33,6 +48,11 @@
       <pubDate>Thu, 21 Nov 2024 19:55:01 +0000</pubDate>
     </item>
     <item>
+      <title>Thai court dismisses activist’s closely watched lawsuit against spyware maker</title>
+      <link>https://therecord.media/thai-court-dismisses-activists-lawsuit-spyware</link>
+      <pubDate>Thu, 21 Nov 2024 19:03:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Bidirectional communication via polyrhythms and shuffles: Without Jon the beat must go on</title>
       <link>https://blog.talosintelligence.com/bidirectional-communication-via-polyrhythms-and-shuffles-without-jon-the-beat-must-go-on/</link>
       <pubDate>Thu, 21 Nov 2024 19:02:55 +0000</pubDate>
@@ -41,6 +61,16 @@
       <title>Sophos XDR: New generative AI functionality and case investigation enhancements</title>
       <link>https://news.sophos.com/en-us/2024/11/21/sophos-xdr-new-generative-ai-functionality-and-case-investigation-enhancements/</link>
       <pubDate>Thu, 21 Nov 2024 18:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>'PopeyeTools' marketplace for stolen credit cards disrupted by feds</title>
+      <link>https://therecord.media/popeyetools-stolen-credit-cards-marketplace-takedown</link>
+      <pubDate>Thu, 21 Nov 2024 18:23:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta says it has removed 2 million accounts linked to pig butchering scams</title>
+      <link>https://therecord.media/meta-takedown-pig-butchering-2million-accounts</link>
+      <pubDate>Thu, 21 Nov 2024 18:00:33 +0000</pubDate>
     </item>
     <item>
       <title>Simple macOS kernel extension fuzzing in userspace with IDA and TinyInst</title>
@@ -268,44 +298,14 @@
       <pubDate>Thu, 21 Nov 2024 06:34:00 +0000</pubDate>
     </item>
     <item>
+      <title>Shift Left, Measure Right: Assessing the Efficacy of Application Security in the Age of CI/CD</title>
+      <link>https://www.crowdstrike.com/en-us/blog/shift-left-measure-right-assessing-efficacy-application-security-ci-cd/</link>
+      <pubDate>Thu, 21 Nov 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CrowdStrike and Cribl Expand Partnership with CrowdStream for Next-Gen SIEM</title>
       <link>https://www.crowdstrike.com/en-us/blog/cribl-partnership-crowdstream-expansion/</link>
       <pubDate>Thu, 21 Nov 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Strengthens SMB Security with Seamless Mobile Protection</title>
-      <link>https://www.crowdstrike.com/en-us/blog/smb-security-seamless-mobile-protection/</link>
-      <pubDate>Thu, 21 Nov 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Increase In Phishing SVG Attachments, (Thu, Nov 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/31456</link>
-      <pubDate>Thu, 21 Nov 2024 03:26:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #394: Digital arrest scams and stream-jacking</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-394/</link>
-      <pubDate>Thu, 21 Nov 2024 00:01:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-Aligned TAG-110 Targets Asia and Europe with HATVIBE and CHERRYSPY</title>
-      <link>https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-asia-and-europe</link>
-      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ford data breach involved a third-party supplier</title>
-      <link>https://securityaffairs.com/171217/breaking-news/ford-admits-data-breach-linked-third-party-supplier.html</link>
-      <pubDate>Wed, 20 Nov 2024 21:22:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover</title>
-      <link>https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover</link>
-      <pubDate>Wed, 20 Nov 2024 17:49:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five Privilege Escalation Flaws Found in Ubuntu needrestart</title>
-      <link>https://www.infosecurity-magazine.com/news/5-privilege-escalation-flaws/</link>
-      <pubDate>Wed, 20 Nov 2024 17:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
