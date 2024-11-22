@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 10:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 12:39:21 +0000</lastBuildDate>
     <item>
-      <title>MITRE Unveils Top 25 Most Critical Software Flaws</title>
-      <link>https://www.infosecurity-magazine.com/news/mitre-unveils-top-25-software-flaws/</link>
-      <pubDate>Fri, 22 Nov 2024 10:15:00 +0000</pubDate>
+      <title>The Scale of Geoblocking by Nation</title>
+      <link>https://www.schneier.com/blog/archives/2024/11/the-scale-of-geoblocking-by-nation.html</link>
+      <pubDate>Fri, 22 Nov 2024 12:06:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Deploy HATVIBE and CHERRYSPY Malware Across Europe and Asia</title>
+      <link>https://thehackernews.com/2024/11/russian-hackers-deploy-hatvibe-and.html</link>
+      <pubDate>Fri, 22 Nov 2024 12:06:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 22 Nov 2024 09:55:03 +0000</pubDate>
+      <pubDate>Fri, 22 Nov 2024 11:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three-Quarters of Black Friday Spam Emails Identified as Scams</title>
+      <link>https://www.infosecurity-magazine.com/news/black-friday-spam-emails-scams/</link>
+      <pubDate>Fri, 22 Nov 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unlocking Google Workspace Security: Are You Doing Enough to Protect Your Data?</title>
+      <link>https://thehackernews.com/2024/11/the-importance-of having-a-google-workspace-backup-solution.html</link>
+      <pubDate>Fri, 22 Nov 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Apple, Oracle Agile PLM bugs to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/171282/security/u-s-cisa-adds-apple-oracle-agile-plm-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Fri, 22 Nov 2024 11:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lateral Movement on macOS: Unique and Popular Techniques and In-the-Wild Examples</title>
+      <link>https://unit42.paloaltonetworks.com/unique-popular-techniques-lateral-movement-macos/</link>
+      <pubDate>Fri, 22 Nov 2024 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five Ransomware Groups Responsible for 40% of Cyber-Attacks in 2024</title>
+      <link>https://www.infosecurity-magazine.com/news/five-ransomware-groups-40-of/</link>
+      <pubDate>Fri, 22 Nov 2024 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MITRE Unveils Top 25 Most Critical Software Flaws</title>
+      <link>https://www.infosecurity-magazine.com/news/mitre-unveils-top-25-software-flaws/</link>
+      <pubDate>Fri, 22 Nov 2024 10:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft, Meta, and DOJ Disrupt Global Cybercrime and Fraudulent Networks</title>
@@ -271,41 +306,6 @@
       <title>16-31 August 2024 Cyber Attacks Timeline</title>
       <link>https://www.hackmageddon.com/2024/11/21/16-31-august-2024-cyber-attacks-timeline/</link>
       <pubDate>Thu, 21 Nov 2024 11:11:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 145,000 Industrial Control Systems Across 175 Countries Found Exposed Online</title>
-      <link>https://thehackernews.com/2024/11/over-145000-industrial-control-systems.html</link>
-      <pubDate>Thu, 21 Nov 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actor sells data of over 750,000 patients from a French hospital</title>
-      <link>https://securityaffairs.com/171238/data-breach/sale-750000-patients-french-hospital.html</link>
-      <pubDate>Thu, 21 Nov 2024 10:25:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Fifth of UK Enterprises “Not Sure” If NIS2 Applies</title>
-      <link>https://www.infosecurity-magazine.com/news/fifth-uk-enterprises-not-sure-nis/</link>
-      <pubDate>Thu, 21 Nov 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five Charged in Scattered Spider Case</title>
-      <link>https://www.infosecurity-magazine.com/news/five-charged-in-scattered-spider/</link>
-      <pubDate>Thu, 21 Nov 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Scattered Spider Gang Members Indicted in Multi-Million Dollar Cybercrime Scheme</title>
-      <link>https://thehackernews.com/2024/11/5-scattered-spider-gang-members.html</link>
-      <pubDate>Thu, 21 Nov 2024 09:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, November 21st, 2024 https://isc.sans.edu/podcastdetail/9228, (Thu, Nov 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/31458</link>
-      <pubDate>Thu, 21 Nov 2024 08:50:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decade-old local privilege escalation bugs impacts Ubuntu needrestart package</title>
-      <link>https://securityaffairs.com/171228/security/privilege-escalation-bugs-ubuntu-needrestart-package.html</link>
-      <pubDate>Thu, 21 Nov 2024 07:44:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
