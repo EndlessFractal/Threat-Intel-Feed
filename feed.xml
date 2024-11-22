@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 01:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 02:57:50 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 22 Nov 2024 00:50:03 +0000</pubDate>
+      <pubDate>Fri, 22 Nov 2024 01:50:03 +0000</pubDate>
     </item>
     <item>
       <title>Gambling and lottery giant disrupted by cyberattack, working to bring systems back online</title>
@@ -96,6 +96,11 @@
       <title>Chinese APT Gelsemium Targets Linux Systems with New WolfsBane Backdoor</title>
       <link>https://thehackernews.com/2024/11/chinese-apt-gelsemium-targets-linux.html</link>
       <pubDate>Thu, 21 Nov 2024 15:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 3st Week of November, 2024</title>
+      <link>https://asec.ahnlab.com/en/84672/</link>
+      <pubDate>Thu, 21 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Google OSS-Fuzz Harnesses AI to Expose 26 Hidden Security Vulnerabilities</title>
@@ -283,6 +288,11 @@
       <pubDate>Thu, 21 Nov 2024 06:34:00 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike and Cribl Expand Partnership with CrowdStream for Next-Gen SIEM</title>
+      <link>https://www.crowdstrike.com/en-us/blog/cribl-partnership-crowdstream-expansion/</link>
+      <pubDate>Thu, 21 Nov 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CrowdStrike Strengthens SMB Security with Seamless Mobile Protection</title>
       <link>https://www.crowdstrike.com/en-us/blog/smb-security-seamless-mobile-protection/</link>
       <pubDate>Thu, 21 Nov 2024 06:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Smashing Security podcast #394: Digital arrest scams and stream-jacking</title>
       <link>https://grahamcluley.com/smashing-security-podcast-394/</link>
       <pubDate>Thu, 21 Nov 2024 00:01:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ford data breach involved a third-party supplier</title>
-      <link>https://securityaffairs.com/171217/breaking-news/ford-admits-data-breach-linked-third-party-supplier.html</link>
-      <pubDate>Wed, 20 Nov 2024 21:22:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover</title>
-      <link>https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover</link>
-      <pubDate>Wed, 20 Nov 2024 17:49:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
