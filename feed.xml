@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 06:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 08:26:27 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 22 Nov 2024 04:55:03 +0000</pubDate>
+      <pubDate>Fri, 22 Nov 2024 06:55:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than 2,000 Palo Alto Networks firewalls hacked exploiting recently patched zero-days</title>
+      <link>https://securityaffairs.com/171268/hacking/palo-alto-networks-firewalls-hacked-zero-days.html</link>
+      <pubDate>Fri, 22 Nov 2024 06:24:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries</title>
+      <link>https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html</link>
+      <pubDate>Fri, 22 Nov 2024 06:15:00 +0000</pubDate>
     </item>
     <item>
       <title>An Infostealer Searching for Â« BIP-0039 Â» Data, (Fri, Nov 22nd)</title>
@@ -296,16 +306,6 @@
       <title>NodeStealer Malware Targets Facebook Ad Accounts, Harvesting Credit Card Data</title>
       <link>https://thehackernews.com/2024/11/nodestealer-malware-targets-facebook-ad.html</link>
       <pubDate>Thu, 21 Nov 2024 06:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shift Left, Measure Right: Assessing the Efficacy of Application Security in the Age of CI/CD</title>
-      <link>https://www.crowdstrike.com/en-us/blog/shift-left-measure-right-assessing-efficacy-application-security-ci-cd/</link>
-      <pubDate>Thu, 21 Nov 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike and Cribl Expand Partnership with CrowdStream for Next-Gen SIEM</title>
-      <link>https://www.crowdstrike.com/en-us/blog/cribl-partnership-crowdstream-expansion/</link>
-      <pubDate>Thu, 21 Nov 2024 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
