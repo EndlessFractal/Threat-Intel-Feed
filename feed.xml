@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 22:18:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 01:35:39 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sat, 23 Nov 2024 00:10:03 +0000</pubDate>
+    </item>
     <item>
       <title>Friday Squid Blogging: Transcriptome Analysis of the Indian Squid</title>
       <link>https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-transcriptome-analysis-of-the-indian-squid.html</link>
@@ -36,11 +41,6 @@
       <title>DeliveryHero subsidiary fined $5.2 million for tracking drivers’ geolocation</title>
       <link>https://therecord.media/deliveryhero-subsidiary-fined-5-million-geolocation-data</link>
       <pubDate>Fri, 22 Nov 2024 18:02:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 22 Nov 2024 17:55:03 +0000</pubDate>
     </item>
     <item>
       <title>Price Drop: Get a Lifetime Subscription of FastestVPN for just $25</title>
@@ -128,6 +128,11 @@
       <pubDate>Fri, 22 Nov 2024 11:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Threat Brief: Operation Lunar Peek, Activity Related to CVE-2024-0012 and CVE-2024-9474 (Updated Nov. 22)</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474/</link>
+      <pubDate>Fri, 22 Nov 2024 11:21:18 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. CISA adds Apple, Oracle Agile PLM bugs to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/171282/security/u-s-cisa-adds-apple-oracle-agile-plm-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Fri, 22 Nov 2024 11:07:03 +0000</pubDate>
@@ -136,6 +141,11 @@
       <title>Lateral Movement on macOS: Unique and Popular Techniques and In-the-Wild Examples</title>
       <link>https://unit42.paloaltonetworks.com/unique-popular-techniques-lateral-movement-macos/</link>
       <pubDate>Fri, 22 Nov 2024 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft shares latest intelligence on North Korean and Chinese threat actors at CYBERWARCON</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/11/22/microsoft-shares-latest-intelligence-on-north-korean-and-chinese-threat-actors-at-cyberwarcon/</link>
+      <pubDate>Fri, 22 Nov 2024 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Five Ransomware Groups Responsible for 40% of Cyber-Attacks in 2024</title>
@@ -181,11 +191,6 @@
       <title>ISC Stormcast For Friday, November 22nd, 2024 https://isc.sans.edu/podcastdetail/9230, (Fri, Nov 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/31462</link>
       <pubDate>Fri, 22 Nov 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Consistent Efforts: Veterans’ Causes at Recorded Future</title>
-      <link>https://www.recordedfuture.com/blog/veterans-day-2024</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomhub ransomware gang claims the hack of Mexican government Legal Affairs Office</title>
@@ -301,11 +306,6 @@
       <title>North Korean Front Companies Impersonate U.S. IT Firms to Fund Missile Programs</title>
       <link>https://thehackernews.com/2024/11/north-korean-front-companies.html</link>
       <pubDate>Thu, 21 Nov 2024 12:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secret Service Tracking People’s Locations without Warrant</title>
-      <link>https://www.schneier.com/blog/archives/2024/11/secret-service-tracking-peoples-locations-without-warrant.html</link>
-      <pubDate>Thu, 21 Nov 2024 12:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
