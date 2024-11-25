@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Nov 2024 12:40:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 14:19:14 +0000</lastBuildDate>
     <item>
-      <title>Google Deindexes Chinese Propaganda Network</title>
-      <link>https://www.infosecurity-magazine.com/news/google-deindexes-chinese/</link>
-      <pubDate>Mon, 25 Nov 2024 12:30:00 +0000</pubDate>
+      <title>Splunk: How to Output Nested json as One Field</title>
+      <link>https://socprime.com/blog/splunk-how-to-output-nested-json-as-one-field/</link>
+      <pubDate>Mon, 25 Nov 2024 14:03:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malware campaign abused flawed Avast Anti-Rootkit driver</title>
+      <link>https://securityaffairs.com/171340/hacking/avast-anti-rootkit-driver-abused-malware-campaign.html</link>
+      <pubDate>Mon, 25 Nov 2024 13:50:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Hilariously insecure”: Andrew Tate’s The Real World breached, 800,000 users affected</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/11/hilariously-insecure-andrew-tates-the-real-world-breached-800000-users-affected</link>
+      <pubDate>Mon, 25 Nov 2024 13:49:09 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 25 Nov 2024 12:10:02 +0000</pubDate>
+      <pubDate>Mon, 25 Nov 2024 13:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The strange case of disappearing Russian servers, (Mon, Nov 25th)</title>
+      <link>https://isc.sans.edu/diary/rss/31476</link>
+      <pubDate>Mon, 25 Nov 2024 13:13:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Finding vulnerabilities in ClipSp, the driver at the core of Windows’ Client License Platform</title>
+      <link>https://blog.talosintelligence.com/finding-vulnerabilities-in-clipsp-the-driver-at-the-core-of-windows-client-license-platform/</link>
+      <pubDate>Mon, 25 Nov 2024 13:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Deindexes Chinese Propaganda Network</title>
+      <link>https://www.infosecurity-magazine.com/news/google-deindexes-chinese/</link>
+      <pubDate>Mon, 25 Nov 2024 12:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Security Analysis of the MERGE Voting Protocol</title>
@@ -113,7 +138,7 @@
       <pubDate>Sun, 24 Nov 2024 10:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quick &amp; Dirty Obfuscated JavaScript Analysis, (Sun, Nov 24th)</title>
+      <title>&amp;#xa;Quick &amp; Dirty Obfuscated JavaScript Analysis, (Sun, Nov 24th)</title>
       <link>https://isc.sans.edu/diary/rss/31468</link>
       <pubDate>Sun, 24 Nov 2024 09:22:41 +0000</pubDate>
     </item>
@@ -281,31 +306,6 @@
       <title>Lateral Movement on macOS: Unique and Popular Techniques and In-the-Wild Examples</title>
       <link>https://unit42.paloaltonetworks.com/unique-popular-techniques-lateral-movement-macos/</link>
       <pubDate>Fri, 22 Nov 2024 11:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five Ransomware Groups Responsible for 40% of Cyber-Attacks in 2024</title>
-      <link>https://www.infosecurity-magazine.com/news/five-ransomware-groups-40-of/</link>
-      <pubDate>Fri, 22 Nov 2024 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MITRE Unveils Top 25 Most Critical Software Flaws</title>
-      <link>https://www.infosecurity-magazine.com/news/mitre-unveils-top-25-software-flaws/</link>
-      <pubDate>Fri, 22 Nov 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft, Meta, and DOJ Disrupt Global Cybercrime and Fraudulent Networks</title>
-      <link>https://thehackernews.com/2024/11/microsoft-meta-and-doj-disrupt-global.html</link>
-      <pubDate>Fri, 22 Nov 2024 09:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manufacturing Sector in the Crosshairs of Advanced Email Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/manufacturing-advanced-email/</link>
-      <pubDate>Fri, 22 Nov 2024 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>More than 2,000 Palo Alto Networks firewalls hacked exploiting recently patched zero-days</title>
-      <link>https://securityaffairs.com/171268/hacking/palo-alto-networks-firewalls-hacked-zero-days.html</link>
-      <pubDate>Fri, 22 Nov 2024 06:24:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
