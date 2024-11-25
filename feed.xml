@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Nov 2024 14:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 16:26:07 +0000</lastBuildDate>
+    <item>
+      <title>Extracting fields in SPL</title>
+      <link>https://socprime.com/blog/extracting-fields-in-spl/</link>
+      <pubDate>Mon, 25 Nov 2024 16:23:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta lawsuit over Cambridge Analytica privacy scandal to proceed, Supreme Court rules</title>
+      <link>https://therecord.media/meta-cambridge-analytica-lawsuit-privacy</link>
+      <pubDate>Mon, 25 Nov 2024 16:04:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elastic Flattened Fields Explained</title>
+      <link>https://socprime.com/blog/elastic-flattened-fields-explained/</link>
+      <pubDate>Mon, 25 Nov 2024 15:53:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 25 Nov 2024 15:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify, Audible, and Amazon used to push dodgy forex trading sites and more</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/11/spotify-audible-and-amazon-used-to-push-dodgy-forex-trading-sites-and-more</link>
+      <pubDate>Mon, 25 Nov 2024 14:53:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Splunk: How to Make Lookup Based on Wildcards</title>
+      <link>https://socprime.com/blog/splunk-how-to-make-lookup-based-on-wildcards/</link>
+      <pubDate>Mon, 25 Nov 2024 14:42:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google's New Restore Credentials Tool Simplifies App Login After Android Migration</title>
+      <link>https://thehackernews.com/2024/11/googles-new-restore-credentials-tool.html</link>
+      <pubDate>Mon, 25 Nov 2024 14:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>Splunk: How to Output Nested json as One Field</title>
       <link>https://socprime.com/blog/splunk-how-to-output-nested-json-as-one-field/</link>
       <pubDate>Mon, 25 Nov 2024 14:03:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>PyPI Python Library "aiocpa" Found Exfiltrating Crypto Keys via Telegram Bot</title>
+      <link>https://thehackernews.com/2024/11/pypi-python-library-aiocpa-found.html</link>
+      <pubDate>Mon, 25 Nov 2024 13:54:00 +0000</pubDate>
     </item>
     <item>
       <title>Malware campaign abused flawed Avast Anti-Rootkit driver</title>
@@ -23,14 +63,9 @@
       <pubDate>Mon, 25 Nov 2024 13:49:09 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 25 Nov 2024 13:15:02 +0000</pubDate>
-    </item>
-    <item>
       <title>The strange case of disappearing Russian servers, (Mon, Nov 25th)</title>
       <link>https://isc.sans.edu/diary/rss/31476</link>
-      <pubDate>Mon, 25 Nov 2024 13:13:08 +0000</pubDate>
+      <pubDate>Mon, 25 Nov 2024 13:34:45 +0000</pubDate>
     </item>
     <item>
       <title>Finding vulnerabilities in ClipSp, the driver at the core of Windows’ Client License Platform</title>
@@ -203,11 +238,6 @@
       <pubDate>Fri, 22 Nov 2024 18:51:57 +0000</pubDate>
     </item>
     <item>
-      <title>DeliveryHero subsidiary fined $5.2 million for tracking drivers’ geolocation</title>
-      <link>https://therecord.media/deliveryhero-subsidiary-fined-5-million-geolocation-data</link>
-      <pubDate>Fri, 22 Nov 2024 18:02:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Price Drop: Get a Lifetime Subscription of FastestVPN for just $25</title>
       <link>https://www.techrepublic.com/article/top-vpn-employee-price/</link>
       <pubDate>Fri, 22 Nov 2024 17:15:35 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Man Sentenced to More Than Three Years in Federal Prison for Threatening Law Enforcement and Illegally Possessing Firearms</title>
       <link>https://www.justice.gov/usao-ndil/pr/man-sentenced-more-three-years-federal-prison-threatening-law-enforcement-and</link>
       <pubDate>Fri, 22 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Chicago-Area Residents Sentenced to Federal Prison for Conducting Online Inheritance and Romance Scams</title>
-      <link>https://www.justice.gov/usao-ndil/pr/two-chicago-area-residents-sentenced-federal-prison-conducting-online-inheritance-and</link>
-      <pubDate>Fri, 22 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three-Quarters of Black Friday Spam Emails Identified as Scams</title>
-      <link>https://www.infosecurity-magazine.com/news/black-friday-spam-emails-scams/</link>
-      <pubDate>Fri, 22 Nov 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unlocking Google Workspace Security: Are You Doing Enough to Protect Your Data?</title>
-      <link>https://thehackernews.com/2024/11/the-importance-of having-a-google-workspace-backup-solution.html</link>
-      <pubDate>Fri, 22 Nov 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Brief: Operation Lunar Peek, Activity Related to CVE-2024-0012 and CVE-2024-9474 (Updated Nov. 22)</title>
-      <link>https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474/</link>
-      <pubDate>Fri, 22 Nov 2024 11:21:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Apple, Oracle Agile PLM bugs to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/171282/security/u-s-cisa-adds-apple-oracle-agile-plm-bugs-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Fri, 22 Nov 2024 11:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lateral Movement on macOS: Unique and Popular Techniques and In-the-Wild Examples</title>
-      <link>https://unit42.paloaltonetworks.com/unique-popular-techniques-lateral-movement-macos/</link>
-      <pubDate>Fri, 22 Nov 2024 11:00:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
