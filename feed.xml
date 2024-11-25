@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Nov 2024 10:22:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 12:40:46 +0000</lastBuildDate>
     <item>
-      <title>Meta Shutters Two Million Scam Accounts in Two-Year Crackdown</title>
-      <link>https://www.infosecurity-magazine.com/news/meta-shutters-two-million-scam/</link>
-      <pubDate>Mon, 25 Nov 2024 10:15:00 +0000</pubDate>
+      <title>Google Deindexes Chinese Propaganda Network</title>
+      <link>https://www.infosecurity-magazine.com/news/google-deindexes-chinese/</link>
+      <pubDate>Mon, 25 Nov 2024 12:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 25 Nov 2024 10:05:03 +0000</pubDate>
+      <pubDate>Mon, 25 Nov 2024 12:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Analysis of the MERGE Voting Protocol</title>
+      <link>https://www.schneier.com/blog/archives/2024/11/security-analysis-of-the-merge-voting-protocol.html</link>
+      <pubDate>Mon, 25 Nov 2024 12:09:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flying Under the Radar - Security Evasion Techniques</title>
+      <link>https://thehackernews.com/2024/11/flying-under-radar-security-evasion.html</link>
+      <pubDate>Mon, 25 Nov 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>THN Recap: Top Cybersecurity Threats, Tools, and Practices (Nov 18 - Nov 24)</title>
+      <link>https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_25.html</link>
+      <pubDate>Mon, 25 Nov 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Blind Spots in IaC and PaC Tools Expose Cloud Platforms to New Attacks</title>
+      <link>https://thehackernews.com/2024/11/cybersecurity-flaws-in-iac-and-pac.html</link>
+      <pubDate>Mon, 25 Nov 2024 11:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Launches AI Security Lab to Combat Russian Cyber Threats</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-ai-security-lab-russia/</link>
+      <pubDate>Mon, 25 Nov 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackSuit Ransomware Detection: Ignoble Scorpius Escalates Attacks, Targets 90+ Organizations Worldwide</title>
+      <link>https://socprime.com/blog/blacksuit-ransomware-detection-ignoble-scorpius/</link>
+      <pubDate>Mon, 25 Nov 2024 10:44:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Shutters Two Million Scam Accounts in Two-Year Crackdown</title>
+      <link>https://www.infosecurity-magazine.com/news/meta-shutters-two-million-scam/</link>
+      <pubDate>Mon, 25 Nov 2024 10:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Advanced threat predictions for 2025</title>
@@ -271,41 +306,6 @@
       <title>More than 2,000 Palo Alto Networks firewalls hacked exploiting recently patched zero-days</title>
       <link>https://securityaffairs.com/171268/hacking/palo-alto-networks-firewalls-hacked-zero-days.html</link>
       <pubDate>Fri, 22 Nov 2024 06:24:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries</title>
-      <link>https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html</link>
-      <pubDate>Fri, 22 Nov 2024 06:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gulf Bank Swaps Four Security Products for the CrowdStrike Falcon Platform, Saving Time and Money</title>
-      <link>https://www.crowdstrike.com/en-us/blog/gulf-bank-saves-with-crowdstrike/</link>
-      <pubDate>Fri, 22 Nov 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Partners with MITRE Center for Threat-Informed Defense to Launch Secure AI Project</title>
-      <link>https://www.crowdstrike.com/en-us/blog/mitre-center-for-threat-informed-defense-secure-ai-project-partnership/</link>
-      <pubDate>Fri, 22 Nov 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Infostealer Searching for Â« BIP-0039 Â» Data, (Fri, Nov 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/31464</link>
-      <pubDate>Fri, 22 Nov 2024 03:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, November 22nd, 2024 https://isc.sans.edu/podcastdetail/9230, (Fri, Nov 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/31462</link>
-      <pubDate>Fri, 22 Nov 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Consistent Efforts: Veterans’ Causes at Recorded Future</title>
-      <link>https://www.recordedfuture.com/blog/veterans-day-2024</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feds Charge Five Men in ‘Scattered Spider’ Roundup</title>
-      <link>https://krebsonsecurity.com/2024/11/feds-charge-five-men-in-scattered-spider-roundup/</link>
-      <pubDate>Thu, 21 Nov 2024 20:13:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
