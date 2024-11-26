@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Nov 2024 14:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 16:27:16 +0000</lastBuildDate>
+    <item>
+      <title>The AI Fix #26: Would AI kill sentient robots, and is water wet?</title>
+      <link>https://grahamcluley.com/the-ai-fix-26/</link>
+      <pubDate>Tue, 26 Nov 2024 16:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>African cybercrime crackdown culminates in 1,006 captured and cuffed</title>
+      <link>https://therecord.media/interpol-afripol-cybercrime-arrests</link>
+      <pubDate>Tue, 26 Nov 2024 15:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 26 Nov 2024 15:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data leaks from websites built on Microsoft Power Pages, including 1.1 million NHS records</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/data-leaks-microsoft-power-pages-nhs-records</link>
+      <pubDate>Tue, 26 Nov 2024 15:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>NHS Trust Declares Major Incident for “Cybersecurity Reasons”</title>
+      <link>https://www.infosecurity-magazine.com/news/nhs-trust-major-incident/</link>
+      <pubDate>Tue, 26 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2024 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2024/11/26/august-2024-cyber-attacks-timeline/</link>
+      <pubDate>Tue, 26 Nov 2024 14:38:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incident response diplomacy: UK to launch new capability to help attacked allies</title>
+      <link>https://therecord.media/uk-to-launch-cyber-incident-response-capability-for-allies</link>
+      <pubDate>Tue, 26 Nov 2024 14:26:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>'CyberVolk' hacktivists use ransomware in support of Russian interests</title>
+      <link>https://therecord.media/cybervolk-india-hacktivists-russia-ransomware</link>
+      <pubDate>Tue, 26 Nov 2024 14:22:52 +0000</pubDate>
+    </item>
     <item>
       <title>Darknet Services Fuel Holiday Scams and E-Commerce Exploits</title>
       <link>https://www.infosecurity-magazine.com/news/darknet-services-fuel-holiday-scams/</link>
@@ -48,9 +88,14 @@
       <pubDate>Tue, 26 Nov 2024 12:01:41 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 26 Nov 2024 11:45:03 +0000</pubDate>
+      <title>Schneider Electric PowerLogic PM55xx and PowerLogic PM8ECC</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-01</link>
+      <pubDate>Tue, 26 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric PowerLogic P5</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-02</link>
+      <pubDate>Tue, 26 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Intruder Launches Intel: A Free Vulnerability Intelligence Platform For Staying Ahead of the Latest Threats</title>
@@ -113,19 +158,19 @@
       <pubDate>Tue, 26 Nov 2024 00:29:35 +0000</pubDate>
     </item>
     <item>
+      <title>"Operation Undercut" Shows Multifaceted Nature of SDA’s Influence Operations</title>
+      <link>https://www.recordedfuture.com/research/operation-undercut-shows-multifaceted-nature-sdas-influence-operations</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scam Websites Take Advantage of Seasonal Openings and Established Methods to Maximize Impact</title>
+      <link>https://www.recordedfuture.com/research/scam-websites-take-advantage-of-seasonal-openings</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>5 Insights Attendees Gained from the Security@ World Tour</title>
       <link>https://www.hackerone.com/security-at/world-tour-insights</link>
       <pubDate>Mon, 25 Nov 2024 22:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former Verizon employee gets four-year sentence for sharing cyber secrets with Chinese government</title>
-      <link>https://therecord.media/former-verizon-worker-sentenced-china</link>
-      <pubDate>Mon, 25 Nov 2024 22:27:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>New York fines Geico, Travelers $11 million for exposed driver’s license numbers</title>
-      <link>https://therecord.media/new-york-fines-auto-insurers-11-million-leaked-data</link>
-      <pubDate>Mon, 25 Nov 2024 21:27:51 +0000</pubDate>
     </item>
     <item>
       <title>Zyxel firewalls targeted in recent ransomware attacks</title>
@@ -136,11 +181,6 @@
       <title>Top 5 Disaster Recovery Companies for 2024</title>
       <link>https://www.techrepublic.com/article/draas-providers/</link>
       <pubDate>Mon, 25 Nov 2024 21:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s Salt Typhoon hackers target telecom firms in Southeast Asia with new malware</title>
-      <link>https://therecord.media/china-salt-typhoon-targets-southeast-asia-telecom</link>
-      <pubDate>Mon, 25 Nov 2024 20:22:35 +0000</pubDate>
     </item>
     <item>
       <title>S Ventures Invests in poolside, Next Generation AI for Software Engineering</title>
@@ -266,46 +306,6 @@
       <title>Cybersecurity Blind Spots in IaC and PaC Tools Expose Cloud Platforms to New Attacks</title>
       <link>https://thehackernews.com/2024/11/cybersecurity-flaws-in-iac-and-pac.html</link>
       <pubDate>Mon, 25 Nov 2024 11:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Launches AI Security Lab to Combat Russian Cyber Threats</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-ai-security-lab-russia/</link>
-      <pubDate>Mon, 25 Nov 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BlackSuit Ransomware Detection: Ignoble Scorpius Escalates Attacks, Targets 90+ Organizations Worldwide</title>
-      <link>https://socprime.com/blog/blacksuit-ransomware-detection-ignoble-scorpius/</link>
-      <pubDate>Mon, 25 Nov 2024 10:44:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Shutters Two Million Scam Accounts in Two-Year Crackdown</title>
-      <link>https://www.infosecurity-magazine.com/news/meta-shutters-two-million-scam/</link>
-      <pubDate>Mon, 25 Nov 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advanced threat predictions for 2025</title>
-      <link>https://securelist.com/ksb-apt-predictions-2025/114582/</link>
-      <pubDate>Mon, 25 Nov 2024 10:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked APT TAG-110 uses targets Europe and Asia</title>
-      <link>https://securityaffairs.com/171343/apt/tag-110-targets-asia-europe.html</link>
-      <pubDate>Mon, 25 Nov 2024 09:52:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICO Urges More Data Sharing to Tackle Fraud Epidemic</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-urges-data-sharing-tackle/</link>
-      <pubDate>Mon, 25 Nov 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover Malware Using BYOVD to Bypass Antivirus Protections</title>
-      <link>https://thehackernews.com/2024/11/researchers-uncover-malware-using-byovd.html</link>
-      <pubDate>Mon, 25 Nov 2024 09:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked threat actors threaten the UK and its allies, minister to say</title>
-      <link>https://securityaffairs.com/171357/intelligence/russia-linked-threat-actors-threaten-uk.html</link>
-      <pubDate>Mon, 25 Nov 2024 08:20:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
