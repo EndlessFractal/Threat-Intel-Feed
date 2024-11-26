@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Nov 2024 16:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 18:28:38 +0000</lastBuildDate>
+    <item>
+      <title>Canadian privacy regulators publish details of medical testing company’s data breach</title>
+      <link>https://therecord.media/canadian-privacy-regulators-publish-life-labs-investigation</link>
+      <pubDate>Tue, 26 Nov 2024 18:02:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s up India? PixPirate is back and spreading via WhatsApp</title>
+      <link>https://securityintelligence.com/posts/pixpirate-back-spreading-via-whatsapp/</link>
+      <pubDate>Tue, 26 Nov 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New DDoS Campaign Exploits IoT Devices and Server Misconfigurations</title>
+      <link>https://www.infosecurity-magazine.com/news/ddos-campaign-exploits-iot-devices/</link>
+      <pubDate>Tue, 26 Nov 2024 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>The AI Fix #26: Would AI kill sentient robots, and is water wet?</title>
       <link>https://grahamcluley.com/the-ai-fix-26/</link>
@@ -98,6 +113,26 @@
       <pubDate>Tue, 26 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Schneider Electric EcoStruxure Control Expert, EcoStruxure Process Expert, and Modicon M340, M580 and M580 Safety PLCs</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-03</link>
+      <pubDate>Tue, 26 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy MicroSCADA Pro/X SYS600</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-04</link>
+      <pubDate>Tue, 26 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy RTU500 Scripting Interface</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-05</link>
+      <pubDate>Tue, 26 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Six Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/11/26/cisa-releases-six-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 26 Nov 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Intruder Launches Intel: A Free Vulnerability Intelligence Platform For Staying Ahead of the Latest Threats</title>
       <link>https://thehackernews.com/2024/11/intruder-launches-intel-free.html</link>
       <pubDate>Tue, 26 Nov 2024 11:30:00 +0000</pubDate>
@@ -151,11 +186,6 @@
       <title>ISC Stormcast For Tuesday, November 26th, 2024 https://isc.sans.edu/podcastdetail/9232, (Tue, Nov 26th)</title>
       <link>https://isc.sans.edu/diary/rss/31478</link>
       <pubDate>Tue, 26 Nov 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retailers struggle after ransomware attack on supply chain tech provider Blue Yonder</title>
-      <link>https://therecord.media/retailers-struggle-after-ransomware-attack-on-supply-chain-tech-company</link>
-      <pubDate>Tue, 26 Nov 2024 00:29:35 +0000</pubDate>
     </item>
     <item>
       <title>"Operation Undercut" Shows Multifaceted Nature of SDA’s Influence Operations</title>
@@ -276,36 +306,6 @@
       <title>Google Deindexes Chinese Propaganda Network</title>
       <link>https://www.infosecurity-magazine.com/news/google-deindexes-chinese/</link>
       <pubDate>Mon, 25 Nov 2024 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Analysis of the MERGE Voting Protocol</title>
-      <link>https://www.schneier.com/blog/archives/2024/11/security-analysis-of-the-merge-voting-protocol.html</link>
-      <pubDate>Mon, 25 Nov 2024 12:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio Man Indicted in South Carolina for Exploiting and Stalking Minors on Social Media</title>
-      <link>https://www.justice.gov/usao-sc/pr/ohio-man-indicted-south-carolina-exploiting-and-stalking-minors-social-media</link>
-      <pubDate>Mon, 25 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/11/25/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Mon, 25 Nov 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flying Under the Radar - Security Evasion Techniques</title>
-      <link>https://thehackernews.com/2024/11/flying-under-radar-security-evasion.html</link>
-      <pubDate>Mon, 25 Nov 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>THN Recap: Top Cybersecurity Threats, Tools, and Practices (Nov 18 - Nov 24)</title>
-      <link>https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_25.html</link>
-      <pubDate>Mon, 25 Nov 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Blind Spots in IaC and PaC Tools Expose Cloud Platforms to New Attacks</title>
-      <link>https://thehackernews.com/2024/11/cybersecurity-flaws-in-iac-and-pac.html</link>
-      <pubDate>Mon, 25 Nov 2024 11:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
