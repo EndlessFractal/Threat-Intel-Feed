@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 01:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 03:01:00 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 27 Nov 2024 01:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Hacker in Snowflake Extortions May Be a U.S. Soldier</title>
       <link>https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/</link>
       <pubDate>Wed, 27 Nov 2024 00:45:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 26 Nov 2024 23:55:02 +0000</pubDate>
     </item>
     <item>
       <title>Software firm Blue Yonder providing services to US and UK stores, including Starbucks, hit by ransomware attack</title>
@@ -81,6 +81,11 @@
       <title>NHS Trust Declares Major Incident for “Cybersecurity Reasons”</title>
       <link>https://www.infosecurity-magazine.com/news/nhs-trust-major-incident/</link>
       <pubDate>Tue, 26 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2024 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2024/11/26/august-2024-cyber-attacks-timeline/</link>
+      <pubDate>Tue, 26 Nov 2024 14:38:44 +0000</pubDate>
     </item>
     <item>
       <title>Incident response diplomacy: UK to launch new capability to help attacked allies</title>
@@ -301,11 +306,6 @@
       <title>Splunk: How to Output Nested json as One Field</title>
       <link>https://socprime.com/blog/splunk-how-to-output-nested-json-as-one-field/</link>
       <pubDate>Mon, 25 Nov 2024 14:03:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>PyPI Python Library "aiocpa" Found Exfiltrating Crypto Keys via Telegram Bot</title>
-      <link>https://thehackernews.com/2024/11/pypi-python-library-aiocpa-found.html</link>
-      <pubDate>Mon, 25 Nov 2024 13:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
