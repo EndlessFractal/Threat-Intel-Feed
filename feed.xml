@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 12:40:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 14:19:07 +0000</lastBuildDate>
+    <item>
+      <title>Making Use of Building Block Rules in Elastic</title>
+      <link>https://socprime.com/blog/making-use-of-building-block-rules-in-elastic/</link>
+      <pubDate>Wed, 27 Nov 2024 14:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>What makes a trailblazer? Inspired by John Mulaney’s Dreamforce roast</title>
+      <link>https://securityintelligence.com/articles/what-makes-a-trailblazer-inspired-by-john-mulaneys-dreamforce-roast/</link>
+      <pubDate>Wed, 27 Nov 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 27 Nov 2024 13:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fields Aren’t Always Faster, Keyword Searches to Speed Up Splunk</title>
+      <link>https://socprime.com/blog/fields-arent-always-faster-keyword-searches-to-speed-up-splunk/</link>
+      <pubDate>Wed, 27 Nov 2024 12:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Serengeti: INTERPOL arrested 1,006 suspects in 19 African countries</title>
+      <link>https://securityaffairs.com/171462/cyber-crime/operation-serengeti-interpol.html</link>
+      <pubDate>Wed, 27 Nov 2024 12:07:28 +0000</pubDate>
+    </item>
     <item>
       <title>NSO Group Spies on People on Behalf of Governments</title>
       <link>https://www.schneier.com/blog/archives/2024/11/nso-group-spies-on-people-on-behalf-of-governments.html</link>
@@ -18,24 +43,24 @@
       <pubDate>Wed, 27 Nov 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Researchers Discover "Bootkitty" – First UEFI Bootkit Targeting Linux Kernels</title>
+      <link>https://thehackernews.com/2024/11/researchers-discover-bootkitty-first.html</link>
+      <pubDate>Wed, 27 Nov 2024 11:59:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Making Use of Fillnull and Values() to Increase Rule Resiliency in Splunk</title>
       <link>https://socprime.com/blog/fillnull-and-values-to-increase-rule-resiliency-in-splunk/</link>
       <pubDate>Wed, 27 Nov 2024 11:41:25 +0000</pubDate>
     </item>
     <item>
-      <title>APT-C-60 Exploits WPS Office Vulnerability to Deploy SpyGlace Backdoor</title>
+      <title>Latest Multi-Stage Attack Scenarios with Real-World Examples</title>
+      <link>https://thehackernews.com/2024/11/latest-multi-stage-attack-scenarios.html</link>
+      <pubDate>Wed, 27 Nov 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT-C-60 Hackers Exploit StatCounter and Bitbucket in SpyGlace Malware Campaign</title>
       <link>https://thehackernews.com/2024/11/apt-c-60-exploits-wps-office.html</link>
       <pubDate>Wed, 27 Nov 2024 11:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 27 Nov 2024 11:10:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>SANS ISC Internship Setup: AWS DShield Sensor + DShield SIEM [Guest Diary], (Tue, Nov 26th)</title>
-      <link>https://isc.sans.edu/diary/rss/31480</link>
-      <pubDate>Wed, 27 Nov 2024 11:09:45 +0000</pubDate>
     </item>
     <item>
       <title>Russian RomCom APT Group Leverages Zero-Day Flaws in Firefox and Windows</title>
@@ -281,31 +306,6 @@
       <title>Analysis of Elpaco: a Mimic variant</title>
       <link>https://securelist.com/elpaco-ransomware-a-mimic-variant/114635/</link>
       <pubDate>Tue, 26 Nov 2024 10:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Array Networks AG and vxAG ArrayOS flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/171395/hacking/u-s-cisa-adds-array-networks-ag-and-vxag-arrayos-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Tue, 26 Nov 2024 09:36:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Scam Losses Surge 50% Annually to £11.4bn</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-scam-losses-surge-50-annually/</link>
-      <pubDate>Tue, 26 Nov 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thai police arrested Chinese hackers involved in SMS blaster attacks</title>
-      <link>https://securityaffairs.com/171406/cyber-crime/sms-blaster-attacks-bangkok.html</link>
-      <pubDate>Tue, 26 Nov 2024 06:26:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aflac Drives Consolidation with the Falcon Platform, Eliminating 15 Point Security Tools in Three Years</title>
-      <link>https://www.crowdstrike.com/en-us/blog/aflac-consolidates-security-with-crowdstrike/</link>
-      <pubDate>Tue, 26 Nov 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Urges Agencies to Patch Critical "Array Networks" Flaw Amid Active Attacks</title>
-      <link>https://thehackernews.com/2024/11/cisa-urges-agencies-to-patch-critical.html</link>
-      <pubDate>Tue, 26 Nov 2024 05:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
