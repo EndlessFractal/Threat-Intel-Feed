@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Nov 2024 12:41:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 14:19:05 +0000</lastBuildDate>
     <item>
-      <title>How to Retrieve and Restore Snapshots from S3 Repository in OpenSearch</title>
-      <link>https://socprime.com/blog/how-to-retrieve-and-restore-snapshots/</link>
-      <pubDate>Thu, 28 Nov 2024 12:34:31 +0000</pubDate>
+      <title>Handling the Dynamic Pruning Failure in Cardinality Aggregations in Elasticsearch</title>
+      <link>https://socprime.com/blog/knowledge-bits/dynamic-pruning-failure-in-cardinality-aggregations/</link>
+      <pubDate>Thu, 28 Nov 2024 14:05:54 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 28 Nov 2024 12:20:03 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2024 13:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenSearch Alert Monitoring: High CPU Usage Example</title>
+      <link>https://socprime.com/blog/knowledge-bits/high-cpu-usage-example/</link>
+      <pubDate>Thu, 28 Nov 2024 13:03:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Actors Exploit ProjectSend Critical Vulnerability</title>
+      <link>https://www.infosecurity-magazine.com/news/exploit-projectsend-critical/</link>
+      <pubDate>Thu, 28 Nov 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Retrieve and Restore Snapshots from S3 Repository in OpenSearch</title>
+      <link>https://socprime.com/blog/knowledge-bits/how-to-retrieve-and-restore-snapshots/</link>
+      <pubDate>Thu, 28 Nov 2024 12:34:31 +0000</pubDate>
     </item>
     <item>
       <title>The Future of Serverless Security in 2025: From Logs to Runtime Protection</title>
@@ -291,21 +306,6 @@
       <title>Explained: the Microsoft connected experiences controversy</title>
       <link>https://www.malwarebytes.com/blog/news/2024/11/explained-the-microsoft-connected-experiences-controversy</link>
       <pubDate>Tue, 26 Nov 2024 20:59:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Guest Diary] Using Zeek, Snort, and Grafana to Detect Crypto Mining Malware, (Tue, Nov 26th)</title>
-      <link>https://isc.sans.edu/diary/rss/31472</link>
-      <pubDate>Tue, 26 Nov 2024 20:07:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>A milestone for Sophos NDR: 1,000 customers and counting</title>
-      <link>https://news.sophos.com/en-us/2024/11/26/a-milestone-for-sophos-ndr-1000-customers-and-counting/</link>
-      <pubDate>Tue, 26 Nov 2024 19:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australia Passes Groundbreaking Cyber Security Law to Boost Resilience</title>
-      <link>https://www.techrepublic.com/article/australia-cyber-security-law-passed/</link>
-      <pubDate>Tue, 26 Nov 2024 19:02:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
