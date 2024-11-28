@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Nov 2024 10:22:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 12:41:23 +0000</lastBuildDate>
+    <item>
+      <title>How to Retrieve and Restore Snapshots from S3 Repository in OpenSearch</title>
+      <link>https://socprime.com/blog/how-to-retrieve-and-restore-snapshots/</link>
+      <pubDate>Thu, 28 Nov 2024 12:34:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 28 Nov 2024 12:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Future of Serverless Security in 2025: From Logs to Runtime Protection</title>
+      <link>https://thehackernews.com/2024/11/the-future-of-serverless-security-in.html</link>
+      <pubDate>Thu, 28 Nov 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerabilities Discovered in Industrial Wireless Access Point</title>
+      <link>https://www.infosecurity-magazine.com/news/critical-vulnerabilities/</link>
+      <pubDate>Thu, 28 Nov 2024 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XMLRPC npm Library Turns Malicious, Steals Data, Deploys Crypto Miner</title>
+      <link>https://thehackernews.com/2024/11/xmlrpc-npm-library-turns-malicious.html</link>
+      <pubDate>Thu, 28 Nov 2024 10:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creating Snapshot Management Policies with Keystore Integration and Slack Notification Setup</title>
+      <link>https://socprime.com/blog/knowledge-bits/creating-snapshot-management-policies/</link>
+      <pubDate>Thu, 28 Nov 2024 10:47:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Albanian Drug Smugglers Busted After Cops Decrypt Comms</title>
+      <link>https://www.infosecurity-magazine.com/news/albanian-drug-busted-cops-decrypt/</link>
+      <pubDate>Thu, 28 Nov 2024 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>APT trends report Q3 2024</title>
       <link>https://securelist.com/apt-report-q3-2024/114623/</link>
@@ -16,11 +51,6 @@
       <title>T-Mobile Claims Salt Typhoon Did Not Access Customer Data</title>
       <link>https://www.infosecurity-magazine.com/news/tmobile-salt-typhoon-did-not/</link>
       <pubDate>Thu, 28 Nov 2024 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 28 Nov 2024 09:30:03 +0000</pubDate>
     </item>
     <item>
       <title>Cybercriminals Exploit Popular Game Engine Godot to Distribute Cross-Platform Malware</title>
@@ -106,6 +136,16 @@
       <title>Critical Flaw in ProjectSend Under Active Exploitation Against Public-Facing Servers</title>
       <link>https://thehackernews.com/2024/11/critical-flaw-in-projectsend-under.html</link>
       <pubDate>Wed, 27 Nov 2024 16:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hiring Kit: Cryptography Engineer</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/hiring-kit-cryptography-engineer/</link>
+      <pubDate>Wed, 27 Nov 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Antivirus Policy</title>
+      <link>https://www.techrepublic.com/resource-library/toolstemplates/antivirus-policy/</link>
+      <pubDate>Wed, 27 Nov 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 4, November 2024</title>
@@ -266,46 +306,6 @@
       <title>Australia Passes Groundbreaking Cyber Security Law to Boost Resilience</title>
       <link>https://www.techrepublic.com/article/australia-cyber-security-law-passed/</link>
       <pubDate>Tue, 26 Nov 2024 19:02:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Network and Information Systems Directive (NIS2) Compliance: What You Need to Know</title>
-      <link>https://www.hackerone.com/penetration-testing/nis2-directive</link>
-      <pubDate>Tue, 26 Nov 2024 17:43:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s up India? PixPirate is back and spreading via WhatsApp</title>
-      <link>https://securityintelligence.com/posts/pixpirate-back-spreading-via-whatsapp/</link>
-      <pubDate>Tue, 26 Nov 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New DDoS Campaign Exploits IoT Devices and Server Misconfigurations</title>
-      <link>https://www.infosecurity-magazine.com/news/ddos-campaign-exploits-iot-devices/</link>
-      <pubDate>Tue, 26 Nov 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #26: Would AI kill sentient robots, and is water wet?</title>
-      <link>https://grahamcluley.com/the-ai-fix-26/</link>
-      <pubDate>Tue, 26 Nov 2024 16:04:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is the Dark Web?</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/what-is-the-dark-web/</link>
-      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quick Glossary: DevSecOps</title>
-      <link>https://www.techrepublic.com/resource-library/downloads/quick-glossary-devsecops/</link>
-      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data leaks from websites built on Microsoft Power Pages, including 1.1 million NHS records</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/data-leaks-microsoft-power-pages-nhs-records</link>
-      <pubDate>Tue, 26 Nov 2024 15:27:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>NHS Trust Declares Major Incident for “Cybersecurity Reasons”</title>
-      <link>https://www.infosecurity-magazine.com/news/nhs-trust-major-incident/</link>
-      <pubDate>Tue, 26 Nov 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
