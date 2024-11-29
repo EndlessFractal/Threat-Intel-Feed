@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Nov 2024 18:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 20:21:45 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 29 Nov 2024 19:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italian football club Bologna FC says company data stolen during ransomware attack</title>
+      <link>https://therecord.media/italian-football-club-blogna-fc-ransomware</link>
+      <pubDate>Fri, 29 Nov 2024 19:29:24 +0000</pubDate>
+    </item>
     <item>
       <title>Uganda confirms cyberattack on central bank but minimizes extent of breach</title>
       <link>https://therecord.media/uganda-cyberattack-central-bank</link>
       <pubDate>Fri, 29 Nov 2024 17:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 29 Nov 2024 16:40:02 +0000</pubDate>
     </item>
     <item>
       <title>Alder Hey children’s hospital explores ‘data breach’ after ransomware claims</title>
@@ -276,11 +281,6 @@
       <title>Smashing Security podcast #395: Gym hacking, disappearing DNA, and a social lockout</title>
       <link>https://grahamcluley.com/smashing-security-podcast-395/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>T-Mobile rebuffed breach attempts by hackers likely connected to China’s Salt Typhoon</title>
-      <link>https://therecord.media/tmobile-salt-typhoon-hacking-china</link>
-      <pubDate>Wed, 27 Nov 2024 21:49:48 +0000</pubDate>
     </item>
     <item>
       <title>Bootkitty is the first UEFI Bootkit designed for Linux systems</title>
