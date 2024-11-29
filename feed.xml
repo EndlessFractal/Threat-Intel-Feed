@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Nov 2024 01:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 03:00:55 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 29 Nov 2024 01:35:03 +0000</pubDate>
+    </item>
     <item>
       <title>Zello urges users to reset passwords following a cyber attack</title>
       <link>https://securityaffairs.com/171516/security/zello-urges-reset-passwords-following-cyber-attack.html</link>
       <pubDate>Fri, 29 Nov 2024 00:23:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 28 Nov 2024 22:35:03 +0000</pubDate>
     </item>
     <item>
       <title>Malicious PyPI Package Exposes Crypto Wallets to Infostealer Code</title>
@@ -46,6 +46,11 @@
       <title>Data broker exposes 600,000 sensitive files including background checks</title>
       <link>https://www.malwarebytes.com/blog/news/2024/11/data-broker-exposes-600000-sensitive-files-including-background-checks</link>
       <pubDate>Thu, 28 Nov 2024 15:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 4st Week of November, 2024</title>
+      <link>https://asec.ahnlab.com/en/84845/</link>
+      <pubDate>Thu, 28 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>11 arrested in Europol shutdown of illegal IPTV streaming networks</title>
@@ -301,11 +306,6 @@
       <title>How DSPM Helps Businesses Meet Compliance Requirements</title>
       <link>https://securityaffairs.com/171457/security/how-dspm-helps-businesses-meet-compliance-requirements.html</link>
       <pubDate>Wed, 27 Nov 2024 09:49:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian group RomCom exploited Firefox and Tor Browser zero-days to target attacks Europe and North America</title>
-      <link>https://securityaffairs.com/171443/apt/russia-romcom-group-firefox-tor-browser-zero-day.html</link>
-      <pubDate>Wed, 27 Nov 2024 08:37:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
