@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Nov 2024 22:19:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 01:38:15 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sat, 30 Nov 2024 00:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Printer problems? Beware the bogus help</title>
+      <link>https://www.malwarebytes.com/blog/scams/2024/11/printer-problems-beware-the-bogus-help</link>
+      <pubDate>Fri, 29 Nov 2024 22:49:22 +0000</pubDate>
+    </item>
     <item>
       <title>Friday Squid Blogging: Squid-Inspired Needle Technology</title>
       <link>https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-squid-inspired-needle-technology.html</link>
       <pubDate>Fri, 29 Nov 2024 22:03:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 29 Nov 2024 20:40:03 +0000</pubDate>
     </item>
     <item>
       <title>UN, international orgs create advisory body for submarine cables after incidents</title>
@@ -301,11 +306,6 @@
       <title>Attack Group APT-C-60 Targets Japan Using Trusted Platforms</title>
       <link>https://www.infosecurity-magazine.com/news/aptc60-targets-japan-using-trusted/</link>
       <pubDate>Wed, 27 Nov 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Bootkit “Bootkitty” Targets Linux Systems via UEFI</title>
-      <link>https://www.infosecurity-magazine.com/news/bootkit-bootkitty-targets-linux/</link>
-      <pubDate>Wed, 27 Nov 2024 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
