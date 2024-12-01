@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Dec 2024 10:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 12:37:54 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 01 Dec 2024 09:55:03 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2024 10:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Learning Offers Cyber Training for Government Staff, Veterans and More</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cisa-learning-offers-cyber-training-for-government-staff-veterans-and-more</link>
+      <pubDate>Sun, 01 Dec 2024 10:39:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Update 428</title>
@@ -301,11 +306,6 @@
       <title>Cybercriminals Exploit Popular Game Engine Godot to Distribute Cross-Platform Malware</title>
       <link>https://thehackernews.com/2024/11/cybercriminals-exploit-popular-game.html</link>
       <pubDate>Thu, 28 Nov 2024 09:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ProjectSend critical flaw actively exploited in the wild, experts warn</title>
-      <link>https://securityaffairs.com/171494/hacking/projectsend-critical-flaw-actively-exploited.html</link>
-      <pubDate>Thu, 28 Nov 2024 07:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
