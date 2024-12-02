@@ -6,16 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Dec 2024 10:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 12:42:25 +0000</lastBuildDate>
+    <item>
+      <title>Details about the iOS Inactivity Reboot Feature</title>
+      <link>https://www.schneier.com/blog/archives/2024/12/details-about-the-ios-inactivity-reboot-feature.html</link>
+      <pubDate>Mon, 02 Dec 2024 12:08:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 02 Dec 2024 12:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Finalizing Your AWS WAF Web ACL Configuration</title>
+      <link>https://socprime.com/blog/finalizing-your-aws-waf-web-acl-configuration/</link>
+      <pubDate>Mon, 02 Dec 2024 11:56:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Guide to Securing AI App Development: Join This Cybersecurity Webinar</title>
+      <link>https://thehackernews.com/2024/12/a-guide-to-securing-ai-app-development.html</link>
+      <pubDate>Mon, 02 Dec 2024 11:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Configuring Elasticsearch Authentication with LDAPS</title>
+      <link>https://socprime.com/blog/configuring-elasticsearch-authentication-with-ldaps/</link>
+      <pubDate>Mon, 02 Dec 2024 11:46:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia Arrests Prominent Ransomware Operator</title>
+      <link>https://www.infosecurity-magazine.com/news/russia-arrests-ransomware-wazawaka/</link>
+      <pubDate>Mon, 02 Dec 2024 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>THN Recap: Top Cybersecurity Threats, Tools and Tips (Nov 25 - Dec 1)</title>
+      <link>https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats.html</link>
+      <pubDate>Mon, 02 Dec 2024 11:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interpol: Operation HAECHI-V led to more than 5,500 suspects arrested</title>
+      <link>https://securityaffairs.com/171593/cyber-crime/operation-haechi-v-5500-arrests.html</link>
+      <pubDate>Mon, 02 Dec 2024 10:56:26 +0000</pubDate>
+    </item>
     <item>
       <title>Bologna FC Hit By 200GB Data Theft and Ransom Demand</title>
       <link>https://www.infosecurity-magazine.com/news/bologna-fc-200gb-data-theft/</link>
       <pubDate>Mon, 02 Dec 2024 10:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 02 Dec 2024 10:00:03 +0000</pubDate>
+      <title>Horns&amp;Hooves campaign delivers NetSupport RAT and BurnsRAT</title>
+      <link>https://securelist.com/horns-n-hooves-campaign-delivering-netsupport-rat/114740/</link>
+      <pubDate>Mon, 02 Dec 2024 10:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Million Android Users Hit by SpyLoan Malware in Loan Apps on Google Play</title>
+      <link>https://thehackernews.com/2024/12/8-million-android-users-hit-by-spyloan.html</link>
+      <pubDate>Mon, 02 Dec 2024 09:46:00 +0000</pubDate>
     </item>
     <item>
       <title>Global Police Arrest 5500 in $400m Cyber-Fraud Crackdown</title>
@@ -261,51 +306,6 @@
       <title>Quickie: Mass BASE64 Decoding, (Fri, Nov 29th)</title>
       <link>https://isc.sans.edu/diary/rss/31470</link>
       <pubDate>Fri, 29 Nov 2024 05:38:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Citizen Sentenced for Spying on Behalf of China's Intelligence Agency</title>
-      <link>https://thehackernews.com/2024/11/us-citizen-sentenced-for-spying-on.html</link>
-      <pubDate>Fri, 29 Nov 2024 05:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zello urges users to reset passwords following a cyber attack</title>
-      <link>https://securityaffairs.com/171516/security/zello-urges-reset-passwords-following-cyber-attack.html</link>
-      <pubDate>Fri, 29 Nov 2024 00:23:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious PyPI Package Exposes Crypto Wallets to Infostealer Code</title>
-      <link>https://www.infosecurity-magazine.com/news/malicious-pypi-exposes-crypto/</link>
-      <pubDate>Thu, 28 Nov 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over Two Dozen Flaws Identified in Advantech Industrial Wi-Fi Access Points – Patch ASAP</title>
-      <link>https://thehackernews.com/2024/11/over-two-dozen-flaws-identified-in.html</link>
-      <pubDate>Thu, 28 Nov 2024 16:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GodLoader Malware Infects Thousands via Game Development Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/godloader-malware-infects/</link>
-      <pubDate>Thu, 28 Nov 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mimic ransomware: what you need to know</title>
-      <link>https://www.tripwire.com/state-of-security/mimic-ransomware-what-you-need-know</link>
-      <pubDate>Thu, 28 Nov 2024 16:22:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>A cyberattack impacted operations at UK Wirral University Teaching Hospital</title>
-      <link>https://securityaffairs.com/171509/uncategorized/uks-wirral-university-teaching-hospital-cyberattack.html</link>
-      <pubDate>Thu, 28 Nov 2024 15:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data broker exposes 600,000 sensitive files including background checks</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/11/data-broker-exposes-600000-sensitive-files-including-background-checks</link>
-      <pubDate>Thu, 28 Nov 2024 15:36:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Malware &amp; Security Issue 4st Week of November, 2024</title>
-      <link>https://asec.ahnlab.com/en/84845/</link>
-      <pubDate>Thu, 28 Nov 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
