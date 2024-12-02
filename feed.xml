@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Dec 2024 06:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 08:28:28 +0000</lastBuildDate>
+    <item>
+      <title>A week in security (November 25 – December 1)</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/12/a-week-in-security-november-25-december-1-2</link>
+      <pubDate>Mon, 02 Dec 2024 08:07:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>INTERPOL Arrests 5,500 in Global Cybercrime Crackdown, Seizes Over $400 Million</title>
+      <link>https://thehackernews.com/2024/12/interpol-arrests-5500-in-global.html</link>
+      <pubDate>Mon, 02 Dec 2024 07:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 02 Dec 2024 06:00:03 +0000</pubDate>
+      <pubDate>Mon, 02 Dec 2024 07:00:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Monday, December 2nd, 2024 https://isc.sans.edu/podcastdetail/9236, (Mon, Dec 2nd)</title>
@@ -296,16 +306,6 @@
       <title>Critical Vulnerabilities Discovered in Industrial Wireless Access Point</title>
       <link>https://www.infosecurity-magazine.com/news/critical-vulnerabilities/</link>
       <pubDate>Thu, 28 Nov 2024 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XML-RPC npm Library Turns Malicious, Steals Data, Deploys Crypto Miner</title>
-      <link>https://thehackernews.com/2024/11/xmlrpc-npm-library-turns-malicious.html</link>
-      <pubDate>Thu, 28 Nov 2024 10:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Creating Snapshot Management Policies with Keystore Integration and Slack Notification Setup</title>
-      <link>https://socprime.com/blog/knowledge-bits/creating-snapshot-management-policies/</link>
-      <pubDate>Thu, 28 Nov 2024 10:47:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
