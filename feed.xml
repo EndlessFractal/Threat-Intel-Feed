@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Dec 2024 22:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 01:42:46 +0000</lastBuildDate>
+    <item>
+      <title>UK cyber chief warns country is ‘widely underestimating’ risks from cyberattacks</title>
+      <link>https://therecord.media/uk-cyber-chief-warns-underestimate</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 02 Dec 2024 23:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Assessment: Howling Scorpius (Akira Ransomware)</title>
+      <link>https://unit42.paloaltonetworks.com/threat-assessment-howling-scorpius-akira-ransomware/</link>
+      <pubDate>Mon, 02 Dec 2024 23:00:10 +0000</pubDate>
+    </item>
     <item>
       <title>Report: Chinese lidar technology poses national security threat</title>
       <link>https://therecord.media/china-lidar-national-security-threat-report</link>
@@ -28,11 +43,6 @@
       <pubDate>Mon, 02 Dec 2024 19:14:35 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 02 Dec 2024 19:05:03 +0000</pubDate>
-    </item>
-    <item>
       <title>France Accuses Azerbaijan of Online Manipulation Campaigns</title>
       <link>https://www.infosecurity-magazine.com/news/france-azerbaijan-online/</link>
       <pubDate>Mon, 02 Dec 2024 17:15:00 +0000</pubDate>
@@ -41,11 +51,6 @@
       <title>Corrupted Word Files Fuel Sophisticated Phishing Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/corrupted-word-files-fuel-phishing/</link>
       <pubDate>Mon, 02 Dec 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Costa Rica state energy company calls in US experts to help with ransomware attack</title>
-      <link>https://therecord.media/costa-rica-state-energy-company-ransomware</link>
-      <pubDate>Mon, 02 Dec 2024 15:46:25 +0000</pubDate>
     </item>
     <item>
       <title>Crypto.com Launches Massive $2m Bug Bounty Program</title>
@@ -301,11 +306,6 @@
       <title>Protecting Tomorrow's World: Shaping the Cyber-Physical Future</title>
       <link>https://thehackernews.com/2024/11/protecting-tomorrows-world-shaping.html</link>
       <pubDate>Fri, 29 Nov 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Addressing read_only_allow_delete After Disk Space Issues</title>
-      <link>https://socprime.com/blog/addressing-read_only_allow_delete-after-disk-space-issues/</link>
-      <pubDate>Fri, 29 Nov 2024 10:28:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
