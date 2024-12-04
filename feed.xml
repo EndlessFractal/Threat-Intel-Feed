@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 10:22:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 12:41:30 +0000</lastBuildDate>
+    <item>
+      <title>Adding Processing Timestamp and Hostname in Logstash Using Ruby</title>
+      <link>https://socprime.com/blog/adding-processing-timestamp-and-hostname-in-logstash-using-ruby/</link>
+      <pubDate>Wed, 04 Dec 2024 12:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Dismantles Criminal Messaging Service MATRIX in Major Global Takedown</title>
+      <link>https://thehackernews.com/2024/12/europol-dismantles-criminal-messaging.html</link>
+      <pubDate>Wed, 04 Dec 2024 12:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI and the 2024 Elections</title>
+      <link>https://www.schneier.com/blog/archives/2024/12/ai-and-the-2024-elections.html</link>
+      <pubDate>Wed, 04 Dec 2024 12:09:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 PAM Best Practices to Secure Hybrid and Multi-Cloud Environments</title>
+      <link>https://thehackernews.com/2024/12/7-pam-best-practices-to-secure-hybrid.html</link>
+      <pubDate>Wed, 04 Dec 2024 11:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 04 Dec 2024 11:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech support scams leverage Google ads again and again, fleecing unsuspecting internet users</title>
+      <link>https://www.tripwire.com/state-of-security/tech-support-scams-exploit-google-ads-target-users</link>
+      <pubDate>Wed, 04 Dec 2024 10:32:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vodka Giant Stoli Files for Bankruptcy After Ransomware Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/vodka-stoli-bankruptcy-ransomware/</link>
+      <pubDate>Wed, 04 Dec 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Plan a New (and Improved!) Password Policy for Real-World Security Challenges</title>
+      <link>https://thehackernews.com/2024/12/how-to-plan-new-and-improved-password.html</link>
+      <pubDate>Wed, 04 Dec 2024 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Australia, Canada, New Zealand, and the U.S. warn of PRC-linked cyber espionage targeting telecom networks</title>
       <link>https://securityaffairs.com/171644/hacking/prc-linked-cyber-espionage-telecom-networks.html</link>
@@ -36,11 +76,6 @@
       <title>OpenSearch Circuit Breakers</title>
       <link>https://socprime.com/blog/opensearch-circuit-breakers/</link>
       <pubDate>Wed, 04 Dec 2024 09:38:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 04 Dec 2024 09:20:02 +0000</pubDate>
     </item>
     <item>
       <title>Splunk: How to Write a Query to Monitor Multiple Sources and Send Alert if they Stop Coming</title>
@@ -271,41 +306,6 @@
       <title>North Korean hackers masquerade as remote IT workers and venture capitalists to steal crypto and secrets</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/north-korean-hackers-masquerade-as-remote-it-workers-and-venture-capitalists-to-steal-crypto-and-secrets</link>
       <pubDate>Tue, 03 Dec 2024 10:48:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>No guarantees of payday for ransomware gang that claims to have hacked children’s hospital</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/no-guarantees-of-payday-for-ransomware-gang-that-claims-to-have-hacked-childrens-hospital</link>
-      <pubDate>Tue, 03 Dec 2024 10:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>NachoVPN Tool Exploits Flaws in Popular VPN Clients for System Compromise</title>
-      <link>https://thehackernews.com/2024/12/nachovpn-tool-exploits-flaws-in-popular.html</link>
-      <pubDate>Tue, 03 Dec 2024 10:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hydra Market Leader Sentenced to Life by Moscow Court</title>
-      <link>https://www.infosecurity-magazine.com/news/hydra-market-leader-sentenced-life/</link>
-      <pubDate>Tue, 03 Dec 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using a Custom Script to Trigger an Action in Monit</title>
-      <link>https://socprime.com/blog/using-a-custom-script-to-trigger-an-action-in-monit/</link>
-      <pubDate>Tue, 03 Dec 2024 10:03:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poland probes Pegasus spyware abuse under the PiS government</title>
-      <link>https://securityaffairs.com/171611/intelligence/poland-probes-pegasus-spyware-abuse-under-the-pis-government.html</link>
-      <pubDate>Tue, 03 Dec 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Kimsuky Hackers Use Russian Email Addresses for Credential Theft Attacks</title>
-      <link>https://thehackernews.com/2024/12/north-korean-kimsuky-hackers-use.html</link>
-      <pubDate>Tue, 03 Dec 2024 09:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Handling the Dynamic Pruning Failure in Cardinality Aggregations in Elasticsearch</title>
-      <link>https://socprime.com/blog/handling-the-dynamic-pruning-failure-in-cardinality-aggregations-in-elasticsearch/</link>
-      <pubDate>Tue, 03 Dec 2024 09:50:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
