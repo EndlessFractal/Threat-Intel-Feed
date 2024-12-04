@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 12:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 14:20:02 +0000</lastBuildDate>
+    <item>
+      <title>U.S. Offered $10M for Hacker Just Arrested by Russia</title>
+      <link>https://krebsonsecurity.com/2024/12/u-s-offered-10m-for-hacker-just-arrested-by-russia/</link>
+      <pubDate>Wed, 04 Dec 2024 14:08:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Risks Persist in Open Source Ecosystem</title>
+      <link>https://www.infosecurity-magazine.com/news/security-risks-open-source/</link>
+      <pubDate>Wed, 04 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud threat report: Possible trend in cloud credential “oversaturation”</title>
+      <link>https://securityintelligence.com/articles/cloud-threat-report-possible-trend-cloud-credential-oversaturation/</link>
+      <pubDate>Wed, 04 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Implement Zero Trust: Best Practices and Guidelines</title>
+      <link>https://www.techrepublic.com/article/how-to-implement-zero-trust/</link>
+      <pubDate>Wed, 04 Dec 2024 13:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>ENISA Launches First State of EU Cybersecurity Report</title>
+      <link>https://www.infosecurity-magazine.com/news/enisa-launches-first-state-eu/</link>
+      <pubDate>Wed, 04 Dec 2024 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Adding Processing Timestamp and Hostname in Logstash Using Ruby</title>
       <link>https://socprime.com/blog/adding-processing-timestamp-and-hostname-in-logstash-using-ruby/</link>
       <pubDate>Wed, 04 Dec 2024 12:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 04 Dec 2024 12:20:03 +0000</pubDate>
     </item>
     <item>
       <title>Europol Dismantles Criminal Messaging Service MATRIX in Major Global Takedown</title>
@@ -26,11 +56,6 @@
       <title>7 PAM Best Practices to Secure Hybrid and Multi-Cloud Environments</title>
       <link>https://thehackernews.com/2024/12/7-pam-best-practices-to-secure-hybrid.html</link>
       <pubDate>Wed, 04 Dec 2024 11:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 04 Dec 2024 11:20:03 +0000</pubDate>
     </item>
     <item>
       <title>Tech support scams leverage Google ads again and again, fleecing unsuspecting internet users</title>
@@ -91,6 +116,16 @@
       <title>Joint Advisory Warns of PRC-Backed Cyber Espionage Targeting Telecom Networks</title>
       <link>https://thehackernews.com/2024/12/joint-advisory-warns-of-prc-backed.html</link>
       <pubDate>Wed, 04 Dec 2024 06:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Showcases Cloud Security Innovation and Leadership at AWS re:Invent</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-showcases-cloud-security-innovation-leadership-aws-re-invent/</link>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Announces Falcon Identity Protection for AWS IAM Identity Center</title>
+      <link>https://www.crowdstrike.com/en-us/blog/announcing-protection-aws-iam-identity-center/</link>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcoming the Armenian Government to Have I Been Pwned</title>
@@ -271,41 +306,6 @@
       <title>Open Automation Software</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-03</link>
       <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICONICS and Mitsubishi Electric GENESIS64 Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-04</link>
-      <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fuji Electric Tellus Lite V-Simulator</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-06</link>
-      <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fuji Electric Monitouch V-SFT</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-05</link>
-      <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and Partners Release Joint Guidance on PRC-Affiliated Threat Actor Compromising Networks of Global Telecommunications Providers</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-and-partners-release-joint-guidance-prc-affiliated-threat-actor-compromising-networks-global</link>
-      <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Eight Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-releases-eight-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean hackers masquerade as remote IT workers and venture capitalists to steal crypto and secrets</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/north-korean-hackers-masquerade-as-remote-it-workers-and-venture-capitalists-to-steal-crypto-and-secrets</link>
-      <pubDate>Tue, 03 Dec 2024 10:48:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
