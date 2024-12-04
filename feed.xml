@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 01:43:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 03:03:19 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 03 Dec 2024 23:15:03 +0000</pubDate>
+      <pubDate>Wed, 04 Dec 2024 01:15:03 +0000</pubDate>
     </item>
     <item>
       <title>The ASA flaw CVE-2014-2120 is being actively exploited in the wild</title>
@@ -86,6 +86,11 @@
       <title>DMM Bitcoin halts operations six months after a $300 million cyber heist</title>
       <link>https://securityaffairs.com/171623/cyber-crime/dmm-bitcoin-halts-operations.html</link>
       <pubDate>Tue, 03 Dec 2024 15:38:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 1, December 2024</title>
+      <link>https://asec.ahnlab.com/en/84947/</link>
+      <pubDate>Tue, 03 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Police Shut Down Matrix Encrypted Criminal Hub</title>
@@ -301,11 +306,6 @@
       <title>Tor Project needs 200 WebTunnel bridges more to bypass Russia’ censorship</title>
       <link>https://securityaffairs.com/171601/digital-id/tor-project-needs-200-webtunnel-bridges.html</link>
       <pubDate>Mon, 02 Dec 2024 14:36:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Guide to Securing AI App Development: Join This Cybersecurity Webinar</title>
-      <link>https://thehackernews.com/2024/12/a-guide-to-securing-ai-app-development.html</link>
-      <pubDate>Mon, 02 Dec 2024 14:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
