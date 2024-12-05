@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 20:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 22:19:38 +0000</lastBuildDate>
+    <item>
+      <title>US org with ‘significant presence in China’ targeted by hackers, Symantec says</title>
+      <link>https://therecord.media/us-org-with-presence-in-china-hacked-symantec</link>
+      <pubDate>Thu, 05 Dec 2024 21:18:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 05 Dec 2024 20:20:02 +0000</pubDate>
+    </item>
     <item>
       <title>As Trump vows to remold intel agencies, US spy chief defends current model</title>
       <link>https://therecord.media/avril-haines-defends-odni-as-trump-vows-to-remake-intel-agencies</link>
@@ -36,16 +46,6 @@
       <title>Russian state hackers abuse Cloudflare services to spy on Ukrainian targets</title>
       <link>https://therecord.media/russian-state-hackers-abuse-cloudflare-tunnels-spy-on-ukraine</link>
       <pubDate>Thu, 05 Dec 2024 18:39:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas accuses four companies of sharing sensitive user data without proper notice and consent</title>
-      <link>https://therecord.media/texas-attorney-general-data-privacy-notices-siriusxm-apps-companies</link>
-      <pubDate>Thu, 05 Dec 2024 18:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 05 Dec 2024 18:20:02 +0000</pubDate>
     </item>
     <item>
       <title>Solana Library Supply Chain Attack Exposes Cryptocurrency Wallets</title>
@@ -125,6 +125,11 @@
     <item>
       <title>Data Pipeline Challenges of Privacy-Preserving Federated Learning</title>
       <link>https://www.nist.gov/blogs/cybersecurity-insights/data-pipeline-challenges-privacy-preserving-federated-learning</link>
+      <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nebraska Man Pleads Guilty in Multi-Million Dollar “Cryptojacking” Case</title>
+      <link>https://www.justice.gov/usao-edny/pr/nebraska-man-pleads-guilty-multi-million-dollar-cryptojacking-case</link>
       <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -288,11 +293,6 @@
       <pubDate>Wed, 04 Dec 2024 17:04:34 +0000</pubDate>
     </item>
     <item>
-      <title>Frequent freeloader part I: Secret Blizzard compromising Storm-0156 infrastructure for espionage</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/12/04/frequent-freeloader-part-i-secret-blizzard-compromising-storm-0156-infrastructure-for-espionage/</link>
-      <pubDate>Wed, 04 Dec 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Liverpool Children's Hospital Confirms Cyber-Attack</title>
       <link>https://www.infosecurity-magazine.com/news/liverpool-children-hospital/</link>
       <pubDate>Wed, 04 Dec 2024 16:10:00 +0000</pubDate>
@@ -303,9 +303,9 @@
       <pubDate>Wed, 04 Dec 2024 16:09:40 +0000</pubDate>
     </item>
     <item>
-      <title>Explore new Microsoft Entra capabilities at Gartner Identity &amp; Access Management Summit 2024</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/12/04/explore-new-microsoft-entra-capabilities-at-gartner-identity-access-management-summit-2024/</link>
-      <pubDate>Wed, 04 Dec 2024 16:00:00 +0000</pubDate>
+      <title>Veeam addressed critical Service Provider Console (VSPC) bug</title>
+      <link>https://securityaffairs.com/171651/security/veeam-addressed-critical-service-provider-console-vspc-flaw.html</link>
+      <pubDate>Wed, 04 Dec 2024 15:11:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
