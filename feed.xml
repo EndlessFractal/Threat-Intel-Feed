@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 06:29:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 08:27:24 +0000</lastBuildDate>
+    <item>
+      <title>Pro-Russian Hacktivist Group Claims 6600 Attacks Targeting Europe</title>
+      <link>https://www.infosecurity-magazine.com/news/pro-russian-hacktivist-attacks/</link>
+      <pubDate>Thu, 05 Dec 2024 08:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked APT Salt Typhoon has breached telcos in dozens of countries</title>
+      <link>https://securityaffairs.com/171692/apt/china-salt-typhoon-breached-telecommunications.html</link>
+      <pubDate>Thu, 05 Dec 2024 07:53:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANEL and NOOPDOOR Backdoors Weaponized in New MirrorFace Campaign Against Japan</title>
+      <link>https://thehackernews.com/2024/12/anel-and-noopdoor-backdoors-weaponized.html</link>
+      <pubDate>Thu, 05 Dec 2024 07:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 05 Dec 2024 07:25:02 +0000</pubDate>
+    </item>
     <item>
       <title>NCA Busts Russian Crypto Networks Laundering Funds and Evading Sanctions</title>
       <link>https://thehackernews.com/2024/12/nca-busts-russian-crypto-networks.html</link>
@@ -16,11 +36,6 @@
       <title>CISA Warns of Active Exploitation of Flaws in Zyxel, ProjectSend, and CyberPanel</title>
       <link>https://thehackernews.com/2024/12/cisa-warns-of-active-exploitation-of.html</link>
       <pubDate>Thu, 05 Dec 2024 05:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 05 Dec 2024 04:15:02 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, December 5th, 2024 https://isc.sans.edu/podcastdetail/9242, (Thu, Dec 5th)</title>
@@ -61,6 +76,11 @@
       <title>Germany arrests suspected admin of country’s largest criminal marketplace</title>
       <link>https://therecord.media/germany-crimenetwork-arrest</link>
       <pubDate>Wed, 04 Dec 2024 18:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI chatbot startup WotNot leaks 346,000 files, including passports and medical records</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/ai-chatbot-startup-wotnot-leaks-346-000-files-including-passports-and-medical-records</link>
+      <pubDate>Wed, 04 Dec 2024 18:26:27 +0000</pubDate>
     </item>
     <item>
       <title>British telecoms giant BT confirms attempted cyberattack after ransomware gang claims hack</title>
@@ -106,6 +126,11 @@
       <title>Veeam addressed critical Service Provider Console (VSPC) bug</title>
       <link>https://securityaffairs.com/171651/security/veeam-addressed-critical-service-provider-console-vspc-flaw.html</link>
       <pubDate>Wed, 04 Dec 2024 15:11:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, December 2024</title>
+      <link>https://asec.ahnlab.com/en/84991/</link>
+      <pubDate>Wed, 04 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware-hit vodka maker Stoli files for bankruptcy in the United States</title>
@@ -281,31 +306,6 @@
       <title>Data Analysis: The Unsung Hero of Cybersecurity Expertise [Guest Diary], (Wed, Dec 4th)</title>
       <link>https://isc.sans.edu/diary/rss/31494</link>
       <pubDate>Wed, 04 Dec 2024 01:37:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>The ASA flaw CVE-2014-2120 is being actively exploited in the wild</title>
-      <link>https://securityaffairs.com/171631/hacking/cisco-asa-flaw-cve-2014-2120-exploited-in-the-wild.html</link>
-      <pubDate>Tue, 03 Dec 2024 22:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX</title>
-      <link>https://www.hackerone.com/ai/hai-program-insights</link>
-      <pubDate>Tue, 03 Dec 2024 20:56:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI chatbot provider exposes 346,000 customer files, including ID documents, resumes, and medical records</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/12/ai-chatbot-provider-exposes-346000-customer-files-including-id-documents-resumes-and-medical-records</link>
-      <pubDate>Tue, 03 Dec 2024 20:49:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Repeat offenders drive bulk of tech support scams via Google Ads</title>
-      <link>https://www.malwarebytes.com/blog/scams/2024/12/repeat-offenders-drive-bulk-of-tech-support-scams-via-google-ads</link>
-      <pubDate>Tue, 03 Dec 2024 18:42:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>French Mobile Operators Join Forces to Tackle Rising Fraud</title>
-      <link>https://www.infosecurity-magazine.com/news/france-mno-tackle-rising-fraud/</link>
-      <pubDate>Tue, 03 Dec 2024 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
