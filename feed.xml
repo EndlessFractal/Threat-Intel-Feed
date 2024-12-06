@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Dec 2024 12:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 14:19:00 +0000</lastBuildDate>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 49</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-49-6/</link>
+      <pubDate>Fri, 06 Dec 2024 14:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>How TikTok is reframing cybersecurity efforts</title>
+      <link>https://securityintelligence.com/articles/how-tiktok-is-reframing-cybersecurity-efforts/</link>
+      <pubDate>Fri, 06 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Pwned", The Book, Is Now Available for Free</title>
+      <link>https://www.troyhunt.com/pwned-the-book-is-now-available-for-free/</link>
+      <pubDate>Fri, 06 Dec 2024 13:40:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 06 Dec 2024 13:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian users report Gazprombank outages amid alleged Ukrainian cyberattack</title>
+      <link>https://therecord.media/gazprombank-outages-russia-ukraine-claims-cyberattack</link>
+      <pubDate>Fri, 06 Dec 2024 12:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interesting URL Schema Abuse Patterns (Merry Phishmas)</title>
+      <link>https://socprime.com/blog/interesting-url-schema-abuse-patterns-merry-phishmas/</link>
+      <pubDate>Fri, 06 Dec 2024 12:45:23 +0000</pubDate>
+    </item>
     <item>
       <title>Migrating Dashboards Between OpenSearch Instances</title>
       <link>https://socprime.com/blog/migrating-dashboards-between-opensearch-instances/</link>
       <pubDate>Fri, 06 Dec 2024 12:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds CyberPanel flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/171736/hacking/u-s-cisa-adds-cyberpanel-flaw-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Fri, 06 Dec 2024 12:18:02 +0000</pubDate>
     </item>
     <item>
       <title>Detecting Pegasus Infections</title>
@@ -21,11 +56,6 @@
       <title>Romania Exposes TikTok Propaganda Campaign Supporting Pro-Russian Candidate</title>
       <link>https://www.infosecurity-magazine.com/news/romania-tiktok-propaganda-campaign/</link>
       <pubDate>Fri, 06 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 06 Dec 2024 11:35:03 +0000</pubDate>
     </item>
     <item>
       <title>Enhancing Request Handling with Custom Headers in AWS WAF</title>
@@ -118,24 +148,9 @@
       <pubDate>Thu, 05 Dec 2024 19:02:19 +0000</pubDate>
     </item>
     <item>
-      <title>Russian state hackers abuse Cloudflare services to spy on Ukrainian targets</title>
-      <link>https://therecord.media/russian-state-hackers-abuse-cloudflare-tunnels-spy-on-ukraine</link>
-      <pubDate>Thu, 05 Dec 2024 18:39:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why security leaders trust Microsoft Sentinel to modernize their SOC​​</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/12/05/why-security-leaders-trust-microsoft-sentinel-to-modernize-their-soc/</link>
-      <pubDate>Thu, 05 Dec 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Solana Library Supply Chain Attack Exposes Cryptocurrency Wallets</title>
       <link>https://www.infosecurity-magazine.com/news/solana-library-supply-chain-attack/</link>
       <pubDate>Thu, 05 Dec 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​​8 years as a Leader in the Gartner® Magic Quadrant™ for Access Management​​</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/12/05/8-years-as-a-leader-in-the-gartner-magic-quadrant-for-access-management/</link>
-      <pubDate>Thu, 05 Dec 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian money-laundering network linked to drugs and ransomware disrupted, 84 arrests</title>
@@ -291,21 +306,6 @@
       <title>UK’s NCA Disrupts Multibillion-Dollar Russian Money Launderers</title>
       <link>https://www.infosecurity-magazine.com/news/nca-multibilliondollar-russian/</link>
       <pubDate>Thu, 05 Dec 2024 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Resizing Persistent Volume Claims (PVCs) for OpenSearch in Kubernetes: Challenges and Solutions</title>
-      <link>https://socprime.com/blog/resizing-persistent-volume-claims-pvcs-for-opensearch-in-kubernetes-challenges-and-solutions/</link>
-      <pubDate>Thu, 05 Dec 2024 09:44:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenSearch: How to Update index-pattern in “Broken” Visualization</title>
-      <link>https://socprime.com/blog/opensearch-how-to-update-index-pattern-in-broken-visualization/</link>
-      <pubDate>Thu, 05 Dec 2024 09:28:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked APT Secret Blizzard spotted using infrastructure of other threat actors</title>
-      <link>https://securityaffairs.com/171699/apt/secret-blizzard-using-infrastructure-of-other-threat-actors.html</link>
-      <pubDate>Thu, 05 Dec 2024 09:17:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
