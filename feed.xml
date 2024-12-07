@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Dec 2024 08:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 10:21:31 +0000</lastBuildDate>
     <item>
-      <title>Romania Cancels Presidential Election Results After Alleged Russian Meddling on TikTok</title>
-      <link>https://thehackernews.com/2024/12/romania-cancels-presidential-election.html</link>
-      <pubDate>Sat, 07 Dec 2024 07:25:00 +0000</pubDate>
+      <title>Russia’s FSB used spyware against a Russian programmer</title>
+      <link>https://securityaffairs.com/171767/malware/russias-fsb-used-spyware-against-a-russian-programmer.html</link>
+      <pubDate>Sat, 07 Dec 2024 08:53:17 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 07 Dec 2024 06:40:03 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 08:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn How Experts Secure Privileged Accounts—Proven PAS Strategies Webinar</title>
+      <link>https://thehackernews.com/2024/12/learn-how-experts-secure-privileged.html</link>
+      <pubDate>Sat, 07 Dec 2024 08:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Using Fake Video Conferencing Apps to Steal Web3 Professionals' Data</title>
+      <link>https://thehackernews.com/2024/12/hackers-using-fake-video-conferencing.html</link>
+      <pubDate>Sat, 07 Dec 2024 08:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Romania Cancels Presidential Election Results After Alleged Russian Meddling on TikTok</title>
+      <link>https://thehackernews.com/2024/12/romania-cancels-presidential-election.html</link>
+      <pubDate>Sat, 07 Dec 2024 07:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Romania ’s election systems hit by 85,000 attacks ahead of presidential vote</title>
@@ -218,9 +233,19 @@
       <pubDate>Thu, 05 Dec 2024 19:02:19 +0000</pubDate>
     </item>
     <item>
+      <title>Why security leaders trust Microsoft Sentinel to modernize their SOC​​</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/12/05/why-security-leaders-trust-microsoft-sentinel-to-modernize-their-soc/</link>
+      <pubDate>Thu, 05 Dec 2024 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Solana Library Supply Chain Attack Exposes Cryptocurrency Wallets</title>
       <link>https://www.infosecurity-magazine.com/news/solana-library-supply-chain-attack/</link>
       <pubDate>Thu, 05 Dec 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​​8 years as a Leader in the Gartner® Magic Quadrant™ for Access Management​​</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/12/05/8-years-as-a-leader-in-the-gartner-magic-quadrant-for-access-management/</link>
+      <pubDate>Thu, 05 Dec 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian money-laundering network linked to drugs and ransomware disrupted, 84 arrests</title>
@@ -281,31 +306,6 @@
       <title>This Secure Software Could Help Business Owners Go Remote Full Time</title>
       <link>https://www.techrepublic.com/article/anyviewer-professional-plan-5-year-subscription/</link>
       <pubDate>Thu, 05 Dec 2024 12:46:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Want to Grow Vulnerability Management into Exposure Management? Start Here!</title>
-      <link>https://thehackernews.com/2024/12/want-to-grow-vulnerability-management.html</link>
-      <pubDate>Thu, 05 Dec 2024 12:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target Uyghurs and Tibetans with MOONSHINE Exploit and DarkNimbus Backdoor</title>
-      <link>https://thehackernews.com/2024/12/hackers-target-uyghurs-and-tibetans.html</link>
-      <pubDate>Thu, 05 Dec 2024 12:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Pipeline Challenges of Privacy-Preserving Federated Learning</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/data-pipeline-challenges-privacy-preserving-federated-learning</link>
-      <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nebraska Man Pleads Guilty in Multi-Million Dollar “Cryptojacking” Case</title>
-      <link>https://www.justice.gov/usao-edny/pr/nebraska-man-pleads-guilty-multi-million-dollar-cryptojacking-case</link>
-      <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extradited Nigerian National Sentenced to Eight Years in Prison for Business Email Compromise Scheme</title>
-      <link>https://www.justice.gov/opa/pr/extradited-nigerian-national-sentenced-eight-years-prison-business-email-compromise-scheme</link>
-      <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
