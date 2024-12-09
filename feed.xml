@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 12:42:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 14:20:08 +0000</lastBuildDate>
+    <item>
+      <title>Cloudflare 2024 Year in Review</title>
+      <link>https://blog.cloudflare.com/radar-2024-year-in-review</link>
+      <pubDate>Mon, 09 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 09 Dec 2024 13:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ THN Recap: Top Cybersecurity Threats, Tools and Tips (Dec 2 - 8)</title>
+      <link>https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats_9.html</link>
+      <pubDate>Mon, 09 Dec 2024 13:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perimeter 81 Review: Can It Still Keep Up in 2024?</title>
+      <link>https://www.techrepublic.com/article/perimeter-81-review/</link>
+      <pubDate>Mon, 09 Dec 2024 13:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>Unmasking Termite, the Ransomware Gang Claiming the Blue Yonder Attack</title>
       <link>https://www.infosecurity-magazine.com/news/termite-ransomware-blue-yonder/</link>
@@ -46,11 +66,6 @@
       <title>Socks5Systemz Botnet Powers Illegal Proxy Service with 85,000+ Hacked Devices</title>
       <link>https://thehackernews.com/2024/12/socks5systemz-botnet-powers-illegal.html</link>
       <pubDate>Mon, 09 Dec 2024 10:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 09 Dec 2024 10:20:03 +0000</pubDate>
     </item>
     <item>
       <title>Story of the Year: global IT outages and supply chain attacks</title>
@@ -291,21 +306,6 @@
       <title>Generating a CSR and Using an External Certificate with Elasticsearch</title>
       <link>https://socprime.com/blog/generating-a-csr-and-using-an-external-certificate-with-elasticsearch/</link>
       <pubDate>Fri, 06 Dec 2024 10:51:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenSearch: How to Fix Security Analytics Error When You Try to Create a New Detector</title>
-      <link>https://socprime.com/blog/opensearch-how-to-fix-security-analytics-error-when-you-try-to-create-a-new-detector/</link>
-      <pubDate>Fri, 06 Dec 2024 10:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploits and vulnerabilities in Q3 2024</title>
-      <link>https://securelist.com/exploits-and-vulnerabilities-q3-2024/114839/</link>
-      <pubDate>Fri, 06 Dec 2024 10:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol Dismantles Major Online Fraud Platform in Major Blow to Fraudsters</title>
-      <link>https://www.infosecurity-magazine.com/news/europol-online-fraud-platform/</link>
-      <pubDate>Fri, 06 Dec 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
