@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 08:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 10:23:07 +0000</lastBuildDate>
+    <item>
+      <title>Ongoing Phishing and Malware Campaigns in December 2024</title>
+      <link>https://thehackernews.com/2024/12/ongoing-phishing-and-malware-campaigns.html</link>
+      <pubDate>Tue, 10 Dec 2024 10:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Configuring Disk Allocation Thresholds in Elasticsearch and OpenSearch</title>
+      <link>https://socprime.com/blog/configuring-disk-allocation-thresholds-in-elasticsearch-and-opensearch/</link>
+      <pubDate>Tue, 10 Dec 2024 09:47:48 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 10 Dec 2024 07:45:03 +0000</pubDate>
+      <pubDate>Tue, 10 Dec 2024 09:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding index.mapping.total_fields.limit in OpenSearch/ElasticSearch</title>
+      <link>https://socprime.com/blog/understanding-index-mapping-total_fields-limit-in-opensearch-elasticsearch/</link>
+      <pubDate>Tue, 10 Dec 2024 09:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERT-UA Warns of Phishing Attacks Targeting Ukraine’s Defense and Security Force</title>
+      <link>https://thehackernews.com/2024/12/cert-ua-warns-of-phishing-attacks.html</link>
+      <pubDate>Tue, 10 Dec 2024 09:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Drop in Cyber-Attack Reports from Large UK Financial Businesses</title>
+      <link>https://www.infosecurity-magazine.com/news/drop-cyberattack-reports-financial/</link>
+      <pubDate>Tue, 10 Dec 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, December 10th, 2024 https://isc.sans.edu/podcastdetail/9248, (Tue, Dec 10th)</title>
@@ -281,31 +306,6 @@
       <title>Employee Data Access Behaviors Putting Australian Employers At Risk</title>
       <link>https://www.techrepublic.com/article/cyberark-employee-risk-australia-2024/</link>
       <pubDate>Fri, 06 Dec 2024 22:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol takes down criminal data hub Manson Market in busy month for law enforcement</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/12/marketplace-serving-fraudsters-taken-down-by-european-law-enforcement</link>
-      <pubDate>Fri, 06 Dec 2024 16:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>FCC Proposes Stricter Cybersecurity Rules for US Telecoms</title>
-      <link>https://www.infosecurity-magazine.com/news/fcc-cybersecurity-rules-for-us/</link>
-      <pubDate>Fri, 06 Dec 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FSB Uses Trojan App to Monitor Russian Programmer Accused of Supporting Ukraine</title>
-      <link>https://thehackernews.com/2024/12/fsb-uses-trojan-app-to-monitor-russian.html</link>
-      <pubDate>Fri, 06 Dec 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BlueAlpha Attack Detection: russia-affiliated Hacking Collective Abuses Cloudflare Tunnels to Distribute GammaDrop Malware</title>
-      <link>https://socprime.com/blog/bluealpha-attack-detection/</link>
-      <pubDate>Fri, 06 Dec 2024 15:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Malware &amp; Security Issue 1st Week of December, 2024</title>
-      <link>https://asec.ahnlab.com/en/85014/</link>
-      <pubDate>Fri, 06 Dec 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
