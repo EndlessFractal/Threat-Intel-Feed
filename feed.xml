@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 08:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 10:22:41 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Fixes 71 CVEs Including Actively Exploited Zero-Day</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-71-cves-actively/</link>
+      <pubDate>Wed, 11 Dec 2024 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero Day in Cleo File Transfer Software Exploited En Masse</title>
+      <link>https://www.infosecurity-magazine.com/news/zero-day-cleo-file-transfer/</link>
+      <pubDate>Wed, 11 Dec 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snowflake Pledges to Make MFA Mandatory</title>
+      <link>https://www.infosecurity-magazine.com/news/snowflake-mfa-mandatory/</link>
+      <pubDate>Wed, 11 Dec 2024 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>December Patch Tuesday arrives bearing 71 gifts</title>
       <link>https://news.sophos.com/en-us/2024/12/11/december-patch-tuesday-arrives-bearing-71-gifts/</link>
@@ -113,7 +128,7 @@
       <pubDate>Tue, 10 Dec 2024 17:20:39 +0000</pubDate>
     </item>
     <item>
-      <title>Hackers Exploit AWS Misconfigurations in Massive Data Breach</title>
+      <title>Hackers Exploit Misconfigurations in Public Websites With Improperly Exposed AWS Credentials</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-exploit-aws/</link>
       <pubDate>Tue, 10 Dec 2024 16:30:00 +0000</pubDate>
     </item>
@@ -141,6 +156,11 @@
       <title>The AI Fix #28: Robot dogs with bombs, and who is David Mayer?</title>
       <link>https://grahamcluley.com/the-ai-fix-28/</link>
       <pubDate>Tue, 10 Dec 2024 15:02:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, December 2024</title>
+      <link>https://asec.ahnlab.com/en/85075/</link>
+      <pubDate>Tue, 10 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Enable and Manage AWS WAF Logging with CloudWatch Logs</title>
@@ -286,26 +306,6 @@
       <title>Phone Phishing Gang Busted: Eight Arrested in Belgium and Netherlands</title>
       <link>https://thehackernews.com/2024/12/phone-phishing-gang-busted-eight.html</link>
       <pubDate>Tue, 10 Dec 2024 11:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Weaponize Visual Studio Code Remote Tunnels for Cyber Espionage</title>
-      <link>https://thehackernews.com/2024/12/hackers-weaponize-visual-studio-code.html</link>
-      <pubDate>Tue, 10 Dec 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Standard Logstash Template for Event Processing (Gold Template)</title>
-      <link>https://socprime.com/blog/standard-logstash-template-for-event-processing-gold-template/</link>
-      <pubDate>Tue, 10 Dec 2024 10:59:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ongoing Phishing and Malware Campaigns in December 2024</title>
-      <link>https://thehackernews.com/2024/12/ongoing-phishing-and-malware-campaigns.html</link>
-      <pubDate>Tue, 10 Dec 2024 10:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Configuring Disk Allocation Thresholds in Elasticsearch and OpenSearch</title>
-      <link>https://socprime.com/blog/configuring-disk-allocation-thresholds-in-elasticsearch-and-opensearch/</link>
-      <pubDate>Tue, 10 Dec 2024 09:47:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
