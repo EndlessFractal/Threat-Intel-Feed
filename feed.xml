@@ -6,7 +6,67 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 10:22:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 12:41:41 +0000</lastBuildDate>
+    <item>
+      <title>Jailbreaking LLM-Controlled Robots</title>
+      <link>https://www.schneier.com/blog/archives/2024/12/jailbreaking-llm-controlled-robots.html</link>
+      <pubDate>Wed, 11 Dec 2024 12:02:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation PowerOFF Takes Down DDoS Boosters</title>
+      <link>https://www.infosecurity-magazine.com/news/operation-poweroff-takes-down-ddos/</link>
+      <pubDate>Wed, 11 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to prevent BufferOverflowError</title>
+      <link>https://socprime.com/blog/how-to-prevent-bufferoverflowerror/</link>
+      <pubDate>Wed, 11 Dec 2024 11:33:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptive Replica Selection in OpenSearch</title>
+      <link>https://socprime.com/blog/adaptive-replica-selection-in-opensearch/</link>
+      <pubDate>Wed, 11 Dec 2024 11:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Sanctions Chinese Firm at Center of Global Firewall Hack</title>
+      <link>https://www.infosecurity-magazine.com/news/us-sanctions-chinese-firewall-hack/</link>
+      <pubDate>Wed, 11 Dec 2024 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 11 Dec 2024 11:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is Nudge Security and How Does it Work?</title>
+      <link>https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html</link>
+      <pubDate>Wed, 11 Dec 2024 11:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese EagleMsgSpy Spyware Found Exploiting Mobile Devices Since 2017</title>
+      <link>https://thehackernews.com/2024/12/chinese-eaglemsgspy-spyware-found.html</link>
+      <pubDate>Wed, 11 Dec 2024 11:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>White House cyber office needs a clearer identity, says report aimed at Trump, Congress</title>
+      <link>https://therecord.media/white-house-office-national-cyber-director-ccpl-report</link>
+      <pubDate>Wed, 11 Dec 2024 11:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover Espionage Tactics of China-Based APT Groups in Southeast Asia</title>
+      <link>https://thehackernews.com/2024/12/researchers-uncover-espionage-tactics.html</link>
+      <pubDate>Wed, 11 Dec 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Likely China-based Attackers Target High-profile Organizations in Southeast Asia</title>
+      <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/china-southeast-asia-espionage</link>
+      <pubDate>Wed, 11 Dec 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese national charged for hacking thousands of Sophos firewalls</title>
+      <link>https://securityaffairs.com/171870/security/chinese-national-charged-for-hacking-sophos-firewalls.html</link>
+      <pubDate>Wed, 11 Dec 2024 10:16:14 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Fixes 71 CVEs Including Actively Exploited Zero-Day</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-71-cves-actively/</link>
@@ -26,11 +86,6 @@
       <title>December Patch Tuesday arrives bearing 71 gifts</title>
       <link>https://news.sophos.com/en-us/2024/12/11/december-patch-tuesday-arrives-bearing-71-gifts/</link>
       <pubDate>Wed, 11 Dec 2024 08:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 11 Dec 2024 08:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Fixes 72 Flaws, Including Patch for Actively Exploited CLFS Vulnerability</title>
@@ -131,11 +186,6 @@
       <title>Hackers Exploit Misconfigurations in Public Websites With Improperly Exposed AWS Credentials</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-exploit-aws/</link>
       <pubDate>Tue, 10 Dec 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wyden seeks stricter telecom cyber standards following Salt Typhoon breach</title>
-      <link>https://therecord.media/senator-wyden-stricter-telecom-cyber-standards-salt-typhoon-china</link>
-      <pubDate>Tue, 10 Dec 2024 16:24:53 +0000</pubDate>
     </item>
     <item>
       <title>Cleo File Transfer Vulnerability Under Exploitation – Patch Pending, Mitigation Urged</title>
@@ -256,56 +306,6 @@
       <title>Schneider Electric FoxRTU Station</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-03</link>
       <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>National Instruments LabVIEW</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-04</link>
-      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Horner Automation Cscape</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-05</link>
-      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Arena</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-06</link>
-      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/10/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/10/cisa-releases-seven-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/10/adobe-releases-security-updates-multiple-products</link>
-      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases December 2024 Security Updates</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/10/microsoft-releases-december-2024-security-updates</link>
-      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Future of Network Security: Automated Internal and External Pentesting</title>
-      <link>https://thehackernews.com/2024/12/the-future-of-network-security.html</link>
-      <pubDate>Tue, 10 Dec 2024 11:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heart Device Maker Artivion Suffers Ransomware Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/heart-device-maker-artivion/</link>
-      <pubDate>Tue, 10 Dec 2024 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phone Phishing Gang Busted: Eight Arrested in Belgium and Netherlands</title>
-      <link>https://thehackernews.com/2024/12/phone-phishing-gang-busted-eight.html</link>
-      <pubDate>Tue, 10 Dec 2024 11:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
