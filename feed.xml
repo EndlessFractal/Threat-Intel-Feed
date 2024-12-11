@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 22:19:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 01:43:07 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 11 Dec 2024 00:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Microsoft Windows CLFS driver flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/171851/hacking/u-s-cisa-adds-microsoft-windows-clfs-driver-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 11 Dec 2024 00:35:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft December 2024 Patch Tuesday addressed actively exploited zero-day</title>
+      <link>https://securityaffairs.com/171845/security/microsoft-december-2024-patch-tuesday.html</link>
+      <pubDate>Tue, 10 Dec 2024 22:25:28 +0000</pubDate>
+    </item>
     <item>
       <title>Multiple Cleo file transfer products being exploited by hackers</title>
       <link>https://therecord.media/multiple-cleo-file-transfer-products-exploited-by-hackers</link>
       <pubDate>Tue, 10 Dec 2024 21:40:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 10 Dec 2024 20:55:03 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Patch Tuesday for December 2024 contains four critical vulnerabilities</title>
@@ -173,6 +183,36 @@
       <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>MOBATIME Network Master Clock</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-01</link>
+      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxure Foxboro DCS Core Control Services</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-02</link>
+      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric FoxRTU Station</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-03</link>
+      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>National Instruments LabVIEW</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-04</link>
+      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horner Automation Cscape</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-05</link>
+      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Arena</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-06</link>
+      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/12/10/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
@@ -190,11 +230,6 @@
     <item>
       <title>Microsoft Releases December 2024 Security Updates</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/12/10/microsoft-releases-december-2024-security-updates</link>
-      <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Releases Security Updates for Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/10/ivanti-releases-security-updates-multiple-products</link>
       <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -271,41 +306,6 @@
       <title>New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions</title>
       <link>https://www.hackerone.com/public-policy/federal-ai-procurement-guidance</link>
       <pubDate>Mon, 09 Dec 2024 22:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>MC LR Router and GoCast unpatched vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/mc-lr-router-and-gocast-zero-day-vulnerabilities-2/</link>
-      <pubDate>Mon, 09 Dec 2024 19:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deloitte denied its systems were hacked by Brain Cipher ransomware group</title>
-      <link>https://securityaffairs.com/171827/uncategorized/deloitte-denied-its-systems-were-hacked-by-brain-cipher-ransomware-group.html</link>
-      <pubDate>Mon, 09 Dec 2024 19:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Basta Ransomware Evolves with Email Bombing, QR Codes, and Social Engineering</title>
-      <link>https://thehackernews.com/2024/12/black-basta-ransomware-evolves-with.html</link>
-      <pubDate>Mon, 09 Dec 2024 17:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federal Appeals Court Upholds Law Threatening US TikTok Ban</title>
-      <link>https://www.infosecurity-magazine.com/news/federal-court-upholds-tiktok-ban/</link>
-      <pubDate>Mon, 09 Dec 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How I got started: Incident responder</title>
-      <link>https://securityintelligence.com/articles/how-i-got-started-incident-responder/</link>
-      <pubDate>Mon, 09 Dec 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Compromised AI Library Delivers Cryptocurrency Miner via PyPI</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-library-delivers-cryptocurrency/</link>
-      <pubDate>Mon, 09 Dec 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Encrypted messaging service intercepted, 2.3 million messages read by law enforcement</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/12/encrypted-messaging-service-intercepted-2-3-million-messages-read-by-law-enforcement</link>
-      <pubDate>Mon, 09 Dec 2024 15:49:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
