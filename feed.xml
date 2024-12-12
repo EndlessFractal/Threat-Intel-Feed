@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Dec 2024 08:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 10:22:48 +0000</lastBuildDate>
     <item>
-      <title>Europol Dismantles 27 DDoS Attack Platforms Across 15 Nations; Admins Arrested</title>
-      <link>https://thehackernews.com/2024/12/europol-dismantles-27-ddos-attack.html</link>
-      <pubDate>Thu, 12 Dec 2024 06:15:00 +0000</pubDate>
+      <title>Insurance Worker Sentenced After Illegally Accessing Claimants’ Data</title>
+      <link>https://www.infosecurity-magazine.com/news/worker-sentenced-illegally/</link>
+      <pubDate>Thu, 12 Dec 2024 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Careto is back: what’s new after 10 years of silence?</title>
+      <link>https://securelist.com/careto-is-back/114942/</link>
+      <pubDate>Thu, 12 Dec 2024 10:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Allow Verified Bots Using AWS WAF Bot Control</title>
+      <link>https://socprime.com/blog/how-to-allow-verified-bots-using-aws-waf-bot-control/</link>
+      <pubDate>Thu, 12 Dec 2024 09:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three-Quarters of Security Leaders Admit Gaps in Hardware Knowledge</title>
+      <link>https://www.infosecurity-magazine.com/news/threequarters-security-leaders/</link>
+      <pubDate>Thu, 12 Dec 2024 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Convert Arrays of Hashes Into a Structured Key-Value Format During Log Processing</title>
+      <link>https://socprime.com/blog/how-to-convert-arrays-of-hashes-into-a-structured-key-value-format-during-log-processing/</link>
+      <pubDate>Thu, 12 Dec 2024 09:35:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Hunk Companion Plugin Flaw Exploited to Silently Install Vulnerable Plugins</title>
+      <link>https://thehackernews.com/2024/12/wordpress-hunk-companion-plugin-flaw.html</link>
+      <pubDate>Thu, 12 Dec 2024 09:18:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 12 Dec 2024 06:10:03 +0000</pubDate>
+      <pubDate>Thu, 12 Dec 2024 09:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia’s Secret Blizzard APT targets Ukraine with Kazuar backdoor</title>
+      <link>https://securityaffairs.com/171896/apt/secret-blizzard-targets-ukraine-with-kazuar-backdoor.html</link>
+      <pubDate>Thu, 12 Dec 2024 08:50:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Dismantles 27 DDoS Attack Platforms Across 15 Nations; Admins Arrested</title>
+      <link>https://thehackernews.com/2024/12/europol-dismantles-27-ddos-attack.html</link>
+      <pubDate>Thu, 12 Dec 2024 06:15:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, December 12th, 2024 https://isc.sans.edu/podcastdetail/9252, (Thu, Dec 12th)</title>
@@ -26,11 +61,6 @@
       <title>North Korean hackers behind $50 million crypto heist of Radiant Capital</title>
       <link>https://therecord.media/radiant-capital-heist-north-korea</link>
       <pubDate>Wed, 11 Dec 2024 23:07:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Test page title</title>
-      <link>https://www.malwarebytes.com/blog/uncategorized/2024/12/test-page-title</link>
-      <pubDate>Wed, 11 Dec 2024 22:28:21 +0000</pubDate>
     </item>
     <item>
       <title>How Cryptocurrency Turns to Cash in Russian Banks</title>
@@ -276,36 +306,6 @@
       <title>Researchers Uncover Espionage Tactics of China-Based APT Groups in Southeast Asia</title>
       <link>https://thehackernews.com/2024/12/researchers-uncover-espionage-tactics.html</link>
       <pubDate>Wed, 11 Dec 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Likely China-based Attackers Target High-profile Organizations in Southeast Asia</title>
-      <link>https://symantec-enterprise-blogs.security.com/threat-intelligence/china-southeast-asia-espionage</link>
-      <pubDate>Wed, 11 Dec 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese national charged for hacking thousands of Sophos firewalls</title>
-      <link>https://securityaffairs.com/171870/security/chinese-national-charged-for-hacking-sophos-firewalls.html</link>
-      <pubDate>Wed, 11 Dec 2024 10:16:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes 71 CVEs Including Actively Exploited Zero-Day</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-71-cves-actively/</link>
-      <pubDate>Wed, 11 Dec 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero Day in Cleo File Transfer Software Exploited En Masse</title>
-      <link>https://www.infosecurity-magazine.com/news/zero-day-cleo-file-transfer/</link>
-      <pubDate>Wed, 11 Dec 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snowflake Pledges to Make MFA Mandatory</title>
-      <link>https://www.infosecurity-magazine.com/news/snowflake-mfa-mandatory/</link>
-      <pubDate>Wed, 11 Dec 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>December Patch Tuesday arrives bearing 71 gifts</title>
-      <link>https://news.sophos.com/en-us/2024/12/11/december-patch-tuesday-arrives-bearing-71-gifts/</link>
-      <pubDate>Wed, 11 Dec 2024 08:00:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
