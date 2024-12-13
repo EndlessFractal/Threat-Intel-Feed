@@ -6,21 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 16:26:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 18:28:32 +0000</lastBuildDate>
+    <item>
+      <title>Ukraine uncovers Russian spy network recruiting teens for espionage</title>
+      <link>https://therecord.media/ukraine-sbu-espionage-campaign-russia</link>
+      <pubDate>Fri, 13 Dec 2024 17:28:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three arrested in Kosovo for operating Rydox cybercriminal marketplace</title>
+      <link>https://therecord.media/three-arrested-in-kosovo-rydox-marketplace-awaiting-extradition</link>
+      <pubDate>Fri, 13 Dec 2024 17:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical OpenWrt Vulnerability Exposes Devices to Malicious Firmware Injection</title>
+      <link>https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html</link>
+      <pubDate>Fri, 13 Dec 2024 16:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4.8 million healthcare records left freely accessible</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/12/4-8-million-healthcare-records-left-freely-accessible</link>
+      <pubDate>Fri, 13 Dec 2024 16:35:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultralytics Supply-Chain Attack</title>
+      <link>https://www.schneier.com/blog/archives/2024/12/ultralytics-supply-chain-attack.html</link>
+      <pubDate>Fri, 13 Dec 2024 16:33:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>DoJ Indicts 14 North Koreans for $88M IT Worker Fraud Scheme Over Six Years</title>
+      <link>https://thehackernews.com/2024/12/doj-indicts-14-north-koreans-for-88m-it.html</link>
+      <pubDate>Fri, 13 Dec 2024 15:51:00 +0000</pubDate>
+    </item>
     <item>
       <title>Germany cuts hacker access to 30,000 devices infected with BadBox malware</title>
       <link>https://therecord.media/germany-hacker-access-malware-cut</link>
       <pubDate>Fri, 13 Dec 2024 15:35:43 +0000</pubDate>
     </item>
     <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 13 Dec 2024 15:20:03 +0000</pubDate>
+    </item>
+    <item>
       <title>US Uncovers North Korean IT Worker Fraud, Offers $5M Bounty</title>
       <link>https://www.infosecurity-magazine.com/news/north-korean-it-worker-fraud/</link>
       <pubDate>Fri, 13 Dec 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 13 Dec 2024 14:25:03 +0000</pubDate>
     </item>
     <item>
       <title>Japanese game and anime publisher reportedly pays $3 million ransom to Russia-linked hackers</title>
@@ -65,6 +95,11 @@
     <item>
       <title>New York Man Sentenced to 69 Months in Prison for Hacking, Credit Card Trafficking and Money Laundering Conspiracies</title>
       <link>https://www.justice.gov/usao-ma/pr/new-york-man-sentenced-69-months-prison-hacking-credit-card-trafficking-and-money</link>
+      <pubDate>Fri, 13 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and EPA Release Joint Fact Sheet Detailing Risks Internet-Exposed HMIs Pose to WWS Sector</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/12/13/cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-wws-sector</link>
       <pubDate>Fri, 13 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -138,11 +173,6 @@
       <pubDate>Fri, 13 Dec 2024 01:48:15 +0000</pubDate>
     </item>
     <item>
-      <title>Texas AG launches investigation into 15 tech companies for violating child privacy law</title>
-      <link>https://therecord.media/texas-ag-launches-investigation-into-tech-firms-child-privacy</link>
-      <pubDate>Fri, 13 Dec 2024 01:14:06 +0000</pubDate>
-    </item>
-    <item>
       <title>Windows Tooling Updates: OleView.NET</title>
       <link>https://googleprojectzero.blogspot.com/2024/12/windows-tooling-updates-oleviewnet.html</link>
       <pubDate>Thu, 12 Dec 2024 23:27:00 +0000</pubDate>
@@ -151,11 +181,6 @@
       <title>US Bitcoin ATM operator Byte Federal suffered a data breach</title>
       <link>https://securityaffairs.com/171941/data-breach/us-bitcoin-atm-operator-byte-federal-suffered-a-data-breach.html</link>
       <pubDate>Thu, 12 Dec 2024 22:39:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>DOJ indicts 14 North Koreans who fraudulently earned $88 million working for US firms</title>
-      <link>https://therecord.media/doj-indicts-14-north-koreans-earning-88-million-at-us-firms</link>
-      <pubDate>Thu, 12 Dec 2024 20:52:14 +0000</pubDate>
     </item>
     <item>
       <title>Google Launches Gemini 2.0 with Autonomous Tool Linking</title>
@@ -280,31 +305,6 @@
     <item>
       <title>Siemens CPCI85 Central Processing/Communication</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-347-01</link>
-      <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Engineering Platforms</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-347-02</link>
-      <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM ROX II</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-347-03</link>
-      <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Parasolid</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-347-04</link>
-      <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Engineering Platforms</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-347-05</link>
-      <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Simcenter Femap</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-347-06</link>
       <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
