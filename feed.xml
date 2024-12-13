@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 06:29:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 08:28:48 +0000</lastBuildDate>
+    <item>
+      <title>Experts discovered the first mobile malware families linked to Russia’s Gamaredon</title>
+      <link>https://securityaffairs.com/171949/apt/gamaredon-used-two-new-android-spyware-tools.html</link>
+      <pubDate>Fri, 13 Dec 2024 07:23:38 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 13 Dec 2024 05:20:03 +0000</pubDate>
+      <pubDate>Fri, 13 Dec 2024 06:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Busts Rydox Marketplace with 7,600 PII Sales, Cryptocurrency Worth $225K Seized</title>
+      <link>https://thehackernews.com/2024/12/fbi-busts-rydox-marketplace-with-7600.html</link>
+      <pubDate>Fri, 13 Dec 2024 06:06:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, December 13th, 2024 https://isc.sans.edu/podcastdetail/9254, (Fri, Dec 13th)</title>
@@ -68,11 +78,6 @@
       <pubDate>Thu, 12 Dec 2024 17:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Convincing a billion users to love passkeys: UX design insights from Microsoft to boost adoption and security</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2024/12/12/convincing-a-billion-users-to-love-passkeys-ux-design-insights-from-microsoft-to-boost-adoption-and-security/</link>
-      <pubDate>Thu, 12 Dec 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Remcos RAT Malware Evolves with New Techniques</title>
       <link>https://www.infosecurity-magazine.com/news/remcos-rat-malware-evolves-new/</link>
       <pubDate>Thu, 12 Dec 2024 16:30:00 +0000</pubDate>
@@ -101,6 +106,11 @@
       <title>Experts discovered surveillance tool EagleMsgSpy used by Chinese law enforcement</title>
       <link>https://securityaffairs.com/171904/malware/china-uses-eaglemsgspy-malware.html</link>
       <pubDate>Thu, 12 Dec 2024 15:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 2st Week of December, 2024</title>
+      <link>https://asec.ahnlab.com/en/85106/</link>
+      <pubDate>Thu, 12 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Over 300K Prometheus Instances Exposed: Credentials and API Keys Leaking Online</title>
@@ -288,24 +298,14 @@
       <pubDate>Thu, 12 Dec 2024 06:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Rate Companies Deploys Endpoint to Cloud Security from the CrowdStrike Falcon Platform</title>
+      <link>https://www.crowdstrike.com/en-us/blog/rate-companies-falcon-flex/</link>
+      <pubDate>Thu, 12 Dec 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Thursday, December 12th, 2024 https://isc.sans.edu/podcastdetail/9252, (Thu, Dec 12th)</title>
       <link>https://isc.sans.edu/diary/rss/31516</link>
       <pubDate>Thu, 12 Dec 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #397: Snowflake hackers, and under the influence</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-397/</link>
-      <pubDate>Thu, 12 Dec 2024 00:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Cryptocurrency Turns to Cash in Russian Banks</title>
-      <link>https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/</link>
-      <pubDate>Wed, 11 Dec 2024 21:38:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch Tuesday: Microsoft Patches One Actively Exploited Vulnerability, Among Others</title>
-      <link>https://www.techrepublic.com/article/patch-tuesday-december-24/</link>
-      <pubDate>Wed, 11 Dec 2024 20:57:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
