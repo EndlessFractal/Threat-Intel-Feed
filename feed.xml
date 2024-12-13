@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 08:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 10:22:16 +0000</lastBuildDate>
+    <item>
+      <title>IBM QRadar: How to Create a Rule for Log Source Monitoring</title>
+      <link>https://socprime.com/blog/ibm-qradar-how-to-create-a-rule-for-log-source-monitoring/</link>
+      <pubDate>Fri, 13 Dec 2024 10:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC2 Survey Reveals Critical Gaps in Cybersecurity Leadership Skills</title>
+      <link>https://www.infosecurity-magazine.com/news/isc2-gaps-cybersecurity-leadership/</link>
+      <pubDate>Fri, 13 Dec 2024 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Roles and Users for Data Access in Elasticsearch</title>
+      <link>https://socprime.com/blog/using-roles-and-users-for-data-access-in-elasticsearch/</link>
+      <pubDate>Fri, 13 Dec 2024 09:41:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Linux Rootkit PUMAKIT Uses Advanced Stealth Techniques to Evade Detection</title>
+      <link>https://thehackernews.com/2024/12/new-linux-rootkit-pumakit-uses-advanced.html</link>
+      <pubDate>Fri, 13 Dec 2024 09:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Shoppers Frustrated as Bots Snap Up Popular Christmas Gifts</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-shoppers-bots-snap-up-christmas/</link>
+      <pubDate>Fri, 13 Dec 2024 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Experts discovered the first mobile malware families linked to Russia’s Gamaredon</title>
       <link>https://securityaffairs.com/171949/apt/gamaredon-used-two-new-android-spyware-tools.html</link>
@@ -15,7 +40,7 @@
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 13 Dec 2024 06:25:03 +0000</pubDate>
+      <pubDate>Fri, 13 Dec 2024 07:20:02 +0000</pubDate>
     </item>
     <item>
       <title>FBI Busts Rydox Marketplace with 7,600 PII Sales, Cryptocurrency Worth $225K Seized</title>
@@ -76,6 +101,11 @@
       <title>Security Flaws in WordPress Woffice Theme Prompts Urgent Update</title>
       <link>https://www.infosecurity-magazine.com/news/security-flaws-wordpress-woffice/</link>
       <pubDate>Thu, 12 Dec 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Convincing a billion users to love passkeys: UX design insights from Microsoft to boost adoption and security</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/12/12/convincing-a-billion-users-to-love-passkeys-ux-design-insights-from-microsoft-to-boost-adoption-and-security/</link>
+      <pubDate>Thu, 12 Dec 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Remcos RAT Malware Evolves with New Techniques</title>
@@ -276,36 +306,6 @@
       <title>Three-Quarters of Security Leaders Admit Gaps in Hardware Knowledge</title>
       <link>https://www.infosecurity-magazine.com/news/threequarters-security-leaders/</link>
       <pubDate>Thu, 12 Dec 2024 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Convert Arrays of Hashes Into a Structured Key-Value Format During Log Processing</title>
-      <link>https://socprime.com/blog/how-to-convert-arrays-of-hashes-into-a-structured-key-value-format-during-log-processing/</link>
-      <pubDate>Thu, 12 Dec 2024 09:35:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Hunk Companion Plugin Flaw Exploited to Silently Install Vulnerable Plugins</title>
-      <link>https://thehackernews.com/2024/12/wordpress-hunk-companion-plugin-flaw.html</link>
-      <pubDate>Thu, 12 Dec 2024 09:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia’s Secret Blizzard APT targets Ukraine with Kazuar backdoor</title>
-      <link>https://securityaffairs.com/171896/apt/secret-blizzard-targets-ukraine-with-kazuar-backdoor.html</link>
-      <pubDate>Thu, 12 Dec 2024 08:50:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol Dismantles 27 DDoS Attack Platforms Across 15 Nations; Admins Arrested</title>
-      <link>https://thehackernews.com/2024/12/europol-dismantles-27-ddos-attack.html</link>
-      <pubDate>Thu, 12 Dec 2024 06:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rate Companies Deploys Endpoint to Cloud Security from the CrowdStrike Falcon Platform</title>
-      <link>https://www.crowdstrike.com/en-us/blog/rate-companies-falcon-flex/</link>
-      <pubDate>Thu, 12 Dec 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, December 12th, 2024 https://isc.sans.edu/podcastdetail/9252, (Thu, Dec 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/31516</link>
-      <pubDate>Thu, 12 Dec 2024 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
