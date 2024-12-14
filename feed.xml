@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Dec 2024 14:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 16:23:51 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 14 Dec 2024 12:35:03 +0000</pubDate>
+      <pubDate>Sat, 14 Dec 2024 15:35:03 +0000</pubDate>
     </item>
     <item>
       <title>Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action</title>
@@ -268,6 +268,11 @@
       <pubDate>Thu, 12 Dec 2024 17:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Convincing a billion users to love passkeys: UX design insights from Microsoft to boost adoption and security</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/12/12/convincing-a-billion-users-to-love-passkeys-ux-design-insights-from-microsoft-to-boost-adoption-and-security/</link>
+      <pubDate>Thu, 12 Dec 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Remcos RAT Malware Evolves with New Techniques</title>
       <link>https://www.infosecurity-magazine.com/news/remcos-rat-malware-evolves-new/</link>
       <pubDate>Thu, 12 Dec 2024 16:30:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Android Malware &amp; Security Issue 2st Week of December, 2024</title>
       <link>https://asec.ahnlab.com/en/85106/</link>
       <pubDate>Thu, 12 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 300K Prometheus Instances Exposed: Credentials and API Keys Leaking Online</title>
-      <link>https://thehackernews.com/2024/12/296000-prometheus-instances-exposed.html</link>
-      <pubDate>Thu, 12 Dec 2024 14:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
