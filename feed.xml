@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Dec 2024 14:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 16:23:37 +0000</lastBuildDate>
+    <item>
+      <title>PUMAKIT, a sophisticated rootkit that uses advanced stealth mechanisms</title>
+      <link>https://securityaffairs.com/172016/malware/pumakit-sophisticated-rootkit.html</link>
+      <pubDate>Sun, 15 Dec 2024 16:11:57 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 15 Dec 2024 13:40:03 +0000</pubDate>
+      <pubDate>Sun, 15 Dec 2024 15:40:03 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Update 430</title>
@@ -301,11 +306,6 @@
       <title>Security Flaws in WordPress Woffice Theme Prompts Urgent Update</title>
       <link>https://www.infosecurity-magazine.com/news/security-flaws-wordpress-woffice/</link>
       <pubDate>Thu, 12 Dec 2024 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remcos RAT Malware Evolves with New Techniques</title>
-      <link>https://www.infosecurity-magazine.com/news/remcos-rat-malware-evolves-new/</link>
-      <pubDate>Thu, 12 Dec 2024 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
