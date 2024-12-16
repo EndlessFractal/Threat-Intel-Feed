@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Dec 2024 18:29:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 20:23:10 +0000</lastBuildDate>
+    <item>
+      <title>Namibia’s state telecom provider says hackers leaked data after it refused to pay ransom</title>
+      <link>https://therecord.media/namibia-state-telecom-provider-data-leaked-after-ransom-refusal</link>
+      <pubDate>Mon, 16 Dec 2024 19:37:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rhode Island governor warns residents of cyberattack on state benefits system</title>
+      <link>https://therecord.media/rhode-island-governor-cyberattack-benefits</link>
+      <pubDate>Mon, 16 Dec 2024 19:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackBerry offloads Cylance for a fraction of what it paid in 2019</title>
+      <link>https://therecord.media/blackberry-offloads-cylance-for-fraction-of-what-it-paid</link>
+      <pubDate>Mon, 16 Dec 2024 18:49:11 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -53,11 +68,6 @@
       <pubDate>Mon, 16 Dec 2024 14:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>EU issues first-ever sanctions over ‘Russian hybrid threats’</title>
-      <link>https://therecord.media/eu-issues-sanctions-over-russia-hybrid-threats</link>
-      <pubDate>Mon, 16 Dec 2024 14:05:38 +0000</pubDate>
-    </item>
-    <item>
       <title>Fake Captcha Campaign Highlights Risks of Malvertising Networks</title>
       <link>https://www.infosecurity-magazine.com/news/fake-captcha-campaign-risks/</link>
       <pubDate>Mon, 16 Dec 2024 14:00:00 +0000</pubDate>
@@ -91,6 +101,16 @@
       <title>Short-Lived Certificates Coming to Let’s Encrypt</title>
       <link>https://www.schneier.com/blog/archives/2024/12/short-lived-certificates-coming-to-lets-encrypt.html</link>
       <pubDate>Mon, 16 Dec 2024 12:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Incognito Market” Owner Pleads Guilty For Operating One Of The Largest Illegal Narcotics Marketplaces On The Internet</title>
+      <link>https://www.justice.gov/usao-sdny/pr/incognito-market-owner-pleads-guilty-operating-one-largest-illegal-narcotics</link>
+      <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese National Sentenced to Ten Years in Prison for Laundering $62 Million in Drug Proceeds on Behalf of Mexican Traffickers</title>
+      <link>https://www.justice.gov/usao-ndil/pr/chinese-national-sentenced-ten-years-prison-laundering-62-million-drug-proceeds-behalf</link>
+      <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
@@ -131,11 +151,6 @@
       <title>New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide</title>
       <link>https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html</link>
       <pubDate>Mon, 16 Dec 2024 10:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serbian government cracked phones with Cellebrite to install spyware, report says</title>
-      <link>https://therecord.media/serbia-report-amnesty-international-cellebrite-spyware</link>
-      <pubDate>Mon, 16 Dec 2024 10:16:23 +0000</pubDate>
     </item>
     <item>
       <title>YouTube Creators Targeted in Global Phishing Campaign</title>
@@ -186,6 +201,11 @@
       <title>The Qualcomm DSP Driver - Unexpectedly Excavating an Exploit</title>
       <link>https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html</link>
       <pubDate>Mon, 16 Dec 2024 06:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Named a Leader in GigaOm Radar for Ransomware Prevention</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-gigaom-radar-ransomware-prevention/</link>
+      <pubDate>Mon, 16 Dec 2024 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Malicious ad distributes SocGholish malware to Kaiser Permanente employees</title>
@@ -273,11 +293,6 @@
       <pubDate>Fri, 13 Dec 2024 21:55:12 +0000</pubDate>
     </item>
     <item>
-      <title>CISA warns of ransomware gangs exploiting Cleo, CyberPanel bugs</title>
-      <link>https://therecord.media/cisa-ransomware-cleo-cyberpanel-bugs</link>
-      <pubDate>Fri, 13 Dec 2024 21:54:23 +0000</pubDate>
-    </item>
-    <item>
       <title>German agency BSI sinkholed a botnet of 30,000 devices infected with BadBox</title>
       <link>https://securityaffairs.com/171968/malware/bsi-sinkholed-badbox-botnet.html</link>
       <pubDate>Fri, 13 Dec 2024 20:43:31 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Starbucks, Supermarkets Targeted in Ransomware Attack</title>
       <link>https://www.techrepublic.com/article/blue-yonder-ransomware-attack/</link>
       <pubDate>Fri, 13 Dec 2024 19:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical OpenWrt Vulnerability Exposes Devices to Malicious Firmware Injection</title>
-      <link>https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html</link>
-      <pubDate>Fri, 13 Dec 2024 16:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>4.8 million healthcare records left freely accessible</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/12/4-8-million-healthcare-records-left-freely-accessible</link>
-      <pubDate>Fri, 13 Dec 2024 16:35:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultralytics Supply-Chain Attack</title>
-      <link>https://www.schneier.com/blog/archives/2024/12/ultralytics-supply-chain-attack.html</link>
-      <pubDate>Fri, 13 Dec 2024 16:33:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
