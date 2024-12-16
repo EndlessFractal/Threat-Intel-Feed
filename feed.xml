@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Dec 2024 10:23:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 12:42:29 +0000</lastBuildDate>
+    <item>
+      <title>Amnesty Accuses Serbia of Tracking Journalists and Activists with Spyware</title>
+      <link>https://www.infosecurity-magazine.com/news/amnesty-accuses-serbia-spyware/</link>
+      <pubDate>Mon, 16 Dec 2024 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Short-Lived Certificates Coming to Let’s Encrypt</title>
+      <link>https://www.schneier.com/blog/archives/2024/12/short-lived-certificates-coming-to-lets-encrypt.html</link>
+      <pubDate>Mon, 16 Dec 2024 12:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 16 Dec 2024 11:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ofcom Issues Guidance for Tech Firms to Tackle Online Harms</title>
+      <link>https://www.infosecurity-magazine.com/news/ofcom-tech-firms-online-harms/</link>
+      <pubDate>Mon, 16 Dec 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Deal with the Warning: “No ‘Basic Authorization’ header, send 401 and ‘WWW-Authenticate Basic'”</title>
+      <link>https://socprime.com/blog/no-basic-authorization-header-send-401-and-www-authenticate-basic-warning/</link>
+      <pubDate>Mon, 16 Dec 2024 11:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fluentd: How to Make Nested Hash from Dot-Separated Keys</title>
+      <link>https://socprime.com/blog/fluentd-how-to-make-nested-hash-from-dot-separated-keys/</link>
+      <pubDate>Mon, 16 Dec 2024 11:15:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Governance in DevOps: Ensuring Compliance in the AI Era</title>
+      <link>https://thehackernews.com/2024/12/data-governance-in-devops-ensuring.html</link>
+      <pubDate>Mon, 16 Dec 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Essential Dev Tools Commands for Elasticsearch &amp; OpenSearch Administrators</title>
+      <link>https://socprime.com/blog/essential-dev-tools-commands-for-elasticsearch-opensearch/</link>
+      <pubDate>Mon, 16 Dec 2024 10:33:04 +0000</pubDate>
+    </item>
     <item>
       <title>New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide</title>
       <link>https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html</link>
@@ -33,11 +73,6 @@
       <pubDate>Mon, 16 Dec 2024 10:00:27 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 16 Dec 2024 09:50:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Russia Recruits Ukrainian Kids for Sabotage and Reconnaissance</title>
       <link>https://www.infosecurity-magazine.com/news/russia-recruits-ukrainian-children/</link>
       <pubDate>Mon, 16 Dec 2024 09:30:00 +0000</pubDate>
@@ -49,7 +84,7 @@
     </item>
     <item>
       <title>Multiple flaws in Volkswagen Group’s infotainment unit allow for vehicle compromise</title>
-      <link>https://securityaffairs.com/172024/uncategorized/volkswagen-group-infotainment-unit-flaws.html</link>
+      <link>https://securityaffairs.com/172024/hacking/volkswagen-group-infotainment-unit-flaws.html</link>
       <pubDate>Mon, 16 Dec 2024 08:54:06 +0000</pubDate>
     </item>
     <item>
@@ -89,7 +124,7 @@
     </item>
     <item>
       <title>PUMAKIT, a sophisticated rootkit that uses advanced stealth mechanisms</title>
-      <link>https://securityaffairs.com/172016/uncategorized/pumakit-sophisticated-rootkit.html</link>
+      <link>https://securityaffairs.com/172016/malware/pumakit-sophisticated-rootkit.html</link>
       <pubDate>Sun, 15 Dec 2024 16:11:57 +0000</pubDate>
     </item>
     <item>
@@ -99,7 +134,7 @@
     </item>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 24</title>
-      <link>https://securityaffairs.com/172002/uncategorized/security-affairs-malware-newsletter-round-24.html</link>
+      <link>https://securityaffairs.com/172002/malware/security-affairs-malware-newsletter-round-24.html</link>
       <pubDate>Sun, 15 Dec 2024 10:51:07 +0000</pubDate>
     </item>
     <item>
@@ -114,7 +149,7 @@
     </item>
     <item>
       <title>IOCONTROL cyberweapon used to target infrastructure in the US and Isreael</title>
-      <link>https://securityaffairs.com/171980/uncategorized/iocontrol-cyberweapon-targets-us-isreael.html</link>
+      <link>https://securityaffairs.com/171980/malware/iocontrol-cyberweapon-targets-us-isreael.html</link>
       <pubDate>Sat, 14 Dec 2024 21:37:47 +0000</pubDate>
     </item>
     <item>
@@ -124,7 +159,7 @@
     </item>
     <item>
       <title>U.S. CISA adds Cleo Harmony, VLTrader, and LexiCom flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/171973/uncategorized/u-s-cisa-adds-cleo-harmony-vltrader-and-lexicom-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <link>https://securityaffairs.com/171973/security/u-s-cisa-adds-cleo-harmony-vltrader-and-lexicom-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Sat, 14 Dec 2024 16:46:54 +0000</pubDate>
     </item>
     <item>
@@ -164,7 +199,7 @@
     </item>
     <item>
       <title>German agency BSI sinkholed a botnet of 30,000 devices infected with BadBox</title>
-      <link>https://securityaffairs.com/171968/uncategorized/bsi-sinkholed-badbox-botnet.html</link>
+      <link>https://securityaffairs.com/171968/malware/bsi-sinkholed-badbox-botnet.html</link>
       <pubDate>Fri, 13 Dec 2024 20:43:31 +0000</pubDate>
     </item>
     <item>
@@ -249,7 +284,7 @@
     </item>
     <item>
       <title>U.S. authorities seized cybercrime marketplace Rydox</title>
-      <link>https://securityaffairs.com/171956/uncategorized/u-s-authorities-seized-marketplace-rydox.html</link>
+      <link>https://securityaffairs.com/171956/cyber-crime/u-s-authorities-seized-marketplace-rydox.html</link>
       <pubDate>Fri, 13 Dec 2024 12:03:21 +0000</pubDate>
     </item>
     <item>
@@ -271,41 +306,6 @@
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/12/13/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Fri, 13 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and EPA Release Joint Fact Sheet Detailing Risks Internet-Exposed HMIs Pose to WWS Sector</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/13/cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-wws-sector</link>
-      <pubDate>Fri, 13 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-Linked IOCONTROL Malware Targets SCADA and Linux-Based IoT Platforms</title>
-      <link>https://thehackernews.com/2024/12/iran-linked-iocontrol-malware-targets.html</link>
-      <pubDate>Fri, 13 Dec 2024 11:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepSpeed: a tuning tool for large language models</title>
-      <link>https://news.sophos.com/en-us/2024/12/13/deepspeed-a-tuning-tool-for-large-language-models/</link>
-      <pubDate>Fri, 13 Dec 2024 11:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Generate a CrowdStrike RFM Report With AI in Tines</title>
-      <link>https://thehackernews.com/2024/12/how-to-generate-crowdstrike-rfm-report.html</link>
-      <pubDate>Fri, 13 Dec 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Discover Malware Used by Nation-Sates to Attack Industrial Systems</title>
-      <link>https://www.infosecurity-magazine.com/news/malware-nation-sate-industrial/</link>
-      <pubDate>Fri, 13 Dec 2024 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fluentd: How to Change Tags During Log Processing.</title>
-      <link>https://socprime.com/blog/fluentd-how-to-change-tags-during-log-processing/</link>
-      <pubDate>Fri, 13 Dec 2024 10:52:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM QRadar: How to Create a Rule for Log Source Monitoring</title>
-      <link>https://socprime.com/blog/ibm-qradar-how-to-create-a-rule-for-log-source-monitoring/</link>
-      <pubDate>Fri, 13 Dec 2024 10:10:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
