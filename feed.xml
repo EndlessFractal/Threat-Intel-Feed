@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Dec 2024 04:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 06:29:35 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 17 Dec 2024 02:55:03 +0000</pubDate>
+      <pubDate>Tue, 17 Dec 2024 05:55:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, December 17th, 2024 https://isc.sans.edu/podcastdetail/9258, (Tue, Dec 17th)</title>
@@ -243,6 +243,16 @@
       <pubDate>Mon, 16 Dec 2024 06:11:00 +0000</pubDate>
     </item>
     <item>
+      <title>A Look Back: The Evolution of Latin American eCrime Malware in 2024</title>
+      <link>https://www.crowdstrike.com/en-us/blog/latam-ecrime-malware-evolution-2024/</link>
+      <pubDate>Mon, 16 Dec 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Named a Leader in GigaOm Radar for Ransomware Prevention</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-gigaom-radar-ransomware-prevention/</link>
+      <pubDate>Mon, 16 Dec 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Malicious ad distributes SocGholish malware to Kaiser Permanente employees</title>
       <link>https://www.malwarebytes.com/blog/cybercrime/2024/12/malicious-ad-distributes-socgholish-malware-to-kaiser-permanente-employees</link>
       <pubDate>Mon, 16 Dec 2024 04:18:35 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>U.S. CISA adds Cleo Harmony, VLTrader, and LexiCom flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/171973/security/u-s-cisa-adds-cleo-harmony-vltrader-and-lexicom-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Sat, 14 Dec 2024 16:46:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action</title>
-      <link>https://thehackernews.com/2024/12/germany-disrupts-badbox-malware-on.html</link>
-      <pubDate>Sat, 14 Dec 2024 11:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thai Officials Targeted in Yokai Backdoor Campaign Using DLL Side-Loading Techniques</title>
-      <link>https://thehackernews.com/2024/12/thai-officials-targeted-in-yokai.html</link>
-      <pubDate>Sat, 14 Dec 2024 10:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
