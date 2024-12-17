@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Dec 2024 03:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 04:25:29 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 17 Dec 2024 00:55:02 +0000</pubDate>
+      <pubDate>Tue, 17 Dec 2024 02:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Tuesday, December 17th, 2024 https://isc.sans.edu/podcastdetail/9258, (Tue, Dec 17th)</title>
+      <link>https://isc.sans.edu/diary/rss/31526</link>
+      <pubDate>Tue, 17 Dec 2024 02:00:01 +0000</pubDate>
     </item>
     <item>
       <title>CISA releases first draft of updated National Cyber Incident Response Plan</title>
@@ -301,11 +306,6 @@
       <title>Thai Officials Targeted in Yokai Backdoor Campaign Using DLL Side-Loading Techniques</title>
       <link>https://thehackernews.com/2024/12/thai-officials-targeted-in-yokai.html</link>
       <pubDate>Sat, 14 Dec 2024 10:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crypted Hearts: Exposing the HeartCrypt Packer-as-a-Service Operation</title>
-      <link>https://unit42.paloaltonetworks.com/packer-as-a-service-heartcrypt-malware/</link>
-      <pubDate>Fri, 13 Dec 2024 23:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
