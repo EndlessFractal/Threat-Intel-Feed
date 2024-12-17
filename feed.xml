@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Dec 2024 12:41:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 14:19:36 +0000</lastBuildDate>
+    <item>
+      <title>Testing the limits of generative AI: How red teaming exposes vulnerabilities in AI models</title>
+      <link>https://securityintelligence.com/articles/testing-the-limits-of-generative-ai-red-teaming-exposes-vulnerabilities-in-ai-models/</link>
+      <pubDate>Tue, 17 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Astrill VPN Review: Features, Performance, and Insights</title>
+      <link>https://www.techrepublic.com/article/astrill-vpn-review/</link>
+      <pubDate>Tue, 17 Dec 2024 13:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Year in Review 2024: The major headlines and moments from Sophos this year</title>
+      <link>https://news.sophos.com/en-us/2024/12/17/year-in-review-2024-the-major-headlines-and-moments-from-sophos-this-year/</link>
+      <pubDate>Tue, 17 Dec 2024 13:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>GenAI: Security Teams Demand Expertise-Driven Solutions</title>
+      <link>https://www.infosecurity-magazine.com/news/genai-security-teams-crowdstrike/</link>
+      <pubDate>Tue, 17 Dec 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Sanctions Russian Cyber Actors for “Destabilizing Actions”</title>
+      <link>https://www.infosecurity-magazine.com/news/eu-sanctions-russian-cyber-actors/</link>
+      <pubDate>Tue, 17 Dec 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 17 Dec 2024 12:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Monitoring Index Size Trends in Elasticsearch: Monthly and Daily Statistics</title>
+      <link>https://socprime.com/blog/knowledge-bits/monitoring-index-size-trends-in-elasticsearch/</link>
+      <pubDate>Tue, 17 Dec 2024 12:53:54 +0000</pubDate>
+    </item>
     <item>
       <title>Even Great Companies Get Breached — Find Out Why and How to Stop It</title>
       <link>https://thehackernews.com/2024/12/even-great-companies-get-breached-find.html</link>
@@ -21,11 +56,6 @@
       <title>New APIs Discovered by Attackers in Just 29 Seconds</title>
       <link>https://www.infosecurity-magazine.com/news/new-apis-discovered-attackers-29/</link>
       <pubDate>Tue, 17 Dec 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 17 Dec 2024 10:55:03 +0000</pubDate>
     </item>
     <item>
       <title>Understanding Key OpenSearch Dashboard Logging Settings</title>
@@ -86,6 +116,11 @@
       <title>The Mask APT Resurfaces with Sophisticated Multi-Platform Malware Arsenal</title>
       <link>https://thehackernews.com/2024/12/the-mask-apt-resurfaces-with.html</link>
       <pubDate>Tue, 17 Dec 2024 06:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>80% of Cybersecurity Leaders Prefer Platform-Delivered GenAI for Stronger Defense</title>
+      <link>https://www.crowdstrike.com/en-us/blog/research-results-state-of-ai-cybersecurity-survey/</link>
+      <pubDate>Tue, 17 Dec 2024 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA and FBI Raise Alerts on Exploited Flaws and Expanding HiatusRAT Campaign</title>
@@ -271,41 +306,6 @@
       <title>New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide</title>
       <link>https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html</link>
       <pubDate>Mon, 16 Dec 2024 10:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>YouTube Creators Targeted in Global Phishing Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/youtube-creators-global-phishing/</link>
-      <pubDate>Mon, 16 Dec 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Increase index.max_regex_length in OpenSearch</title>
-      <link>https://socprime.com/blog/how-to-increase-index-max_regex_length-in-opensearch/</link>
-      <pubDate>Mon, 16 Dec 2024 10:02:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark web threats and dark market predictions for 2025</title>
-      <link>https://securelist.com/ksb-dark-web-predictions-2025/114966/</link>
-      <pubDate>Mon, 16 Dec 2024 10:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia Recruits Ukrainian Kids for Sabotage and Reconnaissance</title>
-      <link>https://www.infosecurity-magazine.com/news/russia-recruits-ukrainian-children/</link>
-      <pubDate>Mon, 16 Dec 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Glutton Malware Exploits Popular PHP Frameworks Like Laravel and ThinkPHP</title>
-      <link>https://thehackernews.com/2024/12/new-glutton-malware-exploits-popular.html</link>
-      <pubDate>Mon, 16 Dec 2024 09:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple flaws in Volkswagen Group’s infotainment unit allow for vehicle compromise</title>
-      <link>https://securityaffairs.com/172024/hacking/volkswagen-group-infotainment-unit-flaws.html</link>
-      <pubDate>Mon, 16 Dec 2024 08:54:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remote Access Checklist</title>
-      <link>https://www.techrepublic.com/resource-library/checklist/remote-access-checklist/</link>
-      <pubDate>Mon, 16 Dec 2024 08:51:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
