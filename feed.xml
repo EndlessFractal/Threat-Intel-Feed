@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Dec 2024 22:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 01:42:27 +0000</lastBuildDate>
+    <item>
+      <title>CISA releases first draft of updated National Cyber Incident Response Plan</title>
+      <link>https://therecord.media/cisa-first-draft-updated-cyber-plan</link>
+      <pubDate>Tue, 17 Dec 2024 00:31:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 16 Dec 2024 23:55:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ConnectOnCall data breach impacted over 900,000 individuals</title>
+      <link>https://securityaffairs.com/172053/data-breach/connectoncall-data-breach-impacted-over-900000-individuals.html</link>
+      <pubDate>Mon, 16 Dec 2024 23:11:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dirty DAG: New Vulnerabilities in Azure Data Factory’s Apache Airflow Integration</title>
+      <link>https://unit42.paloaltonetworks.com/azure-data-factory-apache-airflow-vulnerabilities/</link>
+      <pubDate>Mon, 16 Dec 2024 23:00:37 +0000</pubDate>
+    </item>
     <item>
       <title>American private equity firm buys Israeli spyware company Paragon</title>
       <link>https://therecord.media/paragon-bought-private-equity-american</link>
@@ -18,9 +38,9 @@
       <pubDate>Mon, 16 Dec 2024 21:41:56 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 16 Dec 2024 20:50:03 +0000</pubDate>
+      <title>New York Releases AI Cybersecurity Guidance: What You Need to Know</title>
+      <link>https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance</link>
+      <pubDate>Mon, 16 Dec 2024 21:37:58 +0000</pubDate>
     </item>
     <item>
       <title>Report claims that Serbian authorities abused Cellebrite tool to install NoviSpy spyware</title>
@@ -56,11 +76,6 @@
       <title>CISA and EPA Warn of Cyber Risks to Water System Interfaces</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-epa-warn-cyberrisks-water/</link>
       <pubDate>Mon, 16 Dec 2024 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federal money is helping states overhaul cybersecurity. What happens if it dries up?</title>
-      <link>https://therecord.media/federal-money-states-cybersecurity-funding</link>
-      <pubDate>Mon, 16 Dec 2024 16:08:37 +0000</pubDate>
     </item>
     <item>
       <title>Deloitte Alerts Rhode Island to Significant Data Breach in RIBridges System</title>
@@ -125,6 +140,11 @@
     <item>
       <title>Resident of China Sentenced to 24 Months in Prison for Conspiring to Send Trade Secrets Belonging to Leading U.S.-Based Electric Vehicle Company</title>
       <link>https://www.justice.gov/usao-edny/pr/resident-china-sentenced-24-months-prison-conspiring-send-trade-secrets-belonging</link>
+      <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Attorney’s Office forfeits cryptocurrency and helps victims of business email compromise fraud scheme</title>
+      <link>https://www.justice.gov/usao-wdwa/pr/us-attorneys-office-forfeits-cryptocurrency-and-helps-victims-business-email</link>
       <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,6 +238,16 @@
       <pubDate>Mon, 16 Dec 2024 06:11:00 +0000</pubDate>
     </item>
     <item>
+      <title>A Look Back: The Evolution of Latin American eCrime Malware in 2024</title>
+      <link>https://www.crowdstrike.com/en-us/blog/latam-ecrime-malware-evolution-2024/</link>
+      <pubDate>Mon, 16 Dec 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Named a Leader in GigaOm Radar for Ransomware Prevention</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-gigaom-radar-ransomware-prevention/</link>
+      <pubDate>Mon, 16 Dec 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Malicious ad distributes SocGholish malware to Kaiser Permanente employees</title>
       <link>https://www.malwarebytes.com/blog/cybercrime/2024/12/malicious-ad-distributes-socgholish-malware-to-kaiser-permanente-employees</link>
       <pubDate>Mon, 16 Dec 2024 04:18:35 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action</title>
       <link>https://thehackernews.com/2024/12/germany-disrupts-badbox-malware-on.html</link>
       <pubDate>Sat, 14 Dec 2024 11:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thai Officials Targeted in Yokai Backdoor Campaign Using DLL Side-Loading Techniques</title>
-      <link>https://thehackernews.com/2024/12/thai-officials-targeted-in-yokai.html</link>
-      <pubDate>Sat, 14 Dec 2024 10:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crypted Hearts: Exposing the HeartCrypt Packer-as-a-Service Operation</title>
-      <link>https://unit42.paloaltonetworks.com/packer-as-a-service-heartcrypt-malware/</link>
-      <pubDate>Fri, 13 Dec 2024 23:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian IT Pros Urged to Guard Against Chinese Cybersecurity Threats</title>
-      <link>https://www.techrepublic.com/article/australian-it-pros-warned-against-chinese-cybersecurity-threats/</link>
-      <pubDate>Fri, 13 Dec 2024 22:53:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Biology and Ecology of the Colossal Squid</title>
-      <link>https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-biology-and-ecology-of-the-colossal-squid.html</link>
-      <pubDate>Fri, 13 Dec 2024 22:05:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Azure Cloud Configuration Review</title>
-      <link>https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review</link>
-      <pubDate>Fri, 13 Dec 2024 21:55:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>German agency BSI sinkholed a botnet of 30,000 devices infected with BadBox</title>
-      <link>https://securityaffairs.com/171968/malware/bsi-sinkholed-badbox-botnet.html</link>
-      <pubDate>Fri, 13 Dec 2024 20:43:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
