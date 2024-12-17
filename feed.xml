@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Dec 2024 16:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 18:29:34 +0000</lastBuildDate>
+    <item>
+      <title>Sophisticated TA397 Malware Targets Turkish Defense Sector</title>
+      <link>https://www.infosecurity-magazine.com/news/ta397-malware-targets-turkish/</link>
+      <pubDate>Tue, 17 Dec 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking Digital License Plates</title>
+      <link>https://www.schneier.com/blog/archives/2024/12/hacking-digital-license-plates.html</link>
+      <pubDate>Tue, 17 Dec 2024 17:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Exploit Microsoft Teams and AnyDesk to Deploy DarkGate Malware</title>
+      <link>https://thehackernews.com/2024/12/attackers-exploit-microsoft-teams-and.html</link>
+      <pubDate>Tue, 17 Dec 2024 16:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas Tech University Data Breach Impacts 1.4 Million</title>
+      <link>https://www.infosecurity-magazine.com/news/texas-tech-university-breach/</link>
+      <pubDate>Tue, 17 Dec 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 million payment card details stolen in painful reminder to monitor Christmas spending</title>
+      <link>https://www.malwarebytes.com/blog/news/2024/12/5-million-payment-card-details-stolen-in-painful-reminder-to-monitor-christmas-spending</link>
+      <pubDate>Tue, 17 Dec 2024 16:24:10 +0000</pubDate>
+    </item>
     <item>
       <title>Meta fined $263 million for alleged GDPR violations that led to data breach</title>
       <link>https://therecord.media/meta-fined-263-million-gdpr-violations-data-breach</link>
@@ -16,6 +41,11 @@
       <title>DarkGate Malware Attack Detection: Voice Phishing via Microsoft Teams Leads to Malware Distribution</title>
       <link>https://socprime.com/blog/darkgate-malware-detection/</link>
       <pubDate>Tue, 17 Dec 2024 16:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 17 Dec 2024 16:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Top 5 Symantec Cybersecurity Predictions for 2025</title>
@@ -31,11 +61,6 @@
       <title>The FBI warns of HiatusRAT scanning campaigns against Chinese-branded web cameras and DVRs</title>
       <link>https://securityaffairs.com/172074/malware/fbi-warns-of-hiatusrat-scanning-campaigns.html</link>
       <pubDate>Tue, 17 Dec 2024 15:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 17 Dec 2024 15:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Use Microsoft MSC Files to Deploy Obfuscated Backdoor in Pakistan Attacks</title>
@@ -83,6 +108,11 @@
       <pubDate>Tue, 17 Dec 2024 12:05:00 +0000</pubDate>
     </item>
     <item>
+      <title>Real Estate Developer Sentenced to Nearly 13 Years in Prison for Embezzling Millions From the Failed Washington Federal Bank in Chicago</title>
+      <link>https://www.justice.gov/usao-ndil/pr/real-estate-developer-sentenced-nearly-13-years-prison-embezzling-millions-failed</link>
+      <pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ThreatQuotient ThreatQ Platform</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-352-01</link>
       <pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
@@ -103,8 +133,18 @@
       <pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/12/17/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA and ONCD Release Playbook for Strengthening Cybersecurity in Federal Grant Programs for Critical Infrastructure</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/12/17/cisa-and-oncd-release-playbook-strengthening-cybersecurity-federal-grant-programs-critical</link>
+      <pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Issues BOD 25-01, Implementing Secure Practices for Cloud Services</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/12/17/cisa-issues-bod-25-01-implementing-secure-practices-cloud-services</link>
       <pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -266,46 +306,6 @@
       <title>UAC-0099 Attack Detection: Cyber-Espionage Activity Against Ukrainian State Agencies Using WinRAR Exploit and LONEPAGE Malware</title>
       <link>https://socprime.com/blog/uac-0099-cyber-espionage-attacks-detection/</link>
       <pubDate>Mon, 16 Dec 2024 15:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeceptionAds Delivers 1M+ Daily Impressions via 3,000 Sites, Fake CAPTCHA Pages</title>
-      <link>https://thehackernews.com/2024/12/deceptionads-delivers-1m-daily.html</link>
-      <pubDate>Mon, 16 Dec 2024 14:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Captcha Campaign Highlights Risks of Malvertising Networks</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-captcha-campaign-risks/</link>
-      <pubDate>Mon, 16 Dec 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rydox cybercrime marketplace seized by law enforcement, suspected admins arrested</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/rydox-cybercrime-marketplace-seixed-by-law-enforcement-suspected-admins-arrested</link>
-      <pubDate>Mon, 16 Dec 2024 13:27:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>LogRhythm vs SolarWinds (2024): SIEM Tool Comparison</title>
-      <link>https://www.techrepublic.com/article/logrhythm-vs-solarwinds/</link>
-      <pubDate>Mon, 16 Dec 2024 13:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>NoviSpy Spyware Installed on Journalist's Phone After Unlocking It With Cellebrite Tool</title>
-      <link>https://thehackernews.com/2024/12/novispy-spyware-installed-on.html</link>
-      <pubDate>Mon, 16 Dec 2024 12:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amnesty Accuses Serbia of Tracking Journalists and Activists with Spyware</title>
-      <link>https://www.infosecurity-magazine.com/news/amnesty-accuses-serbia-spyware/</link>
-      <pubDate>Mon, 16 Dec 2024 12:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips</title>
-      <link>https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats_16.html</link>
-      <pubDate>Mon, 16 Dec 2024 12:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Short-Lived Certificates Coming to Let’s Encrypt</title>
-      <link>https://www.schneier.com/blog/archives/2024/12/short-lived-certificates-coming-to-lets-encrypt.html</link>
-      <pubDate>Mon, 16 Dec 2024 12:06:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
