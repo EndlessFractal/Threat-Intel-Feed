@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 18:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 20:22:05 +0000</lastBuildDate>
+    <item>
+      <title>A lightweight app comes with some heavy consequences, researchers say</title>
+      <link>https://therecord.media/a-lightweight-app-comes-with-some-heavy-consequences-mcafee</link>
+      <pubDate>Wed, 18 Dec 2024 19:53:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 18 Dec 2024 19:05:03 +0000</pubDate>
+    </item>
     <item>
       <title>Moscow lists Recorded Future as 'undesirable' organization</title>
       <link>https://therecord.media/recorded-future-undesirable-russia-prosecutor-general</link>
@@ -36,11 +46,6 @@
       <title>US Government Issues Cloud Security Requirements for Federal Agencies</title>
       <link>https://www.infosecurity-magazine.com/news/cloud-security-federal-agencies/</link>
       <pubDate>Wed, 18 Dec 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 18 Dec 2024 15:05:02 +0000</pubDate>
     </item>
     <item>
       <title>Phishing Attacks Double in 2024</title>
@@ -113,6 +118,11 @@
       <pubDate>Wed, 18 Dec 2024 12:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ukrainian National Sentenced to Federal Prison in “Raccoon Infostealer” Cybercrime Case</title>
+      <link>https://www.justice.gov/usao-wdtx/pr/ukrainian-national-sentenced-federal-prison-raccoon-infostealer-cybercrime-case</link>
+      <pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/12/18/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
@@ -156,6 +166,11 @@
       <title>Meta Hit with Massive $263m GDPR Fine</title>
       <link>https://www.infosecurity-magazine.com/news/meta-hit-with-massive-263m-gdpr/</link>
       <pubDate>Wed, 18 Dec 2024 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Biggest Data Breaches of 2024</title>
+      <link>https://www.hackmageddon.com/2024/12/18/the-biggest-data-breaches-of-2024/</link>
+      <pubDate>Wed, 18 Dec 2024 10:08:58 +0000</pubDate>
     </item>
     <item>
       <title>Analysis of Cyber Anarchy Squad attacks targeting Russian and Belarusian organizations</title>
@@ -218,11 +233,6 @@
       <pubDate>Wed, 18 Dec 2024 00:04:50 +0000</pubDate>
     </item>
     <item>
-      <title>Fraud Funding Terrorism? The Cost of Missing Sanctioned Connections in a Globalized Fraud Ecosystem</title>
-      <link>https://www.recordedfuture.com/blog/fraud-funding-terrorism</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>LDAP Enumeration: Unveiling the Double-Edged Sword of Active Directory</title>
       <link>https://unit42.paloaltonetworks.com/lightweight-directory-access-protocol-based-attacks/</link>
       <pubDate>Tue, 17 Dec 2024 23:00:43 +0000</pubDate>
@@ -278,11 +288,6 @@
       <pubDate>Tue, 17 Dec 2024 16:24:10 +0000</pubDate>
     </item>
     <item>
-      <title>Meta fined $263 million for alleged GDPR violations that led to data breach</title>
-      <link>https://therecord.media/meta-fined-263-million-gdpr-violations-data-breach</link>
-      <pubDate>Tue, 17 Dec 2024 16:17:31 +0000</pubDate>
-    </item>
-    <item>
       <title>DarkGate Malware Attack Detection: Voice Phishing via Microsoft Teams Leads to Malware Distribution</title>
       <link>https://socprime.com/blog/darkgate-malware-detection/</link>
       <pubDate>Tue, 17 Dec 2024 16:16:42 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>The FBI warns of HiatusRAT scanning campaigns against Chinese-branded web cameras and DVRs</title>
       <link>https://securityaffairs.com/172074/malware/fbi-warns-of-hiatusrat-scanning-campaigns.html</link>
       <pubDate>Tue, 17 Dec 2024 15:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, December 2024</title>
-      <link>https://asec.ahnlab.com/en/85192/</link>
-      <pubDate>Tue, 17 Dec 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
