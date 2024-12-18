@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 20:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 22:19:17 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 18 Dec 2024 21:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA urges senior government officials to lock down mobile devices amid ongoing Salt Typhoon breach</title>
+      <link>https://therecord.media/cisa-urges-senior-officials-to-lock-down-devices-salt-typhoon</link>
+      <pubDate>Wed, 18 Dec 2024 21:04:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat actors are attempting to exploit Apache Struts vulnerability CVE-2024-53677</title>
+      <link>https://securityaffairs.com/172109/hacking/apache-struts-vulnerability-cve-2024-53677-flaw.html</link>
+      <pubDate>Wed, 18 Dec 2024 20:20:02 +0000</pubDate>
+    </item>
     <item>
       <title>A lightweight app comes with some heavy consequences, researchers say</title>
       <link>https://therecord.media/a-lightweight-app-comes-with-some-heavy-consequences-mcafee</link>
       <pubDate>Wed, 18 Dec 2024 19:53:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 18 Dec 2024 19:05:03 +0000</pubDate>
     </item>
     <item>
       <title>Moscow lists Recorded Future as 'undesirable' organization</title>
@@ -120,6 +130,11 @@
     <item>
       <title>Ukrainian National Sentenced to Federal Prison in “Raccoon Infostealer” Cybercrime Case</title>
       <link>https://www.justice.gov/usao-wdtx/pr/ukrainian-national-sentenced-federal-prison-raccoon-infostealer-cybercrime-case</link>
+      <pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suburban Chicago Man Charged With Embezzling Millions From Nonprofit Organization</title>
+      <link>https://www.justice.gov/usao-ndil/pr/suburban-chicago-man-charged-embezzling-millions-nonprofit-organization</link>
       <pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -233,6 +248,11 @@
       <pubDate>Wed, 18 Dec 2024 00:04:50 +0000</pubDate>
     </item>
     <item>
+      <title>Fraud Funding Terrorism? The Cost of Missing Sanctioned Connections in a Globalized Fraud Ecosystem</title>
+      <link>https://www.recordedfuture.com/blog/fraud-funding-terrorism</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>LDAP Enumeration: Unveiling the Double-Edged Sword of Active Directory</title>
       <link>https://unit42.paloaltonetworks.com/lightweight-directory-access-protocol-based-attacks/</link>
       <pubDate>Tue, 17 Dec 2024 23:00:43 +0000</pubDate>
@@ -251,11 +271,6 @@
       <title>The AI Fix #29: AI on OnlyFans, and the bot that wants to be a billionaire</title>
       <link>https://grahamcluley.com/the-ai-fix-29/</link>
       <pubDate>Tue, 17 Dec 2024 20:53:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nebraska AG sues Change Healthcare, UnitedHealth for data theft after ransomware attack</title>
-      <link>https://therecord.media/nebraska-ag-sues-change-healthcare-unitedhealth-after-ransomware-attack</link>
-      <pubDate>Tue, 17 Dec 2024 20:53:13 +0000</pubDate>
     </item>
     <item>
       <title>CrowdStrike Survey Highlights Security Challenges in AI Adoption</title>
@@ -291,21 +306,6 @@
       <title>DarkGate Malware Attack Detection: Voice Phishing via Microsoft Teams Leads to Malware Distribution</title>
       <link>https://socprime.com/blog/darkgate-malware-detection/</link>
       <pubDate>Tue, 17 Dec 2024 16:16:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 5 Symantec Cybersecurity Predictions for 2025</title>
-      <link>https://symantec-enterprise-blogs.security.com/feature-stories/2025-predictions</link>
-      <pubDate>Tue, 17 Dec 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Exploit Google Calendar to Spread Malicious Links</title>
-      <link>https://www.infosecurity-magazine.com/news/cybercriminals-exploit-google/</link>
-      <pubDate>Tue, 17 Dec 2024 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The FBI warns of HiatusRAT scanning campaigns against Chinese-branded web cameras and DVRs</title>
-      <link>https://securityaffairs.com/172074/malware/fbi-warns-of-hiatusrat-scanning-campaigns.html</link>
-      <pubDate>Tue, 17 Dec 2024 15:26:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
