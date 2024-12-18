@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 01:39:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 02:57:18 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 18 Dec 2024 02:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, December 18th, 2024 https://isc.sans.edu/podcastdetail/9260, (Wed, Dec 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/31532</link>
+      <pubDate>Wed, 18 Dec 2024 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>CISA orders federal agencies to secure Microsoft cloud systems after ‘recent’ intrusions</title>
       <link>https://therecord.media/cisa-orders-federal-agencies-to-secure-microsoft-cloud-systems</link>
       <pubDate>Wed, 18 Dec 2024 01:31:04 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:03 +0000</pubDate>
+      <title>[Guest Diary] A Deep Dive into TeamTNT and Spinning YARN, (Wed, Dec 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/31530</link>
+      <pubDate>Wed, 18 Dec 2024 00:04:50 +0000</pubDate>
     </item>
     <item>
       <title>LDAP Enumeration: Unveiling the Double-Edged Sword of Active Directory</title>
@@ -91,6 +101,11 @@
       <title>The FBI warns of HiatusRAT scanning campaigns against Chinese-branded web cameras and DVRs</title>
       <link>https://securityaffairs.com/172074/malware/fbi-warns-of-hiatusrat-scanning-campaigns.html</link>
       <pubDate>Tue, 17 Dec 2024 15:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, December 2024</title>
+      <link>https://asec.ahnlab.com/en/85192/</link>
+      <pubDate>Tue, 17 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Use Microsoft MSC Files to Deploy Obfuscated Backdoor in Pakistan Attacks</title>
@@ -208,6 +223,11 @@
       <pubDate>Tue, 17 Dec 2024 10:39:06 +0000</pubDate>
     </item>
     <item>
+      <title>16-30 September 2024 Cyber Attacks Timeline</title>
+      <link>https://www.hackmageddon.com/2024/12/17/16-30-september-2024-cyber-attacks-timeline/</link>
+      <pubDate>Tue, 17 Dec 2024 10:29:18 +0000</pubDate>
+    </item>
+    <item>
       <title>US Unveils New National Cyber Incident Response Plan</title>
       <link>https://www.infosecurity-magazine.com/news/us-cyber-incident-response-plan/</link>
       <pubDate>Tue, 17 Dec 2024 10:15:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Ransomware to Cause ‘Bumpy’ Security Ride in 2025</title>
       <link>https://www.techrepublic.com/article/apac-cybersecurity-vulnerabilities-2025-rapid7-insights/</link>
       <pubDate>Mon, 16 Dec 2024 21:41:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New York Releases AI Cybersecurity Guidance: What You Need to Know</title>
-      <link>https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance</link>
-      <pubDate>Mon, 16 Dec 2024 21:37:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report claims that Serbian authorities abused Cellebrite tool to install NoviSpy spyware</title>
-      <link>https://securityaffairs.com/172039/malware/novispy-spyware-serbian-journalist.html</link>
-      <pubDate>Mon, 16 Dec 2024 20:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Task scams surge by 400%, but what are they?</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/12/task-scams-surge-by-400-but-what-are-they</link>
-      <pubDate>Mon, 16 Dec 2024 17:24:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>A day in the life of a privacy pro, with Ron de Jesus (Lock and Code S05E26)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2024/12/a-day-in-the-life-of-a-privacy-pro-with-ron-de-jesus-lock-and-code-s05e26</link>
-      <pubDate>Mon, 16 Dec 2024 16:47:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
