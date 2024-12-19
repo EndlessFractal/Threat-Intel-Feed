@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 04:24:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 06:28:52 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -73,12 +73,17 @@
       <pubDate>Wed, 18 Dec 2024 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, December 2024</title>
+      <link>https://asec.ahnlab.com/en/85229/</link>
+      <pubDate>Wed, 18 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Phishing Attacks Double in 2024</title>
       <link>https://www.infosecurity-magazine.com/news/2024-phishing-attacks-double/</link>
       <pubDate>Wed, 18 Dec 2024 14:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>HubPhish Exploits HubSpot Tools to Target 20,000 European Users for Credential Theft</title>
+      <title>HubPhish Abuses HubSpot Tools to Target 20,000 European Users for Credential Theft</title>
       <link>https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html</link>
       <pubDate>Wed, 18 Dec 2024 14:10:00 +0000</pubDate>
     </item>
@@ -238,6 +243,11 @@
       <pubDate>Wed, 18 Dec 2024 08:00:28 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Earns AAA Award, 100% Total Accuracy Score in SE Labs Q3 Enterprise Advanced Security Test</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-aaa-award-100-accuracy-se-labs-q3/</link>
+      <pubDate>Wed, 18 Dec 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CrowdStrike Named a Leader in 2024 GigaOm Radar for Container Security</title>
       <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-2024-gigaom-radar-container-security/</link>
       <pubDate>Wed, 18 Dec 2024 06:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Hacking Digital License Plates</title>
       <link>https://www.schneier.com/blog/archives/2024/12/hacking-digital-license-plates.html</link>
       <pubDate>Tue, 17 Dec 2024 17:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Exploit Microsoft Teams and AnyDesk to Deploy DarkGate Malware</title>
-      <link>https://thehackernews.com/2024/12/attackers-exploit-microsoft-teams-and.html</link>
-      <pubDate>Tue, 17 Dec 2024 16:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas Tech University Data Breach Impacts 1.4 Million</title>
-      <link>https://www.infosecurity-magazine.com/news/texas-tech-university-breach/</link>
-      <pubDate>Tue, 17 Dec 2024 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
