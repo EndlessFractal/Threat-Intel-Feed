@@ -6,7 +6,67 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 10:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 12:40:10 +0000</lastBuildDate>
+    <item>
+      <title>OpenSearch Split Index API</title>
+      <link>https://socprime.com/blog/opensearch-split-index-api/</link>
+      <pubDate>Thu, 19 Dec 2024 12:13:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 19 Dec 2024 12:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers exploiting a patched FortiClient EMS vulnerability in the wild</title>
+      <link>https://securelist.com/patched-forticlient-ems-vulnerability-exploited-in-the-wild/115046/</link>
+      <pubDate>Thu, 19 Dec 2024 12:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recorded Future CEO Calls Russia’s “Undesirable” Listing a “Compliment”</title>
+      <link>https://www.infosecurity-magazine.com/news/recorded-future-russia-undesirable/</link>
+      <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Command Injection Exploit For PHPUnit before 4.8.28 and 5.x before 5.6.3 [Guest Diary], (Tue, Dec 17th)</title>
+      <link>https://isc.sans.edu/diary/rss/31528</link>
+      <pubDate>Thu, 19 Dec 2024 11:58:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ArcSight Administrator Guide: Renewing the Self-Signed Certificate</title>
+      <link>https://socprime.com/blog/arcsight-administrator-guide-renewing-the-self-signed-certificate/</link>
+      <pubDate>Thu, 19 Dec 2024 11:50:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2024 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2024/12/19/september-2024-cyber-attacks-statistics/</link>
+      <pubDate>Thu, 19 Dec 2024 11:17:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERT-UA: Russia-linked UAC-0125 abuses Cloudflare Workers to target Ukrainian army</title>
+      <link>https://securityaffairs.com/172139/apt/cert-ua-warns-russia-uac-0125-abuses-cloudflare-workers.html</link>
+      <pubDate>Thu, 19 Dec 2024 11:05:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring vulnerable Windows drivers</title>
+      <link>https://blog.talosintelligence.com/exploring-vulnerable-windows-drivers/</link>
+      <pubDate>Thu, 19 Dec 2024 11:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Friday Chaos: The Return of Gozi Malware</title>
+      <link>https://securityintelligence.com/posts/black-friday-chaos-return-of-gozi-malware/</link>
+      <pubDate>Thu, 19 Dec 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits</title>
+      <link>https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html</link>
+      <pubDate>Thu, 19 Dec 2024 10:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability Exploit Assessment Tool EPSS Exposed to Adversarial Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/epss-exposed-to-adversarial-attack/</link>
+      <pubDate>Thu, 19 Dec 2024 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lazarus group evolves its infection chain with old and new malware</title>
       <link>https://securelist.com/lazarus-new-malware/115059/</link>
@@ -36,11 +96,6 @@
       <title>UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App</title>
       <link>https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html</link>
       <pubDate>Thu, 19 Dec 2024 08:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 19 Dec 2024 08:10:03 +0000</pubDate>
     </item>
     <item>
       <title>US considers banning TP-Link routers over cybersecurity concerns</title>
@@ -251,61 +306,6 @@
       <title>European Commission Opens TikTok Election Integrity Probe</title>
       <link>https://www.infosecurity-magazine.com/news/european-commission-tiktok-probe/</link>
       <pubDate>Wed, 18 Dec 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Irish Data Protection Commission (DPC) fined Meta €251 million for a 2018 data breach</title>
-      <link>https://securityaffairs.com/172100/laws-and-regulations/dpc-fined-meta-e251-million.html</link>
-      <pubDate>Wed, 18 Dec 2024 09:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>BeyondTrust Issues Urgent Patch for Critical Vulnerability in PRA and RS Products</title>
-      <link>https://thehackernews.com/2024/12/beyondtrust-issues-urgent-patch-for.html</link>
-      <pubDate>Wed, 18 Dec 2024 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>INTERPOL Pushes for "Romance Baiting" to Replace "Pig Butchering" in Scam Discourse</title>
-      <link>https://thehackernews.com/2024/12/interpol-pushes-for-romance-baiting-to.html</link>
-      <pubDate>Wed, 18 Dec 2024 09:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Mask APT is back after 10 years of silence</title>
-      <link>https://securityaffairs.com/172093/apt/the-mask-apt-is-back.html</link>
-      <pubDate>Wed, 18 Dec 2024 08:20:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Effective Phishing Campaign Targeting European Companies and Institutions</title>
-      <link>https://unit42.paloaltonetworks.com/european-phishing-campaign/</link>
-      <pubDate>Wed, 18 Dec 2024 08:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Earns AAA Award, 100% Total Accuracy Score in SE Labs Q3 Enterprise Advanced Security Test</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-aaa-award-100-accuracy-se-labs-q3/</link>
-      <pubDate>Wed, 18 Dec 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Named a Leader in 2024 GigaOm Radar for Container Security</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-2024-gigaom-radar-container-security/</link>
-      <pubDate>Wed, 18 Dec 2024 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Fined €251 Million for 2018 Data Breach Impacting 29 Million Accounts</title>
-      <link>https://thehackernews.com/2024/12/meta-fined-251-million-for-2018-data.html</link>
-      <pubDate>Wed, 18 Dec 2024 05:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, December 18th, 2024 https://isc.sans.edu/podcastdetail/9260, (Wed, Dec 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/31532</link>
-      <pubDate>Wed, 18 Dec 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Guest Diary] A Deep Dive into TeamTNT and Spinning YARN, (Wed, Dec 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/31530</link>
-      <pubDate>Wed, 18 Dec 2024 00:04:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fraud Funding Terrorism? The Cost of Missing Sanctioned Connections in a Globalized Fraud Ecosystem</title>
-      <link>https://www.recordedfuture.com/blog/fraud-funding-terrorism</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
