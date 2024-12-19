@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 18:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 20:21:00 +0000</lastBuildDate>
+    <item>
+      <title>Routers with default passwords are attracting Mirai infections, Juniper says</title>
+      <link>https://therecord.media/routers-with-default-passwords-mirai-malware-juniper</link>
+      <pubDate>Thu, 19 Dec 2024 19:55:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Windows Registry Adventure #5: The regf file format</title>
+      <link>https://googleprojectzero.blogspot.com/2024/12/the-windows-registry-adventure-5-regf.html</link>
+      <pubDate>Thu, 19 Dec 2024 19:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to the party, pal!</title>
+      <link>https://blog.talosintelligence.com/welcome-to-the-party-pal-2/</link>
+      <pubDate>Thu, 19 Dec 2024 19:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acrobat out-of-bounds and Foxit use-after-free PDF reader vulnerabilities found</title>
+      <link>https://blog.talosintelligence.com/acrobat-out-of-bounds-and-foxit-use-after-free-pdf-reader-vulnerabilities-found/</link>
+      <pubDate>Thu, 19 Dec 2024 18:53:59 +0000</pubDate>
+    </item>
     <item>
       <title>TP-Link faces US national security probe, potential ban on devices</title>
       <link>https://www.malwarebytes.com/blog/news/2024/12/tp-link-faces-us-national-security-probe-potential-ban-on-devices</link>
@@ -173,6 +193,11 @@
       <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Releases Eight Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-releases-eight-industrial-control-systems-advisories</link>
       <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
@@ -253,9 +278,14 @@
       <pubDate>Thu, 19 Dec 2024 06:25:17 +0000</pubDate>
     </item>
     <item>
-      <title>Senior DHS official who launched cyber safety review board departs</title>
-      <link>https://therecord.media/senior-dhs-official-silvers-departs</link>
-      <pubDate>Thu, 19 Dec 2024 03:54:57 +0000</pubDate>
+      <title>Assessing Misconfigurations at Scale with Falcon Exposure Management</title>
+      <link>https://www.crowdstrike.com/en-us/blog/assess-misconfigurations-at-scale-with-fem/</link>
+      <pubDate>Thu, 19 Dec 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Uses Proven Detection Logic for Pre-Deployment Malware Scanning</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-pre-deployment-malware-detection/</link>
+      <pubDate>Thu, 19 Dec 2024 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, December 19th, 2024 https://isc.sans.edu/podcastdetail/9262, (Thu, Dec 19th)</title>
@@ -276,36 +306,6 @@
       <title>New Advances in the Understanding of Prime Numbers</title>
       <link>https://www.schneier.com/blog/archives/2024/12/new-advances-in-the-understanding-of-prime-numbers.html</link>
       <pubDate>Wed, 18 Dec 2024 16:40:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pallet liquidation scams and how to recognize them</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/12/pallet-liquidation-scams-and-how-to-recognize-them</link>
-      <pubDate>Wed, 18 Dec 2024 15:57:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>We’ll Never Stop Fighting For You</title>
-      <link>https://symantec-enterprise-blogs.security.com/feature-stories/2024-recap</link>
-      <pubDate>Wed, 18 Dec 2024 15:52:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Government Issues Cloud Security Requirements for Federal Agencies</title>
-      <link>https://www.infosecurity-magazine.com/news/cloud-security-federal-agencies/</link>
-      <pubDate>Wed, 18 Dec 2024 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, December 2024</title>
-      <link>https://asec.ahnlab.com/en/85229/</link>
-      <pubDate>Wed, 18 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing Attacks Double in 2024</title>
-      <link>https://www.infosecurity-magazine.com/news/2024-phishing-attacks-double/</link>
-      <pubDate>Wed, 18 Dec 2024 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HubPhish Abuses HubSpot Tools to Target 20,000 European Users for Credential Theft</title>
-      <link>https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html</link>
-      <pubDate>Wed, 18 Dec 2024 14:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
