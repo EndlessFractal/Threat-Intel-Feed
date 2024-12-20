@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 22:18:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 01:35:10 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 20 Dec 2024 01:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Fix It’ social-engineering scheme impersonates several brands</title>
+      <link>https://www.malwarebytes.com/blog/cybercrime/2024/12/fix-it-social-engineering-scheme-impersonates-several-brands</link>
+      <pubDate>Thu, 19 Dec 2024 22:33:57 +0000</pubDate>
+    </item>
     <item>
       <title>Bipartisan bills to protect car owners’ privacy introduced in House and Senate</title>
       <link>https://therecord.media/bipartisan-bills-car-owner-privacy-introduced-house-senate</link>
       <pubDate>Thu, 19 Dec 2024 22:11:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 19 Dec 2024 20:10:03 +0000</pubDate>
     </item>
     <item>
       <title>Routers with default passwords are attracting Mirai infections, Juniper says</title>
@@ -158,6 +163,11 @@
       <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Romanian National Sentenced to 20 Years in Prison in Connection with NetWalker Ransomware Attacks Resulting in the Payment of Millions of Dollars in Ransoms</title>
+      <link>https://www.justice.gov/opa/pr/romanian-national-sentenced-20-years-prison-connection-netwalker-ransomware-attacks</link>
+      <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Recorded Future CEO Calls Russia’s “Undesirable” Listing a “Compliment”</title>
       <link>https://www.infosecurity-magazine.com/news/recorded-future-russia-undesirable/</link>
       <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>ISC Stormcast For Thursday, December 19th, 2024 https://isc.sans.edu/podcastdetail/9262, (Thu, Dec 19th)</title>
       <link>https://isc.sans.edu/diary/rss/31534</link>
       <pubDate>Thu, 19 Dec 2024 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked APT29 group used red team tools in rogue RDP attacks</title>
-      <link>https://securityaffairs.com/172117/apt/russian-apt29-group-uses-rogue-rdp.html</link>
-      <pubDate>Wed, 18 Dec 2024 22:24:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actors are attempting to exploit Apache Struts vulnerability CVE-2024-53677</title>
-      <link>https://securityaffairs.com/172109/hacking/apache-struts-vulnerability-cve-2024-53677-flaw.html</link>
-      <pubDate>Wed, 18 Dec 2024 20:20:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
