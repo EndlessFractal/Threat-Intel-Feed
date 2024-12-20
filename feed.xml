@@ -6,16 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 10:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 12:37:25 +0000</lastBuildDate>
     <item>
-      <title>The Top 25 Security Predictions for 2025 (Part 1)</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-25-security-predictions-for-2025-part-1</link>
-      <pubDate>Fri, 20 Dec 2024 10:00:00 +0000</pubDate>
+      <title>Ukraine's Security Service Probes GRU-Linked Cyber-Attack on State Registers</title>
+      <link>https://www.infosecurity-magazine.com/news/ukraines-probes-gru-linked/</link>
+      <pubDate>Fri, 20 Dec 2024 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Splunk: Using COLLECT Command for Creating New Events in a New Index</title>
+      <link>https://socprime.com/blog/collect-command-for-creating-new-events-in-a-new-index/</link>
+      <pubDate>Fri, 20 Dec 2024 12:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit Admins Tease a New Ransomware Version</title>
+      <link>https://www.infosecurity-magazine.com/news/lockbit-admins-tease-a-new/</link>
+      <pubDate>Fri, 20 Dec 2024 12:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 20 Dec 2024 09:20:03 +0000</pubDate>
+      <pubDate>Fri, 20 Dec 2024 12:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webcams and DVRs Vulnerable to HiatusRAT, FBI Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/webcams-vulnerable-hiatusrat-fbi/</link>
+      <pubDate>Fri, 20 Dec 2024 11:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Christmas "Gift" Delivered Through SSH, (Fri, Dec 20th)</title>
+      <link>https://isc.sans.edu/diary/rss/31538</link>
+      <pubDate>Fri, 20 Dec 2024 11:01:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Now You See Me, Now You Don’t: Using LLMs to Obfuscate Malicious JavaScript</title>
+      <link>https://unit42.paloaltonetworks.com/using-llms-obfuscate-malicious-javascript/</link>
+      <pubDate>Fri, 20 Dec 2024 11:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Urges Encrypted Messaging After Salt Typhoon Hack</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-e2e-messaging-salt-typhoon/</link>
+      <pubDate>Fri, 20 Dec 2024 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware</title>
+      <link>https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html</link>
+      <pubDate>Fri, 20 Dec 2024 10:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds BeyondTrust software flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/172170/security/us-cisa-beyondtrust-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Fri, 20 Dec 2024 10:43:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Top 25 Security Predictions for 2025 (Part 1)</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-25-security-predictions-for-2025-part-1</link>
+      <pubDate>Fri, 20 Dec 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Attackers Target Industries with Low Downtime Tolerance</title>
@@ -261,51 +306,6 @@
       <title>CISA Releases Eight Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-releases-eight-industrial-control-systems-advisories</link>
       <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Command Injection Exploit For PHPUnit before 4.8.28 and 5.x before 5.6.3 [Guest Diary], (Tue, Dec 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/31528</link>
-      <pubDate>Thu, 19 Dec 2024 11:58:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ArcSight Administrator Guide: Renewing the Self-Signed Certificate</title>
-      <link>https://socprime.com/blog/arcsight-administrator-guide-renewing-the-self-signed-certificate/</link>
-      <pubDate>Thu, 19 Dec 2024 11:50:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 2024 Cyber Attacks Statistics</title>
-      <link>https://www.hackmageddon.com/2024/12/19/september-2024-cyber-attacks-statistics/</link>
-      <pubDate>Thu, 19 Dec 2024 11:17:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>CERT-UA: Russia-linked UAC-0125 abuses Cloudflare Workers to target Ukrainian army</title>
-      <link>https://securityaffairs.com/172139/apt/cert-ua-warns-russia-uac-0125-abuses-cloudflare-workers.html</link>
-      <pubDate>Thu, 19 Dec 2024 11:05:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploring vulnerable Windows drivers</title>
-      <link>https://blog.talosintelligence.com/exploring-vulnerable-windows-drivers/</link>
-      <pubDate>Thu, 19 Dec 2024 11:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Friday chaos: The return of Gozi malware</title>
-      <link>https://securityintelligence.com/posts/black-friday-chaos-return-of-gozi-malware/</link>
-      <pubDate>Thu, 19 Dec 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits</title>
-      <link>https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html</link>
-      <pubDate>Thu, 19 Dec 2024 10:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerability Exploit Assessment Tool EPSS Exposed to Adversarial Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/epss-exposed-to-adversarial-attack/</link>
-      <pubDate>Thu, 19 Dec 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus group evolves its infection chain with old and new malware</title>
-      <link>https://securelist.com/lazarus-new-malware/115059/</link>
-      <pubDate>Thu, 19 Dec 2024 10:00:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
