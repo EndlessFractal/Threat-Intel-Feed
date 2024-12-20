@@ -6,14 +6,39 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 12:37:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 14:17:25 +0000</lastBuildDate>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 51</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-51-7/</link>
+      <pubDate>Fri, 20 Dec 2024 14:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to craft a comprehensive data cleanliness policy</title>
+      <link>https://securityintelligence.com/articles/how-to-craft-comprehensive-data-cleanliness-policy/</link>
+      <pubDate>Fri, 20 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding Basics of Apache Kafka</title>
+      <link>https://socprime.com/blog/understanding-the-basics-of-apache-kafka/</link>
+      <pubDate>Fri, 20 Dec 2024 12:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s state registers hit with one of Russia’s largest cyberattacks, officials say</title>
+      <link>https://therecord.media/ukraine-government-cyberattack-state-registers-russia</link>
+      <pubDate>Fri, 20 Dec 2024 12:51:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using map Command in Splunk</title>
+      <link>https://socprime.com/blog/using-the-map-command-in-splunk/</link>
+      <pubDate>Fri, 20 Dec 2024 12:43:02 +0000</pubDate>
+    </item>
     <item>
       <title>Ukraine's Security Service Probes GRU-Linked Cyber-Attack on State Registers</title>
       <link>https://www.infosecurity-magazine.com/news/ukraines-probes-gru-linked/</link>
       <pubDate>Fri, 20 Dec 2024 12:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Splunk: Using COLLECT Command for Creating New Events in a New Index</title>
+      <title>Splunk: Using collect Command for Creating New Events in a New Index</title>
       <link>https://socprime.com/blog/collect-command-for-creating-new-events-in-a-new-index/</link>
       <pubDate>Fri, 20 Dec 2024 12:21:39 +0000</pubDate>
     </item>
@@ -56,6 +81,11 @@
       <title>U.S. CISA adds BeyondTrust software flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/172170/security/us-cisa-beyondtrust-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Fri, 20 Dec 2024 10:43:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>BellaCPP: Discovering a new BellaCiao variant written in C++</title>
+      <link>https://securelist.com/bellacpp-cpp-version-of-bellaciao/115087/</link>
+      <pubDate>Fri, 20 Dec 2024 10:00:27 +0000</pubDate>
     </item>
     <item>
       <title>The Top 25 Security Predictions for 2025 (Part 1)</title>
@@ -183,11 +213,6 @@
       <pubDate>Thu, 19 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chainalysis: $2.2 billion stolen from crypto platforms in 2024 cyberattacks</title>
-      <link>https://therecord.media/cryptocurrency-platforms-2-billion-stolen-2024-chainalysis</link>
-      <pubDate>Thu, 19 Dec 2024 14:14:38 +0000</pubDate>
-    </item>
-    <item>
       <title>New Malware Can Kill Engineering Processes in ICS Environments</title>
       <link>https://www.infosecurity-magazine.com/news/malware-engineering-ics/</link>
       <pubDate>Thu, 19 Dec 2024 14:00:00 +0000</pubDate>
@@ -258,6 +283,11 @@
       <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Romanian National Sentenced to 20 Years in Prison in Connection with NetWalker Ransomware Attacks Resulting in the Payment of Millions of Dollars in Ransoms</title>
+      <link>https://www.justice.gov/usao-mdfl/pr/romanian-national-sentenced-20-years-prison-connection-netwalker-ransomware-attacks</link>
+      <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Recorded Future CEO Calls Russia’s “Undesirable” Listing a “Compliment”</title>
       <link>https://www.infosecurity-magazine.com/news/recorded-future-russia-undesirable/</link>
       <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
@@ -275,36 +305,6 @@
     <item>
       <title>Delta Electronics DTM Soft</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-03</link>
-      <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens User Management Component</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-04</link>
-      <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tibbo AggreGate Network Manager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-05</link>
-      <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Accutech Manager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-06</link>
-      <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Modicon Controllers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-07</link>
-      <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Eight Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-releases-eight-industrial-control-systems-advisories</link>
       <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
