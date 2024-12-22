@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Dec 2024 22:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 01:40:44 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 21 Dec 2024 20:20:03 +0000</pubDate>
+      <pubDate>Sat, 21 Dec 2024 23:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>BadBox rapidly grows, 190,000 Android devices infected</title>
+      <link>https://securityaffairs.com/172191/malware/190000-android-devices-infected-by-badbox.html</link>
+      <pubDate>Sat, 21 Dec 2024 21:32:27 +0000</pubDate>
     </item>
     <item>
       <title>Romanian national was sentenced to 20 years in prison for his role in NetWalker ransomware attacks</title>
@@ -301,11 +306,6 @@
       <title>Juniper Warns of Mirai Botnet Targeting SSR Devices with Default Passwords</title>
       <link>https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html</link>
       <pubDate>Thu, 19 Dec 2024 13:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>McAfee vs Norton: Which Antivirus Software Is Best?</title>
-      <link>https://www.techrepublic.com/article/mcafee-vs-norton/</link>
-      <pubDate>Thu, 19 Dec 2024 13:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
