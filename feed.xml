@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Dec 2024 04:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 06:25:35 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 22 Dec 2024 02:30:03 +0000</pubDate>
+      <pubDate>Sun, 22 Dec 2024 04:35:03 +0000</pubDate>
     </item>
     <item>
       <title>BadBox rapidly grows, 190,000 Android devices infected</title>
@@ -238,6 +238,11 @@
       <pubDate>Thu, 19 Dec 2024 17:07:30 +0000</pubDate>
     </item>
     <item>
+      <title>New Microsoft guidance for the CISA Zero Trust Maturity Model</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2024/12/19/new-microsoft-guidance-for-the-cisa-zero-trust-maturity-model/</link>
+      <pubDate>Thu, 19 Dec 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Enhancing Events with Geolocation Data in Logstash</title>
       <link>https://socprime.com/blog/enhancing-events-with-geolocation-data-in-logstash/</link>
       <pubDate>Thu, 19 Dec 2024 16:35:18 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Ossur Mobile Logic Application</title>
       <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-24-354-01</link>
       <pubDate>Thu, 19 Dec 2024 13:52:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Juniper Warns of Mirai Botnet Targeting SSR Devices with Default Passwords</title>
-      <link>https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html</link>
-      <pubDate>Thu, 19 Dec 2024 13:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
