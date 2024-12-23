@@ -6,16 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 16:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 18:26:02 +0000</lastBuildDate>
     <item>
-      <title>Protect 3 Devices With This Maximum Security Software</title>
-      <link>https://www.techrepublic.com/article/trend-micro-maximum-security/</link>
-      <pubDate>Mon, 23 Dec 2024 15:29:59 +0000</pubDate>
+      <title>Analyzing Malicious Intent in Python Code: A Case Study</title>
+      <link>https://feeds.fortinet.com/~/909871439/0/fortinet/blog/threat-research~Analyzing-Malicious-Intent-in-Python-Code-A-Case-Study</link>
+      <pubDate>Mon, 23 Dec 2024 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerabilities Found in WordPress Plugins WPLMS and VibeBP</title>
+      <link>https://www.infosecurity-magazine.com/news/flaws-wordpress-plugins-wplms/</link>
+      <pubDate>Mon, 23 Dec 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Attack Exposes Data of 5.6 Million Ascension Patients</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-data-ascesnion-patients/</link>
+      <pubDate>Mon, 23 Dec 2024 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Criminal Complaint against LockBit Ransomware Writer</title>
+      <link>https://www.schneier.com/blog/archives/2024/12/criminal-complaint-against-lockbit-ransomware-writer.html</link>
+      <pubDate>Mon, 23 Dec 2024 17:04:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2024 trends: Were they accurate?</title>
+      <link>https://securityintelligence.com/articles/2024-trends-were-they-accurate/</link>
+      <pubDate>Mon, 23 Dec 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 23 Dec 2024 14:45:03 +0000</pubDate>
+      <pubDate>Mon, 23 Dec 2024 16:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cryptomining Malware Found in Popular Open Source Packages</title>
+      <link>https://www.infosecurity-magazine.com/news/cryptomining-malware-opensource/</link>
+      <pubDate>Mon, 23 Dec 2024 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protect 3 Devices With This Maximum Security Software</title>
+      <link>https://www.techrepublic.com/article/trend-micro-maximum-security/</link>
+      <pubDate>Mon, 23 Dec 2024 15:29:59 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Court rules against NSO Group in WhatsApp spyware Lawsuit</title>
@@ -55,6 +85,11 @@
     <item>
       <title>Brazilian Man Charged With Making Extortionate Threats To Publicize Stolen Data Obtained By Unlawful Computer Intrusion</title>
       <link>https://www.justice.gov/usao-nj/pr/brazilian-man-charged-making-extortionate-threats-publicize-stolen-data-obtained</link>
+      <pubDate>Mon, 23 Dec 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/12/23/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Mon, 23 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -271,41 +306,6 @@
       <title>Christmas "Gift" Delivered Through SSH, (Fri, Dec 20th)</title>
       <link>https://isc.sans.edu/diary/rss/31538</link>
       <pubDate>Fri, 20 Dec 2024 11:01:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Now You See Me, Now You Don’t: Using LLMs to Obfuscate Malicious JavaScript</title>
-      <link>https://unit42.paloaltonetworks.com/using-llms-obfuscate-malicious-javascript/</link>
-      <pubDate>Fri, 20 Dec 2024 11:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Urges Encrypted Messaging After Salt Typhoon Hack</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-e2e-messaging-salt-typhoon/</link>
-      <pubDate>Fri, 20 Dec 2024 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware</title>
-      <link>https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html</link>
-      <pubDate>Fri, 20 Dec 2024 10:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds BeyondTrust software flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/172170/security/us-cisa-beyondtrust-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Fri, 20 Dec 2024 10:43:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>BellaCPP: Discovering a new BellaCiao variant written in C++</title>
-      <link>https://securelist.com/bellacpp-cpp-version-of-bellaciao/115087/</link>
-      <pubDate>Fri, 20 Dec 2024 10:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Top 25 Security Predictions for 2025 (Part 1)</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-25-security-predictions-for-2025-part-1</link>
-      <pubDate>Fri, 20 Dec 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Attackers Target Industries with Low Downtime Tolerance</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-industries-downtime/</link>
-      <pubDate>Fri, 20 Dec 2024 09:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
