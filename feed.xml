@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 04:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 06:28:28 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 23 Dec 2024 02:35:03 +0000</pubDate>
+      <pubDate>Mon, 23 Dec 2024 05:40:03 +0000</pubDate>
     </item>
     <item>
       <title>Inside Operation Destabilise: How a ransomware investigation linked Russian money laundering and street-level drug dealing</title>
@@ -288,6 +288,11 @@
       <pubDate>Thu, 19 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Report on Smishing-Based Mobile Security Threats</title>
+      <link>https://asec.ahnlab.com/en/85259/</link>
+      <pubDate>Thu, 19 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New Malware Can Kill Engineering Processes in ICS Environments</title>
       <link>https://www.infosecurity-magazine.com/news/malware-engineering-ics/</link>
       <pubDate>Thu, 19 Dec 2024 14:00:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>2024 roundup: Top data breach stories and industry trends</title>
       <link>https://securityintelligence.com/articles/2024-roundup-top-data-breach-stories-and-industry-trends/</link>
       <pubDate>Thu, 19 Dec 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thousands Download Malicious npm Libraries Impersonating Legitimate Tools</title>
-      <link>https://thehackernews.com/2024/12/thousands-download-malicious-npm.html</link>
-      <pubDate>Thu, 19 Dec 2024 13:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
