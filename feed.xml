@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 10:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 12:38:20 +0000</lastBuildDate>
+    <item>
+      <title>Using Kafka as a Fast Correlation Engine</title>
+      <link>https://socprime.com/blog/using-kafka-as-a-fast-correlation-engine/</link>
+      <pubDate>Mon, 23 Dec 2024 12:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Security through obscurity’: the Swedish cabin on the frontline of a possible hybrid war</title>
+      <link>https://www.theguardian.com/world/2024/dec/23/swedish-cabin-frontline-possible-hybrid-war-undersea-cables-sabotage</link>
+      <pubDate>Mon, 23 Dec 2024 12:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fluentd: How to Use a Parser With Regular Expression (regexp)</title>
+      <link>https://socprime.com/blog/fluentd-how-to-use-a-parser-with-regular-expression-regexp/</link>
+      <pubDate>Mon, 23 Dec 2024 11:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 23 Dec 2024 11:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockstar2FA Collapse Fuels Expansion of FlowerStorm Phishing-as-a-Service</title>
+      <link>https://thehackernews.com/2024/12/rockstar2fa-collapse-fuels-expansion-of.html</link>
+      <pubDate>Mon, 23 Dec 2024 11:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q3 2024 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2024/12/23/q3-2024-cyber-attacks-statistics/</link>
+      <pubDate>Mon, 23 Dec 2024 10:57:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creating a Regex Pattern Set in AWS WAF</title>
+      <link>https://socprime.com/blog/creating-a-regex-pattern-set-in-aws-waf/</link>
+      <pubDate>Mon, 23 Dec 2024 10:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenSearch Flush, Translog, and Refresh</title>
+      <link>https://socprime.com/blog/opensearch-flush-translog-and-refresh/</link>
+      <pubDate>Mon, 23 Dec 2024 10:29:33 +0000</pubDate>
+    </item>
     <item>
       <title>Interpol Identifies Over 140 Human Traffickers in New Initiative</title>
       <link>https://www.infosecurity-magazine.com/news/interpol-identifies-140-human/</link>
@@ -23,6 +63,11 @@
       <pubDate>Mon, 23 Dec 2024 10:00:46 +0000</pubDate>
     </item>
     <item>
+      <title>Top 10 Cybersecurity Trends to Expect in 2025</title>
+      <link>https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html</link>
+      <pubDate>Mon, 23 Dec 2024 09:37:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ICO Warns of Mobile Phone Festive Privacy Snafu</title>
       <link>https://www.infosecurity-magazine.com/news/ico-warns-festive-mobile-phone/</link>
       <pubDate>Mon, 23 Dec 2024 09:30:00 +0000</pubDate>
@@ -31,11 +76,6 @@
       <title>U.S. Judge Rules Against NSO Group in WhatsApp Pegasus Spyware Case</title>
       <link>https://thehackernews.com/2024/12/us-judge-rules-against-nso-group-in.html</link>
       <pubDate>Mon, 23 Dec 2024 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 23 Dec 2024 08:45:03 +0000</pubDate>
     </item>
     <item>
       <title>Lazarus APT targeted employees at an unnamed nuclear-related organization</title>
@@ -266,46 +306,6 @@
       <title>‘Fix It’ social-engineering scheme impersonates several brands</title>
       <link>https://www.malwarebytes.com/blog/cybercrime/2024/12/fix-it-social-engineering-scheme-impersonates-several-brands</link>
       <pubDate>Thu, 19 Dec 2024 22:33:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Windows Registry Adventure #5: The regf file format</title>
-      <link>https://googleprojectzero.blogspot.com/2024/12/the-windows-registry-adventure-5-regf.html</link>
-      <pubDate>Thu, 19 Dec 2024 19:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcome to the party, pal!</title>
-      <link>https://blog.talosintelligence.com/welcome-to-the-party-pal-2/</link>
-      <pubDate>Thu, 19 Dec 2024 19:02:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acrobat out-of-bounds and Foxit use-after-free PDF reader vulnerabilities found</title>
-      <link>https://blog.talosintelligence.com/acrobat-out-of-bounds-and-foxit-use-after-free-pdf-reader-vulnerabilities-found/</link>
-      <pubDate>Thu, 19 Dec 2024 18:53:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>TP-Link faces US national security probe, potential ban on devices</title>
-      <link>https://www.malwarebytes.com/blog/news/2024/12/tp-link-faces-us-national-security-probe-potential-ban-on-devices</link>
-      <pubDate>Thu, 19 Dec 2024 17:40:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web Hacking Service ‘Araneida’ Tied to Turkish IT Firm</title>
-      <link>https://krebsonsecurity.com/2024/12/web-hacking-service-araneida-tied-to-turkish-it-firm/</link>
-      <pubDate>Thu, 19 Dec 2024 17:07:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enhancing Events with Geolocation Data in Logstash</title>
-      <link>https://socprime.com/blog/enhancing-events-with-geolocation-data-in-logstash/</link>
-      <pubDate>Thu, 19 Dec 2024 16:35:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Organizations Still Using Kaspersky Products Despite Ban</title>
-      <link>https://www.infosecurity-magazine.com/news/us-orgs-kaspersky-despite-ban/</link>
-      <pubDate>Thu, 19 Dec 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #398: Fake CAPTCHAs, Harmageddon, and Krispy Kreme</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-398/</link>
-      <pubDate>Thu, 19 Dec 2024 15:43:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
