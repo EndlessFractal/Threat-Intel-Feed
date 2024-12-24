@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Dec 2024 04:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 06:27:21 +0000</lastBuildDate>
+    <item>
+      <title>Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks</title>
+      <link>https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html</link>
+      <pubDate>Tue, 24 Dec 2024 06:06:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 24 Dec 2024 02:50:03 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2024 05:50:03 +0000</pubDate>
     </item>
     <item>
       <title>FCC ‘rip and replace’ provision for Chinese tech tops cyber provisions in defense bill</title>
@@ -178,6 +183,11 @@
       <pubDate>Mon, 23 Dec 2024 06:25:57 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Falcon Next-Gen SIEM’s First Year Transforming the SOC</title>
+      <link>https://www.crowdstrike.com/en-us/blog/first-year-of-falcon-next-gen-siem-transforming-soc/</link>
+      <pubDate>Mon, 23 Dec 2024 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Inside Operation Destabilise: How a ransomware investigation linked Russian money laundering and street-level drug dealing</title>
       <link>https://therecord.media/operation-destabilise-money-laundering-investigation-uk-nca</link>
       <pubDate>Mon, 23 Dec 2024 00:45:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Two California Men Charged in Largest NFT Scheme Prosecuted to Date</title>
       <link>https://www.justice.gov/opa/pr/two-california-men-charged-largest-nft-scheme-prosecuted-date</link>
       <pubDate>Fri, 20 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Releases Security Updates for FortiManager</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/20/fortinet-releases-security-updates-fortimanager</link>
-      <pubDate>Fri, 20 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webcams and DVRs Vulnerable to HiatusRAT, FBI Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/webcams-vulnerable-hiatusrat-fbi/</link>
-      <pubDate>Fri, 20 Dec 2024 11:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
