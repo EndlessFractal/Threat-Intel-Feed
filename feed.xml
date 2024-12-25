@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Dec 2024 18:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 20:19:50 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 25 Dec 2024 16:05:02 +0000</pubDate>
+      <pubDate>Wed, 25 Dec 2024 19:05:02 +0000</pubDate>
     </item>
     <item>
       <title>Ruijie Networks' Cloud Platform Flaws Could Expose 50,000 Devices to Remote Attacks</title>
@@ -41,6 +41,11 @@
       <title>Compiling Decompyle++ For Windows, (Wed, Dec 25th)</title>
       <link>https://isc.sans.edu/diary/rss/31544</link>
       <pubDate>Wed, 25 Dec 2024 07:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI attributes largest crypto hack of 2024 to North Korea’s TraderTraitor</title>
+      <link>https://therecord.media/fbi-largest-crypto-hack-2024-tradertraitor</link>
+      <pubDate>Wed, 25 Dec 2024 02:23:10 +0000</pubDate>
     </item>
     <item>
       <title>Pittsburgh Regional Transit attributes recent service disruptions to ransomware attack</title>
@@ -301,11 +306,6 @@
       <title>Security Affairs newsletter Round 503 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/172208/breaking-news/security-affairs-newsletter-round-503-by-pierluigi-paganini-international-edition.html</link>
       <pubDate>Sun, 22 Dec 2024 14:58:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>US charged Dual Russian and Israeli National as LockBit Ransomware developer</title>
-      <link>https://securityaffairs.com/172201/uncategorized/us-authorities-charged-lockbit-ransomware-developer.html</link>
-      <pubDate>Sun, 22 Dec 2024 08:52:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
