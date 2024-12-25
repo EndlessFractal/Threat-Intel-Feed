@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Dec 2024 14:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 16:22:47 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 25 Dec 2024 16:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ruijie Networks' Cloud Platform Flaws Could Expose 50,000 Devices to Remote Attacks</title>
+      <link>https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html</link>
+      <pubDate>Wed, 25 Dec 2024 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical SQL Injection Vulnerability in Apache Traffic Control Rated 9.9 CVSS — Patch Now</title>
+      <link>https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html</link>
+      <pubDate>Wed, 25 Dec 2024 13:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>DMM Bitcoin $308M Bitcoin heist linked to North Korea</title>
       <link>https://securityaffairs.com/172290/hacking/dmm-bitcoin-308m-theft-linked-north-korea.html</link>
       <pubDate>Wed, 25 Dec 2024 12:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 25 Dec 2024 12:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Iran's Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware</title>
@@ -296,16 +306,6 @@
       <title>US charged Dual Russian and Israeli National as LockBit Ransomware developer</title>
       <link>https://securityaffairs.com/172201/uncategorized/us-authorities-charged-lockbit-ransomware-developer.html</link>
       <pubDate>Sun, 22 Dec 2024 08:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit Developer Rostislav Panev Charged for Billions in Global Ransomware Damages</title>
-      <link>https://thehackernews.com/2024/12/lockbit-developer-rostislav-panev.html</link>
-      <pubDate>Sat, 21 Dec 2024 09:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judge rules NSO Group is liable for spyware hacks targeting 1,400 WhatsApp user devices</title>
-      <link>https://therecord.media/judge-rules-nso-group-liable-for-hack-of-1400-whatsapp-users</link>
-      <pubDate>Sat, 21 Dec 2024 00:45:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
