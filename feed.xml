@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Dec 2024 06:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 08:24:38 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 26 Dec 2024 06:10:03 +0000</pubDate>
+      <pubDate>Thu, 26 Dec 2024 07:10:02 +0000</pubDate>
     </item>
     <item>
       <title>Apache fixed a critical SQL Injection in Apache Traffic Control</title>
@@ -26,6 +26,11 @@
       <title>BellaCPP, Charming Kitten’s BellaCiao variant written in C++</title>
       <link>https://securityaffairs.com/172299/malware/bellacpp-charming-kittens-bellaciao-variant-written-in-c.html</link>
       <pubDate>Wed, 25 Dec 2024 21:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, December 2024</title>
+      <link>https://asec.ahnlab.com/en/85335/</link>
+      <pubDate>Wed, 25 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, December 2024</title>
@@ -248,6 +253,11 @@
       <pubDate>Mon, 23 Dec 2024 11:21:00 +0000</pubDate>
     </item>
     <item>
+      <title>Q3 2024 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2024/12/23/q3-2024-cyber-attacks-statistics/</link>
+      <pubDate>Mon, 23 Dec 2024 10:57:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Creating a Regex Pattern Set in AWS WAF</title>
       <link>https://socprime.com/blog/creating-a-regex-pattern-set-in-aws-waf/</link>
       <pubDate>Mon, 23 Dec 2024 10:55:28 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Italy Fines OpenAI €15 Million for ChatGPT GDPR Data Privacy Violations</title>
       <link>https://thehackernews.com/2024/12/italy-fines-openai-15-million-for.html</link>
       <pubDate>Mon, 23 Dec 2024 06:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modiloader From Obfuscated Batch File, (Mon, Dec 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/31540</link>
-      <pubDate>Mon, 23 Dec 2024 06:25:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Falcon Next-Gen SIEM’s First Year Transforming the SOC</title>
-      <link>https://www.crowdstrike.com/en-us/blog/first-year-of-falcon-next-gen-siem-transforming-soc/</link>
-      <pubDate>Mon, 23 Dec 2024 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
