@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Dec 2024 10:19:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 12:36:53 +0000</lastBuildDate>
+    <item>
+      <title>CISA's 2024 Review Highlights Major Efforts in Cybersecurity Industry Collaboration</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-2024-review-cyber-industry/</link>
+      <pubDate>Fri, 27 Dec 2024 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strela Stealer Attack Detection: New Malware Variant Now Targets Ukraine Alongside Spain, Italy, and Germany</title>
+      <link>https://socprime.com/blog/strela-stealer-attack-detection/</link>
+      <pubDate>Fri, 27 Dec 2024 12:18:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Casino Players Using Hidden Cameras for Cheating</title>
+      <link>https://www.schneier.com/blog/archives/2024/12/casino-players-using-hidden-cameras-for-cheating.html</link>
+      <pubDate>Fri, 27 Dec 2024 12:03:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts warn of a surge in activity associated FICORA and Kaiten botnets</title>
+      <link>https://securityaffairs.com/172373/uncategorized/surge-ficora-kaiten-botnets.html</link>
+      <pubDate>Fri, 27 Dec 2024 11:24:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 27 Dec 2024 11:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia</title>
+      <link>https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html</link>
+      <pubDate>Fri, 27 Dec 2024 11:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing for Banking Information, (Fri, Dec 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/31548</link>
+      <pubDate>Fri, 27 Dec 2024 10:25:02 +0000</pubDate>
+    </item>
     <item>
       <title>Friday Squid Blogging: Squid on Pizza</title>
       <link>https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-squid-on-pizza.html</link>
@@ -23,9 +58,9 @@
       <pubDate>Fri, 27 Dec 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 27 Dec 2024 09:20:03 +0000</pubDate>
+      <title>Palo Alto Networks fixed a high-severity PAN-OS flaw</title>
+      <link>https://securityaffairs.com/172370/security/palo-alto-networks-high-severity-pan-os-flaw.html</link>
+      <pubDate>Fri, 27 Dec 2024 09:55:56 +0000</pubDate>
     </item>
     <item>
       <title>Reducing Kafka Lag: Optimizing Kafka Performance</title>
@@ -228,19 +263,9 @@
       <pubDate>Tue, 24 Dec 2024 09:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>Apache Foundation fixed a severe Tomcat vulnerability</title>
-      <link>https://securityaffairs.com/172273/security/apache-foundation-fixed-tomcat-flaw.html</link>
-      <pubDate>Tue, 24 Dec 2024 08:31:44 +0000</pubDate>
-    </item>
-    <item>
       <title>More SSH Fun!, (Tue, Dec 24th)</title>
       <link>https://isc.sans.edu/diary/rss/31542</link>
       <pubDate>Tue, 24 Dec 2024 06:51:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Italy’s data protection watchdog fined OpenAI €15 million over ChatGPT’s data management violations</title>
-      <link>https://securityaffairs.com/172264/laws-and-regulations/italys-data-protection-watchdog-fined-openai-e15-million.html</link>
-      <pubDate>Tue, 24 Dec 2024 06:31:02 +0000</pubDate>
     </item>
     <item>
       <title>Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks</title>
@@ -281,31 +306,6 @@
       <title>Protect 3 Devices With This Maximum Security Software</title>
       <link>https://www.techrepublic.com/article/trend-micro-maximum-security/</link>
       <pubDate>Mon, 23 Dec 2024 15:29:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Could Generate 10,000 Malware Variants, Evading Detection in 88% of Case</title>
-      <link>https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html</link>
-      <pubDate>Mon, 23 Dec 2024 13:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navigating the Cyber Threat Landscape: Lessons Learned &amp; What’s Ahead</title>
-      <link>https://www.techrepublic.com/article/cyber-threat-landscape-lessons-learned-whats-ahead/</link>
-      <pubDate>Mon, 23 Dec 2024 13:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best Patch Management Software (2025): Compare Features &amp; Pricing</title>
-      <link>https://www.techrepublic.com/article/best-patch-management-software/</link>
-      <pubDate>Mon, 23 Dec 2024 13:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using Kafka as a Fast Correlation Engine</title>
-      <link>https://socprime.com/blog/using-kafka-as-a-fast-correlation-engine/</link>
-      <pubDate>Mon, 23 Dec 2024 12:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips</title>
-      <link>https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity.html</link>
-      <pubDate>Mon, 23 Dec 2024 12:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
