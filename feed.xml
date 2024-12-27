@@ -6,16 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Dec 2024 08:24:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 10:19:22 +0000</lastBuildDate>
     <item>
-      <title>Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately</title>
-      <link>https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html</link>
-      <pubDate>Fri, 27 Dec 2024 07:34:00 +0000</pubDate>
+      <title>Friday Squid Blogging: Squid on Pizza</title>
+      <link>https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-squid-on-pizza.html</link>
+      <pubDate>Fri, 27 Dec 2024 10:06:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat landscape for industrial automation systems in Q3 2024</title>
+      <link>https://securelist.com/ics-cert-q3-2024-report/115182/</link>
+      <pubDate>Fri, 27 Dec 2024 10:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Top 25 Security Predictions for 2025 (Part 2)</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-25-security-predictions-for-2025-part-2</link>
+      <pubDate>Fri, 27 Dec 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 27 Dec 2024 07:20:03 +0000</pubDate>
+      <pubDate>Fri, 27 Dec 2024 09:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reducing Kafka Lag: Optimizing Kafka Performance</title>
+      <link>https://socprime.com/blog/reducing-kafka-lag-optimizing-kafka-performance/</link>
+      <pubDate>Fri, 27 Dec 2024 09:04:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>KRaft: Apache Kafka Without ZooKeeper</title>
+      <link>https://socprime.com/blog/kraft-apache-kafka-without-zookeeper/</link>
+      <pubDate>Fri, 27 Dec 2024 08:45:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brazilian citizen charged for threatening to release data stolen from a company in 2020</title>
+      <link>https://securityaffairs.com/172362/hacking/brazilian-citizen-extortion-attempt.html</link>
+      <pubDate>Fri, 27 Dec 2024 08:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately</title>
+      <link>https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html</link>
+      <pubDate>Fri, 27 Dec 2024 07:34:00 +0000</pubDate>
     </item>
     <item>
       <title>FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks</title>
@@ -218,11 +248,6 @@
       <pubDate>Tue, 24 Dec 2024 06:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. CISA adds Acclaim Systems USAHERDS flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/172255/hacking/u-s-cisa-acclaim-systems-usaherds-flaw-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Mon, 23 Dec 2024 22:27:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Analyzing Malicious Intent in Python Code: A Case Study</title>
       <link>https://feeds.fortinet.com/~/909871439/0/fortinet/blog/threat-research~Analyzing-Malicious-Intent-in-Python-Code-A-Case-Study</link>
       <pubDate>Mon, 23 Dec 2024 18:00:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips</title>
       <link>https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity.html</link>
       <pubDate>Mon, 23 Dec 2024 12:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Security through obscurity’: the Swedish cabin on the frontline of a possible hybrid war</title>
-      <link>https://www.theguardian.com/world/2024/dec/23/swedish-cabin-frontline-possible-hybrid-war-undersea-cables-sabotage</link>
-      <pubDate>Mon, 23 Dec 2024 12:01:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazilian Man Charged With Making Extortionate Threats To Publicize Stolen Data Obtained By Unlawful Computer Intrusion</title>
-      <link>https://www.justice.gov/usao-nj/pr/brazilian-man-charged-making-extortionate-threats-publicize-stolen-data-obtained</link>
-      <pubDate>Mon, 23 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2024/12/23/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Mon, 23 Dec 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fluentd: How to Use a Parser With Regular Expression (regexp)</title>
-      <link>https://socprime.com/blog/fluentd-how-to-use-a-parser-with-regular-expression-regexp/</link>
-      <pubDate>Mon, 23 Dec 2024 11:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockstar2FA Collapse Fuels Expansion of FlowerStorm Phishing-as-a-Service</title>
-      <link>https://thehackernews.com/2024/12/rockstar2fa-collapse-fuels-expansion-of.html</link>
-      <pubDate>Mon, 23 Dec 2024 11:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
