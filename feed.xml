@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Dec 2024 06:26:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 08:24:30 +0000</lastBuildDate>
+    <item>
+      <title>Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately</title>
+      <link>https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html</link>
+      <pubDate>Fri, 27 Dec 2024 07:34:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 27 Dec 2024 05:15:03 +0000</pubDate>
+      <pubDate>Fri, 27 Dec 2024 07:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks</title>
+      <link>https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html</link>
+      <pubDate>Fri, 27 Dec 2024 07:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization</title>
+      <link>https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html</link>
+      <pubDate>Fri, 27 Dec 2024 06:46:00 +0000</pubDate>
     </item>
     <item>
       <title>Botnets Continue to Target Aging D-Link Vulnerabilities</title>
@@ -41,6 +56,11 @@
       <title>A new Mirai botnet variant targets DigiEver DS-2105 Pro DVRs</title>
       <link>https://securityaffairs.com/172345/malware/mirai-botnet-targets-digiever-ds-2105-pro-dvrs.html</link>
       <pubDate>Thu, 26 Dec 2024 15:38:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 4st Week of December, 2024</title>
+      <link>https://asec.ahnlab.com/en/85398/</link>
+      <pubDate>Thu, 26 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Brazilian Hacker Charged for Extorting $3.2M in Bitcoin After Breaching 300,000 Accounts</title>
@@ -286,26 +306,6 @@
       <title>Rockstar2FA Collapse Fuels Expansion of FlowerStorm Phishing-as-a-Service</title>
       <link>https://thehackernews.com/2024/12/rockstar2fa-collapse-fuels-expansion-of.html</link>
       <pubDate>Mon, 23 Dec 2024 11:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Q3 2024 Cyber Attacks Statistics</title>
-      <link>https://www.hackmageddon.com/2024/12/23/q3-2024-cyber-attacks-statistics/</link>
-      <pubDate>Mon, 23 Dec 2024 10:57:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Creating a Regex Pattern Set in AWS WAF</title>
-      <link>https://socprime.com/blog/creating-a-regex-pattern-set-in-aws-waf/</link>
-      <pubDate>Mon, 23 Dec 2024 10:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenSearch Flush, Translog, and Refresh</title>
-      <link>https://socprime.com/blog/opensearch-flush-translog-and-refresh/</link>
-      <pubDate>Mon, 23 Dec 2024 10:29:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interpol Identifies Over 140 Human Traffickers in New Initiative</title>
-      <link>https://www.infosecurity-magazine.com/news/interpol-identifies-140-human/</link>
-      <pubDate>Mon, 23 Dec 2024 10:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
