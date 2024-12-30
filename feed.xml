@@ -6,14 +6,29 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Dec 2024 14:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 16:23:29 +0000</lastBuildDate>
+    <item>
+      <title>Catching "EC2 Grouper"- no indicators required!</title>
+      <link>https://feeds.fortinet.com/~/910173323/0/fortinet/blog/threat-research~Catching-EC-Grouper-no-indicators-required</link>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 30 Dec 2024 13:45:02 +0000</pubDate>
+      <pubDate>Mon, 30 Dec 2024 15:45:03 +0000</pubDate>
     </item>
     <item>
-      <title>VyprVPN Review: Can It Still Perform This Year and Beyond?</title>
+      <title>Prioritizing patching: A deep dive into frameworks and tools – Part 2: Alternative frameworks</title>
+      <link>https://news.sophos.com/en-us/2024/12/30/prioritizing-patching-a-deep-dive-into-frameworks-and-tools-part-2-alternative-frameworks/</link>
+      <pubDate>Mon, 30 Dec 2024 15:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco states that the second data leak is linked to the one from October</title>
+      <link>https://securityaffairs.com/172460/data-breach/cisco-second-data-leak-linked-to-october-one.html</link>
+      <pubDate>Mon, 30 Dec 2024 14:48:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>VyprVPN Review (2025): Can It Still Perform This Year and Beyond?</title>
       <link>https://www.techrepublic.com/article/vyprvpn-review/</link>
       <pubDate>Mon, 30 Dec 2024 13:00:48 +0000</pubDate>
     </item>
@@ -46,6 +61,11 @@
       <title>coalesce Function in Splunk</title>
       <link>https://socprime.com/blog/coalesce-function-in-splunk/</link>
       <pubDate>Mon, 30 Dec 2024 12:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2024/12/30/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Mon, 30 Dec 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Changes in SSL and TLS support in 2024, (Mon, Dec 30th)</title>
@@ -218,11 +238,6 @@
       <pubDate>Fri, 27 Dec 2024 08:45:32 +0000</pubDate>
     </item>
     <item>
-      <title>Brazilian citizen charged for threatening to release data stolen from a company in 2020</title>
-      <link>https://securityaffairs.com/172362/hacking/brazilian-citizen-extortion-attempt.html</link>
-      <pubDate>Fri, 27 Dec 2024 08:37:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately</title>
       <link>https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html</link>
       <pubDate>Fri, 27 Dec 2024 07:34:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Iran's Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware</title>
       <link>https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html</link>
       <pubDate>Wed, 25 Dec 2024 10:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 431</title>
-      <link>https://www.troyhunt.com/weekly-update-431/</link>
-      <pubDate>Wed, 25 Dec 2024 09:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Compiling Decompyle++ For Windows, (Wed, Dec 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/31544</link>
-      <pubDate>Wed, 25 Dec 2024 07:58:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #30: ChatGPT reveals the devastating truth about Santa (Merry Christmas!)</title>
-      <link>https://grahamcluley.com/the-ai-fix-30/</link>
-      <pubDate>Tue, 24 Dec 2024 16:13:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
