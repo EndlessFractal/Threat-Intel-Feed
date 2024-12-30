@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Dec 2024 08:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 10:20:29 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 30 Dec 2024 06:45:03 +0000</pubDate>
+      <pubDate>Mon, 30 Dec 2024 09:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat actors attempt to exploit a flaw in Four-Faith routers</title>
+      <link>https://securityaffairs.com/172450/hacking/four-faith-routers-flaw-exploited.html</link>
+      <pubDate>Mon, 30 Dec 2024 09:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Majority of UK SMEs Lack Cybersecurity Policy</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-smes-lack-cybersecurity-policy/</link>
+      <pubDate>Mon, 30 Dec 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ZAGG disclosed a data breach that exposed its customers’ credit card data</title>
@@ -198,11 +208,6 @@
       <pubDate>Thu, 26 Dec 2024 16:09:30 +0000</pubDate>
     </item>
     <item>
-      <title>A new Mirai botnet variant targets DigiEver DS-2105 Pro DVRs</title>
-      <link>https://securityaffairs.com/172345/malware/mirai-botnet-targets-digiever-ds-2105-pro-dvrs.html</link>
-      <pubDate>Thu, 26 Dec 2024 15:38:28 +0000</pubDate>
-    </item>
-    <item>
       <title>Android Malware &amp; Security Issue 4st Week of December, 2024</title>
       <link>https://asec.ahnlab.com/en/85398/</link>
       <pubDate>Thu, 26 Dec 2024 15:00:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>CISA Adds Acclaim USAHERDS Vulnerability to KEV Catalog Amid Active Exploitation</title>
       <link>https://thehackernews.com/2024/12/cisa-adds-acclaim-usaherds.html</link>
       <pubDate>Tue, 24 Dec 2024 09:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>More SSH Fun!, (Tue, Dec 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/31542</link>
-      <pubDate>Tue, 24 Dec 2024 06:51:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
