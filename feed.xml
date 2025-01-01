@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Dec 2024 22:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 01:42:45 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bad Likert Judge: A Novel Multi-Turn Technique to Jailbreak LLMs by Misusing Their Evaluation Capability</title>
+      <link>https://unit42.paloaltonetworks.com/multi-turn-technique-jailbreaks-llms/</link>
+      <pubDate>Tue, 31 Dec 2024 23:00:16 +0000</pubDate>
+    </item>
     <item>
       <title>Rhode Island ’s data from health benefits system leaked on the dark web</title>
       <link>https://securityaffairs.com/172503/cyber-crime/rhode-island-data-breach.html</link>
       <pubDate>Tue, 31 Dec 2024 20:17:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 31 Dec 2024 19:00:03 +0000</pubDate>
     </item>
     <item>
       <title>US sanctions Russian and Iranian entities for interfering in presidential election</title>
@@ -128,11 +133,6 @@
       <pubDate>Mon, 30 Dec 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Prioritizing patching: A deep dive into frameworks and tools – Part 2: Alternative frameworks</title>
-      <link>https://news.sophos.com/en-us/2024/12/30/prioritizing-patching-a-deep-dive-into-frameworks-and-tools-part-2-alternative-frameworks/</link>
-      <pubDate>Mon, 30 Dec 2024 15:05:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Cisco states that the second data leak is linked to the one from October</title>
       <link>https://securityaffairs.com/172460/data-breach/cisco-second-data-leak-linked-to-october-one.html</link>
       <pubDate>Mon, 30 Dec 2024 14:48:06 +0000</pubDate>
@@ -233,11 +233,6 @@
       <pubDate>Fri, 27 Dec 2024 17:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>Prioritizing patching: A deep dive into frameworks and tools – Part 1: CVSS</title>
-      <link>https://news.sophos.com/en-us/2024/12/27/prioritizing-patching-a-deep-dive-into-frameworks-and-tools-part-1-cvss/</link>
-      <pubDate>Fri, 27 Dec 2024 17:33:53 +0000</pubDate>
-    </item>
-    <item>
       <title>The Best, the Worst and the Ugliest in Cybersecurity | 2024 Edition</title>
       <link>https://www.sentinelone.com/blog/the-best-the-worst-and-the-ugliest-in-cybersecurity-2024-edition/</link>
       <pubDate>Fri, 27 Dec 2024 14:00:19 +0000</pubDate>
@@ -306,6 +301,11 @@
       <title>Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately</title>
       <link>https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html</link>
       <pubDate>Fri, 27 Dec 2024 07:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks</title>
+      <link>https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html</link>
+      <pubDate>Fri, 27 Dec 2024 07:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
