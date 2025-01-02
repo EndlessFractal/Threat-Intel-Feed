@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 08:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 10:19:38 +0000</lastBuildDate>
+    <item>
+      <title>Dozens of Chrome Browser Extensions Hijacked by Data Thieves</title>
+      <link>https://www.infosecurity-magazine.com/news/chrome-browser-extensions-hijacked/</link>
+      <pubDate>Thu, 02 Jan 2025 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Treasury Computers Accessed by China in Supply Chain Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/us-treasury-computers-china-supply/</link>
+      <pubDate>Thu, 02 Jan 2025 09:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 02 Jan 2025 06:10:02 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2025 09:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lumen reports that it has locked out the Salt Typhoon group from its network</title>
+      <link>https://securityaffairs.com/172544/apt/lumen-locked-out-salt-typhoon.html</link>
+      <pubDate>Thu, 02 Jan 2025 08:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>TechRepublic Premium Editorial Calendar: Policies, Hiring Kits, and Glossaries for Download</title>
+      <link>https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar-it-policies-checklists-toolkits-and-research-for-download/</link>
+      <pubDate>Thu, 02 Jan 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Obfuscated NPM Package Disguised as an Ethereum Tool Deploys Quasar RAT</title>
+      <link>https://thehackernews.com/2025/01/malicious-obfuscated-npm-package.html</link>
+      <pubDate>Thu, 02 Jan 2025 07:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three Russian-German Nationals Charged with Espionage for Russian Secret Service</title>
+      <link>https://thehackernews.com/2025/01/three-russian-german-nationals-charged.html</link>
+      <pubDate>Thu, 02 Jan 2025 07:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Proposed updates to HIPAA Security Rule mandate to restore the loss of certain relevant electronic information systems and data within 72 hours</title>
@@ -21,6 +51,11 @@
       <title>What Is Patch Tuesday? Microsoft’s Monthly Update Explained</title>
       <link>https://www.techrepublic.com/article/what-is-patch-tuesday/</link>
       <pubDate>Wed, 01 Jan 2025 15:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, January 2025</title>
+      <link>https://asec.ahnlab.com/en/85451/</link>
+      <pubDate>Wed, 01 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Treasury sanctions Russian and Iranian entities for interfering in the presidential election</title>
@@ -243,11 +278,6 @@
       <pubDate>Sun, 29 Dec 2024 17:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>China-linked APT Salt Typhoon breached a ninth U.S. telecommunications firm</title>
-      <link>https://securityaffairs.com/172425/apt/salt-typhoon-breached-ninth-u-s-telco.html</link>
-      <pubDate>Sun, 29 Dec 2024 15:44:25 +0000</pubDate>
-    </item>
-    <item>
       <title>15,000+ Four-Faith Routers Exposed to New Exploit Due to Default Credentials</title>
       <link>https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html</link>
       <pubDate>Sat, 28 Dec 2024 06:25:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>2024 in AI: It’s changed the world, but it’s not all good</title>
       <link>https://www.malwarebytes.com/blog/news/2024/12/2024-in-ai-its-changed-the-world-but-its-not-all-good</link>
       <pubDate>Fri, 27 Dec 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA's 2024 Review Highlights Major Efforts in Cybersecurity Industry Collaboration</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-2024-review-cyber-industry/</link>
-      <pubDate>Fri, 27 Dec 2024 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strela Stealer Attack Detection: New Malware Variant Now Targets Ukraine Alongside Spain, Italy, and Germany</title>
-      <link>https://socprime.com/blog/strela-stealer-attack-detection/</link>
-      <pubDate>Fri, 27 Dec 2024 12:18:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Casino Players Using Hidden Cameras for Cheating</title>
-      <link>https://www.schneier.com/blog/archives/2024/12/casino-players-using-hidden-cameras-for-cheating.html</link>
-      <pubDate>Fri, 27 Dec 2024 12:03:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia</title>
-      <link>https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html</link>
-      <pubDate>Fri, 27 Dec 2024 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing for Banking Information, (Fri, Dec 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/31548</link>
-      <pubDate>Fri, 27 Dec 2024 10:25:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Squid on Pizza</title>
-      <link>https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-squid-on-pizza.html</link>
-      <pubDate>Fri, 27 Dec 2024 10:06:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
