@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jan 2025 08:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 10:19:43 +0000</lastBuildDate>
+    <item>
+      <title>Apple Agrees $95M Settlement Over Siri Privacy Violations</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-95m-settlement-siri-privacy/</link>
+      <pubDate>Fri, 03 Jan 2025 10:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 03 Jan 2025 07:25:02 +0000</pubDate>
+      <pubDate>Fri, 03 Jan 2025 09:25:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Confirms Russian GenAI Disinformation Op Targeted Election</title>
+      <link>https://www.infosecurity-magazine.com/news/us-russian-genai-disinformation-op/</link>
+      <pubDate>Fri, 03 Jan 2025 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Around 3.3 million POP3 and IMAP mail servers lack TLS encryption</title>
+      <link>https://securityaffairs.com/172600/security/3m-pop3-imap-mail-servers-lack-tls-encryption.html</link>
+      <pubDate>Fri, 03 Jan 2025 08:39:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>LDAPNightmare PoC Exploit Crashes LSASS and Reboots Windows Domain Controllers</title>
+      <link>https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html</link>
+      <pubDate>Fri, 03 Jan 2025 08:16:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical Deadline: Update Old .NET Domains Before January 7, 2025 to Avoid Service Disruption</title>
@@ -273,11 +293,6 @@
       <pubDate>Tue, 31 Dec 2024 07:09:10 +0000</pubDate>
     </item>
     <item>
-      <title>China-linked actors hacked US Treasury Department</title>
-      <link>https://securityaffairs.com/172482/intelligence/china-hacked-u-s-treasury-department.html</link>
-      <pubDate>Tue, 31 Dec 2024 06:55:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents</title>
       <link>https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html</link>
       <pubDate>Tue, 31 Dec 2024 05:42:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>U.S. Army Soldier Arrested in AT&amp;T, Verizon Extortions</title>
       <link>https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/</link>
       <pubDate>Tue, 31 Dec 2024 04:05:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 432</title>
-      <link>https://www.troyhunt.com/weekly-update-432/</link>
-      <pubDate>Mon, 30 Dec 2024 21:52:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is nowhere safe from AI slop? (Lock and Code S05E27)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2024/12/is-nowhere-safe-from-ai-slop-lock-and-code-s05e27</link>
-      <pubDate>Mon, 30 Dec 2024 19:29:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Media Update Bug Stops Security Updates</title>
-      <link>https://www.techrepublic.com/article/microsoft-windows-11-media-update-bug/</link>
-      <pubDate>Mon, 30 Dec 2024 19:21:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
