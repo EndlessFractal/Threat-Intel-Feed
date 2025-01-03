@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jan 2025 10:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 12:37:25 +0000</lastBuildDate>
+    <item>
+      <title>Crypto Boss Extradited to Face $40bn Fraud Charges</title>
+      <link>https://www.infosecurity-magazine.com/news/crypto-boss-extradited-40bn-fraud/</link>
+      <pubDate>Fri, 03 Jan 2025 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 03 Jan 2025 12:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple will pay $95 Million to settle lawsuit over Siri’s alleged eavesdropping</title>
+      <link>https://securityaffairs.com/172632/security/apple-will-pay-95-million-to-settle-lawsuit-over-siris-alleged-eavesdropping.html</link>
+      <pubDate>Fri, 03 Jan 2025 11:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>New AI Jailbreak Method 'Bad Likert Judge' Boosts Attack Success Rates by Over 60%</title>
+      <link>https://thehackernews.com/2025/01/new-ai-jailbreak-method-bad-likert.html</link>
+      <pubDate>Fri, 03 Jan 2025 11:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DDoS Disrupts Japanese Mobile Giant Docomo</title>
+      <link>https://www.infosecurity-magazine.com/news/ddos-disrupts-japanese-mobile/</link>
+      <pubDate>Fri, 03 Jan 2025 11:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web3 Attacks Result in $2.3Bn in Cryptocurrency Losses</title>
+      <link>https://www.infosecurity-magazine.com/news/web3-attacks-cryptocurrency-losses/</link>
+      <pubDate>Fri, 03 Jan 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elasticsearch: Cluster Status is RED</title>
+      <link>https://socprime.com/blog/elasticsearch-cluster-status-is-red/</link>
+      <pubDate>Fri, 03 Jan 2025 10:35:22 +0000</pubDate>
+    </item>
     <item>
       <title>Apple Agrees $95M Settlement Over Siri Privacy Violations</title>
       <link>https://www.infosecurity-magazine.com/news/apple-95m-settlement-siri-privacy/</link>
       <pubDate>Fri, 03 Jan 2025 10:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 03 Jan 2025 09:25:02 +0000</pubDate>
+      <title>LDAPNightmare, a PoC exploit targets Windows LDAP flaw CVE-2024-49113</title>
+      <link>https://securityaffairs.com/172618/security/ldapnightmare-exploit-cve-2024-49113.html</link>
+      <pubDate>Fri, 03 Jan 2025 09:42:28 +0000</pubDate>
     </item>
     <item>
       <title>US Confirms Russian GenAI Disinformation Op Targeted Election</title>
@@ -248,16 +283,6 @@
       <pubDate>Tue, 31 Dec 2024 23:00:16 +0000</pubDate>
     </item>
     <item>
-      <title>Rhode Island ’s data from health benefits system leaked on the dark web</title>
-      <link>https://securityaffairs.com/172503/cyber-crime/rhode-island-data-breach.html</link>
-      <pubDate>Tue, 31 Dec 2024 20:17:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacking campaign compromised at least 16 Chrome browser extensions</title>
-      <link>https://securityaffairs.com/172491/hacking/chrome-browser-extensions-compromise.html</link>
-      <pubDate>Tue, 31 Dec 2024 15:40:14 +0000</pubDate>
-    </item>
-    <item>
       <title>The 5 most impactful cybersecurity guidelines (and 3 that fell flat)</title>
       <link>https://securityintelligence.com/articles/5-most-impactful-cybersecurity-guidelines-3-that-fell-flat/</link>
       <pubDate>Tue, 31 Dec 2024 14:00:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>New U.S. DoJ Rule Halts Bulk Data Transfers to Adversarial Nations to Protect Privacy</title>
       <link>https://thehackernews.com/2024/12/new-us-doj-rule-halts-bulk-data.html</link>
       <pubDate>Tue, 31 Dec 2024 11:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unify Security Posture and Protection for Faster Cloud Detection and Response</title>
-      <link>https://www.crowdstrike.com/en-us/blog/unify-security-posture-protection-for-faster-cdr/</link>
-      <pubDate>Tue, 31 Dec 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No Holiday Season for Attackers, (Tue, Dec 31st)</title>
-      <link>https://isc.sans.edu/diary/rss/31552</link>
-      <pubDate>Tue, 31 Dec 2024 07:09:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents</title>
-      <link>https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html</link>
-      <pubDate>Tue, 31 Dec 2024 05:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Misconfigured Kubernetes RBAC in Azure Airflow Could Expose Entire Cluster to Exploitation</title>
-      <link>https://thehackernews.com/2024/12/misconfigured-kubernetes-rbac-in-azure.html</link>
-      <pubDate>Tue, 31 Dec 2024 04:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Army Soldier Arrested in AT&amp;T, Verizon Extortions</title>
-      <link>https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/</link>
-      <pubDate>Tue, 31 Dec 2024 04:05:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
