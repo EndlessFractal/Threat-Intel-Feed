@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jan 2025 01:27:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 02:50:00 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 03 Jan 2025 00:15:03 +0000</pubDate>
+      <pubDate>Fri, 03 Jan 2025 01:20:03 +0000</pubDate>
     </item>
     <item>
       <title>A US soldier was arrested for leaking presidential call logs</title>
@@ -173,6 +173,11 @@
       <pubDate>Wed, 01 Jan 2025 15:00:46 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 1, January 2025</title>
+      <link>https://asec.ahnlab.com/en/85457/</link>
+      <pubDate>Wed, 01 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransom &amp; Dark Web Issues Week 1, January 2025</title>
       <link>https://asec.ahnlab.com/en/85451/</link>
       <pubDate>Wed, 01 Jan 2025 15:00:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>New HIPAA Rules Mandate 72-Hour Data Restoration and Annual Compliance Audits</title>
       <link>https://thehackernews.com/2024/12/new-hipaa-rules-mandate-72-hour-data.html</link>
       <pubDate>Mon, 30 Dec 2024 12:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips</title>
-      <link>https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity_0611565081.html</link>
-      <pubDate>Mon, 30 Dec 2024 12:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
