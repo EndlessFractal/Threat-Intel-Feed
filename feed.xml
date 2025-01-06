@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jan 2025 22:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 01:38:37 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 05 Jan 2025 21:50:03 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2025 00:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>PLAYFULGHOST backdoor supports multiple information stealing features</title>
+      <link>https://securityaffairs.com/172707/malware/playfulghost-backdoor-capabilities.html</link>
+      <pubDate>Mon, 06 Jan 2025 00:30:38 +0000</pubDate>
     </item>
     <item>
       <title>Nuclei flaw allows signature bypass and code execution</title>
@@ -176,11 +181,6 @@
       <title>US Confirms Russian GenAI Disinformation Op Targeted Election</title>
       <link>https://www.infosecurity-magazine.com/news/us-russian-genai-disinformation-op/</link>
       <pubDate>Fri, 03 Jan 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Around 3.3 million POP3 and IMAP mail servers lack TLS encryption</title>
-      <link>https://securityaffairs.com/172600/security/3m-pop3-imap-mail-servers-lack-tls-encryption.html</link>
-      <pubDate>Fri, 03 Jan 2025 08:39:10 +0000</pubDate>
     </item>
     <item>
       <title>LDAPNightmare PoC Exploit Crashes LSASS and Reboots Windows Domain Controllers</title>
