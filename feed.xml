@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 04:22:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 06:28:09 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 07 Jan 2025 03:00:03 +0000</pubDate>
+      <pubDate>Tue, 07 Jan 2025 04:00:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, January 7th, 2025 https://isc.sans.edu/podcastdetail/9268, (Tue, Jan 7th)</title>
       <link>https://isc.sans.edu/diary/rss/31562</link>
       <pubDate>Tue, 07 Jan 2025 01:26:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hispanic Heritage Month: Path to Collective Power - Part Two</title>
+      <link>https://www.recordedfuture.com/blog/erg-stories-hispanic-heritage-month-2024-limitless-life</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA: Treasury was only federal agency impacted by recent China breach</title>
@@ -41,6 +46,11 @@
       <title>Hackers reportedly compromise Argentina’s airport security payroll system</title>
       <link>https://therecord.media/hackers-target-airport-security-payroll</link>
       <pubDate>Mon, 06 Jan 2025 17:45:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why security teams rely on Microsoft Defender Experts for XDR for managed detection and response</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/01/06/why-security-teams-rely-on-microsoft-defender-experts-for-xdr-for-managed-detection-and-response/</link>
+      <pubDate>Mon, 06 Jan 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Supply Chain Attack Targets Key Ethereum Development Tools</title>
@@ -173,7 +183,17 @@
       <pubDate>Sun, 05 Jan 2025 19:06:02 +0000</pubDate>
     </item>
     <item>
-      <title>Statistics Report on Malware Targeting Windows Web Servers in Q4 2024</title>
+      <title>Statistical Report on Malware Targeting MS-SQL Servers in Q4 2024</title>
+      <link>https://asec.ahnlab.com/en/85556/</link>
+      <pubDate>Sun, 05 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Linux SSH Servers in Q4 2024</title>
+      <link>https://asec.ahnlab.com/en/85547/</link>
+      <pubDate>Sun, 05 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Windows Web Servers in Q4 2024</title>
       <link>https://asec.ahnlab.com/en/85524/</link>
       <pubDate>Sun, 05 Jan 2025 15:00:00 +0000</pubDate>
     </item>
@@ -286,26 +306,6 @@
       <title>New AI Jailbreak Method 'Bad Likert Judge' Boosts Attack Success Rates by Over 60%</title>
       <link>https://thehackernews.com/2025/01/new-ai-jailbreak-method-bad-likert.html</link>
       <pubDate>Fri, 03 Jan 2025 11:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DDoS Disrupts Japanese Mobile Giant Docomo</title>
-      <link>https://www.infosecurity-magazine.com/news/ddos-disrupts-japanese-mobile/</link>
-      <pubDate>Fri, 03 Jan 2025 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web3 Attacks Result in $2.3Bn in Cryptocurrency Losses</title>
-      <link>https://www.infosecurity-magazine.com/news/web3-attacks-cryptocurrency-losses/</link>
-      <pubDate>Fri, 03 Jan 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elasticsearch: Cluster Status is RED</title>
-      <link>https://socprime.com/blog/elasticsearch-cluster-status-is-red/</link>
-      <pubDate>Fri, 03 Jan 2025 10:35:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Agrees $95M Settlement Over Siri Privacy Violations</title>
-      <link>https://www.infosecurity-magazine.com/news/apple-95m-settlement-siri-privacy/</link>
-      <pubDate>Fri, 03 Jan 2025 10:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
