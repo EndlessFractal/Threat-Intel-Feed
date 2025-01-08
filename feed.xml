@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jan 2025 04:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 06:27:23 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 08 Jan 2025 03:00:03 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 05:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Flags Critical Flaws in Mitel and Oracle Systems Amid Active Exploitation</title>
+      <link>https://thehackernews.com/2025/01/cisa-flags-critical-flaws-in-mitel-and.html</link>
+      <pubDate>Wed, 08 Jan 2025 04:21:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, January 8th, 2025 https://isc.sans.edu/podcastdetail/9270, (Wed, Jan 8th)</title>
@@ -193,6 +198,11 @@
       <pubDate>Mon, 06 Jan 2025 17:49:20 +0000</pubDate>
     </item>
     <item>
+      <title>Why security teams rely on Microsoft Defender Experts for XDR for managed detection and response</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/01/06/why-security-teams-rely-on-microsoft-defender-experts-for-xdr-for-managed-detection-and-response/</link>
+      <pubDate>Mon, 06 Jan 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Supply Chain Attack Targets Key Ethereum Development Tools</title>
       <link>https://www.infosecurity-magazine.com/news/supply-chain-attack-targets/</link>
       <pubDate>Mon, 06 Jan 2025 16:30:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Make Malware Happy, (Mon, Jan 6th)</title>
       <link>https://isc.sans.edu/diary/rss/31560</link>
       <pubDate>Mon, 06 Jan 2025 07:10:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 433</title>
-      <link>https://www.troyhunt.com/weekly-update-433/</link>
-      <pubDate>Mon, 06 Jan 2025 05:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, January 6th, 2025 https://isc.sans.edu/podcastdetail/9266, (Mon, Jan 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/31558</link>
-      <pubDate>Mon, 06 Jan 2025 02:37:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
