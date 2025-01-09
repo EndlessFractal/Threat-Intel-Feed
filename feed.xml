@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jan 2025 22:17:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 01:26:43 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 08 Jan 2025 22:10:02 +0000</pubDate>
+      <pubDate>Thu, 09 Jan 2025 00:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall warns of an exploitable SonicOS vulnerability</title>
+      <link>https://securityaffairs.com/172823/security/sonicwall-sonicos-authentication-bypass-flaw.html</link>
+      <pubDate>Wed, 08 Jan 2025 23:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Casio warns employees, customers about data leak from October ransomware attack</title>
+      <link>https://therecord.media/casio-warns-employees-customers-ransomware-attack-october</link>
+      <pubDate>Wed, 08 Jan 2025 22:22:42 +0000</pubDate>
     </item>
     <item>
       <title>Ivanti warns hackers are exploiting new vulnerability</title>
@@ -53,11 +63,6 @@
       <pubDate>Wed, 08 Jan 2025 17:35:39 +0000</pubDate>
     </item>
     <item>
-      <title>Education software firm’s hack exposes personal data for students, teachers nationwide</title>
-      <link>https://therecord.media/education-software-hack-exposes-student-teacher-data</link>
-      <pubDate>Wed, 08 Jan 2025 17:33:36 +0000</pubDate>
-    </item>
-    <item>
       <title>EAGERBEE Malware Detection: New Backdoor Variant Targets Internet Service Providers and State Bodies in the Middle East</title>
       <link>https://socprime.com/blog/eagerbee-malware-detection/</link>
       <pubDate>Wed, 08 Jan 2025 15:29:02 +0000</pubDate>
@@ -90,6 +95,16 @@
     <item>
       <title>Trader Arrested For Stealing Trade Secrets From Global Quantitative Trading Firm</title>
       <link>https://www.justice.gov/usao-sdny/pr/trader-arrested-stealing-trade-secrets-global-quantitative-trading-firm</link>
+      <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Vulnerability to the KEV Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/08/cisa-adds-one-vulnerability-kev-catalog</link>
+      <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Releases Security Updates for Connect Secure, Policy Secure, and ZTA Gateways</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/08/ivanti-releases-security-updates-connect-secure-policy-secure-and-zta-gateways</link>
       <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -178,9 +193,9 @@
       <pubDate>Tue, 07 Jan 2025 15:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>1-15 October 2024 Cyber Attacks Timeline</title>
-      <link>https://www.hackmageddon.com/2025/01/07/1-15-october-2024-cyber-attacks-timeline/</link>
-      <pubDate>Tue, 07 Jan 2025 14:40:39 +0000</pubDate>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, January 2025</title>
+      <link>https://asec.ahnlab.com/en/85596/</link>
+      <pubDate>Tue, 07 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover Major Security Flaw in Illumina iSeq 100 DNA Sequencers</title>
@@ -291,21 +306,6 @@
       <title>Tracking Deployment of Russian Surveillance Technologies in Central Asia and Latin America</title>
       <link>https://www.recordedfuture.com/research/tracking-deployment-russian-surveillance-technologies-central-asia-latin-america</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dental group lied through teeth about data breach, fined $350,000</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/01/dental-group-lied-through-teeth-about-data-breach-fined-350000</link>
-      <pubDate>Mon, 06 Jan 2025 17:49:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supply Chain Attack Targets Key Ethereum Development Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/supply-chain-attack-targets/</link>
-      <pubDate>Mon, 06 Jan 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Message Queues vs. Streaming Systems: Key Differences and Use Cases</title>
-      <link>https://socprime.com/blog/message-queues-vs-streaming-systems-key-differences-and-use-cases/</link>
-      <pubDate>Mon, 06 Jan 2025 16:17:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
