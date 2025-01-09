@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 01:26:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 03:13:06 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 09 Jan 2025 00:10:03 +0000</pubDate>
+      <pubDate>Thu, 09 Jan 2025 02:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Examining Redtail Analyzing a Sophisticated Cryptomining Malware and its Advanced Tactics [Guest Diary], (Thu, Jan 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/31568</link>
+      <pubDate>Thu, 09 Jan 2025 01:45:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Thursday, January 9th, 2025 https://isc.sans.edu/podcastdetail/9272, (Thu, Jan 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/31572</link>
+      <pubDate>Thu, 09 Jan 2025 01:32:18 +0000</pubDate>
     </item>
     <item>
       <title>SonicWall warns of an exploitable SonicOS vulnerability</title>
@@ -193,9 +203,24 @@
       <pubDate>Tue, 07 Jan 2025 15:49:00 +0000</pubDate>
     </item>
     <item>
+      <title>Statistical Report on Malware Threat in Q4 2024</title>
+      <link>https://asec.ahnlab.com/en/85605/</link>
+      <pubDate>Tue, 07 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2024 Threat Trend Report on Ransomware</title>
+      <link>https://asec.ahnlab.com/en/85604/</link>
+      <pubDate>Tue, 07 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, January 2025</title>
       <link>https://asec.ahnlab.com/en/85596/</link>
       <pubDate>Tue, 07 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-15 October 2024 Cyber Attacks Timeline</title>
+      <link>https://www.hackmageddon.com/2025/01/07/1-15-october-2024-cyber-attacks-timeline/</link>
+      <pubDate>Tue, 07 Jan 2025 14:40:39 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover Major Security Flaw in Illumina iSeq 100 DNA Sequencers</title>
@@ -281,31 +306,6 @@
       <title>US adds Tencent to the list of companies supporting Chinese military</title>
       <link>https://securityaffairs.com/172765/security/us-adds-tencent-list-of-companies-supporting-chinese-military.html</link>
       <pubDate>Tue, 07 Jan 2025 08:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moxa Alerts Users to High-Severity Vulnerabilities in Cellular and Secure Routers</title>
-      <link>https://thehackernews.com/2025/01/moxa-alerts-users-to-high-severity.html</link>
-      <pubDate>Tue, 07 Jan 2025 07:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eagerbee backdoor targets govt entities and ISPs in the Middle East</title>
-      <link>https://securityaffairs.com/172748/malware/eagerbee-backdoor-targets-middle-east.html</link>
-      <pubDate>Tue, 07 Jan 2025 06:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, January 7th, 2025 https://isc.sans.edu/podcastdetail/9268, (Tue, Jan 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/31562</link>
-      <pubDate>Tue, 07 Jan 2025 01:26:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hispanic Heritage Month: Path to Collective Power - Part Two</title>
-      <link>https://www.recordedfuture.com/blog/erg-stories-hispanic-heritage-month-2024-limitless-life</link>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tracking Deployment of Russian Surveillance Technologies in Central Asia and Latin America</title>
-      <link>https://www.recordedfuture.com/research/tracking-deployment-russian-surveillance-technologies-central-asia-latin-america</link>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
