@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jan 2025 06:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 08:25:04 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -258,6 +258,11 @@
       <pubDate>Wed, 08 Jan 2025 15:20:00 +0000</pubDate>
     </item>
     <item>
+      <title>Increase in Distribution of AutoIt Compile Malware via Phishing Emails</title>
+      <link>https://asec.ahnlab.com/en/85687/</link>
+      <pubDate>Wed, 08 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Security Issues in the Financial Sector in December 2024</title>
       <link>https://asec.ahnlab.com/en/85685/</link>
       <pubDate>Wed, 08 Jan 2025 15:00:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Ivanti Releases Security Updates for Connect Secure, Policy Secure, and ZTA Gateways</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/01/08/ivanti-releases-security-updates-connect-secure-policy-secure-and-zta-gateways</link>
       <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Casio Admits Security Failings as Attackers Leak Employee and Customer Data</title>
-      <link>https://www.infosecurity-magazine.com/news/casio-failings-attackers-leak-data/</link>
-      <pubDate>Wed, 08 Jan 2025 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
