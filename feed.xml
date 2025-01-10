@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jan 2025 08:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 10:20:37 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 10 Jan 2025 06:20:03 +0000</pubDate>
+      <pubDate>Fri, 10 Jan 2025 09:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake PoC Exploit Targets Security Researchers with Infostealer</title>
+      <link>https://www.infosecurity-magazine.com/news/fake-poc-exploit-researchers/</link>
+      <pubDate>Fri, 10 Jan 2025 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked APT group MirrorFace targets Japan</title>
+      <link>https://securityaffairs.com/172890/apt/china-linked-apt-mirrorface-targets-japan.html</link>
+      <pubDate>Fri, 10 Jan 2025 08:22:10 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, January 10th, 2025 https://isc.sans.edu/podcastdetail/9274, (Fri, Jan 10th)</title>
@@ -133,7 +143,7 @@
       <pubDate>Thu, 09 Jan 2025 13:32:33 +0000</pubDate>
     </item>
     <item>
-      <title>IPVanish VPN Review: Is It Really as Secure as Claimed?</title>
+      <title>IPVanish VPN Review: Is it Really as Secure as Claimed?</title>
       <link>https://www.techrepublic.com/article/ipvanish-vpn-review/</link>
       <pubDate>Thu, 09 Jan 2025 13:00:30 +0000</pubDate>
     </item>
@@ -188,13 +198,13 @@
       <pubDate>Thu, 09 Jan 2025 09:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ivanti Flaw CVE-2025-0282 Actively Exploited, Impacts Connect Secure and Policy Secure</title>
-      <link>https://thehackernews.com/2025/01/ivanti-flaw-cve-2025-0282-actively.html</link>
+      <title>E.U. Commission Fined for Transferring User Data to Meta in Violation of Privacy Laws</title>
+      <link>https://thehackernews.com/2025/01/eu-commission-fined-for-transferring.html</link>
       <pubDate>Thu, 09 Jan 2025 07:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>E.U. Commission Fined for Transferring User Data to Meta in Violation of Privacy Laws</title>
-      <link>https://thehackernews.com/2025/01/eu-commission-fined-for-transferring.html</link>
+      <title>Ivanti Flaw CVE-2025-0282 Actively Exploited, Impacts Connect Secure and Policy Secure</title>
+      <link>https://thehackernews.com/2025/01/ivanti-flaw-cve-2025-0282-actively.html</link>
       <pubDate>Thu, 09 Jan 2025 07:13:00 +0000</pubDate>
     </item>
     <item>
@@ -295,16 +305,6 @@
     <item>
       <title>Trader Arrested For Stealing Trade Secrets From Global Quantitative Trading Firm</title>
       <link>https://www.justice.gov/usao-sdny/pr/trader-arrested-stealing-trade-secrets-global-quantitative-trading-firm</link>
-      <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Vulnerability to the KEV Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/01/08/cisa-adds-one-vulnerability-kev-catalog</link>
-      <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Releases Security Updates for Connect Secure, Policy Secure, and ZTA Gateways</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/01/08/ivanti-releases-security-updates-connect-secure-policy-secure-and-zta-gateways</link>
       <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
