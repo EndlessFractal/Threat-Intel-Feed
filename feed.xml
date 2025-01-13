@@ -6,14 +6,34 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jan 2025 14:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 16:26:00 +0000</lastBuildDate>
+    <item>
+      <title>The new rules for AI and encrypted messaging, with Mallory Knodel (Lock and Code S06E01)</title>
+      <link>https://www.malwarebytes.com/blog/uncategorized/2025/01/the-new-rules-for-ai-and-encrypted-messaging-with-mallory-knodel-lock-and-code-s06e01</link>
+      <pubDate>Mon, 13 Jan 2025 15:50:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 13 Jan 2025 15:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>iMessage text gets recipient to disable phishing protection so they can be phished</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/01/imessage-text-gets-recipient-to-disable-phishing-protection-so-they-can-be-phished</link>
+      <pubDate>Mon, 13 Jan 2025 14:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOC Prime Launches Uncoder AI Solo: New Subscription Plan for Individual Security Experts</title>
+      <link>https://socprime.com/news/uncoder-ai-solo-subscription-launch/</link>
+      <pubDate>Mon, 13 Jan 2025 14:35:11 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft 365 MFA Outage Fixed</title>
       <link>https://www.infosecurity-magazine.com/news/mfa-disruption-impacted-access/</link>
       <pubDate>Mon, 13 Jan 2025 14:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rep. Don Bacon on cyber deterrence: ‘Speak softly and carry a big ass stick’</title>
+      <title>Rep. Don Bacon on cyber deterrence: ‘Speak softly and carry a big-ass stick’</title>
       <link>https://therecord.media/rep-don-bacon-interview-cyber-deterrence-china-nsa</link>
       <pubDate>Mon, 13 Jan 2025 14:03:37 +0000</pubDate>
     </item>
@@ -21,6 +41,11 @@
       <title>Deep Dive Into a Linux Rootkit Malware</title>
       <link>https://feeds.fortinet.com/~/910912481/0/fortinet/blog/threat-research~Deep-Dive-Into-a-Linux-Rootkit-Malware</link>
       <pubDate>Mon, 13 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Aviatrix Controller Vulnerability to Deploy Backdoors and Crypto Miners</title>
+      <link>https://thehackernews.com/2025/01/hackers-exploit-aviatrix-controller.html</link>
+      <pubDate>Mon, 13 Jan 2025 13:33:00 +0000</pubDate>
     </item>
     <item>
       <title>Bitwarden vs 1Password: Battle of the Best – Who Wins?</title>
@@ -53,9 +78,9 @@
       <pubDate>Mon, 13 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 13 Jan 2025 11:55:03 +0000</pubDate>
+      <title>CISA and US and International Partners Publish Guidance on Priority Considerations in Product Selection for OT Owners and Operators</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/13/cisa-and-us-and-international-partners-publish-guidance-priority-considerations-product-selection-ot</link>
+      <pubDate>Mon, 13 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware on ESXi: The mechanization of virtualized attacks</title>
@@ -281,31 +306,6 @@
       <title>AI-Driven Ransomware FunkSec Targets 85 Victims Using Double Extortion Tactics</title>
       <link>https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html</link>
       <pubDate>Fri, 10 Jan 2025 11:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medusind Breach Exposes Sensitive Patient Data</title>
-      <link>https://www.infosecurity-magazine.com/news/medusind-breach-patient-data/</link>
-      <pubDate>Fri, 10 Jan 2025 10:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hands-On Walkthrough: Microsegmentation For all Users, Workloads and Devices by Elisity</title>
-      <link>https://thehackernews.com/2025/01/hands-on-walkthrough-microsegmentation.html</link>
-      <pubDate>Fri, 10 Jan 2025 10:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campaigns</title>
-      <link>https://thehackernews.com/2025/01/reddelta-deploys-plugx-malware-to.html</link>
-      <pubDate>Fri, 10 Jan 2025 09:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake PoC Exploit Targets Security Researchers with Infostealer</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-poc-exploit-researchers/</link>
-      <pubDate>Fri, 10 Jan 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Warns of Phishing Scam Targeting Job Seekers with XMRig Cryptominer</title>
-      <link>https://thehackernews.com/2025/01/crowdstrike-warns-of-phishing-scam.html</link>
-      <pubDate>Fri, 10 Jan 2025 09:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
