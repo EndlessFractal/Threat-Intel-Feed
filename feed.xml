@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jan 2025 04:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 06:26:04 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 14 Jan 2025 06:05:03 +0000</pubDate>
+    </item>
     <item>
       <title>CISA Adds Second BeyondTrust Flaw to KEV Catalog Amid Active Attacks</title>
       <link>https://thehackernews.com/2025/01/cisa-adds-new-beyondtrust-flaw-to-kev.html</link>
       <pubDate>Tue, 14 Jan 2025 03:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 14 Jan 2025 03:00:02 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, January 14th, 2025 https://isc.sans.edu/podcastdetail/9278, (Mon, Jan 13th)</title>
@@ -78,6 +78,11 @@
       <pubDate>Mon, 13 Jan 2025 18:17:44 +0000</pubDate>
     </item>
     <item>
+      <title>Analyzing CVE-2024-44243, a macOS System Integrity Protection bypass through kernel extensions</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/01/13/analyzing-cve-2024-44243-a-macos-system-integrity-protection-bypass-through-kernel-extensions/</link>
+      <pubDate>Mon, 13 Jan 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How CTEM is providing better cybersecurity resilience for organizations</title>
       <link>https://securityintelligence.com/articles/how-ctem-is-providing-better-cybersecurity-resilience-for-organizations/</link>
       <pubDate>Mon, 13 Jan 2025 17:00:00 +0000</pubDate>
@@ -86,6 +91,11 @@
       <title>Russian Malware Campaign Hits Central Asian Diplomatic Files</title>
       <link>https://www.infosecurity-magazine.com/news/russian-malware-campaign-hits/</link>
       <pubDate>Mon, 13 Jan 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 takeaways from red teaming 100 generative AI products</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/</link>
+      <pubDate>Mon, 13 Jan 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The new rules for AI and encrypted messaging, with Mallory Knodel (Lock and Code S06E01)</title>
@@ -296,16 +306,6 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 2</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-2-6/</link>
       <pubDate>Fri, 10 Jan 2025 14:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian man loses a cryptocurrency fortune to scammers – here’s how you can stop it happening to you</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/canadian-man-loses-a-cryptocurrency-fortune-to-scammers-heres-how-you-can-stop-it-happening-to-you</link>
-      <pubDate>Fri, 10 Jan 2025 13:46:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operators of Cryptocurrency Mixers Charged with Money Laundering</title>
-      <link>https://www.justice.gov/opa/pr/operators-cryptocurrency-mixers-charged-money-laundering</link>
-      <pubDate>Fri, 10 Jan 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
