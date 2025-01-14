@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jan 2025 14:17:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 16:23:31 +0000</lastBuildDate>
+    <item>
+      <title>Tennessee-based mortgage lender confirms December cyberattack</title>
+      <link>https://therecord.media/tennessee-mortgage-lender-confirms-cyberattack</link>
+      <pubDate>Tue, 14 Jan 2025 15:48:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Connecticut city of West Haven assessing impact of cyberattack</title>
+      <link>https://therecord.media/west-haven-connecticut-city-government-cyberattack</link>
+      <pubDate>Tue, 14 Jan 2025 15:38:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Browser-Based Cyber-Threats Surge as Email Malware Declines</title>
+      <link>https://www.infosecurity-magazine.com/news/browser-cyberthreats-surge-email/</link>
+      <pubDate>Tue, 14 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia's largest platform for state procurement hit by cyberattack from pro-Ukraine group</title>
+      <link>https://therecord.media/russian-platform-for-state-procurement-hit-cyberattack</link>
+      <pubDate>Tue, 14 Jan 2025 14:38:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detect Banshee Stealer: Stealthy Apple macOS Malware Evades Detection Using XProtect Encryption</title>
+      <link>https://socprime.com/blog/banshee-stealer-macos-malware-detection/</link>
+      <pubDate>Tue, 14 Jan 2025 14:34:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 14 Jan 2025 14:05:03 +0000</pubDate>
+    </item>
     <item>
       <title>Why do software vendors have such deep access into customer systems?</title>
       <link>https://securityintelligence.com/articles/why-do-vendors-have-such-deep-access-into-customer-systems/</link>
@@ -23,9 +53,9 @@
       <pubDate>Tue, 14 Jan 2025 13:40:16 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 14 Jan 2025 13:05:03 +0000</pubDate>
+      <title>Windscribe VPN Review (2025): Features, Pricing, and Security</title>
+      <link>https://www.techrepublic.com/article/windscribe-vpn-review/</link>
+      <pubDate>Tue, 14 Jan 2025 13:00:47 +0000</pubDate>
     </item>
     <item>
       <title>Manchester Law Firm Leads 15,000 to Sue Google and Microsoft over AI Data</title>
@@ -46,6 +76,11 @@
       <title>The First Password on the Internet</title>
       <link>https://www.schneier.com/blog/archives/2025/01/the-first-password-on-the-internet.html</link>
       <pubDate>Tue, 14 Jan 2025 12:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases the JCDC AI Cybersecurity Collaboration Playbook and Fact Sheet</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/14/cisa-releases-jcdc-ai-cybersecurity-collaboration-playbook-and-fact-sheet</link>
+      <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Products and people are in place for CISA to succeed, agency’s departing No. 2 official says</title>
@@ -118,11 +153,6 @@
       <pubDate>Mon, 13 Jan 2025 22:10:23 +0000</pubDate>
     </item>
     <item>
-      <title>Major location data broker reports hack to Norwegian authorities</title>
-      <link>https://therecord.media/location-data-broker-gravy-breach</link>
-      <pubDate>Mon, 13 Jan 2025 22:03:34 +0000</pubDate>
-    </item>
-    <item>
       <title>US Chip Export Rule Proposes Limits to Thwart Chinese GPUs</title>
       <link>https://www.techrepublic.com/article/interim-rule-artificial-intelligence-diffusion/</link>
       <pubDate>Mon, 13 Jan 2025 21:32:04 +0000</pubDate>
@@ -133,19 +163,9 @@
       <pubDate>Mon, 13 Jan 2025 20:54:22 +0000</pubDate>
     </item>
     <item>
-      <title>Hackers with likely Kremlin ties target Kazakhstan in espionage campaign</title>
-      <link>https://therecord.media/hackers-kremlin-kazakhstan-espionage-campaign</link>
-      <pubDate>Mon, 13 Jan 2025 20:43:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Hikvision Password Reset Brute Forcing, (Mon, Jan 13th)</title>
       <link>https://isc.sans.edu/diary/rss/31586</link>
       <pubDate>Mon, 13 Jan 2025 20:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turks and Caicos recovering from pre-Christmas ransomware attack</title>
-      <link>https://therecord.media/turks-and-caicos-recovering-from-ransomware-attack</link>
-      <pubDate>Mon, 13 Jan 2025 20:02:46 +0000</pubDate>
     </item>
     <item>
       <title>Experimenting with Stealer Logs in Have I Been Pwned</title>
@@ -158,6 +178,11 @@
       <pubDate>Mon, 13 Jan 2025 18:17:44 +0000</pubDate>
     </item>
     <item>
+      <title>Analyzing CVE-2024-44243, a macOS System Integrity Protection bypass through kernel extensions</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/01/13/analyzing-cve-2024-44243-a-macos-system-integrity-protection-bypass-through-kernel-extensions/</link>
+      <pubDate>Mon, 13 Jan 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How CTEM is providing better cybersecurity resilience for organizations</title>
       <link>https://securityintelligence.com/articles/how-ctem-is-providing-better-cybersecurity-resilience-for-organizations/</link>
       <pubDate>Mon, 13 Jan 2025 17:00:00 +0000</pubDate>
@@ -166,6 +191,11 @@
       <title>Russian Malware Campaign Hits Central Asian Diplomatic Files</title>
       <link>https://www.infosecurity-magazine.com/news/russian-malware-campaign-hits/</link>
       <pubDate>Mon, 13 Jan 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 takeaways from red teaming 100 generative AI products</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/</link>
+      <pubDate>Mon, 13 Jan 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The new rules for AI and encrypted messaging, with Mallory Knodel (Lock and Code S06E01)</title>
@@ -228,6 +258,11 @@
       <pubDate>Mon, 13 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/13/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Mon, 13 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransomware on ESXi: The Mechanization of Virtualized Attacks</title>
       <link>https://thehackernews.com/2025/01/ransomware-on-esxi-mechanization-of.html</link>
       <pubDate>Mon, 13 Jan 2025 11:30:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>ISC Stormcast For Monday, January 13th, 2025 https://isc.sans.edu/podcastdetail/9276, (Mon, Jan 13th)</title>
       <link>https://isc.sans.edu/diary/rss/31584</link>
       <pubDate>Mon, 13 Jan 2025 01:42:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 434</title>
-      <link>https://www.troyhunt.com/weekly-update-434/</link>
-      <pubDate>Sun, 12 Jan 2025 22:59:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pro-Russia hackers NoName057 targets Italy again after Zelensky’s visit to the country</title>
-      <link>https://securityaffairs.com/172982/hacktivism/noname057-targets-italy.html</link>
-      <pubDate>Sun, 12 Jan 2025 20:39:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 28</title>
-      <link>https://securityaffairs.com/172978/malware/security-affairs-malware-newsletter-round-28.html</link>
-      <pubDate>Sun, 12 Jan 2025 18:45:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 506 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/172972/breaking-news/security-affairs-newsletter-round-506-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 12 Jan 2025 18:02:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>December 2024 Deep Web and Dark Web Trend Report</title>
-      <link>https://asec.ahnlab.com/en/85733/</link>
-      <pubDate>Sun, 12 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-OLE, (Sun, Jan 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/31580</link>
-      <pubDate>Sun, 12 Jan 2025 11:44:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a researcher earned $100,000 hacking a Facebook server</title>
-      <link>https://securityaffairs.com/172964/hacking/researcher-earned-100000-hacking-facebook-server.html</link>
-      <pubDate>Sun, 12 Jan 2025 10:12:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
