@@ -6,21 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jan 2025 18:25:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 20:20:03 +0000</lastBuildDate>
+    <item>
+      <title>DOJ deletes China-linked PlugX malware off more than 4,200 US computers</title>
+      <link>https://therecord.media/doj-deletes-china-linked-plugx-malware</link>
+      <pubDate>Tue, 14 Jan 2025 19:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hegseth says debate over Cyber Command, NSA leadership would reach ‘conclusion’</title>
       <link>https://therecord.media/pete-hegseth-confirmation-hearing-nsa-cybercom-dual-hat</link>
       <pubDate>Tue, 14 Jan 2025 18:07:34 +0000</pubDate>
     </item>
     <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 14 Jan 2025 18:05:03 +0000</pubDate>
+    </item>
+    <item>
       <title>US issues final rule barring Chinese, Russian connected car tech</title>
       <link>https://therecord.media/us-issues-rule-banning-chinese-russian-car-tech</link>
       <pubDate>Tue, 14 Jan 2025 17:30:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 14 Jan 2025 17:10:03 +0000</pubDate>
     </item>
     <item>
       <title>Upcoming Speaking Engagements</title>
@@ -61,11 +66,6 @@
       <title>Browser-Based Cyber-Threats Surge as Email Malware Declines</title>
       <link>https://www.infosecurity-magazine.com/news/browser-cyberthreats-surge-email/</link>
       <pubDate>Tue, 14 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia's largest platform for state procurement hit by cyberattack from pro-Ukraine group</title>
-      <link>https://therecord.media/russian-platform-for-state-procurement-hit-cyberattack</link>
-      <pubDate>Tue, 14 Jan 2025 14:38:43 +0000</pubDate>
     </item>
     <item>
       <title>Detect Banshee Stealer: Stealthy Apple macOS Malware Evades Detection Using XProtect Encryption</title>
@@ -135,6 +135,16 @@
     <item>
       <title>Fortinet Releases Security Updates for Multiple Products</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/01/14/fortinet-releases-security-updates-multiple-products</link>
+      <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Releases Security Updates for Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/14/adobe-releases-security-updates-multiple-products</link>
+      <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases January 2025 Security Updates</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/14/microsoft-releases-january-2025-security-updates</link>
       <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -243,6 +253,11 @@
       <pubDate>Mon, 13 Jan 2025 18:17:44 +0000</pubDate>
     </item>
     <item>
+      <title>Analyzing CVE-2024-44243, a macOS System Integrity Protection bypass through kernel extensions</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/01/13/analyzing-cve-2024-44243-a-macos-system-integrity-protection-bypass-through-kernel-extensions/</link>
+      <pubDate>Mon, 13 Jan 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How CTEM is providing better cybersecurity resilience for organizations</title>
       <link>https://securityintelligence.com/articles/how-ctem-is-providing-better-cybersecurity-resilience-for-organizations/</link>
       <pubDate>Mon, 13 Jan 2025 17:00:00 +0000</pubDate>
@@ -251,6 +266,11 @@
       <title>Russian Malware Campaign Hits Central Asian Diplomatic Files</title>
       <link>https://www.infosecurity-magazine.com/news/russian-malware-campaign-hits/</link>
       <pubDate>Mon, 13 Jan 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 takeaways from red teaming 100 generative AI products</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/</link>
+      <pubDate>Mon, 13 Jan 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The new rules for AI and encrypted messaging, with Mallory Knodel (Lock and Code S06E01)</title>
@@ -286,26 +306,6 @@
       <title>Bitwarden vs 1Password: Battle of the Best – Who Wins?</title>
       <link>https://www.techrepublic.com/article/bitwarden-vs-1password/</link>
       <pubDate>Mon, 13 Jan 2025 13:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Ransomware Group Uses AI to Develop Nefarious Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/new-ransomware-group-uses-ai/</link>
-      <pubDate>Mon, 13 Jan 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [13 January]</title>
-      <link>https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_01424177917.html</link>
-      <pubDate>Mon, 13 Jan 2025 12:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Takes Legal Action Against AI “Hacking as a Service” Scheme</title>
-      <link>https://www.schneier.com/blog/archives/2025/01/microsoft-takes-legal-action-against-ai-hacking-as-a-service-scheme.html</link>
-      <pubDate>Mon, 13 Jan 2025 12:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>WEF Warns of Growing Cyber Inequity Amid Escalating Complexities in Cyberspace</title>
-      <link>https://www.infosecurity-magazine.com/news/wef-cyber-inequity-complexities/</link>
-      <pubDate>Mon, 13 Jan 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
