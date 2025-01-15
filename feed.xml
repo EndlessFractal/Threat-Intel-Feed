@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 04:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 06:28:36 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 15 Jan 2025 03:15:03 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2025 06:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 Actively Exploited Zero-Day Flaws Patched in Microsoft's Latest Security Update</title>
+      <link>https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html</link>
+      <pubDate>Wed, 15 Jan 2025 05:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical SimpleHelp Flaws Allow File Theft, Privilege Escalation, and RCE Attacks</title>
+      <link>https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html</link>
+      <pubDate>Wed, 15 Jan 2025 05:10:00 +0000</pubDate>
     </item>
     <item>
       <title>159-CVE January Patch Tuesday smashes single-month record</title>
@@ -238,7 +248,7 @@
       <pubDate>Tue, 14 Jan 2025 09:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zero-Day Vulnerability Suspected in Attacks on Fortinet Firewalls with Exposed Interfaces</title>
+      <title>Fortinet Warns of New Zero-Day Used in Attacks on Firewalls with Exposed Interfaces</title>
       <link>https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html</link>
       <pubDate>Tue, 14 Jan 2025 09:13:00 +0000</pubDate>
     </item>
@@ -293,19 +303,9 @@
       <pubDate>Mon, 13 Jan 2025 18:17:44 +0000</pubDate>
     </item>
     <item>
-      <title>Analyzing CVE-2024-44243, a macOS System Integrity Protection bypass through kernel extensions</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/01/13/analyzing-cve-2024-44243-a-macos-system-integrity-protection-bypass-through-kernel-extensions/</link>
-      <pubDate>Mon, 13 Jan 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How CTEM is providing better cybersecurity resilience for organizations</title>
       <link>https://securityintelligence.com/articles/how-ctem-is-providing-better-cybersecurity-resilience-for-organizations/</link>
       <pubDate>Mon, 13 Jan 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Malware Campaign Hits Central Asian Diplomatic Files</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-malware-campaign-hits/</link>
-      <pubDate>Mon, 13 Jan 2025 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
