@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jan 2025 22:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 01:25:43 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 15 Jan 2025 00:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: Happy 2025. Here’s 161 Security Updates</title>
+      <link>https://krebsonsecurity.com/2025/01/microsoft-happy-2025-heres-161-security-updates/</link>
+      <pubDate>Tue, 14 Jan 2025 22:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Australian Government Agencies Failing to Keep Up With Cyber Security Change</title>
       <link>https://www.techrepublic.com/article/australia-government-cyber-security-maturity-declines/</link>
       <pubDate>Tue, 14 Jan 2025 22:13:50 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 14 Jan 2025 22:05:03 +0000</pubDate>
+      <title>FBI deleted China-linked PlugX malware from over 4,200 US computers</title>
+      <link>https://securityaffairs.com/173073/malware/fbi-deleted-china-linked-plugx-malware-from-over-4200-us-computers.html</link>
+      <pubDate>Tue, 14 Jan 2025 21:58:47 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Patch Tuesday for January 2025 — Snort rules and prominent vulnerabilities</title>
@@ -80,6 +90,11 @@
     <item>
       <title>Browser-Based Cyber-Threats Surge as Email Malware Declines</title>
       <link>https://www.infosecurity-magazine.com/news/browser-cyberthreats-surge-email/</link>
+      <pubDate>Tue, 14 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, January 2025</title>
+      <link>https://asec.ahnlab.com/en/85758/</link>
       <pubDate>Tue, 14 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -273,11 +288,6 @@
       <pubDate>Mon, 13 Jan 2025 18:17:44 +0000</pubDate>
     </item>
     <item>
-      <title>Analyzing CVE-2024-44243, a macOS System Integrity Protection bypass through kernel extensions</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/01/13/analyzing-cve-2024-44243-a-macos-system-integrity-protection-bypass-through-kernel-extensions/</link>
-      <pubDate>Mon, 13 Jan 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How CTEM is providing better cybersecurity resilience for organizations</title>
       <link>https://securityintelligence.com/articles/how-ctem-is-providing-better-cybersecurity-resilience-for-organizations/</link>
       <pubDate>Mon, 13 Jan 2025 17:00:00 +0000</pubDate>
@@ -288,11 +298,6 @@
       <pubDate>Mon, 13 Jan 2025 16:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>3 takeaways from red teaming 100 generative AI products</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/</link>
-      <pubDate>Mon, 13 Jan 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The new rules for AI and encrypted messaging, with Mallory Knodel (Lock and Code S06E01)</title>
       <link>https://www.malwarebytes.com/blog/uncategorized/2025/01/the-new-rules-for-ai-and-encrypted-messaging-with-mallory-knodel-lock-and-code-s06e01</link>
       <pubDate>Mon, 13 Jan 2025 15:50:23 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>iMessage text gets recipient to disable phishing protection so they can be phished</title>
       <link>https://www.malwarebytes.com/blog/news/2025/01/imessage-text-gets-recipient-to-disable-phishing-protection-so-they-can-be-phished</link>
       <pubDate>Mon, 13 Jan 2025 14:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOC Prime Launches Uncoder AI Solo: New Subscription Plan for Individual Security Experts</title>
-      <link>https://socprime.com/news/uncoder-ai-solo-subscription-launch/</link>
-      <pubDate>Mon, 13 Jan 2025 14:35:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
