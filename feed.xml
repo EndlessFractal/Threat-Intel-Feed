@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 18:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 20:19:34 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 15 Jan 2025 19:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Section 702 surveillance powers remain ‘indispensable,’ CIA pick Ratcliffe says</title>
+      <link>https://therecord.media/john-ratcliffe-cia-senate-confirmation-hearing-section-702</link>
+      <pubDate>Wed, 15 Jan 2025 18:46:29 +0000</pubDate>
+    </item>
     <item>
       <title>No new funding in EU plan to tackle ransomware attacks against hospitals</title>
       <link>https://therecord.media/ransomware-hospitals-european-commission-plan</link>
@@ -33,11 +43,6 @@
       <pubDate>Wed, 15 Jan 2025 16:27:42 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 15 Jan 2025 16:20:03 +0000</pubDate>
-    </item>
-    <item>
       <title>UK Considers Banning Ransomware Payments</title>
       <link>https://www.techrepublic.com/article/uk-banning-ransomware-payments/</link>
       <pubDate>Wed, 15 Jan 2025 16:19:12 +0000</pubDate>
@@ -61,11 +66,6 @@
       <title>Lazarus Group Targets Web3 Developers with Fake LinkedIn Profiles in Operation 99</title>
       <link>https://thehackernews.com/2025/01/lazarus-group-targets-web3-developers.html</link>
       <pubDate>Wed, 15 Jan 2025 15:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian espionage and financial theft campaigns have ramped up, Ukraine cyber agency says</title>
-      <link>https://therecord.media/russian-espionage-financial-theft-campaign</link>
-      <pubDate>Wed, 15 Jan 2025 14:58:53 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds Fortinet FortiOS to its Known Exploited Vulnerabilities catalog</title>
@@ -135,6 +135,11 @@
     <item>
       <title>Fortinet Confirms Critical Zero-Day Vulnerability in Firewalls</title>
       <link>https://www.infosecurity-magazine.com/news/fortinet-confirms-critical-zero-day/</link>
+      <pubDate>Wed, 15 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Microsoft Expanded Cloud Logs Implementation Playbook</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/15/cisa-releases-microsoft-expanded-cloud-logs-implementation-playbook</link>
       <pubDate>Wed, 15 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -300,11 +305,6 @@
     <item>
       <title>Schneider Electric Vijeo Designer</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-014-02</link>
-      <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy FOXMAN-UN</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-014-01</link>
       <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
