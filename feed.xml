@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 10:19:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 12:37:20 +0000</lastBuildDate>
     <item>
-      <title>Microsoft Patches Eight Zero-Days to Start the Year</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-patches-eight-zerodays/</link>
-      <pubDate>Wed, 15 Jan 2025 10:00:00 +0000</pubDate>
+      <title>Phishing False Alarm</title>
+      <link>https://www.schneier.com/blog/archives/2025/01/phishing-false-alarm.html</link>
+      <pubDate>Wed, 15 Jan 2025 12:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Confirms Critical Zero-Day Vulnerability in Firewalls</title>
+      <link>https://www.infosecurity-magazine.com/news/fortinet-confirms-critical-zero-day/</link>
+      <pubDate>Wed, 15 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codefinger ransomware gang uses compromised AWS keys to encrypt S3 bucket</title>
+      <link>https://securityaffairs.com/173089/cyber-crime/codefinger-ransomware-gang-encrypts-s3-bucket.html</link>
+      <pubDate>Wed, 15 Jan 2025 11:53:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Secureworks Exposes North Korean Links to Fraudulent Crowdfunding</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korean-links-fraudulent/</link>
+      <pubDate>Wed, 15 Jan 2025 11:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-44243 macOS flaw allows persistent malware installation</title>
+      <link>https://securityaffairs.com/173082/hacking/apple-macos-system-integrity-protection-sip-flaw.html</link>
+      <pubDate>Wed, 15 Jan 2025 10:34:33 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 15 Jan 2025 09:15:02 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2025 10:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches Eight Zero-Days to Start the Year</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-patches-eight-zerodays/</link>
+      <pubDate>Wed, 15 Jan 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Curious Case of a 12-Year-Old Netgear Router Vulnerability, (Wed, Jan 15th)</title>
@@ -281,31 +306,6 @@
       <title>January 2025 Patch Tuesday: 10 Critical Vulnerabilities and Eight Zero-Days Among 159 CVEs</title>
       <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-january-2025/</link>
       <pubDate>Tue, 14 Jan 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Second BeyondTrust Flaw to KEV Catalog Amid Active Attacks</title>
-      <link>https://thehackernews.com/2025/01/cisa-adds-new-beyondtrust-flaw-to-kev.html</link>
-      <pubDate>Tue, 14 Jan 2025 03:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, January 14th, 2025 https://isc.sans.edu/podcastdetail/9278, (Mon, Jan 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/31588</link>
-      <pubDate>Mon, 13 Jan 2025 22:59:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds BeyondTrust PRA and RS and Qlik Sense flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/173031/security/u-s-cisa-adds-beyondtrust-pra-and-rs-and-qlik-sense-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Mon, 13 Jan 2025 22:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Chip Export Rule Proposes Limits to Thwart Chinese GPUs</title>
-      <link>https://www.techrepublic.com/article/interim-rule-artificial-intelligence-diffusion/</link>
-      <pubDate>Mon, 13 Jan 2025 21:32:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inexperienced actors developed the FunkSec ransomware using AI tools</title>
-      <link>https://securityaffairs.com/173018/cyber-crime/funksec-ransomware-was-developed-using-ai-tools.html</link>
-      <pubDate>Mon, 13 Jan 2025 20:54:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
