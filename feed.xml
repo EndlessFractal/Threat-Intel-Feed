@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 08:24:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 10:19:22 +0000</lastBuildDate>
     <item>
-      <title>FBI Deletes PlugX Malware from 4,250 Hacked Computers in Multi-Month Operation</title>
-      <link>https://thehackernews.com/2025/01/fbi-deletes-plugx-malware-from-4250.html</link>
-      <pubDate>Wed, 15 Jan 2025 06:14:00 +0000</pubDate>
+      <title>Microsoft Patches Eight Zero-Days to Start the Year</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-patches-eight-zerodays/</link>
+      <pubDate>Wed, 15 Jan 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 15 Jan 2025 06:10:03 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2025 09:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Curious Case of a 12-Year-Old Netgear Router Vulnerability, (Wed, Jan 15th)</title>
+      <link>https://isc.sans.edu/diary/rss/31592</link>
+      <pubDate>Wed, 15 Jan 2025 08:25:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Deletes PlugX Malware from 4,250 Hacked Computers in Multi-Month Operation</title>
+      <link>https://thehackernews.com/2025/01/fbi-deletes-plugx-malware-from-4250.html</link>
+      <pubDate>Wed, 15 Jan 2025 06:14:00 +0000</pubDate>
     </item>
     <item>
       <title>3 Actively Exploited Zero-Day Flaws Patched in Microsoft's Latest Security Update</title>
@@ -296,16 +306,6 @@
       <title>Inexperienced actors developed the FunkSec ransomware using AI tools</title>
       <link>https://securityaffairs.com/173018/cyber-crime/funksec-ransomware-was-developed-using-ai-tools.html</link>
       <pubDate>Mon, 13 Jan 2025 20:54:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hikvision Password Reset Brute Forcing, (Mon, Jan 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/31586</link>
-      <pubDate>Mon, 13 Jan 2025 20:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experimenting with Stealer Logs in Have I Been Pwned</title>
-      <link>https://www.troyhunt.com/experimenting-with-stealer-logs-in-have-i-been-pwned/</link>
-      <pubDate>Mon, 13 Jan 2025 19:48:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
