@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jan 2025 06:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 08:23:32 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 16 Jan 2025 05:25:03 +0000</pubDate>
+      <pubDate>Thu, 16 Jan 2025 07:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Python-Based Malware Powers RansomHub Ransomware to Exploit Network Flaws</title>
+      <link>https://thehackernews.com/2025/01/python-based-malware-powers-ransomhub.html</link>
+      <pubDate>Thu, 16 Jan 2025 06:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researcher Uncovers Critical Flaws in Multiple Versions of Ivanti Endpoint Manager</title>
+      <link>https://thehackernews.com/2025/01/researcher-uncovers-critical-flaws-in.html</link>
+      <pubDate>Thu, 16 Jan 2025 06:39:00 +0000</pubDate>
     </item>
     <item>
       <title>Extracting Practical Observations from Impractical Datasets, (Thu, Jan 16th)</title>
@@ -21,6 +31,11 @@
       <title>Supreme Court seems poised to uphold age-gating law for online sexual content</title>
       <link>https://therecord.media/supreme-court-poised-to-uphold-porn-age-gating-law</link>
       <pubDate>Thu, 16 Jan 2025 01:40:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #400: Hacker games, AI travel surveillance, and 25 years of IoT</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-400/</link>
+      <pubDate>Thu, 16 Jan 2025 00:19:46 +0000</pubDate>
     </item>
     <item>
       <title>Threat actor leaked config files and VPN passwords for over Fortinet Fortigate devices</title>
@@ -91,11 +106,6 @@
       <title>The Curious Case of a 12-Year-Old Netgear Router Vulnerability, (Wed, Jan 15th)</title>
       <link>https://isc.sans.edu/diary/rss/31592</link>
       <pubDate>Wed, 15 Jan 2025 14:53:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Innovating in line with the European Union’s AI Act</title>
-      <link>https://blogs.microsoft.com/on-the-issues/?p=66749</link>
-      <pubDate>Wed, 15 Jan 2025 14:10:00 +0000</pubDate>
     </item>
     <item>
       <title>Enhancing Health Care Cybersecurity: Bridging HIPAA Gaps with Innovation</title>
@@ -193,8 +203,18 @@
       <pubDate>Wed, 15 Jan 2025 06:14:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Critical Evolution of Cloud Detection and Response</title>
+      <link>https://www.crowdstrike.com/en-us/blog/critical-evolution-of-cdr/</link>
+      <pubDate>Wed, 15 Jan 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CrowdStrike Insider Risk Services Defend Against the Threats Within</title>
       <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-insider-risk-services/</link>
+      <pubDate>Wed, 15 Jan 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Falcon for Legacy Systems: Modern Security for Legacy Environments</title>
+      <link>https://www.crowdstrike.com/en-us/blog/modern-security-for-legacy-environments/</link>
       <pubDate>Wed, 15 Jan 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Why do software vendors have such deep access into customer systems?</title>
       <link>https://securityintelligence.com/articles/why-do-vendors-have-such-deep-access-into-customer-systems/</link>
       <pubDate>Tue, 14 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Demonstrating reduction of vulnerability classes: a key step in CISA’s “Secure by Design” pledge</title>
-      <link>https://blog.cloudflare.com/cisa-pledge-commitment-reducing-vulnerability/</link>
-      <pubDate>Tue, 14 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windscribe VPN Review (2025): Features, Pricing, and Security</title>
-      <link>https://www.techrepublic.com/article/windscribe-vpn-review/</link>
-      <pubDate>Tue, 14 Jan 2025 13:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manchester Law Firm Leads 15,000 to Sue Google and Microsoft over AI Data</title>
-      <link>https://www.infosecurity-magazine.com/news/law-firm-sue-google-microsoft-ai/</link>
-      <pubDate>Tue, 14 Jan 2025 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insurance company accused of using secret software to illegally collect and sell location data on millions of Americans</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/01/insurance-company-accused-of-using-secret-software-to-illegally-collect-and-sell-location-data-on-millions-of-americans</link>
-      <pubDate>Tue, 14 Jan 2025 12:20:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
