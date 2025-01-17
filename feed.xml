@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jan 2025 02:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 04:23:01 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 17 Jan 2025 01:35:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jan 2025 03:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leveraging Honeypot Data for Offensive Security Operations [Guest Diary], (Fri, Jan 17th)</title>
+      <link>https://isc.sans.edu/diary/rss/31596</link>
+      <pubDate>Fri, 17 Jan 2025 02:56:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>FTC hands GM a 5-year ban on selling sensitive driver info to data brokers</title>
+      <link>https://therecord.media/ftc-gm-settlement-5-year-ban-selling-driver-data</link>
+      <pubDate>Fri, 17 Jan 2025 02:46:19 +0000</pubDate>
     </item>
     <item>
       <title>CISA warns of exploited Fortinet bugs as Microsoft issues its biggest Patch Tuesday in years</title>
@@ -58,7 +68,7 @@
       <pubDate>Thu, 16 Jan 2025 19:15:38 +0000</pubDate>
     </item>
     <item>
-      <title>Russian Star Blizzard Shifts Tactics to Exploit WhatsApp QR Codes for Credential Harvesting</title>
+      <title>Russian Star Blizzard Targets WhatsApp Accounts in New Spear-Phishing Campaign</title>
       <link>https://thehackernews.com/2025/01/russian-star-blizzard-shifts-tactics-to.html</link>
       <pubDate>Thu, 16 Jan 2025 18:12:00 +0000</pubDate>
     </item>
@@ -71,11 +81,6 @@
       <title>Biotech firm settles class action lawsuit over ransomware attack for $7.5 million</title>
       <link>https://therecord.media/enzo-biochem-ransomware-class-action-lawsuit-settlement</link>
       <pubDate>Thu, 16 Jan 2025 17:29:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>German defense and foreign ministries suspend activity on Elon Musk’s platform</title>
-      <link>https://therecord.media/german-defense-foreign-ministries-suspend-accounts-on-x</link>
-      <pubDate>Thu, 16 Jan 2025 17:06:18 +0000</pubDate>
     </item>
     <item>
       <title>Gootloader inside out</title>
@@ -301,11 +306,6 @@
       <title>Microsoft Patch Tuesday updates for January 2025 fixed three actively exploited flaws</title>
       <link>https://securityaffairs.com/173102/security/microsoft-patch-tuesday-updates-for-january-2025.html</link>
       <pubDate>Wed, 15 Jan 2025 21:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Emerging AI Threats Australian Cyber Pros Must Watch in 2025</title>
-      <link>https://www.techrepublic.com/article/5-emerging-ai-threats-australia/</link>
-      <pubDate>Wed, 15 Jan 2025 16:53:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
