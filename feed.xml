@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jan 2025 06:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 08:23:19 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 17 Jan 2025 06:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-linked APT Star Blizzard targets WhatsApp accounts</title>
+      <link>https://securityaffairs.com/173165/apt/russia-star-blizzard-targets-whatsapp-accounts.html</link>
+      <pubDate>Fri, 17 Jan 2025 06:22:23 +0000</pubDate>
+    </item>
     <item>
       <title>European Privacy Group Sues TikTok and AliExpress for Illicit Data Transfers to China</title>
       <link>https://thehackernews.com/2025/01/european-privacy-group-sues-tiktok-and.html</link>
       <pubDate>Fri, 17 Jan 2025 04:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 17 Jan 2025 03:35:03 +0000</pubDate>
     </item>
     <item>
       <title>Leveraging Honeypot Data for Offensive Security Operations [Guest Diary], (Fri, Jan 17th)</title>
@@ -301,11 +306,6 @@
       <title>Smashing Security podcast #400: Hacker games, AI travel surveillance, and 25 years of IoT</title>
       <link>https://grahamcluley.com/smashing-security-podcast-400/</link>
       <pubDate>Thu, 16 Jan 2025 00:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actor leaked config files and VPN passwords for over Fortinet Fortigate devices</title>
-      <link>https://securityaffairs.com/173111/cyber-crime/fortinet-fortigate-devices-data-leak.html</link>
-      <pubDate>Thu, 16 Jan 2025 00:03:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
