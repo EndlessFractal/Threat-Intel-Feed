@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jan 2025 16:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 18:25:22 +0000</lastBuildDate>
+    <item>
+      <title>US sanctions hacker and company allegedly behind Treasury and telecom breaches</title>
+      <link>https://therecord.media/treasury-sanctions-alleged-salt-typhoon-hacker-company</link>
+      <pubDate>Fri, 17 Jan 2025 17:33:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 17 Jan 2025 16:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp spear phishing campaign uses QR codes to add device</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/01/whatsapp-spear-phishing-campaign-uses-qr-codes-to-add-device</link>
+      <pubDate>Fri, 17 Jan 2025 16:25:04 +0000</pubDate>
+    </item>
     <item>
       <title>US Supreme Court Gives Green Light to TikTok Ban</title>
       <link>https://www.infosecurity-magazine.com/news/supreme-court-us-tiktok-ban/</link>
@@ -21,11 +36,6 @@
       <title>Canadian IT company added to Moscow’s list of 'undesirable' organizations</title>
       <link>https://therecord.media/opentext-corporation-russia-undesirable-list</link>
       <pubDate>Fri, 17 Jan 2025 15:46:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 17 Jan 2025 15:40:03 +0000</pubDate>
     </item>
     <item>
       <title>Lazarus Group Targets Developers in New Data Theft Campaign</title>
@@ -81,6 +91,11 @@
       <title>Star Blizzard Targets WhatsApp in New Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/star-blizzard-whatsapp-new-campaign/</link>
       <pubDate>Fri, 17 Jan 2025 12:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and FBI Release Updated Guidance on Product Security Bad Practices</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/17/cisa-and-fbi-release-updated-guidance-product-security-bad-practices</link>
+      <pubDate>Fri, 17 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ESET detailed a flaw that could allow a bypass of the Secure Boot in UEFI systems</title>
@@ -141,11 +156,6 @@
       <title>FTC proposes 5-year ban on GM selling sensitive driver info to data brokers</title>
       <link>https://therecord.media/ftc-gm-settlement-5-year-ban-selling-driver-data</link>
       <pubDate>Fri, 17 Jan 2025 02:46:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA warns of exploited Fortinet bugs as Microsoft issues its biggest Patch Tuesday in years</title>
-      <link>https://therecord.media/cisa-warns-fortinet-bugs-microsoft-patch-tuesday</link>
-      <pubDate>Fri, 17 Jan 2025 01:12:06 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, January 17th, 2025 https://isc.sans.edu/podcastdetail/9284, (Fri, Jan 17th)</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Siemens Siveillance Video Camera</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-016-03</link>
-      <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy FOX61x, FOXCST, and FOXMAN-UN Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-016-06</link>
-      <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Mendix LDAP</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-016-01</link>
       <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
