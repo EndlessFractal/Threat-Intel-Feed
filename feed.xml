@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jan 2025 02:50:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 04:21:23 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 19 Jan 2025 01:55:03 +0000</pubDate>
+      <pubDate>Sun, 19 Jan 2025 02:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero Trust and Entra ID Conditional Access, (Sun, Jan 19th)</title>
+      <link>https://isc.sans.edu/diary/rss/31602</link>
+      <pubDate>Sun, 19 Jan 2025 02:48:18 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Treasury Sanctions Chinese cybersecurity firm and actor over federal agency breach tied to Salt Typhoon</title>
@@ -301,11 +306,6 @@
       <title>GoDaddy Accused of Serious Security Failings by FTC</title>
       <link>https://www.infosecurity-magazine.com/news/godaddy-security-failings-ftc/</link>
       <pubDate>Thu, 16 Jan 2025 12:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Deletes PlugX Malware from Thousands of Computers</title>
-      <link>https://www.schneier.com/blog/archives/2025/01/fbi-deletes-plugx-malware-from-thousands-of-computers.html</link>
-      <pubDate>Thu, 16 Jan 2025 12:03:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
