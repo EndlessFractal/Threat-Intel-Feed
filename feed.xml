@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jan 2025 16:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 18:26:20 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 23 Jan 2025 17:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn sued for allegedly training AI models with private messages without consent</title>
+      <link>https://therecord.media/linkedin-lawsuit-private-messages-ai-training</link>
+      <pubDate>Thu, 23 Jan 2025 16:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chained Vulnerabilities Exploited in Ivanti Cloud Service Appliances</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-fbi-warn-chained-attacks/</link>
+      <pubDate>Thu, 23 Jan 2025 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bookmakers Ramp Up Efforts to Combat Arbitrage Betting Fraud</title>
       <link>https://www.infosecurity-magazine.com/news/bookmakers-efforts-combat/</link>
@@ -33,9 +48,14 @@
       <pubDate>Thu, 23 Jan 2025 14:58:39 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 23 Jan 2025 14:45:03 +0000</pubDate>
+      <title>New Research: The State of Web Exposure 2025</title>
+      <link>https://thehackernews.com/2025/01/new-research-state-of-web-exposure-2025.html</link>
+      <pubDate>Thu, 23 Jan 2025 14:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom Backdoor Exploiting Magic Packet Vulnerability in Juniper Routers</title>
+      <link>https://thehackernews.com/2025/01/custom-backdoor-exploiting-magic-packet.html</link>
+      <pubDate>Thu, 23 Jan 2025 14:55:00 +0000</pubDate>
     </item>
     <item>
       <title>GhostGPT: Uncensored Chatbot Used by Cyber Criminals for Malware Creation, Scams</title>
@@ -93,6 +113,11 @@
       <pubDate>Thu, 23 Jan 2025 12:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Wisconsin Man Pleads Guilty to ‘Swatting’ Scheme that Took  Over Ring Doorbell Cameras to Livestream Police Response</title>
+      <link>https://www.justice.gov/usao-cdca/pr/wisconsin-man-pleads-guilty-swatting-scheme-took-over-ring-doorbell-cameras-livestream</link>
+      <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>mySCADA myPRO Manager</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-023-01</link>
       <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
@@ -123,6 +148,11 @@
       <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/23/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Releases Six Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/01/23/cisa-releases-six-industrial-control-systems-advisories</link>
       <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
@@ -146,11 +176,6 @@
       <title>SonicWall Urges Immediate Patch for Critical CVE-2025-23006 Flaw Amid Likely Exploitation</title>
       <link>https://thehackernews.com/2025/01/sonicwall-urges-immediate-patch-for.html</link>
       <pubDate>Thu, 23 Jan 2025 10:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: The State of Web Exposure 2025</title>
-      <link>https://thehackernews.com/2025/01/new-research-state-of-web-exposure-2025.html</link>
-      <pubDate>Thu, 23 Jan 2025 10:15:00 +0000</pubDate>
     </item>
     <item>
       <title>QakBot-Linked BC Malware Adds Enhanced Remote Access and Data Gathering Features</title>
@@ -218,11 +243,6 @@
       <pubDate>Wed, 22 Jan 2025 19:12:53 +0000</pubDate>
     </item>
     <item>
-      <title>Trump admin tells all Democrats on intelligence oversight board to resign</title>
-      <link>https://therecord.media/trump-admin-tells-democrats-on-intel-oversight-board-to-resign</link>
-      <pubDate>Wed, 22 Jan 2025 18:49:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Catching CARP: Fishing for Firewall States in PFSync Traffic, (Wed, Jan 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/31616</link>
       <pubDate>Wed, 22 Jan 2025 18:14:30 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>AI Will Write Complex Laws</title>
       <link>https://www.schneier.com/blog/archives/2025/01/ai-will-write-complex-laws.html</link>
       <pubDate>Wed, 22 Jan 2025 12:04:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Cybersecurity Vendors' Credentials Found on Dark Web</title>
-      <link>https://www.infosecurity-magazine.com/news/cybersecurity-vendors-credentials/</link>
-      <pubDate>Wed, 22 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and FBI Release Advisory on How Threat Actors Chained Vulnerabilities in Ivanti Cloud Service Applications</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/01/22/cisa-and-fbi-release-advisory-how-threat-actors-chained-vulnerabilities-ivanti-cloud-service</link>
-      <pubDate>Wed, 22 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Account Compromise and Phishing Top Healthcare Security Incidents</title>
-      <link>https://www.infosecurity-magazine.com/news/account-compromise-phishing/</link>
-      <pubDate>Wed, 22 Jan 2025 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discover Hidden Browsing Threats: Free Risk Assessment for GenAI, Identity, Web, and SaaS Risks</title>
-      <link>https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html</link>
-      <pubDate>Wed, 22 Jan 2025 10:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
