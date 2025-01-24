@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 01:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 02:45:59 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 24 Jan 2025 01:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Guest Diary] How Access Brokers Maintain Persistence, (Fri, Jan 24th)</title>
+      <link>https://isc.sans.edu/diary/rss/31600</link>
+      <pubDate>Fri, 24 Jan 2025 00:42:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Friday, January 24th, 2025 https://isc.sans.edu/podcastdetail/9294, (Fri, Jan 24th)</title>
+      <link>https://isc.sans.edu/diary/rss/31622</link>
+      <pubDate>Fri, 24 Jan 2025 00:13:40 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Thu, 23 Jan 2025 23:06:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 23 Jan 2025 22:45:03 +0000</pubDate>
     </item>
     <item>
       <title>DOJ indicts two Americans for running laptop farm used in North Korea IT worker scam</title>
@@ -75,6 +85,11 @@
     <item>
       <title>Beware: Fake CAPTCHA Campaign Spreads Lumma Stealer in Multi-Industry Attacks</title>
       <link>https://thehackernews.com/2025/01/beware-fake-captcha-campaign-spreads.html</link>
+      <pubDate>Thu, 23 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware &amp; Security Issue 4st Week of January, 2025</title>
+      <link>https://asec.ahnlab.com/en/85933/</link>
       <pubDate>Thu, 23 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>The EDR That Became Legend</title>
       <link>https://www.security.com/product-insights/edr-legend</link>
       <pubDate>Wed, 22 Jan 2025 16:37:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tycoon 2FA Phishing Kit Upgraded to Bypass Security Measures</title>
-      <link>https://www.infosecurity-magazine.com/news/tycoon-2fa-phishing-kit-upgraded/</link>
-      <pubDate>Wed, 22 Jan 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MasterCard DNS Error Went Unnoticed for Years</title>
-      <link>https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/</link>
-      <pubDate>Wed, 22 Jan 2025 15:24:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 4, January 2025</title>
-      <link>https://asec.ahnlab.com/en/85925/</link>
-      <pubDate>Wed, 22 Jan 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
