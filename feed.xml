@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 14:17:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 16:26:49 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 24 Jan 2025 14:55:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Announces £5m Grant for Cyber Education in the UK</title>
+      <link>https://www.infosecurity-magazine.com/news/aws-5m-pound-grant-cyber-education/</link>
+      <pubDate>Fri, 24 Jan 2025 14:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 4</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-4-6/</link>
@@ -16,11 +26,6 @@
       <title>How cyberattacks on grocery stores could threaten food security</title>
       <link>https://securityintelligence.com/articles/how-cyberattacks-on-grocery-stores-could-threaten-food-security/</link>
       <pubDate>Fri, 24 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 24 Jan 2025 13:55:02 +0000</pubDate>
     </item>
     <item>
       <title>Seasoning email threats with hidden text salting</title>
@@ -113,11 +118,6 @@
       <pubDate>Thu, 23 Jan 2025 20:31:38 +0000</pubDate>
     </item>
     <item>
-      <title>Phishing Emails Targeting Australian Firms Rise by 30% in 2024</title>
-      <link>https://www.techrepublic.com/article/phishing-email-attacks-rise-australia/</link>
-      <pubDate>Thu, 23 Jan 2025 19:16:49 +0000</pubDate>
-    </item>
-    <item>
       <title>Everything is connected to security</title>
       <link>https://blog.talosintelligence.com/everything-is-connected-to-security/</link>
       <pubDate>Thu, 23 Jan 2025 19:05:12 +0000</pubDate>
@@ -176,11 +176,6 @@
       <title>Custom Backdoor Exploiting Magic Packet Vulnerability in Juniper Routers</title>
       <link>https://thehackernews.com/2025/01/custom-backdoor-exploiting-magic-packet.html</link>
       <pubDate>Thu, 23 Jan 2025 14:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GhostGPT: Uncensored Chatbot Used by Cyber Criminals for Malware Creation, Scams</title>
-      <link>https://www.techrepublic.com/article/what-is-ghostgpt/</link>
-      <pubDate>Thu, 23 Jan 2025 14:44:22 +0000</pubDate>
     </item>
     <item>
       <title>Warning: Don’t sell or buy a second hand iPhone with TikTok already installed</title>
@@ -306,6 +301,11 @@
       <title>QakBot-Linked BC Malware Adds Enhanced Remote Access and Data Gathering Features</title>
       <link>https://thehackernews.com/2025/01/qakbot-linked-bc-malware-adds-enhanced.html</link>
       <pubDate>Thu, 23 Jan 2025 09:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco addresses a critical privilege escalation bug in Meeting Management</title>
+      <link>https://securityaffairs.com/173361/security/cisco-meeting-management-critical-flaw.html</link>
+      <pubDate>Thu, 23 Jan 2025 08:17:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
