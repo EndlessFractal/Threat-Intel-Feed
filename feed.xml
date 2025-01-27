@@ -6,16 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jan 2025 10:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:37:41 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 27 Jan 2025 12:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>New VPN Backdoor</title>
+      <link>https://www.schneier.com/blog/archives/2025/01/new-vpn-backdoor.html</link>
+      <pubDate>Mon, 27 Jan 2025 12:02:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISOs Boost Crisis Simulation Budgets Amid High-Profile Cyber-Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/ciso-boost-crisis-simulation/</link>
+      <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do We Really Need The OWASP NHI Top 10?</title>
+      <link>https://thehackernews.com/2025/01/do-we-really-need-owasp-nhi-top-10.html</link>
+      <pubDate>Mon, 27 Jan 2025 11:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subaru Bug Enabled Remote Vehicle Tracking and Hijacking</title>
+      <link>https://www.infosecurity-magazine.com/news/subaru-bug-remote-vehicle-tracking/</link>
+      <pubDate>Mon, 27 Jan 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An unusual "shy z-wasp" phishing, (Mon, Jan 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/31626</link>
+      <pubDate>Mon, 27 Jan 2025 10:45:52 +0000</pubDate>
+    </item>
     <item>
       <title>Change Healthcare Breach Almost Doubles in Size to 190 Million Victims</title>
       <link>https://www.infosecurity-magazine.com/news/change-healthcare-breach-doubles/</link>
       <pubDate>Mon, 27 Jan 2025 10:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 27 Jan 2025 10:10:03 +0000</pubDate>
+      <title>ESXi ransomware attacks use SSH tunnels to avoid detection</title>
+      <link>https://securityaffairs.com/173487/cyber-crime/esxi-ransomware-attacks-use-ssh-tunnels-to-avoid-detection.html</link>
+      <pubDate>Mon, 27 Jan 2025 10:05:11 +0000</pubDate>
     </item>
     <item>
       <title>Attackers allegedly stole $69 million from cryptocurrency platform Phemex</title>
@@ -193,11 +223,6 @@
       <pubDate>Fri, 24 Jan 2025 09:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>SonicWall warns of a critical CVE-2025-23006 zero-day likely exploited in the wild</title>
-      <link>https://securityaffairs.com/173387/security/sonicwall-warns-zero-day-sma-1000-series.html</link>
-      <pubDate>Fri, 24 Jan 2025 09:36:35 +0000</pubDate>
-    </item>
-    <item>
       <title>Be careful what you say about data leaks in Turkey, new law could mean prison for reporting hacks</title>
       <link>https://www.tripwire.com/state-of-security/new-law-could-mean-prison-reporting-data-leaks</link>
       <pubDate>Fri, 24 Jan 2025 09:34:19 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>Custom Backdoor Exploiting Magic Packet Vulnerability in Juniper Routers</title>
       <link>https://thehackernews.com/2025/01/custom-backdoor-exploiting-magic-packet.html</link>
       <pubDate>Thu, 23 Jan 2025 14:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GhostGPT: Uncensored Chatbot Used by Cyber Criminals for Malware Creation, Scams</title>
-      <link>https://www.techrepublic.com/article/what-is-ghostgpt/</link>
-      <pubDate>Thu, 23 Jan 2025 14:44:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warning: Don’t sell or buy a second hand iPhone with TikTok already installed</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/01/warning-dont-sell-or-buy-a-second-hand-iphone-with-tiktok-already-installed</link>
-      <pubDate>Thu, 23 Jan 2025 14:35:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts Find Shared Codebase Linking Morpheus and HellCat Ransomware Payloads</title>
-      <link>https://thehackernews.com/2025/01/experts-find-shared-codebase-linking.html</link>
-      <pubDate>Thu, 23 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taking the fight to the enemy: Cyber persistence strategy gains momentum</title>
-      <link>https://securityintelligence.com/articles/taking-fight-to-enemy-cyber-persistence-strategy-gains-momentum/</link>
-      <pubDate>Thu, 23 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HellCat and Morpheus | Two Brands, One Payload as Ransomware Affiliates Drop Identical Code</title>
-      <link>https://www.sentinelone.com/blog/hellcat-and-morpheus-two-brands-one-payload-as-ransomware-affiliates-drop-identical-code/</link>
-      <pubDate>Thu, 23 Jan 2025 13:55:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
