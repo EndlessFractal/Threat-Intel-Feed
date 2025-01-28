@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jan 2025 16:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 18:25:57 +0000</lastBuildDate>
     <item>
-      <title>EU sanctions Russian intelligence personnel for cyberattacks against Estonia</title>
-      <link>https://therecord.media/eu-sanctions-gru-personnel-cyberattack-estonia</link>
-      <pubDate>Tue, 28 Jan 2025 15:57:03 +0000</pubDate>
+      <title>How to Protect and Secure Your Data in 10 Ways</title>
+      <link>https://www.techrepublic.com/article/how-to-protect-and-secure-data/</link>
+      <pubDate>Tue, 28 Jan 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ENGlobal Cyber-Attack Exposes Sensitive Data</title>
+      <link>https://www.infosecurity-magazine.com/news/englobal-attack-sensitive-data/</link>
+      <pubDate>Tue, 28 Jan 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attack on ENGlobal compromised personal information</title>
+      <link>https://securityaffairs.com/173566/cyber-crime/englobal-disclosed-a-ransomware-attack.html</link>
+      <pubDate>Tue, 28 Jan 2025 16:41:37 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 28 Jan 2025 15:40:02 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2025 16:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>PureCrypter Deploys Agent Tesla and New TorNet Backdoor in Ongoing Cyberattacks</title>
+      <link>https://thehackernews.com/2025/01/purecrypter-deploys-agent-tesla-and-new.html</link>
+      <pubDate>Tue, 28 Jan 2025 16:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lynx Ransomware Group Unveiled with Sophisticated Affiliate Program</title>
+      <link>https://www.infosecurity-magazine.com/news/lynx-ransomware-sophisticated/</link>
+      <pubDate>Tue, 28 Jan 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU sanctions Russian intelligence personnel for cyberattacks against Estonia</title>
+      <link>https://therecord.media/eu-sanctions-gru-personnel-cyberattack-estonia</link>
+      <pubDate>Tue, 28 Jan 2025 15:57:03 +0000</pubDate>
     </item>
     <item>
       <title>Texas utility firm investigating potential leak of customer data tied to 2023 MOVEit breach</title>
@@ -78,16 +103,6 @@
       <pubDate>Tue, 28 Jan 2025 12:09:53 +0000</pubDate>
     </item>
     <item>
-      <title>B&amp;R Automation Runtime</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-028-01</link>
-      <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Power Logic</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-028-02</link>
-      <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Rockwell Automation FactoryTalk</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-028-03</link>
       <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
@@ -98,13 +113,23 @@
       <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rockwell Automation DataMosaix Private Cloud</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-028-05</link>
+      <title>Schneider Electric Power Logic</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-028-02</link>
+      <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>B&amp;R Automation Runtime</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-028-01</link>
       <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Schneider Electric RemoteConnect and SCADAPack x70 Utilities</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-028-06</link>
+      <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation DataMosaix Private Cloud</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-028-05</link>
       <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [27 January]</title>
       <link>https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_27.html</link>
       <pubDate>Mon, 27 Jan 2025 12:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GamaCopy targets Russia mimicking Russia-linked Gamaredon APT</title>
-      <link>https://securityaffairs.com/173501/apt/gamacopy-mimics-russia-linked-gamaredon-apt.html</link>
-      <pubDate>Mon, 27 Jan 2025 12:28:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>New VPN Backdoor</title>
-      <link>https://www.schneier.com/blog/archives/2025/01/new-vpn-backdoor.html</link>
-      <pubDate>Mon, 27 Jan 2025 12:02:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Privacy-Preserving Federated Learning – Future Collaboration and Continued Research</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/privacy-preserving-federated-learning-future-collaboration-and</link>
-      <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISOs Boost Crisis Simulation Budgets Amid High-Profile Cyber-Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/ciso-boost-crisis-simulation/</link>
-      <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do We Really Need The OWASP NHI Top 10?</title>
-      <link>https://thehackernews.com/2025/01/do-we-really-need-owasp-nhi-top-10.html</link>
-      <pubDate>Mon, 27 Jan 2025 11:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
