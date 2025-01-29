@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jan 2025 22:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 01:24:36 +0000</lastBuildDate>
+    <item>
+      <title>Report: Almost half of state consumer privacy laws fail to protect individuals’ data</title>
+      <link>https://therecord.media/state-consumer-privacy-laws-failing-to-protect-data</link>
+      <pubDate>Wed, 29 Jan 2025 01:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>MGM agrees to pay $45 million to victims of 2019 data breach and 2023 ransomware attack</title>
+      <link>https://therecord.media/mgm-agrees-45-million-payment-data-breach-ransomware-victims</link>
+      <pubDate>Wed, 29 Jan 2025 00:59:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat of cyber-attacks on Whitehall ‘is severe and advancing quickly’, NAO says</title>
+      <link>https://www.theguardian.com/technology/2025/jan/29/cyber-attack-threat-uk-government-departments-whitehall-nao</link>
+      <pubDate>Wed, 29 Jan 2025 00:01:30 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 28 Jan 2025 20:40:03 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2025 23:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware fixed a flaw in Avi Load Balancer</title>
+      <link>https://securityaffairs.com/173569/security/vmware-fixed-avi-load-balancer-flaw.html</link>
+      <pubDate>Tue, 28 Jan 2025 23:04:25 +0000</pubDate>
     </item>
     <item>
       <title>Prosecutors say they can’t obtain murder conviction after judge throws out evidence from facial recognition match</title>
@@ -61,11 +81,6 @@
       <title>EU sanctions Russian intelligence personnel for cyberattacks against Estonia</title>
       <link>https://therecord.media/eu-sanctions-gru-personnel-cyberattack-estonia</link>
       <pubDate>Tue, 28 Jan 2025 15:57:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas utility firm investigating potential leak of customer data tied to 2023 MOVEit breach</title>
-      <link>https://therecord.media/texas-utility-firm-investigating-potential-data-leak-moveit-breach</link>
-      <pubDate>Tue, 28 Jan 2025 15:24:36 +0000</pubDate>
     </item>
     <item>
       <title>The AI Fix #35: Project Stargate, the AI emergency, and batsh*t AI cryonics</title>
@@ -121,6 +136,11 @@
       <title>CISA Under Trump</title>
       <link>https://www.schneier.com/blog/archives/2025/01/cisa-under-trump.html</link>
       <pubDate>Tue, 28 Jan 2025 12:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nigerian who defrauded U.S. pandemic aid programs of more than $1 million sentenced to 54 months in prison</title>
+      <link>https://www.justice.gov/usao-wdwa/pr/nigerian-who-defrauded-us-pandemic-aid-programs-more-1-million-sentenced-54-months</link>
+      <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Rockwell Automation FactoryTalk</title>
@@ -213,6 +233,11 @@
       <pubDate>Tue, 28 Jan 2025 07:12:45 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Extends Powerful Falcon Platform Capabilities into Red Hat OpenShift</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-powerful-falcon-platform-capabilities-red-hat-openshift/</link>
+      <pubDate>Tue, 28 Jan 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CrowdStrike Falcon Platform Achieves Perfect Score in SE Labs’ Most Comprehensive Ransomware Evaluation</title>
       <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-earns-perfect-score-in-se-labs-ransomware-evaluation/</link>
       <pubDate>Tue, 28 Jan 2025 06:00:00 +0000</pubDate>
@@ -238,11 +263,6 @@
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cloudflare thwarts over 47 million cyberthreats against Jewish and Holocaust educational websites</title>
-      <link>https://blog.cloudflare.com/cloudflare-thwarts-over-47-million-cyberthreats-against-jewish-and-holocaust/</link>
-      <pubDate>Mon, 27 Jan 2025 22:07:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Apple fixed the first actively exploited zero-day of 2025</title>
       <link>https://securityaffairs.com/173536/hacking/apple-fixed-the-first-zero-day-vulnerability-of-2025.html</link>
       <pubDate>Mon, 27 Jan 2025 21:58:05 +0000</pubDate>
@@ -251,11 +271,6 @@
       <title>TalkTalk confirms data breach involving a third-party platform</title>
       <link>https://securityaffairs.com/173526/cyber-crime/talktalk-confirms-data-breach.html</link>
       <pubDate>Mon, 27 Jan 2025 20:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrat members of US surveillance watchdog fired after refusing to resign</title>
-      <link>https://therecord.media/democrat-pclob-members-defy-white-house-call-for-resignation</link>
-      <pubDate>Mon, 27 Jan 2025 19:55:13 +0000</pubDate>
     </item>
     <item>
       <title>The Honeymoon for Cloud Services Is Over</title>
@@ -291,21 +306,6 @@
       <title>GitHub Desktop Vulnerability Risks Credential Leaks via Malicious Remote URLs</title>
       <link>https://thehackernews.com/2025/01/github-desktop-vulnerability-risks.html</link>
       <pubDate>Mon, 27 Jan 2025 14:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why 2025 Is Going to Rock</title>
-      <link>https://www.security.com/feature-stories/2025-rock</link>
-      <pubDate>Mon, 27 Jan 2025 14:06:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud Ransomware Developments | The Risks of Customer-Managed Keys</title>
-      <link>https://www.sentinelone.com/blog/cloud-ransomware-developments-the-risks-of-customer-managed-keys/</link>
-      <pubDate>Mon, 27 Jan 2025 14:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>SaaS Breaches Skyrocket 300% as Traditional Defenses Fall Short</title>
-      <link>https://www.infosecurity-magazine.com/news/saas-breaches-defenses-short/</link>
-      <pubDate>Mon, 27 Jan 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
