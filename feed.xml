@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 06:26:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 08:24:45 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 29 Jan 2025 06:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers exploit SimpleHelp RMM Software flaws for initial access</title>
+      <link>https://securityaffairs.com/173578/security/attackers-exploit-simplehelp-rmm-software-flaws.html</link>
+      <pubDate>Wed, 29 Jan 2025 06:17:58 +0000</pubDate>
+    </item>
     <item>
       <title>UAC-0063 Expands Cyber Attacks to European Embassies Using Stolen Documents</title>
       <link>https://thehackernews.com/2025/01/uac-0063-expands-cyber-attacks-to.html</link>
       <pubDate>Wed, 29 Jan 2025 05:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 29 Jan 2025 05:45:02 +0000</pubDate>
     </item>
     <item>
       <title>Broadcom Warns of High-Severity SQL Injection Flaw in VMware Avi Load Balancer</title>
@@ -301,11 +306,6 @@
       <title>The Honeymoon for Cloud Services Is Over</title>
       <link>https://www.security.com/expert-perspectives/honeymoon-cloud</link>
       <pubDate>Mon, 27 Jan 2025 18:37:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>How HackerOne Reinvented Security for Developers</title>
-      <link>https://www.hackerone.com/blog/how-hackerone-reinvented-security-developers</link>
-      <pubDate>Mon, 27 Jan 2025 17:39:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
