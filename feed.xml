@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 14:17:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 16:26:40 +0000</lastBuildDate>
+    <item>
+      <title>UK engineering giant Smiths Group investigating 'unauthorised access' to network</title>
+      <link>https://therecord.media/smiths-group-uk-cybersecurity-incident</link>
+      <pubDate>Wed, 29 Jan 2025 16:17:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nation-State Hackers Abuse Gemini AI Tool</title>
+      <link>https://www.infosecurity-magazine.com/news/nation-state-abuse-gemini-ai/</link>
+      <pubDate>Wed, 29 Jan 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 29 Jan 2025 15:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maryland healthcare network forced to shut down IT systems after ransomware attack</title>
+      <link>https://therecord.media/maryland-healthcare-ransomware-frederick-health</link>
+      <pubDate>Wed, 29 Jan 2025 15:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Hellcat Ransomware Gang Employs Humiliation Tactics</title>
+      <link>https://www.infosecurity-magazine.com/news/hellcat-ransomware-humiliation/</link>
+      <pubDate>Wed, 29 Jan 2025 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas AG warns Kia about sharing driver information with data brokers</title>
+      <link>https://therecord.media/texas-warns-kia-about-sharing-driver-info-to-data-brokers</link>
+      <pubDate>Wed, 29 Jan 2025 14:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Ways to Streamline Data Center Security Management</title>
+      <link>https://www.security.com/product-insights/streamline-dcs</link>
+      <pubDate>Wed, 29 Jan 2025 14:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical remote code execution bug found in Cacti framework</title>
+      <link>https://securityaffairs.com/173597/security/critical-rce-cacti-framework.html</link>
+      <pubDate>Wed, 29 Jan 2025 14:17:58 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Exploit Government Websites for Phishing</title>
       <link>https://www.infosecurity-magazine.com/news/threat-actors-exploit-gov-websites/</link>
@@ -31,11 +71,6 @@
       <title>TorNet Backdoor Detection: An Ongoing Phishing Email Campaign Uses PureCrypter Malware to Drop Other Payloads</title>
       <link>https://socprime.com/blog/tornet-backdoor-detection/</link>
       <pubDate>Wed, 29 Jan 2025 12:57:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 29 Jan 2025 12:45:03 +0000</pubDate>
     </item>
     <item>
       <title>ExxonMobil Lobbyist Caught Hacking Climate Activists</title>
@@ -128,11 +163,6 @@
       <pubDate>Wed, 29 Jan 2025 01:08:36 +0000</pubDate>
     </item>
     <item>
-      <title>MGM agrees to pay $45 million to victims of 2019 data breach and 2023 ransomware attack</title>
-      <link>https://therecord.media/mgm-agrees-45-million-payment-data-breach-ransomware-victims</link>
-      <pubDate>Wed, 29 Jan 2025 00:59:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Threat of cyber-attacks on Whitehall ‘is severe and advancing quickly’, NAO says</title>
       <link>https://www.theguardian.com/technology/2025/jan/29/cyber-attack-threat-uk-government-departments-whitehall-nao</link>
       <pubDate>Wed, 29 Jan 2025 00:01:30 +0000</pubDate>
@@ -143,19 +173,9 @@
       <pubDate>Tue, 28 Jan 2025 23:04:25 +0000</pubDate>
     </item>
     <item>
-      <title>Prosecutors say they can’t obtain murder conviction after judge throws out evidence from facial recognition match</title>
-      <link>https://therecord.media/prosecutors-cant-obtain-murder-conviction-after-judge-throws-out-facial-recognition-evidence</link>
-      <pubDate>Tue, 28 Jan 2025 20:23:35 +0000</pubDate>
-    </item>
-    <item>
       <title>The HackerOne Cake Story</title>
       <link>https://www.hackerone.com/blog/hackerone-cake-story</link>
       <pubDate>Tue, 28 Jan 2025 19:28:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware attack kept major energy industry contractor out of some systems for 6 weeks</title>
-      <link>https://therecord.media/englobal-ransomware-attack-six-weeks-disruption</link>
-      <pubDate>Tue, 28 Jan 2025 18:35:09 +0000</pubDate>
     </item>
     <item>
       <title>How to Protect and Secure Your Data in 10 Ways</title>
@@ -253,7 +273,7 @@
       <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rockwell Automation FactoryTalk</title>
+      <title>Rockwell Automation FactoryTalk View Site Edition</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-028-04</link>
       <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
     </item>
@@ -286,26 +306,6 @@
       <title>EU Sanctions Three Russians For 2020 Cyber-Attack on Estonia</title>
       <link>https://www.infosecurity-magazine.com/news/eu-sanctions-russians-2020/</link>
       <pubDate>Tue, 28 Jan 2025 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI SOC Analysts: Propelling SecOps into the future</title>
-      <link>https://thehackernews.com/2025/01/ai-soc-analysts-propelling-secops-into.html</link>
-      <pubDate>Tue, 28 Jan 2025 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Targets ESXi Systems via Stealthy SSH Tunnels for C2 Operations</title>
-      <link>https://thehackernews.com/2025/01/ransomware-targets-esxi-systems-via.html</link>
-      <pubDate>Tue, 28 Jan 2025 11:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New TorNet backdoor seen in widespread campaign</title>
-      <link>https://blog.talosintelligence.com/new-tornet-backdoor-campaign/</link>
-      <pubDate>Tue, 28 Jan 2025 11:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU announced sanctions on three members of Russia’s GRU Unit 29155</title>
-      <link>https://securityaffairs.com/173555/security/eu-sanctions-russias-gru-unit-29155.html</link>
-      <pubDate>Tue, 28 Jan 2025 10:43:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
