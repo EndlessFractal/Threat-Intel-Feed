@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 04:22:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 06:26:19 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 30 Jan 2025 05:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Thursday, January 30th, 2025 https://isc.sans.edu/podcastdetail/9302, (Thu, Jan 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/31636</link>
+      <pubDate>Thu, 30 Jan 2025 02:00:12 +0000</pubDate>
+    </item>
     <item>
       <title>Smashing Security podcast #402: Hackers get hacked, the British Museum IT shutdown, and social media kidnaps</title>
       <link>https://grahamcluley.com/smashing-security-podcast-402-hackers-get-hacked-the-british-museum-it-shutdown-and-social-media-kidnaps/</link>
@@ -183,14 +193,14 @@
       <pubDate>Wed, 29 Jan 2025 09:03:59 +0000</pubDate>
     </item>
     <item>
+      <title>From PowerShell to a Python Obfuscation Race!, (Wed, Jan 29th)</title>
+      <link>https://isc.sans.edu/diary/rss/31634</link>
+      <pubDate>Wed, 29 Jan 2025 08:36:47 +0000</pubDate>
+    </item>
+    <item>
       <title>Attackers exploit SimpleHelp RMM Software flaws for initial access</title>
       <link>https://securityaffairs.com/173578/security/attackers-exploit-simplehelp-rmm-software-flaws.html</link>
       <pubDate>Wed, 29 Jan 2025 06:17:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Evolving Role of AI in Data Protection</title>
-      <link>https://www.crowdstrike.com/en-us/blog/the-evolving-role-of-ai-in-data-protection/</link>
-      <pubDate>Wed, 29 Jan 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>UAC-0063 Expands Cyber Attacks to European Embassies Using Stolen Documents</title>
@@ -206,6 +216,11 @@
       <title>Zyxel CPE Devices Face Active Exploitation Due to Unpatched CVE-2024-40891 Vulnerability</title>
       <link>https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html</link>
       <pubDate>Wed, 29 Jan 2025 05:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, January 29th, 2025 https://isc.sans.edu/podcastdetail/9300, (Wed, Jan 29th)</title>
+      <link>https://isc.sans.edu/diary/rss/31632</link>
+      <pubDate>Wed, 29 Jan 2025 02:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Threat of cyber-attacks on Whitehall ‘is severe and advancing quickly’, NAO says</title>
@@ -291,21 +306,6 @@
       <title>How to Use 1Password: A Guide for Beginners</title>
       <link>https://www.techrepublic.com/article/how-to-use-1password/</link>
       <pubDate>Tue, 28 Jan 2025 13:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mega Data Breaches Push US Victim Count to 1.7 Billion</title>
-      <link>https://www.infosecurity-magazine.com/news/mega-data-breaches-us-victim-17/</link>
-      <pubDate>Tue, 28 Jan 2025 12:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond the hype: The business reality of AI for cybersecurity</title>
-      <link>https://news.sophos.com/en-us/2025/01/28/beyond-the-hype-the-business-reality-of-ai-for-cybersecurity/</link>
-      <pubDate>Tue, 28 Jan 2025 12:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Under Trump</title>
-      <link>https://www.schneier.com/blog/archives/2025/01/cisa-under-trump.html</link>
-      <pubDate>Tue, 28 Jan 2025 12:09:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
