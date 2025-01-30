@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 18:25:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 20:20:07 +0000</lastBuildDate>
+    <item>
+      <title>States with laws requiring data brokers to register are ramping up enforcement</title>
+      <link>https://therecord.media/state-data-broker-registry-laws-fines-warnings</link>
+      <pubDate>Thu, 30 Jan 2025 20:13:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gabbard grilled over Snowden comments during Senate confirmation hearing</title>
+      <link>https://therecord.media/gabbard-grilled-over-snowden-comments-senate-confirmation-hearing</link>
+      <pubDate>Thu, 30 Jan 2025 19:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek Locked Down Public Database Access That Exposed Chat History</title>
+      <link>https://www.techrepublic.com/article/deepseek-wiz-research-database-leak/</link>
+      <pubDate>Thu, 30 Jan 2025 19:15:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defeating Future Threats Starts Today</title>
+      <link>https://blog.talosintelligence.com/defeating-future-threats-starts-today/</link>
+      <pubDate>Thu, 30 Jan 2025 19:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 30 Jan 2025 19:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>Windows Bug Class: Accessing Trapped COM Objects with IDispatch</title>
       <link>https://googleprojectzero.blogspot.com/2025/01/windows-bug-class-accessing-trapped-com.html</link>
@@ -28,6 +53,16 @@
       <pubDate>Thu, 30 Jan 2025 17:10:08 +0000</pubDate>
     </item>
     <item>
+      <title>PCAPs or It Didn't Happen: Exposing an Old Netgear Vulnerability Still Active in 2025 [Guest Diary], (Thu, Jan 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/31638</link>
+      <pubDate>Thu, 30 Jan 2025 17:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contec Health CMS8000 Patient Monitor</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-030-01</link>
+      <pubDate>Thu, 30 Jan 2025 17:04:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Attackers Increase Use of HTTP Clients for Account Takeovers</title>
       <link>https://www.infosecurity-magazine.com/news/attackers-increase-use-http/</link>
       <pubDate>Thu, 30 Jan 2025 16:30:00 +0000</pubDate>
@@ -41,11 +76,6 @@
       <title>Ransomware attack on New York Blood Center forces workarounds, drive cancellations</title>
       <link>https://therecord.media/ransomware-attack-new-york-blood-center-forces-workarounds</link>
       <pubDate>Thu, 30 Jan 2025 16:24:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 30 Jan 2025 16:00:04 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft advertisers phished via malicious Google ads</title>
@@ -93,11 +123,6 @@
       <pubDate>Thu, 30 Jan 2025 13:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>PCAPs or It Didn?t Happen: Exposing an Old Netgear Vulnerability Still Active in 2025 [Guest Diary], (Thu, Jan 30th)</title>
-      <link>https://isc.sans.edu/diary/rss/31638</link>
-      <pubDate>Thu, 30 Jan 2025 13:02:26 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Use Keeper Password Manager: A Comprehensive Guide</title>
       <link>https://www.techrepublic.com/article/how-to-use-keeper-password-manager/</link>
       <pubDate>Thu, 30 Jan 2025 13:00:44 +0000</pubDate>
@@ -128,8 +153,48 @@
       <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Justice Department Announces Seizure of Cybercrime Websites Selling Hacking Tools to Transnational Organized Crime Groups</title>
+      <link>https://www.justice.gov/opa/pr/justice-department-announces-seizure-cybercrime-websites-selling-hacking-tools-transnational</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercrime websites selling hacking tools to transnational organized crime groups seized</title>
+      <link>https://www.justice.gov/usao-sdtx/pr/cybercrime-websites-selling-hacking-tools-transnational-organized-crime-groups-seized</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransomware Attack Disrupts Blood Donation Services in US</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-blood-donation-services/</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation KEPServer</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-030-04</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric System Monitor Application in Harmony and Pro-face PS5000 Legacy Industrial PCs</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-030-03</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy UNEM</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-030-01</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk AssetCentre</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-030-05</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Rock Technologies Cloud Connected Devices</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-030-02</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Fact Sheet Detailing Embedded Backdoor Function of Contec CMS8000 Firmware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/30/cisa-releases-fact-sheet-detailing-embedded-backdoor-function-contec-cms8000-firmware</link>
       <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -193,6 +258,11 @@
       <pubDate>Thu, 30 Jan 2025 00:00:46 +0000</pubDate>
     </item>
     <item>
+      <title>Working in Singapore at the World’s Largest Intelligence Company</title>
+      <link>https://www.recordedfuture.com/blog/working-in-singapore</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>TAG-124’s Multi-Layered TDS Infrastructure and Extensive User Base</title>
       <link>https://www.recordedfuture.com/research/tag-124-multi-layered-tds-infrastructure-extensive-user-base</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
@@ -223,11 +293,6 @@
       <pubDate>Wed, 29 Jan 2025 19:59:24 +0000</pubDate>
     </item>
     <item>
-      <title>Italian regulator asks DeepSeek for information about data collection</title>
-      <link>https://therecord.media/italian-regulator-deepseek-info-collection</link>
-      <pubDate>Wed, 29 Jan 2025 18:51:46 +0000</pubDate>
-    </item>
-    <item>
       <title>DeepSeek blocked from some app stores in Italy amid questions on data use</title>
       <link>https://www.theguardian.com/technology/2025/jan/29/deepseek-blocked-some-app-stores-italy-questions-data-use</link>
       <pubDate>Wed, 29 Jan 2025 18:20:57 +0000</pubDate>
@@ -238,74 +303,9 @@
       <pubDate>Wed, 29 Jan 2025 18:13:37 +0000</pubDate>
     </item>
     <item>
-      <title>Industry groups call on Congress to enact federal data privacy law</title>
-      <link>https://therecord.media/industry-groups-congress-data-privacy</link>
-      <pubDate>Wed, 29 Jan 2025 17:52:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Lazarus Group Uses React-Based Admin Panel to Control Global Cyber Attacks</title>
       <link>https://thehackernews.com/2025/01/lazarus-group-uses-react-based-admin.html</link>
       <pubDate>Wed, 29 Jan 2025 16:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Whatsup Gold, Observium and Offis vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/whatsup-gold-observium-offis-vulnerabilities/</link>
-      <pubDate>Wed, 29 Jan 2025 16:45:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Surge Drives Record 1205% Increase in API Vulnerabilities</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-surge-record-1205-increase-api/</link>
-      <pubDate>Wed, 29 Jan 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nation-State Hackers Abuse Gemini AI Tool</title>
-      <link>https://www.infosecurity-magazine.com/news/nation-state-abuse-gemini-ai/</link>
-      <pubDate>Wed, 29 Jan 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Hellcat Ransomware Gang Employs Humiliation Tactics</title>
-      <link>https://www.infosecurity-magazine.com/news/hellcat-ransomware-humiliation/</link>
-      <pubDate>Wed, 29 Jan 2025 14:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Ways to Streamline Data Center Security Management</title>
-      <link>https://www.security.com/product-insights/streamline-dcs</link>
-      <pubDate>Wed, 29 Jan 2025 14:34:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical remote code execution bug found in Cacti framework</title>
-      <link>https://securityaffairs.com/173597/security/critical-rce-cacti-framework.html</link>
-      <pubDate>Wed, 29 Jan 2025 14:17:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Government Websites for Phishing</title>
-      <link>https://www.infosecurity-magazine.com/news/threat-actors-exploit-gov-websites/</link>
-      <pubDate>Wed, 29 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI and cloud vulnerabilities aren’t the only threats facing CISOs today</title>
-      <link>https://securityintelligence.com/articles/ai-and-cloud-vulnerabilities-arent-the-only-threats-facing-cisos-today/</link>
-      <pubDate>Wed, 29 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 8 Penetration Testing Tools to Enhance Your Security</title>
-      <link>https://www.techrepublic.com/article/best-penetration-testing-tools/</link>
-      <pubDate>Wed, 29 Jan 2025 13:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>TorNet Backdoor Detection: An Ongoing Phishing Email Campaign Uses PureCrypter Malware to Drop Other Payloads</title>
-      <link>https://socprime.com/blog/tornet-backdoor-detection/</link>
-      <pubDate>Wed, 29 Jan 2025 12:57:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ExxonMobil Lobbyist Caught Hacking Climate Activists</title>
-      <link>https://www.schneier.com/blog/archives/2025/01/exxonmobil-lobbyist-caught-hacking-climate-activists.html</link>
-      <pubDate>Wed, 29 Jan 2025 12:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese GenAI Startup DeepSeek Sparks Global Privacy Debate</title>
-      <link>https://www.infosecurity-magazine.com/news/deepseek-global-privacy-debate/</link>
-      <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
