@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 16:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 18:25:55 +0000</lastBuildDate>
+    <item>
+      <title>Windows Bug Class: Accessing Trapped COM Objects with IDispatch</title>
+      <link>https://googleprojectzero.blogspot.com/2025/01/windows-bug-class-accessing-trapped-com.html</link>
+      <pubDate>Thu, 30 Jan 2025 17:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Exploitation Tricks: Trapping Virtual Memory Access (2025 Update)</title>
+      <link>https://googleprojectzero.blogspot.com/2025/01/windows-exploitation-tricks-trapping.html</link>
+      <pubDate>Thu, 30 Jan 2025 17:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Blocked 2.36 Million Policy-Violating Apps</title>
+      <link>https://www.infosecurity-magazine.com/news/google-blocked-236-million-policy/</link>
+      <pubDate>Thu, 30 Jan 2025 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infrastructure Laundering: Blending in with the Cloud</title>
+      <link>https://krebsonsecurity.com/2025/01/infrastructure-laundering-blending-in-with-the-cloud/</link>
+      <pubDate>Thu, 30 Jan 2025 17:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Increase Use of HTTP Clients for Account Takeovers</title>
+      <link>https://www.infosecurity-magazine.com/news/attackers-increase-use-http/</link>
+      <pubDate>Thu, 30 Jan 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google: Over 57 Nation-State Threat Groups Using AI for Cyber Operations</title>
+      <link>https://thehackernews.com/2025/01/google-over-57-nation-state-threat.html</link>
+      <pubDate>Thu, 30 Jan 2025 16:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attack on New York Blood Center forces workarounds, drive cancellations</title>
+      <link>https://therecord.media/ransomware-attack-new-york-blood-center-forces-workarounds</link>
+      <pubDate>Thu, 30 Jan 2025 16:24:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 30 Jan 2025 16:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft advertisers phished via malicious Google ads</title>
       <link>https://www.malwarebytes.com/blog/cybercrime/2025/01/microsoft-advertisers-phished-via-malicious-google-ads</link>
@@ -21,11 +61,6 @@
       <title>TeamViewer fixed a vulnerability in Windows client and host applications</title>
       <link>https://securityaffairs.com/173658/security/teamviewer-windows-client-flaw.html</link>
       <pubDate>Thu, 30 Jan 2025 15:29:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 30 Jan 2025 14:55:03 +0000</pubDate>
     </item>
     <item>
       <title>Operation Talent: An international law enforcement operation seized Cracked, Nulled and other cybercrime websites</title>
@@ -88,8 +123,18 @@
       <pubDate>Thu, 30 Jan 2025 12:21:17 +0000</pubDate>
     </item>
     <item>
+      <title>Cracked and Nulled Marketplaces Disrupted in International Cyber Operation</title>
+      <link>https://www.justice.gov/opa/pr/cracked-and-nulled-marketplaces-disrupted-international-cyber-operation</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransomware Attack Disrupts Blood Donation Services in US</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-blood-donation-services/</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Eight Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/01/30/cisa-releases-eight-industrial-control-systems-advisories</link>
       <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -198,11 +243,6 @@
       <pubDate>Wed, 29 Jan 2025 17:52:45 +0000</pubDate>
     </item>
     <item>
-      <title>Poland accuses Russia of recruiting Polish citizens online for election meddling</title>
-      <link>https://therecord.media/poland-accuses-russia-of-recruiting-citizens-online-for-election-meddling</link>
-      <pubDate>Wed, 29 Jan 2025 17:21:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Lazarus Group Uses React-Based Admin Panel to Control Global Cyber Attacks</title>
       <link>https://thehackernews.com/2025/01/lazarus-group-uses-react-based-admin.html</link>
       <pubDate>Wed, 29 Jan 2025 16:56:00 +0000</pubDate>
@@ -266,46 +306,6 @@
       <title>Chinese GenAI Startup DeepSeek Sparks Global Privacy Debate</title>
       <link>https://www.infosecurity-magazine.com/news/deepseek-global-privacy-debate/</link>
       <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/01/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI in Cybersecurity: What's Effective and What’s Not – Insights from 200 Experts</title>
-      <link>https://thehackernews.com/2025/01/ai-in-cybersecurity-whats-effective-and.html</link>
-      <pubDate>Wed, 29 Jan 2025 11:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New SLAP &amp; FLOP Attacks Expose Apple M-Series Chips to Speculative Execution Exploits</title>
-      <link>https://thehackernews.com/2025/01/new-slap-flop-attacks-expose-apple-m.html</link>
-      <pubDate>Wed, 29 Jan 2025 10:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breakout Time Accelerates 22% as Cyber-Attacks Speed Up</title>
-      <link>https://www.infosecurity-magazine.com/news/breakout-time-accelerates-22/</link>
-      <pubDate>Wed, 29 Jan 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Interlock Ransomware Infects Healthcare Organizations</title>
-      <link>https://thehackernews.com/2025/01/how-interlock-ransomware-infects.html</link>
-      <pubDate>Wed, 29 Jan 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Cacti Security Flaw (CVE-2025-22604) Enables Remote Code Execution</title>
-      <link>https://thehackernews.com/2025/01/critical-cacti-security-flaw-cve-2025.html</link>
-      <pubDate>Wed, 29 Jan 2025 10:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers actively exploit a critical zero-day in Zyxel CPE Series devices</title>
-      <link>https://securityaffairs.com/173589/hacking/zyxel-cpe-series-devices-cve-2024-40891-exploited.html</link>
-      <pubDate>Wed, 29 Jan 2025 10:17:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat predictions for industrial enterprises 2025</title>
-      <link>https://securelist.com/industrial-threat-predictions-2025/115327/</link>
-      <pubDate>Wed, 29 Jan 2025 10:00:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
