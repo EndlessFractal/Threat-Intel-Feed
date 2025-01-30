@@ -6,16 +6,66 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 12:36:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 14:17:53 +0000</lastBuildDate>
     <item>
-      <title>Ransomware Attack Disrupts Blood Donation Services in US</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-blood-donation-services/</link>
-      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+      <title>Syncjacking Attack Enables Full Browser and Device Takeover</title>
+      <link>https://www.infosecurity-magazine.com/news/full-browser-device-takeover/</link>
+      <pubDate>Thu, 30 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When ransomware kills: Attacks on healthcare facilities</title>
+      <link>https://securityintelligence.com/articles/when-ransomware-kills-attacks-on-healthcare-facilities/</link>
+      <pubDate>Thu, 30 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 30 Jan 2025 11:55:04 +0000</pubDate>
+      <pubDate>Thu, 30 Jan 2025 13:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The DeepSeek controversy: Authorities ask where does the data come from and how safe is it?</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/01/the-deepseek-controversy-authorities-ask-where-the-data-comes-from-and-where-it-goes</link>
+      <pubDate>Thu, 30 Jan 2025 13:26:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Authorities Seize Domains of Popular Hacking Forums in Major Cybercrime Crackdown</title>
+      <link>https://thehackernews.com/2025/01/authorities-seize-domains-of-popular.html</link>
+      <pubDate>Thu, 30 Jan 2025 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PCAPs or It Didn?t Happen: Exposing an Old Netgear Vulnerability Still Active in 2025 [Guest Diary], (Thu, Jan 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/31638</link>
+      <pubDate>Thu, 30 Jan 2025 13:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use Keeper Password Manager: A Comprehensive Guide</title>
+      <link>https://www.techrepublic.com/article/how-to-use-keeper-password-manager/</link>
+      <pubDate>Thu, 30 Jan 2025 13:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek Exposed Database Leaks Sensitive Data</title>
+      <link>https://www.infosecurity-magazine.com/news/deepseek-database-leaks-sensitive/</link>
+      <pubDate>Thu, 30 Jan 2025 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Reddit and WeTransfer Sites are Pushing Malware</title>
+      <link>https://www.schneier.com/blog/archives/2025/01/fake-reddit-and-wetransfer-sites-are-pushing-malware.html</link>
+      <pubDate>Thu, 30 Jan 2025 12:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lightning AI Studio Vulnerability Allowed RCE via Hidden URL Parameter</title>
+      <link>https://thehackernews.com/2025/01/lightning-ai-studio-vulnerability.html</link>
+      <pubDate>Thu, 30 Jan 2025 12:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP package Voyager flaws expose to one-click RCE exploits</title>
+      <link>https://securityaffairs.com/173646/hacking/php-package-voyager-flaws.html</link>
+      <pubDate>Thu, 30 Jan 2025 12:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Attack Disrupts Blood Donation Services in US</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-blood-donation-services/</link>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>UK Organizations Boost Cybersecurity Budgets</title>
@@ -256,56 +306,6 @@
       <title>The Evolving Role of AI in Data Protection</title>
       <link>https://www.crowdstrike.com/en-us/blog/the-evolving-role-of-ai-in-data-protection/</link>
       <pubDate>Wed, 29 Jan 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0063 Expands Cyber Attacks to European Embassies Using Stolen Documents</title>
-      <link>https://thehackernews.com/2025/01/uac-0063-expands-cyber-attacks-to.html</link>
-      <pubDate>Wed, 29 Jan 2025 05:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Broadcom Warns of High-Severity SQL Injection Flaw in VMware Avi Load Balancer</title>
-      <link>https://thehackernews.com/2025/01/broadcom-warns-of-high-severity-sql.html</link>
-      <pubDate>Wed, 29 Jan 2025 05:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zyxel CPE Devices Face Active Exploitation Due to Unpatched CVE-2024-40891 Vulnerability</title>
-      <link>https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html</link>
-      <pubDate>Wed, 29 Jan 2025 05:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, January 29th, 2025 https://isc.sans.edu/podcastdetail/9300, (Wed, Jan 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/31632</link>
-      <pubDate>Wed, 29 Jan 2025 02:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat of cyber-attacks on Whitehall ‘is severe and advancing quickly’, NAO says</title>
-      <link>https://www.theguardian.com/technology/2025/jan/29/cyber-attack-threat-uk-government-departments-whitehall-nao</link>
-      <pubDate>Wed, 29 Jan 2025 00:01:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware fixed a flaw in Avi Load Balancer</title>
-      <link>https://securityaffairs.com/173569/security/vmware-fixed-avi-load-balancer-flaw.html</link>
-      <pubDate>Tue, 28 Jan 2025 23:04:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The HackerOne Cake Story</title>
-      <link>https://www.hackerone.com/blog/hackerone-cake-story</link>
-      <pubDate>Tue, 28 Jan 2025 19:28:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Protect and Secure Your Data in 10 Ways</title>
-      <link>https://www.techrepublic.com/article/how-to-protect-and-secure-data/</link>
-      <pubDate>Tue, 28 Jan 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?</title>
-      <link>https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration</link>
-      <pubDate>Tue, 28 Jan 2025 17:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ENGlobal Cyber-Attack Exposes Sensitive Data</title>
-      <link>https://www.infosecurity-magazine.com/news/englobal-attack-sensitive-data/</link>
-      <pubDate>Tue, 28 Jan 2025 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
