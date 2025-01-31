@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jan 2025 06:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 08:23:51 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 31 Jan 2025 05:00:03 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 06:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broadcom Patches VMware Aria Flaws – Exploits May Lead to Credential Theft</title>
+      <link>https://thehackernews.com/2025/01/broadcom-patches-vmware-aria-flaws.html</link>
+      <pubDate>Fri, 31 Jan 2025 05:49:00 +0000</pubDate>
     </item>
     <item>
       <title>To Simulate or Replicate: Crafting Cyber Ranges, (Fri, Jan 31st)</title>
@@ -301,11 +306,6 @@
       <title>CL-STA-0048: An Espionage Operation Against High-Value Targets in South Asia</title>
       <link>https://unit42.paloaltonetworks.com/espionage-campaign-targets-south-asian-entities/</link>
       <pubDate>Wed, 29 Jan 2025 23:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek Chatbot Beats OpenAI on App Store Leaderboard</title>
-      <link>https://www.techrepublic.com/article/deepseek-generative-ai-model-china/</link>
-      <pubDate>Wed, 29 Jan 2025 22:20:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
