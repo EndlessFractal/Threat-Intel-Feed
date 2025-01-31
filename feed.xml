@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 22:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 01:25:19 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 30 Jan 2025 22:00:03 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek database exposed highly sensitive information</title>
+      <link>https://securityaffairs.com/173666/data-breach/deepseek-db-exposed-highly-sensitive-information.html</link>
+      <pubDate>Thu, 30 Jan 2025 23:00:43 +0000</pubDate>
     </item>
     <item>
       <title>Recent Jailbreaks Demonstrate Emerging Threat to DeepSeek</title>
@@ -301,11 +306,6 @@
       <title>DeepSeek blocked from some app stores in Italy amid questions on data use</title>
       <link>https://www.theguardian.com/technology/2025/jan/29/deepseek-blocked-some-app-stores-italy-questions-data-use</link>
       <pubDate>Wed, 29 Jan 2025 18:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>These are the 10 worst PIN codes</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/01/these-are-the-10-worst-pin-codes</link>
-      <pubDate>Wed, 29 Jan 2025 18:13:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
