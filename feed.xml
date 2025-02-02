@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Feb 2025 01:35:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 02:47:44 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 02 Feb 2025 00:15:04 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2025 01:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attack hit Indian multinational Tata Technologies</title>
+      <link>https://securityaffairs.com/173712/cyber-crime/tata-technologies-ransomware-attack.html</link>
+      <pubDate>Sun, 02 Feb 2025 00:48:39 +0000</pubDate>
     </item>
     <item>
       <title>A ransomware attack forced New York Blood Center to reschedule appointments</title>
@@ -301,11 +306,6 @@
       <title>Lightning AI Studio Vulnerability Could've Allowed RCE via Hidden URL Parameter</title>
       <link>https://thehackernews.com/2025/01/lightning-ai-studio-vulnerability.html</link>
       <pubDate>Thu, 30 Jan 2025 12:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PHP package Voyager flaws expose to one-click RCE exploits</title>
-      <link>https://securityaffairs.com/173646/hacking/php-package-voyager-flaws.html</link>
-      <pubDate>Thu, 30 Jan 2025 12:21:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
