@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Feb 2025 04:22:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 06:27:10 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 04 Feb 2025 03:25:04 +0000</pubDate>
+      <pubDate>Tue, 04 Feb 2025 05:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Score</title>
+      <link>https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html</link>
+      <pubDate>Tue, 04 Feb 2025 05:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Patches 47 Android Security Flaws, Including Actively Exploited CVE-2024-53104</title>
+      <link>https://thehackernews.com/2025/02/google-patches-47-android-security.html</link>
+      <pubDate>Tue, 04 Feb 2025 04:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft SharePoint Connector Flaw Could've Enabled Credential Theft Across Power Platform</title>
+      <link>https://thehackernews.com/2025/02/microsoft-sharepoint-connector-flaw.html</link>
+      <pubDate>Tue, 04 Feb 2025 04:29:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, February 4th, 2025 https://isc.sans.edu/podcastdetail/9308, (Tue, Feb 4th)</title>
@@ -291,21 +306,6 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 5</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-5-6/</link>
       <pubDate>Fri, 31 Jan 2025 16:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Target Public-Facing Apps for Initial Access</title>
-      <link>https://www.infosecurity-magazine.com/news/threat-actors-public-apps-initial/</link>
-      <pubDate>Fri, 31 Jan 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI decision-making: Where do businesses draw the line?</title>
-      <link>https://securityintelligence.com/articles/ai-decision-making-where-do-businesses-draw-the-line/</link>
-      <pubDate>Fri, 31 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma Stealer Detection: Sophisticated Campaign Using GitHub Infrastructure to Spread SectopRAT, Vidar, Cobeacon, and Other Types of Malware</title>
-      <link>https://socprime.com/blog/lumma-stealer-detection/</link>
-      <pubDate>Fri, 31 Jan 2025 13:22:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
