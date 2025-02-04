@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Feb 2025 01:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 02:45:26 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 04 Feb 2025 02:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Tuesday, February 4th, 2025 https://isc.sans.edu/podcastdetail/9308, (Tue, Feb 4th)</title>
+      <link>https://isc.sans.edu/diary/rss/31648</link>
+      <pubDate>Tue, 04 Feb 2025 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Google fixed actively exploited kernel zero-day flaw</title>
       <link>https://securityaffairs.com/173812/hacking/google-android-kernel-zero-day-flaw.html</link>
       <pubDate>Tue, 04 Feb 2025 00:26:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 04 Feb 2025 00:25:12 +0000</pubDate>
     </item>
     <item>
       <title>As DOGE teams plug into federal networks, cybersecurity risks could be huge, experts say</title>
@@ -301,11 +306,6 @@
       <title>Lumma Stealer Detection: Sophisticated Campaign Using GitHub Infrastructure to Spread SectopRAT, Vidar, Cobeacon, and Other Types of Malware</title>
       <link>https://socprime.com/blog/lumma-stealer-detection/</link>
       <pubDate>Fri, 31 Jan 2025 13:22:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and FDA Warn of Critical Backdoor in Contec CMS8000 Patient Monitors</title>
-      <link>https://thehackernews.com/2025/01/cisa-and-fda-warn-of-critical-backdoor.html</link>
-      <pubDate>Fri, 31 Jan 2025 13:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
