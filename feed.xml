@@ -6,16 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 10:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 12:37:52 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2025-0411 Detection: russian Cybercrime Groups Rely on Zero-Day Vulnerability in 7-Zip to Target Ukrainian Organizations</title>
+      <link>https://socprime.com/blog/cve-2025-0411-exploitation-to-target-ukraine/</link>
+      <pubDate>Wed, 05 Feb 2025 12:29:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Veeam Flaw Allows Arbitrary Code Execution via Man-in-the-Middle Attack</title>
+      <link>https://thehackernews.com/2025/02/new-veeam-flaw-allows-arbitrary-code.html</link>
+      <pubDate>Wed, 05 Feb 2025 12:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 05 Feb 2025 10:05:04 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2025 12:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>On Generative AI Security</title>
+      <link>https://www.schneier.com/blog/archives/2025/02/on-generative-ai-security.html</link>
+      <pubDate>Wed, 05 Feb 2025 12:03:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investors, Trump and the Illuminati: What the “Nigerian prince” scams became in 2024</title>
+      <link>https://securelist.com/nigerian-scams-2024/115388/</link>
+      <pubDate>Wed, 05 Feb 2025 12:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five Eyes Launch Guidance to Improve Edge Device Security</title>
+      <link>https://www.infosecurity-magazine.com/news/five-eyes-guidance-improve-edge/</link>
+      <pubDate>Wed, 05 Feb 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navigating the Future: Key IT Vulnerability Management Trends</title>
+      <link>https://thehackernews.com/2025/02/navigating-future-key-it-vulnerability.html</link>
+      <pubDate>Wed, 05 Feb 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Eye DeepSeek, Alibaba LLMs for Malware Development</title>
+      <link>https://www.infosecurity-magazine.com/news/deepseek-alibaba-llms-malware/</link>
+      <pubDate>Wed, 05 Feb 2025 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Destructive Attacks on Financial Institutions Surge</title>
       <link>https://www.infosecurity-magazine.com/news/destructive-attacks-banks-surge-13/</link>
       <pubDate>Wed, 05 Feb 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AsyncRAT Campaign Uses Python Payloads and TryCloudflare Tunnels for Stealth Attacks</title>
+      <link>https://thehackernews.com/2025/02/asyncrat-campaign-uses-python-payloads.html</link>
+      <pubDate>Wed, 05 Feb 2025 09:40:00 +0000</pubDate>
     </item>
     <item>
       <title>International Civil Aviation Organization (ICAO) and ACAO Breached: Cyberespionage Groups Targeting Aviation Safety Specialists</title>
@@ -266,46 +306,6 @@
       <title>Taiwan Bans DeepSeek AI Over National Security Concerns, Citing Data Leakage Risks</title>
       <link>https://thehackernews.com/2025/02/taiwan-bans-deepseek-ai-over-national.html</link>
       <pubDate>Tue, 04 Feb 2025 09:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AMD SEV-SNP Vulnerability Allows Malicious Microcode Injection with Admin Access</title>
-      <link>https://thehackernews.com/2025/02/amd-sev-snp-vulnerability-allows.html</link>
-      <pubDate>Tue, 04 Feb 2025 08:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>University of Sunderland Goes from Ransomware Recovery to Proactive Defense with CrowdStrike</title>
-      <link>https://www.crowdstrike.com/en-us/blog/university-of-sunderland-proactive-defense/</link>
-      <pubDate>Tue, 04 Feb 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Caught in the Act: CrowdStrike’s New ML-Powered LDAP Reconnaissance Detections</title>
-      <link>https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-ml-powered-ldap-reconnaissance-detections/</link>
-      <pubDate>Tue, 04 Feb 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Score</title>
-      <link>https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html</link>
-      <pubDate>Tue, 04 Feb 2025 05:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Patches 47 Android Security Flaws, Including Actively Exploited CVE-2024-53104</title>
-      <link>https://thehackernews.com/2025/02/google-patches-47-android-security.html</link>
-      <pubDate>Tue, 04 Feb 2025 04:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft SharePoint Connector Flaw Could've Enabled Credential Theft Across Power Platform</title>
-      <link>https://thehackernews.com/2025/02/microsoft-sharepoint-connector-flaw.html</link>
-      <pubDate>Tue, 04 Feb 2025 04:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, February 4th, 2025 https://isc.sans.edu/podcastdetail/9308, (Tue, Feb 4th)</title>
-      <link>https://isc.sans.edu/diary/rss/31648</link>
-      <pubDate>Tue, 04 Feb 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google fixed actively exploited kernel zero-day flaw</title>
-      <link>https://securityaffairs.com/173812/hacking/google-android-kernel-zero-day-flaw.html</link>
-      <pubDate>Tue, 04 Feb 2025 00:26:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
