@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 04:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 06:26:55 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 05 Feb 2025 03:05:04 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2025 05:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Four Actively Exploited Vulnerabilities to KEV Catalog, Urges Fixes by Feb 25</title>
+      <link>https://thehackernews.com/2025/02/cisa-adds-four-actively-exploited.html</link>
+      <pubDate>Wed, 05 Feb 2025 05:05:00 +0000</pubDate>
     </item>
     <item>
       <title>Researchers warn of risks tied to abandoned cloud storage buckets</title>
@@ -253,6 +258,16 @@
       <pubDate>Tue, 04 Feb 2025 08:58:00 +0000</pubDate>
     </item>
     <item>
+      <title>University of Sunderland Goes from Ransomware Recovery to Proactive Defense with CrowdStrike</title>
+      <link>https://www.crowdstrike.com/en-us/blog/university-of-sunderland-proactive-defense/</link>
+      <pubDate>Tue, 04 Feb 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Caught in the Act: CrowdStrike’s New ML-Powered LDAP Reconnaissance Detections</title>
+      <link>https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-ml-powered-ldap-reconnaissance-detections/</link>
+      <pubDate>Tue, 04 Feb 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Score</title>
       <link>https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html</link>
       <pubDate>Tue, 04 Feb 2025 05:08:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2025</title>
       <link>https://www.techrepublic.com/article/top-tech-conferences-events/</link>
       <pubDate>Mon, 03 Feb 2025 21:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Master IT Fundamentals With This CompTIA Certification Prep Bundle</title>
-      <link>https://www.techrepublic.com/article/the-all-in-one-comptia-certifications-prep-courses-bundle/</link>
-      <pubDate>Mon, 03 Feb 2025 20:45:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>macOS FlexibleFerret | Further Variants of DPRK Malware Family Unearthed</title>
-      <link>https://www.sentinelone.com/blog/macos-flexibleferret-further-variants-of-dprk-malware-family-unearthed/</link>
-      <pubDate>Mon, 03 Feb 2025 20:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Backdoor Vulnerability in Contec Patient Monitors</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-warns-backdoor-contec-patient/</link>
-      <pubDate>Mon, 03 Feb 2025 17:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
