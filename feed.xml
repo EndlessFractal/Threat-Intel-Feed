@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 14:17:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 16:24:15 +0000</lastBuildDate>
+    <item>
+      <title>Small business owners, secure your web shop</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/02/small-business-owners-secure-your-web-shop</link>
+      <pubDate>Wed, 05 Feb 2025 16:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Man sentenced to 7 years in prison for role in $50m internet scam</title>
+      <link>https://www.tripwire.com/state-of-security/man-sentenced-7-years-jail-role-50m-internet-scam</link>
+      <pubDate>Wed, 05 Feb 2025 16:03:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Payments Decline 35% as Victims Resist Demands</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-payments-decline/</link>
+      <pubDate>Wed, 05 Feb 2025 15:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Microsoft .NET Framework, Apache OFBiz, and Paessler PRTG Network Monitor flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/173889/security/u-s-cisa-adds-microsoft-net-framework-apache-ofbiz-paessler-prtg-network-monitor-flaws-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 05 Feb 2025 15:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cross-Platform JavaScript Stealer Targets Crypto Wallets in New Lazarus Group Campaign</title>
+      <link>https://thehackernews.com/2025/02/cross-platform-javascript-stealer.html</link>
+      <pubDate>Wed, 05 Feb 2025 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 05 Feb 2025 14:05:03 +0000</pubDate>
+    </item>
     <item>
       <title>Mobile Malware Targeting Indian Banks Exposes 50,000 Users</title>
       <link>https://www.infosecurity-magazine.com/news/mobile-malware-indian-banks/</link>
@@ -26,11 +56,6 @@
       <title>Treasury says DOGE review has ‘read-only’ access to federal payments system</title>
       <link>https://therecord.media/treasury-payments-system-doge-read-only</link>
       <pubDate>Wed, 05 Feb 2025 13:44:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 05 Feb 2025 13:05:03 +0000</pubDate>
     </item>
     <item>
       <title>Cybercriminals Use Go Resty and Node Fetch in 13 Million Password Spraying Attempts</title>
@@ -136,6 +161,11 @@
       <title>Online food ordering and delivery platform GrubHub discloses a data breach</title>
       <link>https://securityaffairs.com/173848/data-breach/grubhub-suffered-a-data-breach.html</link>
       <pubDate>Wed, 05 Feb 2025 00:14:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The convergence of space and cyber: An evolving threat landscape</title>
+      <link>https://www.recordedfuture.com/blog/convergence-space-cyber</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sophos Acquires Secureworks for $859 Million</title>
@@ -275,36 +305,6 @@
     <item>
       <title>Schneider Electric Web Designer for Modicon</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-05</link>
-      <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Modicon M340 and BMXNOE0100/0110, BMXNOR0200H</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-06</link>
-      <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AutomationDirect C-more EA9 HMI</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-08</link>
-      <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Modicon M580 PLCs, BMENOR2200H and EVLink Pro AC</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-04</link>
-      <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Pro-face GP-Pro EX and Remote HMI</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-07</link>
-      <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation 1756-L8zS3 and 1756-L3zS3</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-02</link>
-      <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Western Telematic Inc NPS Series, DSM Series, CPM Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-01</link>
       <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
