@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Feb 2025 06:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 08:24:46 +0000</lastBuildDate>
+    <item>
+      <title>University site cloned to evade ad detection distributes fake Cisco installer</title>
+      <link>https://www.malwarebytes.com/blog/cybercrime/2025/02/university-site-cloned-to-evade-ad-detection-distributes-fake-cisco-installer</link>
+      <pubDate>Thu, 06 Feb 2025 06:21:45 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 06 Feb 2025 05:15:03 +0000</pubDate>
+      <pubDate>Thu, 06 Feb 2025 06:15:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, February 6th, 2025 https://isc.sans.edu/podcastdetail/9312, (Thu, Feb 6th)</title>
@@ -106,6 +111,11 @@
       <title>U.S. CISA adds Microsoft .NET Framework, Apache OFBiz, and Paessler PRTG Network Monitor flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/173889/security/u-s-cisa-adds-microsoft-net-framework-apache-ofbiz-paessler-prtg-network-monitor-flaws-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Wed, 05 Feb 2025 15:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, February 2025</title>
+      <link>https://asec.ahnlab.com/en/86124/</link>
+      <pubDate>Wed, 05 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>When AI Plays Both Sides of The Field</title>
@@ -296,16 +306,6 @@
       <title>AMD fixed a flaw that allowed to load malicious microcode</title>
       <link>https://securityaffairs.com/173831/security/amd-flaw-allowed-load-malicious-microcode.html</link>
       <pubDate>Tue, 04 Feb 2025 14:49:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>DaggerFly-Linked Linux Malware Targets Network Appliances</title>
-      <link>https://www.infosecurity-magazine.com/news/daggerfly-linux-malware-network/</link>
-      <pubDate>Tue, 04 Feb 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Go Package Exploits Module Mirror Caching for Persistent Remote Access</title>
-      <link>https://thehackernews.com/2025/02/malicious-go-package-exploits-module.html</link>
-      <pubDate>Tue, 04 Feb 2025 14:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
