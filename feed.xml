@@ -6,16 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 22:19:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 01:26:33 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 06 Feb 2025 00:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lazarus APT targets crypto wallets using cross-platform JavaScript stealer</title>
+      <link>https://securityaffairs.com/173902/apt/lazarus-cross-platform-javascript-stealer-crypto-wallets.html</link>
+      <pubDate>Thu, 06 Feb 2025 00:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #403: Coinbase crypto heists, QR codes, and ransomware in the classroom</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-403/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italy says Paragon spyware targeted victims in dozens of European countries</title>
+      <link>https://therecord.media/italy-paragon-spyware-targeted-european-victims-whatsapp</link>
+      <pubDate>Wed, 05 Feb 2025 23:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spanish police arrest hacker accused of attacks on NATO, US Army</title>
+      <link>https://therecord.media/spanish-police-hacker-army-nato</link>
+      <pubDate>Wed, 05 Feb 2025 22:19:27 +0000</pubDate>
+    </item>
     <item>
       <title>CISA Adds Four Vulnerabilities to Catalog for Federal Enterprise</title>
       <link>https://www.techrepublic.com/article/cisa-vulnerabilities-catalog-update/</link>
       <pubDate>Wed, 05 Feb 2025 21:45:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 05 Feb 2025 21:10:03 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds Linux kernel flaw to its Known Exploited Vulnerabilities catalog</title>
@@ -38,19 +58,9 @@
       <pubDate>Wed, 05 Feb 2025 19:48:17 +0000</pubDate>
     </item>
     <item>
-      <title>SmokeLoader malware aimed at multiple Ukrainian industries, using bug in file archiver</title>
-      <link>https://therecord.media/smokeloader-malware-ukraine-russia</link>
-      <pubDate>Wed, 05 Feb 2025 18:00:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Phishing via "com-" prefix domains, (Wed, Feb 5th)</title>
       <link>https://isc.sans.edu/diary/rss/31654</link>
       <pubDate>Wed, 05 Feb 2025 17:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>NSA employees offered deferred resignation, early retirement</title>
-      <link>https://therecord.media/nsa-deferred-resignation-retirement-doge</link>
-      <pubDate>Wed, 05 Feb 2025 17:18:35 +0000</pubDate>
     </item>
     <item>
       <title>Scalable Vector Graphics files pose a novel phishing threat</title>
@@ -161,6 +171,11 @@
       <title>Investors, Trump and the Illuminati: What the “Nigerian prince” scams became in 2024</title>
       <link>https://securelist.com/nigerian-scams-2024/115388/</link>
       <pubDate>Wed, 05 Feb 2025 12:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York Man Sentenced To 84 Months In Prison For Conspiring To Engage In Multimillion Dollar Wire Fraud Scheme</title>
+      <link>https://www.justice.gov/usao-nj/pr/new-york-man-sentenced-84-months-prison-conspiring-engage-multimillion-dollar-wire-fraud</link>
+      <pubDate>Wed, 05 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
@@ -290,21 +305,6 @@
     <item>
       <title>Threefold Increase in Malware Targeting Credential Stores</title>
       <link>https://www.infosecurity-magazine.com/news/threefold-increase-malware/</link>
-      <pubDate>Tue, 04 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophisticated Phishing Attack Bypasses Microsoft ADFS MFA</title>
-      <link>https://www.infosecurity-magazine.com/news/phishing-attack-bypasses-microsoft/</link>
-      <pubDate>Tue, 04 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI-driven SOC co-pilots will change security center operations</title>
-      <link>https://securityintelligence.com/articles/how-ai-driven-soc-co-pilots-will-change-security-center-operations/</link>
-      <pubDate>Tue, 04 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyzing ELF/Sshdinjector.A!tr with a Human and Artificial Analyst</title>
-      <link>https://feeds.fortinet.com/~/912256964/0/fortinet/blog/threat-research~Analyzing-ELFSshdinjectorAtr-with-a-Human-and-Artificial-Analyst</link>
       <pubDate>Tue, 04 Feb 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
