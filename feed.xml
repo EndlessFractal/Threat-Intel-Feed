@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 08:24:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 10:20:17 +0000</lastBuildDate>
+    <item>
+      <title>Attackers used a public ASP.NET machine to conduct ViewState code injection attacks</title>
+      <link>https://securityaffairs.com/173956/hacking/abusing-asp-net-machine-to-deploy-malware.html</link>
+      <pubDate>Fri, 07 Feb 2025 09:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Weaponize Graphics Files in Phishing Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/cybercriminals-graphics-files/</link>
+      <pubDate>Fri, 07 Feb 2025 09:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -46,11 +56,6 @@
       <title>Changing the tide: Reflections on threat data from 2024</title>
       <link>https://blog.talosintelligence.com/changing-the-tide-reflections-on-threat-data-from-2024/</link>
       <pubDate>Thu, 06 Feb 2025 19:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Code injection attacks using publicly disclosed ASP.NET machine keys</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/02/06/code-injection-attacks-using-publicly-disclosed-asp-net-machine-keys/</link>
-      <pubDate>Thu, 06 Feb 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New scams could abuse brief USPS suspension of inbound packages from China, Hong Kong</title>
@@ -301,11 +306,6 @@
       <title>Small business owners, secure your web shop</title>
       <link>https://www.malwarebytes.com/blog/news/2025/02/small-business-owners-secure-your-web-shop</link>
       <pubDate>Wed, 05 Feb 2025 16:09:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man sentenced to 7 years in prison for role in $50m internet scam</title>
-      <link>https://www.tripwire.com/state-of-security/man-sentenced-7-years-jail-role-50m-internet-scam</link>
-      <pubDate>Wed, 05 Feb 2025 16:03:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
