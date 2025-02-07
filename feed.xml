@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 14:17:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 16:23:50 +0000</lastBuildDate>
+    <item>
+      <title>Most UK GDPR Enforcement Actions Targeted Public Sector in 2024</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-gdpr-enforcement-public-sector/</link>
+      <pubDate>Fri, 07 Feb 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 07 Feb 2025 15:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>States prepare privacy lawsuit against DOGE over access to federal data</title>
+      <link>https://therecord.media/doge-privacy-lawsuit-state-attorneys-general</link>
+      <pubDate>Fri, 07 Feb 2025 15:32:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Screenshot-Reading Malware</title>
+      <link>https://www.schneier.com/blog/archives/2025/02/screenshot-reading-malware.html</link>
+      <pubDate>Fri, 07 Feb 2025 15:26:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Attack Severity Rating System Established in UK</title>
+      <link>https://www.techrepublic.com/article/uk-cyber-attack-severity-rating/</link>
+      <pubDate>Fri, 07 Feb 2025 15:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek App Transmits Sensitive User and Device Data Without Encryption</title>
+      <link>https://thehackernews.com/2025/02/deepseek-app-transmits-sensitive-user.html</link>
+      <pubDate>Fri, 07 Feb 2025 14:58:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 6</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-6-6/</link>
@@ -28,14 +58,14 @@
       <pubDate>Fri, 07 Feb 2025 13:53:14 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 07 Feb 2025 13:45:04 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Warns of Active Exploits Targeting Trimble Cityworks Vulnerability</title>
       <link>https://thehackernews.com/2025/02/cisa-warns-of-active-exploitation-in.html</link>
       <pubDate>Fri, 07 Feb 2025 12:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Attorney’s Office Returns $328,573 to Victim of Computer Support Scam</title>
+      <link>https://www.justice.gov/usao-ct/pr/us-attorneys-office-returns-328573-victim-computer-support-scam</link>
+      <pubDate>Fri, 07 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Third-Party Risk Management Failures Expose UK Finance Sector</title>
@@ -141,11 +171,6 @@
       <title>WordPress ASE Plugin Vulnerability Threatens Site Security</title>
       <link>https://www.infosecurity-magazine.com/news/wordpress-ase-plugin-flaw/</link>
       <pubDate>Thu, 06 Feb 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia uses messaging apps to recruit terrorists, Ukraine's police says</title>
-      <link>https://therecord.media/russia-uses-messaging-apps-to-recruit-terrorists</link>
-      <pubDate>Thu, 06 Feb 2025 16:21:19 +0000</pubDate>
     </item>
     <item>
       <title>Cisco addressed two critical flaws in its Identity Services Engine (ISE)</title>
@@ -281,31 +306,6 @@
       <title>Notorious hacker behind 40+ cyberattacks on strategic organizations arrested</title>
       <link>https://securityaffairs.com/173932/cyber-crime/spanish-police-arrested-notorious-hacker.html</link>
       <pubDate>Thu, 06 Feb 2025 09:55:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>1-15 November 2024 Cyber Attacks Timeline</title>
-      <link>https://www.hackmageddon.com/2025/02/06/1-15-november-2024-cyber-attacks-timeline/</link>
-      <pubDate>Thu, 06 Feb 2025 08:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Unbreakable Multi-Layer Anti-Debugging System, (Thu, Feb 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/31658</link>
-      <pubDate>Thu, 06 Feb 2025 08:08:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Patches Critical ISE Vulnerabilities Enabling Root CmdExec and PrivEsc</title>
-      <link>https://thehackernews.com/2025/02/cisco-patches-critical-ise.html</link>
-      <pubDate>Thu, 06 Feb 2025 07:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>University site cloned to evade ad detection distributes fake Cisco installer</title>
-      <link>https://www.malwarebytes.com/blog/cybercrime/2025/02/university-site-cloned-to-evade-ad-detection-distributes-fake-cisco-installer</link>
-      <pubDate>Thu, 06 Feb 2025 06:21:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improving Kubernetes Security: Lessons from an Istio Configuration Finding</title>
-      <link>https://www.crowdstrike.com/en-us/blog/istio-configuration-finding-improve-kubernetes-security/</link>
-      <pubDate>Thu, 06 Feb 2025 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
