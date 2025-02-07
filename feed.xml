@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 10:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 12:37:26 +0000</lastBuildDate>
+    <item>
+      <title>Third-Party Risk Management Failures Expose UK Finance Sector</title>
+      <link>https://www.infosecurity-magazine.com/news/third-party-risk-failures-uk/</link>
+      <pubDate>Fri, 07 Feb 2025 11:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Powered Social Engineering: Reinvented Threats</title>
+      <link>https://thehackernews.com/2025/02/ai-powered-social-engineering.html</link>
+      <pubDate>Fri, 07 Feb 2025 11:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data breaches at UK law firms are on the rise, research reveals</title>
+      <link>https://www.tripwire.com/state-of-security/research-reveals-data-breaches-rise-uk-law-firms</link>
+      <pubDate>Fri, 07 Feb 2025 11:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Identifies 3,000+ Publicly Disclosed ASP.NET Machine Keys Vulnerable to Code Injection</title>
+      <link>https://thehackernews.com/2025/02/microsoft-identifies-3000-publicly.html</link>
+      <pubDate>Fri, 07 Feb 2025 11:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 07 Feb 2025 10:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>SSL 2.0 turns 30 this Sunday... Perhaps the time has come to let it die?, (Fri, Feb 7th)</title>
+      <link>https://isc.sans.edu/diary/rss/31664</link>
+      <pubDate>Fri, 07 Feb 2025 10:41:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s RBI Introduces Exclusive "bank.in" Domain to Combat Digital Banking Fraud</title>
+      <link>https://thehackernews.com/2025/02/indias-rbi-introduces-exclusive-bankin.html</link>
+      <pubDate>Fri, 07 Feb 2025 10:32:00 +0000</pubDate>
+    </item>
     <item>
       <title>Attackers used a public ASP.NET machine to conduct ViewState code injection attacks</title>
       <link>https://securityaffairs.com/173956/hacking/abusing-asp-net-machine-to-deploy-malware.html</link>
@@ -16,11 +51,6 @@
       <title>Cybercriminals Weaponize Graphics Files in Phishing Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/cybercriminals-graphics-files/</link>
       <pubDate>Fri, 07 Feb 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 07 Feb 2025 07:40:04 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Exploiting SimpleHelp RMM Flaws for Persistent Access and Ransomware</title>
@@ -56,6 +86,11 @@
       <title>Changing the tide: Reflections on threat data from 2024</title>
       <link>https://blog.talosintelligence.com/changing-the-tide-reflections-on-threat-data-from-2024/</link>
       <pubDate>Thu, 06 Feb 2025 19:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Code injection attacks using publicly disclosed ASP.NET machine keys</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/02/06/code-injection-attacks-using-publicly-disclosed-asp-net-machine-keys/</link>
+      <pubDate>Thu, 06 Feb 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New scams could abuse brief USPS suspension of inbound packages from China, Hong Kong</title>
@@ -271,41 +306,6 @@
       <title>CISA Adds Four Vulnerabilities to Catalog for Federal Enterprise</title>
       <link>https://www.techrepublic.com/article/cisa-vulnerabilities-catalog-update/</link>
       <pubDate>Wed, 05 Feb 2025 21:45:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Linux kernel flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/173897/hacking/u-s-cisa-adds-linux-kernel-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 05 Feb 2025 21:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing via "com-" prefix domains, (Wed, Feb 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/31654</link>
-      <pubDate>Wed, 05 Feb 2025 17:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scalable Vector Graphics files pose a novel phishing threat</title>
-      <link>https://news.sophos.com/en-us/2025/02/05/svg-phishing/</link>
-      <pubDate>Wed, 05 Feb 2025 17:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stress-testing multimodal AI applications is a new frontier for red teams</title>
-      <link>https://securityintelligence.com/articles/stress-testing-multimodal-ai-applications-new-frontier-for-red-teams/</link>
-      <pubDate>Wed, 05 Feb 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>21% of CISOs Have Been Pressured Not to Report a Compliance Issue, Research Finds</title>
-      <link>https://www.techrepublic.com/article/cisos-pressured-report-compliance-splunk/</link>
-      <pubDate>Wed, 05 Feb 2025 16:44:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophisticated Phishing Campaign Targets Ukraine’s Largest Bank</title>
-      <link>https://www.infosecurity-magazine.com/news/phishing-campaign-targets-ukraines/</link>
-      <pubDate>Wed, 05 Feb 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Small business owners, secure your web shop</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/02/small-business-owners-secure-your-web-shop</link>
-      <pubDate>Wed, 05 Feb 2025 16:09:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
