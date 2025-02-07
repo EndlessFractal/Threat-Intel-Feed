@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 12:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 14:17:58 +0000</lastBuildDate>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 6</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-6-6/</link>
+      <pubDate>Fri, 07 Feb 2025 14:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious AI Models on Hugging Face Exploit Novel Attack Technique</title>
+      <link>https://www.infosecurity-magazine.com/news/malicious-ai-models-hugging-face/</link>
+      <pubDate>Fri, 07 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will AI threaten the role of human creativity in cyber threat detection?</title>
+      <link>https://securityintelligence.com/articles/will-ai-threaten-the-role-of-human-creativity-in-cyber-threat-detection/</link>
+      <pubDate>Fri, 07 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK reportedly demands secret ‘back door’ to Apple users’ iCloud accounts</title>
+      <link>https://therecord.media/uk-government-reportedly-demands-backdoor-apple-icloud</link>
+      <pubDate>Fri, 07 Feb 2025 13:53:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 07 Feb 2025 13:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns of Active Exploits Targeting Trimble Cityworks Vulnerability</title>
+      <link>https://thehackernews.com/2025/02/cisa-warns-of-active-exploitation-in.html</link>
+      <pubDate>Fri, 07 Feb 2025 12:52:00 +0000</pubDate>
+    </item>
     <item>
       <title>Third-Party Risk Management Failures Expose UK Finance Sector</title>
       <link>https://www.infosecurity-magazine.com/news/third-party-risk-failures-uk/</link>
@@ -23,14 +53,9 @@
       <pubDate>Fri, 07 Feb 2025 11:08:37 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Identifies 3,000+ Publicly Disclosed ASP.NET Machine Keys Vulnerable to Code Injection</title>
+      <title>Microsoft Identifies 3,000 Leaked ASP.NET Keys Enabling Code Injection Attacks</title>
       <link>https://thehackernews.com/2025/02/microsoft-identifies-3000-publicly.html</link>
       <pubDate>Fri, 07 Feb 2025 11:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 07 Feb 2025 10:45:03 +0000</pubDate>
     </item>
     <item>
       <title>SSL 2.0 turns 30 this Sunday... Perhaps the time has come to let it die?, (Fri, Feb 7th)</title>
@@ -121,11 +146,6 @@
       <title>Russia uses messaging apps to recruit terrorists, Ukraine's police says</title>
       <link>https://therecord.media/russia-uses-messaging-apps-to-recruit-terrorists</link>
       <pubDate>Thu, 06 Feb 2025 16:21:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>IMI reports ‘unauthorized’ cyber activity in latest incident affecting UK engineering firms</title>
-      <link>https://therecord.media/imi-uk-engineering-company-reports-cyber-incident</link>
-      <pubDate>Thu, 06 Feb 2025 15:48:53 +0000</pubDate>
     </item>
     <item>
       <title>Cisco addressed two critical flaws in its Identity Services Engine (ISE)</title>
@@ -286,26 +306,6 @@
       <title>Improving Kubernetes Security: Lessons from an Istio Configuration Finding</title>
       <link>https://www.crowdstrike.com/en-us/blog/istio-configuration-finding-improve-kubernetes-security/</link>
       <pubDate>Thu, 06 Feb 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, February 6th, 2025 https://isc.sans.edu/podcastdetail/9312, (Thu, Feb 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/31656</link>
-      <pubDate>Thu, 06 Feb 2025 01:30:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus APT targets crypto wallets using cross-platform JavaScript stealer</title>
-      <link>https://securityaffairs.com/173902/apt/lazarus-cross-platform-javascript-stealer-crypto-wallets.html</link>
-      <pubDate>Thu, 06 Feb 2025 00:08:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #403: Coinbase crypto heists, QR codes, and ransomware in the classroom</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-403/</link>
-      <pubDate>Thu, 06 Feb 2025 00:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Four Vulnerabilities to Catalog for Federal Enterprise</title>
-      <link>https://www.techrepublic.com/article/cisa-vulnerabilities-catalog-update/</link>
-      <pubDate>Wed, 05 Feb 2025 21:45:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
