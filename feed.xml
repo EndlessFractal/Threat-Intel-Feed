@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 04:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 06:27:40 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 07 Feb 2025 03:40:03 +0000</pubDate>
+      <pubDate>Fri, 07 Feb 2025 05:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploiting SimpleHelp RMM Flaws for Persistent Access and Ransomware</title>
+      <link>https://thehackernews.com/2025/02/hackers-exploit-simplehelp-rmm-flaws.html</link>
+      <pubDate>Fri, 07 Feb 2025 05:19:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, February 7th, 2025 https://isc.sans.edu/podcastdetail/9314, (Fri, Feb 7th)</title>
@@ -301,11 +306,6 @@
       <title>Ransomware Payments Decline 35% as Victims Resist Demands</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-payments-decline/</link>
       <pubDate>Wed, 05 Feb 2025 15:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Microsoft .NET Framework, Apache OFBiz, and Paessler PRTG Network Monitor flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/173889/security/u-s-cisa-adds-microsoft-net-framework-apache-ofbiz-paessler-prtg-network-monitor-flaws-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 05 Feb 2025 15:02:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
