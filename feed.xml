@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 22:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 01:24:19 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sat, 08 Feb 2025 00:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teen on Musk’s DOGE Team Graduated from ‘The Com’</title>
+      <link>https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/</link>
+      <pubDate>Sat, 08 Feb 2025 00:32:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers exploiting bug in popular Trimble Cityworks tool used by local gov’ts</title>
+      <link>https://therecord.media/hackers-exploiting-trimble-cityworks-bug-used-by-local-govs</link>
+      <pubDate>Fri, 07 Feb 2025 22:17:56 +0000</pubDate>
+    </item>
     <item>
       <title>UK Government Reportedly Demands Access to Encrypted iCloud Files Worldwide</title>
       <link>https://www.techrepublic.com/article/uk-apple-encryption-icloud/</link>
@@ -18,14 +33,14 @@
       <pubDate>Fri, 07 Feb 2025 22:02:37 +0000</pubDate>
     </item>
     <item>
+      <title>U.S. CISA adds Trimble Cityworks flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/173975/hacking/u-s-cisa-adds-trimble-cityworks-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Fri, 07 Feb 2025 21:54:13 +0000</pubDate>
+    </item>
+    <item>
       <title>iOS 18.3.1 Release Expected Within the Next Few Weeks</title>
       <link>https://www.techrepublic.com/article/apple-ios18-iphone-update/</link>
       <pubDate>Fri, 07 Feb 2025 21:38:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 07 Feb 2025 20:50:03 +0000</pubDate>
     </item>
     <item>
       <title>Label maker Avery says ransomware investigation also found credit-card scraper</title>
@@ -98,11 +113,6 @@
       <pubDate>Fri, 07 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>UK reportedly demands secret ‘back door’ to Apple users’ iCloud accounts</title>
-      <link>https://therecord.media/uk-government-reportedly-demands-backdoor-apple-icloud</link>
-      <pubDate>Fri, 07 Feb 2025 13:53:14 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Warns of Active Exploits Targeting Trimble Cityworks Vulnerability</title>
       <link>https://thehackernews.com/2025/02/cisa-warns-of-active-exploitation-in.html</link>
       <pubDate>Fri, 07 Feb 2025 12:52:00 +0000</pubDate>
@@ -120,6 +130,11 @@
     <item>
       <title>Indiana Man Sentenced to 20 Years in Federal Prison for Conspiracies Involving Cyber Intrusion and a Massive $37 Million Cryptocurrency Theft</title>
       <link>https://www.justice.gov/usao-sd/pr/indiana-man-sentenced-20-years-federal-prison-conspiracies-involving-cyber-intrusion-and</link>
+      <pubDate>Fri, 07 Feb 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massachusetts Man Arrested for Making Violent Threats Against Officials, Private Individuals and Children</title>
+      <link>https://www.justice.gov/usao-ma/pr/massachusetts-man-arrested-making-violent-threats-against-officials-private-individuals</link>
       <pubDate>Fri, 07 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -196,11 +211,6 @@
       <title>Changing the tide: Reflections on threat data from 2024</title>
       <link>https://blog.talosintelligence.com/changing-the-tide-reflections-on-threat-data-from-2024/</link>
       <pubDate>Thu, 06 Feb 2025 19:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Code injection attacks using publicly disclosed ASP.NET machine keys</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/02/06/code-injection-attacks-using-publicly-disclosed-asp-net-machine-keys/</link>
-      <pubDate>Thu, 06 Feb 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New scams could abuse brief USPS suspension of inbound packages from China, Hong Kong</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Schneider Electric EcoStruxure</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-037-02</link>
-      <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric EcoStruxure Power Monitoring Expert (PME)</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-037-01</link>
-      <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trimble Cityworks</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-037-04</link>
       <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
