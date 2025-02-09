@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Feb 2025 16:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 18:23:57 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sun, 09 Feb 2025 17:15:03 +0000</pubDate>
+    </item>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 32</title>
       <link>https://securityaffairs.com/174025/malware/security-affairs-malware-newsletter-round-32.html</link>
       <pubDate>Sun, 09 Feb 2025 15:36:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 09 Feb 2025 15:15:04 +0000</pubDate>
     </item>
     <item>
       <title>Security Affairs newsletter Round 510 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
@@ -263,6 +263,11 @@
       <pubDate>Thu, 06 Feb 2025 19:03:36 +0000</pubDate>
     </item>
     <item>
+      <title>Code injection attacks using publicly disclosed ASP.NET machine keys</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/02/06/code-injection-attacks-using-publicly-disclosed-asp-net-machine-keys/</link>
+      <pubDate>Thu, 06 Feb 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New scams could abuse brief USPS suspension of inbound packages from China, Hong Kong</title>
       <link>https://www.malwarebytes.com/blog/news/2025/02/new-scams-could-abuse-brief-usps-suspension-of-inbound-packages-from-china-hong-kong</link>
       <pubDate>Thu, 06 Feb 2025 17:28:03 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Lazarus Group Targets Bitdefender Researcher with LinkedIn Recruiting Scam</title>
       <link>https://www.infosecurity-magazine.com/news/lazarus-bitdefender-linkedin-scam/</link>
       <pubDate>Thu, 06 Feb 2025 14:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Google Chrome Sites Distribute ValleyRAT Malware via DLL Hijacking</title>
-      <link>https://thehackernews.com/2025/02/fake-google-chrome-sites-distribute.html</link>
-      <pubDate>Thu, 06 Feb 2025 14:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
