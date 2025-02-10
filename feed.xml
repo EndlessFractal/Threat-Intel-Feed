@@ -6,16 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Feb 2025 10:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 12:38:45 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 10 Feb 2025 12:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pairwise Authentication of Humans</title>
+      <link>https://www.schneier.com/blog/archives/2025/02/pairwise-authentication-of-humans.html</link>
+      <pubDate>Mon, 10 Feb 2025 12:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Military Fast-Tracks Cybersecurity Recruitment</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-military-cybersecurity/</link>
+      <pubDate>Mon, 10 Feb 2025 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Remove Your Saved Passwords in Chrome</title>
+      <link>https://www.techrepublic.com/article/remove-saved-passwords-chrome/</link>
+      <pubDate>Mon, 10 Feb 2025 11:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don't Overlook These 6 Critical Okta Security Configurations</title>
+      <link>https://thehackernews.com/2025/02/dont-overlook-these-6-critical-okta.html</link>
+      <pubDate>Mon, 10 Feb 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts Dismayed at UK’s Apple Decryption Demands</title>
+      <link>https://www.infosecurity-magazine.com/news/experts-dismayed-uk-apple/</link>
+      <pubDate>Mon, 10 Feb 2025 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Europol Warns Financial Sector of “Imminent” Quantum Threat</title>
       <link>https://www.infosecurity-magazine.com/news/europol-warns-financial-sector/</link>
       <pubDate>Mon, 10 Feb 2025 09:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 10 Feb 2025 09:20:03 +0000</pubDate>
+      <title>DragonRank Exploits IIS Servers with BadIIS Malware for SEO Fraud and Gambling Redirects</title>
+      <link>https://thehackernews.com/2025/02/dragonrank-exploits-iis-servers-with.html</link>
+      <pubDate>Mon, 10 Feb 2025 09:44:00 +0000</pubDate>
     </item>
     <item>
       <title>Zimbra Releases Security Updates for SQL Injection, Stored XSS, and SSRF Vulnerabilities</title>
@@ -276,36 +306,6 @@
       <title>Cybercriminals Weaponize Graphics Files in Phishing Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/cybercriminals-graphics-files/</link>
       <pubDate>Fri, 07 Feb 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploiting SimpleHelp RMM Flaws for Persistent Access and Ransomware</title>
-      <link>https://thehackernews.com/2025/02/hackers-exploit-simplehelp-rmm-flaws.html</link>
-      <pubDate>Fri, 07 Feb 2025 05:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, February 7th, 2025 https://isc.sans.edu/podcastdetail/9314, (Fri, Feb 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/31662</link>
-      <pubDate>Fri, 07 Feb 2025 01:28:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Microsoft Outlook, Sophos XG Firewall, and other flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/173949/hacking/u-s-cisa-adds-microsoft-outlook-sophos-xg-firewall-and-other-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 06 Feb 2025 22:36:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts Flag Security, Privacy Risks in DeepSeek AI App</title>
-      <link>https://krebsonsecurity.com/2025/02/experts-flag-security-privacy-risks-in-deepseek-ai-app/</link>
-      <pubDate>Thu, 06 Feb 2025 21:12:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Changing the tide: Reflections on threat data from 2024</title>
-      <link>https://blog.talosintelligence.com/changing-the-tide-reflections-on-threat-data-from-2024/</link>
-      <pubDate>Thu, 06 Feb 2025 19:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Code injection attacks using publicly disclosed ASP.NET machine keys</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/02/06/code-injection-attacks-using-publicly-disclosed-asp-net-machine-keys/</link>
-      <pubDate>Thu, 06 Feb 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
