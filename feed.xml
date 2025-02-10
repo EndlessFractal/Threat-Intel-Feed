@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Feb 2025 04:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 06:28:15 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 10 Feb 2025 03:20:04 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2025 06:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>XE Hacker Group Exploits VeraCore Zero-Day to Deploy Persistent Web Shells</title>
+      <link>https://thehackernews.com/2025/02/xe-hacker-group-exploits-veracore-zero.html</link>
+      <pubDate>Mon, 10 Feb 2025 05:14:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Monday, February 10th, 2025 https://isc.sans.edu/podcastdetail/9316, (Mon, Feb 10th)</title>
@@ -301,11 +306,6 @@
       <title>Cisco addressed two critical flaws in its Identity Services Engine (ISE)</title>
       <link>https://securityaffairs.com/173946/security/cisco-addressed-critical-flaws-in-identity-services-engine.html</link>
       <pubDate>Thu, 06 Feb 2025 15:42:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New UK Cyber Monitoring Centre Introduces 'Richter Scale' for Cyber-Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/new-uk-cyber-monitoring-centre/</link>
-      <pubDate>Thu, 06 Feb 2025 15:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
