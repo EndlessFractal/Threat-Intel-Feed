@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Feb 2025 22:18:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 01:27:42 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 09 Feb 2025 21:15:04 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2025 00:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Government Cybersecurity at a Federal/State Crossroads: How to Engage Now</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/government-cybersecurity-at-a-federal-state-crossroads-how-to-engage-now</link>
+      <pubDate>Sun, 09 Feb 2025 23:42:00 +0000</pubDate>
     </item>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 32</title>
@@ -263,6 +268,11 @@
       <pubDate>Thu, 06 Feb 2025 19:03:36 +0000</pubDate>
     </item>
     <item>
+      <title>Code injection attacks using publicly disclosed ASP.NET machine keys</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/02/06/code-injection-attacks-using-publicly-disclosed-asp-net-machine-keys/</link>
+      <pubDate>Thu, 06 Feb 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New scams could abuse brief USPS suspension of inbound packages from China, Hong Kong</title>
       <link>https://www.malwarebytes.com/blog/news/2025/02/new-scams-could-abuse-brief-usps-suspension-of-inbound-packages-from-china-hong-kong</link>
       <pubDate>Thu, 06 Feb 2025 17:28:03 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Android Malware &amp; Security Issue 1st Week of February, 2025</title>
       <link>https://asec.ahnlab.com/en/86171/</link>
       <pubDate>Thu, 06 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus Group Targets Bitdefender Researcher with LinkedIn Recruiting Scam</title>
-      <link>https://www.infosecurity-magazine.com/news/lazarus-bitdefender-linkedin-scam/</link>
-      <pubDate>Thu, 06 Feb 2025 14:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Google Chrome Sites Distribute ValleyRAT Malware via DLL Hijacking</title>
-      <link>https://thehackernews.com/2025/02/fake-google-chrome-sites-distribute.html</link>
-      <pubDate>Thu, 06 Feb 2025 14:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
