@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 10:21:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 12:38:28 +0000</lastBuildDate>
+    <item>
+      <title>Trusted Encryption Environments</title>
+      <link>https://www.schneier.com/blog/archives/2025/02/trusted-encryption-environments.html</link>
+      <pubDate>Tue, 11 Feb 2025 12:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Progress Software Patches High-Severity LoadMaster Flaws Affecting Multiple Versions</title>
+      <link>https://thehackernews.com/2025/02/progress-software-patches-high-severity.html</link>
+      <pubDate>Tue, 11 Feb 2025 11:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gcore DDoS Radar Reveals 56% YoY Increase in DDoS Attacks</title>
+      <link>https://thehackernews.com/2025/02/gcore-ddos-radar-reveals-56-yoy.html</link>
+      <pubDate>Tue, 11 Feb 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches Actively Exploited iOS Zero-Day CVE-2025-24200 in Emergency Update</title>
+      <link>https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html</link>
+      <pubDate>Tue, 11 Feb 2025 11:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 11 Feb 2025 10:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Mitigates “Extremely Sophisticated” Zero-Day Exploit</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-update-extremely/</link>
+      <pubDate>Tue, 11 Feb 2025 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Protecting Your Software Supply Chain: Assessing the Risks Before Deployment</title>
       <link>https://thehackernews.com/2025/02/protecting-your-software-supply-chain.html</link>
@@ -23,24 +53,14 @@
       <pubDate>Tue, 11 Feb 2025 09:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 11 Feb 2025 09:35:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Operation Phobos Aetor: Police dismantled 8Base ransomware gang</title>
       <link>https://securityaffairs.com/174078/cyber-crime/police-dismantled-8base-ransomware-gang.html</link>
       <pubDate>Tue, 11 Feb 2025 08:33:47 +0000</pubDate>
     </item>
     <item>
-      <title>8Base Ransomware Data Leak Sites Seized in International Law Enforcement Operation</title>
+      <title>FBI, Europol, and NCA Take Down 8Base Ransomware Data Leak and Negotiation Sites</title>
       <link>https://thehackernews.com/2025/02/8base-ransomware-data-leak-sites-seized.html</link>
       <pubDate>Tue, 11 Feb 2025 07:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Patches Actively Exploited iOS Zero-Day CVE-2025-24200 in Emergency Update</title>
-      <link>https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html</link>
-      <pubDate>Tue, 11 Feb 2025 04:32:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, February 11th, 2025 https://isc.sans.edu/podcastdetail/9318, (Tue, Feb 11th)</title>
@@ -125,6 +145,11 @@
     <item>
       <title>Reducing ransomware recovery costs in education</title>
       <link>https://securityintelligence.com/articles/reducing-ransomware-recovery-costs-in-education/</link>
+      <pubDate>Mon, 10 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QUIC action: patching a broadcast address amplification vulnerability</title>
+      <link>https://blog.cloudflare.com/mitigating-broadcast-address-attack/</link>
       <pubDate>Mon, 10 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>UK Government Reportedly Demands Access to Encrypted iCloud Files Worldwide</title>
       <link>https://www.techrepublic.com/article/uk-apple-encryption-icloud/</link>
       <pubDate>Fri, 07 Feb 2025 22:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: The Colossal Squid</title>
-      <link>https://www.schneier.com/blog/archives/2025/02/friday-squid-blogging-the-colossal-squid.html</link>
-      <pubDate>Fri, 07 Feb 2025 22:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOS 18.3.1 Release Expected Within the Next Few Weeks</title>
-      <link>https://www.techrepublic.com/article/apple-ios18-iphone-update/</link>
-      <pubDate>Fri, 07 Feb 2025 21:38:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>IT Teams Worry About Increasing Cost of Cyber Tools From AI Features, While Criminals Barely Use Them</title>
-      <link>https://www.techrepublic.com/article/ai-cybersecurity-costs/</link>
-      <pubDate>Fri, 07 Feb 2025 19:08:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>20 million OpenAI accounts offered for sale</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/02/20-million-openai-accounts-offered-for-sale</link>
-      <pubDate>Fri, 07 Feb 2025 16:32:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most UK GDPR Enforcement Actions Targeted Public Sector in 2024</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-gdpr-enforcement-public-sector/</link>
-      <pubDate>Fri, 07 Feb 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
