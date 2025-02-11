@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 04:22:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 06:27:27 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 11 Feb 2025 03:30:03 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2025 05:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches Actively Exploited iOS Zero-Day CVE-2025-24200 in Emergency Update</title>
+      <link>https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html</link>
+      <pubDate>Tue, 11 Feb 2025 04:32:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, February 11th, 2025 https://isc.sans.edu/podcastdetail/9318, (Tue, Feb 11th)</title>
@@ -71,11 +76,6 @@
       <title>BadIIS Malware Exploits IIS Servers for SEO Fraud</title>
       <link>https://www.infosecurity-magazine.com/news/badiis-malware-iis-servers-seo/</link>
       <pubDate>Mon, 10 Feb 2025 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build a stronger security strategy with proactive and reactive incident response: Cyberattack Series</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/02/10/build-a-stronger-security-strategy-with-proactive-and-reactive-incident-response-cyberattack-series/</link>
-      <pubDate>Mon, 10 Feb 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A suicide reveals the lonely side of AI chatbots, with Courtney Brown (Lock and Code S06E03)</title>
@@ -176,11 +176,6 @@
       <title>&amp;#xa;Reminder: 7-Zip &amp; MoW, (Mon, Feb 10th)</title>
       <link>https://isc.sans.edu/diary/rss/31668</link>
       <pubDate>Mon, 10 Feb 2025 07:27:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike University Fast Track Fuels Cybersecurity Training</title>
-      <link>https://www.crowdstrike.com/en-us/blog/csu-fast-track-fuels-cybersecurity-training/</link>
-      <pubDate>Mon, 10 Feb 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XE Hacker Group Exploits VeraCore Zero-Day to Deploy Persistent Web Shells</title>
@@ -306,6 +301,11 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 6</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-6-6/</link>
       <pubDate>Fri, 07 Feb 2025 14:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious AI Models on Hugging Face Exploit Novel Attack Technique</title>
+      <link>https://www.infosecurity-magazine.com/news/malicious-ai-models-hugging-face/</link>
+      <pubDate>Fri, 07 Feb 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
