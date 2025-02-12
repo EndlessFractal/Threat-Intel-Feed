@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Feb 2025 01:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 02:48:45 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 11 Feb 2025 23:40:03 +0000</pubDate>
+      <pubDate>Wed, 12 Feb 2025 00:40:04 +0000</pubDate>
     </item>
     <item>
       <title>Attackers exploit a new zero-day to hijack Fortinet firewalls</title>
@@ -288,11 +288,6 @@
       <pubDate>Mon, 10 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>QUIC action: patching a broadcast address amplification vulnerability</title>
-      <link>https://blog.cloudflare.com/mitigating-broadcast-address-attack/</link>
-      <pubDate>Mon, 10 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>US: Man Gets 20 Years for $37m Crypto Heist</title>
       <link>https://www.infosecurity-magazine.com/news/us-man-20-years-37m-dollars-crypto/</link>
       <pubDate>Mon, 10 Feb 2025 13:45:00 +0000</pubDate>
@@ -306,6 +301,11 @@
       <title>XE Group shifts from credit card skimming to exploiting zero-days</title>
       <link>https://securityaffairs.com/174045/cyber-crime/xe-group-exploiting-zero-days.html</link>
       <pubDate>Mon, 10 Feb 2025 12:52:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [10 February]</title>
+      <link>https://thehackernews.com/2025/02/thn-weekly-recap-top-cybersecurity_10.html</link>
+      <pubDate>Mon, 10 Feb 2025 12:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
