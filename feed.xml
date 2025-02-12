@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Feb 2025 16:25:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 18:29:27 +0000</lastBuildDate>
+    <item>
+      <title>Subgroup of Russia’s Sandworm compromising US and European organizations, Microsoft says</title>
+      <link>https://therecord.media/sandworm-subgroup-russia-europe</link>
+      <pubDate>Wed, 12 Feb 2025 18:14:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Treasury was ‘fully aware of the risks’ posed by DOGE access to payment systems, court filing says</title>
+      <link>https://therecord.media/treasury-fully-aware-of-risks-posed-by-doge-access-to-database</link>
+      <pubDate>Wed, 12 Feb 2025 18:01:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 12 Feb 2025 17:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Uncovers Sandworm Subgroup's Global Cyber Attacks Spanning 15+ Countries</title>
+      <link>https://thehackernews.com/2025/02/microsoft-uncovers-sandworm-subgroups.html</link>
+      <pubDate>Wed, 12 Feb 2025 17:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The BadPilot campaign: Seashell Blizzard subgroup conducts multiyear global access operation</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/02/12/the-badpilot-campaign-seashell-blizzard-subgroup-conducts-multiyear-global-access-operation/</link>
+      <pubDate>Wed, 12 Feb 2025 17:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CHERI Security Hardware Program Essential to UK Security, Says Government</title>
       <link>https://www.infosecurity-magazine.com/news/cheri-security-hardware-uk-security/</link>
@@ -16,11 +41,6 @@
       <title>Romance Scams Cost Americans $697.3M Last Year</title>
       <link>https://www.infosecurity-magazine.com/news/romance-scams-cost-americans/</link>
       <pubDate>Wed, 12 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 12 Feb 2025 14:55:03 +0000</pubDate>
     </item>
     <item>
       <title>Exclusive: Massive IoT Data Breach Exposes 2.7 Billion Records</title>
@@ -75,6 +95,11 @@
     <item>
       <title>CISA and FBI Warn of Malicious Cyber Actors Using Buffer Overflow Vulnerabilities to Compromise Software</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/02/12/cisa-and-fbi-warn-malicious-cyber-actors-using-buffer-overflow-vulnerabilities-compromise-software</link>
+      <pubDate>Wed, 12 Feb 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/02/12/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Wed, 12 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -163,6 +188,11 @@
       <pubDate>Tue, 11 Feb 2025 21:33:02 +0000</pubDate>
     </item>
     <item>
+      <title>Why Attackers Heart SMBs— and How to Fight Back</title>
+      <link>https://www.security.com/expert-perspectives/heart-smb</link>
+      <pubDate>Tue, 11 Feb 2025 20:25:59 +0000</pubDate>
+    </item>
+    <item>
       <title>February Patch Tuesday delivers 57 packages</title>
       <link>https://news.sophos.com/en-us/2025/02/11/february-patch-tuesday-delivers-57-packages/</link>
       <pubDate>Tue, 11 Feb 2025 20:17:34 +0000</pubDate>
@@ -186,16 +216,6 @@
       <title>Microsoft Patch Tuesday for February 2025 — Snort rules and prominent vulnerabilities</title>
       <link>https://blog.talosintelligence.com/february-patch-tuesday-release/</link>
       <pubDate>Tue, 11 Feb 2025 19:24:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian bulletproof hosting service Zservers sanctioned by US for LockBit coordination</title>
-      <link>https://therecord.media/zservers-russia-bulletproof-hosting-us-uk-sanctions</link>
-      <pubDate>Tue, 11 Feb 2025 19:10:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lawsuit accuses Trump administration of violating federal information security law</title>
-      <link>https://therecord.media/doge-lawsuit-alleged-information-security-violations</link>
-      <pubDate>Tue, 11 Feb 2025 18:12:03 +0000</pubDate>
     </item>
     <item>
       <title>Women@ Kicks Off the Year with a Vision Board Event</title>
@@ -286,26 +306,6 @@
       <title>8Base Ransomware Site Seized, Phobos Suspects Arrested in Thailand</title>
       <link>https://www.infosecurity-magazine.com/news/8base-ransomware-phobos-arrested/</link>
       <pubDate>Tue, 11 Feb 2025 12:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crooks use Google Tag Manager skimmer to steal credit card data from a Magento-based e-stores</title>
-      <link>https://securityaffairs.com/174085/cyber-crime/google-tag-manager-gtm-e-skimmer-software-in-magento.html</link>
-      <pubDate>Tue, 11 Feb 2025 12:34:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trusted Encryption Environments</title>
-      <link>https://www.schneier.com/blog/archives/2025/02/trusted-encryption-environments.html</link>
-      <pubDate>Tue, 11 Feb 2025 12:08:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phobos Ransomware Affiliates Arrested in Coordinated International Disruption</title>
-      <link>https://www.justice.gov/usao-md/pr/phobos-ransomware-affiliates-arrested-coordinated-international-disruption</link>
-      <pubDate>Tue, 11 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/02/11/cisa-releases-two-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 11 Feb 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
