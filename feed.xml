@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 22:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 01:26:29 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 11 Feb 2025 23:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers exploit a new zero-day to hijack Fortinet firewalls</title>
+      <link>https://securityaffairs.com/174117/hacking/fortinet-fortios-zero-day-exploited.html</link>
+      <pubDate>Tue, 11 Feb 2025 23:06:50 +0000</pubDate>
+    </item>
     <item>
       <title>Arizona woman pleads guilty to running laptop farm for N. Korean IT workers, faces 9-year sentence</title>
       <link>https://therecord.media/arizona-woman-pleads-guilty-north-korean-laptop-farm</link>
@@ -16,11 +26,6 @@
       <title>OpenSSL patched high-severity flaw CVE-2024-12797</title>
       <link>https://securityaffairs.com/174111/security/openssl-patched-the-vulnerability-cve-2024-12797.html</link>
       <pubDate>Tue, 11 Feb 2025 21:33:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 11 Feb 2025 20:40:04 +0000</pubDate>
     </item>
     <item>
       <title>February Patch Tuesday delivers 57 packages</title>
@@ -95,6 +100,11 @@
     <item>
       <title>DDoS Attack Volume and Magnitude Continues to Soar</title>
       <link>https://www.infosecurity-magazine.com/news/ddos-attack-volume-magnitude/</link>
+      <pubDate>Tue, 11 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 2, February 2025</title>
+      <link>https://asec.ahnlab.com/en/86258/</link>
       <pubDate>Tue, 11 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>XE Group shifts from credit card skimming to exploiting zero-days</title>
       <link>https://securityaffairs.com/174045/cyber-crime/xe-group-exploiting-zero-days.html</link>
       <pubDate>Mon, 10 Feb 2025 12:52:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [10 February]</title>
-      <link>https://thehackernews.com/2025/02/thn-weekly-recap-top-cybersecurity_10.html</link>
-      <pubDate>Mon, 10 Feb 2025 12:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pairwise Authentication of Humans</title>
-      <link>https://www.schneier.com/blog/archives/2025/02/pairwise-authentication-of-humans.html</link>
-      <pubDate>Mon, 10 Feb 2025 12:00:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
