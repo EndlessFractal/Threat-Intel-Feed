@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Feb 2025 01:27:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 02:49:37 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 13 Feb 2025 02:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Thursday, February 13th, 2025 https://isc.sans.edu/podcastdetail/9322, (Thu, Feb 13th)</title>
+      <link>https://isc.sans.edu/diary/rss/31682</link>
+      <pubDate>Thu, 13 Feb 2025 01:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>DShield SIEM Docker Updates, (Thu, Feb 13th)</title>
+      <link>https://isc.sans.edu/diary/rss/31680</link>
+      <pubDate>Thu, 13 Feb 2025 01:23:59 +0000</pubDate>
+    </item>
     <item>
       <title>Smashing Security podcast #404: Podcast not found</title>
       <link>https://grahamcluley.com/smashing-security-podcast-404/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Cybercrime evolving into national security threat: Google</title>
@@ -173,6 +183,11 @@
       <pubDate>Wed, 12 Feb 2025 07:27:22 +0000</pubDate>
     </item>
     <item>
+      <title>Naming Names: How Adversary Taxonomies Strengthen Global Security</title>
+      <link>https://www.crowdstrike.com/en-us/blog/how-adversary-taxonomies-strengthen-global-security/</link>
+      <pubDate>Wed, 12 Feb 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ivanti Patches Critical Flaws in Connect Secure and Policy Secure – Update Now</title>
       <link>https://thehackernews.com/2025/02/ivanti-patches-critical-flaws-in.html</link>
       <pubDate>Wed, 12 Feb 2025 05:57:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Sophos AI Assistant: Accelerating security operations with GenAI</title>
       <link>https://news.sophos.com/en-us/2025/02/11/sophos-ai-assistant-accelerating-security-operations-with-genai/</link>
       <pubDate>Tue, 11 Feb 2025 14:37:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Gangs Increasingly Prioritize Speed and Volume in Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-gangs-prioritize-speed/</link>
-      <pubDate>Tue, 11 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The straight and narrow — How to keep ML and AI training on track</title>
-      <link>https://securityintelligence.com/articles/the-straight-and-narrow-how-to-keep-ml-and-ai-training-on-track/</link>
-      <pubDate>Tue, 11 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sandworm APT Targets Ukrainian Users with Trojanized Microsoft KMS Activation Tools in Cyber Espionage Campaigns</title>
-      <link>https://blog.eclecticiq.com/sandworm-apt-targets-ukrainian-users-with-trojanized-microsoft-kms-activation-tools-in-cyber-espionage-campaigns</link>
-      <pubDate>Tue, 11 Feb 2025 13:59:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
