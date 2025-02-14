@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Feb 2025 22:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 01:26:45 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 14 Feb 2025 00:10:04 +0000</pubDate>
+    </item>
     <item>
       <title>Intelligence agencies must explain what they do, says UK’s former cyber spy chief</title>
       <link>https://therecord.media/intel-agencies-must-explain-what-they-do-fleming-gchq</link>
@@ -26,11 +31,6 @@
       <title>Nearly a Year Later, Mozilla is Still Promoting OneRep</title>
       <link>https://krebsonsecurity.com/2025/02/nearly-a-year-later-mozilla-is-still-promoting-onerep/</link>
       <pubDate>Thu, 13 Feb 2025 20:14:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 13 Feb 2025 20:05:04 +0000</pubDate>
     </item>
     <item>
       <title>Dutch police say they took down 127 servers used by sanctioned hosting service</title>
@@ -130,6 +130,11 @@
     <item>
       <title>Federal Indictment in Chicago Charges Two Chinese Companies and Four Individuals With Conspiring To Unlawfully Possess Trade Secrets</title>
       <link>https://www.justice.gov/usao-ndil/pr/federal-indictment-chicago-charges-two-chinese-companies-and-four-individuals</link>
+      <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Estonian Nationals plead guilty in $577M cryptocurrency fraud scheme</title>
+      <link>https://www.justice.gov/usao-wdwa/pr/two-estonian-nationals-plead-guilty-577m-cryptocurrency-fraud-scheme</link>
       <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -288,6 +293,11 @@
       <pubDate>Thu, 13 Feb 2025 07:34:04 +0000</pubDate>
     </item>
     <item>
+      <title>Detect Data Exfiltration Techniques with Falcon Next-Gen SIEM</title>
+      <link>https://www.crowdstrike.com/en-us/blog/detect-data-exfiltration-techniques-falcon-ng-siem/</link>
+      <pubDate>Thu, 13 Feb 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CrowdStrike Leads Agentic AI Innovation in Cybersecurity with Charlotte AI Detection Triage</title>
       <link>https://www.crowdstrike.com/en-us/blog/agentic-ai-innovation-in-cybersecurity-charlotte-ai-detection-triage/</link>
       <pubDate>Thu, 13 Feb 2025 06:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>ISC Stormcast For Thursday, February 13th, 2025 https://isc.sans.edu/podcastdetail/9322, (Thu, Feb 13th)</title>
       <link>https://isc.sans.edu/diary/rss/31682</link>
       <pubDate>Thu, 13 Feb 2025 01:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>DShield SIEM Docker Updates, (Thu, Feb 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/31680</link>
-      <pubDate>Thu, 13 Feb 2025 01:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #404: Podcast not found</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-404/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
