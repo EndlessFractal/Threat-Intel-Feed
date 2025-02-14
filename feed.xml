@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Feb 2025 04:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 06:27:04 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 14 Feb 2025 03:20:03 +0000</pubDate>
+      <pubDate>Fri, 14 Feb 2025 05:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL Vulnerability Exploited Alongside BeyondTrust Zero-Day in Targeted Attacks</title>
+      <link>https://thehackernews.com/2025/02/postgresql-vulnerability-exploited.html</link>
+      <pubDate>Fri, 14 Feb 2025 05:03:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, February 14th, 2025 https://isc.sans.edu/podcastdetail/9324, (Fri, Feb 14th)</title>
@@ -301,11 +306,6 @@
       <title>Sarcoma ransomware gang claims the theft of sensitive data from PCB maker Unimicron</title>
       <link>https://securityaffairs.com/174159/cyber-crime/sarcoma-ransomware-claims-the-theft-of-sensitive-data-from-pcb-maker-unimicron.html</link>
       <pubDate>Thu, 13 Feb 2025 07:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detect Data Exfiltration Techniques with Falcon Next-Gen SIEM</title>
-      <link>https://www.crowdstrike.com/en-us/blog/detect-data-exfiltration-techniques-falcon-ng-siem/</link>
-      <pubDate>Thu, 13 Feb 2025 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
