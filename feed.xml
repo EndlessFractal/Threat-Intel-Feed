@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Feb 2025 02:54:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 04:21:57 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -111,6 +111,11 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 7</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-7-6/</link>
       <pubDate>Fri, 14 Feb 2025 14:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 ways to bring cybersecurity into your community</title>
+      <link>https://securityintelligence.com/articles/4-ways-to-bring-cybersecurity-into-your-community/</link>
+      <pubDate>Fri, 14 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Roundup – Lynx</title>
@@ -258,6 +263,11 @@
       <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How red teaming helps safeguard the infrastructure behind AI models</title>
+      <link>https://securityintelligence.com/articles/how-red-teaming-helps-safeguard-the-infrastructure-behind-ai-models/</link>
+      <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Qardio Heart Health IOS and Android Application and QardioARM A100</title>
       <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-044-01</link>
       <pubDate>Thu, 13 Feb 2025 13:42:24 +0000</pubDate>
@@ -295,16 +305,6 @@
     <item>
       <title>Two Estonian Nationals plead guilty in $577M cryptocurrency fraud scheme</title>
       <link>https://www.justice.gov/usao-wdwa/pr/two-estonian-nationals-plead-guilty-577m-cryptocurrency-fraud-scheme</link>
-      <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Seashell Blizzard Enlists Specialist Initial Access Subgroup to Expand Ops</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-seashell-blizzard-initial/</link>
-      <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens OpenV2G</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-044-08</link>
       <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
