@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Feb 2025 18:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 20:20:23 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 17 Feb 2025 20:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Golang-based backdoor relies on Telegram for C2 communication</title>
+      <link>https://securityaffairs.com/174306/malware/golang-based-backdoor-uses-telegram-for-c2.html</link>
+      <pubDate>Mon, 17 Feb 2025 18:41:06 +0000</pubDate>
+    </item>
     <item>
       <title>Pro-Russia Hackers NoName057(16) Hit Italian Banks and Airports</title>
       <link>https://www.infosecurity-magazine.com/news/noname05716-hit-italian-banks/</link>
       <pubDate>Mon, 17 Feb 2025 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 17 Feb 2025 17:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Atlas of Surveillance</title>
@@ -281,11 +286,6 @@
       <title>China-Linked Espionage Tools Used in Recent Ransomware Attack</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-espionage-tools-ransomware/</link>
       <pubDate>Fri, 14 Feb 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts discovered PostgreSQL flaw chained with BeyondTrust zeroday in targeted attacks</title>
-      <link>https://securityaffairs.com/174218/hacking/postgresql-flaw-chained-with-beyondtrust-zeroday.html</link>
-      <pubDate>Fri, 14 Feb 2025 09:23:12 +0000</pubDate>
     </item>
     <item>
       <title>US charges two Russian men in connection with Phobos ransomware operation</title>
