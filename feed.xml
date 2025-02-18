@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 14:18:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 16:25:46 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 18 Feb 2025 14:10:03 +0000</pubDate>
+      <pubDate>Tue, 18 Feb 2025 15:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit MAVInject.exe to Evade Detection in Targeted Cyber Attacks</title>
+      <link>https://thehackernews.com/2025/02/chinese-hackers-exploit-mavinjectexe-to.html</link>
+      <pubDate>Tue, 18 Feb 2025 15:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #38: AI proves time travel is impossible (but still can’t draw fingers)</title>
+      <link>https://grahamcluley.com/the-ai-fix-38/</link>
+      <pubDate>Tue, 18 Feb 2025 15:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mustang Panda Leverages Microsoft Tools to Bypass Anti-Virus Solutions</title>
+      <link>https://www.infosecurity-magazine.com/news/mustang-panda-microsoft-bypass/</link>
+      <pubDate>Tue, 18 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Evolving Snake Keylogger Variant Targets Windows Users</title>
@@ -38,6 +53,11 @@
       <pubDate>Tue, 18 Feb 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Debunking the AI Hype: Inside Real Hacker Tactics</title>
+      <link>https://thehackernews.com/2025/02/debunking-ai-hype-inside-real-hacker.html</link>
+      <pubDate>Tue, 18 Feb 2025 12:20:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Juniper Session Smart Routers Vulnerability Could Let Attackers Bypass Authentication</title>
       <link>https://thehackernews.com/2025/02/juniper-session-smart-routers.html</link>
       <pubDate>Tue, 18 Feb 2025 12:18:00 +0000</pubDate>
@@ -63,14 +83,14 @@
       <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Debunking the AI Hype: Inside Real Hacker Tactics</title>
-      <link>https://thehackernews.com/2025/02/debunking-ai-hype-inside-real-hacker.html</link>
-      <pubDate>Tue, 18 Feb 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>StaryDobry ruins New Year’s Eve, delivering miner instead of presents</title>
       <link>https://securelist.com/starydobry-campaign-spreads-xmrig-miner-via-torrents/115509/</link>
       <pubDate>Tue, 18 Feb 2025 10:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Mac Malware Poses as Browser Updates</title>
+      <link>https://www.techrepublic.com/article/mac-malware-web-inject-proofpoint/</link>
+      <pubDate>Tue, 18 Feb 2025 10:00:38 +0000</pubDate>
     </item>
     <item>
       <title>Zacks Investment Research Breach Hits 12 Million</title>
@@ -198,6 +218,11 @@
       <pubDate>Mon, 17 Feb 2025 10:14:18 +0000</pubDate>
     </item>
     <item>
+      <title>Katharine Hayhoe: The most important climate equation | Starmus highlights</title>
+      <link>https://www.welivesecurity.com/en/we-live-science/katharine-hayhoe-most-important-climate-equation-starmus-highlights/</link>
+      <pubDate>Mon, 17 Feb 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Palo Alto Networks and SonicWall Firewalls Under Attack</title>
       <link>https://www.infosecurity-magazine.com/news/palo-alto-networks-sonicwall/</link>
       <pubDate>Mon, 17 Feb 2025 09:30:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>The Danger of IP Volatility, (Sat, Feb 15th)</title>
       <link>https://isc.sans.edu/diary/rss/31688</link>
       <pubDate>Sat, 15 Feb 2025 07:22:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas investigating DeepSeek for violating data privacy law</title>
-      <link>https://therecord.media/texas-investigating-deepseek-privacy</link>
-      <pubDate>Fri, 14 Feb 2025 21:23:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police risk losing society’s trust in fight against cybercrime, warns Europol chief</title>
-      <link>https://therecord.media/eurpol-chief-cybercrime-law-enforcement-powers-society-trust</link>
-      <pubDate>Fri, 14 Feb 2025 20:40:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>New “whoAMI” Attack Exploits AWS AMI Name Confusion for Remote Code Execution</title>
-      <link>https://thehackernews.com/2025/02/new-whoami-attack-exploits-aws-ami-name.html</link>
-      <pubDate>Fri, 14 Feb 2025 18:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus Group Deploys Marstech1 JavaScript Implant in Targeted Developer Attacks</title>
-      <link>https://thehackernews.com/2025/02/lazarus-group-deploys-marstech1.html</link>
-      <pubDate>Fri, 14 Feb 2025 18:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>12 Million Zacks accounts leaked by cybercriminal</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/02/12-million-zacks-accounts-leaked-by-cybercriminal</link>
-      <pubDate>Fri, 14 Feb 2025 18:24:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
