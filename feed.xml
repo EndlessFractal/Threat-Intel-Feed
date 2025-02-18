@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 16:25:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 18:27:44 +0000</lastBuildDate>
+    <item>
+      <title>Ecuador's legislature says hackers attempted to access confidential information</title>
+      <link>https://therecord.media/ecuador-national-assembly-cyberattack</link>
+      <pubDate>Tue, 18 Feb 2025 17:52:52 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 18 Feb 2025 15:10:04 +0000</pubDate>
+      <pubDate>Tue, 18 Feb 2025 17:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>​​Join us for the end-to-end Microsoft RSAC 2025 Conference experience</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/02/18/join-us-for-the-end-to-end-microsoft-rsac-2025-conference-experience/</link>
+      <pubDate>Tue, 18 Feb 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack likely to have ‘material impact’ on media giant Lee Enterprises’ bottom line</title>
+      <link>https://therecord.media/cyberattack-lee-enterprises-news-media</link>
+      <pubDate>Tue, 18 Feb 2025 16:32:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenSSH Flaws Expose Systems to Critical Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/openssh-flaws-expose-systems/</link>
+      <pubDate>Tue, 18 Feb 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked APT group Winnti targets Japanese organizations since March 2024</title>
+      <link>https://securityaffairs.com/174353/apt/china-linked-apt-group-winnti-targets-japanese-orgs.html</link>
+      <pubDate>Tue, 18 Feb 2025 16:10:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>New OpenSSH Flaws Enable Man-in-the-Middle and DoS Attacks — Patch Now</title>
+      <link>https://thehackernews.com/2025/02/new-openssh-flaws-enable-man-in-middle.html</link>
+      <pubDate>Tue, 18 Feb 2025 15:34:00 +0000</pubDate>
     </item>
     <item>
       <title>Chinese Hackers Exploit MAVInject.exe to Evade Detection in Targeted Cyber Attacks</title>
@@ -80,6 +110,11 @@
     <item>
       <title>Proofpoint Uncovers FrigidStealer, A New MacOS Infostealer</title>
       <link>https://www.infosecurity-magazine.com/news/proofpoint-frigidstealer-new-mac/</link>
+      <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/02/18/cisa-releases-two-industrial-control-systems-advisories</link>
       <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,11 +253,6 @@
       <pubDate>Mon, 17 Feb 2025 10:14:18 +0000</pubDate>
     </item>
     <item>
-      <title>Katharine Hayhoe: The most important climate equation | Starmus highlights</title>
-      <link>https://www.welivesecurity.com/en/we-live-science/katharine-hayhoe-most-important-climate-equation-starmus-highlights/</link>
-      <pubDate>Mon, 17 Feb 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Palo Alto Networks and SonicWall Firewalls Under Attack</title>
       <link>https://www.infosecurity-magazine.com/news/palo-alto-networks-sonicwall/</link>
       <pubDate>Mon, 17 Feb 2025 09:30:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Weekly Update 439</title>
       <link>https://www.troyhunt.com/weekly-update-439/</link>
       <pubDate>Sun, 16 Feb 2025 06:10:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 511 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/174255/security/security-affairs-newsletter-round-511-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 16 Feb 2025 01:20:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Apple iOS and iPadOS and Mitel SIP Phones flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/174246/security/u-s-cisa-adds-apple-ios-and-ipados-and-mitel-sip-phones-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Sat, 15 Feb 2025 17:37:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sweden’s PM on suspected cable sabotage: ‘We don’t believe random things suddenly happen quite often’</title>
-      <link>https://therecord.media/sweden-pm-on-suspected-russian-cable-breaks-not-an-accident</link>
-      <pubDate>Sat, 15 Feb 2025 15:08:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zelensky calls to build ‘army of Europe’ to counter future Russian threats</title>
-      <link>https://therecord.media/zelensky-calls-for-army-of-europe-to-counter-russia</link>
-      <pubDate>Sat, 15 Feb 2025 13:43:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android's New Feature Blocks Fraudsters from Sideloading Apps During Calls</title>
-      <link>https://thehackernews.com/2025/02/androids-new-feature-blocks-fraudsters.html</link>
-      <pubDate>Sat, 15 Feb 2025 10:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Danger of IP Volatility, (Sat, Feb 15th)</title>
-      <link>https://isc.sans.edu/diary/rss/31688</link>
-      <pubDate>Sat, 15 Feb 2025 07:22:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
