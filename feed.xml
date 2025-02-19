@@ -6,16 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Feb 2025 16:23:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 18:26:27 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 19 Feb 2025 16:10:04 +0000</pubDate>
+      <pubDate>Wed, 19 Feb 2025 18:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating Email Security Services: Methods, Challenges and Best Practices</title>
+      <link>https://www.security.com/product-insights/email-security</link>
+      <pubDate>Wed, 19 Feb 2025 17:27:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Plugin Vulnerability Exposes 90,000 Sites to Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-exposes/</link>
+      <pubDate>Wed, 19 Feb 2025 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft is named a Leader in the 2025 Gartner® Magic Quadrant™ for cyber-physical systems protection platforms​​</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/02/19/microsoft-is-named-a-leader-in-the-2025-gartner-magic-quadrant-for-cyber-physical-systems-protection-platforms/</link>
+      <pubDate>Wed, 19 Feb 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Signal's Linked Devices Feature to Hijack Accounts via Malicious QR Codes</title>
+      <link>https://thehackernews.com/2025/02/hackers-exploit-signals-linked-devices.html</link>
+      <pubDate>Wed, 19 Feb 2025 16:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#StopRansomware: Ghost (Cring) Ransomware</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-050a</link>
+      <pubDate>Wed, 19 Feb 2025 16:34:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Finastra Notifies Customers of Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/finastra-notifies-customers-data/</link>
+      <pubDate>Wed, 19 Feb 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall v21 MR1 is now available</title>
+      <link>https://news.sophos.com/en-us/2025/02/19/sophos-firewall-v21-mr1-is-now-available/</link>
+      <pubDate>Wed, 19 Feb 2025 16:06:44 +0000</pubDate>
     </item>
     <item>
       <title>Thailand to take in 7,000 rescued from illegal cyber scam hubs in Myanmar</title>
       <link>https://therecord.media/thailand-to-take-in-7000-rescued-from-scam-hubs-myanmar</link>
       <pubDate>Wed, 19 Feb 2025 15:53:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Device Code Phishing</title>
+      <link>https://www.schneier.com/blog/archives/2025/02/device-code-phishing.html</link>
+      <pubDate>Wed, 19 Feb 2025 15:07:50 +0000</pubDate>
     </item>
     <item>
       <title>Trump to nominate White House insider from first term to lead DOJ’s National Security Division</title>
@@ -78,7 +118,7 @@
       <pubDate>Wed, 19 Feb 2025 13:00:29 +0000</pubDate>
     </item>
     <item>
-      <title>Macs targeted by info stealers in new era of cyberthreats</title>
+      <title>Macs targeted by infostealers in new era of cyberthreats</title>
       <link>https://www.malwarebytes.com/blog/apple/2025/02/macs-targeted-by-info-stealers-in-new-era-of-cyberthreats</link>
       <pubDate>Wed, 19 Feb 2025 12:51:51 +0000</pubDate>
     </item>
@@ -95,6 +135,11 @@
     <item>
       <title>Cyber Investor Insight Partners Suffers Security Breach</title>
       <link>https://www.infosecurity-magazine.com/news/insight-partners-security-breach/</link>
+      <pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and Partners Release Advisory on Ghost (Cring) Ransomware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/02/19/cisa-and-partners-release-advisory-ghost-cring-ransomware</link>
       <pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -261,51 +306,6 @@
       <title>Story About Medical Device Security</title>
       <link>https://www.schneier.com/blog/archives/2025/02/story-about-medical-device-security.html</link>
       <pubDate>Tue, 18 Feb 2025 12:06:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proofpoint Uncovers FrigidStealer, A New MacOS Infostealer</title>
-      <link>https://www.infosecurity-magazine.com/news/proofpoint-frigidstealer-new-mac/</link>
-      <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/02/18/cisa-releases-two-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>StaryDobry ruins New Year’s Eve, delivering miner instead of presents</title>
-      <link>https://securelist.com/starydobry-campaign-spreads-xmrig-miner-via-torrents/115509/</link>
-      <pubDate>Tue, 18 Feb 2025 10:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Mac Malware Poses as Browser Updates</title>
-      <link>https://www.techrepublic.com/article/mac-malware-web-inject-proofpoint/</link>
-      <pubDate>Tue, 18 Feb 2025 10:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zacks Investment Research Breach Hits 12 Million</title>
-      <link>https://www.infosecurity-magazine.com/news/zacks-investment-research-breach/</link>
-      <pubDate>Tue, 18 Feb 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Winnti APT41 Targets Japanese Firms in RevivalStone Cyber Espionage Campaign</title>
-      <link>https://thehackernews.com/2025/02/winnti-apt41-targets-japanese-firms-in.html</link>
-      <pubDate>Tue, 18 Feb 2025 09:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xerox VersaLink C7025 Multifunction printer flaws may expose Windows Active Directory credentials to attackers</title>
-      <link>https://securityaffairs.com/174342/hacking/xerox-versalink-c7025-multifunction-printer-flaws.html</link>
-      <pubDate>Tue, 18 Feb 2025 08:49:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>New XCSSET macOS malware variant used in limited attacks</title>
-      <link>https://securityaffairs.com/174333/malware/apple-macos-malware-xcsset-limited-attacks.html</link>
-      <pubDate>Tue, 18 Feb 2025 07:30:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
