@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Feb 2025 14:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 16:23:43 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 19 Feb 2025 16:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thailand to take in 7,000 rescued from illegal cyber scam hubs in Myanmar</title>
+      <link>https://therecord.media/thailand-to-take-in-7000-rescued-from-scam-hubs-myanmar</link>
+      <pubDate>Wed, 19 Feb 2025 15:53:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump to nominate White House insider from first term to lead DOJ’s National Security Division</title>
+      <link>https://therecord.media/john-eisenberg-expected-trump-nominee-doj-nsd</link>
+      <pubDate>Wed, 19 Feb 2025 14:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venture capital firm Insight Partners discloses security breach</title>
+      <link>https://securityaffairs.com/174392/hacking/insight-partners-discloses-security-breach.html</link>
+      <pubDate>Wed, 19 Feb 2025 14:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian state hackers spy on Ukrainian military through Signal app</title>
+      <link>https://therecord.media/russian-state-hackers-spy-on-ukraine-military-signal</link>
+      <pubDate>Wed, 19 Feb 2025 14:39:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple Vulnerabilities Discovered in NVIDIA CUDA Toolkit</title>
+      <link>https://unit42.paloaltonetworks.com/nvidia-cuda-toolkit-vulnerabilities/</link>
+      <pubDate>Wed, 19 Feb 2025 14:15:32 +0000</pubDate>
+    </item>
     <item>
       <title>Australian IVF Clinic Suffers Data Breach Following Cyber Incident</title>
       <link>https://www.infosecurity-magazine.com/news/australian-ivf-data-breach-cyber/</link>
@@ -18,9 +48,9 @@
       <pubDate>Wed, 19 Feb 2025 14:05:12 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 19 Feb 2025 13:55:03 +0000</pubDate>
+      <title>Malwarebytes introduces native ARM support for Windows devices</title>
+      <link>https://www.malwarebytes.com/blog/personal/2025/02/malwarebytes-introduces-native-arm-support-for-windows-devices</link>
+      <pubDate>Wed, 19 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Google now allows digital fingerprinting of its users</title>
@@ -51,11 +81,6 @@
       <title>Macs targeted by info stealers in new era of cyberthreats</title>
       <link>https://www.malwarebytes.com/blog/apple/2025/02/macs-targeted-by-info-stealers-in-new-era-of-cyberthreats</link>
       <pubDate>Wed, 19 Feb 2025 12:51:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple foreign intelligence agencies plotting to murder dissidents in Australia, warns security chief</title>
-      <link>https://therecord.media/australia-asio-report-foreign-intelligence-murder-plots</link>
-      <pubDate>Wed, 19 Feb 2025 12:47:01 +0000</pubDate>
     </item>
     <item>
       <title>New Snake Keylogger Variant Leverages AutoIt Scripting to Evade Detection</title>
@@ -118,24 +143,19 @@
       <pubDate>Wed, 19 Feb 2025 00:31:59 +0000</pubDate>
     </item>
     <item>
+      <title>Trimble Cityworks: CVE-2025-0994</title>
+      <link>https://www.recordedfuture.com/blog/trimble-cityworks-cve-2025-0994-vulnerability-analysis</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Juniper Networks fixed a critical flaw in Session Smart Routers</title>
       <link>https://securityaffairs.com/174365/security/juniper-networks-fixed-a-critical-flaw-in-session-smart-routers.html</link>
       <pubDate>Tue, 18 Feb 2025 22:30:07 +0000</pubDate>
     </item>
     <item>
-      <title>Managed healthcare defense contractor to pay $11 million over alleged cyber failings</title>
-      <link>https://therecord.media/managed-health-tricare-false-claims</link>
-      <pubDate>Tue, 18 Feb 2025 22:15:59 +0000</pubDate>
-    </item>
-    <item>
       <title>Hard drives containing sensitive medical data found in flea market</title>
       <link>https://www.malwarebytes.com/blog/news/2025/02/hard-drives-containing-sensitive-medical-data-found-in-flea-market</link>
       <pubDate>Tue, 18 Feb 2025 20:57:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers use ‘sophisticated’ macOS malware to steal cryptocurrency, Microsoft says</title>
-      <link>https://therecord.media/hackers-use-macos-malware-to-steal-crypto</link>
-      <pubDate>Tue, 18 Feb 2025 20:40:06 +0000</pubDate>
     </item>
     <item>
       <title>How Phished Data Turns into Apple &amp; Google Wallets</title>
@@ -286,26 +306,6 @@
       <title>New XCSSET macOS malware variant used in limited attacks</title>
       <link>https://securityaffairs.com/174333/malware/apple-macos-malware-xcsset-limited-attacks.html</link>
       <pubDate>Tue, 18 Feb 2025 07:30:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Xerox Printer Flaws Could Let Attackers Capture Windows Active Directory Credentials</title>
-      <link>https://thehackernews.com/2025/02/new-xerox-printer-flaws-could-let.html</link>
-      <pubDate>Tue, 18 Feb 2025 07:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Solving for Exponential Data Growth in Next-Gen SIEM</title>
-      <link>https://www.crowdstrike.com/en-us/blog/solving-for-exponential-data-grown-next-gen-siem/</link>
-      <pubDate>Tue, 18 Feb 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Exploit Onerror Event in Image Tags to Deploy Payment Skimmers</title>
-      <link>https://thehackernews.com/2025/02/cybercriminals-exploit-onerror-event-in.html</link>
-      <pubDate>Tue, 18 Feb 2025 05:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, February 18th, 2025 https://isc.sans.edu/podcastdetail/9328, (Tue, Feb 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/31694</link>
-      <pubDate>Tue, 18 Feb 2025 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
