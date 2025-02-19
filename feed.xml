@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Feb 2025 18:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 20:21:30 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 19 Feb 2025 18:05:03 +0000</pubDate>
+      <pubDate>Wed, 19 Feb 2025 20:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protected: zQA Content Editing Styles</title>
+      <link>https://www.malwarebytes.com/blog/uncategorized/2025/02/zqa-content-editing-styles</link>
+      <pubDate>Wed, 19 Feb 2025 19:20:08 +0000</pubDate>
     </item>
     <item>
       <title>Evaluating Email Security Services: Methods, Challenges and Best Practices</title>
@@ -86,6 +91,11 @@
       <title>Pegasus spyware infections found on several private sector phones</title>
       <link>https://therecord.media/pegasus-spyware-infections-iverify</link>
       <pubDate>Wed, 19 Feb 2025 14:05:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darktrace: 96% of Phishing Attacks in 2024 Exploited Trusted Domains Including SharePoint &amp; Zoom Docs</title>
+      <link>https://www.techrepublic.com/article/darktrace-threat-report/</link>
+      <pubDate>Wed, 19 Feb 2025 14:00:45 +0000</pubDate>
     </item>
     <item>
       <title>Malwarebytes introduces native ARM support for Windows devices</title>
@@ -296,16 +306,6 @@
       <title>CVE-2025-1094 Exploitation, a Critical SQL Injection Vulnerability in PostgreSQL That Can Lead to Arbitrary Code Execution</title>
       <link>https://socprime.com/blog/cve-2025-1094-sql-injection-vulnerability/</link>
       <pubDate>Tue, 18 Feb 2025 12:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Got a Microsoft Teams invite? Storm-2372 gang exploit device codes in global phishing attacks</title>
-      <link>https://www.tripwire.com/state-of-security/microsoft-teams-storm-2372-exploit-device-codes</link>
-      <pubDate>Tue, 18 Feb 2025 12:10:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Story About Medical Device Security</title>
-      <link>https://www.schneier.com/blog/archives/2025/02/story-about-medical-device-security.html</link>
-      <pubDate>Tue, 18 Feb 2025 12:06:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
