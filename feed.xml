@@ -6,16 +6,66 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Feb 2025 10:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 12:39:03 +0000</lastBuildDate>
     <item>
-      <title>CISA and FBI Warn of Global Threat from Ghost Ransomware</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-fbi-warn-global-threat-ghost/</link>
-      <pubDate>Thu, 20 Feb 2025 09:45:00 +0000</pubDate>
+      <title>Ghost (Cring) Ransomware Detection: The FBI, CISA, and Partners Warn of Increasing China-Backed Group’s Attacks for Financial Gain</title>
+      <link>https://socprime.com/blog/ghost-cring-ransomware-detection/</link>
+      <pubDate>Thu, 20 Feb 2025 12:33:48 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 20 Feb 2025 09:15:04 +0000</pubDate>
+      <pubDate>Thu, 20 Feb 2025 12:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>An LLM Trained to Create Backdoors in Code</title>
+      <link>https://www.schneier.com/blog/archives/2025/02/an-llm-trained-to-create-backdoors-in-code.html</link>
+      <pubDate>Thu, 20 Feb 2025 12:01:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese-Linked Attackers Exploit Check Point Flaw to Deploy ShadowPad and Ransomware</title>
+      <link>https://thehackernews.com/2025/02/chinese-linked-attackers-exploit-check.html</link>
+      <pubDate>Thu, 20 Feb 2025 11:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PCI DSS 4.0 Mandates DMARC By 31st March 2025</title>
+      <link>https://thehackernews.com/2025/02/pci-dss-40-mandates-dmarc-by-31st-march.html</link>
+      <pubDate>Thu, 20 Feb 2025 11:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft fixed actively exploited flaw in Power Pages</title>
+      <link>https://securityaffairs.com/174430/security/microsoft-fixed-actively-exploited-flaw-in-power-pages.html</link>
+      <pubDate>Thu, 20 Feb 2025 11:20:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Use Eclipse Jarsigner to Deploy XLoader Malware via ZIP Archives</title>
+      <link>https://thehackernews.com/2025/02/cybercriminals-use-eclipse-jarsigner-to.html</link>
+      <pubDate>Thu, 20 Feb 2025 11:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stately Taurus Activity in Southeast Asia Links to Bookworm Malware</title>
+      <link>https://unit42.paloaltonetworks.com/stately-taurus-uses-bookworm-malware/</link>
+      <pubDate>Thu, 20 Feb 2025 11:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware 2025: Attacks Keep Rising as Threat Shows its Resilience</title>
+      <link>https://www.security.com/threat-intelligence/ransomware-trends-2025</link>
+      <pubDate>Thu, 20 Feb 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix addressed NetScaler console privilege escalation flaw</title>
+      <link>https://securityaffairs.com/174425/security/citrix-addressed-netscaler-console-privilege-escalation-flaw.html</link>
+      <pubDate>Thu, 20 Feb 2025 10:46:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft's End of Support for Exchange 2016 and 2019: What IT Teams Must Do Now</title>
+      <link>https://thehackernews.com/2025/02/microsoft-end-of-support-for-exchange-2016-and-exchange-2019.html</link>
+      <pubDate>Thu, 20 Feb 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and FBI Warn of Global Threat from Ghost Ransomware</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-fbi-warn-global-threat-ghost/</link>
+      <pubDate>Thu, 20 Feb 2025 09:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Managed detection and response in 2024</title>
@@ -256,56 +306,6 @@
       <title>Juniper Networks fixed a critical flaw in Session Smart Routers</title>
       <link>https://securityaffairs.com/174365/security/juniper-networks-fixed-a-critical-flaw-in-session-smart-routers.html</link>
       <pubDate>Tue, 18 Feb 2025 22:30:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hard drives containing sensitive medical data found in flea market</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/02/hard-drives-containing-sensitive-medical-data-found-in-flea-market</link>
-      <pubDate>Tue, 18 Feb 2025 20:57:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Phished Data Turns into Apple &amp; Google Wallets</title>
-      <link>https://krebsonsecurity.com/2025/02/how-phished-data-turns-into-apple-google-wallets/</link>
-      <pubDate>Tue, 18 Feb 2025 18:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://SecTemplates.com - simplified, free open-source templates to enable engineering and smaller security teams to bootstrap security capabilities for their organizations, (Tue, Feb 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/31696</link>
-      <pubDate>Tue, 18 Feb 2025 17:39:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get a Lifetime of 1TB Cloud Storage for Only $60 With FolderFort</title>
-      <link>https://www.techrepublic.com/article/folderfort-storage-pro-plan-lifetime-subscription/</link>
-      <pubDate>Tue, 18 Feb 2025 17:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>​​Join us for the end-to-end Microsoft RSAC 2025 Conference experience</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/02/18/join-us-for-the-end-to-end-microsoft-rsac-2025-conference-experience/</link>
-      <pubDate>Tue, 18 Feb 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenSSH Flaws Expose Systems to Critical Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/openssh-flaws-expose-systems/</link>
-      <pubDate>Tue, 18 Feb 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-linked APT group Winnti targets Japanese organizations since March 2024</title>
-      <link>https://securityaffairs.com/174353/apt/china-linked-apt-group-winnti-targets-japanese-orgs.html</link>
-      <pubDate>Tue, 18 Feb 2025 16:10:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>New OpenSSH Flaws Enable Man-in-the-Middle and DoS Attacks — Patch Now</title>
-      <link>https://thehackernews.com/2025/02/new-openssh-flaws-enable-man-in-middle.html</link>
-      <pubDate>Tue, 18 Feb 2025 15:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploit MAVInject.exe to Evade Detection in Targeted Cyber Attacks</title>
-      <link>https://thehackernews.com/2025/02/chinese-hackers-exploit-mavinjectexe-to.html</link>
-      <pubDate>Tue, 18 Feb 2025 15:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #38: AI proves time travel is impossible (but still can’t draw fingers)</title>
-      <link>https://grahamcluley.com/the-ai-fix-38/</link>
-      <pubDate>Tue, 18 Feb 2025 15:07:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
