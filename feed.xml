@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Feb 2025 22:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 01:35:51 +0000</lastBuildDate>
     <item>
-      <title>New Google ad tracking policy a ‘Pandora’s box’ for privacy, experts warn</title>
-      <link>https://therecord.media/new-google-tracking-pandoras-box</link>
-      <pubDate>Thu, 20 Feb 2025 22:09:17 +0000</pubDate>
+      <title>China-linked hackers target European healthcare orgs in suspected espionage campaign</title>
+      <link>https://therecord.media/china-linked-hackers-target-european-health-orgs</link>
+      <pubDate>Fri, 21 Feb 2025 01:12:05 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 20 Feb 2025 21:20:03 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2025 00:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tool update: sigs.py - added check mode, (Fri, Feb 21st)</title>
+      <link>https://isc.sans.edu/diary/rss/31706</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers</title>
+      <link>https://securityaffairs.com/174460/apt/salt-typhoon-custom-malware-jumbledpath-to-spy-u-s-telecom-providers.html</link>
+      <pubDate>Thu, 20 Feb 2025 23:17:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Google ad tracking policy a ‘Pandora’s box’ for privacy, experts warn</title>
+      <link>https://therecord.media/new-google-tracking-pandoras-box</link>
+      <pubDate>Thu, 20 Feb 2025 22:09:17 +0000</pubDate>
     </item>
     <item>
       <title>SecTopRAT bundled in Chrome installer distributed via Google Ads</title>
@@ -61,11 +76,6 @@
       <title>NailaoLocker ransomware targets EU healthcare-related entities</title>
       <link>https://securityaffairs.com/174440/malware/nailaolocker-ransomware-targets-eu-healthcare-related-entities.html</link>
       <pubDate>Thu, 20 Feb 2025 15:47:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>DOGE access to Social Security, IRS data could create privacy and security risks, experts say</title>
-      <link>https://therecord.media/doge-access-to-social-security-irs-data-poses-risks</link>
-      <pubDate>Thu, 20 Feb 2025 15:18:26 +0000</pubDate>
     </item>
     <item>
       <title>West Coast Cybersecurity Salaries Outshine Rest of Country</title>
@@ -128,8 +138,8 @@
       <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens SiPass Integrated</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-051-04</link>
+      <title>Rapid Response Monitoring My Security Account App</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-051-05</link>
       <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -138,18 +148,13 @@
       <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rapid Response Monitoring My Security Account App</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-051-05</link>
-      <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carrier Block Load</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-051-03</link>
-      <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Elseta Vinci Protocol Analyzer</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-051-06</link>
+      <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SiPass Integrated</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-051-04</link>
       <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -158,8 +163,8 @@
       <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Releases Eight Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/02/20/cisa-releases-eight-industrial-control-systems-advisories</link>
+      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/02/20/cisa-releases-seven-industrial-control-systems-advisories</link>
       <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Australian IVF Clinic Suffers Data Breach Following Cyber Incident</title>
       <link>https://www.infosecurity-magazine.com/news/australian-ivf-data-breach-cyber/</link>
       <pubDate>Wed, 19 Feb 2025 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Darktrace: 96% of Phishing Attacks in 2024 Exploited Trusted Domains Including SharePoint &amp; Zoom Docs</title>
-      <link>https://www.techrepublic.com/article/darktrace-threat-report/</link>
-      <pubDate>Wed, 19 Feb 2025 14:00:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
