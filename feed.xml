@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Feb 2025 14:17:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 16:24:42 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 21 Feb 2025 16:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple turns off iCloud encryption feature in UK following reported government legal order</title>
+      <link>https://therecord.media/apple-encryption-feature-off-britain</link>
+      <pubDate>Fri, 21 Feb 2025 15:59:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Implementing Cryptography in AI Systems</title>
+      <link>https://www.schneier.com/blog/archives/2025/02/implementing-cryptography-in-ai-systems.html</link>
+      <pubDate>Fri, 21 Feb 2025 15:33:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian hackers claim breach of Russian loan company linked to Putin’s ex-wife</title>
+      <link>https://therecord.media/russia-carmoney-data-breach-ukrainian-cyber-alliance</link>
+      <pubDate>Fri, 21 Feb 2025 15:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>German election targeted by Russian disinformation, security services warn</title>
+      <link>https://therecord.media/german-election-targeted-by-russian-disinformation</link>
+      <pubDate>Fri, 21 Feb 2025 14:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whistleblower lawyer Mark Zaid on the Trump administration's move to revoke security clearances</title>
+      <link>https://therecord.media/whistleblower-lawyer-mark-zaid-trump-administration-security-clearances</link>
+      <pubDate>Fri, 21 Feb 2025 14:43:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>B1ack’s Stash released 1 Million credit cards</title>
+      <link>https://securityaffairs.com/174488/cyber-crime/b1acks-stash-released-1-million-credit-cards.html</link>
+      <pubDate>Fri, 21 Feb 2025 14:41:14 +0000</pubDate>
+    </item>
     <item>
       <title>Salt Typhoon Exploited Cisco Devices With Custom Tool to Spy on US Telcos</title>
       <link>https://www.infosecurity-magazine.com/news/salt-typhoon-cisco-custom-tool/</link>
@@ -23,11 +58,6 @@
       <pubDate>Fri, 21 Feb 2025 13:40:54 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 21 Feb 2025 13:30:04 +0000</pubDate>
-    </item>
-    <item>
       <title>DoD Contractor Pays $11.2M over False Cyber Certifications Claims</title>
       <link>https://www.infosecurity-magazine.com/news/dod-contractor-pays-false-cyber/</link>
       <pubDate>Fri, 21 Feb 2025 13:30:00 +0000</pubDate>
@@ -36,11 +66,6 @@
       <title>Cybercriminals Can Now Clone Any Brand’s Site in Minutes Using Darcula PhaaS v3</title>
       <link>https://thehackernews.com/2025/02/cybercriminals-can-now-clone-any-brands.html</link>
       <pubDate>Fri, 21 Feb 2025 13:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Basta is latest ransomware group to be hit by leak of chat logs</title>
-      <link>https://therecord.media/black-basta-ransomware-group-chat-logs-leaked</link>
-      <pubDate>Fri, 21 Feb 2025 13:02:31 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-20059: Relative Path Traversal Vulnerability in Ping Identity PingAM Java Policy Agent</title>
@@ -98,11 +123,6 @@
       <pubDate>Fri, 21 Feb 2025 07:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>China-linked hackers target European healthcare orgs in suspected espionage campaign</title>
-      <link>https://therecord.media/china-linked-hackers-target-european-health-orgs</link>
-      <pubDate>Fri, 21 Feb 2025 01:12:05 +0000</pubDate>
-    </item>
-    <item>
       <title>ISC Stormcast For Friday, February 21st, 2025 https://isc.sans.edu/podcastdetail/9334, (Fri, Feb 21st)</title>
       <link>https://isc.sans.edu/diary/rss/31708</link>
       <pubDate>Fri, 21 Feb 2025 00:50:46 +0000</pubDate>
@@ -118,11 +138,6 @@
       <pubDate>Thu, 20 Feb 2025 23:17:10 +0000</pubDate>
     </item>
     <item>
-      <title>New Google ad tracking policy a ‘Pandora’s box’ for privacy, experts warn</title>
-      <link>https://therecord.media/new-google-tracking-pandoras-box</link>
-      <pubDate>Thu, 20 Feb 2025 22:09:17 +0000</pubDate>
-    </item>
-    <item>
       <title>SecTopRAT bundled in Chrome installer distributed via Google Ads</title>
       <link>https://www.malwarebytes.com/blog/cybercrime/2025/02/sectoprat-bundled-in-chrome-installer-distributed-via-google-ads</link>
       <pubDate>Thu, 20 Feb 2025 20:27:44 +0000</pubDate>
@@ -131,11 +146,6 @@
       <title>Efficiency? Security? When the quest for one grants neither.</title>
       <link>https://blog.talosintelligence.com/efficiency-security-when-the-quest-for-one-grants-neither/</link>
       <pubDate>Thu, 20 Feb 2025 19:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cryptominer hidden in pirated games lands mostly on Russian computers</title>
-      <link>https://therecord.media/xmrig-cryptominer-pirated-video-games-russia</link>
-      <pubDate>Thu, 20 Feb 2025 19:01:26 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft at Legalweek: Help safeguard your AI future with Microsoft Purview​</title>
@@ -296,16 +306,6 @@
       <title>CISA and FBI Warn of Global Threat from Ghost Ransomware</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-fbi-warn-global-threat-ghost/</link>
       <pubDate>Thu, 20 Feb 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Managed detection and response in 2024</title>
-      <link>https://securelist.com/kaspersky-managed-detection-and-response-report-2024/115635/</link>
-      <pubDate>Thu, 20 Feb 2025 08:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto Networks warns that CVE-2025-0111 flaw is actively exploited in attacks</title>
-      <link>https://securityaffairs.com/174409/hacking/palo-alto-networks-cve-2025-0111-actively-exploited.html</link>
-      <pubDate>Thu, 20 Feb 2025 06:32:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
