@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Feb 2025 01:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 02:50:45 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 21 Feb 2025 01:25:03 +0000</pubDate>
+    </item>
     <item>
       <title>China-linked hackers target European healthcare orgs in suspected espionage campaign</title>
       <link>https://therecord.media/china-linked-hackers-target-european-health-orgs</link>
       <pubDate>Fri, 21 Feb 2025 01:12:05 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 21 Feb 2025 00:25:03 +0000</pubDate>
+      <title>ISC Stormcast For Friday, February 21st, 2025 https://isc.sans.edu/podcastdetail/9334, (Fri, Feb 21st)</title>
+      <link>https://isc.sans.edu/diary/rss/31708</link>
+      <pubDate>Fri, 21 Feb 2025 00:50:46 +0000</pubDate>
     </item>
     <item>
       <title>Tool update: sigs.py - added check mode, (Fri, Feb 21st)</title>
@@ -301,11 +306,6 @@
       <title>Multiple Vulnerabilities Discovered in NVIDIA CUDA Toolkit</title>
       <link>https://unit42.paloaltonetworks.com/nvidia-cuda-toolkit-vulnerabilities/</link>
       <pubDate>Wed, 19 Feb 2025 14:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian IVF Clinic Suffers Data Breach Following Cyber Incident</title>
-      <link>https://www.infosecurity-magazine.com/news/australian-ivf-data-breach-cyber/</link>
-      <pubDate>Wed, 19 Feb 2025 14:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
