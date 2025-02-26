@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 02:52:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 04:25:10 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 26 Feb 2025 02:10:04 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2025 03:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Guest Diary] Malware Source Servers: The Threat of Attackers Using Ephemeral Ports as Service Ports to Upload Data, (Wed, Feb 26th)</title>
+      <link>https://isc.sans.edu/diary/rss/31710</link>
+      <pubDate>Wed, 26 Feb 2025 02:21:53 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, February 26th, 2025 https://isc.sans.edu/podcastdetail/9340, (Wed, Feb 26th)</title>
@@ -300,11 +305,6 @@
     <item>
       <title>Google Cloud KMS Adds Quantum-Safe Digital Signatures to Defend Against Future Threats</title>
       <link>https://thehackernews.com/2025/02/google-cloud-kms-adds-quantum-safe.html</link>
-      <pubDate>Mon, 24 Feb 2025 11:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Becoming Ransomware Ready: Why Continuous Validation Is Your Best Defense</title>
-      <link>https://thehackernews.com/2025/02/becoming-ransomware-ready-why.html</link>
       <pubDate>Mon, 24 Feb 2025 11:17:00 +0000</pubDate>
     </item>
   </channel>
