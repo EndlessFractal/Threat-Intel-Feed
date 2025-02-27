@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 08:26:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 10:21:29 +0000</lastBuildDate>
     <item>
-      <title>CrowdStrike Security Report: Generative AI Powers Social Engineering Attacks</title>
-      <link>https://www.techrepublic.com/article/crowdstrike-2025-global-threat-report/</link>
-      <pubDate>Thu, 27 Feb 2025 08:01:22 +0000</pubDate>
+      <title>Cellebrite blocked Serbia from using its solution because misuse of the equipment for political reasons</title>
+      <link>https://securityaffairs.com/174707/intelligence/cellebrite-blocked-serbia-from-using-its-solution-because-misuse-of-the-equipment-for-political-reasons.html</link>
+      <pubDate>Thu, 27 Feb 2025 09:41:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Confirms North Korea’s Lazarus Group as Bybit Crypto Hackers</title>
+      <link>https://www.infosecurity-magazine.com/news/fbi-confirms-north-koreas-lazarus/</link>
+      <pubDate>Thu, 27 Feb 2025 09:35:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 27 Feb 2025 07:25:03 +0000</pubDate>
+      <pubDate>Thu, 27 Feb 2025 09:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>PolarEdge Botnet Exploits Cisco and Other Flaws to Hijack ASUS, QNAP, and Synology Devices</title>
+      <link>https://thehackernews.com/2025/02/polaredge-botnet-exploits-cisco-and.html</link>
+      <pubDate>Thu, 27 Feb 2025 09:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DragonForce Ransomware group is targeting Saudi Arabia</title>
+      <link>https://securityaffairs.com/174717/cyber-crime/dragonforce-ransomware-group-is-targeting-saudi-arabia.html</link>
+      <pubDate>Thu, 27 Feb 2025 09:10:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Njrat Campaign Using Microsoft Dev Tunnels, (Thu, Feb 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/31724</link>
+      <pubDate>Thu, 27 Feb 2025 08:54:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Security Report: Generative AI Powers Social Engineering Attacks</title>
+      <link>https://www.techrepublic.com/article/crowdstrike-2025-global-threat-report/</link>
+      <pubDate>Thu, 27 Feb 2025 08:01:22 +0000</pubDate>
     </item>
     <item>
       <title>Bybit Hack Traced to Safe{Wallet} Supply Chain Attack Exploited by North Korean Hackers</title>
@@ -238,13 +263,13 @@
       <pubDate>Wed, 26 Feb 2025 06:27:27 +0000</pubDate>
     </item>
     <item>
-      <title>CrowdStrike Falcon Cloud Security Expands Support to Oracle Cloud Infrastructure</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-support-to-oracle-cloud-infrastructure/</link>
+      <title>CrowdStrike Extends Real-Time Protection for Microsoft Entra ID to Take on Identity-Based Attacks</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-real-time-protection-for-entra-id/</link>
       <pubDate>Wed, 26 Feb 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CrowdStrike Extends Real-Time Protection for Microsoft Entra ID to Take on Identity-Based Attacks</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-real-time-protection-for-entra-id/</link>
+      <title>CrowdStrike Falcon Cloud Security Expands Support to Oracle Cloud Infrastructure</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-support-to-oracle-cloud-infrastructure/</link>
       <pubDate>Wed, 26 Feb 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>LightSpy Expands to 100+ Commands, Increasing Control Over Windows, macOS, Linux, and Mobile</title>
       <link>https://thehackernews.com/2025/02/lightspy-expands-to-100-commands.html</link>
       <pubDate>Tue, 25 Feb 2025 16:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>61% of Hackers Use New Exploit Code Within 48 Hours of Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-use-exploit-code-within-48/</link>
-      <pubDate>Tue, 25 Feb 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Belarus-Linked Ghostwriter Uses Macropack-Obfuscated Excel Macros to Deploy Malware</title>
-      <link>https://thehackernews.com/2025/02/belarus-linked-ghostwriter-uses.html</link>
-      <pubDate>Tue, 25 Feb 2025 15:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ghostwriter Cyber-Attack Targets Ukrainian, Belarusian Opposition</title>
-      <link>https://www.infosecurity-magazine.com/news/ghostwriter-cyber-attack-targets/</link>
-      <pubDate>Tue, 25 Feb 2025 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #39: AIs value their lives over yours, and flattery gets you nowhere</title>
-      <link>https://grahamcluley.com/the-ai-fix-39/</link>
-      <pubDate>Tue, 25 Feb 2025 15:03:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, February 2025</title>
-      <link>https://asec.ahnlab.com/en/86520/</link>
-      <pubDate>Tue, 25 Feb 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
