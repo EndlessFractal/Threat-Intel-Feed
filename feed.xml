@@ -6,21 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 10:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 12:39:33 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 27 Feb 2025 12:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>16-30 November 2024 Cyber Attacks Timeline</title>
+      <link>https://www.hackmageddon.com/2025/02/27/16-30-november-2024-cyber-attacks-timeline/</link>
+      <pubDate>Thu, 27 Feb 2025 11:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lotus Blossom espionage group targets multiple industries with different versions of Sagerunex and hacking tools</title>
+      <link>https://blog.talosintelligence.com/lotus-blossom-espionage-group/</link>
+      <pubDate>Thu, 27 Feb 2025 11:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Squidoor: Suspected Chinese Threat Actor’s Backdoor Targets Global Organizations</title>
+      <link>https://unit42.paloaltonetworks.com/advanced-backdoor-squidoor/</link>
+      <pubDate>Thu, 27 Feb 2025 11:00:15 +0000</pubDate>
+    </item>
     <item>
       <title>Cellebrite blocked Serbia from using its solution because misuse of the equipment for political reasons</title>
       <link>https://securityaffairs.com/174707/intelligence/cellebrite-blocked-serbia-from-using-its-solution-because-misuse-of-the-equipment-for-political-reasons.html</link>
       <pubDate>Thu, 27 Feb 2025 09:41:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Confirms North Korea’s Lazarus Group as Bybit Crypto Hackers</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-confirms-north-koreas-lazarus/</link>
-      <pubDate>Thu, 27 Feb 2025 09:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 27 Feb 2025 09:25:04 +0000</pubDate>
     </item>
     <item>
       <title>PolarEdge Botnet Exploits Cisco and Other Flaws to Hijack ASUS, QNAP, and Synology Devices</title>
@@ -113,16 +123,6 @@
       <pubDate>Wed, 26 Feb 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>99% of Organizations Report API-Related Security Issues</title>
-      <link>https://www.infosecurity-magazine.com/news/99-organizations-report-api/</link>
-      <pubDate>Wed, 26 Feb 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DISA Global Solutions Confirms Data Breach Affecting 3.3M People</title>
-      <link>https://www.infosecurity-magazine.com/news/disa-global-solutions-confirms/</link>
-      <pubDate>Wed, 26 Feb 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New license expiration alerts help you avoid protection gaps</title>
       <link>https://news.sophos.com/en-us/2025/02/26/new-license-expiration-alerts-help-you-avoid-protection-gaps/</link>
       <pubDate>Wed, 26 Feb 2025 15:18:44 +0000</pubDate>
@@ -173,11 +173,6 @@
       <pubDate>Wed, 26 Feb 2025 13:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>Signal May Exit Sweden If Government Imposes Encryption Backdoor</title>
-      <link>https://www.infosecurity-magazine.com/news/signal-exit-sweden-government/</link>
-      <pubDate>Wed, 26 Feb 2025 12:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>An iCloud Backdoor Would Make Our Phones Less Safe</title>
       <link>https://www.schneier.com/blog/archives/2025/02/an-icloud-backdoor-would-make-our-phones-less-safe.html</link>
       <pubDate>Wed, 26 Feb 2025 12:07:53 +0000</pubDate>
@@ -208,11 +203,6 @@
       <pubDate>Wed, 26 Feb 2025 11:00:59 +0000</pubDate>
     </item>
     <item>
-      <title>HaveIBeenPwned Adds 244 Million Passwords Stolen By Infostealers</title>
-      <link>https://www.infosecurity-magazine.com/news/haveibeenpwned-244-million/</link>
-      <pubDate>Wed, 26 Feb 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Three Password Cracking Techniques and How to Defend Against Them</title>
       <link>https://thehackernews.com/2025/02/three-password-cracking-techniques-and.html</link>
       <pubDate>Wed, 26 Feb 2025 10:56:00 +0000</pubDate>
@@ -228,11 +218,6 @@
       <pubDate>Wed, 26 Feb 2025 10:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware Gang Publishes Stolen Genea IVF Patient Data</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-genea-ivf-patient-data/</link>
-      <pubDate>Wed, 26 Feb 2025 10:40:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Malicious PyPI Package "automslc" Enables 104K+ Unauthorized Deezer Music Downloads</title>
       <link>https://thehackernews.com/2025/02/malicious-pypi-package-automslc-enables.html</link>
       <pubDate>Wed, 26 Feb 2025 10:40:00 +0000</pubDate>
@@ -246,11 +231,6 @@
       <title>New LightSpy spyware variant comes with enhanced data collection features targeting social media platforms</title>
       <link>https://securityaffairs.com/174674/malware/new-lightspy-spyware-variant-data-collection-targets-social-media-platforms.html</link>
       <pubDate>Wed, 26 Feb 2025 09:46:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geopolitical Tension Fuels APT and Hacktivism Surge</title>
-      <link>https://www.infosecurity-magazine.com/news/geopolitical-tension-fuels-apt/</link>
-      <pubDate>Wed, 26 Feb 2025 09:45:00 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds Microsoft Partner Center and Synacor Zimbra Collaboration Suite flaws to its Known Exploited Vulnerabilities catalog</title>
@@ -306,6 +286,26 @@
       <title>LightSpy Expands to 100+ Commands, Increasing Control Over Windows, macOS, Linux, and Mobile</title>
       <link>https://thehackernews.com/2025/02/lightspy-expands-to-100-commands.html</link>
       <pubDate>Tue, 25 Feb 2025 16:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Belarus-Linked Ghostwriter Uses Macropack-Obfuscated Excel Macros to Deploy Malware</title>
+      <link>https://thehackernews.com/2025/02/belarus-linked-ghostwriter-uses.html</link>
+      <pubDate>Tue, 25 Feb 2025 15:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #39: AIs value their lives over yours, and flattery gets you nowhere</title>
+      <link>https://grahamcluley.com/the-ai-fix-39/</link>
+      <pubDate>Tue, 25 Feb 2025 15:03:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 4, February 2025</title>
+      <link>https://asec.ahnlab.com/en/86520/</link>
+      <pubDate>Tue, 25 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU sanctioned the leader of North Korea-linked APT groups</title>
+      <link>https://securityaffairs.com/174622/security/eu-sanctioned-the-leader-of-north-korea-linked-apt-groups.html</link>
+      <pubDate>Tue, 25 Feb 2025 14:42:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
