@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 16:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 18:28:09 +0000</lastBuildDate>
+    <item>
+      <title>“Emergent Misalignment” in LLMs</title>
+      <link>https://www.schneier.com/blog/archives/2025/02/emergent-misalignment-in-llms.html</link>
+      <pubDate>Thu, 27 Feb 2025 18:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warning issued as hackers offer firms fake cybersecurity audits to break into their systems</title>
+      <link>https://www.tripwire.com/state-of-security/beware-fake-cybersecurity-audits-cybercriminals-use-scams-breach-corporate</link>
+      <pubDate>Thu, 27 Feb 2025 18:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 27 Feb 2025 17:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>DragonForce Ransomware Hits Saudi Firm, 6TB Data Stolen</title>
+      <link>https://www.infosecurity-magazine.com/news/6tb-data-stolen-saudi-cyber-attack/</link>
+      <pubDate>Thu, 27 Feb 2025 16:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Winos 4.0 Malware Targets Taiwan With Email Impersonation</title>
       <link>https://www.infosecurity-magazine.com/news/winos-40-malware-targets-taiwan/</link>
@@ -36,11 +56,6 @@
       <title>Countries and companies are fighting at the expense of our data privacy</title>
       <link>https://www.malwarebytes.com/blog/news/2025/02/countries-and-companies-are-fighting-at-the-expense-of-our-data-privacy</link>
       <pubDate>Thu, 27 Feb 2025 14:59:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 27 Feb 2025 14:30:04 +0000</pubDate>
     </item>
     <item>
       <title>Quantifying ROI: Understanding the impact of cybersecurity products and services on cyber insurance claims</title>
@@ -81,6 +96,21 @@
       <title>Software Vulnerabilities Take Almost Nine Months to Patch</title>
       <link>https://www.infosecurity-magazine.com/news/software-vulnerabilities-nine/</link>
       <pubDate>Thu, 27 Feb 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dario Health USB-C Blood Glucose Monitoring System Starter Kit Android Application</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-058-01</link>
+      <pubDate>Thu, 27 Feb 2025 12:53:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric Communication Modules for Modicon M580 and Quantum Controllers</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-058-01</link>
+      <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/02/27/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chinese Cyber Espionage Jumps 150%, CrowdStrike Finds</title>
@@ -276,36 +306,6 @@
       <title>SOC 3.0 - The Evolution of the SOC and How AI is Empowering Human Talent</title>
       <link>https://thehackernews.com/2025/02/soc-30-evolution-of-soc-and-how-ai-is.html</link>
       <pubDate>Wed, 26 Feb 2025 11:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Linux Malware ‘Auto-Color’ Grants Hackers Full Remote Access to Compromised Systems</title>
-      <link>https://thehackernews.com/2025/02/new-linux-malware-auto-color-grants.html</link>
-      <pubDate>Wed, 26 Feb 2025 11:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RustDoor and Koi Stealer for macOS Used by North Korea-Linked Threat Actor to Target the Cryptocurrency Sector</title>
-      <link>https://unit42.paloaltonetworks.com/macos-malware-targets-crypto-sector/</link>
-      <pubDate>Wed, 26 Feb 2025 11:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>HaveIBeenPwned Adds 244 Million Passwords Stolen By Infostealers</title>
-      <link>https://www.infosecurity-magazine.com/news/haveibeenpwned-244-million/</link>
-      <pubDate>Wed, 26 Feb 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three Password Cracking Techniques and How to Defend Against Them</title>
-      <link>https://thehackernews.com/2025/02/three-password-cracking-techniques-and.html</link>
-      <pubDate>Wed, 26 Feb 2025 10:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0173 Activity Detection: Hackers Launch Phishing Attacks Against Ukrainian Notaries Using the DARKCRYSTALRAT Malware</title>
-      <link>https://socprime.com/blog/detect-uac-0173-attacks-against-ukrainian-notaries/</link>
-      <pubDate>Wed, 26 Feb 2025 10:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>CERT-UA Warns of UAC-0173 Attacks Deploying DCRat to Compromise Ukrainian Notaries</title>
-      <link>https://thehackernews.com/2025/02/cert-ua-warns-of-uac-0173-attacks.html</link>
-      <pubDate>Wed, 26 Feb 2025 10:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
