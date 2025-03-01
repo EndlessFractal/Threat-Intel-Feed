@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Mar 2025 18:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 20:19:41 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 01 Mar 2025 18:00:04 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 19:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware gangs exploit a Paragon Partition Manager BioNTdrv.sys driver zero-day</title>
+      <link>https://securityaffairs.com/174789/cyber-crime/ransomware-gangs-paragon-partition-manager-biontdrv-sys-driver-zero-day-attacks.html</link>
+      <pubDate>Sat, 01 Mar 2025 18:52:51 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft disrupted a global cybercrime ring abusing Azure OpenAI Service</title>
@@ -301,11 +306,6 @@
       <title>Squidoor: Suspected Chinese Threat Actor’s Backdoor Targets Global Organizations</title>
       <link>https://unit42.paloaltonetworks.com/advanced-backdoor-squidoor/</link>
       <pubDate>Thu, 27 Feb 2025 11:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenSSF Publishes Security Framework for Open Source Software</title>
-      <link>https://www.infosecurity-magazine.com/news/openssf-security-framework-open/</link>
-      <pubDate>Thu, 27 Feb 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
