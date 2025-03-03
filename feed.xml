@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Mar 2025 14:19:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 16:24:37 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 03 Mar 2025 15:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polish space agency investigates cyberattack on its systems</title>
+      <link>https://therecord.media/poland-space-cyberattack-agency-investigate</link>
+      <pubDate>Mon, 03 Mar 2025 15:02:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Denies Reports of Shift in Cybersecurity Posture Amid Russian Threats</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-denies-report-russian-threats/</link>
+      <pubDate>Mon, 03 Mar 2025 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Authorities recovered $31 Million Related to 2021 Uranium Finance cyber heist</title>
+      <link>https://securityaffairs.com/174845/cyber-crime/u-s-authorities-recovered-31-million-uranium-finance.html</link>
+      <pubDate>Mon, 03 Mar 2025 14:29:05 +0000</pubDate>
+    </item>
     <item>
       <title>Phishing Campaign Uses Havoc Framework to Control Infected Systems</title>
       <link>https://www.infosecurity-magazine.com/news/phishing-campaign-havoc-framework/</link>
@@ -15,6 +35,11 @@
     <item>
       <title>Hackers Use ClickFix Trick to Deploy PowerShell-Based Havoc C2 via SharePoint Sites</title>
       <link>https://thehackernews.com/2025/03/hackers-use-clickfix-trick-to-deploy.html</link>
+      <pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Havoc: SharePoint with Microsoft Graph API turns into FUD C2</title>
+      <link>https://feeds.fortinet.com/~/914122493/0/fortinet/blog/threat-research~Havoc-SharePoint-with-Microsoft-Graph-API-turns-into-FUD-C</link>
       <pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -41,11 +66,6 @@
       <title>Finland releases Russian ‘spy’ ship but continues to detain three crew members as suspects</title>
       <link>https://therecord.media/finland-eagle-s-tanker-released-3-crew-still-detained</link>
       <pubDate>Mon, 03 Mar 2025 12:46:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 03 Mar 2025 12:20:04 +0000</pubDate>
     </item>
     <item>
       <title>Vodafone Trials Quantum-Safe Tech to Protect Smartphone Browsing</title>
@@ -208,11 +228,6 @@
       <pubDate>Fri, 28 Feb 2025 15:20:35 +0000</pubDate>
     </item>
     <item>
-      <title>Global crackdown on AI-generated child sexual abuse material leads to 25 arrests</title>
-      <link>https://therecord.media/csam-ai-arrests-europol</link>
-      <pubDate>Fri, 28 Feb 2025 14:59:20 +0000</pubDate>
-    </item>
-    <item>
       <title>RDP: a Double-Edged Sword for IT Teams – Essential Yet Exploitable</title>
       <link>https://thehackernews.com/2025/02/rdp-double-edged-sword-for-it-teams.html</link>
       <pubDate>Fri, 28 Feb 2025 14:23:00 +0000</pubDate>
@@ -258,11 +273,6 @@
       <pubDate>Fri, 28 Feb 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cisco fixed command injection and DoS flaws in Nexus switches</title>
-      <link>https://securityaffairs.com/174753/security/cisco-fixed-command-injection-and-dos-flaws-in-nexus-switches.html</link>
-      <pubDate>Fri, 28 Feb 2025 11:59:31 +0000</pubDate>
-    </item>
-    <item>
       <title>JavaGhost’s Persistent Phishing Attacks From the Cloud</title>
       <link>https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/</link>
       <pubDate>Fri, 28 Feb 2025 11:00:56 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Weekly Update 441</title>
       <link>https://www.troyhunt.com/weekly-update-441/</link>
       <pubDate>Fri, 28 Feb 2025 04:37:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The SOC files: Chasing the web shell</title>
-      <link>https://securelist.com/soc-files-web-shell-chase/115714/</link>
-      <pubDate>Fri, 28 Feb 2025 04:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>PayPal’s “no-code checkout” abused by scammers</title>
-      <link>https://www.malwarebytes.com/blog/scams/2025/02/paypals-no-code-checkout-abused-by-scammers</link>
-      <pubDate>Fri, 28 Feb 2025 02:31:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
