@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Mar 2025 22:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 01:38:32 +0000</lastBuildDate>
+    <item>
+      <title>Google Cuts Off uBlock Origin on Chrome as Firefox Stands Firm on Ad Blockers</title>
+      <link>https://www.techrepublic.com/article/chrome-extension-firefox-ublock-origin/</link>
+      <pubDate>Wed, 05 Mar 2025 00:11:59 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 04 Mar 2025 21:45:03 +0000</pubDate>
+      <pubDate>Tue, 04 Mar 2025 23:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware fixed three actively exploited zero-days in ESX products</title>
+      <link>https://securityaffairs.com/174911/security/vmware-fixed-three-actively-exploited-zero-days-in-esx-products.html</link>
+      <pubDate>Tue, 04 Mar 2025 23:39:27 +0000</pubDate>
     </item>
     <item>
       <title>CISA, VMware warn of new vulnerabilities being exploited by hackers</title>
@@ -88,6 +98,11 @@
       <pubDate>Tue, 04 Mar 2025 15:14:11 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Detection Rule (YARA and Snort) Information – Week 1, March 2025</title>
+      <link>https://asec.ahnlab.com/en/86614/</link>
+      <pubDate>Tue, 04 Mar 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>VMware Security Flaws Exploited in the Wild—Broadcom Releases Urgent Patches</title>
       <link>https://thehackernews.com/2025/03/vmware-security-flaws-exploited-in.html</link>
       <pubDate>Tue, 04 Mar 2025 14:13:00 +0000</pubDate>
@@ -130,6 +145,11 @@
     <item>
       <title>Franklin Resident Convicted of Multiple Cyber Stalking Charges</title>
       <link>https://www.justice.gov/usao-mdtn/pr/franklin-resident-convicted-multiple-cyber-stalking-charges</link>
+      <pubDate>Tue, 04 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leader of $1.4 million bank fraud and identity theft scheme pleads guilty to victimizing bank customers nationwide</title>
+      <link>https://www.justice.gov/usao-wdwa/pr/leader-14-million-bank-fraud-and-identity-theft-scheme-pleads-guilty-victimizing-bank</link>
       <pubDate>Tue, 04 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Phishing Campaign Uses Havoc Framework to Control Infected Systems</title>
       <link>https://www.infosecurity-magazine.com/news/phishing-campaign-havoc-framework/</link>
       <pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use ClickFix Trick to Deploy PowerShell-Based Havoc C2 via SharePoint Sites</title>
-      <link>https://thehackernews.com/2025/03/hackers-use-clickfix-trick-to-deploy.html</link>
-      <pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Havoc: SharePoint with Microsoft Graph API turns into FUD C2</title>
-      <link>https://feeds.fortinet.com/~/914122493/0/fortinet/blog/threat-research~Havoc-SharePoint-with-Microsoft-Graph-API-turns-into-FUD-C</link>
-      <pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Paragon Partition Manager Driver Vulnerability in Ransomware Attacks</title>
-      <link>https://thehackernews.com/2025/03/hackers-exploit-paragon-partition.html</link>
-      <pubDate>Mon, 03 Mar 2025 13:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.K. ICO Investigates TikTok, Reddit, and Imgur Over Children's Data Protection Practices</title>
-      <link>https://thehackernews.com/2025/03/uk-ico-investigates-tiktok-reddit-and.html</link>
-      <pubDate>Mon, 03 Mar 2025 13:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
