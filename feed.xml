@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Mar 2025 06:28:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 08:26:13 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 06 Mar 2025 05:05:03 +0000</pubDate>
+      <pubDate>Thu, 06 Mar 2025 07:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Charges 12 Chinese Nationals in State-Backed Hacking Operations</title>
+      <link>https://thehackernews.com/2025/03/us-charges-12-chinese-nationals-in.html</link>
+      <pubDate>Thu, 06 Mar 2025 06:40:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, March 6th, 2025 https://isc.sans.edu/podcastdetail/9352, (Thu, Mar 6th)</title>
@@ -76,6 +81,11 @@
       <title>Hunters International gang claims the theft of 1.4 TB of data allegedly stolen from Tata Technologies</title>
       <link>https://securityaffairs.com/174953/data-breach/ransomware-group-hunters-international-claims-to-have-hacked-tata-technologies.html</link>
       <pubDate>Wed, 05 Mar 2025 15:18:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, March 2025</title>
+      <link>https://asec.ahnlab.com/en/86643/</link>
+      <pubDate>Wed, 05 Mar 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nonprofits Face Surge in Cyber-Attacks as Email Threats Rise 35%</title>
@@ -208,6 +218,11 @@
       <pubDate>Wed, 05 Mar 2025 06:09:40 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Falcon Cloud Security Introduces Application Context to Runtime Detections</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-application-context-runtime-detections/</link>
+      <pubDate>Wed, 05 Mar 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Wednesday, March 5th, 2025 https://isc.sans.edu/podcastdetail/9350, (Wed, Mar 5th)</title>
       <link>https://isc.sans.edu/diary/rss/31740</link>
       <pubDate>Wed, 05 Mar 2025 02:00:02 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Google fixed two actively exploited Android flaws</title>
       <link>https://securityaffairs.com/174887/hacking/google-fixed-android-actively-exploited-flaws.html</link>
       <pubDate>Tue, 04 Mar 2025 13:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Use KeePass: Step-by-Step Guide</title>
-      <link>https://www.techrepublic.com/article/how-to-use-keepass/</link>
-      <pubDate>Tue, 04 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA refutes claims it has been ordered to stop monitoring Russian cyber threats</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/cisa-refutes-ordered-stop-monitoring-russian-cyber-threats</link>
-      <pubDate>Tue, 04 Mar 2025 12:46:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Fake IT Workers Leverage GitHub to Build Jobseeker Personas</title>
-      <link>https://www.infosecurity-magazine.com/news/north-korean-fake-it-workers-github/</link>
-      <pubDate>Tue, 04 Mar 2025 12:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
