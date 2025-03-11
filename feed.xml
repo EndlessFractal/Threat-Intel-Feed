@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 14:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 16:27:25 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 11 Mar 2025 15:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #41: Can AIs be psychopaths, and why we should be AI optimists</title>
+      <link>https://grahamcluley.com/the-ai-fix-41/</link>
+      <pubDate>Tue, 11 Mar 2025 15:13:13 +0000</pubDate>
+    </item>
     <item>
       <title>Trump nominates Sean Plankey to run top US cyber agency</title>
       <link>https://therecord.media/plankey-nominated-to-run-cisa</link>
@@ -43,14 +53,24 @@
       <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Schneider Electric Uni-Telway Driver</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-070-01</link>
+      <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optigo Networks Visual BACnet Capture Tool/Optigo Visual Networks Capture Tool</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-070-02</link>
+      <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/03/11/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SOC Prime Announces Referral Program for Individual Cyber Defenders</title>
       <link>https://socprime.com/blog/soc-prime-referral-program/</link>
       <pubDate>Tue, 11 Mar 2025 11:42:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 11 Mar 2025 11:25:03 +0000</pubDate>
     </item>
     <item>
       <title>Your Risk Scores Are Lying: Adversarial Exposure Validation Exposes Real Threats</title>
@@ -286,26 +306,6 @@
       <title>Number of Unauthorized Cobalt Strike Copies Plummets 80%</title>
       <link>https://www.infosecurity-magazine.com/news/number-unauthorized-cobalt-strike/</link>
       <pubDate>Mon, 10 Mar 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shellcode Encoded in UUIDs, (Mon, Mar 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/31752</link>
-      <pubDate>Mon, 10 Mar 2025 08:23:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feds seized $23 million in crypto stolen using keys from LastPass breaches</title>
-      <link>https://securityaffairs.com/175156/cyber-crime/feds-seized-23-million-in-crypto-stolen-using-keys-from-lastpass-breaches.html</link>
-      <pubDate>Mon, 10 Mar 2025 08:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malwarebytes Premium Security awarded “Product of the Year” from AVLab</title>
-      <link>https://www.malwarebytes.com/blog/personal/2025/03/malwarebytes-premium-security-awarded-product-of-the-year-from-avlab</link>
-      <pubDate>Mon, 10 Mar 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SilentCryptoMiner Infects 2,000 Russian Users via Fake VPN and DPI Bypass Tools</title>
-      <link>https://thehackernews.com/2025/03/silentcryptominer-infects-2000-russian.html</link>
-      <pubDate>Mon, 10 Mar 2025 04:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
