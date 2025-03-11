@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 10:22:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 12:40:52 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2025-27840: Vulnerability Exploitation in Espressif ESP32 Bluetooth Chips Can Lead to Unauthorized Access to Devices</title>
+      <link>https://socprime.com/blog/cve-2025-27840-vulnerability-in-esp32-bluetooth-chips/</link>
+      <pubDate>Tue, 11 Mar 2025 12:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use NordPass: A Step-by-Step Guide</title>
+      <link>https://www.techrepublic.com/article/how-to-use-nordpass/</link>
+      <pubDate>Tue, 11 Mar 2025 12:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Urges All Organizations to Patch Exploited Critical Ivanti Vulnerabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-kev-ivanti-critical/</link>
+      <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOC Prime Announces Referral Program for Individual Cyber Defenders</title>
+      <link>https://socprime.com/blog/soc-prime-referral-program/</link>
+      <pubDate>Tue, 11 Mar 2025 11:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Risk Scores Are Lying: Adversarial Exposure Validation Exposes Real Threats</title>
+      <link>https://thehackernews.com/2025/03/your-risk-scores-are-lying-adversarial.html</link>
+      <pubDate>Tue, 11 Mar 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SideWinder APT targets maritime and nuclear sectors with enhanced toolset</title>
+      <link>https://securityaffairs.com/175247/apt/sidewinder-apt-targets-maritime-nuclear-sectors.html</link>
+      <pubDate>Tue, 11 Mar 2025 11:22:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Record Number of Girls Compete in CyberFirst Contest</title>
+      <link>https://www.infosecurity-magazine.com/news/record-number-girls-compete/</link>
+      <pubDate>Tue, 11 Mar 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steganography Explained: How XWorm Hides Inside Images</title>
+      <link>https://thehackernews.com/2025/03/steganography-explained-how-xworm-hides.html</link>
+      <pubDate>Tue, 11 Mar 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 11 Mar 2025 10:15:04 +0000</pubDate>
+    </item>
     <item>
       <title>DCRat backdoor returns</title>
       <link>https://securelist.com/new-wave-of-attacks-with-dcrat-backdoor-distributed-by-maas/115850/</link>
@@ -16,11 +61,6 @@
       <title>DDoS Blamed as X Suffers Multiple Outages</title>
       <link>https://www.infosecurity-magazine.com/news/ddos-blamed-x-suffers-multiple/</link>
       <pubDate>Tue, 11 Mar 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 11 Mar 2025 08:20:03 +0000</pubDate>
     </item>
     <item>
       <title>Stay on course: Intelligence compass aligns threats with your business</title>
@@ -266,46 +306,6 @@
       <title>Undocumented hidden feature found in Espressif ESP32 microchip</title>
       <link>https://securityaffairs.com/175102/hacking/undocumented-hidden-feature-espressif-esp32-microchip.html</link>
       <pubDate>Sun, 09 Mar 2025 14:55:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 36</title>
-      <link>https://securityaffairs.com/175124/malware/security-affairs-malware-newsletter-round-36.html</link>
-      <pubDate>Sun, 09 Mar 2025 11:35:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grading CISOs: Effective Metrics and Personal Growth Strategies</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/grading-cisos-effective-metrics-and-personal-growth-strategies</link>
-      <pubDate>Sun, 09 Mar 2025 09:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 442</title>
-      <link>https://www.troyhunt.com/weekly-update-442/</link>
-      <pubDate>Sat, 08 Mar 2025 08:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feds Link $150M Cyberheist to 2022 LastPass Hacks</title>
-      <link>https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/</link>
-      <pubDate>Sat, 08 Mar 2025 01:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Squid Loyalty Cards</title>
-      <link>https://www.schneier.com/blog/archives/2025/03/friday-squid-blogging-squid-loyalty-cards.html</link>
-      <pubDate>Fri, 07 Mar 2025 22:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Women Are Breaking Into Cybersecurity, But Losing Jobs Faster Than Men</title>
-      <link>https://www.techrepublic.com/article/women-in-cyber-security-2024-isc2/</link>
-      <pubDate>Fri, 07 Mar 2025 18:28:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rayhunter: Device to Detect Cellular Surveillance</title>
-      <link>https://www.schneier.com/blog/archives/2025/03/rayhunter-device-to-detect-cellular-surveillance.html</link>
-      <pubDate>Fri, 07 Mar 2025 17:03:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celebrating the Women of SentinelOne</title>
-      <link>https://www.sentinelone.com/blog/celebrating-the-women-of-sentinelone/</link>
-      <pubDate>Fri, 07 Mar 2025 16:45:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
