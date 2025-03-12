@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 14:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 16:26:49 +0000</lastBuildDate>
+    <item>
+      <title>Europe urged to seize ‘opportunity’ by replacing US funding for Ukraine cyber defense</title>
+      <link>https://therecord.media/europe-opportunity-tallinn-funding-replace</link>
+      <pubDate>Wed, 12 Mar 2025 16:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 12 Mar 2025 16:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Man found guilty of planting infinite loop logic bomb on ex-employer’s system</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/man-found-guilty-of-planting-infinite-loop-logic-bomb-on-ex-employers-system</link>
+      <pubDate>Wed, 12 Mar 2025 15:53:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spyware in bogus Android apps is attributed to North Korean group</title>
+      <link>https://therecord.media/north-korea-malware-android-apps-kospy-apt37-scarcruft</link>
+      <pubDate>Wed, 12 Mar 2025 15:11:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Signal no longer cooperating with Ukraine on Russian cyber threats, official says</title>
+      <link>https://therecord.media/signal-no-longer-cooperating-with-ukraine</link>
+      <pubDate>Wed, 12 Mar 2025 14:48:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scans for VMWare Hybrid Cloud Extension (HCX) API (Log4j - not brute forcing), (Wed, Mar 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/31762</link>
+      <pubDate>Wed, 12 Mar 2025 14:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Machine Identities Outnumber Humans Increasing Risk Seven-Fold</title>
+      <link>https://www.infosecurity-magazine.com/news/machine-identities-outnumber/</link>
+      <pubDate>Wed, 12 Mar 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Breach Juniper Networks Routers With Custom Backdoors and Rootkits</title>
+      <link>https://thehackernews.com/2025/03/chinese-hackers-breach-juniper-networks.html</link>
+      <pubDate>Wed, 12 Mar 2025 14:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chinese Hackers Implant Backdoor Malware on Juniper Routers</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-backdoor-malware-juniper/</link>
@@ -41,11 +81,6 @@
       <title>Little fires everywhere for March Patch Tuesday</title>
       <link>https://news.sophos.com/en-us/2025/03/12/little-fires-everywhere-for-march-patch-tuesday/</link>
       <pubDate>Wed, 12 Mar 2025 11:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 12 Mar 2025 11:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Android devices track you before you even sign in</title>
@@ -113,7 +148,7 @@
       <pubDate>Tue, 11 Mar 2025 19:56:15 +0000</pubDate>
     </item>
     <item>
-      <title>Previously unidentified botnet infects unpatched TP-Link Archer home routers</title>
+      <title>Previously unidentified botnet targets unpatched TP-Link Archer home routers</title>
       <link>https://therecord.media/ballista-botnet-tp-link-archer-routers</link>
       <pubDate>Tue, 11 Mar 2025 19:33:40 +0000</pubDate>
     </item>
@@ -271,41 +306,6 @@
       <title>U.S. CISA adds Advantive VeraCore and Ivanti EPM flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/175232/breaking-news/u-s-cisa-adds-advantive-veracore-and-ivanti-epm-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Tue, 11 Mar 2025 07:57:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Challenges in Cross-Border Data Transfers and Regulatory Compliance Strategies</title>
-      <link>https://securityaffairs.com/175223/security/cybersecurity-challenges-in-cross-border-data-transfers-and-regulatory-compliance-strategies.html</link>
-      <pubDate>Tue, 11 Mar 2025 07:22:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>SideWinder APT Targets Maritime, Nuclear, and IT Sectors Across Asia, Middle East, and Africa</title>
-      <link>https://thehackernews.com/2025/03/sidewinder-apt-targets-maritime-nuclear.html</link>
-      <pubDate>Tue, 11 Mar 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global Pressure Mounts for Apple as Brazilian Court Demands iOS Sideloading Within 90 Days</title>
-      <link>https://www.techrepublic.com/article/brazil-apple-ios-sideloading/</link>
-      <pubDate>Tue, 11 Mar 2025 06:55:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moxa Issues Fix for Critical Authentication Bypass Vulnerability in PT Switches</title>
-      <link>https://thehackernews.com/2025/03/moxa-issues-fix-for-critical.html</link>
-      <pubDate>Tue, 11 Mar 2025 06:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2025 Patch Tuesday: Seven Zero-Days and Six Critical Vulnerabilities Among 57 CVEs</title>
-      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2025/</link>
-      <pubDate>Tue, 11 Mar 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Five Actively Exploited Vulnerabilities in Advantive VeraCore and Ivanti EPM to KEV List</title>
-      <link>https://thehackernews.com/2025/03/cisa-adds-five-actively-exploited.html</link>
-      <pubDate>Tue, 11 Mar 2025 03:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, March 11th, 2025 https://isc.sans.edu/podcastdetail/9358, (Tue, Mar 11th)</title>
-      <link>https://isc.sans.edu/diary/rss/31754</link>
-      <pubDate>Tue, 11 Mar 2025 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
