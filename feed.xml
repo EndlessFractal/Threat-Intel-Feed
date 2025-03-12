@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 18:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 20:22:21 +0000</lastBuildDate>
+    <item>
+      <title>CISA: More than 300 critical infrastructure orgs attacked by Medusa ransomware</title>
+      <link>https://therecord.media/medusa-ransomware-targeting-critical-infrastructure-orgs</link>
+      <pubDate>Wed, 12 Mar 2025 20:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds six Microsoft Windows flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/175298/hacking/u-s-cisa-adds-six-microsoft-windows-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 12 Mar 2025 19:18:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday: Microsoft Fixes 57 Security Flaws – Including Active Zero-Days</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-patch-tuesday-march-2025/</link>
+      <pubDate>Wed, 12 Mar 2025 19:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volt Typhoon hackers were in Massachusetts utility’s systems for 10 months</title>
+      <link>https://therecord.media/volt-typhoon-hackers-utility-months</link>
+      <pubDate>Wed, 12 Mar 2025 18:51:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday security updates for March 2025 fix six actively exploited zero-days</title>
+      <link>https://securityaffairs.com/175289/hacking/microsoft-patch-tuesday-security-updates-for-march-2025.html</link>
+      <pubDate>Wed, 12 Mar 2025 18:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 12 Mar 2025 18:05:04 +0000</pubDate>
+    </item>
     <item>
       <title>ISACA London Chapter's E-Voting System Comes Under Scrutiny</title>
       <link>https://www.infosecurity-magazine.com/news/isaca-london-chapter-evoting/</link>
@@ -21,11 +51,6 @@
       <title>Update your iPhone now: Apple patches vulnerability used in “extremely sophisticated attacks”</title>
       <link>https://www.malwarebytes.com/blog/news/2025/03/update-your-iphone-now-apple-patches-vulnerability-used-in-extremely-sophisticated-attacks</link>
       <pubDate>Wed, 12 Mar 2025 17:07:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 12 Mar 2025 17:05:03 +0000</pubDate>
     </item>
     <item>
       <title>iOS 18.3.2 Patches Actively Exploited WebKit Vulnerability</title>
@@ -51,11 +76,6 @@
       <title>Spyware in bogus Android apps is attributed to North Korean group</title>
       <link>https://therecord.media/north-korea-malware-android-apps-kospy-apt37-scarcruft</link>
       <pubDate>Wed, 12 Mar 2025 15:11:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signal no longer cooperating with Ukraine on Russian cyberthreats, official says</title>
-      <link>https://therecord.media/signal-no-longer-cooperating-with-ukraine</link>
-      <pubDate>Wed, 12 Mar 2025 14:48:12 +0000</pubDate>
     </item>
     <item>
       <title>Scans for VMWare Hybrid Cloud Extension (HCX) API (Log4j - not brute forcing), (Wed, Mar 12th)</title>
@@ -91,6 +111,11 @@
       <title>CVE-2025-24201 Exploitation: Apple Fixes the WebKit Zero-Day Vulnerability Used in Sophisticated Attacks</title>
       <link>https://socprime.com/blog/cve-2025-24201-webkit-zeroday-vulnerability/</link>
       <pubDate>Wed, 12 Mar 2025 12:56:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Former employee of an online car sales company sentenced to more than 11 years in prison for $2 million embezzlement and absconding before sentencing</title>
+      <link>https://www.justice.gov/usao-wdwa/pr/former-employee-online-car-sales-company-sentenced-more-11-years-prison-2-million</link>
+      <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA and Partners Release Cybersecurity Advisory on Medusa Ransomware</title>
@@ -176,11 +201,6 @@
       <title>Soft-Launching and Open Sourcing the Have I Been Pwned Rebrand</title>
       <link>https://www.troyhunt.com/soft-launching-and-open-sourcing-the-have-i-been-pwned-rebrand/</link>
       <pubDate>Tue, 11 Mar 2025 19:56:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Previously unidentified botnet targets unpatched TP-Link Archer home routers</title>
-      <link>https://therecord.media/ballista-botnet-tp-link-archer-routers</link>
-      <pubDate>Tue, 11 Mar 2025 19:33:40 +0000</pubDate>
     </item>
     <item>
       <title>Switzerland’s NCSC requires cyberattack reporting for critical infrastructure within 24 hours</title>
@@ -286,26 +306,6 @@
       <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/03/11/cisa-adds-six-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/03/11/cisa-releases-two-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOC Prime Announces Referral Program for Individual Cyber Defenders</title>
-      <link>https://socprime.com/blog/soc-prime-referral-program/</link>
-      <pubDate>Tue, 11 Mar 2025 11:42:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Risk Scores Are Lying: Adversarial Exposure Validation Exposes Real Threats</title>
-      <link>https://thehackernews.com/2025/03/your-risk-scores-are-lying-adversarial.html</link>
-      <pubDate>Tue, 11 Mar 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SideWinder APT targets maritime and nuclear sectors with enhanced toolset</title>
-      <link>https://securityaffairs.com/175247/apt/sidewinder-apt-targets-maritime-nuclear-sectors.html</link>
-      <pubDate>Tue, 11 Mar 2025 11:22:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
