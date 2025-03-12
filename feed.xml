@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 06:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 08:27:29 +0000</lastBuildDate>
+    <item>
+      <title>Incident response analyst report 2024</title>
+      <link>https://securelist.com/kaspersky-incident-response-report-2024/115873/</link>
+      <pubDate>Wed, 12 Mar 2025 08:00:21 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 12 Mar 2025 04:50:03 +0000</pubDate>
+      <pubDate>Wed, 12 Mar 2025 07:55:04 +0000</pubDate>
     </item>
     <item>
       <title>Apple Releases Patch for WebKit Zero-Day Vulnerability Exploited in Targeted Attacks</title>
@@ -218,6 +223,11 @@
       <pubDate>Tue, 11 Mar 2025 06:45:00 +0000</pubDate>
     </item>
     <item>
+      <title>March 2025 Patch Tuesday: Seven Zero-Days and Six Critical Vulnerabilities Among 57 CVEs</title>
+      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2025/</link>
+      <pubDate>Tue, 11 Mar 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Adds Five Actively Exploited Vulnerabilities in Advantive VeraCore and Ivanti EPM to KEV List</title>
       <link>https://thehackernews.com/2025/03/cisa-adds-five-actively-exploited.html</link>
       <pubDate>Tue, 11 Mar 2025 03:58:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Fake CAPTCHA websites hijack your clipboard to install information stealers</title>
       <link>https://www.malwarebytes.com/blog/news/2025/03/fake-captcha-websites-hijack-your-clipboard-to-install-information-stealers</link>
       <pubDate>Mon, 10 Mar 2025 14:25:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surge in Malicious Software Packages Exploits System Flaws</title>
-      <link>https://www.infosecurity-magazine.com/news/malicious-software-packages/</link>
-      <pubDate>Mon, 10 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Identifies Malicious Packages in the Wild: Insights and Trends from November 2024 Onward</title>
-      <link>https://feeds.fortinet.com/~/914536313/0/fortinet/blog/threat-research~Fortinet-Identifies-Malicious-Packages-in-the-Wild-Insights-and-Trends-from-November-Onward</link>
-      <pubDate>Mon, 10 Mar 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
