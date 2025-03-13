@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Mar 2025 04:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 06:28:52 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 13 Mar 2025 03:20:04 +0000</pubDate>
+      <pubDate>Thu, 13 Mar 2025 05:20:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, March 13th, 2025 https://isc.sans.edu/podcastdetail/9362, (Thu, Mar 13th)</title>
@@ -193,6 +193,16 @@
       <pubDate>Wed, 12 Mar 2025 08:00:21 +0000</pubDate>
     </item>
     <item>
+      <title>Redefining Incident Response in the Modern Era</title>
+      <link>https://www.crowdstrike.com/en-us/blog/redefining-incident-response-in-the-modern-era/</link>
+      <pubDate>Wed, 12 Mar 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 Key Steps to Prevent Subdomain Takeovers</title>
+      <link>https://www.crowdstrike.com/en-us/blog/4-steps-to-prevent-subdomain-takeovers/</link>
+      <pubDate>Wed, 12 Mar 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Apple Releases Patch for WebKit Zero-Day Vulnerability Exploited in Targeted Attacks</title>
       <link>https://thehackernews.com/2025/03/apple-releases-patch-for-webkit-zero.html</link>
       <pubDate>Wed, 12 Mar 2025 04:02:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Ballista Botnet Exploits Unpatched TP-Link Vulnerability, Targets Over 6,000 Devices</title>
       <link>https://thehackernews.com/2025/03/ballista-botnet-exploits-unpatched-tp.html</link>
       <pubDate>Tue, 11 Mar 2025 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-27840: Vulnerability Exploitation in Espressif ESP32 Bluetooth Chips Can Lead to Unauthorized Access to Devices</title>
-      <link>https://socprime.com/blog/cve-2025-27840-vulnerability-in-esp32-bluetooth-chips/</link>
-      <pubDate>Tue, 11 Mar 2025 12:27:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Use NordPass: A Step-by-Step Guide</title>
-      <link>https://www.techrepublic.com/article/how-to-use-nordpass/</link>
-      <pubDate>Tue, 11 Mar 2025 12:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
