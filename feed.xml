@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Mar 2025 06:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 08:25:49 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 14 Mar 2025 07:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New MassJacker Malware Targets Piracy Users, Hijacking Cryptocurrency Transactions</title>
+      <link>https://thehackernews.com/2025/03/new-massjacker-malware-targets-piracy.html</link>
+      <pubDate>Fri, 14 Mar 2025 06:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>OBSCURE#BAT Malware Uses Fake CAPTCHA Pages to Deploy Rootkit r77 and Evade Detection</title>
       <link>https://thehackernews.com/2025/03/obscurebat-malware-uses-fake-captcha.html</link>
       <pubDate>Fri, 14 Mar 2025 05:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 14 Mar 2025 05:30:03 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware attack takes down health system network in Micronesia</title>
@@ -301,11 +306,6 @@
       <title>WARNING: Expiring Root Certificate May Disable Firefox Add-Ons, Security Features, and DRM Playback</title>
       <link>https://thehackernews.com/2025/03/warning-expiring-root-certificate-may.html</link>
       <pubDate>Thu, 13 Mar 2025 07:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, March 13th, 2025 https://isc.sans.edu/podcastdetail/9362, (Thu, Mar 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/31766</link>
-      <pubDate>Thu, 13 Mar 2025 02:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
