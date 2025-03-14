@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Mar 2025 14:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 16:25:16 +0000</lastBuildDate>
+    <item>
+      <title>Upcoming Speaking Engagements</title>
+      <link>https://www.schneier.com/blog/archives/2025/03/upcoming-speaking-engagements-44.html</link>
+      <pubDate>Fri, 14 Mar 2025 16:03:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alleged Russian LockBit developer extradited from Israel, appears in New Jersey court</title>
+      <link>https://therecord.media/lockbit-alleged-russian-developer-extradited-us-israel</link>
+      <pubDate>Fri, 14 Mar 2025 15:36:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research on iOS apps shows widespread exposure of secrets</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/03/research-on-ios-apps-shows-widespread-exposure-of-secrets</link>
+      <pubDate>Fri, 14 Mar 2025 15:29:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>GSMA Confirms End-to-End Encryption for RCS, Enabling Secure Cross-Platform Messaging</title>
+      <link>https://thehackernews.com/2025/03/gsma-confirms-end-to-end-encryption-for.html</link>
+      <pubDate>Fri, 14 Mar 2025 14:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit ransomware developer Rostislav Panev was extradited from Israel to the U.S.</title>
+      <link>https://securityaffairs.com/175413/cyber-crime/lockbit-ransomware-developer-rostislav-panev-extradited-to-us.html</link>
+      <pubDate>Fri, 14 Mar 2025 14:39:42 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 14 Mar 2025 13:35:03 +0000</pubDate>
+      <pubDate>Fri, 14 Mar 2025 14:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit Ransomware Developer Extradited to US</title>
+      <link>https://www.infosecurity-magazine.com/news/lockbit-ransomware-developer/</link>
+      <pubDate>Fri, 14 Mar 2025 14:30:00 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 11</title>
@@ -98,6 +128,11 @@
       <pubDate>Thu, 13 Mar 2025 22:05:08 +0000</pubDate>
     </item>
     <item>
+      <title>Classify Data at Rest with Symantec DLP’s High Speed Discovery</title>
+      <link>https://www.security.com/product-insights/dlp-high-speed</link>
+      <pubDate>Thu, 13 Mar 2025 22:00:34 +0000</pubDate>
+    </item>
+    <item>
       <title>European lawmaker says EU is committed to continuing data transfers to US</title>
       <link>https://therecord.media/lawmaker-data-transfer-us-mcgrath</link>
       <pubDate>Thu, 13 Mar 2025 19:20:05 +0000</pubDate>
@@ -116,11 +151,6 @@
       <title>Volt Typhoon Accessed US OT Network for Nearly a Year</title>
       <link>https://www.infosecurity-magazine.com/news/volt-typhoon-threatens-us-ot/</link>
       <pubDate>Thu, 13 Mar 2025 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing campaign impersonating Booking.com targets hospitality sector with malware</title>
-      <link>https://therecord.media/booking-phishing-hotels-malware-campaign</link>
-      <pubDate>Thu, 13 Mar 2025 16:35:32 +0000</pubDate>
     </item>
     <item>
       <title>CISA, FBI Warn of Medusa Ransomware Impacting Critical Infrastructure</title>
@@ -276,36 +306,6 @@
       <title>Siemens SINEMA Remote Connect Client</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-072-10</link>
       <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIMATIC IPC Family, ITP1000, and Field PGs</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-072-11</link>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sungrow iSolarCloud Android App WiNet Firmware</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-072-12</link>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Thirteen Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/03/13/cisa-releases-thirteen-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta warns of actively exploited flaw in FreeType library</title>
-      <link>https://securityaffairs.com/175337/hacking/meta-warned-actively-exploited-cve-2025-27363.html</link>
-      <pubDate>Thu, 13 Mar 2025 11:02:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Future-Proofing Business Continuity: BCDR Trends and Challenges for 2025</title>
-      <link>https://thehackernews.com/2025/03/bcdr-2025-trends-and-challenges-for-msps-and-it-teams.html</link>
-      <pubDate>Thu, 13 Mar 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
