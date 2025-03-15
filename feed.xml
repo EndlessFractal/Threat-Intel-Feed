@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 04:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 06:26:51 +0000</lastBuildDate>
+    <item>
+      <title>Malicious PyPI Packages Stole Cloud Tokens—Over 14,100 Downloads Before Removal</title>
+      <link>https://thehackernews.com/2025/03/malicious-pypi-packages-stole-cloud.html</link>
+      <pubDate>Sat, 15 Mar 2025 05:55:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 15 Mar 2025 02:35:04 +0000</pubDate>
+      <pubDate>Sat, 15 Mar 2025 04:50:04 +0000</pubDate>
     </item>
     <item>
       <title>ClickFix: How to Infect Your PC in Three Easy Steps</title>
@@ -300,11 +305,6 @@
     <item>
       <title>Siemens SIMATIC S7-1500 TM MFP</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-072-03</link>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SiPass integrated AC5102/ACC-G2 and ACC-AP</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-072-04</link>
       <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
