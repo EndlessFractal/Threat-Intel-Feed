@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Mar 2025 20:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 22:18:17 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 16 Mar 2025 19:05:04 +0000</pubDate>
+      <pubDate>Sun, 16 Mar 2025 22:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mirai Bot now incroporating (malformed?) DrayTek Vigor Router Exploits, (Sun, Mar 16th)</title>
+      <link>https://isc.sans.edu/diary/rss/31770</link>
+      <pubDate>Sun, 16 Mar 2025 20:38:11 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to Security Week 2025</title>
@@ -128,6 +133,11 @@
       <pubDate>Fri, 14 Mar 2025 14:39:42 +0000</pubDate>
     </item>
     <item>
+      <title>LockBit Ransomware Developer Extradited to US</title>
+      <link>https://www.infosecurity-magazine.com/news/lockbit-ransomware-developer/</link>
+      <pubDate>Fri, 14 Mar 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 11</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-11-6/</link>
       <pubDate>Fri, 14 Mar 2025 13:00:30 +0000</pubDate>
@@ -163,9 +173,19 @@
       <pubDate>Fri, 14 Mar 2025 11:02:58 +0000</pubDate>
     </item>
     <item>
+      <title>Fraudsters Impersonate Clop Ransomware to Extort Businesses</title>
+      <link>https://www.infosecurity-magazine.com/news/fraudsters-clop-ransomware-extort/</link>
+      <pubDate>Fri, 14 Mar 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Most Microsegmentation Projects Fail—And How Andelyn Biosciences Got It Right</title>
       <link>https://thehackernews.com/2025/03/why-most-microsegmentation-projects.html</link>
       <pubDate>Fri, 14 Mar 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Industry Falls Short on Collaboration, Says Former GCHQ Director</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-industry-collaboration-gchq/</link>
+      <pubDate>Fri, 14 Mar 2025 10:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Off the Beaten Path: Recent Unusual Malware</title>
@@ -213,6 +233,16 @@
       <pubDate>Thu, 13 Mar 2025 18:04:01 +0000</pubDate>
     </item>
     <item>
+      <title>Volt Typhoon Accessed US OT Network for Nearly a Year</title>
+      <link>https://www.infosecurity-magazine.com/news/volt-typhoon-threatens-us-ot/</link>
+      <pubDate>Thu, 13 Mar 2025 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA, FBI Warn of Medusa Ransomware Impacting Critical Infrastructure</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-fbi-warn-medusa-ransomware/</link>
+      <pubDate>Thu, 13 Mar 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Medusa Ransomware Detection: The FBI, CISA &amp; Partners Warn of Increasing Attacks by Ransomware Developers and Affiliates Against Critical Infrastructure</title>
       <link>https://socprime.com/blog/medusa-ransomware-attacks-covered-in-aa25-071a-detection/</link>
       <pubDate>Thu, 13 Mar 2025 16:20:15 +0000</pubDate>
@@ -253,6 +283,11 @@
       <pubDate>Thu, 13 Mar 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>‘ClickFix’ Phishing Scam Impersonates Booking.com to Target Hospitality</title>
+      <link>https://www.infosecurity-magazine.com/news/clickfix-phishing-scam-booking/</link>
+      <pubDate>Thu, 13 Mar 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Mobile Security &amp; Malware Issue 2025년 3월 2주차</title>
       <link>https://asec.ahnlab.com/en/86827/</link>
       <pubDate>Thu, 13 Mar 2025 15:00:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>North Korea’s ScarCruft Deploys KoSpy Malware, Spying on Android Users via Fake Utility Apps</title>
       <link>https://thehackernews.com/2025/03/north-koreas-scarcruft-deploys-kospy.html</link>
       <pubDate>Thu, 13 Mar 2025 14:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Philips Intellispace Cardiovascular (ISCV)</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-072-01</link>
-      <pubDate>Thu, 13 Mar 2025 13:48:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medusa ransomware: FBI and CISA urge organisations to act now to mitigate threat</title>
-      <link>https://www.tripwire.com/state-of-security/medusa-ransomware-fbi-and-cisa-urge-organizations-act-now-mitigate-threat</link>
-      <pubDate>Thu, 13 Mar 2025 13:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Speedify VPN Review 2025: Features, Security, and Performance</title>
-      <link>https://www.techrepublic.com/article/speedify-vpn-review/</link>
-      <pubDate>Thu, 13 Mar 2025 13:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Uncovers New ruby-saml Vulnerabilities Allowing Account Takeover Attacks</title>
-      <link>https://thehackernews.com/2025/03/github-uncovers-new-ruby-saml.html</link>
-      <pubDate>Thu, 13 Mar 2025 12:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dual Russian And Israeli National Extradited To The United States For His Role In The LockBit Ransomware Conspiracy</title>
-      <link>https://www.justice.gov/usao-nj/pr/dual-russian-and-israeli-national-extradited-united-states-his-role-lockbit-ransomware</link>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Teamcenter Visualization and Tecnomatrix Plant Simulation</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-072-01</link>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINEMA Remote Connect Server</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-072-02</link>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
