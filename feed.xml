@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 08:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 10:23:04 +0000</lastBuildDate>
+    <item>
+      <title>Chaos in Cloudflare’s Lisbon office: securing the Internet with wave motion</title>
+      <link>https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/</link>
+      <pubDate>Mon, 17 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Action Compromise Puts CI/CD Secrets at Risk in Over 23,000 Repositories</title>
+      <link>https://thehackernews.com/2025/03/github-action-compromise-puts-cicd.html</link>
+      <pubDate>Mon, 17 Mar 2025 10:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tj-actions Supply Chain Attack Exposes 23,000 Organizations</title>
+      <link>https://www.infosecurity-magazine.com/news/tjactions-supply-chain-attack/</link>
+      <pubDate>Mon, 17 Mar 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Free file converter malware scam “rampant” claims FBI</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/free-file-converter-malware-scam-rampant-claims-fbi</link>
+      <pubDate>Mon, 17 Mar 2025 09:23:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Borked Chromecasts are beginning to receive their update – just hope you didn’t do a factory reset</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/borked-chromecasts-are-beginning-to-receive-their-update-just-hope-you-didnt-do-a-factory-reset</link>
+      <pubDate>Mon, 17 Mar 2025 09:17:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researcher releases free GPU-Based decryptor for Linux Akira ransomware</title>
+      <link>https://securityaffairs.com/175494/malware/free-decryptor-linux-akira-ransomware-brute-force.html</link>
+      <pubDate>Mon, 17 Mar 2025 09:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 17 Mar 2025 08:15:04 +0000</pubDate>
+    </item>
     <item>
       <title>A week in security (March 10 – March 16)</title>
       <link>https://www.malwarebytes.com/blog/news/2025/03/a-week-in-security-march-10-march-16</link>
       <pubDate>Mon, 17 Mar 2025 08:02:18 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 17 Mar 2025 07:10:03 +0000</pubDate>
+      <title>Static Analysis of GUID Encoded Shellcode, (Mon, Mar 17th)</title>
+      <link>https://isc.sans.edu/diary/rss/31774</link>
+      <pubDate>Mon, 17 Mar 2025 07:28:26 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Monday, March 17th, 2025 https://isc.sans.edu/podcastdetail/9366, (Mon, Mar 17th)</title>
@@ -228,11 +263,6 @@
       <pubDate>Fri, 14 Mar 2025 00:02:39 +0000</pubDate>
     </item>
     <item>
-      <title>GitLab addressed critical auth bypass flaws in CE and EE</title>
-      <link>https://securityaffairs.com/175370/security/gitlab-addressed-critical-flaws-in-ce-and-ee.html</link>
-      <pubDate>Thu, 13 Mar 2025 22:05:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Classify Data at Rest with Symantec DLP’s High Speed Discovery</title>
       <link>https://www.security.com/product-insights/dlp-high-speed</link>
       <pubDate>Thu, 13 Mar 2025 22:00:34 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>How MSRC coordinates vulnerability research and disclosure while building community</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/03/13/how-msrc-coordinates-vulnerability-research-and-disclosure-while-building-community/</link>
       <pubDate>Thu, 13 Mar 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside BRUTED: Black Basta (RaaS) Members Used Automated Brute Forcing Framework to Target Edge Network Devices</title>
-      <link>https://blog.eclecticiq.com/inside-bruted-black-basta-raas-members-used-automated-brute-forcing-framework-to-target-edge-network-devices</link>
-      <pubDate>Thu, 13 Mar 2025 15:39:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Warns of ClickFix Phishing Campaign Targeting Hospitality Sector via Fake Booking[.]com Emails</title>
-      <link>https://thehackernews.com/2025/03/microsoft-warns-of-clickfix-phishing.html</link>
-      <pubDate>Thu, 13 Mar 2025 15:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing campaign impersonates Booking .com, delivers a suite of credential-stealing malware</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/03/13/phishing-campaign-impersonates-booking-com-delivers-a-suite-of-credential-stealing-malware/</link>
-      <pubDate>Thu, 13 Mar 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘ClickFix’ Phishing Scam Impersonates Booking.com to Target Hospitality</title>
-      <link>https://www.infosecurity-magazine.com/news/clickfix-phishing-scam-booking/</link>
-      <pubDate>Thu, 13 Mar 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Downloader Malware Written in JPHP Interpreter</title>
-      <link>https://asec.ahnlab.com/en/86859/</link>
-      <pubDate>Thu, 13 Mar 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile Security &amp; Malware Issue 2025년 3월 2주차</title>
-      <link>https://asec.ahnlab.com/en/86827/</link>
-      <pubDate>Thu, 13 Mar 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
