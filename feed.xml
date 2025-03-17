@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 14:20:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 16:27:17 +0000</lastBuildDate>
+    <item>
+      <title>Attackers use CSS to create evasive phishing messages</title>
+      <link>https://securityaffairs.com/175512/security/attackers-use-css-to-create-evasive-phishing-messages.html</link>
+      <pubDate>Mon, 17 Mar 2025 15:19:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improvements in Brute Force Attacks</title>
+      <link>https://www.schneier.com/blog/archives/2025/03/improvements-in-brute-force-attacks.html</link>
+      <pubDate>Mon, 17 Mar 2025 15:09:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warning over free online file converters that actually install malware</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/03/warning-over-free-online-file-converters-that-actually-install-malware</link>
+      <pubDate>Mon, 17 Mar 2025 14:56:20 +0000</pubDate>
+    </item>
     <item>
       <title>Telegram CEO confirms leaving France amid criminal probe</title>
       <link>https://therecord.media/telegram-pavel-durov-leaves-france-amid-probe</link>
       <pubDate>Mon, 17 Mar 2025 14:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 17 Mar 2025 14:15:04 +0000</pubDate>
     </item>
     <item>
       <title>'Mora_001' ransomware gang exploiting Fortinet bug spotlighted by CISA in January</title>
@@ -26,11 +46,6 @@
       <title>Unpatched Edimax Camera Flaw Exploited for Mirai Botnet Attacks Since Last Year</title>
       <link>https://thehackernews.com/2025/03/unpatched-edimax-camera-flaw-exploited.html</link>
       <pubDate>Mon, 17 Mar 2025 13:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 17 Mar 2025 13:10:03 +0000</pubDate>
     </item>
     <item>
       <title>PinnacleOne ExecBrief | The Hidden Cyber Risks of Mergers &amp; Acquisitions</title>
@@ -103,6 +118,11 @@
       <pubDate>Mon, 17 Mar 2025 09:17:54 +0000</pubDate>
     </item>
     <item>
+      <title>Researcher releases free GPU-Based decryptor for Linux Akira ransomware</title>
+      <link>https://securityaffairs.com/175494/malware/free-decryptor-linux-akira-ransomware-brute-force.html</link>
+      <pubDate>Mon, 17 Mar 2025 09:03:24 +0000</pubDate>
+    </item>
+    <item>
       <title>A week in security (March 10 – March 16)</title>
       <link>https://www.malwarebytes.com/blog/news/2025/03/a-week-in-security-march-10-march-16</link>
       <pubDate>Mon, 17 Mar 2025 08:02:18 +0000</pubDate>
@@ -118,6 +138,11 @@
       <pubDate>Mon, 17 Mar 2025 01:35:10 +0000</pubDate>
     </item>
     <item>
+      <title>Denmark warns of increased state-sponsored campaigns targeting the European telcos</title>
+      <link>https://securityaffairs.com/175479/intelligence/denmark-warns-of-increased-state-sponsored-campaigns-targeting-the-european-telcos.html</link>
+      <pubDate>Sun, 16 Mar 2025 23:43:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Mirai Bot now incroporating (malformed?) DrayTek Vigor Router Exploits, (Sun, Mar 16th)</title>
       <link>https://isc.sans.edu/diary/rss/31770</link>
       <pubDate>Sun, 16 Mar 2025 20:38:11 +0000</pubDate>
@@ -128,9 +153,24 @@
       <pubDate>Sun, 16 Mar 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 37</title>
+      <link>https://securityaffairs.com/175472/malware/security-affairs-malware-newsletter-round-37.html</link>
+      <pubDate>Sun, 16 Mar 2025 12:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Affairs newsletter Round 515 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
+      <link>https://securityaffairs.com/175462/breaking-news/security-affairs-newsletter-round-515-by-pierluigi-paganini-international-edition.html</link>
+      <pubDate>Sun, 16 Mar 2025 10:06:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Zero-Trust Architecture in Government: Spring 2025 Roundup</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/zero-trust-architecture-in-government-spring-2025-roundup</link>
       <pubDate>Sun, 16 Mar 2025 09:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A ransomware attack hit the Micronesian state of Yap, causing the health system network to go down.</title>
+      <link>https://securityaffairs.com/175445/cyber-crime/a-ransomware-attack-hit-the-micronesian-state-of-yap.html</link>
+      <pubDate>Sun, 16 Mar 2025 08:13:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Update 443</title>
@@ -138,9 +178,19 @@
       <pubDate>Sun, 16 Mar 2025 00:20:25 +0000</pubDate>
     </item>
     <item>
+      <title>New MassJacker clipper targets pirated software seekers</title>
+      <link>https://securityaffairs.com/175433/malware/new-massjacker-clipper-targets-pirated-software-seekers.html</link>
+      <pubDate>Sat, 15 Mar 2025 17:49:50 +0000</pubDate>
+    </item>
+    <item>
       <title>NoSQL error-based injection</title>
       <link>https://sensepost.com/blog/2025/nosql-error-based-injection/</link>
       <pubDate>Sat, 15 Mar 2025 15:54:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco IOS XR flaw allows attackers to crash BGP process on routers</title>
+      <link>https://securityaffairs.com/175421/security/cisco-ios-xr-flaw-cve-2025-20115.html</link>
+      <pubDate>Sat, 15 Mar 2025 10:41:06 +0000</pubDate>
     </item>
     <item>
       <title>Malicious PyPI Packages Stole Cloud Tokens—Over 14,100 Downloads Before Removal</title>
@@ -208,6 +258,11 @@
       <pubDate>Fri, 14 Mar 2025 14:52:00 +0000</pubDate>
     </item>
     <item>
+      <title>LockBit ransomware developer Rostislav Panev was extradited from Israel to the U.S.</title>
+      <link>https://securityaffairs.com/175413/cyber-crime/lockbit-ransomware-developer-rostislav-panev-extradited-to-us.html</link>
+      <pubDate>Fri, 14 Mar 2025 14:39:42 +0000</pubDate>
+    </item>
+    <item>
       <title>LockBit Ransomware Developer Extradited to US</title>
       <link>https://www.infosecurity-magazine.com/news/lockbit-ransomware-developer/</link>
       <pubDate>Fri, 14 Mar 2025 14:30:00 +0000</pubDate>
@@ -216,6 +271,11 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 11</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-11-6/</link>
       <pubDate>Fri, 14 Mar 2025 13:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>SuperBlack Ransomware operators exploit Fortinet Firewall flaws in recent attacks</title>
+      <link>https://securityaffairs.com/175402/cyber-crime/superblack-ransomware-exploited-fortinet-firewall-flaws.html</link>
+      <pubDate>Fri, 14 Mar 2025 12:02:01 +0000</pubDate>
     </item>
     <item>
       <title>CyberLaw Forum 2025 | Navigating Security Risks &amp; Actioning Resilience</title>
@@ -246,66 +306,6 @@
       <title>Cybersecurity Industry Falls Short on Collaboration, Says Former GCHQ Director</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-industry-collaboration-gchq/</link>
       <pubDate>Fri, 14 Mar 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Off the Beaten Path: Recent Unusual Malware</title>
-      <link>https://unit42.paloaltonetworks.com/unusual-malware/</link>
-      <pubDate>Fri, 14 Mar 2025 10:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>New MassJacker Malware Targets Piracy Users, Hijacking Cryptocurrency Transactions</title>
-      <link>https://thehackernews.com/2025/03/new-massjacker-malware-targets-piracy.html</link>
-      <pubDate>Fri, 14 Mar 2025 06:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OBSCURE#BAT Malware Uses Fake CAPTCHA Pages to Deploy Rootkit r77 and Evade Detection</title>
-      <link>https://thehackernews.com/2025/03/obscurebat-malware-uses-fake-captcha.html</link>
-      <pubDate>Fri, 14 Mar 2025 05:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, March 14th, 2025 https://isc.sans.edu/podcastdetail/9364, (Fri, Mar 14th)</title>
-      <link>https://isc.sans.edu/diary/rss/31768</link>
-      <pubDate>Fri, 14 Mar 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Classify Data at Rest with Symantec DLP’s High Speed Discovery</title>
-      <link>https://www.security.com/product-insights/dlp-high-speed</link>
-      <pubDate>Thu, 13 Mar 2025 22:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miniaudio and Adobe Acrobat Reader vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/miniaudio-and-adobe-acrobat-reader-vulnerabilities/</link>
-      <pubDate>Thu, 13 Mar 2025 18:23:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch it up: Old vulnerabilities are everyone’s problems</title>
-      <link>https://blog.talosintelligence.com/patch-it-up-old-vulnerabilities-are-everyones-problems/</link>
-      <pubDate>Thu, 13 Mar 2025 18:04:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volt Typhoon Accessed US OT Network for Nearly a Year</title>
-      <link>https://www.infosecurity-magazine.com/news/volt-typhoon-threatens-us-ot/</link>
-      <pubDate>Thu, 13 Mar 2025 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA, FBI Warn of Medusa Ransomware Impacting Critical Infrastructure</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-fbi-warn-medusa-ransomware/</link>
-      <pubDate>Thu, 13 Mar 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medusa Ransomware Detection: The FBI, CISA &amp; Partners Warn of Increasing Attacks by Ransomware Developers and Affiliates Against Critical Infrastructure</title>
-      <link>https://socprime.com/blog/medusa-ransomware-attacks-covered-in-aa25-071a-detection/</link>
-      <pubDate>Thu, 13 Mar 2025 16:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RIP Mark Klein</title>
-      <link>https://www.schneier.com/blog/archives/2025/03/rip-mark-klein.html</link>
-      <pubDate>Thu, 13 Mar 2025 16:12:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chromecast chaos – 2nd gen devices go belly-up as Google struggles to fix certificate issue</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/chromecast-chaos-2nd-gen-devices-go-belly-up-as-google-struggles-to-fix-certificate-issue</link>
-      <pubDate>Thu, 13 Mar 2025 16:11:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
