@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Mar 2025 16:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 18:29:12 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 18 Mar 2025 18:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Western Alliance Bank says nearly 22,000 impacted by file transfer software breach</title>
+      <link>https://therecord.media/western-alliance-bank-data-breach</link>
+      <pubDate>Tue, 18 Mar 2025 17:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft identifies new RAT targeting cryptocurrency wallets and more</title>
+      <link>https://therecord.media/stilachirat-new-remote-access-trojan-crypto-wallets</link>
+      <pubDate>Tue, 18 Mar 2025 17:25:46 +0000</pubDate>
+    </item>
     <item>
       <title>The AI Fix #42: AIs with anxiety, and why AIs don’t know what happened</title>
       <link>https://grahamcluley.com/the-ai-fix-42/</link>
       <pubDate>Tue, 18 Mar 2025 16:14:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI innovation requires AI security: Hear what’s new at Microsoft Secure</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoft-security-blog/ai-innovation-requires-ai-security-hear-what%E2%80%99s-new-at-microsoft-secure/4394130</link>
+      <pubDate>Tue, 18 Mar 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New ‘Rules File Backdoor’ Attack Lets Hackers Inject Malicious Code via AI Code Editors</title>
@@ -26,11 +46,6 @@
       <title>ChatGPT SSRF bug quickly becomes a favorite attack vector</title>
       <link>https://securityaffairs.com/175560/hacking/chatgpt-ssrf-bug-quickly-becomes-a-favorite-attack-vector.html</link>
       <pubDate>Tue, 18 Mar 2025 15:17:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 18 Mar 2025 15:05:04 +0000</pubDate>
     </item>
     <item>
       <title>New Report Highlights Common Passwords in RDP Attacks</title>
@@ -238,11 +253,6 @@
       <pubDate>Mon, 17 Mar 2025 21:01:10 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub restores code following malicious changes to tj-actions tool</title>
-      <link>https://therecord.media/github-restores-code-malicious-tj-actions-changes</link>
-      <pubDate>Mon, 17 Mar 2025 20:36:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Threat actors rapidly exploit new Apache Tomcat flaw following PoC release</title>
       <link>https://securityaffairs.com/175522/security/threat-actors-rapidly-exploit-new-apache-tomcat-flaw-following-poc-release.html</link>
       <pubDate>Mon, 17 Mar 2025 19:58:42 +0000</pubDate>
@@ -293,19 +303,9 @@
       <pubDate>Mon, 17 Mar 2025 14:56:20 +0000</pubDate>
     </item>
     <item>
-      <title>Telegram CEO confirms leaving France amid criminal probe</title>
-      <link>https://therecord.media/telegram-pavel-durov-leaves-france-amid-probe</link>
-      <pubDate>Mon, 17 Mar 2025 14:16:40 +0000</pubDate>
-    </item>
-    <item>
       <title>US Legislators Demand Transparency in Apple's UK Backdoor Court Fight</title>
       <link>https://www.infosecurity-magazine.com/news/us-legislators-transparency-apple/</link>
       <pubDate>Mon, 17 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unpatched Edimax Camera Flaw Exploited for Mirai Botnet Attacks Since Last Year</title>
-      <link>https://thehackernews.com/2025/03/unpatched-edimax-camera-flaw-exploited.html</link>
-      <pubDate>Mon, 17 Mar 2025 13:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
