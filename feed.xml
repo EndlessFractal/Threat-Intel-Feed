@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Mar 2025 18:29:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 20:21:44 +0000</lastBuildDate>
+    <item>
+      <title>Google Acquires Startup Wiz for $32B to Make ‘Cybersecurity More Accessible And Simpler’</title>
+      <link>https://www.techrepublic.com/article/news-google-wiz-acquisition-cloud-security/</link>
+      <pubDate>Tue, 18 Mar 2025 19:51:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nation-state actors and cybercrime gangs abuse malicious .lnk files for espionage and data theft</title>
+      <link>https://securityaffairs.com/175569/apt/nation-state-actors-and-cybercrime-gangs-abuse-malicious-lnk-files-for-espionage-and-data-theft.html</link>
+      <pubDate>Tue, 18 Mar 2025 19:20:50 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 18 Mar 2025 18:10:03 +0000</pubDate>
+      <pubDate>Tue, 18 Mar 2025 19:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Municipalities in four states are struggling with cyberattacks limiting services</title>
+      <link>https://therecord.media/municipalities-struggling-cyberattacks-services</link>
+      <pubDate>Tue, 18 Mar 2025 18:54:57 +0000</pubDate>
     </item>
     <item>
       <title>Western Alliance Bank says nearly 22,000 impacted by file transfer software breach</title>
@@ -148,6 +163,11 @@
       <pubDate>Tue, 18 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>NEW YORK MAN SENTENCED TO LIFE IMPRISONMENT  FOR MULTIPLE CHILD SEX OFFENSES</title>
+      <link>https://www.justice.gov/usao-nj/pr/new-york-man-sentenced-life-imprisonment-multiple-child-sex-offenses</link>
+      <pubDate>Tue, 18 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Schneider Electric EcoStruxure Power Automation System User Interface (EPAS-UI)</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-077-01</link>
       <pubDate>Tue, 18 Mar 2025 12:00:00 +0000</pubDate>
@@ -175,6 +195,16 @@
     <item>
       <title>CISA Releases Seven Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/03/18/cisa-releases-seven-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 18 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/03/18/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Tue, 18 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supply Chain Compromise of Third-Party GitHub Action, CVE-2025-30066</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/03/18/supply-chain-compromise-third-party-github-action-cve-2025-30066</link>
       <pubDate>Tue, 18 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -238,11 +268,6 @@
       <pubDate>Tue, 18 Mar 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>Crypto exchange OKX shuts down tool used by North Korean hackers to launder stolen funds</title>
-      <link>https://therecord.media/crypto-okx-shuts-down-exchange</link>
-      <pubDate>Mon, 17 Mar 2025 23:24:41 +0000</pubDate>
-    </item>
-    <item>
       <title>iPhone-Android: A Major Privacy Upgrade is Coming Soon</title>
       <link>https://www.techrepublic.com/article/news-iphone-android-encrypted-messaging/</link>
       <pubDate>Mon, 17 Mar 2025 22:59:47 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>UK's Online Safety Act: Ofcom Can Now Issue Sanctions</title>
       <link>https://www.infosecurity-magazine.com/news/uk-online-safety-act-ofcom/</link>
       <pubDate>Mon, 17 Mar 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Confirm BlackLock as Eldorado Rebrand</title>
-      <link>https://www.infosecurity-magazine.com/news/researchers-confirm-blacklock/</link>
-      <pubDate>Mon, 17 Mar 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers use CSS to create evasive phishing messages</title>
-      <link>https://securityaffairs.com/175512/security/attackers-use-css-to-create-evasive-phishing-messages.html</link>
-      <pubDate>Mon, 17 Mar 2025 15:19:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improvements in Brute Force Attacks</title>
-      <link>https://www.schneier.com/blog/archives/2025/03/improvements-in-brute-force-attacks.html</link>
-      <pubDate>Mon, 17 Mar 2025 15:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warning over free online file converters that actually install malware</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/03/warning-over-free-online-file-converters-that-actually-install-malware</link>
-      <pubDate>Mon, 17 Mar 2025 14:56:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Legislators Demand Transparency in Apple's UK Backdoor Court Fight</title>
-      <link>https://www.infosecurity-magazine.com/news/us-legislators-transparency-apple/</link>
-      <pubDate>Mon, 17 Mar 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
