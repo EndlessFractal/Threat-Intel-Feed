@@ -6,16 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 08:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 10:22:23 +0000</lastBuildDate>
+    <item>
+      <title>CERT-UA warns of cyber espionage against the Ukrainian defense industry using Dark Crystal RAT</title>
+      <link>https://securityaffairs.com/175642/hacking/cert-ua-warns-ukrainian-defense-industry-dark-crystal-rat.html</link>
+      <pubDate>Thu, 20 Mar 2025 10:05:28 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 20 Mar 2025 07:00:04 +0000</pubDate>
+      <pubDate>Thu, 20 Mar 2025 10:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAT-5918 targets critical infrastructure entities in Taiwan</title>
+      <link>https://blog.talosintelligence.com/uat-5918-targets-critical-infra-in-taiwan/</link>
+      <pubDate>Thu, 20 Mar 2025 10:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Continuous Compliance Monitoring Is Essential For IT Managed Service Providers</title>
+      <link>https://thehackernews.com/2025/03/why-continuous-compliance-monitoring-is.html</link>
+      <pubDate>Thu, 20 Mar 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RansomHub: Attackers Leverage New Custom Backdoor</title>
+      <link>https://www.security.com/threat-intelligence/ransomhub-betruger-backdoor</link>
+      <pubDate>Thu, 20 Mar 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over Half a Million Hit by Pennsylvania Schools Union Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/half-million-hit-pennsylvania/</link>
+      <pubDate>Thu, 20 Mar 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds NAKIVO Vulnerability to KEV Catalog Amid Active Exploitation</title>
+      <link>https://thehackernews.com/2025/03/cisa-adds-nakivo-vulnerability-to-kev.html</link>
+      <pubDate>Thu, 20 Mar 2025 09:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supply-chain CAPTCHA attack hits over 100 car dealerships</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/supply-chain-captcha-attack-hits-over-100-car-dealerships</link>
+      <pubDate>Thu, 20 Mar 2025 09:26:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Sets 2035 Deadline for Post-Quantum Cryptography Migration</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-post-quantum-cryptography/</link>
+      <pubDate>Thu, 20 Mar 2025 08:30:00 +0000</pubDate>
     </item>
     <item>
       <title>CERT-UA Warns: Dark Crystal RAT Targets Ukrainian Defense via Malicious Signal Messages</title>
       <link>https://thehackernews.com/2025/03/cert-ua-warns-dark-crystal-rat-targets.html</link>
       <pubDate>Thu, 20 Mar 2025 06:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Master IT Fundamentals With This CompTIA Certification Prep Bundle</title>
+      <link>https://www.techrepublic.com/article/the-all-in-one-comptia-certifications-prep-courses-bundle/</link>
+      <pubDate>Thu, 20 Mar 2025 05:00:09 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, March 20th, 2025 https://isc.sans.edu/podcastdetail/9372, (Thu, Mar 20th)</title>
@@ -261,51 +306,6 @@
       <title>Threat Assessment: GitHub Actions Supply Chain Attack: The Compromise of tj-actions/changed-files</title>
       <link>https://unit42.paloaltonetworks.com/github-actions-supply-chain-attack/</link>
       <pubDate>Tue, 18 Mar 2025 20:45:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Acquires Startup Wiz for $32B to Make ‘Cybersecurity More Accessible And Simpler’</title>
-      <link>https://www.techrepublic.com/article/news-google-wiz-acquisition-cloud-security/</link>
-      <pubDate>Tue, 18 Mar 2025 19:51:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nation-state actors and cybercrime gangs abuse malicious .lnk files for espionage and data theft</title>
-      <link>https://securityaffairs.com/175569/apt/nation-state-actors-and-cybercrime-gangs-abuse-malicious-lnk-files-for-espionage-and-data-theft.html</link>
-      <pubDate>Tue, 18 Mar 2025 19:20:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #42: AIs with anxiety, and why AIs don’t know what happened</title>
-      <link>https://grahamcluley.com/the-ai-fix-42/</link>
-      <pubDate>Tue, 18 Mar 2025 16:14:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI innovation requires AI security: Hear what’s new at Microsoft Secure</title>
-      <link>https://techcommunity.microsoft.com/blog/microsoft-security-blog/ai-innovation-requires-ai-security-hear-what%E2%80%99s-new-at-microsoft-secure/4394130</link>
-      <pubDate>Tue, 18 Mar 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ‘Rules File Backdoor’ Attack Lets Hackers Inject Malicious Code via AI Code Editors</title>
-      <link>https://thehackernews.com/2025/03/new-rules-file-backdoor-attack-lets.html</link>
-      <pubDate>Tue, 18 Mar 2025 15:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Researcher Proves GenAI Tools Can Develop Google Chrome Infostealers</title>
-      <link>https://www.infosecurity-magazine.com/news/security-researcher-llm/</link>
-      <pubDate>Tue, 18 Mar 2025 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT SSRF bug quickly becomes a favorite attack vector</title>
-      <link>https://securityaffairs.com/175560/hacking/chatgpt-ssrf-bug-quickly-becomes-a-favorite-attack-vector.html</link>
-      <pubDate>Tue, 18 Mar 2025 15:17:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Detection Rule (YARA and Snort) Information – Week 3, March 2025</title>
-      <link>https://asec.ahnlab.com/en/86939/</link>
-      <pubDate>Tue, 18 Mar 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Report Highlights Common Passwords in RDP Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/common-passwords-rdp-attacks/</link>
-      <pubDate>Tue, 18 Mar 2025 14:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
