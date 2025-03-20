@@ -6,16 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 10:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 12:39:24 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 20 Mar 2025 12:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK CNI Security Leaders Express Confidence in Cybersecurity, Despite 95% Breach Rate</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-cni-survey-bridewell-cyber/</link>
+      <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Protect Your Business from Cyber Threats: Mastering the Shared Responsibility Model</title>
+      <link>https://thehackernews.com/2025/03/how-to-protect-your-business-from-cyber.html</link>
+      <pubDate>Thu, 20 Mar 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Six Governments Likely Use Israeli Paragon Spyware to Hack IM Apps and Harvest Data</title>
+      <link>https://thehackernews.com/2025/03/six-governments-likely-use-israeli.html</link>
+      <pubDate>Thu, 20 Mar 2025 10:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Police Arrest 422 in Major Fraud Crackdown</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-police-arrest-422-major-fraud/</link>
+      <pubDate>Thu, 20 Mar 2025 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>CERT-UA warns of cyber espionage against the Ukrainian defense industry using Dark Crystal RAT</title>
       <link>https://securityaffairs.com/175642/hacking/cert-ua-warns-ukrainian-defense-industry-dark-crystal-rat.html</link>
       <pubDate>Thu, 20 Mar 2025 10:05:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 20 Mar 2025 10:05:04 +0000</pubDate>
     </item>
     <item>
       <title>UAT-5918 targets critical infrastructure entities in Taiwan</title>
@@ -168,14 +188,14 @@
       <pubDate>Wed, 19 Mar 2025 13:25:32 +0000</pubDate>
     </item>
     <item>
+      <title>Cloudflare for AI: supporting AI adoption at scale with a security-first approach</title>
+      <link>https://blog.cloudflare.com/cloudflare-for-ai-supporting-ai-adoption-at-scale-with-a-security-first-approach/</link>
+      <pubDate>Wed, 19 Mar 2025 13:10:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dragon RaaS | Pro-Russian Hacktivist Group Aims to Build on “The Five Families” Cybercrime Reputation</title>
       <link>https://www.sentinelone.com/blog/dragon-raas-pro-russian-hacktivist-group-aims-to-build-on-the-five-families-cybercrime-reputation/</link>
       <pubDate>Wed, 19 Mar 2025 13:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare for AI: supporting AI adoption at scale with a security-first approach</title>
-      <link>https://blog.cloudflare.com/cloudflare-for-ai-supporting-ai-adoption-at-scale-with-a-security-first-approach/</link>
-      <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Take control of public AI application security with Cloudflare's Firewall for AI</title>
@@ -286,26 +306,6 @@
       <title>Follow the Adversary: The Top 3 Red Team Exploitation Paths from 2024</title>
       <link>https://www.crowdstrike.com/en-us/blog/top-three-red-team-exploitation-paths-from-2024/</link>
       <pubDate>Wed, 19 Mar 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Achieves FedRAMP® High Authorization</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-fedramp-high-authorization/</link>
-      <pubDate>Wed, 19 Mar 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, March 19th, 2025 https://isc.sans.edu/podcastdetail/9370, (Wed, Mar 19th)</title>
-      <link>https://isc.sans.edu/diary/rss/31780</link>
-      <pubDate>Wed, 19 Mar 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>AMOS and Lumma stealers actively spread to Reddit users</title>
-      <link>https://www.malwarebytes.com/blog/scams/2025/03/amos-and-lumma-stealers-actively-spread-to-reddit-users</link>
-      <pubDate>Tue, 18 Mar 2025 21:43:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Assessment: GitHub Actions Supply Chain Attack: The Compromise of tj-actions/changed-files</title>
-      <link>https://unit42.paloaltonetworks.com/github-actions-supply-chain-attack/</link>
-      <pubDate>Tue, 18 Mar 2025 20:45:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
