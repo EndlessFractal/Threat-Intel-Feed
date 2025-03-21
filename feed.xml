@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 22:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 01:41:19 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 21 Mar 2025 00:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pennsylvania State Education Association data breach impacts 500,000 individuals</title>
+      <link>https://securityaffairs.com/175681/data-breach/pennsylvania-state-education-association-data-breach.html</link>
+      <pubDate>Thu, 20 Mar 2025 22:38:05 +0000</pubDate>
+    </item>
     <item>
       <title>Former Michigan football coach indicted in hacks of athlete databases of more than 100 colleges</title>
       <link>https://therecord.media/former-michigan-football-assistant-coach-indicted-hacks-athletes</link>
       <pubDate>Thu, 20 Mar 2025 21:41:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 20 Mar 2025 21:10:04 +0000</pubDate>
     </item>
     <item>
       <title>Major web services go dark in Russia amid reported Cloudflare block</title>
@@ -301,11 +306,6 @@
       <title>Leaked Black Basta Chats Suggest Russian Officials Aided Leader's Escape from Armenia</title>
       <link>https://thehackernews.com/2025/03/leaked-black-basta-chats-suggest.html</link>
       <pubDate>Wed, 19 Mar 2025 13:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agentic AI’s Role in the Future of AppSec</title>
-      <link>https://www.techrepublic.com/article/agentic-ais-role-in-the-future-of-appsec/</link>
-      <pubDate>Wed, 19 Mar 2025 13:48:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
