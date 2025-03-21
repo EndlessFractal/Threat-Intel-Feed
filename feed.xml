@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Mar 2025 14:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 16:26:14 +0000</lastBuildDate>
+    <item>
+      <title>US Treasury removes sanctions on Tornado Cash after appellate court loss</title>
+      <link>https://therecord.media/treasury-drops-tornado-cash-sanctions</link>
+      <pubDate>Fri, 21 Mar 2025 16:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 21 Mar 2025 15:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Albabat Ransomware Evolves to Target Linux and macOS</title>
+      <link>https://www.infosecurity-magazine.com/news/albabat-ransomware-linux-macos/</link>
+      <pubDate>Fri, 21 Mar 2025 14:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>CVE-2025-24813 Detection: Apache Tomcat RCE Vulnerability Actively Exploited in the Wild</title>
       <link>https://socprime.com/blog/detect-cve-2025-24813-exploitation/</link>
       <pubDate>Fri, 21 Mar 2025 13:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAT-5918 Targets Taiwan's Critical Infrastructure Using Web Shells and Open-Source Tools</title>
+      <link>https://thehackernews.com/2025/03/uat-5918-targets-taiwans-critical.html</link>
+      <pubDate>Fri, 21 Mar 2025 13:54:00 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 12</title>
@@ -26,11 +46,6 @@
       <title>Cybercriminals Exploit CheckPoint Antivirus Driver in Malicious Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/cybercriminals-exploit-checkpoint/</link>
       <pubDate>Fri, 21 Mar 2025 12:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 21 Mar 2025 12:30:04 +0000</pubDate>
     </item>
     <item>
       <title>When Python Is Poisoned | How Runtime Security Stops the tj-actions Attack</title>
@@ -93,7 +108,7 @@
       <pubDate>Fri, 21 Mar 2025 05:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub Actions Supply Chain Attack: A Targeted Attack on Coinbase Expanded to the Widespread tj-actions/changed-files Incident: Threat Assessment</title>
+      <title>GitHub Actions Supply Chain Attack: A Targeted Attack on Coinbase Expanded to the Widespread tj-actions/changed-files Incident: Threat Assessment (Updated 3/21)</title>
       <link>https://unit42.paloaltonetworks.com/github-actions-supply-chain-attack/</link>
       <pubDate>Fri, 21 Mar 2025 02:00:11 +0000</pubDate>
     </item>
@@ -186,11 +201,6 @@
       <title>Mobile Security &amp; Malware Issue 3st Week of March, 2025</title>
       <link>https://asec.ahnlab.com/en/86960/</link>
       <pubDate>Thu, 20 Mar 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The NYPD is sending more drones to 911 calls, but privacy advocates don’t like the view</title>
-      <link>https://therecord.media/nypd-drones-as-first-responders-911-calls-privacy-surveillance</link>
-      <pubDate>Thu, 20 Mar 2025 14:01:44 +0000</pubDate>
     </item>
     <item>
       <title>Rooted Devices 250 Times More Vulnerable to Compromise</title>
@@ -296,16 +306,6 @@
       <title>RansomHub: Attackers Leverage New Custom Backdoor</title>
       <link>https://www.security.com/threat-intelligence/ransomhub-betruger-backdoor</link>
       <pubDate>Thu, 20 Mar 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over Half a Million Hit by Pennsylvania Schools Union Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/half-million-hit-pennsylvania/</link>
-      <pubDate>Thu, 20 Mar 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds NAKIVO Vulnerability to KEV Catalog Amid Active Exploitation</title>
-      <link>https://thehackernews.com/2025/03/cisa-adds-nakivo-vulnerability-to-kev.html</link>
-      <pubDate>Thu, 20 Mar 2025 09:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
