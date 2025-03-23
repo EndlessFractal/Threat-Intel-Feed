@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 04:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 06:27:12 +0000</lastBuildDate>
+    <item>
+      <title>GitHub Supply Chain Breach: Coinbase Attack Exposes 218 Repositories, Leaks CI/CD Secrets</title>
+      <link>https://thehackernews.com/2025/03/github-supply-chain-breach-coinbase.html</link>
+      <pubDate>Sun, 23 Mar 2025 05:26:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 23 Mar 2025 03:50:04 +0000</pubDate>
+      <pubDate>Sun, 23 Mar 2025 04:50:03 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Treasury removed sanctions against the crypto mixer service Tornado Cash</title>
@@ -300,11 +305,6 @@
     <item>
       <title>Schneider Electric Enerlin’X IFE and eIFE</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-079-02</link>
-      <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Simcenter Femap</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-079-03</link>
       <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
