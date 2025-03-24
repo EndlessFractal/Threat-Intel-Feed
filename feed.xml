@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 20:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 22:20:18 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 24 Mar 2025 21:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese hackers spent four years inside Asian telco’s networks</title>
+      <link>https://therecord.media/chinese-hackers-spent-years-telco</link>
+      <pubDate>Mon, 24 Mar 2025 20:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese APT Weaver Ant infiltrated a telco in Asia for over four years</title>
+      <link>https://securityaffairs.com/175800/apt/chinese-apt-weaver-ant-infiltrated-a-telco-for-over-four-years.html</link>
+      <pubDate>Mon, 24 Mar 2025 20:36:35 +0000</pubDate>
+    </item>
     <item>
       <title>Thai officers intercept Starlink transmitters allegedly headed for Myanmar scam centers</title>
       <link>https://therecord.media/thai-officers-intercept-starlink-transmitters-myanmar-cyber-scam-compounds</link>
       <pubDate>Mon, 24 Mar 2025 19:34:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 24 Mar 2025 19:05:03 +0000</pubDate>
     </item>
     <item>
       <title>Critical Ingress NGINX Controller Vulnerability Allows RCE Without Authentication</title>
@@ -78,11 +88,6 @@
       <pubDate>Mon, 24 Mar 2025 14:56:19 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberattack hits Ukrainian state railway, disrupting online ticket sales</title>
-      <link>https://therecord.media/ukraine-railway-ukrzaliznytsia-cyberattack-online-ticket-system</link>
-      <pubDate>Mon, 24 Mar 2025 14:22:58 +0000</pubDate>
-    </item>
-    <item>
       <title>VanHelsing RaaS Launch: 3 Victims, $5K Entry Fee, Multi-OS, and Double Extortion Tactics</title>
       <link>https://thehackernews.com/2025/03/vanhelsing-raas-launch-3-victims-5k.html</link>
       <pubDate>Mon, 24 Mar 2025 14:06:00 +0000</pubDate>
@@ -95,6 +100,11 @@
     <item>
       <title>Georgia Man Charged in Danbury Kidnapping Conspiracy</title>
       <link>https://www.justice.gov/usao-ct/pr/georgia-man-charged-danbury-kidnapping-conspiracy</link>
+      <pubDate>Mon, 24 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>California Man Pleads Guilty To Cyber Stalking And Making Threats To Injure</title>
+      <link>https://www.justice.gov/usao-mdfl/pr/california-man-pleads-guilty-cyber-stalking-and-making-threats-injure</link>
       <pubDate>Mon, 24 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>Attackers Use Fake CAPTCHAs to Deploy Lumma Stealer RAT</title>
       <link>https://www.infosecurity-magazine.com/news/attackers-fake-captchas-lumma/</link>
       <pubDate>Fri, 21 Mar 2025 11:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RansomHub affiliate uses custom backdoor Betruger</title>
-      <link>https://securityaffairs.com/175701/cyber-crime/ransomhub-affiliate-uses-custom-backdoor-betruger.html</link>
-      <pubDate>Fri, 21 Mar 2025 11:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 Critical Network Pentest Findings IT Teams Overlook</title>
-      <link>https://thehackernews.com/2025/03/10-critical-network-pentest-findings-it.html</link>
-      <pubDate>Fri, 21 Mar 2025 11:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
