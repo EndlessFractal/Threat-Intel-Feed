@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Mar 2025 16:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 18:29:00 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 25 Mar 2025 17:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android Malware Uses .NET MAUI to Evade Detection</title>
+      <link>https://www.infosecurity-magazine.com/news/android-malware-uses-net-maui/</link>
+      <pubDate>Tue, 25 Mar 2025 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ReaderUpdate Reforged | Melting Pot of macOS Malware Adds Go to Crystal, Nim and Rust Variants</title>
+      <link>https://www.sentinelone.com/blog/readerupdate-reforged-melting-pot-of-macos-malware-adds-go-to-crystal-nim-and-rust-variants/</link>
+      <pubDate>Tue, 25 Mar 2025 16:40:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Use Atlantis AIO to Target 140+ Platforms</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-criminals-atlantis-aio-140/</link>
+      <pubDate>Tue, 25 Mar 2025 16:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>The AI Fix #43: I, for one, welcome our new robot overlords!</title>
       <link>https://grahamcluley.com/the-ai-fix-43/</link>
       <pubDate>Tue, 25 Mar 2025 15:59:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 25 Mar 2025 15:20:03 +0000</pubDate>
     </item>
     <item>
       <title>Europol Warns Criminal Networks Are Embracing AI, Making Fraud Smarter and Harder to Detect</title>
@@ -45,6 +60,31 @@
     <item>
       <title>Dark Web Mentions of Malicious AI Tools Spike 200%</title>
       <link>https://www.infosecurity-magazine.com/news/dark-web-mentions-malicious-ai/</link>
+      <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB RMC-100</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-084-01</link>
+      <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Verve Asset Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-084-02</link>
+      <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation 440G TLS-Z</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-084-03</link>
+      <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inaba Denki Sangyo CHOCO TEI WATCHER Mini</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-084-04</link>
+      <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Four Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/03/25/cisa-releases-four-industrial-control-systems-advisories</link>
       <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -266,46 +306,6 @@
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 38</title>
       <link>https://securityaffairs.com/175746/malware/security-affairs-malware-newsletter-round-38.html</link>
       <pubDate>Sun, 23 Mar 2025 18:58:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 516 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/175740/breaking-news/security-affairs-newsletter-round-516-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 23 Mar 2025 18:41:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Google Chrome knows about you, with Carey Parker (Lock and Code S06E06)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2025/03/what-google-chrome-knows-about-you-with-carey-parker-lock-and-code-s06e06</link>
-      <pubDate>Sun, 23 Mar 2025 17:31:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Let's Talk About HTTP Headers., (Sun, Mar 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/31792</link>
-      <pubDate>Sun, 23 Mar 2025 16:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warning Against Phishing Emails Distributing GuLoader Malware by Impersonating a Famous International Shipping Company</title>
-      <link>https://asec.ahnlab.com/en/87002/</link>
-      <pubDate>Sun, 23 Mar 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAT-5918 ATP group targets critical Taiwan</title>
-      <link>https://securityaffairs.com/175728/hacking/uat-5918-atp-group-targets-critical-taiwan.html</link>
-      <pubDate>Sun, 23 Mar 2025 14:27:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Health Care: Cyber Attacks, Worrying Trends and Solutions</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/health-care-cyber-attacks-worrying-trends-and-solutions</link>
-      <pubDate>Sun, 23 Mar 2025 09:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coinbase Initially Targeted in GitHub Actions Supply Chain Attack; 218 Repositories' CI/CD Secrets Exposed</title>
-      <link>https://thehackernews.com/2025/03/github-supply-chain-breach-coinbase.html</link>
-      <pubDate>Sun, 23 Mar 2025 05:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Treasury Lifts Tornado Cash Sanctions Amid North Korea Money Laundering Probe</title>
-      <link>https://thehackernews.com/2025/03/us-treasury-lifts-tornado-cash.html</link>
-      <pubDate>Sat, 22 Mar 2025 07:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
