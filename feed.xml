@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Mar 2025 01:41:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 03:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 25 Mar 2025 02:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Tuesday, March 25th, 2025 https://isc.sans.edu/podcastdetail/9378, (Tue, Mar 25th)</title>
+      <link>https://isc.sans.edu/diary/rss/31798</link>
+      <pubDate>Tue, 25 Mar 2025 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Cyberattack causes delays for South Africa’s largest chicken producer</title>
       <link>https://therecord.media/cyberattack-delays-south-african-chicken-producer</link>
       <pubDate>Tue, 25 Mar 2025 00:23:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 25 Mar 2025 00:10:04 +0000</pubDate>
     </item>
     <item>
       <title>Chinese hackers spent four years inside Asian telco’s networks</title>
@@ -178,6 +183,11 @@
       <pubDate>Mon, 24 Mar 2025 07:22:44 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Falcon Exposure Management Expands Security to Unmanaged Network Assets with Network Vulnerability Assessment</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-security-to-unmanaged-network-assets-with-nva/</link>
+      <pubDate>Mon, 24 Mar 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Monday, March 24th, 2025 https://isc.sans.edu/podcastdetail/9376, (Mon, Mar 24th)</title>
       <link>https://isc.sans.edu/diary/rss/31794</link>
       <pubDate>Mon, 24 Mar 2025 02:00:02 +0000</pubDate>
@@ -201,6 +211,11 @@
       <title>Let's Talk About HTTP Headers., (Sun, Mar 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/31792</link>
       <pubDate>Sun, 23 Mar 2025 16:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warning Against Phishing Emails Distributing GuLoader Malware by Impersonating a Famous International Shipping Company</title>
+      <link>https://asec.ahnlab.com/en/87002/</link>
+      <pubDate>Sun, 23 Mar 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>UAT-5918 ATP group targets critical Taiwan</title>
@@ -291,21 +306,6 @@
       <title>When Python Is Poisoned | How Runtime Security Stops the tj-actions Attack</title>
       <link>https://www.sentinelone.com/blog/when-python-is-poisoned-how-runtime-security-stops-the-tj-actions-attack/</link>
       <pubDate>Fri, 21 Mar 2025 12:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cryptocurrency Financial Services Firm "Gotbit" and Founder Plead Guilty to Market Manipulation and Fraud Conspiracy</title>
-      <link>https://www.justice.gov/usao-ma/pr/cryptocurrency-financial-services-firm-gotbit-and-founder-plead-guilty-market</link>
-      <pubDate>Fri, 21 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Releases Post-Quantum Cryptography Timeline</title>
-      <link>https://www.schneier.com/blog/archives/2025/03/ncsc-releases-post-quantum-cryptography-timeline.html</link>
-      <pubDate>Fri, 21 Mar 2025 11:47:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Use Fake CAPTCHAs to Deploy Lumma Stealer RAT</title>
-      <link>https://www.infosecurity-magazine.com/news/attackers-fake-captchas-lumma/</link>
-      <pubDate>Fri, 21 Mar 2025 11:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
