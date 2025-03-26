@@ -6,16 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Mar 2025 12:41:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 14:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Threat Actors Abuse Trust in Cloud Collaboration Platforms</title>
+      <link>https://www.infosecurity-magazine.com/news/threat-actors-abuse-cloud-platforms/</link>
+      <pubDate>Wed, 26 Mar 2025 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strengthening Europe’s Cybersecurity Future: A Strategic Imperative for 2025</title>
+      <link>https://blog.eclecticiq.com/strengthening-europes-cybersecurity-future-a-strategic-imperative-for-2025</link>
+      <pubDate>Wed, 26 Mar 2025 14:07:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>EncryptHub Exploits Windows Zero-Day to Deploy Rhadamanthys and StealC Malware</title>
+      <link>https://thehackernews.com/2025/03/encrypthub-exploits-windows-zero-day-to.html</link>
+      <pubDate>Wed, 26 Mar 2025 13:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RedCurl Shifts from Espionage to Ransomware with First-Ever QWCrypt Deployment</title>
+      <link>https://thehackernews.com/2025/03/redcurl-shifts-from-espionage-to.html</link>
+      <pubDate>Wed, 26 Mar 2025 13:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious npm Packages Deliver Sophisticated Reverse Shells</title>
+      <link>https://www.infosecurity-magazine.com/news/malicious-npm-packages-deliver/</link>
+      <pubDate>Wed, 26 Mar 2025 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-1974: Critical Set of Vulnerabilities in Ingress NGINX Controller for Kubernetes Leading to Unauthenticated RCE</title>
+      <link>https://socprime.com/blog/cve-2025-1974-aka-ingress-nightmare/</link>
+      <pubDate>Wed, 26 Mar 2025 12:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 26 Mar 2025 12:30:06 +0000</pubDate>
+    </item>
     <item>
       <title>UK warns of emerging threat from ‘sadistic’ online ‘Com networks’ of teenage boys</title>
       <link>https://therecord.media/uk-threat-com-sadistic-teenager</link>
       <pubDate>Wed, 26 Mar 2025 12:12:40 +0000</pubDate>
     </item>
     <item>
+      <title>Malicious npm Package Modifies Local 'ethers' Library to Launch Reverse Shell Attacks</title>
+      <link>https://thehackernews.com/2025/03/malicious-npm-package-modifies-local.html</link>
+      <pubDate>Wed, 26 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ETSI Publishes New Quantum-Safe Encryption Standards</title>
       <link>https://www.infosecurity-magazine.com/news/etsi-quantum-safe-encryption/</link>
       <pubDate>Wed, 26 Mar 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sparring in the Cyber Ring: Using Automated Pentesting to Build Resilience</title>
+      <link>https://thehackernews.com/2025/03/sparring-in-cyber-ring-using-automated.html</link>
+      <pubDate>Wed, 26 Mar 2025 11:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Zero-Day Alert: Google Releases Chrome Patch for Exploit Used in Russian Espionage Attacks</title>
@@ -41,11 +86,6 @@
       <title>ENISA Probes Space Threat Landscape in New Report</title>
       <link>https://www.infosecurity-magazine.com/news/enisa-probes-space-threat/</link>
       <pubDate>Wed, 26 Mar 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 26 Mar 2025 10:25:04 +0000</pubDate>
     </item>
     <item>
       <title>How PAM Mitigates Insider Threats: Preventing Data Breaches, Privilege Misuse, and More</title>
@@ -266,46 +306,6 @@
       <title>ISC Stormcast For Tuesday, March 25th, 2025 https://isc.sans.edu/podcastdetail/9378, (Tue, Mar 25th)</title>
       <link>https://isc.sans.edu/diary/rss/31798</link>
       <pubDate>Tue, 25 Mar 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese APT Weaver Ant infiltrated a telco in Asia for over four years</title>
-      <link>https://securityaffairs.com/175800/apt/chinese-apt-weaver-ant-infiltrated-a-telco-for-over-four-years.html</link>
-      <pubDate>Mon, 24 Mar 2025 20:36:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Ingress NGINX Controller Vulnerability Allows RCE Without Authentication</title>
-      <link>https://thehackernews.com/2025/03/critical-ingress-nginx-controller.html</link>
-      <pubDate>Mon, 24 Mar 2025 18:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VanHelsingRaaS Expands Rapidly in Cybercrime Market</title>
-      <link>https://www.infosecurity-magazine.com/news/vanhelsing-raas-expands-rapidly/</link>
-      <pubDate>Mon, 24 Mar 2025 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Railway Systems Hit by Targeted Cyber-Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/ukraine-railway-systems-targeted/</link>
-      <pubDate>Mon, 24 Mar 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Adds Inline Data Protection to Edge for Business to Block GenAI Data Leaks</title>
-      <link>https://thehackernews.com/2025/03/microsoft-adds-inline-data-protection.html</link>
-      <pubDate>Mon, 24 Mar 2025 16:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft unveils Microsoft Security Copilot agents and new protections for AI</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/</link>
-      <pubDate>Mon, 24 Mar 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-29927 Next.js Middleware Authorization Bypass Vulnerability</title>
-      <link>https://socprime.com/blog/cve-2025-29927-next-js-vulnerability/</link>
-      <pubDate>Mon, 24 Mar 2025 15:39:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Authorities Seize 1842 Devices in Africa’s Cybercrime Crackdown</title>
-      <link>https://www.infosecurity-magazine.com/news/interpol-seize-1842-devices-africa/</link>
-      <pubDate>Mon, 24 Mar 2025 15:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
