@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Mar 2025 01:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 02:59:23 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 26 Mar 2025 00:25:05 +0000</pubDate>
+      <pubDate>Wed, 26 Mar 2025 01:25:03 +0000</pubDate>
     </item>
     <item>
       <title>[Guest Diary] Leveraging CNNs and Entropy-Based Feature Selection to Identify Potential Malware Artifacts of Interest, (Wed, Mar 26th)</title>
@@ -248,6 +248,11 @@
       <pubDate>Mon, 24 Mar 2025 15:25:05 +0000</pubDate>
     </item>
     <item>
+      <title>Report on Ransomware Attacks Targeting Korean Companies</title>
+      <link>https://asec.ahnlab.com/en/87009/</link>
+      <pubDate>Mon, 24 Mar 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Medusa ransomware uses malicious Windows driver ABYSSWORKER to disable security tools</title>
       <link>https://securityaffairs.com/175790/security/medusa-ransomware-uses-abyssworker-driver.html</link>
       <pubDate>Mon, 24 Mar 2025 14:56:19 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>How to Balance Password Security Against User Experience</title>
       <link>https://thehackernews.com/2025/03/how-to-balance-password-security.html</link>
       <pubDate>Mon, 24 Mar 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>More Countries are Demanding Backdoors to Encrypted Apps</title>
-      <link>https://www.schneier.com/blog/archives/2025/03/more-countries-are-demanding-back-doors-to-encrypted-apps.html</link>
-      <pubDate>Mon, 24 Mar 2025 10:38:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
