@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Mar 2025 18:29:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 20:23:07 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 26 Mar 2025 19:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel chiefs again say they did not share classified info amid new questions on war chats</title>
+      <link>https://therecord.media/intel-chiefs-again-say-they-did-not-share-classified-info-house-hearing</link>
+      <pubDate>Wed, 26 Mar 2025 18:28:18 +0000</pubDate>
+    </item>
     <item>
       <title>Update VMware Tools for Windows Now: High-Severity Flaw Lets Hackers Bypass Authentication</title>
       <link>https://www.techrepublic.com/article/news-vmware-tools-windows-vulnerability/</link>
       <pubDate>Wed, 26 Mar 2025 18:26:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 26 Mar 2025 17:35:04 +0000</pubDate>
     </item>
     <item>
       <title>Blasting Past Webp</title>
@@ -98,13 +103,13 @@
       <pubDate>Wed, 26 Mar 2025 12:45:29 +0000</pubDate>
     </item>
     <item>
-      <title>UK warns of emerging threat from ‘sadistic’ online ‘Com networks’ of teenage boys</title>
-      <link>https://therecord.media/uk-threat-com-sadistic-teenager</link>
-      <pubDate>Wed, 26 Mar 2025 12:12:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Air Force Member Charged with Sexual Exploitation of a Nine-Year-Old Child on Long Island</title>
       <link>https://www.justice.gov/usao-edny/pr/air-force-member-charged-sexual-exploitation-nine-year-old-child-long-island</link>
+      <pubDate>Wed, 26 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/03/26/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Wed, 26 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Oops! Google accidentally deletes some users’ Maps Timeline data</title>
       <link>https://www.malwarebytes.com/blog/news/2025/03/oops-google-accidentally-deletes-some-users-maps-timeline-data</link>
       <pubDate>Tue, 25 Mar 2025 10:43:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Astral Foods, South Africa’s largest poultry producer, lost over $1M due to a cyberattack</title>
-      <link>https://securityaffairs.com/175833/security/astral-foods-cyber-attack.html</link>
-      <pubDate>Tue, 25 Mar 2025 10:14:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
