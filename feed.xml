@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Mar 2025 02:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 04:24:47 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 26 Mar 2025 01:25:03 +0000</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, March 26th, 2025 https://isc.sans.edu/podcastdetail/9380, (Wed, Mar 26th)</title>
+      <link>https://isc.sans.edu/diary/rss/31802</link>
+      <pubDate>Wed, 26 Mar 2025 02:05:03 +0000</pubDate>
     </item>
     <item>
       <title>[Guest Diary] Leveraging CNNs and Entropy-Based Feature Selection to Identify Potential Malware Artifacts of Interest, (Wed, Mar 26th)</title>
@@ -301,11 +306,6 @@
       <title>VSCode Marketplace Removes Two Extensions Deploying Early-Stage Ransomware</title>
       <link>https://thehackernews.com/2025/03/vscode-marketplace-removes-two.html</link>
       <pubDate>Mon, 24 Mar 2025 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Balance Password Security Against User Experience</title>
-      <link>https://thehackernews.com/2025/03/how-to-balance-password-security.html</link>
-      <pubDate>Mon, 24 Mar 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
