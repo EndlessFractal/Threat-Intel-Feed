@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 20:22:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 22:19:39 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 27 Mar 2025 20:15:03 +0000</pubDate>
+      <pubDate>Thu, 27 Mar 2025 21:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos ranked #1 overall for Firewall, MDR, and EDR in the G2 Spring 2025 Reports</title>
+      <link>https://news.sophos.com/en-us/2025/03/27/sophos-ranked-1-overall-for-firewall-mdr-and-edr-in-the-g2-spring-2025-reports/</link>
+      <pubDate>Thu, 27 Mar 2025 20:58:26 +0000</pubDate>
     </item>
     <item>
       <title>Android Malware Exploits a Microsoft-Related Security Blind Spot to Avoid Detection</title>
@@ -120,6 +125,11 @@
     <item>
       <title>Justice Department Disrupts Hamas Terrorist Financing Scheme Through Seizure of Cryptocurrency</title>
       <link>https://www.justice.gov/opa/pr/justice-department-disrupts-hamas-terrorist-financing-scheme-through-seizure-cryptocurrency</link>
+      <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leader Of $23 Million Health Care Fraud Scheme Pleads Guilty</title>
+      <link>https://www.justice.gov/usao-sdny/pr/leader-23-million-health-care-fraud-scheme-pleads-guilty</link>
       <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>EncryptHub Exploits Windows Zero-Day to Deploy Rhadamanthys and StealC Malware</title>
       <link>https://thehackernews.com/2025/03/encrypthub-exploits-windows-zero-day-to.html</link>
       <pubDate>Wed, 26 Mar 2025 13:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RedCurl Shifts from Espionage to Ransomware with First-Ever QWCrypt Deployment</title>
-      <link>https://thehackernews.com/2025/03/redcurl-shifts-from-espionage-to.html</link>
-      <pubDate>Wed, 26 Mar 2025 13:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Packages Deliver Sophisticated Reverse Shells</title>
-      <link>https://www.infosecurity-magazine.com/news/malicious-npm-packages-deliver/</link>
-      <pubDate>Wed, 26 Mar 2025 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
