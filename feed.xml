@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 06:29:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 08:27:13 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 27 Mar 2025 04:40:03 +0000</pubDate>
+      <pubDate>Thu, 27 Mar 2025 07:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns of Sitecore RCE Flaws; Active Exploits Hit Next.js and DrayTek Devices</title>
+      <link>https://thehackernews.com/2025/03/cisa-flags-two-six-year-old-sitecore.html</link>
+      <pubDate>Thu, 27 Mar 2025 06:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NetApp SnapCenter Flaw Could Let Users Gain Remote Admin Access on Plug-In Systems</title>
+      <link>https://thehackernews.com/2025/03/netapp-snapcenter-flaw-could-let-users.html</link>
+      <pubDate>Thu, 27 Mar 2025 06:06:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, March 27th, 2025 https://isc.sans.edu/podcastdetail/9382, (Thu, Mar 27th)</title>
@@ -75,6 +85,11 @@
     <item>
       <title>Your Guide to Data Governance in an AI-Driven World</title>
       <link>https://www.security.com/expert-perspectives/your-guide-data-governance-ai-driven-world</link>
+      <pubDate>Wed, 26 Mar 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, March 2025</title>
+      <link>https://asec.ahnlab.com/en/87037/</link>
       <pubDate>Wed, 26 Mar 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -290,21 +305,6 @@
     <item>
       <title>ABB RMC-100</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-084-01</link>
-      <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Verve Asset Manager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-084-02</link>
-      <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation 440G TLS-Z</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-084-03</link>
-      <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inaba Denki Sangyo CHOCO TEI WATCHER mini</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-084-04</link>
       <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
