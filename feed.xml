@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 18:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 20:22:17 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 27 Mar 2025 20:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Malware Exploits a Microsoft-Related Security Blind Spot to Avoid Detection</title>
+      <link>https://www.techrepublic.com/article/news-android-malware-microsoft-net-maui/</link>
+      <pubDate>Thu, 27 Mar 2025 20:05:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPU Device Plugins | Unveiling Risks in Kubernetes Workloads</title>
+      <link>https://www.sentinelone.com/blog/gpu-device-plugins-unveiling-risks-in-kubernetes-workloads/</link>
+      <pubDate>Thu, 27 Mar 2025 19:49:39 +0000</pubDate>
+    </item>
     <item>
       <title>Money Laundering 101, and why Joe is worried</title>
       <link>https://blog.talosintelligence.com/money-laundering-101-and-why-joe-is-worried/</link>
       <pubDate>Thu, 27 Mar 2025 18:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 27 Mar 2025 17:15:03 +0000</pubDate>
     </item>
     <item>
       <title>Sitecore "thumbnailsaccesstoken" Deserialization Scans (and some new reports) CVE-2025-27218, (Thu, Mar 27th)</title>
@@ -120,6 +130,16 @@
     <item>
       <title>New York Man Sentenced To Two Years In Prison For Laundering Proceeds Of Fraudulent Schemes</title>
       <link>https://www.justice.gov/usao-nj/pr/new-york-man-sentenced-two-years-prison-laundering-proceeds-fraudulent-schemes</link>
+      <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>United States Seeks Civil Forfeiture of Approximately $23 Million in Cryptocurrency Seized from Gotbit</title>
+      <link>https://www.justice.gov/usao-ma/pr/united-states-seeks-civil-forfeiture-approximately-23-million-cryptocurrency-seized</link>
+      <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/03/27/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Malicious npm Packages Deliver Sophisticated Reverse Shells</title>
       <link>https://www.infosecurity-magazine.com/news/malicious-npm-packages-deliver/</link>
       <pubDate>Wed, 26 Mar 2025 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-1974: Critical Set of Vulnerabilities in Ingress NGINX Controller for Kubernetes Leading to Unauthenticated RCE</title>
-      <link>https://socprime.com/blog/cve-2025-1974-aka-ingress-nightmare/</link>
-      <pubDate>Wed, 26 Mar 2025 12:45:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Air Force Member Charged with Sexual Exploitation of a Nine-Year-Old Child on Long Island</title>
-      <link>https://www.justice.gov/usao-edny/pr/air-force-member-charged-sexual-exploitation-nine-year-old-child-long-island</link>
-      <pubDate>Wed, 26 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former Avon, NY, police trainee pleads guilty to possession of child pornography and cyberstalking</title>
-      <link>https://www.justice.gov/usao-wdny/pr/former-avon-ny-police-trainee-pleads-guilty-possession-child-pornography-and</link>
-      <pubDate>Wed, 26 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/03/26/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Wed, 26 Mar 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
