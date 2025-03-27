@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 16:27:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 18:28:58 +0000</lastBuildDate>
+    <item>
+      <title>Money Laundering 101, and why Joe is worried</title>
+      <link>https://blog.talosintelligence.com/money-laundering-101-and-why-joe-is-worried/</link>
+      <pubDate>Thu, 27 Mar 2025 18:01:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 27 Mar 2025 17:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sitecore "thumbnailsaccesstoken" Deserialization Scans (and some new reports) CVE-2025-27218, (Thu, Mar 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/31806</link>
+      <pubDate>Thu, 27 Mar 2025 17:05:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Morphing Meerkat Phishing Kit Mimics 114 Brands Using Victims’ DNS Email Records</title>
+      <link>https://thehackernews.com/2025/03/new-morphing-meerkat-phishing-kit.html</link>
+      <pubDate>Thu, 27 Mar 2025 16:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoffeeLoader Malware Loader Linked to SmokeLoader Operations</title>
+      <link>https://www.infosecurity-magazine.com/news/coffeeloader-linked-smokeloader/</link>
+      <pubDate>Thu, 27 Mar 2025 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s state railway restores online ticket sales after major cyberattack</title>
+      <link>https://therecord.media/ukraine-state-railway-restores-online-ticketing-after-cyberattack</link>
+      <pubDate>Thu, 27 Mar 2025 16:41:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Getting Phished Puts You in Mortal Danger</title>
+      <link>https://krebsonsecurity.com/2025/03/when-getting-phished-puts-you-in-mortal-danger/</link>
+      <pubDate>Thu, 27 Mar 2025 16:39:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Department of Labor’s journey to Zero Trust security with Microsoft Entra ID</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/03/27/us-department-of-labors-journey-to-zero-trust-security-with-microsoft-entra-id/</link>
+      <pubDate>Thu, 27 Mar 2025 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>PJobRAT Malware Targets Users in Taiwan via Fake Apps</title>
       <link>https://www.infosecurity-magazine.com/news/pjobrat-malware-targets-taiwan-via/</link>
@@ -21,11 +61,6 @@
       <title>Russia arrests three for allegedly creating Mamont malware, tied to over 300 cybercrimes</title>
       <link>https://therecord.media/mamont-banking-malware-arrests-russia</link>
       <pubDate>Thu, 27 Mar 2025 15:18:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 27 Mar 2025 15:15:03 +0000</pubDate>
     </item>
     <item>
       <title>“This fraud destroyed my life.” Man ends up with criminal record after ID was stolen</title>
@@ -168,14 +203,14 @@
       <pubDate>Thu, 27 Mar 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>British company Advanced fined £3m by privacy regulator over ransomware attack</title>
-      <link>https://therecord.media/advanced-fined-3-million-ransomware-attack-ico</link>
-      <pubDate>Thu, 27 Mar 2025 00:01:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Smashing Security podcast #410: Unleash the AI bot army against the scammers – now!</title>
       <link>https://grahamcluley.com/smashing-security-podcast-410/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving Cybersecurity and Productivity: How Threat Intelligence from Recorded Future Drives ROI Through Increased Efficiency</title>
+      <link>https://www.recordedfuture.com/blog/improving-cybersecurity-productivity-threat-intelligence-recorded-future-drives-roi</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Security expert Troy Hunt hit by phishing attack</title>
@@ -271,41 +306,6 @@
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/03/26/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Wed, 26 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Package Modifies Local 'ethers' Library to Launch Reverse Shell Attacks</title>
-      <link>https://thehackernews.com/2025/03/malicious-npm-package-modifies-local.html</link>
-      <pubDate>Wed, 26 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ETSI Publishes New Quantum-Safe Encryption Standards</title>
-      <link>https://www.infosecurity-magazine.com/news/etsi-quantum-safe-encryption/</link>
-      <pubDate>Wed, 26 Mar 2025 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sparring in the Cyber Ring: Using Automated Pentesting to Build Resilience</title>
-      <link>https://thehackernews.com/2025/03/sparring-in-cyber-ring-using-automated.html</link>
-      <pubDate>Wed, 26 Mar 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-Day Alert: Google Releases Chrome Patch for Exploit Used in Russian Espionage Attacks</title>
-      <link>https://thehackernews.com/2025/03/zero-day-alert-google-releases-chrome.html</link>
-      <pubDate>Wed, 26 Mar 2025 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Data Poisoning</title>
-      <link>https://www.schneier.com/blog/archives/2025/03/ai-data-poisoning.html</link>
-      <pubDate>Wed, 26 Mar 2025 11:07:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Booking.com phish uses fake CAPTCHAs to trick hotel staff into downloading malware</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/03/fake-booking-com-phish-uses-fake-captchas-to-trick-hotel-staff-into-downloading-malware</link>
-      <pubDate>Wed, 26 Mar 2025 11:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek users targeted with fake sponsored Google ads that deliver malware</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/03/deepseek-users-targeted-with-fake-sponsored-google-ads-that-deliver-malware</link>
-      <pubDate>Wed, 26 Mar 2025 11:01:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
