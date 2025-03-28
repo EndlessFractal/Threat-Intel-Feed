@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Mar 2025 03:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 04:25:31 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 28 Mar 2025 01:20:04 +0000</pubDate>
+      <pubDate>Fri, 28 Mar 2025 03:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Friday, March 28th, 2025 https://isc.sans.edu/podcastdetail/9384, (Fri, Mar 28th)</title>
+      <link>https://isc.sans.edu/diary/rss/31808</link>
+      <pubDate>Fri, 28 Mar 2025 02:00:03 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds Google Chromium Mojo flaw to its Known Exploited Vulnerabilities catalog</title>
@@ -301,11 +306,6 @@
       <title>BlackLock Ransomware Targeted by Cybersecurity Firm</title>
       <link>https://securityaffairs.com/175877/cyber-crime/blacklock-ransomware-targeted-by-cybersecurity-firm.html</link>
       <pubDate>Wed, 26 Mar 2025 14:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Abuse Trust in Cloud Collaboration Platforms</title>
-      <link>https://www.infosecurity-magazine.com/news/threat-actors-abuse-cloud-platforms/</link>
-      <pubDate>Wed, 26 Mar 2025 14:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
