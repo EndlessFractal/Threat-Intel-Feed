@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Mar 2025 12:42:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 14:19:42 +0000</lastBuildDate>
+    <item>
+      <title>Apache Tomcat: CVE-2025-24813</title>
+      <link>https://www.recordedfuture.com/blog/apache-tomcat-cve-2025-24813-vulnerability-analysis</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 28 Mar 2025 13:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover 46 Critical Flaws in Solar Inverters From Sungrow, Growatt, and SMA</title>
+      <link>https://thehackernews.com/2025/03/researchers-uncover-46-critical-flaws.html</link>
+      <pubDate>Fri, 28 Mar 2025 13:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firefox fixes flaw similar to Chrome zero-day used against Russian organizations</title>
+      <link>https://therecord.media/firefox-sandbox-vulnerability-similar-chrome-zero-day</link>
+      <pubDate>Fri, 28 Mar 2025 13:02:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 13</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-13-6/</link>
+      <pubDate>Fri, 28 Mar 2025 13:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Tale of Two Phishing Sites, (Fri, Mar 28th)</title>
+      <link>https://isc.sans.edu/diary/rss/31810</link>
+      <pubDate>Fri, 28 Mar 2025 12:17:25 +0000</pubDate>
+    </item>
     <item>
       <title>CoffeeLoader Detection: A New Sophisticated Malware Family Spread via SmokeLoader</title>
       <link>https://socprime.com/blog/coffee-loader-detection/</link>
@@ -18,9 +48,9 @@
       <pubDate>Fri, 28 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 28 Mar 2025 11:30:03 +0000</pubDate>
+      <title>CoffeeLoader Uses GPU-Based Armoury Packer to Evade EDR and Antivirus Detection</title>
+      <link>https://thehackernews.com/2025/03/coffeeloader-uses-gpu-based-armoury.html</link>
+      <pubDate>Fri, 28 Mar 2025 11:57:00 +0000</pubDate>
     </item>
     <item>
       <title>Morphing Meerkat PhaaS Platform Spoofs 100+ Brands</title>
@@ -173,11 +203,6 @@
       <pubDate>Thu, 27 Mar 2025 13:51:57 +0000</pubDate>
     </item>
     <item>
-      <title>Two Serbian journalists reportedly targeted with Pegasus spyware</title>
-      <link>https://therecord.media/two-serbian-journalists-targeted-with-pegasus-spyware</link>
-      <pubDate>Thu, 27 Mar 2025 13:44:48 +0000</pubDate>
-    </item>
-    <item>
       <title>No MFA? Expect Hefty Fines, UK’s ICO Warns</title>
       <link>https://www.infosecurity-magazine.com/news/mfa-expect-hefty-fines-uk-ico/</link>
       <pubDate>Thu, 27 Mar 2025 12:45:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>Which Top Cybersecurity Role of 2024 Was Featured in 64,000+ Job Postings?</title>
       <link>https://www.techrepublic.com/article/news-cybersecurity-job-market/</link>
       <pubDate>Thu, 27 Mar 2025 08:22:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>150,000 Sites Compromised by JavaScript Injection Promoting Chinese Gambling Platforms</title>
-      <link>https://thehackernews.com/2025/03/150000-sites-compromised-by-javascript.html</link>
-      <pubDate>Thu, 27 Mar 2025 08:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Sitecore RCE Flaws; Active Exploits Hit Next.js and DrayTek Devices</title>
-      <link>https://thehackernews.com/2025/03/cisa-flags-two-six-year-old-sitecore.html</link>
-      <pubDate>Thu, 27 Mar 2025 06:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NetApp SnapCenter Flaw Could Let Users Gain Remote Admin Access on Plug-In Systems</title>
-      <link>https://thehackernews.com/2025/03/netapp-snapcenter-flaw-could-let-users.html</link>
-      <pubDate>Thu, 27 Mar 2025 06:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, March 27th, 2025 https://isc.sans.edu/podcastdetail/9382, (Thu, Mar 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/31804</link>
-      <pubDate>Thu, 27 Mar 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #410: Unleash the AI bot army against the scammers – now!</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-410/</link>
-      <pubDate>Thu, 27 Mar 2025 00:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
