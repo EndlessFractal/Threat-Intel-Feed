@@ -6,21 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Mar 2025 16:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 18:30:09 +0000</lastBuildDate>
     <item>
       <title>Apache Tomcat: CVE-2025-24813</title>
       <link>https://www.recordedfuture.com/blog/apache-tomcat-cve-2025-24813-vulnerability-analysis</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>UK braced for ‘free speech’ row with JD Vance as far-right websites spurn Online Safety Act</title>
-      <link>https://therecord.media/uk-online-safety-act-us-social-media-jd-vance</link>
-      <pubDate>Fri, 28 Mar 2025 15:52:13 +0000</pubDate>
+      <title>Report: Personal info on federal judges is widely accessible online, leading to safety risks</title>
+      <link>https://therecord.media/personal-info-on-judges-widely-available-online</link>
+      <pubDate>Fri, 28 Mar 2025 17:37:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 28 Mar 2025 15:30:03 +0000</pubDate>
+      <pubDate>Fri, 28 Mar 2025 17:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability in most browsers abused in targeted attacks</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/03/vulnerability-in-most-browsers-abused-in-targeted-attacks</link>
+      <pubDate>Fri, 28 Mar 2025 16:46:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK braced for ‘free speech’ row with JD Vance as far-right websites spurn Online Safety Act</title>
+      <link>https://therecord.media/uk-online-safety-act-us-social-media-jd-vance</link>
+      <pubDate>Fri, 28 Mar 2025 15:52:13 +0000</pubDate>
     </item>
     <item>
       <title>Solar Power System Vulnerabilities Could Result in Blackouts</title>
@@ -113,11 +123,6 @@
       <pubDate>Fri, 28 Mar 2025 08:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>Stealing user credentials with evilginx</title>
-      <link>https://news.sophos.com/en-us/2025/03/28/stealing-user-credentials-with-evilginx/</link>
-      <pubDate>Fri, 28 Mar 2025 07:29:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Nine-Year-Old npm Packages Hijacked to Exfiltrate API Keys via Obfuscated Scripts</title>
       <link>https://thehackernews.com/2025/03/nine-year-old-npm-packages-hijacked-to.html</link>
       <pubDate>Fri, 28 Mar 2025 06:06:00 +0000</pubDate>
@@ -128,6 +133,11 @@
       <pubDate>Fri, 28 Mar 2025 05:44:00 +0000</pubDate>
     </item>
     <item>
+      <title>Kubernetes IngressNightmare Vulnerabilities: What You Need to Know</title>
+      <link>https://www.crowdstrike.com/en-us/blog/kubernetes-ingressnightmare-vulnerabilities-key-details/</link>
+      <pubDate>Fri, 28 Mar 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Friday, March 28th, 2025 https://isc.sans.edu/podcastdetail/9384, (Fri, Mar 28th)</title>
       <link>https://isc.sans.edu/diary/rss/31808</link>
       <pubDate>Fri, 28 Mar 2025 02:00:03 +0000</pubDate>
@@ -136,11 +146,6 @@
       <title>U.S. CISA adds Google Chromium Mojo flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/175936/security/u-s-cisa-adds-google-chromium-mojo-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Thu, 27 Mar 2025 23:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos ranked #1 overall for Firewall, MDR, and EDR in the G2 Spring 2025 Reports</title>
-      <link>https://news.sophos.com/en-us/2025/03/27/sophos-ranked-1-overall-for-firewall-mdr-and-edr-in-the-g2-spring-2025-reports/</link>
-      <pubDate>Thu, 27 Mar 2025 20:58:26 +0000</pubDate>
     </item>
     <item>
       <title>Android Malware Exploits a Microsoft-Related Security Blind Spot to Avoid Detection</title>
@@ -191,11 +196,6 @@
       <title>PJobRAT Malware Targets Users in Taiwan via Fake Apps</title>
       <link>https://www.infosecurity-magazine.com/news/pjobrat-malware-targets-taiwan-via/</link>
       <pubDate>Thu, 27 Mar 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>European officials increasingly certain Baltic Sea cable breaks are accidental, not sabotage</title>
-      <link>https://therecord.media/european-officials-baltic-sea-cable-breaks-accidental</link>
-      <pubDate>Thu, 27 Mar 2025 15:59:39 +0000</pubDate>
     </item>
     <item>
       <title>“This fraud destroyed my life.” Man ends up with criminal record after ID was stolen</title>
@@ -293,11 +293,6 @@
       <pubDate>Thu, 27 Mar 2025 11:00:32 +0000</pubDate>
     </item>
     <item>
-      <title>PJobRAT makes a comeback, takes another crack at chat apps</title>
-      <link>https://news.sophos.com/en-us/2025/03/27/pjobrat-makes-a-comeback-takes-another-crack-at-chat-apps/</link>
-      <pubDate>Thu, 27 Mar 2025 10:30:11 +0000</pubDate>
-    </item>
-    <item>
       <title>NCA Warns of Sadistic Online “Com” Networks</title>
       <link>https://www.infosecurity-magazine.com/news/nca-warns-of-sadistic-online-com/</link>
       <pubDate>Thu, 27 Mar 2025 10:30:00 +0000</pubDate>
@@ -306,6 +301,11 @@
       <title>Top 3 MS Office Exploits Hackers Use in 2025 – Stay Alert!</title>
       <link>https://thehackernews.com/2025/03/top-3-ms-office-exploits-hackers-use-in.html</link>
       <pubDate>Thu, 27 Mar 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Urges Domain Registrars to Improve Security</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-urges-domain-registrars/</link>
+      <pubDate>Thu, 27 Mar 2025 09:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
