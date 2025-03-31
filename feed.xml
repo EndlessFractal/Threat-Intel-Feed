@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Mar 2025 10:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 12:42:01 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 31 Mar 2025 11:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Chrome 0-Day, IngressNightmare, Solar Bugs, DNS Tactics, and More</title>
+      <link>https://thehackernews.com/2025/03/weekly-recap-chrome-0-day.html</link>
+      <pubDate>Mon, 31 Mar 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Signal Chat Leak and the NSA</title>
+      <link>https://www.schneier.com/blog/archives/2025/03/the-signal-chat-leak-and-the-nsa.html</link>
+      <pubDate>Mon, 31 Mar 2025 11:04:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beers with Talos: Year in Review episode</title>
+      <link>https://blog.talosintelligence.com/beers-with-talos-year-in-review-episode/</link>
+      <pubDate>Mon, 31 Mar 2025 11:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Impactful AWS Vulnerabilities You're Responsible For</title>
+      <link>https://thehackernews.com/2025/03/5-impactful-aws-vulnerabilities-youre.html</link>
+      <pubDate>Mon, 31 Mar 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>EU Commission to Invest €1.3bn in Cybersecurity and AI</title>
       <link>https://www.infosecurity-magazine.com/news/eu-commission-funding/</link>
@@ -18,9 +43,9 @@
       <pubDate>Mon, 31 Mar 2025 09:53:35 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 31 Mar 2025 09:40:04 +0000</pubDate>
+      <title>Russia-Linked Gamaredon Uses Troop-Related Lures to Deploy Remcos RAT in Ukraine</title>
+      <link>https://thehackernews.com/2025/03/russia-linked-gamaredon-uses-troop.html</link>
+      <pubDate>Mon, 31 Mar 2025 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>NCSC Urges Users to Patch Next.js Flaw Immediately</title>
@@ -101,6 +126,11 @@
       <title>Experts warn of the new sophisticate Crocodilus mobile banking Trojan</title>
       <link>https://securityaffairs.com/175976/malware/new-sophisticate-crocodilus-mobile-banking-trojan.html</link>
       <pubDate>Sat, 29 Mar 2025 16:41:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>£3 million fine for healthcare MSP with sloppy security after it was hit by ransomware attack</title>
+      <link>https://www.exponential-e.com/blog/3-million-fine-for-healthcare-msp-with-sloppy-security-after-it-was-hit-by-ransomware-attack</link>
+      <pubDate>Sat, 29 Mar 2025 11:27:05 +0000</pubDate>
     </item>
     <item>
       <title>New Android Trojan Crocodilus Abuses Accessibility to Steal Banking and Crypto Credentials</title>
@@ -276,36 +306,6 @@
       <title>Apache Tomcat: CVE-2025-24813</title>
       <link>https://www.recordedfuture.com/blog/apache-tomcat-cve-2025-24813-vulnerability-analysis</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos ranked #1 overall for Firewall, MDR, and EDR in the G2 Spring 2025 Reports</title>
-      <link>https://news.sophos.com/en-us/2025/03/27/sophos-ranked-1-overall-for-firewall-mdr-and-edr-in-the-g2-spring-2025-reports/</link>
-      <pubDate>Thu, 27 Mar 2025 20:58:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Malware Exploits a Microsoft-Related Security Blind Spot to Avoid Detection</title>
-      <link>https://www.techrepublic.com/article/news-android-malware-microsoft-net-maui/</link>
-      <pubDate>Thu, 27 Mar 2025 20:05:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPU Device Plugins | Unveiling Risks in Kubernetes Workloads</title>
-      <link>https://www.sentinelone.com/blog/gpu-device-plugins-unveiling-risks-in-kubernetes-workloads/</link>
-      <pubDate>Thu, 27 Mar 2025 19:49:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Money Laundering 101, and why Joe is worried</title>
-      <link>https://blog.talosintelligence.com/money-laundering-101-and-why-joe-is-worried/</link>
-      <pubDate>Thu, 27 Mar 2025 18:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sitecore "thumbnailsaccesstoken" Deserialization Scans (and some new reports) CVE-2025-27218, (Thu, Mar 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/31806</link>
-      <pubDate>Thu, 27 Mar 2025 17:05:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Morphing Meerkat Phishing Kit Mimics 114 Brands Using Victims’ DNS Email Records</title>
-      <link>https://thehackernews.com/2025/03/new-morphing-meerkat-phishing-kit.html</link>
-      <pubDate>Thu, 27 Mar 2025 16:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
