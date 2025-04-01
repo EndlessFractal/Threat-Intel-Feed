@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 14:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 16:26:07 +0000</lastBuildDate>
+    <item>
+      <title>Exclusive: Gen. Paul Nakasone says China is now our biggest cyber threat</title>
+      <link>https://therecord.media/nakasone-interview-china-ai-deepseek-doge</link>
+      <pubDate>Tue, 01 Apr 2025 16:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 01 Apr 2025 15:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>WP Ultimate CSV Importer Flaws Expose 20,000 Websites to Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/wp-ultimate-csv-importer-flaws/</link>
+      <pubDate>Tue, 01 Apr 2025 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia tightens cybersecurity measures as financial fraud hits record high</title>
+      <link>https://therecord.media/russia-tightens-cyber-measures-as-fraud-hits-record-high</link>
+      <pubDate>Tue, 01 Apr 2025 15:26:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #44: AI-generated malware, and a stunning AI breakthrough</title>
+      <link>https://grahamcluley.com/the-ai-fix-44/</link>
+      <pubDate>Tue, 01 Apr 2025 15:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK sets out new cyber reporting requirements for critical infrastructure</title>
+      <link>https://therecord.media/uk-sets-out-cyber-reporting-requirements-critical-infrastructure</link>
+      <pubDate>Tue, 01 Apr 2025 14:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lucid PhaaS Hits 169 Targets in 88 Countries Using iMessage and RCS Smishing</title>
+      <link>https://thehackernews.com/2025/04/lucid-phaas-hits-169-targets-in-88.html</link>
+      <pubDate>Tue, 01 Apr 2025 14:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>CrushFTP CVE-2025-2825 flaw actively exploited in the wild</title>
       <link>https://securityaffairs.com/176097/hacking/crushftp-cve-2025-2825-flaw-actively-exploited.html</link>
       <pubDate>Tue, 01 Apr 2025 14:09:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine Blames Russia for Railway Hack, Labels It "Act of Terrorism"</title>
+      <link>https://www.infosecurity-magazine.com/news/ukraine-russia-railway-hack/</link>
+      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New Phishing Attack Combines Vishing and DLL Sideloading Techniques</title>
@@ -43,9 +83,9 @@
       <pubDate>Tue, 01 Apr 2025 12:51:12 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 01 Apr 2025 12:45:03 +0000</pubDate>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/01/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>France’s antitrust authority fines Apple €150M for issues related to its App Tracking Transparency</title>
@@ -151,21 +191,6 @@
       <title>U.S. CISA adds Cisco Smart Licensing Utility flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/176073/hacking/u-s-cisa-adds-cisco-smart-licensing-utility-flaw-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Mon, 31 Mar 2025 19:56:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Latest gambit for Gamaredon: Fake Ukraine troop movement documents with malicious links</title>
-      <link>https://therecord.media/gamaredon-phishing-campaign-fake-ukraine-documents-remcos</link>
-      <pubDate>Mon, 31 Mar 2025 18:26:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>FTC says 23andMe purchaser must uphold existing privacy policy for data handling</title>
-      <link>https://therecord.media/ftc-23andme-purchaser-data-privacy</link>
-      <pubDate>Mon, 31 Mar 2025 17:54:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>British intel intern pleads guilty to smuggling top secret data out of protected facility</title>
-      <link>https://therecord.media/british-intern-gchq-charged-smuggling</link>
-      <pubDate>Mon, 31 Mar 2025 16:59:26 +0000</pubDate>
     </item>
     <item>
       <title>Russian Hackers Exploit CVE-2025-26633 via MSC EvilTwin to Deploy SilentPrism and DarkWisp</title>
@@ -281,31 +306,6 @@
       <title>Why we’re no longer doing April Fools’ Day</title>
       <link>https://www.malwarebytes.com/blog/personal/2025/03/why-were-no-longer-doing-april-fools-day</link>
       <pubDate>Mon, 31 Mar 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (March 24 – March 30)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/03/a-week-in-security-march-24-march-30</link>
-      <pubDate>Mon, 31 Mar 2025 08:08:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Navigate the 2025 Identity Threat Landscape</title>
-      <link>https://www.crowdstrike.com/en-us/blog/how-to-navigate-2025-identity-threat-landscape/</link>
-      <pubDate>Mon, 31 Mar 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Each Pillar of the 1st Amendment is Under Attack</title>
-      <link>https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/</link>
-      <pubDate>Mon, 31 Mar 2025 01:22:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, March 31st, 2025 https://isc.sans.edu/podcastdetail/9386, (Mon, Mar 31st)</title>
-      <link>https://isc.sans.edu/diary/rss/31812</link>
-      <pubDate>Mon, 31 Mar 2025 01:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA warns of RESURGE malware exploiting Ivanti flaw</title>
-      <link>https://securityaffairs.com/176040/breaking-news/cisa-warns-of-resurge-malware-exploiting-ivanti-flaw.html</link>
-      <pubDate>Sun, 30 Mar 2025 23:11:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
