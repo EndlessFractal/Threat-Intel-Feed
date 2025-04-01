@@ -6,16 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 16:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 18:28:11 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 01 Apr 2025 17:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 1,500 PostgreSQL Servers Compromised in Fileless Cryptocurrency Mining Campaign</title>
+      <link>https://thehackernews.com/2025/04/over-1500-postgresql-servers.html</link>
+      <pubDate>Tue, 01 Apr 2025 17:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>European Commission takes aim at end-to-end encryption and proposes Europol become an EU FBI</title>
+      <link>https://therecord.media/european-commission-takes-aim-encryption-europol-fbi-proposal</link>
+      <pubDate>Tue, 01 Apr 2025 16:28:25 +0000</pubDate>
+    </item>
     <item>
       <title>Exclusive: Gen. Paul Nakasone says China is now our biggest cyber threat</title>
       <link>https://therecord.media/nakasone-interview-china-ai-deepseek-doge</link>
       <pubDate>Tue, 01 Apr 2025 16:18:54 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 01 Apr 2025 15:45:03 +0000</pubDate>
+      <title>Transforming public sector security operations in the AI era</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/04/01/transforming-public-sector-security-operations-in-the-ai-era/</link>
+      <pubDate>Tue, 01 Apr 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise Gmail Users Can Now Send End-to-End Encrypted Emails to Any Platform</title>
+      <link>https://thehackernews.com/2025/04/enterprise-gmail-users-can-now-send-end.html</link>
+      <pubDate>Tue, 01 Apr 2025 15:34:00 +0000</pubDate>
     </item>
     <item>
       <title>WP Ultimate CSV Importer Flaws Expose 20,000 Websites to Attacks</title>
@@ -81,6 +101,11 @@
       <title>Digital disruptions continue for Russian transportation, this time at state railway</title>
       <link>https://therecord.media/russia-state-railway-rzd-ddos-website-app</link>
       <pubDate>Tue, 01 Apr 2025 12:51:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Lifecycle Services with Veeam Backup and Replication</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-091-01</link>
+      <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Releases Two Industrial Control Systems Advisories</title>
@@ -183,11 +208,6 @@
       <pubDate>Mon, 31 Mar 2025 23:46:37 +0000</pubDate>
     </item>
     <item>
-      <title>Canadian hacker arrested for allegedly stealing data from Texas Republican Party</title>
-      <link>https://therecord.media/canadian-hacker-arrested-texas-gop</link>
-      <pubDate>Mon, 31 Mar 2025 20:05:22 +0000</pubDate>
-    </item>
-    <item>
       <title>U.S. CISA adds Cisco Smart Licensing Utility flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/176073/hacking/u-s-cisa-adds-cisco-smart-licensing-utility-flaw-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Mon, 31 Mar 2025 19:56:01 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Russia-Linked Gamaredon Uses Troop-Related Lures to Deploy Remcos RAT in Ukraine</title>
       <link>https://thehackernews.com/2025/03/russia-linked-gamaredon-uses-troop.html</link>
       <pubDate>Mon, 31 Mar 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Urges Users to Patch Next.js Flaw Immediately</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-urges-patch-nextjs-flaw/</link>
-      <pubDate>Mon, 31 Mar 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Morphing Meerkat phishing kits exploit DNS MX records</title>
-      <link>https://securityaffairs.com/176029/cyber-crime/morphing-meerkat-phishing-kits-exploit-dns-mx.html</link>
-      <pubDate>Mon, 31 Mar 2025 08:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Seizes $8.2m from Romance Baiting Scammers</title>
-      <link>https://www.infosecurity-magazine.com/news/us-seizes-82m-from-romance-baiting/</link>
-      <pubDate>Mon, 31 Mar 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why we’re no longer doing April Fools’ Day</title>
-      <link>https://www.malwarebytes.com/blog/personal/2025/03/why-were-no-longer-doing-april-fools-day</link>
-      <pubDate>Mon, 31 Mar 2025 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
