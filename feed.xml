@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 18:28:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 20:23:53 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 01 Apr 2025 17:45:04 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2025 19:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft warns of critical flaw in Canon printer drivers</title>
+      <link>https://securityaffairs.com/176104/security/microsoft-warns-of-critical-flaw-in-canon-printer-drivers.html</link>
+      <pubDate>Tue, 01 Apr 2025 18:32:12 +0000</pubDate>
     </item>
     <item>
       <title>Over 1,500 PostgreSQL Servers Compromised in Fileless Cryptocurrency Mining Campaign</title>
@@ -105,6 +110,11 @@
     <item>
       <title>Rockwell Automation Lifecycle Services with Veeam Backup and Replication</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-091-01</link>
+      <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/01/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>EU Commission to Invest €1.3bn in Cybersecurity and AI</title>
       <link>https://www.infosecurity-magazine.com/news/eu-commission-funding/</link>
       <pubDate>Mon, 31 Mar 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Available now: 2024 Year in Review</title>
-      <link>https://blog.talosintelligence.com/available-now-2024-year-in-review/</link>
-      <pubDate>Mon, 31 Mar 2025 09:53:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-Linked Gamaredon Uses Troop-Related Lures to Deploy Remcos RAT in Ukraine</title>
-      <link>https://thehackernews.com/2025/03/russia-linked-gamaredon-uses-troop.html</link>
-      <pubDate>Mon, 31 Mar 2025 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
