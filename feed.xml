@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 10:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 12:42:25 +0000</lastBuildDate>
+    <item>
+      <title>Helping Your Clients Achieve NIST Compliance: A Step by Step Guide for Service Providers</title>
+      <link>https://thehackernews.com/2025/04/helping-your-clients-achieve-nist.html</link>
+      <pubDate>Wed, 02 Apr 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rational Astrologies and Security</title>
+      <link>https://www.schneier.com/blog/archives/2025/04/rational-astrologies-and-security.html</link>
+      <pubDate>Wed, 02 Apr 2025 11:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-1449: Rockwell Automation Verve Asset Manager Vulnerability Enables Adversaries to Gain Access to Run Arbitrary Commands</title>
+      <link>https://socprime.com/blog/cve-2025-1449-rockwell-automation-vulnerability/</link>
+      <pubDate>Wed, 02 Apr 2025 11:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea's Fake IT Worker Scheme Sets Sights on Europe</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korea-fake-it-worker-europe/</link>
+      <pubDate>Wed, 02 Apr 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 02 Apr 2025 10:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outlaw Group Uses SSH Brute-Force to Deploy Cryptojacking Malware on Linux Servers</title>
+      <link>https://thehackernews.com/2025/04/outlaw-group-uses-ssh-brute-force-to.html</link>
+      <pubDate>Wed, 02 Apr 2025 10:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>It takes two: The 2025 Sophos Active Adversary Report</title>
+      <link>https://news.sophos.com/en-us/2025/04/02/it-takes-two-the-2025-sophos-active-adversary-report/</link>
+      <pubDate>Wed, 02 Apr 2025 10:01:16 +0000</pubDate>
+    </item>
     <item>
       <title>TookPS: DeepSeek isn’t the only game in town</title>
       <link>https://securelist.com/tookps/116019/</link>
       <pubDate>Wed, 02 Apr 2025 10:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>How SSL Misconfigurations Impact Your Attack Surface</title>
+      <link>https://thehackernews.com/2025/04/how-ssl-misconfigurations-impact-your.html</link>
+      <pubDate>Wed, 02 Apr 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Steam Surges to Top of Most Spoofed Brands List in Q1</title>
@@ -21,11 +61,6 @@
       <title>ICO Apologizes After Data Protection Response Snafu</title>
       <link>https://www.infosecurity-magazine.com/news/ico-apologizes-data-protection/</link>
       <pubDate>Wed, 02 Apr 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 02 Apr 2025 08:55:03 +0000</pubDate>
     </item>
     <item>
       <title>Apple backported fixes for three actively exploited flaws to older devices</title>
@@ -51,6 +86,11 @@
       <title>New Malware Loaders Use Call Stack Spoofing, GitHub C2, and .NET Reactor for Stealth</title>
       <link>https://thehackernews.com/2025/04/new-malware-loaders-use-call-stack.html</link>
       <pubDate>Wed, 02 Apr 2025 05:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Urgent reminder” tax scam wants to phish your Microsoft credentials</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/04/urgent-reminder-tax-scam-wants-to-phish-your-microsoft-credentials</link>
+      <pubDate>Wed, 02 Apr 2025 05:19:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, April 2nd, 2025 https://isc.sans.edu/podcastdetail/9390, (Wed, Apr 2nd)</title>
@@ -228,11 +268,6 @@
       <pubDate>Tue, 01 Apr 2025 09:29:13 +0000</pubDate>
     </item>
     <item>
-      <title>“Urgent reminder” tax scam wants to phish your Microsoft credentials</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/04/urgent-reminder-tax-scam-wants-to-phish-your-microsoft-credentials</link>
-      <pubDate>Tue, 01 Apr 2025 09:19:19 +0000</pubDate>
-    </item>
-    <item>
       <title>Cyber Security and Resilience Bill Will Apply to 1000 UK Firms</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-security-resilience-bill/</link>
       <pubDate>Tue, 01 Apr 2025 08:45:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>U.S. CISA adds Cisco Smart Licensing Utility flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/176073/hacking/u-s-cisa-adds-cisco-smart-licensing-utility-flaw-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Mon, 31 Mar 2025 19:56:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Exploit CVE-2025-26633 via MSC EvilTwin to Deploy SilentPrism and DarkWisp</title>
-      <link>https://thehackernews.com/2025/03/russian-hackers-exploit-cve-2025-26633.html</link>
-      <pubDate>Mon, 31 Mar 2025 16:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyzing open-source bootloaders: Finding vulnerabilities faster with AI</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/03/31/analyzing-open-source-bootloaders-finding-vulnerabilities-faster-with-ai/</link>
-      <pubDate>Mon, 31 Mar 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Malware Variant RESURGE Exploits Ivanti Vulnerability</title>
-      <link>https://www.infosecurity-magazine.com/news/malware-resurge-exploits-ivanti/</link>
-      <pubDate>Mon, 31 Mar 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New innovations in Microsoft Purview for protected, AI-ready data</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/03/31/new-innovations-in-microsoft-purview-for-protected-ai-ready-data/</link>
-      <pubDate>Mon, 31 Mar 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClickFake Interview Campaign by Lazarus Targets Crypto Job Seekers</title>
-      <link>https://www.infosecurity-magazine.com/news/clickfake-interview-campaign/</link>
-      <pubDate>Mon, 31 Mar 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2025</title>
-      <link>https://www.techrepublic.com/article/top-tech-conferences-events/</link>
-      <pubDate>Mon, 31 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked Gamaredon targets Ukraine with Remcos RAT</title>
-      <link>https://securityaffairs.com/176057/cyber-warfare-2/russia-linked-gamaredon-targets-ukraine-with-remcos-rat.html</link>
-      <pubDate>Mon, 31 Mar 2025 13:52:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
