@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 08:28:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 10:22:10 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 03 Apr 2025 10:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over Half of Attacks on Electricity and Water Firms Are Destructive</title>
+      <link>https://www.infosecurity-magazine.com/news/half-attacks-electricity-water/</link>
+      <pubDate>Thu, 03 Apr 2025 09:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nearly 600 Phishing Domains Emerge Following Bybit Heist</title>
+      <link>https://www.infosecurity-magazine.com/news/over-500-phishing-domains-bybit/</link>
+      <pubDate>Thu, 03 Apr 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Patches Quick Share Vulnerability Enabling Silent File Transfers Without Consent</title>
+      <link>https://thehackernews.com/2025/04/google-patches-quick-share.html</link>
+      <pubDate>Thu, 03 Apr 2025 08:21:00 +0000</pubDate>
+    </item>
     <item>
       <title>Triada Malware Preloaded on Counterfeit Android Phones Infects 2,600+ Devices</title>
       <link>https://thehackernews.com/2025/04/triada-malware-preloaded-on-counterfeit.html</link>
       <pubDate>Thu, 03 Apr 2025 07:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 03 Apr 2025 07:10:03 +0000</pubDate>
     </item>
     <item>
       <title>New Triada Trojan comes preinstalled on Android devices</title>
@@ -291,21 +306,6 @@
       <title>CrushFTP CVE-2025-2825 flaw actively exploited in the wild</title>
       <link>https://securityaffairs.com/176097/hacking/crushftp-cve-2025-2825-flaw-actively-exploited.html</link>
       <pubDate>Tue, 01 Apr 2025 14:09:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Blames Russia for Railway Hack, Labels It "Act of Terrorism"</title>
-      <link>https://www.infosecurity-magazine.com/news/ukraine-russia-railway-hack/</link>
-      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Phishing Attack Combines Vishing and DLL Sideloading Techniques</title>
-      <link>https://www.infosecurity-magazine.com/news/phishing-attack-combines-vishing/</link>
-      <pubDate>Tue, 01 Apr 2025 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gamaredon Campaign Detection: russia-backed APT Group Targets Ukraine Using LNK Files to Spread Remcos Backdoor</title>
-      <link>https://socprime.com/blog/gamaredon-campaign-detection/</link>
-      <pubDate>Tue, 01 Apr 2025 13:29:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
