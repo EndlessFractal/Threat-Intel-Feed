@@ -6,16 +6,71 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 14:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 16:26:14 +0000</lastBuildDate>
     <item>
-      <title>Location, name, and photos of random kids shown to parents in child tracker mix up</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/04/location-name-and-photos-of-random-kids-shown-to-parents-in-child-tracker-mix-up</link>
-      <pubDate>Thu, 03 Apr 2025 13:36:57 +0000</pubDate>
+      <title>Threat actors leverage tax season to deploy tax-themed phishing campaigns</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/04/03/threat-actors-leverage-tax-season-to-deploy-tax-themed-phishing-campaigns/</link>
+      <pubDate>Thu, 03 Apr 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Online Platform for Child Exploitation Dismantled</title>
+      <link>https://www.infosecurity-magazine.com/news/online-platform-child-exploitation/</link>
+      <pubDate>Thu, 03 Apr 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poland’s prime minister says cyberattack targeted his party as election nears</title>
+      <link>https://therecord.media/poland-prime-minister-cyber-targeted</link>
+      <pubDate>Thu, 03 Apr 2025 15:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>QR codes sent in attachments are the new favorite for phishers</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/04/qr-codes-sent-in-attachments-are-the-new-favorite-for-phishers</link>
+      <pubDate>Thu, 03 Apr 2025 15:32:21 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 03 Apr 2025 13:10:03 +0000</pubDate>
+      <pubDate>Thu, 03 Apr 2025 15:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrushFTP Vulnerability Exploited Following Disclosure Issues</title>
+      <link>https://www.infosecurity-magazine.com/news/crushftp-flaw-exploited-disclosure/</link>
+      <pubDate>Thu, 03 Apr 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Evolution of App Control, A Carbon Black Legend</title>
+      <link>https://www.security.com/product-insights/evolution-app-control-carbon-black-legend</link>
+      <pubDate>Thu, 03 Apr 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers hit Ukrainian state agencies, critical infrastructure with new ‘Wrecksteel’ malware</title>
+      <link>https://therecord.media/hackers-ukraine-critical-infrastructure-malware</link>
+      <pubDate>Thu, 03 Apr 2025 14:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Payment Fraud Detection and Prevention: Here’s All To Know</title>
+      <link>https://www.techrepublic.com/article/payment-fraud-detection-prevention-guide/</link>
+      <pubDate>Thu, 03 Apr 2025 14:53:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>HellCat ransomware: what you need to know</title>
+      <link>https://www.tripwire.com/state-of-security/hellcat-ransomware-what-you-need-know</link>
+      <pubDate>Thu, 03 Apr 2025 14:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAC-0219 Attack Detection: A New Cyber-Espionage Campaign Using a PowerShell Stealer WRECKSTEEL</title>
+      <link>https://socprime.com/blog/detect-uac-0219-attacks-against-ukrainian-state-bodies/</link>
+      <pubDate>Thu, 03 Apr 2025 14:25:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol-led operation shuts down CSAM platform Kidflix, leading to 79 arrests</title>
+      <link>https://securityaffairs.com/176154/cyber-crime/europol-led-op-shuts-down-csam-platform-kidflix.html</link>
+      <pubDate>Thu, 03 Apr 2025 14:22:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Location, name, and photos of random kids shown to parents in child tracker mix up</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/04/location-name-and-photos-of-random-kids-shown-to-parents-in-child-tracker-mix-up</link>
+      <pubDate>Thu, 03 Apr 2025 13:36:57 +0000</pubDate>
     </item>
     <item>
       <title>8 Best Enterprise Password Managers</title>
@@ -38,8 +93,38 @@
       <pubDate>Thu, 03 Apr 2025 12:22:00 +0000</pubDate>
     </item>
     <item>
+      <title>Hitachi Energy RTU500 Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-01</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy TRMTracker</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-02</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB ACS880 Drives Containing CODESYS RTS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-03</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB Low Voltage DC Drives and Power Controllers CODESYS RTS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-04</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>B&amp;R APROL</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-05</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>NSA, CISA, FBI, and International Partners Release Cybersecurity Advisory on “Fast Flux,” a National Security Threat</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/04/03/nsa-cisa-fbi-and-international-partners-release-cybersecurity-advisory-fast-flux-national-security</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Five Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/03/cisa-releases-five-industrial-control-systems-advisories</link>
       <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -173,11 +258,6 @@
       <pubDate>Wed, 02 Apr 2025 14:33:42 +0000</pubDate>
     </item>
     <item>
-      <title>Western cyber aid to Ukraine faces strain as Russia's war drags on</title>
-      <link>https://therecord.media/western-cyber-aid-to-ukraine-faces-strain-war-drags</link>
-      <pubDate>Wed, 02 Apr 2025 14:26:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Surge in Scans for Juniper "t128" Default User, (Wed, Apr 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/31824</link>
       <pubDate>Wed, 02 Apr 2025 14:19:35 +0000</pubDate>
@@ -196,11 +276,6 @@
       <title>Bybit Heist Fuels Record Crypto-Theft Surge, Says CertiK</title>
       <link>https://www.infosecurity-magazine.com/news/record-crypto-theft-certik-bybit/</link>
       <pubDate>Wed, 02 Apr 2025 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean IT worker scam spreading to Europe after US law enforcement crackdown</title>
-      <link>https://therecord.media/north-korean-it-worker-scam-spreads-to-europe</link>
-      <pubDate>Wed, 02 Apr 2025 13:44:46 +0000</pubDate>
     </item>
     <item>
       <title>“Nudify” deepfakes stored unprotected online</title>
@@ -231,81 +306,6 @@
       <title>Rational Astrologies and Security</title>
       <link>https://www.schneier.com/blog/archives/2025/04/rational-astrologies-and-security.html</link>
       <pubDate>Wed, 02 Apr 2025 11:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-1449: Rockwell Automation Verve Asset Manager Vulnerability Enables Adversaries to Gain Access to Run Arbitrary Commands</title>
-      <link>https://socprime.com/blog/cve-2025-1449-rockwell-automation-vulnerability/</link>
-      <pubDate>Wed, 02 Apr 2025 11:03:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea's Fake IT Worker Scheme Sets Sights on Europe</title>
-      <link>https://www.infosecurity-magazine.com/news/north-korea-fake-it-worker-europe/</link>
-      <pubDate>Wed, 02 Apr 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outlaw Group Uses SSH Brute-Force to Deploy Cryptojacking Malware on Linux Servers</title>
-      <link>https://thehackernews.com/2025/04/outlaw-group-uses-ssh-brute-force-to.html</link>
-      <pubDate>Wed, 02 Apr 2025 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>It takes two: The 2025 Sophos Active Adversary Report</title>
-      <link>https://news.sophos.com/en-us/2025/04/02/2025-sophos-active-adversary-report/</link>
-      <pubDate>Wed, 02 Apr 2025 10:01:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>TookPS: DeepSeek isn’t the only game in town</title>
-      <link>https://securelist.com/tookps/116019/</link>
-      <pubDate>Wed, 02 Apr 2025 10:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>How SSL Misconfigurations Impact Your Attack Surface</title>
-      <link>https://thehackernews.com/2025/04/how-ssl-misconfigurations-impact-your.html</link>
-      <pubDate>Wed, 02 Apr 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steam Surges to Top of Most Spoofed Brands List in Q1</title>
-      <link>https://www.infosecurity-magazine.com/news/steam-surges-top-most-spoofed/</link>
-      <pubDate>Wed, 02 Apr 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICO Apologizes After Data Protection Response Snafu</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-apologizes-data-protection/</link>
-      <pubDate>Wed, 02 Apr 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple backported fixes for three actively exploited flaws to older devices</title>
-      <link>https://securityaffairs.com/176119/security/apple-backported-fixes-for-three-actively-exploited-flaws-to-older-devices.html</link>
-      <pubDate>Wed, 02 Apr 2025 08:52:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 Ways the UK Government Plans to Tighten Cyber Security Rules with New Bill</title>
-      <link>https://www.techrepublic.com/article/news-uk-cyber-security-resilience-bill/</link>
-      <pubDate>Wed, 02 Apr 2025 08:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spike in Palo Alto Networks scanner activity suggests imminent cyber threats</title>
-      <link>https://securityaffairs.com/176108/hacking/spike-in-palo-alto-networks-scanner-activity-suggests-imminent-cyber-threats.html</link>
-      <pubDate>Wed, 02 Apr 2025 07:29:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>FIN7 Deploys Anubis Backdoor to Hijack Windows Systems via Compromised SharePoint Sites</title>
-      <link>https://thehackernews.com/2025/04/fin7-deploys-anubis-backdoor-to-hijack.html</link>
-      <pubDate>Wed, 02 Apr 2025 06:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get a Lifetime of 1TB Cloud Storage for Only $60 with FolderFort</title>
-      <link>https://www.techrepublic.com/article/folderfort-storage-pro-plan-lifetime-subscription/</link>
-      <pubDate>Wed, 02 Apr 2025 06:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Malware Loaders Use Call Stack Spoofing, GitHub C2, and .NET Reactor for Stealth</title>
-      <link>https://thehackernews.com/2025/04/new-malware-loaders-use-call-stack.html</link>
-      <pubDate>Wed, 02 Apr 2025 05:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Urgent reminder” tax scam wants to phish your Microsoft credentials</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/04/urgent-reminder-tax-scam-wants-to-phish-your-microsoft-credentials</link>
-      <pubDate>Wed, 02 Apr 2025 05:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
