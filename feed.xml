@@ -6,11 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 08:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 10:22:42 +0000</lastBuildDate>
+    <item>
+      <title>1-15 December 2024 Cyber Attacks Timeline</title>
+      <link>https://www.hackmageddon.com/2025/04/04/1-15-december-2024-cyber-attacks-timeline/</link>
+      <pubDate>Fri, 04 Apr 2025 10:09:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese State Hackers Exploiting Newly Disclosed Ivanti Flaw</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-state-hackers-ivanti-flaw/</link>
+      <pubDate>Fri, 04 Apr 2025 10:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A journey into forgotten Null Session and MS-RPC interfaces, part 2</title>
+      <link>https://securelist.com/ms-rpc-security-mechanism-step-by-step/116036/</link>
+      <pubDate>Fri, 04 Apr 2025 10:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical flaw in Apache Parquet’s Java Library allows remote code execution</title>
+      <link>https://securityaffairs.com/176187/security/apache-parquets-java-library-critical-flaw.html</link>
+      <pubDate>Fri, 04 Apr 2025 10:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>OH-MY-DC: OIDC Misconfigurations in CI/CD</title>
+      <link>https://unit42.paloaltonetworks.com/oidc-misconfigurations-in-ci-cd/</link>
+      <pubDate>Fri, 04 Apr 2025 10:00:15 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 04 Apr 2025 07:40:04 +0000</pubDate>
+      <pubDate>Fri, 04 Apr 2025 08:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Benchmarks Find ‘DeepSeek-V3-0324 Is More Vulnerable Than Qwen2.5-Max’</title>
+      <link>https://www.techrepublic.com/article/news-qwen-2-5-deepseek-3-ai-model-security/</link>
+      <pubDate>Fri, 04 Apr 2025 08:37:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERT-UA reports attacks in March 2025 targeting Ukrainian agencies with WRECKSTEEL Malware</title>
+      <link>https://securityaffairs.com/176181/cyber-warfare-2/cert-ua-reports-attacks-in-march-2025-targeting-ukrainian-agencies-with-wrecksteel-malware.html</link>
+      <pubDate>Fri, 04 Apr 2025 08:32:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Forces Microsoft Account Sign In &amp; Removes Bypass Trick Option</title>
+      <link>https://www.techrepublic.com/article/news-windows-11-setup-microsoft/</link>
+      <pubDate>Fri, 04 Apr 2025 08:26:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Disguised as IT Workers Targeting UK, European Companies, Google Finds</title>
+      <link>https://www.techrepublic.com/article/news-north-korea-it-worker-google/</link>
+      <pubDate>Fri, 04 Apr 2025 08:21:36 +0000</pubDate>
     </item>
     <item>
       <title>39M secrets exposed: GitHub rolls out new security tools</title>
@@ -233,6 +278,11 @@
       <pubDate>Thu, 03 Apr 2025 08:21:00 +0000</pubDate>
     </item>
     <item>
+      <title>Google DeepMind Proposes AI ‘Monitors’ to Police Hyperintelligent Models</title>
+      <link>https://www.techrepublic.com/article/news-google-deepmind-safety-monitor-guardrails/</link>
+      <pubDate>Thu, 03 Apr 2025 08:15:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Triada Malware Preloaded on Counterfeit Android Phones Infects 2,600+ Devices</title>
       <link>https://thehackernews.com/2025/04/triada-malware-preloaded-on-counterfeit.html</link>
       <pubDate>Thu, 03 Apr 2025 07:34:00 +0000</pubDate>
@@ -256,56 +306,6 @@
       <title>ISC Stormcast For Thursday, April 3rd, 2025 https://isc.sans.edu/podcastdetail/9392, (Thu, Apr 3rd)</title>
       <link>https://isc.sans.edu/diary/rss/31826</link>
       <pubDate>Thu, 03 Apr 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploring Statistical Measures to Predict URLs as Legitimate or Intrusive [Guest Diary], (Wed, Apr 2nd)</title>
-      <link>https://isc.sans.edu/diary/rss/31822</link>
-      <pubDate>Thu, 03 Apr 2025 00:51:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Impact of Cybersecurity on Business and Brand Risk Reduction</title>
-      <link>https://www.recordedfuture.com/blog/impact-cybersecurity-business-brand-risk-reduction</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #411: The fall of Troy, and whisky barrel scammers</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-411/</link>
-      <pubDate>Wed, 02 Apr 2025 23:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New advanced FIN7’s Anubis backdoor allows to gain full system control on Windows</title>
-      <link>https://securityaffairs.com/176134/malware/new-advanced-fin7s-anubis-backdoor-allows-to-gain-full-system-control-on-windows.html</link>
-      <pubDate>Wed, 02 Apr 2025 21:38:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Still Using an Older Version of iOS or iPadOS? Update Now to Patch These Critical Security Vulnerabilities</title>
-      <link>https://www.techrepublic.com/article/news-apple-security-fixes-ios-15-16/</link>
-      <pubDate>Wed, 02 Apr 2025 18:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stripe API Skimming Campaign Unveils New Techniques for Theft</title>
-      <link>https://www.infosecurity-magazine.com/news/stripe-api-skimming-campaign-new/</link>
-      <pubDate>Wed, 02 Apr 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RolandSkimmer: Silent Credit Card Thief Uncovered</title>
-      <link>https://feeds.fortinet.com/~/916034477/0/fortinet/blog/threat-research~RolandSkimmer-Silent-Credit-Card-Thief-Uncovered</link>
-      <pubDate>Wed, 02 Apr 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Royal Mail Investigates Data Breach Affecting Supplier</title>
-      <link>https://www.infosecurity-magazine.com/news/royal-mail-investigates-data/</link>
-      <pubDate>Wed, 02 Apr 2025 15:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gray Bots Surge as Generative AI Scraper Activity Increases</title>
-      <link>https://www.infosecurity-magazine.com/news/gray-bots-generative-ai-scraper/</link>
-      <pubDate>Wed, 02 Apr 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, April 2025</title>
-      <link>https://asec.ahnlab.com/en/87306/</link>
-      <pubDate>Wed, 02 Apr 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
