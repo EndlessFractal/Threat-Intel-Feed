@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 18:28:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 20:24:25 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 04 Apr 2025 19:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Port of Seattle says 90,000 people impacted in 2024 ransomware attack</title>
+      <link>https://therecord.media/port-of-seattle-says-90000-impacted-in-2024-ransomware-attack</link>
+      <pubDate>Fri, 04 Apr 2025 18:47:34 +0000</pubDate>
+    </item>
     <item>
       <title>IngressNightmare | Critical Unauthenticated RCE Vulnerabilities in Kubernetes Ingress NGINX</title>
       <link>https://www.sentinelone.com/blog/ingressnightmare-critical-unauthenticated-rce-vulnerabilities-in-kubernetes-ingress-nginx/</link>
       <pubDate>Fri, 04 Apr 2025 18:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 04 Apr 2025 16:45:04 +0000</pubDate>
     </item>
     <item>
       <title>Cyber Forensic Expert in 2,000+ Cases Faces FBI Probe</title>
@@ -78,6 +83,16 @@
       <pubDate>Fri, 04 Apr 2025 12:28:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds One Vulnerability to the KEV Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/04/cisa-adds-one-vulnerability-kev-catalog</link>
+      <pubDate>Fri, 04 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Releases Security Updates for Connect Secure, Policy Secure &amp; ZTA Gateways Vulnerability (CVE-2025-22457)</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/04/ivanti-releases-security-updates-connect-secure-policy-secure-zta-gateways-vulnerability-cve-2025</link>
+      <pubDate>Fri, 04 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Lawmakers seek to close loophole limiting Secret Service investigations into cyber laundering</title>
       <link>https://therecord.media/lawmakers-seek-to-close-secret-service-cyber-money-laundering-loophole</link>
       <pubDate>Fri, 04 Apr 2025 11:58:39 +0000</pubDate>
@@ -96,11 +111,6 @@
       <title>Have We Reached a Distroless Tipping Point?</title>
       <link>https://thehackernews.com/2025/04/have-we-reached-distroless-tipping-point.html</link>
       <pubDate>Fri, 04 Apr 2025 10:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1-15 December 2024 Cyber Attacks Timeline</title>
-      <link>https://www.hackmageddon.com/2025/04/04/1-15-december-2024-cyber-attacks-timeline/</link>
-      <pubDate>Fri, 04 Apr 2025 10:09:28 +0000</pubDate>
     </item>
     <item>
       <title>Chinese State Hackers Exploiting Newly Disclosed Ivanti Flaw</title>
@@ -176,11 +186,6 @@
       <title>ISC Stormcast For Friday, April 4th, 2025 https://isc.sans.edu/podcastdetail/9394, (Fri, Apr 4th)</title>
       <link>https://isc.sans.edu/diary/rss/31828</link>
       <pubDate>Fri, 04 Apr 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas city warns thousands of utility payment site breach</title>
-      <link>https://therecord.media/texas-city-warns-thousands-of-utility-site-breach</link>
-      <pubDate>Thu, 03 Apr 2025 23:21:31 +0000</pubDate>
     </item>
     <item>
       <title>Popular VPNs are routing traffic via Chinese companies, including one with link to military</title>
@@ -300,11 +305,6 @@
     <item>
       <title>ABB Low Voltage DC Drives and Power Controllers CODESYS RTS</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-04</link>
-      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>B&amp;R APROL</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-05</link>
       <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
