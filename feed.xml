@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 20:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 22:19:33 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 04 Apr 2025 19:50:04 +0000</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA warns of latest Ivanti firewall bug being exploited by suspected Chinese hackers</title>
+      <link>https://therecord.media/cisa-ivanti-firewall-bug-exploitation</link>
+      <pubDate>Fri, 04 Apr 2025 21:22:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: Two-Man Giant Squid</title>
+      <link>https://www.schneier.com/blog/archives/2025/04/friday-squid-blogging-two-man-giant-squid.html</link>
+      <pubDate>Fri, 04 Apr 2025 21:03:48 +0000</pubDate>
     </item>
     <item>
       <title>Port of Seattle says 90,000 people impacted in 2024 ransomware attack</title>
@@ -113,6 +123,11 @@
       <pubDate>Fri, 04 Apr 2025 10:57:00 +0000</pubDate>
     </item>
     <item>
+      <title>1-15 December 2024 Cyber Attacks Timeline</title>
+      <link>https://www.hackmageddon.com/2025/04/04/1-15-december-2024-cyber-attacks-timeline/</link>
+      <pubDate>Fri, 04 Apr 2025 10:09:28 +0000</pubDate>
+    </item>
+    <item>
       <title>Chinese State Hackers Exploiting Newly Disclosed Ivanti Flaw</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-state-hackers-ivanti-flaw/</link>
       <pubDate>Fri, 04 Apr 2025 10:04:00 +0000</pubDate>
@@ -176,11 +191,6 @@
       <title>Critical Flaw in Apache Parquet Allows Remote Attackers to Execute Arbitrary Code</title>
       <link>https://thehackernews.com/2025/04/critical-flaw-in-apache-parquet-allows.html</link>
       <pubDate>Fri, 04 Apr 2025 03:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Haugh fired from leadership of NSA, Cyber Command</title>
-      <link>https://therecord.media/gen-timothy-haugh-fired-nsa-cyber-command-trump</link>
-      <pubDate>Fri, 04 Apr 2025 03:06:50 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, April 4th, 2025 https://isc.sans.edu/podcastdetail/9394, (Fri, Apr 4th)</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Hitachi Energy TRMTracker</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-02</link>
-      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ABB ACS880 Drives Containing CODESYS RTS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-03</link>
-      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ABB Low Voltage DC Drives and Power Controllers CODESYS RTS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-04</link>
       <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
