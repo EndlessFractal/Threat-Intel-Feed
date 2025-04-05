@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Apr 2025 06:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 08:24:14 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 05 Apr 2025 06:15:04 +0000</pubDate>
+      <pubDate>Sat, 05 Apr 2025 07:20:04 +0000</pubDate>
     </item>
     <item>
       <title>Maryland pharmacist used keyloggers to spy on coworkers for a decade, victim alleges</title>
@@ -88,11 +88,6 @@
       <pubDate>Fri, 04 Apr 2025 12:32:56 +0000</pubDate>
     </item>
     <item>
-      <title>Cyber Agencies Warn of Fast Flux Threat Bypassing Network Defenses</title>
-      <link>https://www.infosecurity-magazine.com/news/cyber-agencies-warn-of-fast-flux/</link>
-      <pubDate>Fri, 04 Apr 2025 12:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SpotBugs Access Token Theft Identified as Root Cause of GitHub Supply Chain Attack</title>
       <link>https://thehackernews.com/2025/04/spotbugs-access-token-theft-identified.html</link>
       <pubDate>Fri, 04 Apr 2025 12:28:00 +0000</pubDate>
@@ -113,11 +108,6 @@
       <pubDate>Fri, 04 Apr 2025 11:02:25 +0000</pubDate>
     </item>
     <item>
-      <title>Tj-actions Supply Chain Attack Traced Back to Single GitHub Token Compromise</title>
-      <link>https://www.infosecurity-magazine.com/news/tj-actions-supply-chain-attack/</link>
-      <pubDate>Fri, 04 Apr 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Have We Reached a Distroless Tipping Point?</title>
       <link>https://thehackernews.com/2025/04/have-we-reached-distroless-tipping-point.html</link>
       <pubDate>Fri, 04 Apr 2025 10:57:00 +0000</pubDate>
@@ -126,11 +116,6 @@
       <title>1-15 December 2024 Cyber Attacks Timeline</title>
       <link>https://www.hackmageddon.com/2025/04/04/1-15-december-2024-cyber-attacks-timeline/</link>
       <pubDate>Fri, 04 Apr 2025 10:09:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese State Hackers Exploiting Newly Disclosed Ivanti Flaw</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-state-hackers-ivanti-flaw/</link>
-      <pubDate>Fri, 04 Apr 2025 10:04:00 +0000</pubDate>
     </item>
     <item>
       <title>A journey into forgotten Null Session and MS-RPC interfaces, part 2</title>
@@ -223,19 +208,9 @@
       <pubDate>Thu, 03 Apr 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Major Online Platform for Child Exploitation Dismantled</title>
-      <link>https://www.infosecurity-magazine.com/news/online-platform-child-exploitation/</link>
-      <pubDate>Thu, 03 Apr 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>QR codes sent in attachments are the new favorite for phishers</title>
       <link>https://www.malwarebytes.com/blog/news/2025/04/qr-codes-sent-in-attachments-are-the-new-favorite-for-phishers</link>
       <pubDate>Thu, 03 Apr 2025 15:32:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrushFTP Vulnerability Exploited Following Disclosure Issues</title>
-      <link>https://www.infosecurity-magazine.com/news/crushftp-flaw-exploited-disclosure/</link>
-      <pubDate>Thu, 03 Apr 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Evolution of App Control, A Carbon Black Legend</title>
@@ -283,11 +258,6 @@
       <pubDate>Thu, 03 Apr 2025 13:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>Amateur Hacker Leverages Russian Bulletproof Hosting Server to Spread Malware</title>
-      <link>https://www.infosecurity-magazine.com/news/coquettte-hacker-malware-bph/</link>
-      <pubDate>Thu, 03 Apr 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Lazarus Group Targets Job Seekers With ClickFix Tactic to Deploy GolangGhost Malware</title>
       <link>https://thehackernews.com/2025/04/lazarus-group-targets-job-seekers-with.html</link>
       <pubDate>Thu, 03 Apr 2025 12:22:00 +0000</pubDate>
@@ -306,6 +276,36 @@
       <title>Hitachi Energy TRMTracker</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-02</link>
       <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB ACS880 Drives Containing CODESYS RTS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-03</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB Low Voltage DC Drives and Power Controllers CODESYS RTS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-04</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>B&amp;R APROL</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-093-05</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NSA, CISA, FBI, and International Partners Release Cybersecurity Advisory on “Fast Flux,” a National Security Threat</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/03/nsa-cisa-fbi-and-international-partners-release-cybersecurity-advisory-fast-flux-national-security</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Five Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/03/cisa-releases-five-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Threats Are Evolving Fast — Learn Practical Defense Tactics in this Expert Webinar</title>
+      <link>https://thehackernews.com/2025/04/ai-threats-are-evolving-fast-learn.html</link>
+      <pubDate>Thu, 03 Apr 2025 11:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
