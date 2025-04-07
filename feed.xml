@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Apr 2025 18:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 20:23:29 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 07 Apr 2025 19:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Ivanti Connect Secure, Policy Secure and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/176332/security/u-s-cisa-adds-ivanti-connect-secure-policy-secure-and-zta-gateways-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html</link>
+      <pubDate>Mon, 07 Apr 2025 19:39:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia arrests CEO of tech company linked to Doppelgänger disinformation campaign</title>
+      <link>https://therecord.media/doppelganger-ceo-arrests-russia-tech</link>
+      <pubDate>Mon, 07 Apr 2025 18:52:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian regulator pulls licenses of 95 companies in effort to crack down on investment scams</title>
+      <link>https://therecord.media/australia-pulls-95-company-licenses-scam-crackdown</link>
+      <pubDate>Mon, 07 Apr 2025 18:47:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe preparing to ‘ease the burden’ of landmark data privacy law</title>
+      <link>https://therecord.media/eu-proposal-changes-gdpr-small-medium-businesses</link>
+      <pubDate>Mon, 07 Apr 2025 18:36:01 +0000</pubDate>
+    </item>
     <item>
       <title>Scattered Spider member pleads guilty to identity theft, wire fraud charges</title>
       <link>https://therecord.media/scattered-spider-member-noah-urban-guilty-plea</link>
@@ -18,24 +43,9 @@
       <pubDate>Mon, 07 Apr 2025 16:47:54 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 07 Apr 2025 16:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Everest ransomware group’s darknet site offline following defacement</title>
-      <link>https://therecord.media/everest-ransomware-site-offline-following-defacement</link>
-      <pubDate>Mon, 07 Apr 2025 16:00:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Tech Accelerator: Azure security and AI adoption</title>
       <link>https://techcommunity.microsoft.com/blog/microsoft-security-blog/tech-accelerator-azure-security-and-ai-adoption/4400344</link>
       <pubDate>Mon, 07 Apr 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flaw in ESET security software used to spread malware from ToddyCat group</title>
-      <link>https://therecord.media/eset-software-vulnerability-malware-toddycat-apt</link>
-      <pubDate>Mon, 07 Apr 2025 15:33:17 +0000</pubDate>
     </item>
     <item>
       <title>Malicious Microsoft VS Code Extensions Used in Cryptojacking Campaign</title>
@@ -71,11 +81,6 @@
       <title>CISA and FBI Warn Fast Flux is Powering Resilient Malware, C2, and Phishing Networks</title>
       <link>https://thehackernews.com/2025/04/cisa-and-fbi-warn-fast-flux-is-powering.html</link>
       <pubDate>Mon, 07 Apr 2025 13:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK court lifts secrecy veil, confirms Apple is suing British government over ‘backdoor’ request</title>
-      <link>https://therecord.media/uk-court-confirms-apple-suing-over-backdoor-request</link>
-      <pubDate>Mon, 07 Apr 2025 13:36:06 +0000</pubDate>
     </item>
     <item>
       <title>The controversial case of the threat actor EncryptHub</title>
@@ -163,11 +168,6 @@
       <pubDate>Mon, 07 Apr 2025 07:10:38 +0000</pubDate>
     </item>
     <item>
-      <title>CrowdStrike Secures AI Development with NVIDIA</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-development-with-nvidia/</link>
-      <pubDate>Mon, 07 Apr 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ISC Stormcast For Monday, April 7th, 2025 https://isc.sans.edu/podcastdetail/9396, (Mon, Apr 7th)</title>
       <link>https://isc.sans.edu/diary/rss/31832</link>
       <pubDate>Mon, 07 Apr 2025 01:20:47 +0000</pubDate>
@@ -221,11 +221,6 @@
       <title>North Korean Hackers Deploy BeaverTail Malware via 11 Malicious npm Packages</title>
       <link>https://thehackernews.com/2025/04/north-korean-hackers-deploy-beavertail.html</link>
       <pubDate>Sat, 05 Apr 2025 14:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Port of Seattle ‘s August data breach impacted 90,000 people</title>
-      <link>https://securityaffairs.com/176205/data-breach/port-of-seattle-august-data-breach-impacted-90000-people.html</link>
-      <pubDate>Sat, 05 Apr 2025 10:02:37 +0000</pubDate>
     </item>
     <item>
       <title>Malicious Python Packages on PyPI Downloaded 39,000+ Times, Steal Sensitive Data</title>
@@ -306,6 +301,11 @@
       <title>Tj-actions Supply Chain Attack Traced Back to Single GitHub Token Compromise</title>
       <link>https://www.infosecurity-magazine.com/news/tj-actions-supply-chain-attack/</link>
       <pubDate>Fri, 04 Apr 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have We Reached a Distroless Tipping Point?</title>
+      <link>https://thehackernews.com/2025/04/have-we-reached-distroless-tipping-point.html</link>
+      <pubDate>Fri, 04 Apr 2025 10:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
