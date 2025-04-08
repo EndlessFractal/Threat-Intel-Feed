@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Apr 2025 01:42:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 03:01:25 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 08 Apr 2025 00:40:03 +0000</pubDate>
+      <pubDate>Tue, 08 Apr 2025 01:40:03 +0000</pubDate>
     </item>
     <item>
       <title>Google’s Sec-Gemini v1 Takes on Hackers &amp; Outperforms Rivals by 11%</title>
@@ -53,9 +53,19 @@
       <pubDate>Mon, 07 Apr 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Malicious Microsoft VS Code Extensions Used in Cryptojacking Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-vs-code-cryptojacking/</link>
+      <pubDate>Mon, 07 Apr 2025 15:01:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Is your phone listening to you? (Lock and Code S06E07)</title>
       <link>https://www.malwarebytes.com/blog/podcast/2025/04/is-your-phone-listening-to-you-lock-and-code-s06e07</link>
       <pubDate>Mon, 07 Apr 2025 14:58:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smishing Triad Fuels Surge in Toll Payment Scams in US, UK</title>
+      <link>https://www.infosecurity-magazine.com/news/smishing-triad-toll-payment-scams/</link>
+      <pubDate>Mon, 07 Apr 2025 14:20:00 +0000</pubDate>
     </item>
     <item>
       <title>One Booth at RSAC™ 2025 Conference Will Justify Your Whole Trip</title>
@@ -81,6 +91,11 @@
       <title>The controversial case of the threat actor EncryptHub</title>
       <link>https://securityaffairs.com/176251/cyber-crime/the-controversial-case-of-the-threat-actor-encrypthub.html</link>
       <pubDate>Mon, 07 Apr 2025 13:14:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darknet’s Xanthorox AI Offers Customizable Tools for Hackers</title>
+      <link>https://www.infosecurity-magazine.com/news/darknets-xanthorox-ai-hackers-tools/</link>
+      <pubDate>Mon, 07 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Toll fee scams are back and heading your way</title>
@@ -128,9 +143,24 @@
       <pubDate>Mon, 07 Apr 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Vodafone Urges UK Cybersecurity Policy Reforms as SME Cyber-Attack Costs Reach £3.4bn</title>
+      <link>https://www.infosecurity-magazine.com/news/vodafone-urges-uk-cybersecurity/</link>
+      <pubDate>Mon, 07 Apr 2025 10:15:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How ToddyCat tried to hide behind AV software</title>
       <link>https://securelist.com/toddycat-apt-exploits-vulnerability-in-eset-software-for-dll-proxying/116086/</link>
       <pubDate>Mon, 07 Apr 2025 10:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Government Backs Britain’s First Cyber Seed Fund, Worth £50m</title>
+      <link>https://www.infosecurity-magazine.com/news/government-britains-first-cyber/</link>
+      <pubDate>Mon, 07 Apr 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aussie Pension Savers Hit with Wave of Credential Stuffing Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/aussie-pension-savers-hit/</link>
+      <pubDate>Mon, 07 Apr 2025 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>EDR-as-a-Service makes the headlines in the cybercrime landscape</title>
@@ -163,6 +193,11 @@
       <pubDate>Sun, 06 Apr 2025 19:52:07 +0000</pubDate>
     </item>
     <item>
+      <title>March 2025 Security Issues in Korean &amp; Global Financial Sector</title>
+      <link>https://asec.ahnlab.com/en/87360/</link>
+      <pubDate>Sun, 06 Apr 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 40</title>
       <link>https://securityaffairs.com/176244/malware/security-affairs-malware-newsletter-round-40.html</link>
       <pubDate>Sun, 06 Apr 2025 11:47:42 +0000</pubDate>
@@ -171,6 +206,11 @@
       <title>Security Affairs newsletter Round 518 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/176235/security/security-affairs-newsletter-round-518-by-pierluigi-paganini-international-edition.html</link>
       <pubDate>Sun, 06 Apr 2025 11:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Where Is Government When It Comes to Cloud in 2025?</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/where-is-government-when-it-comes-to-cloud-in-2025</link>
+      <pubDate>Sun, 06 Apr 2025 09:02:00 +0000</pubDate>
     </item>
     <item>
       <title>Expert used ChatGPT-4o to create a replica of his passport in just 5 minutes bypassing KYC</title>
@@ -248,6 +288,11 @@
       <pubDate>Fri, 04 Apr 2025 12:32:56 +0000</pubDate>
     </item>
     <item>
+      <title>Cyber Agencies Warn of Fast Flux Threat Bypassing Network Defenses</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-agencies-warn-of-fast-flux/</link>
+      <pubDate>Fri, 04 Apr 2025 12:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SpotBugs Access Token Theft Identified as Root Cause of GitHub Supply Chain Attack</title>
       <link>https://thehackernews.com/2025/04/spotbugs-access-token-theft-identified.html</link>
       <pubDate>Fri, 04 Apr 2025 12:28:00 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>Ivanti Releases Security Updates for Connect Secure, Policy Secure &amp; ZTA Gateways Vulnerability (CVE-2025-22457)</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/04/04/ivanti-releases-security-updates-connect-secure-policy-secure-zta-gateways-vulnerability-cve-2025</link>
       <pubDate>Fri, 04 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Troy Hunt Gets Phished</title>
-      <link>https://www.schneier.com/blog/archives/2025/04/troy-hunt-gets-phished.html</link>
-      <pubDate>Fri, 04 Apr 2025 11:02:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Have We Reached a Distroless Tipping Point?</title>
-      <link>https://thehackernews.com/2025/04/have-we-reached-distroless-tipping-point.html</link>
-      <pubDate>Fri, 04 Apr 2025 10:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1-15 December 2024 Cyber Attacks Timeline</title>
-      <link>https://www.hackmageddon.com/2025/04/04/1-15-december-2024-cyber-attacks-timeline/</link>
-      <pubDate>Fri, 04 Apr 2025 10:09:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>A journey into forgotten Null Session and MS-RPC interfaces, part 2</title>
-      <link>https://securelist.com/ms-rpc-security-mechanism-step-by-step/116036/</link>
-      <pubDate>Fri, 04 Apr 2025 10:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>OH-MY-DC: OIDC Misconfigurations in CI/CD</title>
-      <link>https://unit42.paloaltonetworks.com/oidc-misconfigurations-in-ci-cd/</link>
-      <pubDate>Fri, 04 Apr 2025 10:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Benchmarks Find ‘DeepSeek-V3-0324 Is More Vulnerable Than Qwen2.5-Max’</title>
-      <link>https://www.techrepublic.com/article/news-qwen-2-5-deepseek-3-ai-model-security/</link>
-      <pubDate>Fri, 04 Apr 2025 08:37:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Forces Microsoft Account Sign In &amp; Removes Bypass Trick Option</title>
-      <link>https://www.techrepublic.com/article/news-windows-11-setup-microsoft/</link>
-      <pubDate>Fri, 04 Apr 2025 08:26:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Disguised as IT Workers Targeting UK, European Companies, Google Finds</title>
-      <link>https://www.techrepublic.com/article/news-north-korea-it-worker-google/</link>
-      <pubDate>Fri, 04 Apr 2025 08:21:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Ivanti Flaw Actively Exploited to Deploy TRAILBLAZE and BRUSHFIRE Malware</title>
-      <link>https://thehackernews.com/2025/04/critical-ivanti-flaw-actively-exploited.html</link>
-      <pubDate>Fri, 04 Apr 2025 06:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
