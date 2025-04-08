@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Apr 2025 18:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 20:23:18 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 08 Apr 2025 19:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday for April 2025 — Snort rules and prominent vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-april-2025/</link>
+      <pubDate>Tue, 08 Apr 2025 18:53:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft April 2025 Patch Tuesday, (Tue, Apr 8th)</title>
+      <link>https://isc.sans.edu/diary/rss/31838</link>
+      <pubDate>Tue, 08 Apr 2025 18:40:41 +0000</pubDate>
+    </item>
     <item>
       <title>Tax deadline threat: QuickBooks phishing scam exploits Google Ads</title>
       <link>https://www.malwarebytes.com/blog/scams/2025/04/tax-deadline-threat-quickbooks-phishing-scam-exploits-google-ads</link>
@@ -18,9 +33,14 @@
       <pubDate>Tue, 08 Apr 2025 18:03:56 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 08 Apr 2025 17:20:03 +0000</pubDate>
+      <title>Exploitation of CLFS zero-day leads to ransomware activity</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/04/08/exploitation-of-clfs-zero-day-leads-to-ransomware-activity/</link>
+      <pubDate>Tue, 08 Apr 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Urges FortiSwitch Upgrades to Patch Critical Admin Password Change Flaw</title>
+      <link>https://thehackernews.com/2025/04/fortinet-urges-fortiswitch-upgrades-to.html</link>
+      <pubDate>Tue, 08 Apr 2025 17:53:00 +0000</pubDate>
     </item>
     <item>
       <title>Amazon EC2 SSM Agent Flaw Patched After Privilege Escalation via Path Traversal</title>
@@ -85,6 +105,11 @@
     <item>
       <title>Half of Firms Stall Digital Projects as Cyber Warfare Risk Surges</title>
       <link>https://www.infosecurity-magazine.com/news/half-firms-stall-digital-projects/</link>
+      <pubDate>Tue, 08 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/08/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 08 Apr 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>Vodafone Urges UK Cybersecurity Policy Reforms as SME Cyber-Attack Costs Reach £3.4bn</title>
       <link>https://www.infosecurity-magazine.com/news/vodafone-urges-uk-cybersecurity/</link>
       <pubDate>Mon, 07 Apr 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How ToddyCat tried to hide behind AV software</title>
-      <link>https://securelist.com/toddycat-apt-exploits-vulnerability-in-eset-software-for-dll-proxying/116086/</link>
-      <pubDate>Mon, 07 Apr 2025 10:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Government Backs Britain’s First Cyber Seed Fund, Worth £50m</title>
-      <link>https://www.infosecurity-magazine.com/news/government-britains-first-cyber/</link>
-      <pubDate>Mon, 07 Apr 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aussie Pension Savers Hit with Wave of Credential Stuffing Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/aussie-pension-savers-hit/</link>
-      <pubDate>Mon, 07 Apr 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EDR-as-a-Service makes the headlines in the cybercrime landscape</title>
-      <link>https://securityaffairs.com/176266/cyber-crime/edr-as-a-service-edr-cybercrime.html</link>
-      <pubDate>Mon, 07 Apr 2025 08:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoisonSeed Exploits CRM Accounts to Launch Cryptocurrency Seed Phrase Poisoning Attacks</title>
-      <link>https://thehackernews.com/2025/04/poisonseed-exploits-crm-accounts-to.html</link>
-      <pubDate>Mon, 07 Apr 2025 07:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
