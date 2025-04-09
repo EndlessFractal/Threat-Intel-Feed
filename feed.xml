@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 18:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 20:21:55 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 09 Apr 2025 19:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data privacy regulators lobby lawmakers to not draft federal legislation preempting state laws</title>
+      <link>https://therecord.media/data-privacy-law-state-lobby-congress</link>
+      <pubDate>Wed, 09 Apr 2025 19:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: Windows CLFS Vulnerability Could Lead to ‘Widespread Deployment and Detonation of Ransomware’</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-windows-common-log-file-system-vulnerability/</link>
+      <pubDate>Wed, 09 Apr 2025 18:40:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Industrial-strength April Patch Tuesday covers 135 CVEs</title>
+      <link>https://news.sophos.com/en-us/2025/04/09/industrial-strength-april-patch-tuesday-covers-135-cves/</link>
+      <pubDate>Wed, 09 Apr 2025 18:23:04 +0000</pubDate>
+    </item>
     <item>
       <title>National Social Security Fund of Morocco Suffers Data Breach</title>
       <link>https://securityaffairs.com/176388/security/national-social-security-fund-of-morocco-suffers-data-breach.html</link>
       <pubDate>Wed, 09 Apr 2025 18:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 09 Apr 2025 18:20:04 +0000</pubDate>
     </item>
     <item>
       <title>Critical Fortinet FortiSwitch flaw allows remote attackers to change admin passwords</title>
@@ -78,11 +93,6 @@
       <pubDate>Wed, 09 Apr 2025 13:45:30 +0000</pubDate>
     </item>
     <item>
-      <title>As spyware market continues to expand, diplomatic Pall Mall Process hits a pivot point</title>
-      <link>https://therecord.media/pall-mall-process-commercial-spyware-hacking-paris-diplomacy</link>
-      <pubDate>Wed, 09 Apr 2025 13:35:19 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2025-29824 Vulnerability: Exploitation of a Windows CLFS Zero-Day Could Trigger Ransomware Attacks</title>
       <link>https://socprime.com/blog/cve-2025-29824-clfs-zero-day-vulnerability/</link>
       <pubDate>Wed, 09 Apr 2025 13:02:53 +0000</pubDate>
@@ -110,6 +120,11 @@
     <item>
       <title>Nigerian National Indicted for Role in Romance Scam and Money Laundering Scheme</title>
       <link>https://www.justice.gov/usao-ma/pr/nigerian-national-indicted-role-romance-scam-and-money-laundering-scheme</link>
+      <pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/09/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -186,6 +201,11 @@
       <title>Obfuscated Malicious Python Scripts with PyArmor, (Wed, Apr 9th)</title>
       <link>https://isc.sans.edu/diary/rss/31840</link>
       <pubDate>Wed, 09 Apr 2025 06:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Wins Google Cloud Security Partner of the Year Award, Advances Cloud Security for Joint Customers</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-wins-2025-google-cloud-security-partner-of-the-year-award/</link>
+      <pubDate>Wed, 09 Apr 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Adobe Patches 11 Critical ColdFusion Flaws Amid 30 Total Vulnerabilities Discovered</title>
@@ -286,26 +306,6 @@
       <title>Half of Firms Stall Digital Projects as Cyber Warfare Risk Surges</title>
       <link>https://www.infosecurity-magazine.com/news/half-firms-stall-digital-projects/</link>
       <pubDate>Tue, 08 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/04/08/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 08 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crush malware faster: Introducing Bitdefender sandbox integration with EclecticIQ</title>
-      <link>https://blog.eclecticiq.com/crush-malware-faster-introducing-bitdefender-sandbox-integration-with-eclecticiq</link>
-      <pubDate>Tue, 08 Apr 2025 11:53:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navigate EclecticIQ Threat Intelligence Platform like a pro with our new ‘Getting Started’ module.</title>
-      <link>https://blog.eclecticiq.com/navigate-eclecticiq-threat-intelligence-platform-like-a-pro-with-our-new-getting-started-module</link>
-      <pubDate>Tue, 08 Apr 2025 11:51:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google fixes two actively exploited zero-day vulnerabilities in Android</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/04/google-fixes-two-actively-exploited-zero-day-vulnerabilities-in-android</link>
-      <pubDate>Tue, 08 Apr 2025 11:34:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
