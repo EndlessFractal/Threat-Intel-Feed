@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Apr 2025 16:27:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 18:26:57 +0000</lastBuildDate>
     <item>
-      <title>INFINITT Healthcare INFINITT PACS</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-100-01</link>
-      <pubDate>Thu, 10 Apr 2025 16:15:21 +0000</pubDate>
+      <title>Threat actors thrive in chaos</title>
+      <link>https://blog.talosintelligence.com/threat-actors-thrive-in-chaos/</link>
+      <pubDate>Thu, 10 Apr 2025 18:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump administration planning major workforce cuts at CISA</title>
+      <link>https://therecord.media/trump-administration-planning-workforce-cuts-at-cisa</link>
+      <pubDate>Thu, 10 Apr 2025 17:21:12 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 10 Apr 2025 15:40:03 +0000</pubDate>
+      <pubDate>Thu, 10 Apr 2025 16:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>INFINITT Healthcare INFINITT PACS</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-100-01</link>
+      <pubDate>Thu, 10 Apr 2025 16:15:21 +0000</pubDate>
     </item>
     <item>
       <title>China-based SMS Phishing Triad Pivots to Banks</title>
@@ -103,9 +113,54 @@
       <pubDate>Thu, 10 Apr 2025 12:00:52 +0000</pubDate>
     </item>
     <item>
-      <title>Sweden arrests senior Uyghur representative on suspicion of spying for China</title>
-      <link>https://therecord.media/sweden-arrest-spying-on-uyghurs-china</link>
-      <pubDate>Thu, 10 Apr 2025 11:57:15 +0000</pubDate>
+      <title>Siemens License Server</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-01</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIDIS Prime</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-02</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Solid Edge</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-03</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Industrial Edge Devices</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-04</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Insights Hub Private Cloud</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-05</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SENTRON 7KT PAC1260 Data Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-06</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Arena</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-07</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subnet Solutions PowerSYSTEM Center</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-08</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB Arctic Wireless Gateways</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-09</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Ten Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/10/cisa-releases-ten-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PlayPraetor Reloaded: CTM360 Uncovers a Play Masquerading Party</title>
@@ -251,61 +306,6 @@
       <title>Man accused of using keylogger to spy on colleagues, log in to their personal accounts and watch them at home</title>
       <link>https://www.malwarebytes.com/blog/news/2025/04/man-accused-of-using-keylogger-to-spy-on-colleagues-log-in-to-their-personal-accounts-and-watch-them-at-home</link>
       <pubDate>Wed, 09 Apr 2025 13:45:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-29824 Vulnerability: Exploitation of a Windows CLFS Zero-Day Could Trigger Ransomware Attacks</title>
-      <link>https://socprime.com/blog/cve-2025-29824-clfs-zero-day-vulnerability/</link>
-      <pubDate>Wed, 09 Apr 2025 13:02:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Prompt Attacks Exploit GenAI and How to Fight Back</title>
-      <link>https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/</link>
-      <pubDate>Wed, 09 Apr 2025 13:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Reasons Why You Should Use a Password Manager</title>
-      <link>https://www.techrepublic.com/article/5-reasons-why-you-should-use-a-password-manager/</link>
-      <pubDate>Wed, 09 Apr 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Attacks Hit All-Time High as Payoffs Dwindle</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-attacks-record-payoffs/</link>
-      <pubDate>Wed, 09 Apr 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The US Treasury’s OCC disclosed an undetected major email breach for over a year</title>
-      <link>https://securityaffairs.com/176373/data-breach/the-us-treasurys-occ-disclosed-an-undetected-major-email-breach-for-over-a-year.html</link>
-      <pubDate>Wed, 09 Apr 2025 12:35:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigerian National Indicted for Role in Romance Scam and Money Laundering Scheme</title>
-      <link>https://www.justice.gov/usao-ma/pr/nigerian-national-indicted-role-romance-scam-and-money-laundering-scheme</link>
-      <pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tech CEO Charged In Artificial Intelligence Investment Fraud Scheme</title>
-      <link>https://www.justice.gov/usao-sdny/pr/tech-ceo-charged-artificial-intelligence-investment-fraud-scheme</link>
-      <pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/04/09/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>72% of people are worried their data is being misused by the government, and that’s not all…</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/04/72-of-people-are-worried-their-data-is-being-misused-by-the-government-and-thats-not-all</link>
-      <pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New TCESB Malware Found in Active Attacks Exploiting ESET Security Scanner</title>
-      <link>https://thehackernews.com/2025/04/new-tcesb-malware-found-in-active.html</link>
-      <pubDate>Wed, 09 Apr 2025 11:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Gladinet CentreStack and ZTA Microsoft Windows Common Log File System (CLFS) Driver flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/176366/hacking/u-s-cisa-adds-gladinet-centrestack-and-zta-microsoft-windows-common-log-file-system-clfs-driver-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 09 Apr 2025 11:35:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
