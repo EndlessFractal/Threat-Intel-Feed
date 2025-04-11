@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Apr 2025 14:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 16:27:01 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 11 Apr 2025 14:00:03 +0000</pubDate>
+      <pubDate>Fri, 11 Apr 2025 16:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers warn about ‘Goffee’ spilling onto Russian flash drives</title>
+      <link>https://therecord.media/goffee-espionage-campaign-russia-flash-drives</link>
+      <pubDate>Fri, 11 Apr 2025 15:57:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pall Mall Pact and why it matters</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/04/the-pall-mall-pact-and-why-it-matters</link>
+      <pubDate>Fri, 11 Apr 2025 15:31:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVD Revamps Operations as Vulnerability Reporting Surges</title>
+      <link>https://www.infosecurity-magazine.com/news/nvd-revamps-operations-cve-surge/</link>
+      <pubDate>Fri, 11 Apr 2025 15:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SMS OTPs Aren’t As Secure As You Think: Why It's Time for a Change</title>
+      <link>https://www.security.com/expert-perspectives/sms-otps-arent-secure-you-think-why-its-time-change</link>
+      <pubDate>Fri, 11 Apr 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lab provider for Planned Parenthood discloses breach affecting 1.6 million people</title>
+      <link>https://therecord.media/lab-provider-planned-parenthood-breach</link>
+      <pubDate>Fri, 11 Apr 2025 14:42:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto warns of brute-force login attempts on PAN-OS GlobalProtect gateways indicating possible upcoming attacks</title>
+      <link>https://securityaffairs.com/176446/hacking/brute-force-login-attempts-on-pan-os-globalprotect.html</link>
+      <pubDate>Fri, 11 Apr 2025 14:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we simplified NCMEC reporting with Cloudflare Workflows</title>
+      <link>https://blog.cloudflare.com/simplifying-ncmec-reporting-with-cloudflare-workflows/</link>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Paper Werewolf Deploys PowerModul Implant in Targeted Cyberattacks on Russian Sectors</title>
@@ -138,11 +173,6 @@
       <pubDate>Thu, 10 Apr 2025 18:02:21 +0000</pubDate>
     </item>
     <item>
-      <title>Trump administration planning major workforce cuts at CISA</title>
-      <link>https://therecord.media/trump-administration-planning-workforce-cuts-at-cisa</link>
-      <pubDate>Thu, 10 Apr 2025 17:21:12 +0000</pubDate>
-    </item>
-    <item>
       <title>INFINITT Healthcare INFINITT PACS</title>
       <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-100-01</link>
       <pubDate>Thu, 10 Apr 2025 16:15:21 +0000</pubDate>
@@ -196,11 +226,6 @@
       <title>AkiraBot: AI-Powered spam bot evades CAPTCHA to target 80,000+ websites</title>
       <link>https://securityaffairs.com/176415/cyber-crime/akirabot-ai-powered-spam-bot-evades-captcha-to-target-80000-websites.html</link>
       <pubDate>Thu, 10 Apr 2025 13:37:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moroccan cybercrime group Atlas Lion hiding in plain sight during attacks on retailers</title>
-      <link>https://therecord.media/atlas-lion-gift-card-cybercrime-hiding-virtual-machines</link>
-      <pubDate>Thu, 10 Apr 2025 13:26:35 +0000</pubDate>
     </item>
     <item>
       <title>SpyNote Malware Targets Android Users with Fake Google Play Pages</title>
@@ -281,31 +306,6 @@
       <title>The Identities Behind AI Agents: A Deep Dive Into AI &amp; NHI</title>
       <link>https://thehackernews.com/2025/04/the-identities-behind-ai-agents-deep.html</link>
       <pubDate>Thu, 10 Apr 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gamaredon Uses Infected Removable Drives to Breach Western Military Mission in Ukraine</title>
-      <link>https://thehackernews.com/2025/04/gamaredon-uses-infected-removable.html</link>
-      <pubDate>Thu, 10 Apr 2025 10:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An APT group exploited ESET flaw to execute malware</title>
-      <link>https://securityaffairs.com/176364/security/an-apt-group-exploited-eset-flaw-to-execute-malware.html</link>
-      <pubDate>Thu, 10 Apr 2025 10:47:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>GOFFEE continues to attack organizations in Russia</title>
-      <link>https://securelist.com/goffee-apt-new-attacks/116139/</link>
-      <pubDate>Thu, 10 Apr 2025 10:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shuckworm Targets Foreign Military Mission Based in Ukraine</title>
-      <link>https://www.security.com/threat-intelligence/shuckworm-ukraine-gammasteel</link>
-      <pubDate>Thu, 10 Apr 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol Arrests Five SmokeLoader Clients Linked by Seized Database Evidence</title>
-      <link>https://thehackernews.com/2025/04/europol-arrests-five-smokeloader.html</link>
-      <pubDate>Thu, 10 Apr 2025 09:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
