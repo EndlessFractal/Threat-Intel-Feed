@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Apr 2025 18:27:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 20:21:04 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 13 Apr 2025 16:55:03 +0000</pubDate>
+      <pubDate>Sun, 13 Apr 2025 18:55:04 +0000</pubDate>
     </item>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 41</title>
@@ -21,11 +21,6 @@
       <title>Security Affairs newsletter Round 519 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/176494/breaking-news/security-affairs-newsletter-round-519-by-pierluigi-paganini-international-edition.html</link>
       <pubDate>Sun, 13 Apr 2025 11:23:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navigating Cybersecurity Amid DOGE Cuts and Global Tariffs</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/navigating-cybersecurity-amid-doge-cuts-and-global-tariffs</link>
-      <pubDate>Sun, 13 Apr 2025 09:18:00 +0000</pubDate>
     </item>
     <item>
       <title>China admitted its role in Volt Typhoon cyberattacks on U.S. infrastructure</title>
@@ -83,11 +78,6 @@
       <pubDate>Fri, 11 Apr 2025 15:31:41 +0000</pubDate>
     </item>
     <item>
-      <title>NVD Revamps Operations as Vulnerability Reporting Surges</title>
-      <link>https://www.infosecurity-magazine.com/news/nvd-revamps-operations-cve-surge/</link>
-      <pubDate>Fri, 11 Apr 2025 15:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SMS OTPs Aren’t As Secure As You Think: Why It's Time for a Change</title>
       <link>https://www.security.com/expert-perspectives/sms-otps-arent-secure-you-think-why-its-time-change</link>
       <pubDate>Fri, 11 Apr 2025 15:00:00 +0000</pubDate>
@@ -101,6 +91,11 @@
       <title>Palo Alto warns of brute-force login attempts on PAN-OS GlobalProtect gateways indicating possible upcoming attacks</title>
       <link>https://securityaffairs.com/176446/hacking/brute-force-login-attempts-on-pan-os-globalprotect.html</link>
       <pubDate>Fri, 11 Apr 2025 14:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we simplified NCMEC reporting with Cloudflare Workflows</title>
+      <link>https://blog.cloudflare.com/simplifying-ncmec-reporting-with-cloudflare-workflows/</link>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Paper Werewolf Deploys PowerModul Implant in Targeted Cyberattacks on Russian Sectors</title>
@@ -133,11 +128,6 @@
       <pubDate>Fri, 11 Apr 2025 11:06:11 +0000</pubDate>
     </item>
     <item>
-      <title>Google Cloud: Top 5 Priorities for Cybersecurity Leaders Today</title>
-      <link>https://www.infosecurity-magazine.com/news/top-5-priorities-for-cybersecurity/</link>
-      <pubDate>Fri, 11 Apr 2025 11:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AI Vulnerability Finding</title>
       <link>https://www.schneier.com/blog/archives/2025/04/ai-vulnerability-finding.html</link>
       <pubDate>Fri, 11 Apr 2025 11:04:47 +0000</pubDate>
@@ -166,11 +156,6 @@
       <title>SpyNote, BadBazaar, MOONSHINE Malware Target Android and iOS Users via Fake Apps</title>
       <link>https://thehackernews.com/2025/04/spynote-badbazaar-moonshine-malware.html</link>
       <pubDate>Fri, 11 Apr 2025 08:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyble Urges Critical Vulnerability Fixes Affecting Industrial Systems</title>
-      <link>https://www.infosecurity-magazine.com/news/cyble-urges-critical-vulnerability/</link>
-      <pubDate>Fri, 11 Apr 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Gamaredon targeted the military mission of a Western country based in Ukraine</title>
@@ -228,11 +213,6 @@
       <pubDate>Thu, 10 Apr 2025 15:31:58 +0000</pubDate>
     </item>
     <item>
-      <title>Google Cloud: China Achieves “Cyber Superpower” Status</title>
-      <link>https://www.infosecurity-magazine.com/news/google-cloud-china-cyber/</link>
-      <pubDate>Thu, 10 Apr 2025 15:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Analysts Are Touting the Power of Symantec DLP</title>
       <link>https://www.security.com/product-insights/analysts-are-touting-power-symantec-dlp</link>
       <pubDate>Thu, 10 Apr 2025 15:00:00 +0000</pubDate>
@@ -248,11 +228,6 @@
       <pubDate>Thu, 10 Apr 2025 14:30:43 +0000</pubDate>
     </item>
     <item>
-      <title>Google Cloud: CISOs Demand Simplified Security Tools Amid Growing Tech Complexity</title>
-      <link>https://www.infosecurity-magazine.com/news/google-cloud-cisos-demand/</link>
-      <pubDate>Thu, 10 Apr 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Incomplete Patch in NVIDIA Toolkit Leaves CVE-2024-0132 Open to Container Escapes</title>
       <link>https://thehackernews.com/2025/04/incomplete-patch-in-nvidia-toolkit.html</link>
       <pubDate>Thu, 10 Apr 2025 14:13:00 +0000</pubDate>
@@ -263,19 +238,9 @@
       <pubDate>Thu, 10 Apr 2025 13:45:23 +0000</pubDate>
     </item>
     <item>
-      <title>Over 40% of UK Businesses Faced Cybersecurity Breaches in 2024</title>
-      <link>https://www.infosecurity-magazine.com/news/40-uk-businesses-face-breaches/</link>
-      <pubDate>Thu, 10 Apr 2025 13:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AkiraBot: AI-Powered spam bot evades CAPTCHA to target 80,000+ websites</title>
       <link>https://securityaffairs.com/176415/cyber-crime/akirabot-ai-powered-spam-bot-evades-captcha-to-target-80000-websites.html</link>
       <pubDate>Thu, 10 Apr 2025 13:37:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpyNote Malware Targets Android Users with Fake Google Play Pages</title>
-      <link>https://www.infosecurity-magazine.com/news/spynote-malware-targets-android/</link>
-      <pubDate>Thu, 10 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Malicious npm Package Targets Atomic Wallet, Exodus Users by Swapping Crypto Addresses</title>
@@ -305,6 +270,41 @@
     <item>
       <title>Siemens Solid Edge</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-03</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Industrial Edge Devices</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-04</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Insights Hub Private Cloud</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-05</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SENTRON 7KT PAC1260 Data Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-06</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Arena</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-07</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subnet Solutions PowerSYSTEM Center</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-08</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB Arctic Wireless Gateways</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-09</link>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Ten Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/10/cisa-releases-ten-industrial-control-systems-advisories</link>
       <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
