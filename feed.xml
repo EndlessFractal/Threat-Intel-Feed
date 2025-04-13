@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Apr 2025 22:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 03:09:38 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 12 Apr 2025 21:15:03 +0000</pubDate>
+      <pubDate>Sun, 13 Apr 2025 01:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploit Attempts for Recent Langflow AI Vulnerability (CVE-2025-3248), (Sat, Apr 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/31850</link>
+      <pubDate>Sun, 13 Apr 2025 00:21:28 +0000</pubDate>
     </item>
     <item>
       <title>Symbolic Link trick lets attackers bypass FortiGate patches, Fortinet warns</title>
@@ -76,6 +81,11 @@
       <title>Palo Alto warns of brute-force login attempts on PAN-OS GlobalProtect gateways indicating possible upcoming attacks</title>
       <link>https://securityaffairs.com/176446/hacking/brute-force-login-attempts-on-pan-os-globalprotect.html</link>
       <pubDate>Fri, 11 Apr 2025 14:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we simplified NCMEC reporting with Cloudflare Workflows</title>
+      <link>https://blog.cloudflare.com/simplifying-ncmec-reporting-with-cloudflare-workflows/</link>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Paper Werewolf Deploys PowerModul Implant in Targeted Cyberattacks on Russian Sectors</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Siemens SENTRON 7KT PAC1260 Data Manager</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-06</link>
-      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Arena</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-07</link>
-      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subnet Solutions PowerSYSTEM Center</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-08</link>
       <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
