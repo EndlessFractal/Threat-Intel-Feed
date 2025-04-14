@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 01:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 03:08:04 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -106,6 +106,11 @@
       <title>Palo Alto warns of brute-force login attempts on PAN-OS GlobalProtect gateways indicating possible upcoming attacks</title>
       <link>https://securityaffairs.com/176446/hacking/brute-force-login-attempts-on-pan-os-globalprotect.html</link>
       <pubDate>Fri, 11 Apr 2025 14:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we simplified NCMEC reporting with Cloudflare Workflows</title>
+      <link>https://blog.cloudflare.com/simplifying-ncmec-reporting-with-cloudflare-workflows/</link>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Paper Werewolf Deploys PowerModul Implant in Targeted Cyberattacks on Russian Sectors</title>
@@ -300,11 +305,6 @@
     <item>
       <title>Siemens License Server</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-01</link>
-      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIDIS Prime</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-100-02</link>
       <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
