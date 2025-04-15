@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Apr 2025 14:21:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 16:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Slopsquatting</title>
+      <link>https://www.schneier.com/blog/archives/2025/04/slopsquatting.html</link>
+      <pubDate>Tue, 15 Apr 2025 16:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall v21.5: NDR Essentials</title>
+      <link>https://news.sophos.com/en-us/2025/04/15/sophos-firewall-v21-5-ndr-essentials/</link>
+      <pubDate>Tue, 15 Apr 2025 15:02:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #46: AI can read minds now, and is your co-host a clone?</title>
+      <link>https://grahamcluley.com/the-ai-fix-46/</link>
+      <pubDate>Tue, 15 Apr 2025 14:58:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hertz data breach caused by CL0P ransomware attack on vendor</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/04/hertz-data-breach-caused-by-cl0p-ransomware-attack-on-vendor</link>
+      <pubDate>Tue, 15 Apr 2025 14:50:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 15 Apr 2025 14:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>23andMe bankruptcy draws investigation from House panel over data concerns</title>
+      <link>https://therecord.media/23andme-bankruptcy-house-investigation-data-concerns</link>
+      <pubDate>Tue, 15 Apr 2025 14:28:39 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean Hackers Exploit LinkedIn to Infect Crypto Developers with Infostealers</title>
       <link>https://www.infosecurity-magazine.com/news/north-korea-hackers-linkedin/</link>
@@ -16,6 +46,11 @@
       <title>Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool</title>
       <link>https://thehackernews.com/2025/04/chinese-hackers-target-linux-systems.html</link>
       <pubDate>Tue, 15 Apr 2025 14:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Apache Roller flaw allows to retain unauthorized access even after a password change</title>
+      <link>https://securityaffairs.com/176577/security/critical-apache-roller-flaw-allows-to-retain-unauthorized-access-even-after-a-password-change.html</link>
+      <pubDate>Tue, 15 Apr 2025 14:05:11 +0000</pubDate>
     </item>
     <item>
       <title>Critical Apache Roller Vulnerability (CVSS 10.0) Enables Unauthorized Session Persistence</title>
@@ -48,14 +83,54 @@
       <pubDate>Tue, 15 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 15 Apr 2025 12:45:04 +0000</pubDate>
-    </item>
-    <item>
       <title>EU confirms issuing ‘burner phones’ to top officials but denies practice caused by Trump</title>
       <link>https://therecord.media/eu-burner-phones-traveling-officials</link>
       <pubDate>Tue, 15 Apr 2025 12:39:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Mendix Runtime</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-01</link>
+      <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Industrial Edge Device Kit</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-02</link>
+      <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMOCODE, SIMATIC, SIPLUS, SIDOOR, SIWAREX</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-03</link>
+      <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Growatt Cloud Applications</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-04</link>
+      <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lantronix Xport</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-05</link>
+      <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>National Instruments LabVIEW</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-06</link>
+      <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Electronics COMMGR</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-07</link>
+      <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB M2M Gateway</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-08</link>
+      <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric Europe B.V. smartRTU</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-09</link>
+      <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Now Biggest Cyber Challenge for UK Financial Services</title>
@@ -158,11 +233,6 @@
       <pubDate>Mon, 14 Apr 2025 16:44:11 +0000</pubDate>
     </item>
     <item>
-      <title>Taiwan charges Chinese ship captain with breaking subsea cables</title>
-      <link>https://therecord.media/taiwan-charges-ship-captain-submarine-cable-break</link>
-      <pubDate>Mon, 14 Apr 2025 16:14:49 +0000</pubDate>
-    </item>
-    <item>
       <title>ResolverRAT Campaign Targets Healthcare, Pharma via Phishing and DLL Side-Loading</title>
       <link>https://thehackernews.com/2025/04/resolverrat-campaign-targets-healthcare.html</link>
       <pubDate>Mon, 14 Apr 2025 16:09:00 +0000</pubDate>
@@ -236,76 +306,6 @@
       <title>Digital Certificate Lifespans to Fall to 47 Days by 2029</title>
       <link>https://www.infosecurity-magazine.com/news/digital-certificate-lifespans-fall/</link>
       <pubDate>Mon, 14 Apr 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>xorsearch.py: Searching With Regexes, (Mon, Apr 14th)</title>
-      <link>https://isc.sans.edu/diary/rss/31854</link>
-      <pubDate>Mon, 14 Apr 2025 09:26:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is TLS more secure? The WinRMS case.</title>
-      <link>https://sensepost.com/blog/2025/is-tls-more-secure-the-winrms-case./</link>
-      <pubDate>Mon, 14 Apr 2025 09:07:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Slow Pisces Targets Developers With Coding Challenges and Introduces New Customized Python Malware</title>
-      <link>https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/</link>
-      <pubDate>Mon, 14 Apr 2025 09:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Hallucinations Create “Slopsquatting” Supply Chain Threat</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-hallucinations-slopsquatting/</link>
-      <pubDate>Mon, 14 Apr 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tycoon2FA phishing kit rolled out significant updates</title>
-      <link>https://securityaffairs.com/176521/cyber-crime/tycoon2fa-phishing-kit-rolled-out-significant-updates.html</link>
-      <pubDate>Mon, 14 Apr 2025 08:38:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malwarebytes named “Best Antivirus Software” and “Best Malware Removal Service”</title>
-      <link>https://www.malwarebytes.com/blog/product/2025/04/malwarebytes-named-best-antivirus-software-and-best-malware-removal-service</link>
-      <pubDate>Mon, 14 Apr 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (April 7 – April 13)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/04/a-week-in-security-april-7-april-13</link>
-      <pubDate>Mon, 14 Apr 2025 07:23:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medusa ransomware gang claims to have hacked NASCAR</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/medusa-ransomware-hacked-nascar</link>
-      <pubDate>Mon, 14 Apr 2025 07:13:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pakistan-Linked Hackers Expand Targets in India with CurlBack RAT and Spark RAT</title>
-      <link>https://thehackernews.com/2025/04/pakistan-linked-hackers-expand-targets.html</link>
-      <pubDate>Mon, 14 Apr 2025 06:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>South African telecom provider Cell C disclosed a data breach following a cyberattack</title>
-      <link>https://securityaffairs.com/176509/data-breach/south-african-telecom-provider-cell-c-disclosed-a-data-breach.html</link>
-      <pubDate>Mon, 14 Apr 2025 05:27:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Research: Securing AI-Generated Code with Multiple Self-Learning AI Agents</title>
-      <link>https://www.crowdstrike.com/en-us/blog/secure-ai-generated-code-with-multiple-self-learning-ai-agents/</link>
-      <pubDate>Mon, 14 Apr 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, April 14th, 2025 https://isc.sans.edu/podcastdetail/9406, (Mon, Apr 14th)</title>
-      <link>https://isc.sans.edu/diary/rss/31852</link>
-      <pubDate>Mon, 14 Apr 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>PentestGPT – AI-Powered Penetration Testing Assistant</title>
-      <link>https://www.darknet.org.uk/2025/04/pentestgpt-ai-powered-penetration-testing-assistant/</link>
-      <pubDate>Mon, 14 Apr 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 41</title>
-      <link>https://securityaffairs.com/176503/malware/security-affairs-malware-newsletter-round-41.html</link>
-      <pubDate>Sun, 13 Apr 2025 11:39:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
