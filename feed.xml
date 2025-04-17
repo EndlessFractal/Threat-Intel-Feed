@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Apr 2025 10:23:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 12:41:53 +0000</lastBuildDate>
+    <item>
+      <title>Making Splunk Detection Work Faster with Uncoder AI’s Full Summary</title>
+      <link>https://socprime.com/blog/making-splunk-detection-work-faster-with-uncoder-ais-full-summary/</link>
+      <pubDate>Thu, 17 Apr 2025 12:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-30406 Detection: Critical RCE Vulnerability in Gladinet CentreStack &amp; Triofox Under Active Exploitation</title>
+      <link>https://socprime.com/blog/detect-cve-2025-30406-exploitation/</link>
+      <pubDate>Thu, 17 Apr 2025 12:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>State-Sponsored Hackers Weaponize ClickFix Tactic in Targeted Malware Campaigns</title>
+      <link>https://thehackernews.com/2025/04/state-sponsored-hackers-weaponize.html</link>
+      <pubDate>Thu, 17 Apr 2025 11:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artificial Intelligence – What's all the fuss?</title>
+      <link>https://thehackernews.com/2025/04/artificial-intelligence-whats-all-fuss.html</link>
+      <pubDate>Thu, 17 Apr 2025 11:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 17 Apr 2025 11:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Erlang/OTP SSH Vulnerability (CVSS 10.0) Allows Unauthenticated Code Execution</title>
+      <link>https://thehackernews.com/2025/04/critical-erlangotp-ssh-vulnerability.html</link>
+      <pubDate>Thu, 17 Apr 2025 10:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blockchain Offers Security Benefits – But Don't Neglect Your Passwords</title>
+      <link>https://thehackernews.com/2025/04/blockchain-offers-security-benefits-but.html</link>
+      <pubDate>Thu, 17 Apr 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unmasking the new XorDDoS controller and infrastructure</title>
+      <link>https://blog.talosintelligence.com/unmasking-the-new-xorddos-controller-and-infrastructure/</link>
+      <pubDate>Thu, 17 Apr 2025 10:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>Identity Attacks Now Comprise a Third of Intrusions</title>
       <link>https://www.infosecurity-magazine.com/news/identity-attacks-now-comprise/</link>
@@ -18,19 +58,9 @@
       <pubDate>Thu, 17 Apr 2025 09:24:47 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 17 Apr 2025 09:15:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Thwarts $4bn in Fraud Attempts</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-thwarts-4bn-in-fraud/</link>
       <pubDate>Thu, 17 Apr 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Erlang/OTP SSH Vulnerability (CVSS 10.0) Allows Unauthenticated Code Execution</title>
-      <link>https://thehackernews.com/2025/04/critical-erlangotp-ssh-vulnerability.html</link>
-      <pubDate>Thu, 17 Apr 2025 09:11:00 +0000</pubDate>
     </item>
     <item>
       <title>Node.js Malware Campaign Targets Crypto Users with Fake Binance and TradingView Installers</title>
@@ -121,6 +151,11 @@
       <title>Apple Patches Exploited Vulnerability, (Wed, Apr 16th)</title>
       <link>https://isc.sans.edu/diary/rss/31866</link>
       <pubDate>Wed, 16 Apr 2025 18:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intercepting HTTPS Communication in Flutter: Going Full Hardcore Mode with Frida</title>
+      <link>https://sensepost.com/blog/2025/intercepting-https-communication-in-flutter-going-full-hardcore-mode-with-frida/</link>
+      <pubDate>Wed, 16 Apr 2025 16:26:33 +0000</pubDate>
     </item>
     <item>
       <title>More than 100,000 had information stolen from Hertz through Cleo file share tool</title>
@@ -271,41 +306,6 @@
       <title>Government contractor Conduent disclosed a data breach</title>
       <link>https://securityaffairs.com/176581/data-breach/government-contractor-conduent-disclosed-a-data-breach.html</link>
       <pubDate>Wed, 16 Apr 2025 07:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users</title>
-      <link>https://thehackernews.com/2025/04/chinese-android-phones-shipped-with.html</link>
-      <pubDate>Wed, 16 Apr 2025 07:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Govt. Funding for MITRE's CVE Ends April 16, Cybersecurity Community on Alert</title>
-      <link>https://thehackernews.com/2025/04/us-govt-funding-for-mitres-cve-ends.html</link>
-      <pubDate>Wed, 16 Apr 2025 05:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Funding Expires for Key Cyber Vulnerability Database</title>
-      <link>https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/</link>
-      <pubDate>Wed, 16 Apr 2025 03:59:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Super Bowl 2025- Behind the Scenes of the Cybersecurity Blitz</title>
-      <link>https://www.darknet.org.uk/2025/04/super-bowl-2025-behind-the-scenes-of-the-cybersecurity-blitz/</link>
-      <pubDate>Wed, 16 Apr 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, April 16th, 2025 https://isc.sans.edu/podcastdetail/9410, (Wed, Apr 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/31864</link>
-      <pubDate>Wed, 16 Apr 2025 00:48:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the refreshed Recorded Future brand</title>
-      <link>https://www.recordedfuture.com/blog/introducing-refreshed-recorded-future-brand</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Follow me” to this fake crypto exchange to claim $500</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/04/follow-me-to-this-fake-crypto-exchange-to-claim-500</link>
-      <pubDate>Tue, 15 Apr 2025 22:36:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
