@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Apr 2025 04:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 06:30:11 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 17 Apr 2025 06:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Flags Actively Exploited Vulnerability in SonicWall SMA Devices</title>
+      <link>https://thehackernews.com/2025/04/cisa-flags-actively-exploited.html</link>
+      <pubDate>Thu, 17 Apr 2025 05:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apple Patches Two Actively Exploited iOS Flaws Used in Sophisticated Targeted Attacks</title>
       <link>https://thehackernews.com/2025/04/apple-patches-two-actively-exploited.html</link>
       <pubDate>Thu, 17 Apr 2025 03:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 17 Apr 2025 03:15:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, April 17th, 2025 https://isc.sans.edu/podcastdetail/9412, (Thu, Apr 17th)</title>
@@ -301,11 +306,6 @@
       <title>North Korean Hackers Exploit LinkedIn to Infect Crypto Developers with Infostealers</title>
       <link>https://www.infosecurity-magazine.com/news/north-korea-hackers-linkedin/</link>
       <pubDate>Tue, 15 Apr 2025 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool</title>
-      <link>https://thehackernews.com/2025/04/chinese-hackers-target-linux-systems.html</link>
-      <pubDate>Tue, 15 Apr 2025 14:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
