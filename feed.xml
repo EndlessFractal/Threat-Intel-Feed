@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Apr 2025 06:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 08:27:25 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 18 Apr 2025 04:30:03 +0000</pubDate>
+      <pubDate>Fri, 18 Apr 2025 07:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entertainment venue management firm Legends International disclosed a data breach</title>
+      <link>https://securityaffairs.com/176674/uncategorized/legends-international-disclosed-a-data-breach.html</link>
+      <pubDate>Fri, 18 Apr 2025 07:20:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts Uncover New XorDDoS Controller, Infrastructure as Malware Expands to Docker, Linux, IoT</title>
+      <link>https://thehackernews.com/2025/04/experts-uncover-new-xorddos-controller.html</link>
+      <pubDate>Fri, 18 Apr 2025 07:10:00 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download</title>
@@ -233,6 +243,11 @@
       <pubDate>Thu, 17 Apr 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Falcon Cloud Security Adds Detections for AWS IAM Identity Center</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-adds-detections-for-aws-iam-identity-center/</link>
+      <pubDate>Thu, 17 Apr 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Flags Actively Exploited Vulnerability in SonicWall SMA Devices</title>
       <link>https://thehackernews.com/2025/04/cisa-flags-actively-exploited.html</link>
       <pubDate>Thu, 17 Apr 2025 05:44:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Developers Beware: Slopsquatting &amp; Vibe Coding Can Increase Risk of AI-Powered Attacks</title>
       <link>https://www.techrepublic.com/article/news-slopsquatting-vide-coding-ai-cybersecurity-risk/</link>
       <pubDate>Wed, 16 Apr 2025 19:09:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Patches Exploited Vulnerability, (Wed, Apr 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/31866</link>
-      <pubDate>Wed, 16 Apr 2025 18:44:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intercepting HTTPS Communication in Flutter: Going Full Hardcore Mode with Frida</title>
-      <link>https://sensepost.com/blog/2025/intercepting-https-communication-in-flutter-going-full-hardcore-mode-with-frida/</link>
-      <pubDate>Wed, 16 Apr 2025 16:26:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Windows Task Scheduler Bugs Let Attackers Bypass UAC and Tamper with Logs</title>
-      <link>https://thehackernews.com/2025/04/experts-uncover-four-new-privilege.html</link>
-      <pubDate>Wed, 16 Apr 2025 16:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
