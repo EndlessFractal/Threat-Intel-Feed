@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 18:29:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 20:23:13 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 21 Apr 2025 17:45:04 +0000</pubDate>
+      <pubDate>Mon, 21 Apr 2025 19:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimsuky APT exploited BlueKeep RDP flaw in attacks against South Korea and Japan</title>
+      <link>https://securityaffairs.com/176756/apt/kimsuky-apt-exploited-bluekeep-rdp-flaw-in-attacks-against-south-korea-and-japan.html</link>
+      <pubDate>Mon, 21 Apr 2025 18:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Billbug: Intrusion Campaign Against Southeast Asia Continues</title>
@@ -301,11 +306,6 @@
       <title>Your RSAC™ 2025 Conference Playlist is Here</title>
       <link>https://www.security.com/expert-perspectives/your-rsactm-2025-conference-playlist-here</link>
       <pubDate>Thu, 17 Apr 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple patches security vulnerabilities in iOS and iPadOS. Update now!</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/04/apple-patches-security-vulnerabilities-in-ios-and-ipados-update-now</link>
-      <pubDate>Thu, 17 Apr 2025 15:59:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
