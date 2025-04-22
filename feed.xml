@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 04:25:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 06:32:39 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 22 Apr 2025 03:55:03 +0000</pubDate>
+      <pubDate>Tue, 22 Apr 2025 06:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>xorsearch.py: "Ad Hoc YARA Rules", (Tue, Apr 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/31856</link>
+      <pubDate>Tue, 22 Apr 2025 05:31:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lotus Panda Hacks SE Asian Governments With Browser Stealers and Sideloaded Malware</title>
+      <link>https://thehackernews.com/2025/04/lotus-panda-hacks-se-asian-governments.html</link>
+      <pubDate>Tue, 22 Apr 2025 04:29:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, April 22nd, 2025 https://isc.sans.edu/podcastdetail/9418, (Tue, Apr 22nd)</title>
@@ -138,6 +148,11 @@
       <pubDate>Mon, 21 Apr 2025 07:01:00 +0000</pubDate>
     </item>
     <item>
+      <title>How Cushman &amp; Wakefield Secures Identities with Falcon Identity Protection</title>
+      <link>https://www.crowdstrike.com/en-us/blog/cushman-wakefield-secures-identities-falcon-identity-protection/</link>
+      <pubDate>Mon, 21 Apr 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Monday, April 21st, 2025 https://isc.sans.edu/podcastdetail/9416, (Mon, Apr 21st)</title>
       <link>https://isc.sans.edu/diary/rss/31878</link>
       <pubDate>Mon, 21 Apr 2025 02:00:03 +0000</pubDate>
@@ -243,11 +258,6 @@
       <pubDate>Fri, 18 Apr 2025 11:19:58 +0000</pubDate>
     </item>
     <item>
-      <title>16-31 December 2024 Cyber Attacks Timeline</title>
-      <link>https://www.hackmageddon.com/2025/04/18/16-31-december-2024-cyber-attacks-timeline/</link>
-      <pubDate>Fri, 18 Apr 2025 10:51:51 +0000</pubDate>
-    </item>
-    <item>
       <title>[Webinar] AI Is Already Inside Your SaaS Stack — Learn How to Prevent the Next Silent Breach</title>
       <link>https://thehackernews.com/2025/04/webinar-ai-is-already-inside-your-saas.html</link>
       <pubDate>Fri, 18 Apr 2025 09:45:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Moving CVEs past one-nation control</title>
       <link>https://news.sophos.com/en-us/2025/04/17/moving-cves-past-one-nation-control/</link>
       <pubDate>Thu, 17 Apr 2025 20:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-linked APT Mustang Panda upgrades tools in its arsenal</title>
-      <link>https://securityaffairs.com/176662/apt/china-linked-apt-mustang-panda-upgrades-tools-in-its-arsenal.html</link>
-      <pubDate>Thu, 17 Apr 2025 19:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Care what you share</title>
-      <link>https://blog.talosintelligence.com/care-what-you-share/</link>
-      <pubDate>Thu, 17 Apr 2025 18:01:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
