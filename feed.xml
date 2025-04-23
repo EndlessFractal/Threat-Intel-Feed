@@ -6,21 +6,66 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Apr 2025 08:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 10:25:01 +0000</lastBuildDate>
+    <item>
+      <title>Extortion and Ransomware Trends January-March 2025</title>
+      <link>https://unit42.paloaltonetworks.com/2025-ransomware-extortion-trends/</link>
+      <pubDate>Wed, 23 Apr 2025 10:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ToyMaker, an Initial Access Broker working in cahoots with double extortion gangs</title>
+      <link>https://blog.talosintelligence.com/introducing-toymaker-an-initial-access-broker/</link>
+      <pubDate>Wed, 23 Apr 2025 10:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Full Summary in Uncoder AI Supercharges Kusto Query Analysis for Threat Hunters</title>
+      <link>https://socprime.com/blog/how-full-summary-in-uncoder-ai-supercharges-kusto-query-analysis-for-threat-hunters/</link>
+      <pubDate>Wed, 23 Apr 2025 09:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Data Breach Victim Count Surges 26% Annually</title>
+      <link>https://www.infosecurity-magazine.com/news/us-data-breach-victim-count-surges/</link>
+      <pubDate>Wed, 23 Apr 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating Curl-Based TOR Proxy Access with Uncoder AI and SentinelOne Query Language</title>
+      <link>https://socprime.com/blog/investigating-curl-based-tor-proxy-access-with-uncoder-ai-and-sentinelone-query-language/</link>
+      <pubDate>Wed, 23 Apr 2025 09:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 23 Apr 2025 09:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>M&amp;S Grapples with Cyber Incident Affecting In-Store Services</title>
+      <link>https://www.infosecurity-magazine.com/news/ms-grapples-with-cyber-incident/</link>
+      <pubDate>Wed, 23 Apr 2025 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>British retailer giant Marks &amp; Spencer (M&amp;S) is managing a cyber incident</title>
+      <link>https://securityaffairs.com/176820/hacking/marks-spencer-ms-is-managing-a-cyber-incident.html</link>
+      <pubDate>Wed, 23 Apr 2025 09:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dutch Warn of “Whole of Society” Russian Cyber-Threat</title>
+      <link>https://www.infosecurity-magazine.com/news/dutch-warn-whole-society-russia/</link>
+      <pubDate>Wed, 23 Apr 2025 08:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>UK Romance Scams Spike 20% as Online Dating Grows</title>
       <link>https://www.infosecurity-magazine.com/news/uk-romance-scams-online-dating/</link>
       <pubDate>Wed, 23 Apr 2025 08:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Chinese Cybercriminals Released Z-NFC Tool for Payment Fraud</title>
+      <link>https://securityaffairs.com/176829/cyber-crime/chinese-cybercriminals-released-z-nfc-tool-for-payment-fraud.html</link>
+      <pubDate>Wed, 23 Apr 2025 07:44:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Ripple's xrpl.js npm Package Backdoored to Steal Private Keys in Major Supply Chain Attack</title>
       <link>https://thehackernews.com/2025/04/ripples-xrpljs-npm-package-backdoored.html</link>
       <pubDate>Wed, 23 Apr 2025 07:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 23 Apr 2025 07:15:04 +0000</pubDate>
     </item>
     <item>
       <title>Google Drops Cookie Prompt in Chrome, Adds IP Protection to Incognito</title>
@@ -208,6 +253,11 @@
       <pubDate>Tue, 22 Apr 2025 08:45:14 +0000</pubDate>
     </item>
     <item>
+      <title>Fake Google Security Alert Hides a Phishing Scam</title>
+      <link>https://www.techrepublic.com/article/news-google-oauth-scam/</link>
+      <pubDate>Tue, 22 Apr 2025 08:42:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Crosswalks hacked to play fake audio of Musk, Zuck, and Jeff Bezos</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/crosswalks-hacked-to-play-fake-audio-of-musk-zuck-and-jeff-bezos</link>
       <pubDate>Tue, 22 Apr 2025 08:09:52 +0000</pubDate>
@@ -256,56 +306,6 @@
       <title>The Massive, Hidden Infrastructure Enabling Big Game Hunting at Scale</title>
       <link>https://www.recordedfuture.com/blog/massive-hidden-infrastructure-enabling-big-game-hunting-at-scale</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky APT exploited BlueKeep RDP flaw in attacks against South Korea and Japan</title>
-      <link>https://securityaffairs.com/176756/apt/kimsuky-apt-exploited-bluekeep-rdp-flaw-in-attacks-against-south-korea-and-japan.html</link>
-      <pubDate>Mon, 21 Apr 2025 18:25:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Billbug: Intrusion Campaign Against Southeast Asia Continues</title>
-      <link>https://www.security.com/threat-intelligence/billbug-china-espionage</link>
-      <pubDate>Mon, 21 Apr 2025 17:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky Exploits BlueKeep RDP Vulnerability to Breach Systems in South Korea and Japan</title>
-      <link>https://thehackernews.com/2025/04/kimsuky-exploits-bluekeep-rdp.html</link>
-      <pubDate>Mon, 21 Apr 2025 16:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 SSE Adoption Principles to Live By</title>
-      <link>https://www.security.com/expert-perspectives/3-sse-adoption-principles-live</link>
-      <pubDate>Mon, 21 Apr 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SuperCard X Android Malware Enables Contactless ATM and PoS Fraud via NFC Relay Attacks</title>
-      <link>https://thehackernews.com/2025/04/supercard-x-android-malware-enables.html</link>
-      <pubDate>Mon, 21 Apr 2025 15:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing our future: April 2025 progress report on Microsoft’s Secure Future Initiative</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/04/21/securing-our-future-april-2025-progress-report-on-microsofts-secure-future-initiative/</link>
-      <pubDate>Mon, 21 Apr 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Rust Botnet "RustoBot" is Routed via Routers</title>
-      <link>https://feeds.fortinet.com/~/917059049/0/fortinet/blog/threat-research~New-Rust-Botnet-RustoBot-is-Routed-via-Routers</link>
-      <pubDate>Mon, 21 Apr 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma Stealer – Tracking distribution channels</title>
-      <link>https://securelist.com/lumma-fake-captcha-attacks-analysis/116274/</link>
-      <pubDate>Mon, 21 Apr 2025 12:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitwarden vs LastPass 2025: Which Password Manager Is Better?</title>
-      <link>https://www.techrepublic.com/article/bitwarden-vs-lastpass/</link>
-      <pubDate>Mon, 21 Apr 2025 12:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Reasons Device Management Isn't Device Trust​</title>
-      <link>https://thehackernews.com/2025/04/5-reasons-device-management-isnt-device.html</link>
-      <pubDate>Mon, 21 Apr 2025 11:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
