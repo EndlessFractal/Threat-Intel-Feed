@@ -6,14 +6,39 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Apr 2025 14:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 16:28:00 +0000</lastBuildDate>
+    <item>
+      <title>Regulating AI Behavior with a Hypervisor</title>
+      <link>https://www.schneier.com/blog/archives/2025/04/regulating-ai-behavior-with-a-hypervisor.html</link>
+      <pubDate>Wed, 23 Apr 2025 16:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware groups test new business models to hit more victims, increase profits</title>
+      <link>https://therecord.media/ransomware-groups-test-new-business-models-dragonforce-anubis</link>
+      <pubDate>Wed, 23 Apr 2025 15:37:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Verizon's DBIR Reveals 34% Jump in Vulnerability Exploitation</title>
+      <link>https://www.infosecurity-magazine.com/news/verizon-dbir-jump-vulnerability/</link>
+      <pubDate>Wed, 23 Apr 2025 15:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IngressNightmare: Understanding CVE‑2025‑1974 in Kubernetes Ingress-NGINX</title>
+      <link>https://feeds.fortinet.com/~/917176826/0/fortinet/blog/threat-research~IngressNightmare-Understanding-CVE%e2%80%91%e2%80%91-in-Kubernetes-IngressNGINX</link>
+      <pubDate>Wed, 23 Apr 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Reveals “Staggering” $16.6bn Lost to Cybercrime in 2024</title>
+      <link>https://www.infosecurity-magazine.com/news/fbi-staggering-lost-cybercrime-2024/</link>
+      <pubDate>Wed, 23 Apr 2025 14:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 23 Apr 2025 13:15:03 +0000</pubDate>
+      <pubDate>Wed, 23 Apr 2025 14:20:03 +0000</pubDate>
     </item>
     <item>
-      <title>FTC’s Holyoak says agency will avoid ‘excessive regulation’ of AI companies</title>
+      <title>FTC's Holyoak says agency will avoid 'excessive regulation' of AI development</title>
       <link>https://therecord.media/ftc-ai-privacy-regulations-data-mining-holyoak-iapp</link>
       <pubDate>Wed, 23 Apr 2025 13:12:13 +0000</pubDate>
     </item>
@@ -118,6 +143,11 @@
       <pubDate>Wed, 23 Apr 2025 05:19:00 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Falcon for IT Adds Endpoint Automation to Advance SOC Transformation</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-for-it-adds-endpoint-automation/</link>
+      <pubDate>Wed, 23 Apr 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Wednesday, April 23rd, 2025 https://isc.sans.edu/podcastdetail/9420, (Wed, Apr 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/31884</link>
       <pubDate>Wed, 23 Apr 2025 02:00:02 +0000</pubDate>
@@ -141,11 +171,6 @@
       <title>Millions of SK Telecom customers are potentially at risk following USIM data compromise</title>
       <link>https://securityaffairs.com/176802/data-breach/sk-telecom-data-breach.html</link>
       <pubDate>Tue, 22 Apr 2025 20:37:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-linked Billbug hackers breached multiple entities in Southeast Asian country</title>
-      <link>https://therecord.media/billbug-china-linked-apt-southeast-asian-country-multiple-orgs-hacked</link>
-      <pubDate>Tue, 22 Apr 2025 19:42:10 +0000</pubDate>
     </item>
     <item>
       <title>Docker Malware Exploits Teneo Web3 Node to Earn Crypto via Fake Heartbeat Signals</title>
@@ -268,11 +293,6 @@
       <pubDate>Tue, 22 Apr 2025 09:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>$40bn Southeast Asian Scam Sector Growing “Like a Cancer”</title>
-      <link>https://www.infosecurity-magazine.com/news/40bn-southeast-asia-scam-grow/</link>
-      <pubDate>Tue, 22 Apr 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Will super-smart AI be attacking us anytime soon?</title>
       <link>https://www.welivesecurity.com/en/cybersecurity/super-smart-ai-attacking/</link>
       <pubDate>Tue, 22 Apr 2025 09:00:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Fake Google Security Alert Hides a Phishing Scam</title>
       <link>https://www.techrepublic.com/article/news-google-oauth-scam/</link>
       <pubDate>Tue, 22 Apr 2025 08:42:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crosswalks hacked to play fake audio of Musk, Zuck, and Jeff Bezos</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/crosswalks-hacked-to-play-fake-audio-of-musk-zuck-and-jeff-bezos</link>
-      <pubDate>Tue, 22 Apr 2025 08:09:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan ’s FSA warns of unauthorized trades via stolen credentials from fake security firms’ sites</title>
-      <link>https://securityaffairs.com/176776/hacking/japan-s-financial-services-agency-warns-of-unauthorized-trades.html</link>
-      <pubDate>Tue, 22 Apr 2025 08:06:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Secures MSA Signing with Azure Confidential VMs Following Storm-0558 Breach</title>
-      <link>https://thehackernews.com/2025/04/microsoft-secures-msa-signing-with.html</link>
-      <pubDate>Tue, 22 Apr 2025 07:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>xorsearch.py: "Ad Hoc YARA Rules", (Tue, Apr 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/31856</link>
-      <pubDate>Tue, 22 Apr 2025 05:31:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
