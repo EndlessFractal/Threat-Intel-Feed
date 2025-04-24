@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Apr 2025 22:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 01:45:35 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 24 Apr 2025 00:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #414: Zoom.. just one click and your data goes boom!</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-414/</link>
+      <pubDate>Wed, 23 Apr 2025 23:00:23 +0000</pubDate>
+    </item>
     <item>
       <title>Shopify faces privacy lawsuit for collecting customer data</title>
       <link>https://www.malwarebytes.com/blog/news/2025/04/shopify-faces-privacy-lawsuit-for-collecting-customer-data</link>
       <pubDate>Wed, 23 Apr 2025 21:38:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 23 Apr 2025 21:20:04 +0000</pubDate>
     </item>
     <item>
       <title>DOGE Worker’s Code Supports NLRB Whistleblower</title>
@@ -65,6 +70,11 @@
     <item>
       <title>IngressNightmare: Understanding CVE‑2025‑1974 in Kubernetes Ingress-NGINX</title>
       <link>https://feeds.fortinet.com/~/917176826/0/fortinet/blog/threat-research~IngressNightmare-Understanding-CVE%e2%80%91%e2%80%91-in-Kubernetes-IngressNGINX</link>
+      <pubDate>Wed, 23 Apr 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, April 2025</title>
+      <link>https://asec.ahnlab.com/en/87627/</link>
       <pubDate>Wed, 23 Apr 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>CISA Releases Five Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/04/22/cisa-releases-five-industrial-control-systems-advisories</link>
       <pubDate>Tue, 22 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Major Concerns With Employees Using The Browser</title>
-      <link>https://thehackernews.com/2025/04/5-major-concerns-with-employees-using.html</link>
-      <pubDate>Tue, 22 Apr 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials</title>
-      <link>https://thehackernews.com/2025/04/phishers-exploit-google-sites-and-dkim.html</link>
-      <pubDate>Tue, 22 Apr 2025 10:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
