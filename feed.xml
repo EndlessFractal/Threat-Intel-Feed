@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Apr 2025 08:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 10:22:54 +0000</lastBuildDate>
+    <item>
+      <title>Triada strikes back</title>
+      <link>https://securelist.com/triada-trojan-modules-analysis/116380/</link>
+      <pubDate>Fri, 25 Apr 2025 10:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uncoder AI Visualizes Threat Behavior with Automated Attack Flow</title>
+      <link>https://socprime.com/blog/uncoder-ai-visualizes-threat-behavior-with-automated-attack-flow/</link>
+      <pubDate>Fri, 25 Apr 2025 09:57:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uncoder AI Automates MITRE ATT&amp;CK Tagging in Sigma Rules</title>
+      <link>https://socprime.com/blog/uncoder-ai-automates-mitre-attck-tagging-in-sigma-rules/</link>
+      <pubDate>Fri, 25 Apr 2025 09:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Let AI Catch the Bugs: Uncoder AI Validates Detection Rule Syntax and Logic</title>
+      <link>https://socprime.com/blog/let-ai-catch-the-bugs-uncoder-ai-validates-detection-rule-syntax-and-logic/</link>
+      <pubDate>Fri, 25 Apr 2025 09:56:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 25 Apr 2025 09:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Popular LLMs Found to Produce Vulnerable Code by Default</title>
+      <link>https://www.infosecurity-magazine.com/news/llms-vulnerable-code-default/</link>
+      <pubDate>Fri, 25 Apr 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers access sensitive SIM card data at South Korea’s largest telecoms company</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-access-sensitive-sim-card-data-at-south-koreas-largest-telecoms-company</link>
+      <pubDate>Fri, 25 Apr 2025 09:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers</title>
+      <link>https://thehackernews.com/2025/04/researchers-identify-rackstatic.html</link>
+      <pubDate>Fri, 25 Apr 2025 08:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks</title>
+      <link>https://thehackernews.com/2025/04/dslogdrat-malware-deployed-via-ivanti.html</link>
+      <pubDate>Fri, 25 Apr 2025 08:43:00 +0000</pubDate>
+    </item>
     <item>
       <title>5 Most Common Security Attack Methods in 2024: Mandiant’s M-Trends Report</title>
       <link>https://www.techrepublic.com/article/news-mandiant-m-trends-security-report/</link>
@@ -18,14 +63,14 @@
       <pubDate>Fri, 25 Apr 2025 07:58:08 +0000</pubDate>
     </item>
     <item>
+      <title>Example of a Payload Delivered Through Steganography, (Fri, Apr 25th)</title>
+      <link>https://isc.sans.edu/diary/rss/31892</link>
+      <pubDate>Fri, 25 Apr 2025 07:20:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Interlock ransomware gang started leaking data allegedly stolen from leading kidney dialysis firm DaVita</title>
       <link>https://securityaffairs.com/176946/cyber-crime/interlock-ransomware-gang-started-leaking-data-allegedly-stolen-from-leading-kidney-dialysis-firm-davita.html</link>
       <pubDate>Fri, 25 Apr 2025 07:13:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 25 Apr 2025 06:40:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, April 25th, 2025 https://isc.sans.edu/podcastdetail/9424, (Fri, Apr 25th)</title>
@@ -261,51 +306,6 @@
       <title>Visualizing Insider Threat Detection with Uncoder AI’s Decision Tree for SentinelOne Queries</title>
       <link>https://socprime.com/blog/visualizing-insider-threat-detection-with-uncoder-ais-decision-tree-for-sentinelone-queries/</link>
       <pubDate>Thu, 24 Apr 2025 08:59:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visualizing Sensitive File Discovery in Google SecOps with Uncoder AI’s Decision Tree</title>
-      <link>https://socprime.com/blog/visualizing-sensitive-file-discovery-in-google-secops-with-uncoder-ais-decision-tree/</link>
-      <pubDate>Thu, 24 Apr 2025 08:56:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Keeps Third-Party Cookies Settings, Lets Users ‘Make an Informed Choice’</title>
-      <link>https://www.techrepublic.com/article/new-google-chrome-privacy-sandbox-third-party-ads/</link>
-      <pubDate>Thu, 24 Apr 2025 06:05:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>You'll Soon Be Able to Sign in to Have I Been Pwned (but Not Login, Log in or Log On)</title>
-      <link>https://www.troyhunt.com/youll-soon-be-able-to-sign-in-to-have-i-been-pwned-but-not-login-log-in-or-log-on/</link>
-      <pubDate>Thu, 24 Apr 2025 05:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android spyware hidden in mapping software targets Russian soldiers</title>
-      <link>https://securityaffairs.com/176886/malware/android-spyware-hidden-in-mapping-software-targets-russian-soldiers.html</link>
-      <pubDate>Thu, 24 Apr 2025 05:28:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation SyncHole: Lazarus APT goes back to the well</title>
-      <link>https://securelist.com/operation-synchole-watering-hole-attacks-by-lazarus/116326/</link>
-      <pubDate>Thu, 24 Apr 2025 05:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp Adds Advanced Chat Privacy to Blocks Chat Exports and Auto-Downloads</title>
-      <link>https://thehackernews.com/2025/04/whatsapp-adds-advanced-chat-privacy-to.html</link>
-      <pubDate>Thu, 24 Apr 2025 04:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, April 24th, 2025 https://isc.sans.edu/podcastdetail/9422, (Thu, Apr 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/31886</link>
-      <pubDate>Thu, 24 Apr 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Data Paradox: When More Data Means Less Visibility</title>
-      <link>https://www.recordedfuture.com/blog/security-data-paradox</link>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #414: Zoom.. just one click and your data goes boom!</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-414/</link>
-      <pubDate>Wed, 23 Apr 2025 23:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
