@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Apr 2025 18:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 20:23:23 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 25 Apr 2025 18:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>JPCERT warns of DslogdRAT malware deployed in Ivanti Connect Secure</title>
+      <link>https://securityaffairs.com/177002/malware/jpcert-warns-of-dslogdrat-malware-deployed-in-ivanti-connect-secure.html</link>
+      <pubDate>Fri, 25 Apr 2025 17:56:11 +0000</pubDate>
+    </item>
     <item>
       <title>Hot OSINT Indicators</title>
       <link>https://socprime.com/blog/hot-osint-indicators/</link>
       <pubDate>Fri, 25 Apr 2025 17:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 25 Apr 2025 16:45:03 +0000</pubDate>
     </item>
     <item>
       <title>​​Explore practical best practices to secure your data with Microsoft Purview​​</title>
@@ -301,11 +306,6 @@
       <title>Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign</title>
       <link>https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html</link>
       <pubDate>Thu, 24 Apr 2025 12:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>159 CVEs Exploited in Q1 2025 — 28.3% Within 24 Hours of Disclosure</title>
-      <link>https://thehackernews.com/2025/04/159-cves-exploited-in-q1-2025-283.html</link>
-      <pubDate>Thu, 24 Apr 2025 12:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
