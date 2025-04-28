@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 16:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 18:30:35 +0000</lastBuildDate>
+    <item>
+      <title>Verizon’s Data Breach Report Findings ‘Underscore the Importance of a Multi-Layered Defense Strategy’</title>
+      <link>https://www.techrepublic.com/article/news-verizon-data-breach-investigations-report-2025/</link>
+      <pubDate>Mon, 28 Apr 2025 18:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windscribe Acquitted on Charges of Not Collecting Users’ Data</title>
+      <link>https://www.schneier.com/blog/archives/2025/04/windscribe-acquitted-on-charges-of-not-collecting-users-data.html</link>
+      <pubDate>Mon, 28 Apr 2025 18:17:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Media firm Urban One confirms data breach after cybercriminals claim February attack</title>
+      <link>https://therecord.media/urban-one-data-breach-african-amercian-media</link>
+      <pubDate>Mon, 28 Apr 2025 17:55:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 28 Apr 2025 17:30:04 +0000</pubDate>
+    </item>
     <item>
       <title>Faster, more personalized service begins at the frontline with Microsoft Intune</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/04/28/faster-more-personalized-service-begins-at-the-frontline-with-microsoft-intune/</link>
@@ -18,9 +38,9 @@
       <pubDate>Mon, 28 Apr 2025 15:31:49 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 28 Apr 2025 15:30:03 +0000</pubDate>
+      <title>Microsoft Rolls Recall Out to General Public After Privacy Backlash</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-recall-expands-rollout/</link>
+      <pubDate>Mon, 28 Apr 2025 15:00:13 +0000</pubDate>
     </item>
     <item>
       <title>Ukrainian state and banking services restored after data center outage</title>
@@ -66,6 +86,11 @@
       <title>⚡ Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs &amp; More</title>
       <link>https://thehackernews.com/2025/04/weekly-recap-critical-sap-exploit-ai.html</link>
       <pubDate>Mon, 28 Apr 2025 12:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/28/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A large-scale phishing campaign targets WordPress WooCommerce users</title>
@@ -131,6 +156,16 @@
       <title>A week in security (April 21 – April 27)</title>
       <link>https://www.malwarebytes.com/blog/news/2025/04/a-week-in-security-april-21-april-27</link>
       <pubDate>Mon, 28 Apr 2025 07:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Falcon Next-Gen SIEM Integrates with Microsoft Edge for Business to Improve Enterprise Browser Security</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-and-microsoft-edge-for-business-enterprise-browser-security/</link>
+      <pubDate>Mon, 28 Apr 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Partners with Google Cloud to Advance AI-Native Integration with MCP</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-google-cloud-ai-native-integration-mcp/</link>
+      <pubDate>Mon, 28 Apr 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CrowdStrike Advances Next-Gen SIEM with Threat Hunting Across Data Sources, AI-Driven UEBA</title>
@@ -228,11 +263,6 @@
       <pubDate>Fri, 25 Apr 2025 21:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>FTC publishes updates to children’s privacy rule, easing fears that Trump admin would nix it</title>
-      <link>https://therecord.media/ftc-publishes-updates-to-coppa-privacy-rule</link>
-      <pubDate>Fri, 25 Apr 2025 20:30:09 +0000</pubDate>
-    </item>
-    <item>
       <title>JPCERT warns of DslogdRAT malware deployed in Ivanti Connect Secure</title>
       <link>https://securityaffairs.com/177002/malware/jpcert-warns-of-dslogdrat-malware-deployed-in-ivanti-connect-secure.html</link>
       <pubDate>Fri, 25 Apr 2025 17:56:11 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Rule Deployment into a Data Plane</title>
       <link>https://socprime.com/blog/rule-deployment-into-a-data-plane/</link>
       <pubDate>Fri, 25 Apr 2025 15:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rule Customization On The Fly</title>
-      <link>https://socprime.com/blog/rule-customization-on-the-fly/</link>
-      <pubDate>Fri, 25 Apr 2025 15:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Save Detection Code &amp; Metadata to Custom Repositories</title>
-      <link>https://socprime.com/blog/save-detection-code-metadata-to-custom-repositories/</link>
-      <pubDate>Fri, 25 Apr 2025 15:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Search Threat Detection Marketplace from Uncoder AI</title>
-      <link>https://socprime.com/blog/search-threat-detection-marketplace-from-uncoder-ai/</link>
-      <pubDate>Fri, 25 Apr 2025 14:48:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>M&amp;S Shuts Down Online Orders Amid Ongoing Cyber Incident</title>
-      <link>https://www.infosecurity-magazine.com/news/ms-shuts-down-online-orders/</link>
-      <pubDate>Fri, 25 Apr 2025 14:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ToyMaker Activity Detection: Initial Access Brokers Compromise Hosts in Critical Infrastructure Organizations via SSH and File Transfer Utilities</title>
-      <link>https://socprime.com/blog/toy-maker-activity-detection/</link>
-      <pubDate>Fri, 25 Apr 2025 14:14:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures</title>
-      <link>https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html</link>
-      <pubDate>Fri, 25 Apr 2025 14:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
