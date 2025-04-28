@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 18:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 20:22:14 +0000</lastBuildDate>
     <item>
       <title>Verizon’s Data Breach Report Findings ‘Underscore the Importance of a Multi-Layered Defense Strategy’</title>
       <link>https://www.techrepublic.com/article/news-verizon-data-breach-investigations-report-2025/</link>
       <pubDate>Mon, 28 Apr 2025 18:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 28 Apr 2025 18:30:04 +0000</pubDate>
     </item>
     <item>
       <title>Windscribe Acquitted on Charges of Not Collecting Users’ Data</title>
@@ -21,11 +26,6 @@
       <title>Media firm Urban One confirms data breach after cybercriminals claim February attack</title>
       <link>https://therecord.media/urban-one-data-breach-african-amercian-media</link>
       <pubDate>Mon, 28 Apr 2025 17:55:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 28 Apr 2025 17:30:04 +0000</pubDate>
     </item>
     <item>
       <title>Faster, more personalized service begins at the frontline with Microsoft Intune</title>
@@ -51,6 +51,11 @@
       <title>Uyghur Diaspora Group Targeted with Remote Surveillance Malware</title>
       <link>https://www.infosecurity-magazine.com/news/uyghur-diaspora-surveillance/</link>
       <pubDate>Mon, 28 Apr 2025 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RSA 2025: Google is Going All-In on AI Agents That Can Help Security Personnel</title>
+      <link>https://www.techrepublic.com/article/news-google-gemini-security-operations/</link>
+      <pubDate>Mon, 28 Apr 2025 14:00:54 +0000</pubDate>
     </item>
     <item>
       <title>Half of Mobile Devices Run Outdated Operating Systems</title>
@@ -301,11 +306,6 @@
       <title>SAP Fixes Critical Vulnerability After Evidence of Exploitation</title>
       <link>https://www.infosecurity-magazine.com/news/sap-fixes-critical-vulnerability/</link>
       <pubDate>Fri, 25 Apr 2025 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rule Deployment into a Data Plane</title>
-      <link>https://socprime.com/blog/rule-deployment-into-a-data-plane/</link>
-      <pubDate>Fri, 25 Apr 2025 15:16:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
