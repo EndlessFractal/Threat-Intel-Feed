@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Apr 2025 16:27:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 18:28:48 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 29 Apr 2025 17:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy</title>
+      <link>https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html</link>
+      <pubDate>Tue, 29 Apr 2025 17:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp says in-app AI tools will still keep messages secret</title>
+      <link>https://therecord.media/whatsapp-in-app-tools-secret-messages</link>
+      <pubDate>Tue, 29 Apr 2025 17:13:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>France blames Russian military intelligence for years of cyberattacks on local entities</title>
+      <link>https://therecord.media/france-blames-russian-military-intelligence-for-hacks-against-local-orgs</link>
+      <pubDate>Tue, 29 Apr 2025 16:52:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Reports Uncover Jailbreaks, Unsafe Code, and Data Theft Risks in Leading AI Systems</title>
+      <link>https://thehackernews.com/2025/04/new-reports-uncover-jailbreaks-unsafe.html</link>
+      <pubDate>Tue, 29 Apr 2025 16:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>Short AI Summaries Make Complex Detection Instantly Understandable</title>
       <link>https://socprime.com/blog/short-ai-summaries-make-complex-detection-instantly-understandable/</link>
@@ -21,11 +46,6 @@
       <title>New WordPress Malware Masquerades as Plugin</title>
       <link>https://www.infosecurity-magazine.com/news/wordpress-malware-masquerades/</link>
       <pubDate>Tue, 29 Apr 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 29 Apr 2025 15:40:03 +0000</pubDate>
     </item>
     <item>
       <title>More Scans for SMS Gateways and APIs, (Tue, Apr 29th)</title>
@@ -95,6 +115,16 @@
     <item>
       <title>Delta Electronics ISPSoft</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-119-02</link>
+      <pubDate>Tue, 29 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Three Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/29/cisa-releases-three-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 29 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/04/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Tue, 29 Apr 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -193,6 +223,11 @@
       <pubDate>Tue, 29 Apr 2025 05:00:15 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Strengthens Data Security Across Endpoint, Cloud, and SaaS Applications</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-strengthens-data-security-across-endpoint-cloud-saas/</link>
+      <pubDate>Tue, 29 Apr 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Adds Actively Exploited Broadcom and Commvault Flaws to KEV Database</title>
       <link>https://thehackernews.com/2025/04/cisa-adds-actively-exploited-broadcom.html</link>
       <pubDate>Tue, 29 Apr 2025 04:21:00 +0000</pubDate>
@@ -201,11 +236,6 @@
       <title>ISC Stormcast For Tuesday, April 29th, 2025 https://isc.sans.edu/podcastdetail/9428, (Tue, Apr 29th)</title>
       <link>https://isc.sans.edu/diary/rss/31900</link>
       <pubDate>Tue, 29 Apr 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krebs: People should be ‘outraged’ at efforts to shrink federal cyber efforts</title>
-      <link>https://therecord.media/krebs-outrage-efforts-to-shrink-federal-cyber-workforce</link>
-      <pubDate>Tue, 29 Apr 2025 00:11:53 +0000</pubDate>
     </item>
     <item>
       <title>Uncovering MintsLoader With Recorded Future Malware Intelligence Hunting</title>
@@ -236,11 +266,6 @@
       <title>Windscribe Acquitted on Charges of Not Collecting Users’ Data</title>
       <link>https://www.schneier.com/blog/archives/2025/04/windscribe-acquitted-on-charges-of-not-collecting-users-data.html</link>
       <pubDate>Mon, 28 Apr 2025 18:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Media firm Urban One confirms data breach after cybercriminals claim February attack</title>
-      <link>https://therecord.media/urban-one-data-breach-african-amercian-media</link>
-      <pubDate>Mon, 28 Apr 2025 17:55:43 +0000</pubDate>
     </item>
     <item>
       <title>Faster, more personalized service begins at the frontline with Microsoft Intune</title>
@@ -281,31 +306,6 @@
       <title>Employee monitoring app exposes users, leaks 21+ million screenshots</title>
       <link>https://www.malwarebytes.com/blog/news/2025/04/employee-monitoring-app-exposes-users-leaks-21-million-screenshots</link>
       <pubDate>Mon, 28 Apr 2025 12:53:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs &amp; More</title>
-      <link>https://thehackernews.com/2025/04/weekly-recap-critical-sap-exploit-ai.html</link>
-      <pubDate>Mon, 28 Apr 2025 12:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/04/28/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Mon, 28 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A large-scale phishing campaign targets WordPress WooCommerce users</title>
-      <link>https://securityaffairs.com/177115/hacking/a-large-scale-phishing-campaign-targets-wordpress-woocommerce-users.html</link>
-      <pubDate>Mon, 28 Apr 2025 11:43:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>4 Different Types of VPNs &amp; When to Use Them</title>
-      <link>https://www.techrepublic.com/article/types-of-vpns/</link>
-      <pubDate>Mon, 28 Apr 2025 11:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Breaches Start: Breaking Down 5 Real Vulns</title>
-      <link>https://thehackernews.com/2025/04/how-breaches-start-breaking-down-5-real.html</link>
-      <pubDate>Mon, 28 Apr 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
