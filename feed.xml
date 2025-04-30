@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Apr 2025 01:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 03:07:22 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 30 Apr 2025 01:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web Scanning Sonicwall for CVE-2021-20016, (Tue, Apr 29th)</title>
+      <link>https://isc.sans.edu/diary/rss/31906</link>
+      <pubDate>Wed, 30 Apr 2025 01:29:43 +0000</pubDate>
+    </item>
     <item>
       <title>Google: 75 zero-days seen in 2024 as nations, spyware vendors continue exploitation</title>
       <link>https://therecord.media/google-zero-day-report-2024</link>
@@ -26,11 +36,6 @@
       <title>U.S. CISA adds SAP NetWeaver flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/177218/hacking/u-s-cisa-adds-sap-netweaver-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Wed, 30 Apr 2025 00:05:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 29 Apr 2025 23:50:03 +0000</pubDate>
     </item>
     <item>
       <title>SentinelOne warns of threat actors targeting its systems and high-value clients</title>
@@ -301,11 +306,6 @@
       <title>RSA 2025: Google is Going All-In on AI Agents That Can Help Security Personnel</title>
       <link>https://www.techrepublic.com/article/news-google-gemini-security-operations/</link>
       <pubDate>Mon, 28 Apr 2025 14:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Half of Mobile Devices Run Outdated Operating Systems</title>
-      <link>https://www.infosecurity-magazine.com/news/50-mobile-devices-run-outdated/</link>
-      <pubDate>Mon, 28 Apr 2025 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
