@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 May 2025 16:27:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 18:29:55 +0000</lastBuildDate>
+    <item>
+      <title>Understanding the challenges of securing an NGO</title>
+      <link>https://blog.talosintelligence.com/understanding-the-challenges-of-securing-an-ngo/</link>
+      <pubDate>Thu, 01 May 2025 18:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 01 May 2025 17:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyzing CVE-2025-31191: A macOS security-scoped bookmarks-based sandbox escape</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/05/01/analyzing-cve-2025-31191-a-macos-security-scoped-bookmarks-based-sandbox-escape/</link>
+      <pubDate>Thu, 01 May 2025 17:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>US as a Surveillance State</title>
       <link>https://www.schneier.com/blog/archives/2025/05/us-as-a-surveillance-state.html</link>
@@ -16,6 +31,11 @@
       <title>Pushing passkeys forward: Microsoft’s latest updates for simpler, safer sign-ins</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/05/01/pushing-passkeys-forward-microsofts-latest-updates-for-simpler-safer-sign-ins/</link>
       <pubDate>Thu, 01 May 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian electric utility Nova Scotia Power and parent company Emera suffered a cyberattack</title>
+      <link>https://securityaffairs.com/177281/hacking/canadian-electric-utility-nova-scotia-power-and-parent-company-emera-suffered-a-cyberattack.html</link>
+      <pubDate>Thu, 01 May 2025 15:52:08 +0000</pubDate>
     </item>
     <item>
       <title>Apple notifies victims in 100 countries of likely spyware targeting</title>
@@ -33,11 +53,6 @@
       <pubDate>Thu, 01 May 2025 15:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 01 May 2025 15:15:04 +0000</pubDate>
-    </item>
-    <item>
       <title>UK and Canadian Regulators Demand Robust Data Protection Amid 23andMe Bankruptcy</title>
       <link>https://www.infosecurity-magazine.com/news/uk-canadian-regulators-23andme/</link>
       <pubDate>Thu, 01 May 2025 15:15:00 +0000</pubDate>
@@ -51,6 +66,11 @@
       <title>FortiGuard Incident Response Team Detects Intrusion into Middle East Critical National Infrastructure</title>
       <link>https://feeds.fortinet.com/~/917592530/0/fortinet/blog/threat-research~FortiGuard-Incident-Response-Team-Detects-Intrusion-into-Middle-East-Critical-National-Infrastructure</link>
       <pubDate>Thu, 01 May 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2025</title>
+      <link>https://www.techrepublic.com/article/top-tech-conferences-events/</link>
+      <pubDate>Thu, 01 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sophos Firewall v21.5: Entra ID SSO for Sophos Connect</title>
@@ -100,6 +120,16 @@
     <item>
       <title>KUNBUS GmbH Revolution Pi</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-121-01</link>
+      <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/01/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/01/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -238,6 +268,11 @@
       <pubDate>Thu, 01 May 2025 00:29:29 +0000</pubDate>
     </item>
     <item>
+      <title>TerraStealerV2 and TerraLogger: Golden Chickens' New Malware Families Discovered</title>
+      <link>https://www.recordedfuture.com/research/terrastealerv2-and-terralogger</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Smashing Security podcast #415: Hacking hijinks at the hospital, and WASPI scams</title>
       <link>https://grahamcluley.com/smashing-security-podcast-415-hacking-hijinks-at-the-hospital-and-waspi-scams/</link>
       <pubDate>Wed, 30 Apr 2025 23:00:02 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Apple Passwords Review (2025): Features, Pricing, and Security</title>
       <link>https://www.techrepublic.com/article/apple-passwords-review/</link>
       <pubDate>Wed, 30 Apr 2025 16:14:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Demonstrate How MCP Prompt Injection Can Be Used for Both Attack and Defense</title>
-      <link>https://thehackernews.com/2025/04/experts-uncover-critical-mcp-and-a2a.html</link>
-      <pubDate>Wed, 30 Apr 2025 15:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft CEO Nadella: 20% to 30% of Our Code Was Written by AI</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-meta-code-written-by-ai/</link>
-      <pubDate>Wed, 30 Apr 2025 15:57:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>RansomHub Refines Extortion Strategy as RaaS Market Fractures</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomhub-refines-extortion/</link>
-      <pubDate>Wed, 30 Apr 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Expands Cloud, AI Footprint Across Europe</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-expands-cloud-ai/</link>
-      <pubDate>Wed, 30 Apr 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Promises to Uphold Europe’s Digital Resilience ‘Regardless of Geopolitical and Trade Volatility’</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-europe-digital-commitments-2025/</link>
-      <pubDate>Wed, 30 Apr 2025 14:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>France links Russian APT28 to attacks on dozen French entities</title>
-      <link>https://securityaffairs.com/177238/apt/france-links-russian-apt28-to-attacks-on-dozen-french-entities.html</link>
-      <pubDate>Wed, 30 Apr 2025 13:58:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Social Security Statement emails trick users into installing remote tool</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/04/fake-social-security-statement-emails-trick-users-into-installing-remote-tool</link>
-      <pubDate>Wed, 30 Apr 2025 13:56:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
