@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 12:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 14:22:16 +0000</lastBuildDate>
+    <item>
+      <title>Azerbaijan blames Russian state hackers for cyberattacks on local media</title>
+      <link>https://therecord.media/azerbaijan-blames-media-cyberattacks-russia-apt29</link>
+      <pubDate>Mon, 05 May 2025 13:21:50 +0000</pubDate>
+    </item>
     <item>
       <title>A hacker stole data from TeleMessage, the firm that sells modified versions of Signal to the U.S. gov</title>
       <link>https://securityaffairs.com/177458/hacking/a-hacker-stole-data-from-telemessage-the-firm-that-sells-modified-versions-of-signal-to-the-u-s-gov.html</link>
       <pubDate>Mon, 05 May 2025 12:06:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 05 May 2025 11:40:04 +0000</pubDate>
     </item>
     <item>
       <title>⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors</title>
@@ -28,9 +38,14 @@
       <pubDate>Mon, 05 May 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 05 May 2025 10:40:04 +0000</pubDate>
+      <title>TikTok Fined €530m Over Transfers of European User Data to China</title>
+      <link>https://www.infosecurity-magazine.com/news/tiktok-fined-530m-euros-european/</link>
+      <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Attacks Fall in April Amid RansomHub Outage</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-fall-april-ransomhub/</link>
+      <pubDate>Mon, 05 May 2025 08:15:00 +0000</pubDate>
     </item>
     <item>
       <title>A week in security (April 27 – May 3)</title>
@@ -51,6 +66,11 @@
       <title>Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data</title>
       <link>https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html</link>
       <pubDate>Mon, 05 May 2025 05:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SMB Security Survey Reveals High Awareness, Lagging Protection</title>
+      <link>https://www.crowdstrike.com/en-us/blog/smb-security-survey-reveals-high-awareness-lagging-protection/</link>
+      <pubDate>Mon, 05 May 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Monday, May 5th, 2025 https://isc.sans.edu/podcastdetail/9436, (Mon, May 5th)</title>
@@ -81,6 +101,11 @@
       <title>Security Affairs newsletter Round 522 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/177397/breaking-news/security-affairs-newsletter-round-522-by-pierluigi-paganini-international-edition.html</link>
       <pubDate>Sun, 04 May 2025 10:05:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI, Cyber and Budgets: Top Themes at 2025 NASCIO Midyear</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/ai-cyber-and-budgets-top-themes-at-2025-nascio-midyear</link>
+      <pubDate>Sun, 04 May 2025 09:53:00 +0000</pubDate>
     </item>
     <item>
       <title>Rhysida Ransomware gang claims the hack of the Government of Peru</title>
@@ -163,6 +188,11 @@
       <pubDate>Fri, 02 May 2025 14:16:05 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Confirms Exploitation of SonicWall Vulnerabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-exploitation-sonicwall/</link>
+      <pubDate>Fri, 02 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cyber Wars 2025: The SMB Strikes Back</title>
       <link>https://www.security.com/expert-perspectives/cyber-wars-2025-smb-strikes-back</link>
       <pubDate>Fri, 02 May 2025 13:37:58 +0000</pubDate>
@@ -176,6 +206,11 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 18</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-18-6/</link>
       <pubDate>Fri, 02 May 2025 13:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>White House Warns China of Cyber Retaliation Over Infrastructure Hacks</title>
+      <link>https://www.infosecurity-magazine.com/news/white-house-china-cyber-retaliation/</link>
+      <pubDate>Fri, 02 May 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TikTok Slammed With €530 Million GDPR Fine for Sending E.U. Data to China</title>
@@ -208,9 +243,14 @@
       <pubDate>Fri, 02 May 2025 10:04:10 +0000</pubDate>
     </item>
     <item>
-      <title>Privacy regulator fines TikTok $600 million over EU data transfers to China</title>
-      <link>https://therecord.media/tiktok-fined-gdpr-data-chinese-servers</link>
-      <pubDate>Fri, 02 May 2025 10:00:35 +0000</pubDate>
+      <title>Third of Online Users Hit by Account Hacks Due to Weak Passwords</title>
+      <link>https://www.infosecurity-magazine.com/news/third-online-users-hacks-passwords/</link>
+      <pubDate>Fri, 02 May 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harrods Latest UK Retailer to Fall Victim to Cyber-Attack in Recent Days</title>
+      <link>https://www.infosecurity-magazine.com/news/harrods-uk-retailer-fall-victim-to/</link>
+      <pubDate>Fri, 02 May 2025 09:05:00 +0000</pubDate>
     </item>
     <item>
       <title>MintsLoader Drops GhostWeaver via Phishing, ClickFix — Uses DGA, TLS for Stealth Attacks</title>
@@ -266,46 +306,6 @@
       <title>AI Agents Are Here. So Are the Threats.</title>
       <link>https://unit42.paloaltonetworks.com/agentic-ai-threats/</link>
       <pubDate>Thu, 01 May 2025 22:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Top 7 Enterprise VPN Solutions</title>
-      <link>https://www.techrepublic.com/article/top-enterprise-vpns/</link>
-      <pubDate>Thu, 01 May 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding the challenges of securing an NGO</title>
-      <link>https://blog.talosintelligence.com/understanding-the-challenges-of-securing-an-ngo/</link>
-      <pubDate>Thu, 01 May 2025 18:01:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyzing CVE-2025-31191: A macOS security-scoped bookmarks-based sandbox escape</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/05/01/analyzing-cve-2025-31191-a-macos-security-scoped-bookmarks-based-sandbox-escape/</link>
-      <pubDate>Thu, 01 May 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US as a Surveillance State</title>
-      <link>https://www.schneier.com/blog/archives/2025/05/us-as-a-surveillance-state.html</link>
-      <pubDate>Thu, 01 May 2025 16:02:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pushing passkeys forward: Microsoft’s latest updates for simpler, safer sign-ins</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/05/01/pushing-passkeys-forward-microsofts-latest-updates-for-simpler-safer-sign-ins/</link>
-      <pubDate>Thu, 01 May 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers</title>
-      <link>https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html</link>
-      <pubDate>Thu, 01 May 2025 15:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FortiGuard Incident Response Team Detects Intrusion into Middle East Critical National Infrastructure</title>
-      <link>https://feeds.fortinet.com/~/917592530/0/fortinet/blog/threat-research~FortiGuard-Incident-Response-Team-Detects-Intrusion-into-Middle-East-Critical-National-Infrastructure</link>
-      <pubDate>Thu, 01 May 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile Security &amp; Malware Issue 1st Week of May, 2025</title>
-      <link>https://asec.ahnlab.com/en/87745/</link>
-      <pubDate>Thu, 01 May 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
