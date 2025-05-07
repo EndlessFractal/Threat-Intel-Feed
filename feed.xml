@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 May 2025 12:46:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 14:22:20 +0000</lastBuildDate>
+    <item>
+      <title>What Is Zero-Trust Security</title>
+      <link>https://socprime.com/blog/what-is-zero-trust-security/</link>
+      <pubDate>Wed, 07 May 2025 14:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Word on the Street: Media Roundup for Broadcom at RSAC 2025</title>
+      <link>https://www.security.com/expert-perspectives/media-roundup-rsac-2025</link>
+      <pubDate>Wed, 07 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks</title>
+      <link>https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html</link>
+      <pubDate>Wed, 07 May 2025 13:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OttoKit WordPress Plugin with 100K+ Installs Hit by Exploits Targeting Multiple Flaws</title>
+      <link>https://thehackernews.com/2025/05/ottokit-wordpress-plugin-with-100k.html</link>
+      <pubDate>Wed, 07 May 2025 13:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI issues warning as scammers target victims of crime</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/05/fbi-issues-warning-as-scammers-target-victims-of-crime</link>
+      <pubDate>Wed, 07 May 2025 13:36:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medical device giant Masimo says cyberattack is limiting ability to fill customer orders</title>
+      <link>https://therecord.media/masimo-medical-device-company-cyberattack</link>
+      <pubDate>Wed, 07 May 2025 12:48:19 +0000</pubDate>
+    </item>
     <item>
       <title>Russians face massive mobile internet restrictions ahead of Victory Day parade</title>
       <link>https://therecord.media/russia-internet-restrictions-victory-day</link>
       <pubDate>Wed, 07 May 2025 12:23:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 07 May 2025 12:05:03 +0000</pubDate>
     </item>
     <item>
       <title>Poland accuses Russia of ‘unprecedented’ interference ahead of presidential election</title>
@@ -31,11 +66,6 @@
       <title>NSO Group Hit with $168m Fine for WhatsApp Pegasus Spyware Abuse</title>
       <link>https://www.infosecurity-magazine.com/news/nso-group-168m-fine-whatsapp/</link>
       <pubDate>Wed, 07 May 2025 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 07 May 2025 11:05:04 +0000</pubDate>
     </item>
     <item>
       <title>Chinese AI Submersible</title>
@@ -136,11 +166,6 @@
       <title>Lawmakers grill Noem over CISA funding cuts, demand Trump cyber plan</title>
       <link>https://therecord.media/noem-house-hearing-proposed-cisa-funding-cuts</link>
       <pubDate>Tue, 06 May 2025 20:08:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>DOD cyber policy nominee vows to ‘revaluate’ offensive cyber guardrails</title>
-      <link>https://therecord.media/dod-cyber-policy-nominee-offensive-cyber-operations</link>
-      <pubDate>Tue, 06 May 2025 19:38:02 +0000</pubDate>
     </item>
     <item>
       <title>Samsung MagicINFO flaw exploited days after PoC exploit publication</title>
@@ -281,31 +306,6 @@
       <title>Lampion Is Back With ClickFix Lures</title>
       <link>https://unit42.paloaltonetworks.com/lampion-malware-clickfix-lures/</link>
       <pubDate>Tue, 06 May 2025 10:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proactive threat hunting with Talos IR</title>
-      <link>https://blog.talosintelligence.com/proactive-threat-hunting-with-talos-ir/</link>
-      <pubDate>Tue, 06 May 2025 10:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Entra ID Data Protection: Essential or Overkill?</title>
-      <link>https://thehackernews.com/2025/05/entra-id-data-protectionessential-or.html</link>
-      <pubDate>Tue, 06 May 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK’s NCSC Offers Security Tips as Co-op Confirms Data Loss</title>
-      <link>https://www.infosecurity-magazine.com/news/uks-ncsc-security-tips-coop-data/</link>
-      <pubDate>Tue, 06 May 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toll road scams are in overdrive: Here’s how to protect yourself</title>
-      <link>https://www.welivesecurity.com/en/scams/put-brakes-toll-road-scams/</link>
-      <pubDate>Tue, 06 May 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ‘Bring Your Own Installer (BYOI)’ technique allows to bypass EDR</title>
-      <link>https://securityaffairs.com/177494/hacking/new-bring-your-own-installer-byoi-technique-allows-to-bypass-edr.html</link>
-      <pubDate>Tue, 06 May 2025 08:57:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
