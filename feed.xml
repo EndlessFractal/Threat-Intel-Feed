@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 08:29:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 10:24:27 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 08 May 2025 10:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Launches New Cybersecurity Assessment Initiatives to Drive Secure by Design</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-cybersecurity-assessment/</link>
+      <pubDate>Thu, 08 May 2025 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spam campaign targeting Brazil abuses Remote Monitoring and Management tools</title>
+      <link>https://blog.talosintelligence.com/spam-campaign-targeting-brazil-abuses-rmm-tools/</link>
+      <pubDate>Thu, 08 May 2025 10:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Confusion Reigns as Threat Actors Exploit Samsung MagicInfo Flaw</title>
+      <link>https://www.infosecurity-magazine.com/news/threat-actors-exploit-samsung/</link>
+      <pubDate>Thu, 08 May 2025 09:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Infosec2025: Combating Deepfake Threats at the Age of AI Agents</title>
+      <link>https://www.infosecurity-magazine.com/news/infosec2025-combating-deepfake/</link>
+      <pubDate>Thu, 08 May 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds GoVision device flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/177599/security/u-s-cisa-adds-govision-device-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 08 May 2025 08:04:03 +0000</pubDate>
+    </item>
     <item>
       <title>Hacker Finds New Technique to Bypass SentinelOne EDR Solution</title>
       <link>https://www.infosecurity-magazine.com/news/new-technique-bypass-sentinelone/</link>
@@ -16,11 +46,6 @@
       <title>Polish authorities arrested 4 people behind DDoS-for-hire platforms</title>
       <link>https://securityaffairs.com/177590/cyber-crime/polish-police-arrested-4-people-behind-ddos-for-hire-platforms.html</link>
       <pubDate>Thu, 08 May 2025 07:22:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 08 May 2025 07:15:03 +0000</pubDate>
     </item>
     <item>
       <title>Welcoming the Isle of Man Government to Have I Been Pwned</title>
@@ -213,6 +238,11 @@
       <pubDate>Wed, 07 May 2025 09:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Beware of phone scams demanding money for ‘missed jury duty’</title>
+      <link>https://www.welivesecurity.com/en/scams/phone-scams-demanding-money-missed-jury-duty/</link>
+      <pubDate>Wed, 07 May 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>NSO Group must pay WhatsApp over $167M in damages for attacks on its users</title>
       <link>https://securityaffairs.com/177543/laws-and-regulations/nso-group-must-pay-whatsapp-over-167m-in-damages-for-attacks-on-its-users.html</link>
       <pubDate>Wed, 07 May 2025 08:57:08 +0000</pubDate>
@@ -263,19 +293,9 @@
       <pubDate>Tue, 06 May 2025 15:50:12 +0000</pubDate>
     </item>
     <item>
-      <title>Texas School District Notifies Over 47,000 People of Major Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/texas-school-47000-people-data/</link>
-      <pubDate>Tue, 06 May 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet</title>
       <link>https://thehackernews.com/2025/05/hackers-exploit-samsung-magicinfo.html</link>
       <pubDate>Tue, 06 May 2025 15:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smishing Triad Upgrades Tools and Tactics for Global Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/smishing-triad-upgrades-tools/</link>
-      <pubDate>Tue, 06 May 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The AI Fix #49: The typo from hell</title>
@@ -286,26 +306,6 @@
       <title>App Used by Trump Adviser Suspends Services After Hack Taking ’15-20 Minutes’</title>
       <link>https://www.techrepublic.com/article/news-telemessage-hack/</link>
       <pubDate>Tue, 06 May 2025 14:25:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learn How We’re Making It Safer to Work in a Connected World</title>
-      <link>https://www.security.com/feature-stories/google-cloud-partner-year-data-security</link>
-      <pubDate>Tue, 06 May 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts warn of a second wave of attacks targeting SAP NetWeaver bug CVE-2025-31324</title>
-      <link>https://securityaffairs.com/177522/hacking/experts-warn-of-a-second-wave-of-attacks-targeting-sap-netweaver-bug-cve-2025-31324.html</link>
-      <pubDate>Tue, 06 May 2025 13:55:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Your privacy is a promise we don’t break”: Dating app Raw exposes sensitive user data</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/05/your-privacy-is-a-promise-we-dont-break-dating-app-raw-exposes-sensitive-user-data</link>
-      <pubDate>Tue, 06 May 2025 13:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Investment Scams Use Facebook Ads, RDGA Domains, and IP Checks to Filter Victims</title>
-      <link>https://thehackernews.com/2025/05/new-investment-scams-use-facebook-ads.html</link>
-      <pubDate>Tue, 06 May 2025 13:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
