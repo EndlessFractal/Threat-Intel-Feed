@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 10:24:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 12:44:06 +0000</lastBuildDate>
+    <item>
+      <title>LockBit Ransomware Hacked, Insider Secrets Exposed</title>
+      <link>https://www.infosecurity-magazine.com/news/lockbit-ransomware-hacked-insider/</link>
+      <pubDate>Thu, 08 May 2025 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business Owners: Here’s Why a VPN Isn’t Optional Anymore</title>
+      <link>https://www.techrepublic.com/article/ipro-vpn-3-year-subscription/</link>
+      <pubDate>Thu, 08 May 2025 12:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just 5% of Enterprises Have Deployed Quantum-Safe Encryption</title>
+      <link>https://www.infosecurity-magazine.com/news/just-5-enterprises-quantumsafe/</link>
+      <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian state-linked Coldriver spies add new malware to operation</title>
+      <link>https://therecord.media/coldriver-russia-cyber-espionage-lostkeys-malware</link>
+      <pubDate>Thu, 08 May 2025 11:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Cyber Essentials Certification Numbers Falling Short</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-cyber-essentials-falling-short/</link>
+      <pubDate>Thu, 08 May 2025 11:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 08 May 2025 10:15:03 +0000</pubDate>
+      <pubDate>Thu, 08 May 2025 11:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Tools Alone Don't Protect You — Control Effectiveness Does</title>
+      <link>https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html</link>
+      <pubDate>Thu, 08 May 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp hack: Meta wins payout over NSO Group spyware</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/05/whatsapp-hack-meta-wins-payout-over-nso-group-spyware</link>
+      <pubDate>Thu, 08 May 2025 10:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware</title>
+      <link>https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html</link>
+      <pubDate>Thu, 08 May 2025 10:32:00 +0000</pubDate>
     </item>
     <item>
       <title>UK Launches New Cybersecurity Assessment Initiatives to Drive Secure by Design</title>
@@ -113,11 +153,6 @@
       <pubDate>Wed, 07 May 2025 15:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>UK spies see ‘direct connection’ between Russian cyberattacks and sabotage plots</title>
-      <link>https://therecord.media/uk-spies-see-connection-russia</link>
-      <pubDate>Wed, 07 May 2025 15:40:24 +0000</pubDate>
-    </item>
-    <item>
       <title>"Nationally Significant" Cyber-Attacks Have Doubled, UK’s NCSC Reports</title>
       <link>https://www.infosecurity-magazine.com/news/nationally-significant/</link>
       <pubDate>Wed, 07 May 2025 15:15:00 +0000</pubDate>
@@ -208,16 +243,6 @@
       <pubDate>Wed, 07 May 2025 10:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>UK Government Warns Retail Attacks Must Serve as a “Wake-up Call”</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-retail-attacks-wakeup-call/</link>
-      <pubDate>Wed, 07 May 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Cyber Insurance Claims Second Highest on Record</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-cyberinsurance-claims-second/</link>
-      <pubDate>Wed, 07 May 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Iranian Cyber Actors Impersonate Model Agency in Suspected Espionage Operation</title>
       <link>https://unit42.paloaltonetworks.com/iranian-attackers-impersonate-model-agency/</link>
       <pubDate>Wed, 07 May 2025 10:00:55 +0000</pubDate>
@@ -231,11 +256,6 @@
       <title>Ransomware Attackers Leveraged Privilege Escalation Zero-day</title>
       <link>https://www.security.com/threat-intelligence/play-ransomware-zero-day</link>
       <pubDate>Wed, 07 May 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Talent Shortages Bite as 80% of UK Firms Hit with AI Threats</title>
-      <link>https://www.infosecurity-magazine.com/news/talent-shortages-bite-80-uk-firms/</link>
-      <pubDate>Wed, 07 May 2025 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Beware of phone scams demanding money for ‘missed jury duty’</title>
@@ -286,26 +306,6 @@
       <title>Samsung MagicINFO flaw exploited days after PoC exploit publication</title>
       <link>https://securityaffairs.com/177529/hacking/samsung-magicinfo-vulnerability-exploited-after-poc-publication.html</link>
       <pubDate>Tue, 06 May 2025 17:54:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protection Against Local Upgrade Technique Described in Aon Research</title>
-      <link>https://www.sentinelone.com/blog/protection-against-local-upgrade-technique-described-in-aon-research/</link>
-      <pubDate>Tue, 06 May 2025 15:50:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet</title>
-      <link>https://thehackernews.com/2025/05/hackers-exploit-samsung-magicinfo.html</link>
-      <pubDate>Tue, 06 May 2025 15:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #49: The typo from hell</title>
-      <link>https://grahamcluley.com/the-ai-fix-49/</link>
-      <pubDate>Tue, 06 May 2025 14:43:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>App Used by Trump Adviser Suspends Services After Hack Taking ’15-20 Minutes’</title>
-      <link>https://www.techrepublic.com/article/news-telemessage-hack/</link>
-      <pubDate>Tue, 06 May 2025 14:25:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
