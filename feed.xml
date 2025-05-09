@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 May 2025 20:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 22:20:20 +0000</lastBuildDate>
+    <item>
+      <title>Threat Brief: CVE-2025-31324</title>
+      <link>https://unit42.paloaltonetworks.com/threat-brief-sap-netweaver-cve-2025-31324/</link>
+      <pubDate>Fri, 09 May 2025 22:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: Japanese Divers Video Giant Squid</title>
+      <link>https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-japanese-divers-video-giant-squid.html</link>
+      <pubDate>Fri, 09 May 2025 21:05:31 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 09 May 2025 19:35:03 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 20:35:03 +0000</pubDate>
     </item>
     <item>
       <title>Three Russians, one Kazakhstani charged in takedown of Anyproxy and 5socks botnets</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Horner Automation Cscape</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-128-01</link>
-      <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy RTU500 Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-128-02</link>
-      <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric CC-Link IE TSN</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-128-03</link>
       <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
