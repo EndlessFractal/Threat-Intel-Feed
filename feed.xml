@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 May 2025 04:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 06:31:50 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 09 May 2025 03:25:03 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 05:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit SAP RCE Flaw CVE-2025-31324, Deploy Golang-Based SuperShell</title>
+      <link>https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html</link>
+      <pubDate>Fri, 09 May 2025 04:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Friday, May 9th, 2025 https://isc.sans.edu/podcastdetail/9444, (Fri, May 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/31934</link>
+      <pubDate>Fri, 09 May 2025 03:35:13 +0000</pubDate>
     </item>
     <item>
       <title>Bantam – Advanced PHP Backdoor Management Tool For Post Exploitation</title>
@@ -296,16 +306,6 @@
       <title>Gunra Ransomware Detection: New Threat Targets Various Industries Globally Using Double-Extortion Tactics and Advanced Malicious Behaviors</title>
       <link>https://socprime.com/blog/detect-gunra-ransomware/</link>
       <pubDate>Wed, 07 May 2025 14:55:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canary Exploit tool allows to find servers affected by Apache Parquet flaw</title>
-      <link>https://securityaffairs.com/177565/security/canary-exploit-tool-allows-to-find-servers-affected-by-apache-parquet-flaw.html</link>
-      <pubDate>Wed, 07 May 2025 14:08:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is Zero-Trust Security</title>
-      <link>https://socprime.com/blog/what-is-zero-trust-security/</link>
-      <pubDate>Wed, 07 May 2025 14:01:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
