@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 May 2025 08:26:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 10:20:15 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 11 May 2025 07:05:04 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 10:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Legacy Cyber Threat: Why We Must Prioritize Modernization</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-legacy-cyber-threat-why-we-must-prioritize-modernization</link>
+      <pubDate>Sun, 11 May 2025 09:14:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Update 451</title>
@@ -301,11 +306,6 @@
       <title>Cisco fixed a critical flaw in its IOS XE Wireless Controller</title>
       <link>https://securityaffairs.com/177609/security/cisco-fixed-a-critical-flaw-in-its-ios-xe-wireless-controller.html</link>
       <pubDate>Thu, 08 May 2025 13:13:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>No Internet Access? SSH to the Rescue!, (Thu, May 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/31932</link>
-      <pubDate>Thu, 08 May 2025 13:08:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
