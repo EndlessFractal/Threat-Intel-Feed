@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 May 2025 22:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 01:49:14 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 12 May 2025 20:30:03 +0000</pubDate>
+      <pubDate>Tue, 13 May 2025 00:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Updates Everything: May 2025 Edition, (Mon, May 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/31942</link>
+      <pubDate>Mon, 12 May 2025 20:30:06 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds TeleMessage TM SGNL to its Known Exploited Vulnerabilities catalog</title>
@@ -300,11 +305,6 @@
     <item>
       <title>Beyond Vulnerability Management – Can You CVE What I CVE?</title>
       <link>https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html</link>
-      <pubDate>Fri, 09 May 2025 10:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Packages Infect 3,200+ Cursor Users With Backdoor, Steal Credentials</title>
-      <link>https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html</link>
       <pubDate>Fri, 09 May 2025 10:57:00 +0000</pubDate>
     </item>
   </channel>
