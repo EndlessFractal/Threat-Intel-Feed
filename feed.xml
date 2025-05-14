@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 May 2025 04:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 06:31:28 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 14 May 2025 03:50:03 +0000</pubDate>
+      <pubDate>Wed, 14 May 2025 04:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems</title>
+      <link>https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html</link>
+      <pubDate>Wed, 14 May 2025 04:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks</title>
+      <link>https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html</link>
+      <pubDate>Wed, 14 May 2025 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, May 14th, 2025 https://isc.sans.edu/podcastdetail/9450, (Wed, May 14th)</title>
@@ -296,16 +306,6 @@
       <title>It Is 2025, And We Are Still Dealing With Default IoT Passwords And Stupid 2013 Router Vulnerabilities, (Mon, May 12th)</title>
       <link>https://isc.sans.edu/diary/rss/31940</link>
       <pubDate>Mon, 12 May 2025 13:49:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actors use fake AI tools to deliver the information stealer Noodlophile</title>
-      <link>https://securityaffairs.com/177719/security/threat-actors-use-fake-ai-tools-to-deliver-the-information-stealer-noodlophile.html</link>
-      <pubDate>Mon, 12 May 2025 13:37:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-Ransomware Day 2025: 10 Years of RaaS and the Making of a Billion-Dollar Business</title>
-      <link>https://www.sentinelone.com/blog/anti-ransomware-day-2025-10-years-of-raas/</link>
-      <pubDate>Mon, 12 May 2025 13:00:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
