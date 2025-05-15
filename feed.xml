@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 May 2025 22:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 01:46:21 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 15 May 2025 01:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Google is Enhancing Security for Android, ‘The World’s Most Popular OS’</title>
+      <link>https://www.techrepublic.com/article/news-google-android-16-security-upgrades/</link>
+      <pubDate>Wed, 14 May 2025 22:33:43 +0000</pubDate>
+    </item>
     <item>
       <title>Google to pay $1.38 billion over privacy violations</title>
       <link>https://www.malwarebytes.com/blog/news/2025/05/google-to-pay-1-38-billion-over-privacy-violations</link>
@@ -16,11 +26,6 @@
       <title>Android users bombarded with unskippable ads</title>
       <link>https://www.malwarebytes.com/blog/news/2025/05/android-users-bombarded-with-unskippable-ads</link>
       <pubDate>Wed, 14 May 2025 21:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 14 May 2025 21:05:03 +0000</pubDate>
     </item>
     <item>
       <title>European Vulnerability Database is Live: What This ‘Essential Tool’ Offers Security Experts</title>
@@ -198,16 +203,6 @@
       <pubDate>Wed, 14 May 2025 08:00:36 +0000</pubDate>
     </item>
     <item>
-      <title>CrowdStrike Falcon for Mobile Gains Android Enterprise and Zero Trust Integrations</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-strengthens-mobile-security-with-new-integrations/</link>
-      <pubDate>Wed, 14 May 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>May 2025 Patch Tuesday: Five Zero-Days and Five Critical Vulnerabilities Among 72 CVEs</title>
-      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2025/</link>
-      <pubDate>Wed, 14 May 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems</title>
       <link>https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html</link>
       <pubDate>Wed, 14 May 2025 04:21:00 +0000</pubDate>
@@ -305,6 +300,11 @@
     <item>
       <title>Five Years Later: Evolving IoT Cybersecurity Guidelines</title>
       <link>https://www.nist.gov/blogs/cybersecurity-insights/five-years-later-evolving-iot-cybersecurity-guidelines</link>
+      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Service Suite</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-133-01</link>
       <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
