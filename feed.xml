@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 May 2025 12:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 14:22:25 +0000</lastBuildDate>
+    <item>
+      <title>SAP NetWeaver Flaw Exploited by Ransomware Groups and Chinese-Backed Hackers</title>
+      <link>https://www.infosecurity-magazine.com/news/sap-netweaver-vulnerability/</link>
+      <pubDate>Thu, 15 May 2025 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kremlin-linked hackers target webmail servers of Eastern European government agencies</title>
+      <link>https://therecord.media/kremlin-linked-hackers-target-webmail-eastern-europe-governments</link>
+      <pubDate>Thu, 15 May 2025 14:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dior Confirms Data Breach Affecting Customer Information</title>
+      <link>https://www.infosecurity-magazine.com/news/dior-confirms-data-breach/</link>
+      <pubDate>Thu, 15 May 2025 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 15 May 2025 13:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat landscape for industrial automation systems in Q1 2025</title>
+      <link>https://securelist.com/industrial-threat-report-q1-2025/116505/</link>
+      <pubDate>Thu, 15 May 2025 13:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prioritizing CVEs in the Cloud</title>
+      <link>https://www.sentinelone.com/blog/prioritizing-cves-in-the-cloud/</link>
+      <pubDate>Thu, 15 May 2025 13:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Linux Vulnerabilities Surge 967% in a Year</title>
+      <link>https://www.infosecurity-magazine.com/news/new-linux-vulnerabilities-surge/</link>
+      <pubDate>Thu, 15 May 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos MDR: New analyst response actions for Microsoft 365</title>
+      <link>https://news.sophos.com/en-us/2025/05/15/sophos-mdr-new-analyst-response-actions-for-microsoft-365/</link>
+      <pubDate>Thu, 15 May 2025 12:59:11 +0000</pubDate>
+    </item>
     <item>
       <title>Coinbase offers $20 million bounty after extortion attempt with stolen data</title>
       <link>https://therecord.media/coinbase-extortion-attempt-company-offers-20million-reward</link>
@@ -46,11 +86,6 @@
       <title>Pen Testing for Compliance Only? It's Time to Change Your Approach</title>
       <link>https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html</link>
       <pubDate>Thu, 15 May 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 15 May 2025 11:15:04 +0000</pubDate>
     </item>
     <item>
       <title>AI-Generated Law</title>
@@ -188,11 +223,6 @@
       <pubDate>Wed, 14 May 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>British retailer M&amp;S reportedly set to claim £100 million from insurers after cyberattack</title>
-      <link>https://therecord.media/british-retailer-marks-spencer-insurance</link>
-      <pubDate>Wed, 14 May 2025 15:37:59 +0000</pubDate>
-    </item>
-    <item>
       <title>Xinbi Telegram Market Tied to $8.4B in Crypto Crime, Romance Scams, North Korea Laundering</title>
       <link>https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html</link>
       <pubDate>Wed, 14 May 2025 15:27:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Another day, another phishing campaign abusing google.com open redirects, (Wed, May 14th)</title>
       <link>https://isc.sans.edu/diary/rss/31950</link>
       <pubDate>Wed, 14 May 2025 10:26:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday security updates for May 2025 fixed 5 actively exploited zero-days</title>
-      <link>https://securityaffairs.com/177839/hacking/microsoft-patch-tuesday-security-updates-for-may-2025-fixed-5-actively-exploited-zero-days.html</link>
-      <pubDate>Wed, 14 May 2025 10:08:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>DarkCloud Stealer: Comprehensive Analysis of a New Attack Chain That Employs AutoIt</title>
-      <link>https://unit42.paloaltonetworks.com/darkcloud-stealer-and-obfuscated-autoit-scripting/</link>
-      <pubDate>Wed, 14 May 2025 10:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>European Police Bust €3m Investment Fraud Ring</title>
-      <link>https://www.infosecurity-magazine.com/news/european-police-bust-3m-investment/</link>
-      <pubDate>Wed, 14 May 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes Seven Zero-Days in May Patch Tuesday</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-seven-zerodays-may-patch/</link>
-      <pubDate>Wed, 14 May 2025 08:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server</title>
-      <link>https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html</link>
-      <pubDate>Wed, 14 May 2025 08:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet fixed actively exploited FortiVoice zero-day</title>
-      <link>https://securityaffairs.com/177800/security/fortinet-fixed-actively-exploited-fortivoice-zero-day.html</link>
-      <pubDate>Wed, 14 May 2025 08:00:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
