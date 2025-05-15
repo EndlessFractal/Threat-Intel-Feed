@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 May 2025 04:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 06:31:49 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -218,6 +218,16 @@
       <pubDate>Wed, 14 May 2025 08:00:36 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Falcon for Mobile Gains Android Enterprise and Zero Trust Integrations</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-strengthens-mobile-security-with-new-integrations/</link>
+      <pubDate>Wed, 14 May 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2025 Patch Tuesday: Five Zero-Days and Five Critical Vulnerabilities Among 72 CVEs</title>
+      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2025/</link>
+      <pubDate>Wed, 14 May 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems</title>
       <link>https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html</link>
       <pubDate>Wed, 14 May 2025 04:21:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>CISA Shifts Alert Distribution Strategy to Email, Social Media</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-alert-strategy-email-social/</link>
       <pubDate>Tue, 13 May 2025 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Noodlophile Stealer Detection: Novel Malware Distributed Through Fake AI Video Generation Tools</title>
-      <link>https://socprime.com/blog/noodlophile-stealer-detection/</link>
-      <pubDate>Tue, 13 May 2025 13:54:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two years’ jail for down-on-his-luck man who sold ransomware online</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/two-years-jail-for-down-on-his-luck-man-who-sold-ransomware-online</link>
-      <pubDate>Tue, 13 May 2025 12:38:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
