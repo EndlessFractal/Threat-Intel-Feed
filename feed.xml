@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 May 2025 03:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 04:27:18 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 16 May 2025 01:25:04 +0000</pubDate>
+      <pubDate>Fri, 16 May 2025 03:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Friday, May 16th, 2025 https://isc.sans.edu/podcastdetail/9454, (Fri, May 16th)</title>
+      <link>https://isc.sans.edu/diary/rss/31956</link>
+      <pubDate>Fri, 16 May 2025 02:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Wazuh – Open Source Security Platform for Threat Detection, Visibility &amp; Compliance</title>
@@ -301,11 +306,6 @@
       <title>Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers</title>
       <link>https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html</link>
       <pubDate>Thu, 15 May 2025 10:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper</title>
-      <link>https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html</link>
-      <pubDate>Thu, 15 May 2025 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
