@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 May 2025 06:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 08:29:17 +0000</lastBuildDate>
+    <item>
+      <title>Google fixed a Chrome vulnerability that could lead to full account takeover</title>
+      <link>https://securityaffairs.com/177899/security/google-fixed-a-chrome-vulnerability-that-could-lead-to-full-account-takeover.html</link>
+      <pubDate>Fri, 16 May 2025 07:40:34 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 16 May 2025 05:30:04 +0000</pubDate>
+      <pubDate>Fri, 16 May 2025 07:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications</title>
+      <link>https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html</link>
+      <pubDate>Fri, 16 May 2025 07:27:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, May 16th, 2025 https://isc.sans.edu/podcastdetail/9454, (Fri, May 16th)</title>
@@ -296,16 +306,6 @@
       <title>AI-Generated Law</title>
       <link>https://www.schneier.com/blog/archives/2025/05/ai-generated-law.html</link>
       <pubDate>Thu, 15 May 2025 11:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy</title>
-      <link>https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html</link>
-      <pubDate>Thu, 15 May 2025 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 BCDR Essentials for Effective Ransomware Defense</title>
-      <link>https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html</link>
-      <pubDate>Thu, 15 May 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
