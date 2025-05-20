@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 12:46:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 14:22:02 +0000</lastBuildDate>
+    <item>
+      <title>Russian APT Groups Intensify Attacks in Europe with Zero-Day Exploits and Wipers</title>
+      <link>https://www.infosecurity-magazine.com/news/russian-apt-intensify-cyber/</link>
+      <pubDate>Tue, 20 May 2025 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Russian state services disrupted, reportedly due to cyberattack</title>
+      <link>https://therecord.media/major-russian-state-services-disrupted-ddos</link>
+      <pubDate>Tue, 20 May 2025 13:55:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware</title>
+      <link>https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html</link>
+      <pubDate>Tue, 20 May 2025 12:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 20 May 2025 12:45:03 +0000</pubDate>
+    </item>
     <item>
       <title>China-linked UnsolicitedBooker APT used new backdoor MarsSnake in recent attacks</title>
       <link>https://securityaffairs.com/178105/malware/china-linked-unsolicitedbooker-used-new-backdoor-marssnake.html</link>
       <pubDate>Tue, 20 May 2025 12:44:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation</title>
+      <link>https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html</link>
+      <pubDate>Tue, 20 May 2025 12:42:00 +0000</pubDate>
     </item>
     <item>
       <title>23andMe and its customers’ genetic data bought by a pharmaceutical org</title>
@@ -51,11 +76,6 @@
       <title>The Crowded Battle: Key Insights from the 2025 State of Pentesting Report</title>
       <link>https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html</link>
       <pubDate>Tue, 20 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 20 May 2025 10:45:04 +0000</pubDate>
     </item>
     <item>
       <title>Duping Cloud Functions: An emerging serverless attack vector</title>
@@ -108,6 +128,11 @@
       <pubDate>Tue, 20 May 2025 05:49:00 +0000</pubDate>
     </item>
     <item>
+      <title>Consumer Reports: Kroger using loyalty program to package, sell customer data</title>
+      <link>https://therecord.media/kroger-using-loyalty-program-to-sell-customer-data</link>
+      <pubDate>Tue, 20 May 2025 02:13:17 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Tuesday, May 20th, 2025 https://isc.sans.edu/podcastdetail/9458, (Tue, May 20th)</title>
       <link>https://isc.sans.edu/diary/rss/31962</link>
       <pubDate>Tue, 20 May 2025 02:00:02 +0000</pubDate>
@@ -123,19 +148,9 @@
       <pubDate>Mon, 19 May 2025 20:19:29 +0000</pubDate>
     </item>
     <item>
-      <title>23andMe sold for $256 million as buyer pledges to comply with existing privacy policies</title>
-      <link>https://therecord.media/genetic-testing-sold-millions-privacy</link>
-      <pubDate>Mon, 19 May 2025 19:39:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Mozilla fixed zero-days recently demonstrated at Pwn2Own Berlin 2025</title>
       <link>https://securityaffairs.com/178064/security/mozilla-fixed-zero-days-demonstrated-at-pwn2own-berlin-2025.html</link>
       <pubDate>Mon, 19 May 2025 18:31:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked disinformation floods Poland, Romania as voters cast ballots</title>
-      <link>https://therecord.media/russia-disinformation-poland-presidential-election</link>
-      <pubDate>Mon, 19 May 2025 16:46:52 +0000</pubDate>
     </item>
     <item>
       <title>How Los Angeles banned smartphones in schools (Lock and Code S06E10)</title>
@@ -291,21 +306,6 @@
       <title>Fairfax County, Va., CISO Michael Dent on Leadership</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/fairfax-county-va-ciso-michael-dent-on-leadership</link>
       <pubDate>Sun, 18 May 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts found rogue devices, including hidden cellular radios, in Chinese-made power inverters used worldwide</title>
-      <link>https://securityaffairs.com/178005/hacking/rogue-devices-in-chinese-made-power-inverters-used-worldwide.html</link>
-      <pubDate>Sun, 18 May 2025 08:52:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>xorsearch.py: Python Functions, (Sat, May 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/31858</link>
-      <pubDate>Sat, 17 May 2025 09:22:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications</title>
-      <link>https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html</link>
-      <pubDate>Sat, 17 May 2025 04:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
