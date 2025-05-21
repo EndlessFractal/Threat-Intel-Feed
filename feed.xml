@@ -6,11 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 May 2025 10:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 12:46:12 +0000</lastBuildDate>
+    <item>
+      <title>UK police looking at 'range' of potential perpetrators behind retail cyberattacks</title>
+      <link>https://therecord.media/uk-retail-cyberattacks-nca-investigation</link>
+      <pubDate>Wed, 21 May 2025 12:16:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims</title>
+      <link>https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</link>
+      <pubDate>Wed, 21 May 2025 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 21 May 2025 12:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>M&amp;S says cyberattack will hit profits by £300 million, disruption to last until July</title>
+      <link>https://therecord.media/marks-spencer-cyberattack-hit-to-profits-300m</link>
+      <pubDate>Wed, 21 May 2025 11:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing CI/CD workflows with Wazuh</title>
+      <link>https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html</link>
+      <pubDate>Wed, 21 May 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More AIs Are Taking  Polls and Surveys</title>
+      <link>https://www.schneier.com/blog/archives/2025/05/more-ais-are-taking-polls-and-surveys.html</link>
+      <pubDate>Wed, 21 May 2025 11:03:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Teen to Plead Guilty in PowerSchool Extortion Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/us-teen-plead-guilty-powerschool/</link>
+      <pubDate>Wed, 21 May 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Detect Phishing Attacks Faster: Tycoon2FA Example</title>
+      <link>https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html</link>
+      <pubDate>Wed, 21 May 2025 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Two-Fifths of Americans Want to Ban Biometric Use</title>
       <link>https://www.infosecurity-magazine.com/news/twofifths-americans-want-ban/</link>
       <pubDate>Wed, 21 May 2025 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Ivanti EPMM, MDaemon Email Server, Srimax Output Messenger, Zimbra Collaboration, and ZKTeco BioTime flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/178140/security/u-s-cisa-adds-ivanti-epmm-mdaemon-email-server-srimax-output-messenger-zimbra-collaboration-and-zkteco-biotime-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 21 May 2025 10:13:59 +0000</pubDate>
     </item>
     <item>
       <title>Dero miner zombies biting through Docker APIs to build a cryptojacking horde</title>
@@ -31,11 +76,6 @@
       <title>Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps</title>
       <link>https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html</link>
       <pubDate>Wed, 21 May 2025 09:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 21 May 2025 09:00:03 +0000</pubDate>
     </item>
     <item>
       <title>A critical flaw in OpenPGP.js lets attackers spoof message signatures</title>
@@ -138,11 +178,6 @@
       <pubDate>Tue, 20 May 2025 13:59:12 +0000</pubDate>
     </item>
     <item>
-      <title>Major Russian state services disrupted, reportedly due to cyberattack</title>
-      <link>https://therecord.media/major-russian-state-services-disrupted-ddos</link>
-      <pubDate>Tue, 20 May 2025 13:55:35 +0000</pubDate>
-    </item>
-    <item>
       <title>China-linked UnsolicitedBooker APT used new backdoor MarsSnake in recent attacks</title>
       <link>https://securityaffairs.com/178105/malware/china-linked-unsolicitedbooker-used-new-backdoor-marssnake.html</link>
       <pubDate>Tue, 20 May 2025 12:44:24 +0000</pubDate>
@@ -156,11 +191,6 @@
       <title>23andMe and its customers’ genetic data bought by a pharmaceutical org</title>
       <link>https://www.malwarebytes.com/blog/news/2025/05/23andme-and-its-customers-genetic-data-bought-by-a-pharmaceutical-org</link>
       <pubDate>Tue, 20 May 2025 12:29:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch government passes law to criminalize cyber-espionage</title>
-      <link>https://therecord.media/netherlands-law-criminalizes-cyber-espionage</link>
-      <pubDate>Tue, 20 May 2025 12:28:02 +0000</pubDate>
     </item>
     <item>
       <title>ELPACO-Team Ransomware Attack Detection: Hackers Exploit Atlassian Confluence Vulnerability (CVE-2023-22527) to Gain RDP Access and Enable RCE</title>
@@ -276,36 +306,6 @@
       <title>Half of Consumers Targeted by Social Media Fraud Ads</title>
       <link>https://www.infosecurity-magazine.com/news/half-consumers-targeted-social/</link>
       <pubDate>Tue, 20 May 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New 23andMe Buyer Regeneron Promises to Prioritize Security</title>
-      <link>https://www.infosecurity-magazine.com/news/23andme-buyer-regeneron-prioritize/</link>
-      <pubDate>Tue, 20 May 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse</title>
-      <link>https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html</link>
-      <pubDate>Tue, 20 May 2025 08:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Partners with Capsule on New Cyber Insurance Program</title>
-      <link>https://news.sophos.com/en-us/2025/05/20/sophos-partners-with-capsule-on-new-cyber-insurance-program/</link>
-      <pubDate>Tue, 20 May 2025 07:55:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sarcoma Ransomware Unveiled: Anatomy of a Double Extortion Gang</title>
-      <link>https://securityaffairs.com/178072/malware/sarcoma-ransomware-unveiled-anatomy-of-a-double-extortion-gang.html</link>
-      <pubDate>Tue, 20 May 2025 07:37:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts</title>
-      <link>https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html</link>
-      <pubDate>Tue, 20 May 2025 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, May 20th, 2025 https://isc.sans.edu/podcastdetail/9458, (Tue, May 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/31962</link>
-      <pubDate>Tue, 20 May 2025 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
