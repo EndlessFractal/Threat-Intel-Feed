@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 May 2025 16:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 18:30:50 +0000</lastBuildDate>
+    <item>
+      <title>Ghosted by a cybercriminal</title>
+      <link>https://blog.talosintelligence.com/ghosted-by-a-cybercriminal/</link>
+      <pubDate>Thu, 22 May 2025 18:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese-speaking hackers targeting US municipalities with Cityworks bug</title>
+      <link>https://therecord.media/chinese-speaking-hackers-target-municipalities-cityworks</link>
+      <pubDate>Thu, 22 May 2025 17:53:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-aligned hackers target Tajikistan in new espionage campaign</title>
+      <link>https://therecord.media/russia-hackers-target-tajikistan-espionage</link>
+      <pubDate>Thu, 22 May 2025 17:02:16 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -53,6 +68,11 @@
       <pubDate>Thu, 22 May 2025 13:00:17 +0000</pubDate>
     </item>
     <item>
+      <title>Resolving a request smuggling vulnerability in Pingora</title>
+      <link>https://blog.cloudflare.com/resolving-a-request-smuggling-vulnerability-in-pingora/</link>
+      <pubDate>Thu, 22 May 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise</title>
       <link>https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html</link>
       <pubDate>Thu, 22 May 2025 12:35:00 +0000</pubDate>
@@ -78,8 +98,28 @@
       <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Lantronix Device Installer</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-142-01</link>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk Historian ThingWorx</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-142-02</link>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New Best Practices Guide for Securing AI Data Released</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/05/22/new-best-practices-guide-securing-ai-data-released</link>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/22/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/22/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -193,16 +233,6 @@
       <pubDate>Wed, 21 May 2025 20:55:19 +0000</pubDate>
     </item>
     <item>
-      <title>Lumma infostealer’s infrastructure seized during US, EU, Microsoft operation</title>
-      <link>https://therecord.media/lumma-infostealer-malware-takedown-microsoft-fbi</link>
-      <pubDate>Wed, 21 May 2025 19:09:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Firings of intelligence oversight board members were illegal, judge rules</title>
-      <link>https://therecord.media/intel-oversight-firings-illegal-judge</link>
-      <pubDate>Wed, 21 May 2025 18:45:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Sophos Firewall v21.5: Streamlined management</title>
       <link>https://news.sophos.com/en-us/2025/05/21/sophos-firewall-v21-5-streamlined-management/</link>
       <pubDate>Wed, 21 May 2025 18:40:32 +0000</pubDate>
@@ -248,7 +278,7 @@
       <pubDate>Wed, 21 May 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Broadcom named one of America’s Best Cybersecurity Companies 2025</title>
+      <title>Broadcom Named One of America’s Best Cybersecurity Companies 2025</title>
       <link>https://www.security.com/feature-stories/broadcom-named-one-americas-best-cybersecurity-companies-2025</link>
       <pubDate>Wed, 21 May 2025 14:20:00 +0000</pubDate>
     </item>
@@ -276,36 +306,6 @@
       <title>Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims</title>
       <link>https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</link>
       <pubDate>Wed, 21 May 2025 12:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian GRU Cyber Actors Targeting Western Logistics Entities and Tech Companies</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/21/russian-gru-cyber-actors-targeting-western-logistics-entities-and-tech-companies</link>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Target U.S. Critical Infrastructure with LummaC2 Malware</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/21/threat-actors-target-us-critical-infrastructure-lummac2-malware</link>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing CI/CD workflows with Wazuh</title>
-      <link>https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html</link>
-      <pubDate>Wed, 21 May 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>More AIs Are Taking  Polls and Surveys</title>
-      <link>https://www.schneier.com/blog/archives/2025/05/more-ais-are-taking-polls-and-surveys.html</link>
-      <pubDate>Wed, 21 May 2025 11:03:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Teen to Plead Guilty in PowerSchool Extortion Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/us-teen-plead-guilty-powerschool/</link>
-      <pubDate>Wed, 21 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Detect Phishing Attacks Faster: Tycoon2FA Example</title>
-      <link>https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html</link>
-      <pubDate>Wed, 21 May 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
