@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 May 2025 06:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 08:29:21 +0000</lastBuildDate>
+    <item>
+      <title>#Infosec2025: NCC Group Expert Warns UK Firms to Prepare for Cyber Security and Resilience Bill</title>
+      <link>https://www.infosecurity-magazine.com/news/infosec2025-ncc-uk-cybersecurity/</link>
+      <pubDate>Thu, 22 May 2025 07:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 22 May 2025 06:20:04 +0000</pubDate>
+      <pubDate>Thu, 22 May 2025 07:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-linked APT28 targets western logistics entities and technology firms</title>
+      <link>https://securityaffairs.com/178165/apt/russia-linked-apt28-targets-western-logistics-entities-and-technology-firms.html</link>
+      <pubDate>Thu, 22 May 2025 06:36:27 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, May 22nd, 2025 https://isc.sans.edu/podcastdetail/9462, (Thu, May 22nd)</title>
@@ -95,6 +105,11 @@
     <item>
       <title>Flaw in Google Cloud Functions Sparks Broader Security Concerns</title>
       <link>https://www.infosecurity-magazine.com/news/flaw-google-cloud-security-concerns/</link>
+      <pubDate>Wed, 21 May 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, May 2025</title>
+      <link>https://asec.ahnlab.com/en/88120/</link>
       <pubDate>Wed, 21 May 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation</title>
       <link>https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html</link>
       <pubDate>Tue, 20 May 2025 12:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>23andMe and its customers’ genetic data bought by a pharmaceutical org</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/05/23andme-and-its-customers-genetic-data-bought-by-a-pharmaceutical-org</link>
-      <pubDate>Tue, 20 May 2025 12:29:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ELPACO-Team Ransomware Attack Detection: Hackers Exploit Atlassian Confluence Vulnerability (CVE-2023-22527) to Gain RDP Access and Enable RCE</title>
-      <link>https://socprime.com/blog/detect-cve-2023-22527-exploitation-to-drop-elpaco-team-ransomware/</link>
-      <pubDate>Tue, 20 May 2025 12:13:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mounting GenAI Cyber Risks Spur Investment in AI Security</title>
-      <link>https://www.infosecurity-magazine.com/news/genai-cyber-risks-investment/</link>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
