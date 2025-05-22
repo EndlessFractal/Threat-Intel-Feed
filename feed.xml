@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 May 2025 08:29:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 10:24:05 +0000</lastBuildDate>
     <item>
-      <title>#Infosec2025: NCC Group Expert Warns UK Firms to Prepare for Cyber Security and Resilience Bill</title>
-      <link>https://www.infosecurity-magazine.com/news/infosec2025-ncc-uk-cybersecurity/</link>
-      <pubDate>Thu, 22 May 2025 07:50:00 +0000</pubDate>
+      <title>UAT-6382 exploits Cityworks zero-day vulnerability to deliver malware</title>
+      <link>https://blog.talosintelligence.com/uat-6382-exploits-cityworks-vulnerability/</link>
+      <pubDate>Thu, 22 May 2025 10:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sensitive Personal Data Stolen in West Lothian Ransomware Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/personal-data-stolen-west-lothian/</link>
+      <pubDate>Thu, 22 May 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scammers are using AI to impersonate senior officials, warns FBI</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/05/scammers-are-using-ai-to-impersonate-senior-officials-warns-fbi</link>
+      <pubDate>Thu, 22 May 2025 09:57:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Law enforcement dismantled the infrastructure behind Lumma Stealer MaaS</title>
+      <link>https://securityaffairs.com/178176/cyber-crime/law-enforcement-dismantled-the-infrastructure-behind-lumma-stealer-maas.html</link>
+      <pubDate>Thu, 22 May 2025 09:30:40 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 22 May 2025 07:20:04 +0000</pubDate>
+      <pubDate>Thu, 22 May 2025 09:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Law Enforcers and Microsoft Seize 2300+ Lumma Stealer Domains</title>
+      <link>https://www.infosecurity-magazine.com/news/law-enforcers-microsoft-2300-lumma/</link>
+      <pubDate>Thu, 22 May 2025 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Western Logistics and Tech Firms Targeted by Russia’s APT28</title>
+      <link>https://www.infosecurity-magazine.com/news/western-logistics-tech-firms/</link>
+      <pubDate>Thu, 22 May 2025 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections</title>
+      <link>https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html</link>
+      <pubDate>Thu, 22 May 2025 08:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Infosec2025: NCC Group Expert Warns UK Firms to Prepare for Cyber Security and Resilience Bill</title>
+      <link>https://www.infosecurity-magazine.com/news/infosec2025-ncc-uk-cybersecurity/</link>
+      <pubDate>Thu, 22 May 2025 07:50:00 +0000</pubDate>
     </item>
     <item>
       <title>Russia-linked APT28 targets western logistics entities and technology firms</title>
@@ -271,41 +306,6 @@
       <title>100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads</title>
       <link>https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html</link>
       <pubDate>Tue, 20 May 2025 15:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Debt Collector Data Breach Affects 200,000 Harbin Clinic Patients</title>
-      <link>https://www.infosecurity-magazine.com/news/debt-collector-breach-affects/</link>
-      <pubDate>Tue, 20 May 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot’s New AI Coding Agent Saves Developers Time – And Requires Their Oversight</title>
-      <link>https://www.techrepublic.com/article/news-github-copilot-ai-coding-agent/</link>
-      <pubDate>Tue, 20 May 2025 14:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian APT Groups Intensify Attacks in Europe with Zero-Day Exploits and Wipers</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-apt-intensify-cyber/</link>
-      <pubDate>Tue, 20 May 2025 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #51: Divorce by coffee grounds, and why AI robots need your brain</title>
-      <link>https://grahamcluley.com/the-ai-fix-51/</link>
-      <pubDate>Tue, 20 May 2025 14:01:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Scanning the Internet, (Tue, May 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/31964</link>
-      <pubDate>Tue, 20 May 2025 13:59:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-linked UnsolicitedBooker APT used new backdoor MarsSnake in recent attacks</title>
-      <link>https://securityaffairs.com/178105/malware/china-linked-unsolicitedbooker-used-new-backdoor-marssnake.html</link>
-      <pubDate>Tue, 20 May 2025 12:44:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation</title>
-      <link>https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html</link>
-      <pubDate>Tue, 20 May 2025 12:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
