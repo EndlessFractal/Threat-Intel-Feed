@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 06:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 10:26:09 +0000</lastBuildDate>
+    <item>
+      <title>⚡ Weekly Recap: APT Campaigns, Browser Hijacks, AI Malware, Cloud Breaches and Critical CVEs</title>
+      <link>https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html</link>
+      <pubDate>Mon, 26 May 2025 09:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 26 May 2025 04:15:04 +0000</pubDate>
+      <pubDate>Mon, 26 May 2025 09:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>NIST Introduces New Metric to Measure Likelihood of Vulnerability Exploits</title>
+      <link>https://www.infosecurity-magazine.com/news/nist-metric-lev-likelihood/</link>
+      <pubDate>Mon, 26 May 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake software activation videos on TikTok spread Vidar, StealC</title>
+      <link>https://securityaffairs.com/178269/cyber-crime/fake-software-activation-videos-on-tiktok-spread-vidar-stealc.html</link>
+      <pubDate>Mon, 26 May 2025 08:12:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (May 19 – May 25)</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/05/a-week-in-security-may-19-may-25</link>
+      <pubDate>Mon, 26 May 2025 07:30:07 +0000</pubDate>
     </item>
     <item>
       <title>AIDE – Lightweight Linux Host Intrusion Detection</title>
@@ -286,26 +306,6 @@
       <title>Resolving a request smuggling vulnerability in Pingora</title>
       <link>https://blog.cloudflare.com/resolving-a-request-smuggling-vulnerability-in-pingora/</link>
       <pubDate>Thu, 22 May 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise</title>
-      <link>https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html</link>
-      <pubDate>Thu, 22 May 2025 12:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma information stealer infrastructure disrupted</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/05/lumma-information-stealer-infrastructure-disrupted</link>
-      <pubDate>Thu, 22 May 2025 12:17:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks</title>
-      <link>https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html</link>
-      <pubDate>Thu, 22 May 2025 12:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity and AI: Integrating and Building on Existing NIST Guidelines</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/cybersecurity-and-ai-integrating-and-building-existing-nist-guidelines</link>
-      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
