@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 10:26:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 12:42:59 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 26 May 2025 12:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked APT UNC5221 started exploiting Ivanti EPMM flaws shortly after their disclosure</title>
+      <link>https://securityaffairs.com/178285/apt/china-linked-apt-unc5221-started-exploiting-ivanti-epmm-flaws-shortly-after-their-disclosure.html</link>
+      <pubDate>Mon, 26 May 2025 11:31:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISO's Guide To Web Privacy Validation And Why It's Important</title>
+      <link>https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html</link>
+      <pubDate>Mon, 26 May 2025 11:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>⚡ Weekly Recap: APT Campaigns, Browser Hijacks, AI Malware, Cloud Breaches and Critical CVEs</title>
       <link>https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html</link>
       <pubDate>Mon, 26 May 2025 09:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 26 May 2025 09:15:04 +0000</pubDate>
     </item>
     <item>
       <title>NIST Introduces New Metric to Measure Likelihood of Vulnerability Exploits</title>
@@ -288,11 +298,6 @@
       <pubDate>Thu, 22 May 2025 14:47:07 +0000</pubDate>
     </item>
     <item>
-      <title>New Signal update stops Windows from capturing user chats</title>
-      <link>https://securityaffairs.com/178187/digital-id/new-signal-update-stops-windows-from-capturing-user-chats.html</link>
-      <pubDate>Thu, 22 May 2025 14:18:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Coinbase Breach Affected Almost 70,000 Customers</title>
       <link>https://www.infosecurity-magazine.com/news/coinbase-breach-affected-almost/</link>
       <pubDate>Thu, 22 May 2025 14:05:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Caught in the CAPTCHA: How ClickFix is Weaponizing Verification Fatigue to Deliver RATs &amp; Infostealers</title>
       <link>https://www.sentinelone.com/blog/how-clickfix-is-weaponizing-verification-fatigue-to-deliver-rats-infostealers/</link>
       <pubDate>Thu, 22 May 2025 13:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Resolving a request smuggling vulnerability in Pingora</title>
-      <link>https://blog.cloudflare.com/resolving-a-request-smuggling-vulnerability-in-pingora/</link>
-      <pubDate>Thu, 22 May 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
