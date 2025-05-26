@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 16:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 18:29:11 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 26 May 2025 18:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>SVG Steganography, (Mon, May 26th)</title>
+      <link>https://isc.sans.edu/diary/rss/31978</link>
+      <pubDate>Mon, 26 May 2025 16:31:33 +0000</pubDate>
+    </item>
     <item>
       <title>Signal Blocks Windows 11 Recall: ‘Microsoft Has Simply Given Us No Other Option’</title>
       <link>https://www.techrepublic.com/article/news-signal-blocks-windows-recall-privacy/</link>
       <pubDate>Mon, 26 May 2025 16:10:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 26 May 2025 15:20:04 +0000</pubDate>
     </item>
     <item>
       <title>Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto</title>
@@ -301,11 +306,6 @@
       <title>Mobile Security &amp; Malware Issue 4st Week of May, 2025</title>
       <link>https://asec.ahnlab.com/en/88128/</link>
       <pubDate>Thu, 22 May 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detect APT28 Attacks: russian GRU Unit 26156 Targets Western Logistics and Technology Companies Coordinating Aid to Ukraine in a Two-Year Hacking Campaign</title>
-      <link>https://socprime.com/blog/detect-apt28-attacks-against-western-companies-coordinating-aid-to-ukraine/</link>
-      <pubDate>Thu, 22 May 2025 14:47:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
