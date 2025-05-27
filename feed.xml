@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 16:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 18:29:46 +0000</lastBuildDate>
+    <item>
+      <title>Russian hospital programmer gets 14 years for leaking soldier data to Ukraine</title>
+      <link>https://therecord.media/russian-programmer-gets-14-years-for-leaking-info-to-ukraine</link>
+      <pubDate>Tue, 27 May 2025 18:12:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 27 May 2025 17:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nearly 70,000 impacted by ransomware attack on Sheboygan, Wisconsin</title>
+      <link>https://therecord.media/ransomware-sheboygan-breach-notice</link>
+      <pubDate>Tue, 27 May 2025 17:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>China accuses Taiwan-linked group of cyberattack on local tech company</title>
+      <link>https://therecord.media/china-accuses-taiwan-linked-group-of-cyberattacks</link>
+      <pubDate>Tue, 27 May 2025 16:47:44 +0000</pubDate>
+    </item>
     <item>
       <title>Apple says it blocked $2 billion in App Store fraud last year</title>
       <link>https://therecord.media/apple-billions-app-store-fraud</link>
       <pubDate>Tue, 27 May 2025 16:24:16 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 27 May 2025 15:35:04 +0000</pubDate>
+      <title>New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency</title>
+      <link>https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html</link>
+      <pubDate>Tue, 27 May 2025 16:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The future of AI agents—and why OAuth must evolve</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoft-entra-blog/the-future-of-ai-agents%E2%80%94and-why-oauth-must-evolve/3827391</link>
+      <pubDate>Tue, 27 May 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing Your SSH authorized_keys File, (Tue, May 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/31986</link>
+      <pubDate>Tue, 27 May 2025 15:44:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Apple OS Makeover: Here’s What to Expect &amp; When</title>
+      <link>https://www.techrepublic.com/article/apple-operating-system-revamp/</link>
+      <pubDate>Tue, 27 May 2025 15:30:39 +0000</pubDate>
     </item>
     <item>
       <title>MATLAB developer bringing systems back online following ransomware attack</title>
@@ -43,11 +78,6 @@
       <pubDate>Tue, 27 May 2025 14:34:55 +0000</pubDate>
     </item>
     <item>
-      <title>Vietnam orders ban on Telegram messaging app over security concerns</title>
-      <link>https://therecord.media/vietnam-orders-telegram-messaging-ban</link>
-      <pubDate>Tue, 27 May 2025 14:22:29 +0000</pubDate>
-    </item>
-    <item>
       <title>The AI Fix #52: AI adopts its own social norms, and AI DJ creates diversity scandal</title>
       <link>https://grahamcluley.com/the-ai-fix-52/</link>
       <pubDate>Tue, 27 May 2025 14:03:23 +0000</pubDate>
@@ -73,18 +103,23 @@
       <pubDate>Tue, 27 May 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dutch intelligence unmasks previously unknown Russian hacking group 'Laundry Bear'</title>
-      <link>https://therecord.media/laundry-bear-void-blizzard-russia-hackers-netherlands</link>
-      <pubDate>Tue, 27 May 2025 12:29:04 +0000</pubDate>
-    </item>
-    <item>
       <title>#Infosec2025: Rory Stewart and Paul Chichester to Headline at Infosecurity Europe 2025</title>
       <link>https://www.infosecurity-magazine.com/news/rory-stewart-paul-chichester/</link>
       <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Johnson Controls iSTAR Configuration Utility (ICU) Tool</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-146-01</link>
+      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New Guidance for SIEM and SOAR Implementation</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/05/27/new-guidance-siem-and-soar-implementation</link>
+      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases One Industrial Control Systems Advisory</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/27/cisa-releases-one-industrial-control-systems-advisory</link>
       <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -271,41 +306,6 @@
       <title>Silent Ransom Group targeting law firms, the FBI warns</title>
       <link>https://securityaffairs.com/178239/malware/silent-ransom-group-targeting-law-firms-the-fbi-warns.html</link>
       <pubDate>Sat, 24 May 2025 15:39:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>184 Million Records Database Leak: Microsoft, Apple, Google, Facebook, PayPal Logins Found</title>
-      <link>https://www.techrepublic.com/article/news-database-leak-184-million-credentials/</link>
-      <pubDate>Fri, 23 May 2025 23:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: US Naval Ship Attacked by Squid in 1978</title>
-      <link>https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-us-naval-ship-attacked-by-squid-in-1978.html</link>
-      <pubDate>Fri, 23 May 2025 21:02:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware hackers charged, infrastructure dismantled in international law enforcement operation</title>
-      <link>https://therecord.media/hackers-charged-infrastructure-dismantled-operation-endgame</link>
-      <pubDate>Fri, 23 May 2025 19:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix Technique</title>
-      <link>https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html</link>
-      <pubDate>Fri, 23 May 2025 17:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian-led cybercrime network dismantled in global operation</title>
-      <link>https://www.theguardian.com/technology/2025/may/23/russian-led-cybercrime-network-dismantled-in-global-operation</link>
-      <pubDate>Fri, 23 May 2025 16:33:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>IOC Query Generation for Microsoft Sentinel in Uncoder AI</title>
-      <link>https://socprime.com/blog/ioc-query-generation-for-microsoft-sentinel-in-uncoder-ai/</link>
-      <pubDate>Fri, 23 May 2025 14:13:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>IOC-to-Query Generation for Google SecOps (Chronicle) in Uncoder AI</title>
-      <link>https://socprime.com/blog/ioc-to-query-generation-for-google-secops-chronicle-in-uncoder-ai/</link>
-      <pubDate>Fri, 23 May 2025 13:43:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
