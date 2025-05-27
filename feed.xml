@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 12:49:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 14:21:34 +0000</lastBuildDate>
+    <item>
+      <title>How These Cyber Heroes Are Securing Our Digital World</title>
+      <link>https://www.security.com/expert-perspectives/how-these-cyber-heroes-are-securing-our-digital-world</link>
+      <pubDate>Tue, 27 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 27 May 2025 13:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Powered SPL Rule Generation for WRECKSTEEL IOC Detection</title>
+      <link>https://socprime.com/blog/ai-powered-spl-rule-generation-for-wrecksteel-ioc-detection/</link>
+      <pubDate>Tue, 27 May 2025 13:28:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab ‘Vulnerability Highlights the Double-Edged Nature of AI Assistants’</title>
+      <link>https://www.techrepublic.com/article/news-gitlab-duo-vulnerability-hidden-prompts/</link>
+      <pubDate>Tue, 27 May 2025 13:21:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Machine Learning Model Attack Discovered on PyPI</title>
+      <link>https://www.infosecurity-magazine.com/news/malicious-machine-learning-model/</link>
+      <pubDate>Tue, 27 May 2025 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dutch intelligence unmasks previously unknown Russian hacking group 'Laundry Bear'</title>
       <link>https://therecord.media/laundry-bear-void-blizzard-russia-hackers-netherlands</link>
@@ -18,14 +43,14 @@
       <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>New Guidance for SIEM and SOAR Implementation</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/27/new-guidance-siem-and-soar-implementation</link>
+      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages</title>
       <link>https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html</link>
       <pubDate>Tue, 27 May 2025 11:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 27 May 2025 11:30:03 +0000</pubDate>
     </item>
     <item>
       <title>BadSuccessor Detection: Critical Windows Server Vulnerability Can Compromise Any User in Active Directory</title>
@@ -173,6 +198,11 @@
       <pubDate>Mon, 26 May 2025 07:30:07 +0000</pubDate>
     </item>
     <item>
+      <title>AIDE – Lightweight Linux Host Intrusion Detection</title>
+      <link>https://www.darknet.org.uk/2025/05/aide-lightweight-linux-host-intrusion-detection/</link>
+      <pubDate>Mon, 26 May 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 46</title>
       <link>https://securityaffairs.com/178265/breaking-news/security-affairs-malware-newsletter-round-46.html</link>
       <pubDate>Sun, 25 May 2025 13:30:13 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>300 Servers and €3.5M Seized as Europol Strikes Ransomware Networks Worldwide</title>
       <link>https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html</link>
       <pubDate>Fri, 23 May 2025 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Law Enforcement Busts Initial Access Malware Used to Launch Ransomware</title>
-      <link>https://www.infosecurity-magazine.com/news/law-enforcement-initial-access/</link>
-      <pubDate>Fri, 23 May 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SafeLine WAF: Open Source Web Application Firewall with Zero-Day Detection and Bot Protection</title>
-      <link>https://thehackernews.com/2025/05/safeline-waf-open-source-web.html</link>
-      <pubDate>Fri, 23 May 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scarcity signals: Are rare activities red flags?</title>
-      <link>https://blog.talosintelligence.com/scarcity-signals-are-rare-activities-red-flags/</link>
-      <pubDate>Fri, 23 May 2025 10:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Brief: CVE-2025-31324 (Updated May 23)</title>
-      <link>https://unit42.paloaltonetworks.com/threat-brief-sap-netweaver-cve-2025-31324/</link>
-      <pubDate>Fri, 23 May 2025 10:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>3AM ransomware attack poses as a call from IT support to compromise networks</title>
-      <link>https://www.tripwire.com/state-of-security/3am-ransomware-attackers-pose-it-support-compromise-networks</link>
-      <pubDate>Fri, 23 May 2025 09:08:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Windows Registry Adventure #7: Attack surface analysis</title>
-      <link>https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html</link>
-      <pubDate>Fri, 23 May 2025 09:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
