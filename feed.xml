@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 10:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 12:49:45 +0000</lastBuildDate>
+    <item>
+      <title>Dutch intelligence unmasks previously unknown Russian hacking group 'Laundry Bear'</title>
+      <link>https://therecord.media/laundry-bear-void-blizzard-russia-hackers-netherlands</link>
+      <pubDate>Tue, 27 May 2025 12:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Infosec2025: Rory Stewart and Paul Chichester to Headline at Infosecurity Europe 2025</title>
+      <link>https://www.infosecurity-magazine.com/news/rory-stewart-paul-chichester/</link>
+      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages</title>
+      <link>https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html</link>
+      <pubDate>Tue, 27 May 2025 11:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 27 May 2025 11:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>BadSuccessor Detection: Critical Windows Server Vulnerability Can Compromise Any User in Active Directory</title>
+      <link>https://socprime.com/blog/detect-badsuccessor-attacks/</link>
+      <pubDate>Tue, 27 May 2025 11:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese-Owned VPNs</title>
+      <link>https://www.schneier.com/blog/archives/2025/05/chinese-owned-vpns.html</link>
+      <pubDate>Tue, 27 May 2025 11:07:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Government Launches Audit of NIST’s National Vulnerability Database</title>
+      <link>https://www.infosecurity-magazine.com/news/us-government-launches-audit-nist/</link>
+      <pubDate>Tue, 27 May 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents and the Non‑Human Identity Crisis: How to Deploy AI More Securely at Scale</title>
+      <link>https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html</link>
+      <pubDate>Tue, 27 May 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>DragonForce actors target SimpleHelp vulnerabilities to attack MSP, customers</title>
       <link>https://news.sophos.com/en-us/2025/05/27/dragonforce-actors-target-simplehelp-vulnerabilities-to-attack-msp-customers/</link>
@@ -18,9 +58,14 @@
       <pubDate>Tue, 27 May 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 27 May 2025 08:30:03 +0000</pubDate>
+      <title>Employees Searching Payroll Portals on Google Tricked Into Sending Paychecks to Hackers</title>
+      <link>https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html</link>
+      <pubDate>Tue, 27 May 2025 09:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Russia-affiliated actor Void Blizzard targets critical sectors for espionage</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/05/27/new-russia-affiliated-actor-void-blizzard-targets-critical-sectors-for-espionage/</link>
+      <pubDate>Tue, 27 May 2025 09:45:00 +0000</pubDate>
     </item>
     <item>
       <title>AI-Generated SentinelOne DNS Query for WRECKSTEEL Detection</title>
@@ -126,11 +171,6 @@
       <title>A week in security (May 19 – May 25)</title>
       <link>https://www.malwarebytes.com/blog/news/2025/05/a-week-in-security-may-19-may-25</link>
       <pubDate>Mon, 26 May 2025 07:30:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIDE – Lightweight Linux Host Intrusion Detection</title>
-      <link>https://www.darknet.org.uk/2025/05/aide-lightweight-linux-host-intrusion-detection/</link>
-      <pubDate>Mon, 26 May 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 46</title>
@@ -266,46 +306,6 @@
       <title>The Windows Registry Adventure #7: Attack surface analysis</title>
       <link>https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html</link>
       <pubDate>Fri, 23 May 2025 09:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global Dark Web Sting Sees 270 Arrested</title>
-      <link>https://www.infosecurity-magazine.com/news/operation-raptor-dark-web-sting/</link>
-      <pubDate>Fri, 23 May 2025 08:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DragonForce Engages in "Turf War" for Ransomware Dominance</title>
-      <link>https://www.infosecurity-magazine.com/news/dragonforce-turf-war-ransomware/</link>
-      <pubDate>Fri, 23 May 2025 08:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Dismantles DanaBot Malware Network, Charges 16 in $50M Global Cybercrime Operation</title>
-      <link>https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html</link>
-      <pubDate>Fri, 23 May 2025 07:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs</title>
-      <link>https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html</link>
-      <pubDate>Fri, 23 May 2025 05:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts</title>
-      <link>https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html</link>
-      <pubDate>Fri, 23 May 2025 04:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, May 23rd, 2025 https://isc.sans.edu/podcastdetail/9464, (Fri, May 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/31974</link>
-      <pubDate>Fri, 23 May 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doppler CLI – Streamlined Secrets Management for DevOps</title>
-      <link>https://www.darknet.org.uk/2025/05/doppler-cli-streamlined-secrets-management-for-devops/</link>
-      <pubDate>Fri, 23 May 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Langflow: CVE-2025-3248: Active Exploitation</title>
-      <link>https://www.recordedfuture.com/blog/langflow-cve-2025-3248</link>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
