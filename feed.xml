@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 May 2025 18:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 20:24:18 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 28 May 2025 18:50:04 +0000</pubDate>
+    </item>
     <item>
       <title>The Windows Registry Adventure #8: Practical exploitation of hive memory corruption</title>
       <link>https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-8-exploitation.html</link>
@@ -61,11 +66,6 @@
       <title>Pakistan Telecommunication Company (PTCL) Targeted by Bitter APT During Heightened Regional Conflict</title>
       <link>https://blog.eclecticiq.com/pakistan-telecommunication-company-ptcl-targeted-by-bitter-apt-during-heightened-regional-conflict</link>
       <pubDate>Wed, 28 May 2025 15:51:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 28 May 2025 15:50:03 +0000</pubDate>
     </item>
     <item>
       <title>Ivanti Vulnerability Exploit Could Expose UK NHS Data</title>
@@ -198,6 +198,11 @@
       <pubDate>Wed, 28 May 2025 06:11:00 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Elevates XIoT Security with AI-Powered Insights</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-elevates-xiot-security-ai-powered-insights/</link>
+      <pubDate>Wed, 28 May 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Wednesday, May 28th, 2025 https://isc.sans.edu/podcastdetail/9468, (Wed, May 28th)</title>
       <link>https://isc.sans.edu/diary/rss/31988</link>
       <pubDate>Wed, 28 May 2025 02:00:03 +0000</pubDate>
@@ -300,11 +305,6 @@
     <item>
       <title>Johnson Controls iSTAR Configuration Utility (ICU) Tool</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-146-01</link>
-      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Guidance for SIEM and SOAR Implementation</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/27/new-guidance-siem-and-soar-implementation</link>
       <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
