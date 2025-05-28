@@ -6,21 +6,71 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 May 2025 12:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 14:23:00 +0000</lastBuildDate>
+    <item>
+      <title>AI-Generated Carbon Black Detection Rule for DarkCrystal RAT Campaign</title>
+      <link>https://socprime.com/blog/ai-generated-carbon-black-detection-rule-for-darkcrystal-rat-campaign/</link>
+      <pubDate>Wed, 28 May 2025 14:11:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estonia issues arrest warrant for Moroccan wanted for major pharmacy data breach</title>
+      <link>https://therecord.media/estonia-arrest-warrant-pharmacy-data-breach</link>
+      <pubDate>Wed, 28 May 2025 13:53:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Czech Republic Accuses China of Government Hack</title>
+      <link>https://www.infosecurity-magazine.com/news/czech-republic-accuses-china/</link>
+      <pubDate>Wed, 28 May 2025 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New warning issued over toll fee scams</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/05/new-warning-issued-over-toll-fee-scams</link>
+      <pubDate>Wed, 28 May 2025 13:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine detains alleged Russian spies who used dash cams to guide missile strikes</title>
+      <link>https://therecord.media/ukraine-detains-russian-spies-using-dashcams-missile-strikes</link>
+      <pubDate>Wed, 28 May 2025 13:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>App Store Security: Apple stops $2B in fraud in 2024 alone, $9B over 5 years</title>
+      <link>https://securityaffairs.com/178376/mobile-2/app-store-security-apple-stops-2b-in-fraud-in-2024-alone-9b-over-5-years.html</link>
+      <pubDate>Wed, 28 May 2025 13:06:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitdefender vs McAfee: Which Antivirus Is Right for You?</title>
+      <link>https://www.techrepublic.com/article/bitdefender-vs-mcafee-antivirus/</link>
+      <pubDate>Wed, 28 May 2025 13:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft OneDrive Flaw Exposes Users to Data Overreach Risks</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-onedrive-flaw-exposes/</link>
+      <pubDate>Wed, 28 May 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 28 May 2025 12:45:03 +0000</pubDate>
+    </item>
     <item>
       <title>Google warns of Vietnam-based hackers using bogus AI video generators to spread malware</title>
       <link>https://therecord.media/malvertising-vietnam-hackers-fake-ai-video-generators</link>
       <pubDate>Wed, 28 May 2025 12:40:24 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 28 May 2025 11:45:03 +0000</pubDate>
+      <title>New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto</title>
+      <link>https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html</link>
+      <pubDate>Wed, 28 May 2025 12:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Ukraine tallies up Russian cyberattacks on local media since start of war</title>
       <link>https://therecord.media/ukraine-media-cyberattacks-russia-ssscip-report</link>
       <pubDate>Wed, 28 May 2025 11:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign</title>
+      <link>https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html</link>
+      <pubDate>Wed, 28 May 2025 11:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Location Tracking App for Foreigners in Moscow</title>
@@ -103,19 +153,9 @@
       <pubDate>Tue, 27 May 2025 21:43:41 +0000</pubDate>
     </item>
     <item>
-      <title>Iranian pleads guilty to launching Baltimore ransomware attack, faces 30 years behind bars</title>
-      <link>https://therecord.media/iranian-years-decades-guilty-ransomware</link>
-      <pubDate>Tue, 27 May 2025 19:47:28 +0000</pubDate>
-    </item>
-    <item>
       <title>Adidas customers’ personal information at risk after data breach</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/adidas-customers-personal-information-at-risk-after-data-breach</link>
       <pubDate>Tue, 27 May 2025 18:34:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian hospital programmer gets 14 years for leaking soldier data to Ukraine</title>
-      <link>https://therecord.media/russian-programmer-gets-14-years-for-leaking-info-to-ukraine</link>
-      <pubDate>Tue, 27 May 2025 18:12:53 +0000</pubDate>
     </item>
     <item>
       <title>New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency</title>
@@ -266,46 +306,6 @@
       <title>IOC-to-Query Conversion for SentinelOne in Uncoder AI</title>
       <link>https://socprime.com/blog/ioc-to-query-conversion-for-sentinelone-in-uncoder-ai/</link>
       <pubDate>Tue, 27 May 2025 07:52:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Are Calling Your Office: FBI Alerts Law Firms to Luna Moth’s Stealth Phishing Campaign</title>
-      <link>https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html</link>
-      <pubDate>Tue, 27 May 2025 07:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nova Scotia Power confirms it was hit by ransomware attack but hasn’t paid the ransom</title>
-      <link>https://securityaffairs.com/178323/data-breach/nova-scotia-power-confirms-it-was-hit-by-ransomware-but-hasnt-paid-the-ransom.html</link>
-      <pubDate>Tue, 27 May 2025 07:02:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-Linked Hackers Target Tajikistan Government with Weaponized Word Documents</title>
-      <link>https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html</link>
-      <pubDate>Tue, 27 May 2025 06:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crooks stole over $200 million from crypto exchange Cetus Protocol</title>
-      <link>https://securityaffairs.com/178312/hacking/crooks-stole-over-200m-from-cetus-protocol.html</link>
-      <pubDate>Tue, 27 May 2025 06:23:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 5 VPNs for Ubuntu</title>
-      <link>https://www.techrepublic.com/article/best-vpn-for-ubuntu/</link>
-      <pubDate>Tue, 27 May 2025 05:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Named a Customers’ Choice in 2025 Gartner® Voice of the Customer for Endpoint Protection Platforms Report</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2025-gartner-voice-of-customer-epp-report/</link>
-      <pubDate>Tue, 27 May 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, May 27th, 2025 https://isc.sans.edu/podcastdetail/9466, (Tue, May 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/31982</link>
-      <pubDate>Tue, 27 May 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 453</title>
-      <link>https://www.troyhunt.com/weekly-update-453/</link>
-      <pubDate>Tue, 27 May 2025 00:26:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
