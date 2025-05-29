@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 10:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 12:44:43 +0000</lastBuildDate>
     <item>
-      <title>Cybercriminals camouflaging threats as AI tool installers</title>
-      <link>https://blog.talosintelligence.com/fake-ai-tool-installers/</link>
-      <pubDate>Thu, 29 May 2025 10:00:31 +0000</pubDate>
+      <title>Fake Bitdefender website used to spread infostealer malware</title>
+      <link>https://therecord.media/fake-bitdefender-website-venomrat-infostealer</link>
+      <pubDate>Thu, 29 May 2025 12:26:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thousands of ASUS Routers Hijacked in Stealthy Backdoor Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/thousands-asus-routers-compromised/</link>
+      <pubDate>Thu, 29 May 2025 12:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK military to establish new Cyber and Electromagnetic Command</title>
+      <link>https://therecord.media/uk-military-new-cyber-electromagnetic-command</link>
+      <pubDate>Thu, 29 May 2025 11:57:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked APT41 used Google Calendar as C2 to control its TOUGHPROGRESS malware</title>
+      <link>https://securityaffairs.com/178424/apt/china-linked-apt41-used-google-calendar-as-c2-to-control-its-toughprogress-malware.html</link>
+      <pubDate>Thu, 29 May 2025 11:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Teams Generate Average of $36M in Business Growth</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-teams-business-growth/</link>
+      <pubDate>Thu, 29 May 2025 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Surveillance Via Smart Toothbrush</title>
+      <link>https://www.schneier.com/blog/archives/2025/05/surveillance-via-smart-toothbrush.html</link>
+      <pubDate>Thu, 29 May 2025 11:06:02 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 29 May 2025 10:00:04 +0000</pubDate>
+      <pubDate>Thu, 29 May 2025 11:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints</title>
+      <link>https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html</link>
+      <pubDate>Thu, 29 May 2025 10:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals camouflaging threats as AI tool installers</title>
+      <link>https://blog.talosintelligence.com/fake-ai-tool-installers/</link>
+      <pubDate>Thu, 29 May 2025 10:00:31 +0000</pubDate>
     </item>
     <item>
       <title>#Infosec2025: Over 90% of Top Email Domains Vulnerable to Spoofing Attacks</title>
@@ -74,7 +109,7 @@
     </item>
     <item>
       <title>Deepfake-posting man faces huge $450,000 fine</title>
-      <link>https://www.malwarebytes.com/blog/uncategorized/2025/05/deepfake-posting-man-faces-huge-450000-fine</link>
+      <link>https://www.malwarebytes.com/blog/news/2025/05/deepfake-posting-man-faces-huge-450000-fine</link>
       <pubDate>Wed, 28 May 2025 17:40:56 +0000</pubDate>
     </item>
     <item>
@@ -133,11 +168,6 @@
       <pubDate>Wed, 28 May 2025 14:01:56 +0000</pubDate>
     </item>
     <item>
-      <title>Estonia issues arrest warrant for Moroccan wanted for major pharmacy data breach</title>
-      <link>https://therecord.media/estonia-arrest-warrant-pharmacy-data-breach</link>
-      <pubDate>Wed, 28 May 2025 13:53:29 +0000</pubDate>
-    </item>
-    <item>
       <title>[Guest Diary] Exploring a Use Case of Artificial Intelligence Assistance with Understanding an Attack, (Wed, May 28th)</title>
       <link>https://isc.sans.edu/diary/rss/31980</link>
       <pubDate>Wed, 28 May 2025 13:48:55 +0000</pubDate>
@@ -156,11 +186,6 @@
       <title>New warning issued over toll fee scams</title>
       <link>https://www.malwarebytes.com/blog/news/2025/05/new-warning-issued-over-toll-fee-scams</link>
       <pubDate>Wed, 28 May 2025 13:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine detains alleged Russian spies who used dash cams to guide missile strikes</title>
-      <link>https://therecord.media/ukraine-detains-russian-spies-using-dashcams-missile-strikes</link>
-      <pubDate>Wed, 28 May 2025 13:18:36 +0000</pubDate>
     </item>
     <item>
       <title>App Store Security: Apple stops $2B in fraud in 2024 alone, $9B over 5 years</title>
@@ -281,31 +306,6 @@
       <title>The future of AI agents—and why OAuth must evolve</title>
       <link>https://techcommunity.microsoft.com/blog/microsoft-entra-blog/the-future-of-ai-agents%E2%80%94and-why-oauth-must-evolve/3827391</link>
       <pubDate>Tue, 27 May 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing Your SSH authorized_keys File, (Tue, May 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/31986</link>
-      <pubDate>Tue, 27 May 2025 15:44:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Apple OS Makeover: Here’s What to Expect &amp; When</title>
-      <link>https://www.techrepublic.com/article/apple-operating-system-revamp/</link>
-      <pubDate>Tue, 27 May 2025 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>DragonForce Ransomware Leveraged in MSP Attack Using RMM Tool</title>
-      <link>https://www.infosecurity-magazine.com/news/dragonforce-ransomware-msp-attack/</link>
-      <pubDate>Tue, 27 May 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infostealer Malware FormBook Spread via Phishing Campaign – Part II</title>
-      <link>https://feeds.fortinet.com/~/919069697/0/fortinet/blog/threat-research~Infostealer-Malware-FormBook-Spread-via-Phishing-Campaign-%e2%80%93-Part-II</link>
-      <pubDate>Tue, 27 May 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>184 million logins for Instagram, Roblox, Facebook, Snapchat, and more exposed online</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/05/184-million-logins-for-instagram-roblox-facebook-snapchat-and-more-exposed-online</link>
-      <pubDate>Tue, 27 May 2025 14:57:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
