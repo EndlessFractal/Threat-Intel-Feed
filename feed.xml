@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 01:49:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 03:14:58 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 29 May 2025 00:55:03 +0000</pubDate>
+      <pubDate>Thu, 29 May 2025 01:55:04 +0000</pubDate>
     </item>
     <item>
       <title>Alternate Data Streams ? Adversary Defense Evasion and Detection [Guest Diary], (Wed, May 28th)</title>
       <link>https://isc.sans.edu/diary/rss/31990</link>
       <pubDate>Thu, 29 May 2025 00:02:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #419: Star Wars, the CIA, and a WhatsApp malware mirage</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-419/</link>
+      <pubDate>Wed, 28 May 2025 23:00:17 +0000</pubDate>
     </item>
     <item>
       <title>The Windows Registry Adventure #8: Practical exploitation of hive memory corruption</title>
@@ -301,11 +306,6 @@
       <title>Malicious Machine Learning Model Attack Discovered on PyPI</title>
       <link>https://www.infosecurity-magazine.com/news/malicious-machine-learning-model/</link>
       <pubDate>Tue, 27 May 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2025: Rory Stewart and Paul Chichester to Headline at Infosecurity Europe 2025</title>
-      <link>https://www.infosecurity-magazine.com/news/rory-stewart-paul-chichester/</link>
-      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
