@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 04:28:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 06:33:52 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 03 Jun 2025 06:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch</title>
       <link>https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html</link>
       <pubDate>Tue, 03 Jun 2025 04:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 03 Jun 2025 04:00:04 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, June 3rd, 2025 https://isc.sans.edu/podcastdetail/9476, (Tue, Jun 3rd)</title>
@@ -208,6 +208,11 @@
       <pubDate>Mon, 02 Jun 2025 05:00:43 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike and Microsoft Unite to Harmonize Cyber Threat Attribution</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-and-microsoft-unite-to-deconflict-cyber-threat-attribution/</link>
+      <pubDate>Mon, 02 Jun 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What does Facebook know about me? (Lock and Code S06E11)</title>
       <link>https://www.malwarebytes.com/blog/podcast/2025/06/what-does-facebook-know-about-me-lock-and-code-s06e11</link>
       <pubDate>Sun, 01 Jun 2025 22:52:32 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>APT41 Attack Detection: Chinese Hackers Exploit Google Calendar and Deliver TOUGHPROGRESS Malware Targeting Government Agencies</title>
       <link>https://socprime.com/blog/detect-apt41-attacks-abusing-google-calendar/</link>
       <pubDate>Fri, 30 May 2025 12:47:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploits and vulnerabilities in Q1 2025</title>
-      <link>https://securelist.com/vulnerabilities-and-exploits-in-q1-2025/116624/</link>
-      <pubDate>Fri, 30 May 2025 12:00:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
