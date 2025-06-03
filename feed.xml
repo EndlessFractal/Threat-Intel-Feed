@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 20:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 22:21:23 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 03 Jun 2025 21:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>vBulletin Exploits (CVE-2025-48827, CVE-2025-48828), (Tue, Jun 3rd)</title>
+      <link>https://isc.sans.edu/diary/rss/32006</link>
+      <pubDate>Tue, 03 Jun 2025 20:58:01 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. CISA adds ASUS RT-AX55 devices, Craft CMS, and ConnectWise ScreenConnect flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/178591/hacking/u-s-cisa-adds-asus-rt-ax55-devices-craft-cms-and-connectwise-screenconnect-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Tue, 03 Jun 2025 19:34:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 03 Jun 2025 19:10:04 +0000</pubDate>
     </item>
     <item>
       <title>Germany hands Vodafone $51 million fine over data privacy violations</title>
@@ -61,11 +66,6 @@
       <title>Apple Appeals DMA, Says EU Has ‘Deeply Flawed Rules’ That ‘Stifle Innovation’</title>
       <link>https://www.techrepublic.com/article/news-apple-appeals-dma-eu-interoperability/</link>
       <pubDate>Tue, 03 Jun 2025 14:59:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>vBulletin Exploits (CVE-2025-48827, CVE-2025-48828), (Tue, Jun 3rd)</title>
-      <link>https://isc.sans.edu/diary/rss/32006</link>
-      <pubDate>Tue, 03 Jun 2025 14:53:54 +0000</pubDate>
     </item>
     <item>
       <title>Man pleads guilty to swatting spree impacting scores of government officials</title>
@@ -208,11 +208,6 @@
       <pubDate>Tue, 03 Jun 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Falcon Identity Protection Innovations Stop Insider Risk, Secure Non-Human Identities, and Lock Down Privileged Access</title>
-      <link>https://www.crowdstrike.com/en-us/blog/falcon-idp-innovations-stop-insider-risk-and-more/</link>
-      <pubDate>Tue, 03 Jun 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch</title>
       <link>https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html</link>
       <pubDate>Tue, 03 Jun 2025 04:22:00 +0000</pubDate>
@@ -306,6 +301,11 @@
       <title>Victims risk AsyncRAT infection after being redirected to fake Booking.com sites</title>
       <link>https://www.malwarebytes.com/blog/news/2025/06/victims-risk-asyncrat-infection-after-being-redirected-to-fake-booking-sites</link>
       <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An industry first: Sophos Firewall and NDR Essentials</title>
+      <link>https://news.sophos.com/en-us/2025/06/02/an-industry-first-sophos-firewall-and-ndr-essentials/</link>
+      <pubDate>Mon, 02 Jun 2025 12:01:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
