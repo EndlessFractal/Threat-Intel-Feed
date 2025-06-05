@@ -6,16 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 08:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 10:25:12 +0000</lastBuildDate>
     <item>
-      <title>#Infosec2025: Securing Endpoints is Still Vital Amid Changing Threats</title>
-      <link>https://www.infosecurity-magazine.com/news/infosec2025-securing-endpoints/</link>
-      <pubDate>Thu, 05 Jun 2025 08:15:00 +0000</pubDate>
+      <title>Newly identified wiper malware “PathWiper” targets critical infrastructure in Ukraine</title>
+      <link>https://blog.talosintelligence.com/pathwiper-targets-ukraine/</link>
+      <pubDate>Thu, 05 Jun 2025 10:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>IT threat evolution in Q1 2025. Non-mobile statistics</title>
+      <link>https://securelist.com/malware-report-q1-2025-pc-iot-statistics/116686/</link>
+      <pubDate>Thu, 05 Jun 2025 10:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>IT threat evolution in Q1 2025. Mobile statistics</title>
+      <link>https://securelist.com/malware-report-q1-2025-mobile-statistics/116676/</link>
+      <pubDate>Thu, 05 Jun 2025 10:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Flaws in Chrome Extensions: The Hidden Dangers of Hardcoded Credentials</title>
+      <link>https://www.security.com/threat-intelligence/chrome-extension-credentials</link>
+      <pubDate>Thu, 05 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unmasking Insecure HTTP Data Leaks in Popular Chrome Extensions</title>
+      <link>https://www.security.com/threat-intelligence/chrome-extension-leaks</link>
+      <pubDate>Thu, 05 Jun 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 05 Jun 2025 07:30:03 +0000</pubDate>
+      <pubDate>Thu, 05 Jun 2025 09:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical flaw in Cisco ISE impacts cloud deployments on AWS, Microsoft Azure, and Oracle Cloud Infrastructure</title>
+      <link>https://securityaffairs.com/178659/uncategorized/critical-flaw-in-cisco-ise-impacts-cloud-deployments-on-aws-microsoft-azure-and-oracle-cloud-infrastructure.html</link>
+      <pubDate>Thu, 05 Jun 2025 08:31:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Infosec2025: Securing Endpoints is Still Vital Amid Changing Threats</title>
+      <link>https://www.infosecurity-magazine.com/news/infosec2025-securing-endpoints/</link>
+      <pubDate>Thu, 05 Jun 2025 08:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Be Careful With Fake Zoom Client Downloads, (Thu, Jun 5th)</title>
@@ -276,36 +306,6 @@
       <title>How Microsoft Defender for Endpoint is redefining endpoint security</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/06/03/how-microsoft-defender-for-endpoint-is-redefining-endpoint-security/</link>
       <pubDate>Tue, 03 Jun 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scammers are constantly changing the game, but so are we. Introducing Malwarebytes Scam Guard</title>
-      <link>https://www.malwarebytes.com/blog/product/2025/06/scammers-are-constantly-changing-the-game-but-so-are-we-introducing-malwarebytes-scam-guard</link>
-      <pubDate>Tue, 03 Jun 2025 15:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The North Face warns customers about potentially stolen data</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/06/the-north-face-warns-customers-about-potentially-stolen-data</link>
-      <pubDate>Tue, 03 Jun 2025 15:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2025: Channel Bridges Security Skills Gap</title>
-      <link>https://www.infosecurity-magazine.com/news/infosec2025-channel-skills-gap/</link>
-      <pubDate>Tue, 03 Jun 2025 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack</title>
-      <link>https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html</link>
-      <pubDate>Tue, 03 Jun 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Appeals DMA, Says EU Has ‘Deeply Flawed Rules’ That ‘Stifle Innovation’</title>
-      <link>https://www.techrepublic.com/article/news-apple-appeals-dma-eu-interoperability/</link>
-      <pubDate>Tue, 03 Jun 2025 14:59:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Real-World Testing Matters</title>
-      <link>https://www.security.com/expert-perspectives/why-real-world-testing-matters</link>
-      <pubDate>Tue, 03 Jun 2025 14:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
