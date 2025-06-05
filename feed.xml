@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 12:46:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 14:22:20 +0000</lastBuildDate>
+    <item>
+      <title>#Infosec2025: Threat Actors Weaponizing Hardware Devices to Exploit Fortified Environments</title>
+      <link>https://www.infosecurity-magazine.com/news/threat-actors-weaponizing-hardware/</link>
+      <pubDate>Thu, 05 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-20286 Vulnerability Exploitation: Critical Cisco ISE Flaw Affects AWS, Microsoft Azure, and OCI Cloud Deployments</title>
+      <link>https://socprime.com/blog/cve-2025-20286-vulnerability/</link>
+      <pubDate>Thu, 05 Jun 2025 13:54:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Infosec2025: Defenders and Attackers are Locked in an AI Arms Race</title>
+      <link>https://www.infosecurity-magazine.com/news/infosec2025-arms-race-ai/</link>
+      <pubDate>Thu, 05 Jun 2025 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK tax authority reveals scammers stole £47 million</title>
+      <link>https://therecord.media/uk-hmrc-tax-authority-scammers-stole-47million-pounds</link>
+      <pubDate>Thu, 05 Jun 2025 12:59:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google: New Vishing Threat ‘Particularly Effective’ at Tricking Employees to Steal Salesforce Data</title>
+      <link>https://www.techrepublic.com/article/news-unc6040-vishing-salesforce-data/</link>
+      <pubDate>Thu, 05 Jun 2025 12:57:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI: Play ransomware gang has attacked 600 organizations since 2023</title>
+      <link>https://therecord.media/play-ransomware-gang-fbi-update-900-attacks</link>
+      <pubDate>Thu, 05 Jun 2025 12:54:09 +0000</pubDate>
+    </item>
     <item>
       <title>New evidence links long-running hacking group to Indian government</title>
       <link>https://therecord.media/india-cyber-espionage-bitter-ta397</link>
       <pubDate>Thu, 05 Jun 2025 12:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 05 Jun 2025 12:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Offers Free Cyber Security Support to European Governments Targeted By State-Sponsored Hackers</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-european-security-program/</link>
+      <pubDate>Thu, 05 Jun 2025 12:22:36 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft makes a 'proactive investment' in EU cybersecurity amid bloc's tensions with US</title>
@@ -26,11 +66,6 @@
       <title>#Infosec2025: Seven Steps to Building a Mature Vulnerability Management Program</title>
       <link>https://www.infosecurity-magazine.com/news/infosec2025-seven-steps/</link>
       <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 05 Jun 2025 11:30:03 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware hiding in fake AI, business tools</title>
@@ -133,16 +168,6 @@
       <pubDate>Wed, 04 Jun 2025 20:03:53 +0000</pubDate>
     </item>
     <item>
-      <title>BidenCash darknet forum taken down by US, Dutch law enforcement</title>
-      <link>https://therecord.media/bidencash-cybercrime-darknet-market-takedown-us-netherlands</link>
-      <pubDate>Wed, 04 Jun 2025 19:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Newspaper giant Lee Enterprises says nearly 40,000 Social Security numbers leaked in ransomware attack</title>
-      <link>https://therecord.media/newspaper-lee-enterprises-cyberattack-ssn</link>
-      <pubDate>Wed, 04 Jun 2025 16:55:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Will Massive Security Glossary From Microsoft, Google, CrowdStrike, Palo Alto Improve Collaboration?</title>
       <link>https://www.techrepublic.com/article/news-microsoft-crowdstrike-threat-actor-name-glossary/</link>
       <pubDate>Wed, 04 Jun 2025 16:55:16 +0000</pubDate>
@@ -173,13 +198,13 @@
       <pubDate>Wed, 04 Jun 2025 15:18:45 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, June 2025</title>
-      <link>https://asec.ahnlab.com/en/88346/</link>
+      <title>Mobile Security &amp; Malware Issue 1st Week of June, 2025</title>
+      <link>https://asec.ahnlab.com/en/88343/</link>
       <pubDate>Wed, 04 Jun 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mobile Security &amp; Malware Issue 1st Week of June, 2025</title>
-      <link>https://asec.ahnlab.com/en/88343/</link>
+      <title>Ransom &amp; Dark Web Issues Week 1, June 2025</title>
+      <link>https://asec.ahnlab.com/en/88346/</link>
       <pubDate>Wed, 04 Jun 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>Phishing e-mail that hides malicious link from Outlook users, (Wed, Jun 4th)</title>
       <link>https://isc.sans.edu/diary/rss/32010</link>
       <pubDate>Wed, 04 Jun 2025 09:23:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Multiple Qualcomm chipsets flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/178610/hacking/u-s-cisa-adds-multiple-qualcomm-chipsets-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 04 Jun 2025 09:16:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2025: Startups Focus on Visibility and Governance, not AI</title>
-      <link>https://www.infosecurity-magazine.com/news/infosec2025-startups-focus/</link>
-      <pubDate>Wed, 04 Jun 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2025: Majority of Compromises Caused by Stolen Credentials, No MFA</title>
-      <link>https://www.infosecurity-magazine.com/news/majority-compromises-stolen/</link>
-      <pubDate>Wed, 04 Jun 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartier disclosed a data breach following a cyber attack</title>
-      <link>https://securityaffairs.com/178601/data-breach/cartier-disclosed-a-data-breach-following-a-cyber-attack.html</link>
-      <pubDate>Wed, 04 Jun 2025 07:25:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass</title>
-      <link>https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html</link>
-      <pubDate>Wed, 04 Jun 2025 05:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
