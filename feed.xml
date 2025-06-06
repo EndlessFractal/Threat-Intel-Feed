@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 22:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 01:49:47 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 05 Jun 2025 23:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proxy Services Feast on Ukraine’s IP Address Exodus</title>
+      <link>https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/</link>
+      <pubDate>Thu, 05 Jun 2025 22:44:33 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/178678/security/u-s-cisa-google-chromium-v8-flaw-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Thu, 05 Jun 2025 21:03:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 05 Jun 2025 20:35:03 +0000</pubDate>
     </item>
     <item>
       <title>New versions of Chaos RAT target Windows and Linux systems</title>
@@ -301,11 +306,6 @@
       <title>Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App</title>
       <link>https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html</link>
       <pubDate>Wed, 04 Jun 2025 15:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google fixes another actively exploited vulnerability in Chrome, so update now!</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/06/google-fixes-another-actively-exploited-vulnerability-in-chrome-so-update-now</link>
-      <pubDate>Wed, 04 Jun 2025 15:18:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
