@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Jun 2025 20:22:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 22:19:36 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 08 Jun 2025 19:15:04 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 21:15:03 +0000</pubDate>
     </item>
     <item>
       <title>New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally</title>
@@ -108,9 +108,24 @@
       <pubDate>Fri, 06 Jun 2025 15:22:09 +0000</pubDate>
     </item>
     <item>
+      <title>Nigeria jails 9 Chinese nationals for being part of international cyberfraud syndicate</title>
+      <link>https://therecord.media/nigeria-jails-9-chinese-nationals-cyber-fraud</link>
+      <pubDate>Fri, 06 Jun 2025 14:49:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Report on the Malicious Uses of AI</title>
       <link>https://www.schneier.com/blog/archives/2025/06/report-on-the-malicious-uses-of-ai.html</link>
       <pubDate>Fri, 06 Jun 2025 14:41:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI takes down ChatGPT accounts linked to state-backed hacking, disinformation</title>
+      <link>https://therecord.media/openai-takes-down-chatgpt-accounts-hacking</link>
+      <pubDate>Fri, 06 Jun 2025 14:32:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Off-brand IoT devices are still vulnerable to BadBox botnet, FBI says</title>
+      <link>https://therecord.media/iot-devices-vulnerable-to-badbox-botnet-fbi</link>
+      <pubDate>Fri, 06 Jun 2025 14:01:49 +0000</pubDate>
     </item>
     <item>
       <title>Scattered Spider Uses Tech Vendor Impersonation and Phishing Kits to Target Helpdesks</title>
@@ -146,6 +161,16 @@
       <title>CVE-2025-5419 Vulnerability: New Google Chrome Zero-Day Actively Exploited in the Wild</title>
       <link>https://socprime.com/blog/cve-2025-5419-zero-day-vulnerability/</link>
       <pubDate>Fri, 06 Jun 2025 13:04:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kettering Health confirms attack by Interlock ransomware group as health record system is restored</title>
+      <link>https://therecord.media/kettering-health-ohio-interlock-ransomware</link>
+      <pubDate>Fri, 06 Jun 2025 12:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOJ moves to claim $7.74 million tied to North Korean IT worker scheme</title>
+      <link>https://therecord.media/north-korea-it-worker-scams-doj-civil-forfeiture-claim</link>
+      <pubDate>Fri, 06 Jun 2025 12:24:45 +0000</pubDate>
     </item>
     <item>
       <title>#Infosec2025: Top Six Cyber Trends CISOs Need to Know</title>
@@ -281,31 +306,6 @@
       <title>#Infosec2025: Ransomware Victims Urged to Engage to Take Back Control</title>
       <link>https://www.infosecurity-magazine.com/news/infosec2025-ransomware-victims/</link>
       <pubDate>Thu, 05 Jun 2025 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pornhub, RedTube, and YouPorn block access in France, VPN use set to soar</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/06/pornhub-redtube-and-youporn-block-access-in-france-vpn-use-set-to-soar</link>
-      <pubDate>Thu, 05 Jun 2025 15:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a Malicious Excel File (CVE-2017-0199) Delivers the FormBook Payload</title>
-      <link>https://feeds.fortinet.com/~/919745468/0/fortinet/blog/threat-research~How-a-Malicious-Excel-File-CVE-Delivers-the-FormBook-Payload</link>
-      <pubDate>Thu, 05 Jun 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2025: Know Your Audience to Make an Impact, CISOs Tell Their Peers</title>
-      <link>https://www.infosecurity-magazine.com/news/infosec2025-know-your-audience/</link>
-      <pubDate>Thu, 05 Jun 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Infosec2025: Threat Actors Weaponizing Hardware Devices to Exploit Fortified Environments</title>
-      <link>https://www.infosecurity-magazine.com/news/threat-actors-weaponizing-hardware/</link>
-      <pubDate>Thu, 05 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-20286 Vulnerability Exploitation: Critical Cisco ISE Flaw Affects AWS, Microsoft Azure, and OCI Cloud Deployments</title>
-      <link>https://socprime.com/blog/cve-2025-20286-vulnerability/</link>
-      <pubDate>Thu, 05 Jun 2025 13:54:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
