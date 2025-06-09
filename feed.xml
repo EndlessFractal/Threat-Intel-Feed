@@ -6,16 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 14:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 16:29:29 +0000</lastBuildDate>
     <item>
-      <title>Trump cyber executive order drops Biden-era provisions</title>
-      <link>https://therecord.media/trump-cybersecurity-executive-order-june-2025</link>
-      <pubDate>Mon, 09 Jun 2025 13:34:59 +0000</pubDate>
+      <title>PayU Plugin Flaw Allows Account Takeover on 5000 WordPress Sites</title>
+      <link>https://www.infosecurity-magazine.com/news/payu-plugin-flaw-wordpress-account/</link>
+      <pubDate>Mon, 09 Jun 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major food wholesaler says cyberattack impacting distribution systems</title>
+      <link>https://therecord.media/major-food-wholesaler-cyberattack-impacting-distribution</link>
+      <pubDate>Mon, 09 Jun 2025 15:25:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group</title>
+      <link>https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html</link>
+      <pubDate>Mon, 09 Jun 2025 15:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Wiper Malware Targets Ukrainian Infrastructure</title>
+      <link>https://www.infosecurity-magazine.com/news/pathwiper-malware-targets-ukraine/</link>
+      <pubDate>Mon, 09 Jun 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks</title>
+      <link>https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html</link>
+      <pubDate>Mon, 09 Jun 2025 14:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New hacker group uses LockBit ransomware variant to target Russian companies</title>
+      <link>https://therecord.media/new-hacker-group-lockbit-target-russia</link>
+      <pubDate>Mon, 09 Jun 2025 14:26:19 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 09 Jun 2025 13:25:03 +0000</pubDate>
+      <pubDate>Mon, 09 Jun 2025 14:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump cyber executive order drops Biden-era provisions</title>
+      <link>https://therecord.media/trump-cybersecurity-executive-order-june-2025</link>
+      <pubDate>Mon, 09 Jun 2025 13:34:59 +0000</pubDate>
     </item>
     <item>
       <title>Kazakhstan detains over 140 for allegedly selling citizens’ data via Telegram channels</title>
@@ -203,19 +233,9 @@
       <pubDate>Fri, 06 Jun 2025 15:22:09 +0000</pubDate>
     </item>
     <item>
-      <title>Nigeria jails 9 Chinese nationals for being part of international cyberfraud syndicate</title>
-      <link>https://therecord.media/nigeria-jails-9-chinese-nationals-cyber-fraud</link>
-      <pubDate>Fri, 06 Jun 2025 14:49:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Report on the Malicious Uses of AI</title>
       <link>https://www.schneier.com/blog/archives/2025/06/report-on-the-malicious-uses-of-ai.html</link>
       <pubDate>Fri, 06 Jun 2025 14:41:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI takes down ChatGPT accounts linked to state-backed hacking, disinformation</title>
-      <link>https://therecord.media/openai-takes-down-chatgpt-accounts-hacking</link>
-      <pubDate>Fri, 06 Jun 2025 14:32:08 +0000</pubDate>
     </item>
     <item>
       <title>Scattered Spider Uses Tech Vendor Impersonation and Phishing Kits to Target Helpdesks</title>
@@ -286,26 +306,6 @@
       <title>New PathWiper Data Wiper Malware Disrupts Ukrainian Critical Infrastructure in 2025 Attack</title>
       <link>https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html</link>
       <pubDate>Fri, 06 Jun 2025 08:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Report: 10 AI Threat Campaigns Revealed Including Windows-Based Malware, Fake Resumes</title>
-      <link>https://www.techrepublic.com/article/news-openai-ai-threat-report/</link>
-      <pubDate>Fri, 06 Jun 2025 07:54:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, June 6th, 2025 https://isc.sans.edu/podcastdetail/9482, (Fri, Jun 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/32018</link>
-      <pubDate>Fri, 06 Jun 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ProxyBlob – SOCKS5 Over Azure Blob Storage for Covert Network Tunneling</title>
-      <link>https://www.darknet.org.uk/2025/06/proxyblob-socks5-over-azure-blob-storage-for-covert-network-tunneling/</link>
-      <pubDate>Fri, 06 Jun 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upcoming DShield Honeypot Changes and Customizations, (Fri, Jun 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/32016</link>
-      <pubDate>Fri, 06 Jun 2025 00:35:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
