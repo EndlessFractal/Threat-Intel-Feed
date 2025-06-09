@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 08:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 10:25:09 +0000</lastBuildDate>
     <item>
-      <title>Weekly Update 455</title>
-      <link>https://www.troyhunt.com/weekly-update-455/</link>
-      <pubDate>Mon, 09 Jun 2025 08:27:23 +0000</pubDate>
+      <title>Sleep with one eye open: how Librarian Ghouls steal data by night</title>
+      <link>https://securelist.com/librarian-ghouls-apt-wakes-up-computers-to-steal-data-and-mine-crypto/116536/</link>
+      <pubDate>Mon, 09 Jun 2025 10:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roles Here? Roles There? Roles Anywhere: Exploring the Security of AWS IAM Roles Anywhere</title>
+      <link>https://unit42.paloaltonetworks.com/aws-roles-anywhere/</link>
+      <pubDate>Mon, 09 Jun 2025 10:00:08 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 09 Jun 2025 08:20:03 +0000</pubDate>
+      <pubDate>Mon, 09 Jun 2025 09:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Tries to Claw Back $7m Taken by North Korean IT Workers</title>
+      <link>https://www.infosecurity-magazine.com/news/us-7m-taken-by-north-korean-it/</link>
+      <pubDate>Mon, 09 Jun 2025 09:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Mirai botnet targets TBK DVRs by exploiting  CVE-2024-3721</title>
+      <link>https://securityaffairs.com/178779/malware/new-mirai-botnet-targets-tbk-dvrs-by-exploiting-cve-2024-3721.html</link>
+      <pubDate>Mon, 09 Jun 2025 08:54:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Warns Smart Home Users of Badbox 2.0 Botnet Threat</title>
+      <link>https://www.infosecurity-magazine.com/news/fbi-smart-home-users-badbox-20/</link>
+      <pubDate>Mon, 09 Jun 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Update 455</title>
+      <link>https://www.troyhunt.com/weekly-update-455/</link>
+      <pubDate>Mon, 09 Jun 2025 08:27:23 +0000</pubDate>
     </item>
     <item>
       <title>BadBox 2.0 botnet infects millions of IoT devices worldwide, FBI warns</title>
@@ -268,11 +293,6 @@
       <pubDate>Thu, 05 Jun 2025 22:44:33 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/178678/security/u-s-cisa-google-chromium-v8-flaw-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 05 Jun 2025 21:03:56 +0000</pubDate>
-    </item>
-    <item>
       <title>Meet the Threat Hunters Who Alert Security Teams To What’s Coming</title>
       <link>https://www.security.com/feature-stories/meet-threat-hunters-who-alert-security-teams-whats-coming</link>
       <pubDate>Thu, 05 Jun 2025 18:30:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Everyone's on the cyber target list</title>
       <link>https://blog.talosintelligence.com/everyones-on-the-cyber-target-list/</link>
       <pubDate>Thu, 05 Jun 2025 18:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Connect with us at the Gartner Security &amp; Risk Management Summit</title>
-      <link>https://techcommunity.microsoft.com/blog/microsoft-security-blog/connect-with-us-at-the-gartner-security--risk-management-summit/4420744</link>
-      <pubDate>Thu, 05 Jun 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IOC-to-CSQL Detection for Gamaredon Domains</title>
-      <link>https://socprime.com/blog/ioc-to-csql-detection-for-gamaredon-domains/</link>
-      <pubDate>Thu, 05 Jun 2025 16:07:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Validated Hostname Filtering for Chronicle Queries</title>
-      <link>https://socprime.com/blog/ai-validated-hostname-filtering-for-chronicle-queries/</link>
-      <pubDate>Thu, 05 Jun 2025 16:05:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Assisted Domain Detection Logic for Carbon Black in Uncoder AI</title>
-      <link>https://socprime.com/blog/ai-assisted-domain-detection-logic-for-carbon-black-in-uncoder-ai/</link>
-      <pubDate>Thu, 05 Jun 2025 16:04:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
