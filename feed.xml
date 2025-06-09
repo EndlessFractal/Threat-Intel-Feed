@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 03:24:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 04:33:38 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 09 Jun 2025 01:20:04 +0000</pubDate>
+      <pubDate>Mon, 09 Jun 2025 04:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Monday, June 9th, 2025 https://isc.sans.edu/podcastdetail/9484, (Mon, Jun 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/32028</link>
+      <pubDate>Mon, 09 Jun 2025 02:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Monkey365 – PowerShell Security Scanner for Microsoft 365, Azure, and Entra ID</title>
@@ -301,11 +306,6 @@
       <title>URL-Based IOC Validation for Microsoft Defender KQL</title>
       <link>https://socprime.com/blog/url-based-ioc-validation-for-microsoft-defender-kql/</link>
       <pubDate>Thu, 05 Jun 2025 15:53:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hard-Coded Credentials</title>
-      <link>https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html</link>
-      <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
