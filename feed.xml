@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 18:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 20:24:59 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 10 Jun 2025 19:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps</title>
+      <link>https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html</link>
+      <pubDate>Tue, 10 Jun 2025 18:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud</title>
+      <link>https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html</link>
+      <pubDate>Tue, 10 Jun 2025 18:04:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Next Move Problem: Why Detection Alone Isn’t Enough Anymore</title>
       <link>https://www.security.com/product-insights/why-detection-alone-isnt-enough-anymore</link>
@@ -18,9 +33,9 @@
       <pubDate>Tue, 10 Jun 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 10 Jun 2025 17:40:04 +0000</pubDate>
+      <title>Microsoft Patch Tuesday June 2025, (Tue, Jun 10th)</title>
+      <link>https://isc.sans.edu/diary/rss/32032</link>
+      <pubDate>Tue, 10 Jun 2025 17:50:23 +0000</pubDate>
     </item>
     <item>
       <title>SAP June 2025 Security Patch Day fixed critical NetWeaver bug</title>
@@ -291,21 +306,6 @@
       <title>A week in security (June 1 – June 7)</title>
       <link>https://www.malwarebytes.com/blog/news/2025/06/a-week-in-security-june-1-june-7</link>
       <pubDate>Mon, 09 Jun 2025 07:14:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Bans ChatGPT Accounts Used by Russian, Iranian, and Chinese Hacker Groups</title>
-      <link>https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html</link>
-      <pubDate>Mon, 09 Jun 2025 06:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, June 9th, 2025 https://isc.sans.edu/podcastdetail/9484, (Mon, Jun 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32028</link>
-      <pubDate>Mon, 09 Jun 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Monkey365 – PowerShell Security Scanner for Microsoft 365, Azure, and Entra ID</title>
-      <link>https://www.darknet.org.uk/2025/06/monkey365-powershell-security-scanner-for-microsoft-365-azure-and-entra-id/</link>
-      <pubDate>Mon, 09 Jun 2025 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
