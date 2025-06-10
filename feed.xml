@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 16:29:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 18:31:36 +0000</lastBuildDate>
+    <item>
+      <title>The Next Move Problem: Why Detection Alone Isn’t Enough Anymore</title>
+      <link>https://www.security.com/product-insights/why-detection-alone-isnt-enough-anymore</link>
+      <pubDate>Tue, 10 Jun 2025 18:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Enterprise Rolls Out Security and Productivity Updates</title>
+      <link>https://www.infosecurity-magazine.com/news/android-enterprise-security-updates/</link>
+      <pubDate>Tue, 10 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 10 Jun 2025 17:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP June 2025 Security Patch Day fixed critical NetWeaver bug</title>
+      <link>https://securityaffairs.com/178851/security/sap-june-2025-security-patch-day-fixed-critical-netweaver-bug.html</link>
+      <pubDate>Tue, 10 Jun 2025 17:31:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware</title>
+      <link>https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html</link>
+      <pubDate>Tue, 10 Jun 2025 16:46:00 +0000</pubDate>
+    </item>
     <item>
       <title>UK cyber agency pushes for 'strategic policy agenda' as government efforts stall</title>
       <link>https://therecord.media/ncsc-pushes-uk-government-create-strategic-cyber-policy-agenda</link>
@@ -18,19 +43,19 @@
       <pubDate>Tue, 10 Jun 2025 15:45:36 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 10 Jun 2025 15:40:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Mastery Schools Notifies 37,031 of Major Data Breach</title>
       <link>https://www.infosecurity-magazine.com/news/mastery-schools-data-breach/</link>
       <pubDate>Tue, 10 Jun 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hundreds of Russian devices hit by Rare Werewolf crypto-mining attacks</title>
+      <title>Hundreds of Russian devices hit by Rare Werewolf cryptomining attacks</title>
       <link>https://therecord.media/russian-devices-hit-by-rare-werewolf-crypto-mining</link>
       <pubDate>Tue, 10 Jun 2025 14:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #54: Will AI collapse under its own garbage, and AI charity “Hunger Games”</title>
+      <link>https://grahamcluley.com/the-ai-fix-54/</link>
+      <pubDate>Tue, 10 Jun 2025 14:22:18 +0000</pubDate>
     </item>
     <item>
       <title>Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users</title>
@@ -75,6 +100,16 @@
     <item>
       <title>Hitachi Energy Relion 670, 650, SAM600-IO Series</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-160-02</link>
+      <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Four Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/10/cisa-releases-four-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/10/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -271,41 +306,6 @@
       <title>Monkey365 – PowerShell Security Scanner for Microsoft 365, Azure, and Entra ID</title>
       <link>https://www.darknet.org.uk/2025/06/monkey365-powershell-security-scanner-for-microsoft-365-azure-and-entra-id/</link>
       <pubDate>Mon, 09 Jun 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally</title>
-      <link>https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html</link>
-      <pubDate>Sun, 08 Jun 2025 13:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages</title>
-      <link>https://securityaffairs.com/178772/malware/over-950k-weekly-downloads-at-risk-in-ongoing-supply-chain-attack-on-gluestack-packages.html</link>
-      <pubDate>Sun, 08 Jun 2025 13:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 48</title>
-      <link>https://securityaffairs.com/178766/malware/security-affairs-malware-newsletter-round-48.html</link>
-      <pubDate>Sun, 08 Jun 2025 11:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 527 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/178759/uncategorized/security-affairs-newsletter-round-527-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 08 Jun 2025 11:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Quarterbacks to CxOs: Why We All Need a Coach</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/from-quarterbacks-to-cxos-why-we-all-need-a-coach</link>
-      <pubDate>Sun, 08 Jun 2025 09:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025</title>
-      <link>https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html</link>
-      <pubDate>Sun, 08 Jun 2025 08:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extracting With pngdump.py, (Sun, Jun 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/32022</link>
-      <pubDate>Sun, 08 Jun 2025 05:16:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
