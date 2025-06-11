@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Jun 2025 06:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 08:30:23 +0000</lastBuildDate>
+    <item>
+      <title>Two Microsoft Zero Days for Admins to Fix in June Patch Tuesday</title>
+      <link>https://www.infosecurity-magazine.com/news/two-microsoft-zero-days-june-patch/</link>
+      <pubDate>Wed, 11 Jun 2025 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches 67 Vulnerabilities Including WEBDAV Zero-Day Exploited in the Wild</title>
+      <link>https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html</link>
+      <pubDate>Wed, 11 Jun 2025 07:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A flaw could allow recovery of the phone number associated with any Google account</title>
+      <link>https://securityaffairs.com/178871/hacking/a-flaw-could-allow-recovery-of-the-phone-number-associated-with-any-google-account.html</link>
+      <pubDate>Wed, 11 Jun 2025 07:05:44 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 11 Jun 2025 05:45:04 +0000</pubDate>
+      <pubDate>Wed, 11 Jun 2025 07:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quasar RAT Delivered Through Bat Files, (Wed, Jun 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/32036</link>
+      <pubDate>Wed, 11 Jun 2025 05:53:08 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, June 11th, 2025 https://isc.sans.edu/podcastdetail/9488, (Wed, Jun 11th)</title>
@@ -223,6 +243,11 @@
       <pubDate>Tue, 10 Jun 2025 05:00:08 +0000</pubDate>
     </item>
     <item>
+      <title>June 2025 Patch Tuesday: One Zero-Day and Nine Critical Vulnerabilities Among 66 CVEs</title>
+      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2025/</link>
+      <pubDate>Tue, 10 Jun 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Tuesday, June 10th, 2025 https://isc.sans.edu/podcastdetail/9486, (Tue, Jun 10th)</title>
       <link>https://isc.sans.edu/diary/rss/32030</link>
       <pubDate>Tue, 10 Jun 2025 02:00:02 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>OpenAI bans ChatGPT accounts linked to Russian, Chinese cyber ops</title>
       <link>https://securityaffairs.com/178797/intelligence/openai-bans-chatgpt-accounts-linked-to-russian-chinese-cyber-ops.html</link>
       <pubDate>Mon, 09 Jun 2025 11:15:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Administration Revises Cybersecurity Rules, Replaces Biden and Obama Orders</title>
-      <link>https://www.infosecurity-magazine.com/news/trump-new-cyber-executive-order/</link>
-      <pubDate>Mon, 09 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise</title>
-      <link>https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html</link>
-      <pubDate>Mon, 09 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Way to Track Covertly Android Users</title>
-      <link>https://www.schneier.com/blog/archives/2025/06/new-way-to-track-covertly-android-users.html</link>
-      <pubDate>Mon, 09 Jun 2025 10:54:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sleep with one eye open: how Librarian Ghouls steal data by night</title>
-      <link>https://securelist.com/librarian-ghouls-apt-wakes-up-computers-to-steal-data-and-mine-crypto/116536/</link>
-      <pubDate>Mon, 09 Jun 2025 10:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roles Here? Roles There? Roles Anywhere: Exploring the Security of AWS IAM Roles Anywhere</title>
-      <link>https://unit42.paloaltonetworks.com/aws-roles-anywhere/</link>
-      <pubDate>Mon, 09 Jun 2025 10:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
