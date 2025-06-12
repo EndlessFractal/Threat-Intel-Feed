@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Jun 2025 16:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 18:30:52 +0000</lastBuildDate>
+    <item>
+      <title>Know thyself, know thy environment</title>
+      <link>https://blog.talosintelligence.com/know-thyself-know-thy-environment/</link>
+      <pubDate>Thu, 12 Jun 2025 18:01:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fog ransomware attack on Asia financial org draws attention over use of employee monitoring software</title>
+      <link>https://therecord.media/fog-ransomware-incident-asia-financial-org-employee-monitoring</link>
+      <pubDate>Thu, 12 Jun 2025 17:04:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predator spotted in Mozambique for first time, another sign of spyware’s availability</title>
+      <link>https://therecord.media/predator-spyware-mozambique</link>
+      <pubDate>Thu, 12 Jun 2025 16:56:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 12 Jun 2025 16:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber resilience begins before the crisis</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/06/12/cyber-resilience-begins-before-the-crisis/</link>
+      <pubDate>Thu, 12 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Airlines Secretly Selling Passenger Data to the Government</title>
       <link>https://www.schneier.com/blog/archives/2025/06/airlines-secretly-selling-passenger-data-to-the-government.html</link>
@@ -43,11 +68,6 @@
       <pubDate>Thu, 12 Jun 2025 14:50:47 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 12 Jun 2025 14:50:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Belarusian hackers taunt Kaspersky over report detailing their attacks</title>
       <link>https://therecord.media/belarusian-hackers-taunt-kaspersky-ver-report</link>
       <pubDate>Thu, 12 Jun 2025 14:35:53 +0000</pubDate>
@@ -66,11 +86,6 @@
       <title>New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes</title>
       <link>https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html</link>
       <pubDate>Thu, 12 Jun 2025 13:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware attack on ticketing platform upends South Korean entertainment industry</title>
-      <link>https://therecord.media/yes24-south-korea-ransomware-attack</link>
-      <pubDate>Thu, 12 Jun 2025 13:15:02 +0000</pubDate>
     </item>
     <item>
       <title>Palo Alto Networks Patches Series of Vulnerabilities</title>
@@ -145,6 +160,11 @@
     <item>
       <title>PTZOptics and Other Pan-Tilt-Zoom Cameras</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-10</link>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Ten Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/12/cisa-releases-ten-industrial-control-systems-advisories</link>
       <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -278,11 +298,6 @@
       <pubDate>Wed, 11 Jun 2025 17:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dozens arrested across Asia in global infostealer malware crackdown</title>
-      <link>https://therecord.media/dozens-arrested-infostealer-interpol-crackdown</link>
-      <pubDate>Wed, 11 Jun 2025 15:40:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 2, June 2025</title>
       <link>https://asec.ahnlab.com/en/88441/</link>
       <pubDate>Wed, 11 Jun 2025 15:00:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Congress Introduces Bill to Strengthen Healthcare Cybersecurity</title>
       <link>https://www.infosecurity-magazine.com/news/congress-bill-healthcare/</link>
       <pubDate>Wed, 11 Jun 2025 14:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager</title>
-      <link>https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html</link>
-      <pubDate>Wed, 11 Jun 2025 13:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>catdoc zero-day, NVIDIA, High-Logic FontCreator and Parallel vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/catdoc-zero-day-nvidia-high-logic-fontcreator-and-parallel-vulnerabilities/</link>
-      <pubDate>Wed, 11 Jun 2025 13:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Guts Biden-Era Cyber Order, Ends Sanctions for Domestic Hackers</title>
-      <link>https://www.techrepublic.com/article/news-trump-ends-sanctions-domestic-hackers/</link>
-      <pubDate>Wed, 11 Jun 2025 13:24:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
