@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Jun 2025 12:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 14:22:25 +0000</lastBuildDate>
+    <item>
+      <title>New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes</title>
+      <link>https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html</link>
+      <pubDate>Thu, 12 Jun 2025 13:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attack on ticketing platform upends South Korean entertainment industry</title>
+      <link>https://therecord.media/yes24-south-korea-ransomware-attack</link>
+      <pubDate>Thu, 12 Jun 2025 13:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Networks Patches Series of Vulnerabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/palo-alto-networks-patches-series/</link>
+      <pubDate>Thu, 12 Jun 2025 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar</title>
+      <link>https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html</link>
+      <pubDate>Thu, 12 Jun 2025 13:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 12 Jun 2025 12:45:03 +0000</pubDate>
+    </item>
     <item>
       <title>European journalists targeted with Paragon Solutions spyware, say researchers</title>
       <link>https://www.theguardian.com/media/2025/jun/12/european-journalists-targeted-with-paragon-solutions-spyware-say-researchers</link>
@@ -18,6 +43,11 @@
       <pubDate>Thu, 12 Jun 2025 12:00:44 +0000</pubDate>
     </item>
     <item>
+      <title>Automated Tools to Assist with DShield Honeypot Investigations [Guest Diary], (Wed, Jun 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/32038</link>
+      <pubDate>Thu, 12 Jun 2025 11:50:56 +0000</pubDate>
+    </item>
+    <item>
       <title>CVE-2025-32711 Vulnerability: “EchoLeak” Flaw in Microsoft 365 Copilot Could Enable a Zero-Click Attack on an AI Agent</title>
       <link>https://socprime.com/blog/cve-2025-32711-zero-click-ai-vulnerability/</link>
       <pubDate>Thu, 12 Jun 2025 11:46:56 +0000</pubDate>
@@ -26,11 +56,6 @@
       <title>SinoTrack GPS device flaws allow remote vehicle control and location tracking</title>
       <link>https://securityaffairs.com/178922/security/sinotrack-gps-device-flaws-allow-remote-vehicle-control-and-location-tracking.html</link>
       <pubDate>Thu, 12 Jun 2025 11:45:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 12 Jun 2025 11:45:04 +0000</pubDate>
     </item>
     <item>
       <title>Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction</title>
@@ -55,6 +80,11 @@
     <item>
       <title>Fog Ransomware: Unusual Toolset Used in Recent Attack</title>
       <link>https://www.security.com/threat-intelligence/fog-ransomware-attack</link>
+      <pubDate>Thu, 12 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating 11 years of Project Galileo’s global impact</title>
+      <link>https://blog.cloudflare.com/celebrating-11-years-of-project-galileo-global-impact/</link>
       <pubDate>Thu, 12 Jun 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
@@ -101,6 +131,11 @@
       <title>ISC Stormcast For Thursday, June 12th, 2025 https://isc.sans.edu/podcastdetail/9490, (Thu, Jun 12th)</title>
       <link>https://isc.sans.edu/diary/rss/32040</link>
       <pubDate>Thu, 12 Jun 2025 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predator Still Active, with New Client and Corporate Links Identified</title>
+      <link>https://www.recordedfuture.com/research/predator-still-active-new-links-identified</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Smashing Security podcast #421: Toothpick flirts, Google leaks, and ICE ICE scammers</title>
@@ -193,11 +228,6 @@
       <pubDate>Wed, 11 Jun 2025 12:15:52 +0000</pubDate>
     </item>
     <item>
-      <title>Infamous website 4chan to be investigated by UK communications regulator</title>
-      <link>https://therecord.media/4chan-investigation-uk-ofcom-regulator</link>
-      <pubDate>Wed, 11 Jun 2025 12:12:26 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2025-33073: Windows SMB Client Zero-Day Lets Attackers Gain SYSTEM Privileges</title>
       <link>https://socprime.com/blog/cve-2025-33073-zero-day-vulnerability/</link>
       <pubDate>Wed, 11 Jun 2025 12:04:49 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>ISC Stormcast For Wednesday, June 11th, 2025 https://isc.sans.edu/podcastdetail/9488, (Wed, Jun 11th)</title>
       <link>https://isc.sans.edu/diary/rss/32034</link>
       <pubDate>Wed, 11 Jun 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Argusee and Agentic AI in Cybersecurity</title>
-      <link>https://www.darknet.org.uk/2025/06/argusee-and-agentic-ai-in-cybersecurity/</link>
-      <pubDate>Wed, 11 Jun 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch Tuesday, June 2025 Edition</title>
-      <link>https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/</link>
-      <pubDate>Wed, 11 Jun 2025 00:10:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday for June 2025 — Snort rules and prominent vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-june-2025/</link>
-      <pubDate>Tue, 10 Jun 2025 21:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>GirlsDoPorn owner faces life in jail after pleading guilty to sex trafficking</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/06/girlsdoporn-owner-faces-life-in-jail-after-pleading-guilty-to-sex-trafficking</link>
-      <pubDate>Tue, 10 Jun 2025 21:29:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas Department of Transportation (TxDOT) data breach exposes 300,000 crash reports</title>
-      <link>https://securityaffairs.com/178861/data-breach/txdot-data-breach-exposes-300000-crash-reports.html</link>
-      <pubDate>Tue, 10 Jun 2025 20:14:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps</title>
-      <link>https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html</link>
-      <pubDate>Tue, 10 Jun 2025 18:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
