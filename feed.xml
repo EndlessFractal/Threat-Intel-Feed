@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Jun 2025 10:24:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 12:45:39 +0000</lastBuildDate>
+    <item>
+      <title>European Journalists Targeted by Paragon Spyware, Citizen Lab Confirms</title>
+      <link>https://www.infosecurity-magazine.com/news/european-journalists-paragon/</link>
+      <pubDate>Fri, 13 Jun 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detect SimpleHelp RMM Vulnerability Exploitation: CISA Warns of Threat Actors Abusing Unpatched Flaws for Persistent Access and Ransomware Deployment</title>
+      <link>https://socprime.com/blog/detect-simplehelp-rmm-vulnerabilities-exploitation/</link>
+      <pubDate>Fri, 13 Jun 2025 11:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion</title>
+      <link>https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html</link>
+      <pubDate>Fri, 13 Jun 2025 11:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2025 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2025/06/13/january-2025-cyber-attacks-statistics/</link>
+      <pubDate>Fri, 13 Jun 2025 10:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>CTEM is the New SOC: Shifting from Monitoring Alerts to Measuring Risk</title>
+      <link>https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html</link>
+      <pubDate>Fri, 13 Jun 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 13 Jun 2025 10:20:04 +0000</pubDate>
+    </item>
     <item>
       <title>Paragon Spyware used to Spy on European Journalists</title>
       <link>https://www.schneier.com/blog/archives/2025/06/paragon-spyware-used-to-spy-on-european-journalists.html</link>
       <pubDate>Fri, 13 Jun 2025 10:17:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple confirmed that Messages app flaw was actively exploited in the wild</title>
+      <link>https://securityaffairs.com/178962/mobile-2/apple-confirmed-messages-app-flaw-actively-exploited.html</link>
+      <pubDate>Fri, 13 Jun 2025 10:15:49 +0000</pubDate>
     </item>
     <item>
       <title>Serverless Tokens in the Cloud: Exploitation and Detections</title>
@@ -21,11 +56,6 @@
       <title>Ransomware Gang Exploits SimpleHelp RMM to Compromise Utility Billing Firm</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-simplehelp-compromise/</link>
       <pubDate>Fri, 13 Jun 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 13 Jun 2025 09:15:07 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft 365 Copilot: New Zero-Click AI Vulnerability Allows Corporate Data Theft</title>
@@ -276,36 +306,6 @@
       <title>CISA Releases Ten Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/06/12/cisa-releases-ten-industrial-control-systems-advisories</link>
       <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Cybersecurity Advisory on SimpleHelp RMM Vulnerability</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/12/cisa-releases-cybersecurity-advisory-simplehelp-rmm-vulnerability</link>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Automated Tools to Assist with DShield Honeypot Investigations [Guest Diary], (Wed, Jun 11th)</title>
-      <link>https://isc.sans.edu/diary/rss/32038</link>
-      <pubDate>Thu, 12 Jun 2025 11:50:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-32711 Vulnerability: “EchoLeak” Flaw in Microsoft 365 Copilot Could Enable a Zero-Click Attack on an AI Agent</title>
-      <link>https://socprime.com/blog/cve-2025-32711-zero-click-ai-vulnerability/</link>
-      <pubDate>Thu, 12 Jun 2025 11:46:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>SinoTrack GPS device flaws allow remote vehicle control and location tracking</title>
-      <link>https://securityaffairs.com/178922/security/sinotrack-gps-device-flaws-allow-remote-vehicle-control-and-location-tracking.html</link>
-      <pubDate>Thu, 12 Jun 2025 11:45:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction</title>
-      <link>https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html</link>
-      <pubDate>Thu, 12 Jun 2025 11:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Non-Human Identities: How to Address the Expanding Security Risk</title>
-      <link>https://thehackernews.com/2025/06/non-human-identities-how-to-address.html</link>
-      <pubDate>Thu, 12 Jun 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
