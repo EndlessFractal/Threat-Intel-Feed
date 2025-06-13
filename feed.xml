@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Jun 2025 08:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 10:24:49 +0000</lastBuildDate>
+    <item>
+      <title>Paragon Spyware used to Spy on European Journalists</title>
+      <link>https://www.schneier.com/blog/archives/2025/06/paragon-spyware-used-to-spy-on-european-journalists.html</link>
+      <pubDate>Fri, 13 Jun 2025 10:17:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Serverless Tokens in the Cloud: Exploitation and Detections</title>
+      <link>https://unit42.paloaltonetworks.com/serverless-authentication-cloud/</link>
+      <pubDate>Fri, 13 Jun 2025 10:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Gang Exploits SimpleHelp RMM to Compromise Utility Billing Firm</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-simplehelp-compromise/</link>
+      <pubDate>Fri, 13 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 13 Jun 2025 09:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 Copilot: New Zero-Click AI Vulnerability Allows Corporate Data Theft</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-365-copilot-zeroclick-ai/</link>
+      <pubDate>Fri, 13 Jun 2025 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June Patch Tuesday digs into 67 bugs</title>
+      <link>https://news.sophos.com/en-us/2025/06/13/june-patch-tuesday-digs-into-67-bugs/</link>
+      <pubDate>Fri, 13 Jun 2025 08:51:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Syscall Threat Detection in Splunk with Uncoder AI</title>
+      <link>https://socprime.com/blog/linux-syscall-threat-detection-in-splunk-with-uncoder-ai/</link>
+      <pubDate>Fri, 13 Jun 2025 08:47:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Sigma to SentinelOne: Detecting Password Access via Notepad with Uncoder AI</title>
+      <link>https://socprime.com/blog/from-sigma-to-sentinelone-detecting-password-access-via-notepad-with-uncoder-ai/</link>
+      <pubDate>Fri, 13 Jun 2025 08:35:32 +0000</pubDate>
+    </item>
     <item>
       <title>Convert Sigma DNS Rules to Cortex XSIAM with Uncoder AI</title>
       <link>https://socprime.com/blog/convert-sigma-dns-rules-to-cortex-xsiam-with-uncoder-ai/</link>
@@ -18,9 +58,9 @@
       <pubDate>Fri, 13 Jun 2025 08:08:02 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 13 Jun 2025 07:15:04 +0000</pubDate>
+      <title>South African man imprisoned after ransom demand against his former employer</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/south-african-man-imprisoned-after-ransom-demand-against-his-former-employer</link>
+      <pubDate>Fri, 13 Jun 2025 07:24:01 +0000</pubDate>
     </item>
     <item>
       <title>Trend Micro fixes critical bugs in Apex Central and TMEE PolicyServer</title>
@@ -101,6 +141,11 @@
       <title>Sigma-to-MDE Query Conversion: DNS Detection for Katz Stealer via Uncoder AI</title>
       <link>https://socprime.com/blog/sigma-to-mde-query-conversion-dns-detection-for-katz-stealer-via-uncoder-ai/</link>
       <pubDate>Thu, 12 Jun 2025 15:43:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sweden says it is under cyber attack</title>
+      <link>https://grahamcluley.com/sweden-says-it-is-under-cyber-attack/</link>
+      <pubDate>Thu, 12 Jun 2025 15:40:04 +0000</pubDate>
     </item>
     <item>
       <title>Detect DNS Threats in Google SecOps: Katz Stealer Rule Conversion with Uncoder AI</title>
@@ -261,51 +306,6 @@
       <title>Non-Human Identities: How to Address the Expanding Security Risk</title>
       <link>https://thehackernews.com/2025/06/non-human-identities-how-to-address.html</link>
       <pubDate>Thu, 12 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIST Publishes New Zero Trust Implementation Guidance</title>
-      <link>https://www.infosecurity-magazine.com/news/nist-zero-trust-implementation/</link>
-      <pubDate>Thu, 12 Jun 2025 10:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JSFireTruck: Exploring Malicious JavaScript Using JSF*ck as an Obfuscation Technique</title>
-      <link>https://unit42.paloaltonetworks.com/malicious-javascript-using-jsfiretruck-as-obfuscation/</link>
-      <pubDate>Thu, 12 Jun 2025 10:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fog Ransomware: Unusual Toolset Used in Recent Attack</title>
-      <link>https://www.security.com/threat-intelligence/fog-ransomware-attack</link>
-      <pubDate>Thu, 12 Jun 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celebrating 11 years of Project Galileo’s global impact</title>
-      <link>https://blog.cloudflare.com/celebrating-11-years-of-project-galileo-global-impact/</link>
-      <pubDate>Thu, 12 Jun 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 456</title>
-      <link>https://www.troyhunt.com/weekly-update-456/</link>
-      <pubDate>Thu, 12 Jun 2025 09:51:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol Says Criminal Demand for Data is “Skyrocketing”</title>
-      <link>https://www.infosecurity-magazine.com/news/europol-criminal-demand-data/</link>
-      <pubDate>Thu, 12 Jun 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Wazuh, and WebDAV flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/178923/security/u-s-cisa-adds-wazuh-and-webdav-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 12 Jun 2025 09:17:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Empty shelves after US’s largest natural and organic food distributor suffers cyber attack</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/empty-shelves-distributor-cyber-attack</link>
-      <pubDate>Thu, 12 Jun 2025 09:09:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing Alert as Erie Insurance Reveals Cyber “Event”</title>
-      <link>https://www.infosecurity-magazine.com/news/phishing-alert-erie-insurance/</link>
-      <pubDate>Thu, 12 Jun 2025 08:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
