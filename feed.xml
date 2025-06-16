@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 14:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 16:29:11 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 16 Jun 2025 13:55:03 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2025 15:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Target Victims with HijackLoader and DeerStealer</title>
+      <link>https://www.infosecurity-magazine.com/news/hijackloader-deerstealer-target/</link>
+      <pubDate>Mon, 16 Jun 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Archetyp Market Shut Down in Europe-wide Law Enforcement Operation</title>
+      <link>https://www.infosecurity-magazine.com/news/archetyp-market-shut-europe/</link>
+      <pubDate>Mon, 16 Jun 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment</title>
+      <link>https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html</link>
+      <pubDate>Mon, 16 Jun 2025 14:21:00 +0000</pubDate>
     </item>
     <item>
       <title>8.4 million people affected by data breach at Indian car share company Zoomcar</title>
@@ -103,7 +118,7 @@
       <pubDate>Mon, 16 Jun 2025 07:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>Malicious PyPI Package Masquerades as Chimera Module to Steal AWS, CI/CD, and macOS Data</title>
+      <title>PyPI, npm, and AI Tools Exploited in Malware Surge Targeting DevOps and Cloud Environments</title>
       <link>https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html</link>
       <pubDate>Mon, 16 Jun 2025 06:45:00 +0000</pubDate>
     </item>
@@ -291,21 +306,6 @@
       <title>Microsoft 365 Copilot: New Zero-Click AI Vulnerability Allows Corporate Data Theft</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-365-copilot-zeroclick-ai/</link>
       <pubDate>Fri, 13 Jun 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>June Patch Tuesday digs into 67 bugs</title>
-      <link>https://news.sophos.com/en-us/2025/06/13/june-patch-tuesday-digs-into-67-bugs/</link>
-      <pubDate>Fri, 13 Jun 2025 08:51:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Syscall Threat Detection in Splunk with Uncoder AI</title>
-      <link>https://socprime.com/blog/linux-syscall-threat-detection-in-splunk-with-uncoder-ai/</link>
-      <pubDate>Fri, 13 Jun 2025 08:47:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Sigma to SentinelOne: Detecting Password Access via Notepad with Uncoder AI</title>
-      <link>https://socprime.com/blog/from-sigma-to-sentinelone-detecting-password-access-via-notepad-with-uncoder-ai/</link>
-      <pubDate>Fri, 13 Jun 2025 08:35:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
