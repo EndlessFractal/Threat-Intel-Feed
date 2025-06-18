@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 06:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 08:30:17 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 18 Jun 2025 06:20:04 +0000</pubDate>
+      <pubDate>Wed, 18 Jun 2025 07:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents</title>
+      <link>https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html</link>
+      <pubDate>Wed, 18 Jun 2025 06:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability</title>
+      <link>https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html</link>
+      <pubDate>Wed, 18 Jun 2025 06:43:00 +0000</pubDate>
     </item>
     <item>
       <title>Veeam Patches CVE-2025-23121: Critical RCE Bug Rated 9.9 CVSS in Backup &amp; Replication</title>
@@ -296,16 +306,6 @@
       <title>CVE-2025-4123 Vulnerability: “The Grafana Ghost” Zero-Day Enables Malicious Account Hijacking</title>
       <link>https://socprime.com/blog/cve-2025-4123-vulnerability-in-grafana/</link>
       <pubDate>Mon, 16 Jun 2025 11:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Anubis RaaS includes a wiper module</title>
-      <link>https://securityaffairs.com/179044/malware/anubis-raas-now-includes-a-wiper-module.html</link>
-      <pubDate>Mon, 16 Jun 2025 11:40:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More</title>
-      <link>https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html</link>
-      <pubDate>Mon, 16 Jun 2025 11:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
