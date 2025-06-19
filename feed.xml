@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 14:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 16:28:15 +0000</lastBuildDate>
+    <item>
+      <title>DOJ moves to seize $225 million in crypto stolen by scammers</title>
+      <link>https://therecord.media/doj-moves-to-seize-225-million-in-stolen-crypto</link>
+      <pubDate>Thu, 19 Jun 2025 15:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banana Squad’s Stealthy GitHub Malware Campaign Targets Devs</title>
+      <link>https://www.infosecurity-magazine.com/news/banana-squads-github-malware/</link>
+      <pubDate>Thu, 19 Jun 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-6018 and CVE-2025-6019 Vulnerability Exploitation: Chaining Local Privilege Escalation Flaws Lets Attackers Gain Root Access on Most Linux Distributions</title>
+      <link>https://socprime.com/blog/cve-2025-6018-and-cve-2025-6019-lpe-vulnerabilities/</link>
+      <pubDate>Thu, 19 Jun 2025 15:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Deploy Python-Based Trojan Targeting Crypto</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korean-hackers-python-trojan/</link>
+      <pubDate>Thu, 19 Jun 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krispy Kreme Data Breach Puts Employees at Risk of Financial Fraud</title>
+      <link>https://www.infosecurity-magazine.com/news/krispy-kreme-data-breach-financial/</link>
+      <pubDate>Thu, 19 Jun 2025 14:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>How to Build a DLP Program That Delivers</title>
       <link>https://www.security.com/expert-perspectives/how-build-dlp-program-delivers</link>
@@ -26,11 +51,6 @@
       <title>Mattel’s going to make AI-powered toys, kids’ rights advocates are worried</title>
       <link>https://www.malwarebytes.com/blog/news/2025/06/mattels-going-to-make-ai-powered-toys-kids-rights-advocates-are-worried</link>
       <pubDate>Thu, 19 Jun 2025 13:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 19 Jun 2025 13:35:04 +0000</pubDate>
     </item>
     <item>
       <title>Best SIEM Tools for Enhanced Security</title>
@@ -56,6 +76,11 @@
       <title>Iran experienced a near-total national internet blackout</title>
       <link>https://securityaffairs.com/179136/security/iran-experienced-a-near-total-national-internet-blackout.html</link>
       <pubDate>Thu, 19 Jun 2025 12:35:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 19 Jun 2025 12:35:03 +0000</pubDate>
     </item>
     <item>
       <title>Finland could charge Russia-linked ship’s officers over cable breaks by ‘August at the latest’</title>
@@ -151,11 +176,6 @@
       <title>North Korea targeting Indian crypto job applicants with malware</title>
       <link>https://therecord.media/north-korea-india-crypto-applicants</link>
       <pubDate>Wed, 18 Jun 2025 18:44:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Takeover of British Russia expert’s email accounts used novel phishing tactic</title>
-      <link>https://therecord.media/keir-giles-russia-expert-email-attack-gtig-citizen-lab-reports</link>
-      <pubDate>Wed, 18 Jun 2025 18:28:32 +0000</pubDate>
     </item>
     <item>
       <title>AI Threat Intelligence</title>
@@ -258,11 +278,6 @@
       <pubDate>Wed, 18 Jun 2025 10:43:57 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware Group Qilin Offers Legal Counsel to Affiliates</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-qilin-offers-legal/</link>
-      <pubDate>Wed, 18 Jun 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>When legitimate tools go rogue</title>
       <link>https://blog.talosintelligence.com/when-legitimate-tools-go-rogue/</link>
       <pubDate>Wed, 18 Jun 2025 10:09:27 +0000</pubDate>
@@ -283,11 +298,6 @@
       <pubDate>Wed, 18 Jun 2025 09:28:19 +0000</pubDate>
     </item>
     <item>
-      <title>Paddle Pays $5m to Settle Tech Support Scam Allegations</title>
-      <link>https://www.infosecurity-magazine.com/news/paddle-pays-5m-settle-tech-support/</link>
-      <pubDate>Wed, 18 Jun 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents</title>
       <link>https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html</link>
       <pubDate>Wed, 18 Jun 2025 06:43:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability</title>
       <link>https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html</link>
       <pubDate>Wed, 18 Jun 2025 06:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veeam Patches CVE-2025-23121: Critical RCE Bug Rated 9.9 CVSS in Backup &amp; Replication</title>
-      <link>https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html</link>
-      <pubDate>Wed, 18 Jun 2025 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Slows Internet to Prevent Cyber Attacks Amid Escalating Regional Conflict</title>
-      <link>https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html</link>
-      <pubDate>Wed, 18 Jun 2025 05:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
