@@ -6,21 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 20:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 22:21:25 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 25 Jun 2025 21:35:03 +0000</pubDate>
+    </item>
     <item>
       <title>Citrix warns of exploitation of Netscaler devices through new bugs</title>
       <link>https://therecord.media/citrix-warns-netscaler-exploitation-bug</link>
       <pubDate>Wed, 25 Jun 2025 20:18:27 +0000</pubDate>
     </item>
     <item>
+      <title>Facial recognition: Where and how you can opt out</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/06/facial-recognition-where-and-how-you-can-opt-out</link>
+      <pubDate>Wed, 25 Jun 2025 20:16:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Scale AI Leaks Meta, Google, xAI Confidential Files Through ‘Incredibly Janky’ Document Practices</title>
       <link>https://www.techrepublic.com/article/news-scale-ai-security-lapse-google-docs-meta-xai/</link>
       <pubDate>Wed, 25 Jun 2025 20:03:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 25 Jun 2025 18:35:03 +0000</pubDate>
     </item>
     <item>
       <title>Columbia University investigating cyber incident after tech outages</title>
@@ -301,11 +306,6 @@
       <title>Russia-linked APT28 use Signal chats to target Ukraine official with malware</title>
       <link>https://securityaffairs.com/179288/apt/russia-linked-apt28-use-signal-chats-to-target-ukraine-official-with-malware.html</link>
       <pubDate>Tue, 24 Jun 2025 12:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Half of Security Pros Want GenAI Deployment Pause</title>
-      <link>https://www.infosecurity-magazine.com/news/half-security-pros-genai-pause/</link>
-      <pubDate>Tue, 24 Jun 2025 12:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
