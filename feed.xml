@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 16:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 18:32:36 +0000</lastBuildDate>
     <item>
-      <title>Hackers Use Open-Source Offensive Cyber Tools to Attack Financial Businesses in Africa</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-financial-businesses-africa/</link>
-      <pubDate>Wed, 25 Jun 2025 15:45:00 +0000</pubDate>
+      <title>Columbia University investigating cyber incident after tech outages</title>
+      <link>https://therecord.media/columbia-university-technology-outages</link>
+      <pubDate>Wed, 25 Jun 2025 18:09:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Brief: Escalation of Cyber Risk Related to Iran</title>
+      <link>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2025/</link>
+      <pubDate>Wed, 25 Jun 2025 18:00:13 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 25 Jun 2025 15:30:03 +0000</pubDate>
+      <pubDate>Wed, 25 Jun 2025 17:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>PACER electronic filing system under attack by hackers, federal judge warns lawmakers</title>
+      <link>https://therecord.media/pacer-filing-system-under-attack</link>
+      <pubDate>Wed, 25 Jun 2025 17:17:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Named a Leader in the 2025 IDC CNAPP MarketScape: Key Takeaways for Security Buyers</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-named-a-leader-in-the-idc-marketscape-for-cnapp-key-takeaways-for-secu/4427071</link>
+      <pubDate>Wed, 25 Jun 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery</title>
+      <link>https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html</link>
+      <pubDate>Wed, 25 Jun 2025 16:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Use Open-Source Offensive Cyber Tools to Attack Financial Businesses in Africa</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-financial-businesses-africa/</link>
+      <pubDate>Wed, 25 Jun 2025 15:45:00 +0000</pubDate>
     </item>
     <item>
       <title>NSA and CISA Urge Adoption of Memory Safe Languages for Safety</title>
@@ -66,6 +91,11 @@
       <title>Many data brokers are failing to register with state consumer protection agencies</title>
       <link>https://www.malwarebytes.com/blog/news/2025/06/many-data-brokers-are-failing-to-register-with-state-consumer-protection-agencies</link>
       <pubDate>Wed, 25 Jun 2025 12:56:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/25/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Wed, 25 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What LLMs Know About Their Users</title>
@@ -203,19 +233,9 @@
       <pubDate>Tue, 24 Jun 2025 18:36:36 +0000</pubDate>
     </item>
     <item>
-      <title>Leak of data belonging to 7.4 million Paraguayans traced back to infostealers</title>
-      <link>https://therecord.media/data-leak-paraguayan-millions-infostealer</link>
-      <pubDate>Tue, 24 Jun 2025 18:03:34 +0000</pubDate>
-    </item>
-    <item>
       <title>The U.S. House banned WhatsApp on government devices due to security concerns</title>
       <link>https://securityaffairs.com/179297/mobile-2/us-house-banned-whatsapp-on-government-devices.html</link>
       <pubDate>Tue, 24 Jun 2025 17:55:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI cyber leader: US can’t forget about China's 'Typhoon' groups amid Mideast conflict</title>
-      <link>https://therecord.media/china-typhoon-groups-espionage-fbi-cyber-brett-leatherman</link>
-      <pubDate>Tue, 24 Jun 2025 16:20:36 +0000</pubDate>
     </item>
     <item>
       <title>Lessons from Helsinki: NCSC-FI's Role in Mitigating a Major Data Breach</title>
@@ -285,26 +305,6 @@
     <item>
       <title>Delta Electronics CNCSoft</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-02</link>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Modicon Controllers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-03</link>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric EVLink WallBox</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-04</link>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ControlID iDSecure On-Premises</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-05</link>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parsons AccuWeather Widget</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-06</link>
       <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
