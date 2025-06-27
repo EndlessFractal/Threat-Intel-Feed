@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jun 2025 18:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 20:24:37 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 27 Jun 2025 20:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taking over millions of developers exploiting an Open VSX Registry flaw</title>
+      <link>https://securityaffairs.com/179398/hacking/taking-over-millions-of-developers-exploiting-an-open-vsx-registry-flaw.html</link>
+      <pubDate>Fri, 27 Jun 2025 19:37:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unveiling RIFT: Enhancing Rust malware analysis through pattern matching</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/06/27/unveiling-rift-enhancing-rust-malware-analysis-through-pattern-matching/</link>
+      <pubDate>Fri, 27 Jun 2025 18:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Update: Hawaiian Airlines cyberattack has marks of Scattered Spider, sources say</title>
       <link>https://therecord.media/hawaiian-airlines-cyberattack-flights-safe</link>
@@ -16,11 +31,6 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 26</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-26-6/</link>
       <pubDate>Fri, 27 Jun 2025 17:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 27 Jun 2025 17:00:04 +0000</pubDate>
     </item>
     <item>
       <title>Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign</title>
@@ -36,6 +46,11 @@
       <title>NATO members aim for spending 5% of GDP on defense, with 1.5% eligible for cyber</title>
       <link>https://therecord.media/nato-agreement-5percent-gdp-defense-spending-cyber</link>
       <pubDate>Fri, 27 Jun 2025 14:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrate Micro-Small, and Medium-sized Enterprises Day with Cloudflare</title>
+      <link>https://blog.cloudflare.com/celebrate-micro-small-and-medium-sized-enterprises-day-with-cloudflare/</link>
+      <pubDate>Fri, 27 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers stole data on 2.2 million people in cyberattack affecting American grocery chains</title>
@@ -116,6 +131,11 @@
       <title>OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors</title>
       <link>https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html</link>
       <pubDate>Fri, 27 Jun 2025 06:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Falcon Wins AV-Comparatives Awards for EDR Detection and Mac Security</title>
+      <link>https://www.crowdstrike.com/en-us/blog/av-comparatives-awards-for-edr-detection-and-mac-security/</link>
+      <pubDate>Fri, 27 Jun 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, June 27th, 2025 https://isc.sans.edu/podcastdetail/9508, (Fri, Jun 27th)</title>
@@ -286,26 +306,6 @@
       <title>Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa</title>
       <link>https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html</link>
       <pubDate>Thu, 26 Jun 2025 07:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet</title>
-      <link>https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html</link>
-      <pubDate>Thu, 26 Jun 2025 06:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews</title>
-      <link>https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html</link>
-      <pubDate>Thu, 26 Jun 2025 04:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, June 26th, 2025 https://isc.sans.edu/podcastdetail/9506, (Thu, Jun 26th)</title>
-      <link>https://isc.sans.edu/diary/rss/32072</link>
-      <pubDate>Thu, 26 Jun 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #423: Operation Endgame, deepfakes, and dead slugs</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-423/</link>
-      <pubDate>Wed, 25 Jun 2025 23:00:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
