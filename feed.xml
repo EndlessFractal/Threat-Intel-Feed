@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jun 2025 04:31:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 06:33:34 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 27 Jun 2025 02:50:04 +0000</pubDate>
+      <pubDate>Fri, 27 Jun 2025 03:55:04 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, June 27th, 2025 https://isc.sans.edu/podcastdetail/9508, (Fri, Jun 27th)</title>
@@ -85,6 +85,11 @@
     <item>
       <title>Patient Death Linked to NHS Cyber-Attack</title>
       <link>https://www.infosecurity-magazine.com/news/patient-death-linked-nhs-cyber/</link>
+      <pubDate>Thu, 26 Jun 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Security &amp; Malware Issue 4st Week of June, 2025</title>
+      <link>https://asec.ahnlab.com/en/88653/</link>
       <pubDate>Thu, 26 Jun 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Pro-Iranian Hacktivist Group Leaks Personal Records from the 2024 Saudi Games</title>
       <link>https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html</link>
       <pubDate>Wed, 25 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-49144 Vulnerability: Critical Privilege Escalation Flaw in Notepad++ Leads to Full System Takeover</title>
-      <link>https://socprime.com/blog/cve-2025-49144-notepad-vulnerability/</link>
-      <pubDate>Wed, 25 Jun 2025 10:58:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
