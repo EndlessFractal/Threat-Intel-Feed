@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jun 2025 22:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 01:49:29 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 27 Jun 2025 22:00:04 +0000</pubDate>
+      <pubDate>Sat, 28 Jun 2025 01:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>End of an Era: Microsoft Replaces Its Iconic Blue Screen of Death</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-replacing-blue-screen-of-death/</link>
+      <pubDate>Fri, 27 Jun 2025 23:37:50 +0000</pubDate>
     </item>
     <item>
       <title>British Hacker ‘IntelBroker’ Charged in $25M Cybercrime Case, US Seeks Extradition</title>
@@ -301,11 +306,6 @@
       <title>U.S. CISA adds AMI MegaRAC SPx, D-Link DIR-859 routers, and Fortinet FortiOS flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/179354/security/u-s-cisa-adds-ami-megarac-spx-d-link-dir-859-routers-and-fortinet-fortios-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Thu, 26 Jun 2025 08:15:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>No Egress, No Shell, No Problem</title>
-      <link>https://sensepost.com/blog/2025/no-egress-no-shell-no-problem/</link>
-      <pubDate>Thu, 26 Jun 2025 07:35:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
