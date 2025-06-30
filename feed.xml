@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Jun 2025 14:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 16:28:48 +0000</lastBuildDate>
+    <item>
+      <title>International Taskforce Dismantles €460m Crypto Fraud Network</title>
+      <link>https://www.infosecurity-magazine.com/news/taskforce-dismantles-euro460m/</link>
+      <pubDate>Mon, 30 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 30 Jun 2025 13:40:04 +0000</pubDate>
+      <pubDate>Mon, 30 Jun 2025 15:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>US defense firms must ‘remain vigilant’ against Iranian cyber activity, agencies warn</title>
+      <link>https://therecord.media/defense-vigilant-cyber-iran-israel</link>
+      <pubDate>Mon, 30 Jun 2025 15:24:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects</title>
+      <link>https://thehackernews.com/2025/06/europol-dismantles-540-million.html</link>
+      <pubDate>Mon, 30 Jun 2025 15:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Cyber Threats Persist Despite Ceasefire, US Intelligence Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/iranian-cyber-threats-us/</link>
+      <pubDate>Mon, 30 Jun 2025 15:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Food Retailer Ahold Delhaize Discloses Data Breach Impacting 2.2 Million</title>
+      <link>https://www.infosecurity-magazine.com/news/ahold-delhaize-data-breach-2m/</link>
+      <pubDate>Mon, 30 Jun 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks</title>
+      <link>https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html</link>
+      <pubDate>Mon, 30 Jun 2025 13:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Swiss nonprofit health organization breached by Sarcoma ransomware group</title>
@@ -101,6 +131,11 @@
       <title>ISC Stormcast For Monday, June 30th, 2025 https://isc.sans.edu/podcastdetail/9510, (Mon, Jun 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32076</link>
       <pubDate>Mon, 30 Jun 2025 02:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>OnionC2 – Tor Powered Rust Command and Control Framework</title>
+      <link>https://www.darknet.org.uk/2025/06/onionc2-tor-powered-rust-command-and-control-framework/</link>
+      <pubDate>Mon, 30 Jun 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Facebook wants access to your camera roll for AI photo edits</title>
@@ -208,11 +243,6 @@
       <pubDate>Fri, 27 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hackers stole data on 2.2 million people in cyberattack affecting American grocery chains</title>
-      <link>https://therecord.media/hackers-cyberattack-grocery-chain</link>
-      <pubDate>Fri, 27 Jun 2025 13:59:39 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2025-20281 and CVE-2025-20282 Vulnerabilities: Critical RCE Flaws in Cisco ISE and ISE-PIC Enable Root Access</title>
       <link>https://socprime.com/blog/cve-2025-20281-and-cve-2025-20282-vulnerabilities/</link>
       <pubDate>Fri, 27 Jun 2025 13:40:58 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors</title>
       <link>https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html</link>
       <pubDate>Fri, 27 Jun 2025 06:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Falcon Wins AV-Comparatives Awards for EDR Detection and Mac Security</title>
-      <link>https://www.crowdstrike.com/en-us/blog/av-comparatives-awards-for-edr-detection-and-mac-security/</link>
-      <pubDate>Fri, 27 Jun 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, June 27th, 2025 https://isc.sans.edu/podcastdetail/9508, (Fri, Jun 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/32074</link>
-      <pubDate>Fri, 27 Jun 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sububy – A Modular Ruby Suite for Subdomain Enumeration</title>
-      <link>https://www.darknet.org.uk/2025/06/sububy-a-modular-ruby-suite-for-subdomain-enumeration/</link>
-      <pubDate>Fri, 27 Jun 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Bug Hunter Sets Milestone By Claiming Top Spot on HackerOne’s Leaderboard</title>
-      <link>https://www.techrepublic.com/article/news-ai-xbow-tops-hackerone-us-leaderboad/</link>
-      <pubDate>Fri, 27 Jun 2025 00:13:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taking the shine off BreachForums</title>
-      <link>https://news.sophos.com/en-us/2025/06/26/taking-the-shine-off-breachforums/</link>
-      <pubDate>Thu, 26 Jun 2025 22:17:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Getting a career in cybersecurity isn’t easy, but this can help</title>
-      <link>https://blog.talosintelligence.com/getting-a-career-in-cybersecurity-isnt-easy-but-this-can-help/</link>
-      <pubDate>Thu, 26 Jun 2025 18:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
