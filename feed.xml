@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 10:25:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 12:47:28 +0000</lastBuildDate>
+    <item>
+      <title>Ransomware gang attacks German charity that feeds starving children</title>
+      <link>https://therecord.media/welthungerhilfe-german-hunger-relief-charity-ransomware-attack</link>
+      <pubDate>Wed, 02 Jul 2025 12:34:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-32463 and CVE-2025-32462: Sudo Local Privilege Escalation Vulnerabilities Threaten Linux Environments</title>
+      <link>https://socprime.com/blog/cve-2025-32463-and-cve-2025-32462-vulnerabilities/</link>
+      <pubDate>Wed, 02 Jul 2025 12:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>French cybersecurity agency confirms government affected by Ivanti hacks</title>
+      <link>https://therecord.media/france-anssi-report-ivanti-bugs-exploited</link>
+      <pubDate>Wed, 02 Jul 2025 12:05:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qantas: Breach affects 6 million people, “significant” amount of data likely taken</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/07/qantas-breach-affects-6-million-people-significant-amount-of-data-likely-taken</link>
+      <pubDate>Wed, 02 Jul 2025 11:37:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu Disables Spectre/Meltdown Protections</title>
+      <link>https://www.schneier.com/blog/archives/2025/07/ubuntu-disables-spectre-meltdown-protections.html</link>
+      <pubDate>Wed, 02 Jul 2025 11:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 02 Jul 2025 11:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Target France in Ivanti Zero-Day Exploit Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-hackers-france-ivanti/</link>
+      <pubDate>Wed, 02 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat</title>
+      <link>https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html</link>
+      <pubDate>Wed, 02 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns</title>
+      <link>https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html</link>
+      <pubDate>Wed, 02 Jul 2025 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qantas confirms customer data breach amid Scattered Spider attacks</title>
+      <link>https://securityaffairs.com/179557/cyber-crime/qantas-confirms-customer-data-breach-amid-scattered-spider-attacks.html</link>
+      <pubDate>Wed, 02 Jul 2025 10:29:30 +0000</pubDate>
+    </item>
     <item>
       <title>Windows Shortcut (LNK) Malware Strategies</title>
       <link>https://unit42.paloaltonetworks.com/lnk-malware/</link>
@@ -26,11 +76,6 @@
       <title>Dozens of Corporates Caught in Kelly Benefits Data Breach</title>
       <link>https://www.infosecurity-magazine.com/news/dozens-corporates-kelly-benefits/</link>
       <pubDate>Wed, 02 Jul 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 02 Jul 2025 09:00:04 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware</title>
@@ -218,19 +263,9 @@
       <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Spanish police arrest five over $542 million crypto investment scheme</title>
-      <link>https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown</link>
-      <pubDate>Tue, 01 Jul 2025 11:59:41 +0000</pubDate>
-    </item>
-    <item>
       <title>GDPR violations prompt Germany to push Google and Apple to ban DeepSeek AI</title>
       <link>https://securityaffairs.com/179511/laws-and-regulations/gdpr-violations-prompt-germany-to-push-google-and-apple-to-ban-deepseek-ai.html</link>
       <pubDate>Tue, 01 Jul 2025 11:57:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>International Criminal Court targeted by new ‘sophisticated’ attack</title>
-      <link>https://therecord.media/international-criminal-court-cyberattack-2025</link>
-      <pubDate>Tue, 01 Jul 2025 11:48:48 +0000</pubDate>
     </item>
     <item>
       <title>50 customers of French bank hit after insider helped SIM swap scammers</title>
@@ -271,41 +306,6 @@
       <title>Scam Centers Expand Global Footprint with Trafficked Victims</title>
       <link>https://www.infosecurity-magazine.com/news/scam-centers-global-footprint/</link>
       <pubDate>Tue, 01 Jul 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update</title>
-      <link>https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html</link>
-      <pubDate>Tue, 01 Jul 2025 08:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US DoJ and Microsoft Target North Korean IT Workers</title>
-      <link>https://www.infosecurity-magazine.com/news/us-doj-microsoft-target-north/</link>
-      <pubDate>Tue, 01 Jul 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms</title>
-      <link>https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html</link>
-      <pubDate>Tue, 01 Jul 2025 07:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and U.S. Agencies warn of ongoing Iranian cyber threats to critical infrastructure</title>
-      <link>https://securityaffairs.com/179484/cyber-warfare-2/cisa-and-u-s-agencies-warn-of-ongoing-iranian-cyber-threats-to-critical-infrastructure.html</link>
-      <pubDate>Tue, 01 Jul 2025 07:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prescription for Protection: Healthcare Industry Observations from CrowdStrike Investigations</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-services-healthcare-industry-observations/</link>
-      <pubDate>Tue, 01 Jul 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Removes Password Management from Authenticator App Starting August 2025</title>
-      <link>https://thehackernews.com/2025/07/microsoft-removes-password-management.html</link>
-      <pubDate>Tue, 01 Jul 2025 04:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jasper Sleet: North Korean remote IT workers’ evolving tactics to infiltrate organizations</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/06/30/jasper-sleet-north-korean-remote-it-workers-evolving-tactics-to-infiltrate-organizations/</link>
-      <pubDate>Mon, 30 Jun 2025 19:17:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
