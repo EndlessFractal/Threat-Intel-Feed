@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 01:53:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 03:20:26 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 02 Jul 2025 01:00:04 +0000</pubDate>
+      <pubDate>Wed, 02 Jul 2025 02:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malvertising and TDS Cloaking Tactics Uncovered</title>
+      <link>https://www.darknet.org.uk/2025/07/malvertising-and-tds-cloaking-tactics-uncovered/</link>
+      <pubDate>Wed, 02 Jul 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apple’s Surprising AI Strategy for Siri Reportedly Includes OpenAI or Anthropic</title>
@@ -233,6 +238,11 @@
       <pubDate>Tue, 01 Jul 2025 07:15:52 +0000</pubDate>
     </item>
     <item>
+      <title>Prescription for Protection: Healthcare Industry Observations from CrowdStrike Investigations</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-services-healthcare-industry-observations/</link>
+      <pubDate>Tue, 01 Jul 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Microsoft Removes Password Management from Authenticator App Starting August 2025</title>
       <link>https://thehackernews.com/2025/07/microsoft-removes-password-management.html</link>
       <pubDate>Tue, 01 Jul 2025 04:21:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Canada bans Hikvision over national security concerns</title>
       <link>https://securityaffairs.com/179470/laws-and-regulations/canada-bans-hikvision-over-national-security-concerns.html</link>
       <pubDate>Mon, 30 Jun 2025 12:59:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and Partners Urge Critical Infrastructure to Stay Vigilant in the Current Geopolitical Environment</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/30/cisa-and-partners-urge-critical-infrastructure-stay-vigilant-current-geopolitical-environment</link>
-      <pubDate>Mon, 30 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/30/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Mon, 30 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
