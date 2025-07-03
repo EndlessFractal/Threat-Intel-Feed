@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Jul 2025 14:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 16:28:30 +0000</lastBuildDate>
+    <item>
+      <title>Big Tech’s Mixed Response to U.S. Treasury Sanctions</title>
+      <link>https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/</link>
+      <pubDate>Thu, 03 Jul 2025 16:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams</title>
+      <link>https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html</link>
+      <pubDate>Thu, 03 Jul 2025 16:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 03 Jul 2025 15:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two new pro-Russian hacktivist groups target Ukraine, recruit insiders</title>
+      <link>https://therecord.media/twonet-it-army-of-russia-new-hacktivist-groups-target-ukraine</link>
+      <pubDate>Thu, 03 Jul 2025 15:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privilege Escalation Flaw Found in Azure Machine Learning Service</title>
+      <link>https://www.infosecurity-magazine.com/news/privilege-escalation-flaw-azure-ml/</link>
+      <pubDate>Thu, 03 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interpol identifies West Africa as potential new hotspot for cybercrime compounds</title>
+      <link>https://therecord.media/interpol-west-africa-cybercrime-compounds</link>
+      <pubDate>Thu, 03 Jul 2025 14:51:12 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft shuts down 3,000 email accounts created by North Korean IT workers</title>
       <link>https://therecord.media/microsoft-shuts-down-3000-north-korea-it-worker-email</link>
@@ -21,11 +51,6 @@
       <title>Russia jails man for 16 years over pro-Ukraine cyberattacks on critical infrastructure</title>
       <link>https://therecord.media/russia-jails-man-over-pro-ukraine-cyberattacks</link>
       <pubDate>Thu, 03 Jul 2025 13:37:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 03 Jul 2025 13:15:04 +0000</pubDate>
     </item>
     <item>
       <title>RondoDox Unveiled: Breaking Down a New Botnet Threat</title>
@@ -50,6 +75,31 @@
     <item>
       <title>Automation and Vulnerability Exploitation Drive Mass Ransomware Breaches</title>
       <link>https://www.infosecurity-magazine.com/news/automation-vulnerability/</link>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Relion 670/650 and SAM600-IO Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-01</link>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy MicroSCADA X SYS600</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-02</link>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric MELSOFT Update Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-03</link>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric MELSEC iQ-F Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-04</link>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Four Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/03/cisa-releases-four-industrial-control-systems-advisories</link>
       <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -138,19 +188,9 @@
       <pubDate>Wed, 02 Jul 2025 22:24:42 +0000</pubDate>
     </item>
     <item>
-      <title>California jury orders Google to pay $314 million over data transfers from Android phones</title>
-      <link>https://therecord.media/google-lawsuit-data-collection-android-cellular</link>
-      <pubDate>Wed, 02 Jul 2025 19:56:24 +0000</pubDate>
-    </item>
-    <item>
       <title>Cisco removed the backdoor account from its Unified Communications Manager</title>
       <link>https://securityaffairs.com/179577/security/cisco-removed-the-backdoor-account-from-its-unified-communications-manager.html</link>
       <pubDate>Wed, 02 Jul 2025 19:13:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-linked hackers spoof big-name brand websites to steal shoppers' payment info</title>
-      <link>https://therecord.media/china-linked-hackers-website-phishing</link>
-      <pubDate>Wed, 02 Jul 2025 18:37:27 +0000</pubDate>
     </item>
     <item>
       <title>North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign</title>
@@ -266,46 +306,6 @@
       <title>Weekly Update 458</title>
       <link>https://www.troyhunt.com/weekly-update-458/</link>
       <pubDate>Wed, 02 Jul 2025 08:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds TeleMessage TM SGNL flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/179542/hacking/u-s-cisa-adds-telemessage-tm-sgnl-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 02 Jul 2025 07:37:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 6 Passwordless Authentication Solutions</title>
-      <link>https://www.techrepublic.com/article/passwordless-authentication-solutions/</link>
-      <pubDate>Wed, 02 Jul 2025 07:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale</title>
-      <link>https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html</link>
-      <pubDate>Wed, 02 Jul 2025 05:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Services Observes SCATTERED SPIDER Escalate Attacks Across Industries</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-services-observes-scattered-spider-escalate-attacks/</link>
-      <pubDate>Wed, 02 Jul 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malvertising and TDS Cloaking Tactics Uncovered</title>
-      <link>https://www.darknet.org.uk/2025/07/malvertising-and-tds-cloaking-tactics-uncovered/</link>
-      <pubDate>Wed, 02 Jul 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple’s Surprising AI Strategy for Siri Reportedly Includes OpenAI or Anthropic</title>
-      <link>https://www.techrepublic.com/article/news-apple-siri-ai-openai-anthropic/</link>
-      <pubDate>Tue, 01 Jul 2025 23:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Confirms Some iOS 26 Features Will Not Launch in the EU</title>
-      <link>https://www.techrepublic.com/article/news-apple-delays-ios-26-features-eu/</link>
-      <pubDate>Tue, 01 Jul 2025 23:31:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>A sophisticated cyberattack hit the International Criminal Court</title>
-      <link>https://securityaffairs.com/179532/hacking/a-sophisticated-cyberattack-hit-the-international-criminal-court.html</link>
-      <pubDate>Tue, 01 Jul 2025 19:37:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
