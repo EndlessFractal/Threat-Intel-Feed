@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 18:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 20:23:51 +0000</lastBuildDate>
+    <item>
+      <title>Critical Sudo bugs expose major Linux distros to local Root exploits</title>
+      <link>https://securityaffairs.com/179637/security/critical-sudo-bugs-expose-major-linux-distros-to-local-root-exploits.html</link>
+      <pubDate>Fri, 04 Jul 2025 20:04:17 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 04 Jul 2025 17:30:04 +0000</pubDate>
+      <pubDate>Fri, 04 Jul 2025 18:35:04 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 27</title>
@@ -301,11 +306,6 @@
       <title>Google Releases Emergency Fix For Chrome Zero-Day Flaw – Users Should Update Now</title>
       <link>https://www.techrepublic.com/article/news-google-chrome-emergency-update-zero-day-flaw/</link>
       <pubDate>Wed, 02 Jul 2025 22:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco removed the backdoor account from its Unified Communications Manager</title>
-      <link>https://securityaffairs.com/179577/security/cisco-removed-the-backdoor-account-from-its-unified-communications-manager.html</link>
-      <pubDate>Wed, 02 Jul 2025 19:13:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
