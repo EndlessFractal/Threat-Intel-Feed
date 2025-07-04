@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 20:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 22:21:20 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 04 Jul 2025 21:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: How Squid Skin Distorts Light</title>
+      <link>https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-how-squid-skin-distorts-light.html</link>
+      <pubDate>Fri, 04 Jul 2025 21:01:56 +0000</pubDate>
+    </item>
     <item>
       <title>Critical Sudo bugs expose major Linux distros to local Root exploits</title>
       <link>https://securityaffairs.com/179637/security/critical-sudo-bugs-expose-major-linux-distros-to-local-root-exploits.html</link>
       <pubDate>Fri, 04 Jul 2025 20:04:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 04 Jul 2025 18:35:04 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 27</title>
@@ -301,11 +306,6 @@
       <title>Smashing Security podcast #424: Surveillance, spyware, and self-driving snafus</title>
       <link>https://grahamcluley.com/smashing-security-podcast-424/</link>
       <pubDate>Wed, 02 Jul 2025 23:03:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Releases Emergency Fix For Chrome Zero-Day Flaw – Users Should Update Now</title>
-      <link>https://www.techrepublic.com/article/news-google-chrome-emergency-update-zero-day-flaw/</link>
-      <pubDate>Wed, 02 Jul 2025 22:24:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
