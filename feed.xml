@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 12:46:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 14:21:22 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 04 Jul 2025 13:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-5777 Detection: A New Critical Vulnerability Dubbed “CitrixBleed 2” in NetScaler ADC Faces Exploitation Risk</title>
+      <link>https://socprime.com/blog/detect-cve-2025-5777-exploitation/</link>
+      <pubDate>Fri, 04 Jul 2025 13:12:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors</title>
+      <link>https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html</link>
+      <pubDate>Fri, 04 Jul 2025 12:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google fined $314M for misusing idle Android users’ data</title>
+      <link>https://securityaffairs.com/179628/laws-and-regulations/google-fined-314m-for-misusing-idle-android-users-data.html</link>
+      <pubDate>Fri, 04 Jul 2025 12:22:25 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware: Hunters International Is Not Shutting Down, It's Rebranding</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-hunters-international/</link>
       <pubDate>Fri, 04 Jul 2025 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 04 Jul 2025 10:30:04 +0000</pubDate>
     </item>
     <item>
       <title>Taiwan Flags Chinese Apps Over Data Security Violations</title>
@@ -291,21 +306,6 @@
       <title>Swiss government warns attackers have stolen sensitive data, after ransomware attack at Radix</title>
       <link>https://www.fortra.com/blog/government-attackers-stolen-sensitive-data-ransomware-attack</link>
       <pubDate>Wed, 02 Jul 2025 15:31:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Models Mislead Users on Login URLs</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-models-mislead-users-login-urls/</link>
-      <pubDate>Wed, 02 Jul 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expect the Unexpected</title>
-      <link>https://www.security.com/feature-stories/expect-unexpected</link>
-      <pubDate>Wed, 02 Jul 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web  Issues Week 1, July 2025</title>
-      <link>https://asec.ahnlab.com/en/88778/</link>
-      <pubDate>Wed, 02 Jul 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
