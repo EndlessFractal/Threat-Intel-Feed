@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 16:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 18:29:20 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 06 Jul 2025 15:00:04 +0000</pubDate>
+      <pubDate>Sun, 06 Jul 2025 17:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>A few interesting and notable ssh/telnet usernames, (Sun, Jul 6th)</title>
+      <link>https://isc.sans.edu/diary/rss/32080</link>
+      <pubDate>Sun, 06 Jul 2025 15:29:31 +0000</pubDate>
     </item>
     <item>
       <title>Hunters International ransomware gang shuts down and offers free decryption keys to all victims</title>
@@ -301,11 +306,6 @@
       <title>Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms</title>
       <link>https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html</link>
       <pubDate>Thu, 03 Jul 2025 09:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Users Urged to Patch Critical Sudo CVE</title>
-      <link>https://www.infosecurity-magazine.com/news/linux-users-urged-to-patch/</link>
-      <pubDate>Thu, 03 Jul 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
