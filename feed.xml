@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 04:36:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 06:35:19 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 07 Jul 2025 03:10:04 +0000</pubDate>
+      <pubDate>Mon, 07 Jul 2025 05:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors</title>
+      <link>https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html</link>
+      <pubDate>Mon, 07 Jul 2025 04:51:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Monday, July 7th, 2025 https://isc.sans.edu/podcastdetail/9514, (Mon, Jul 7th)</title>
@@ -301,11 +306,6 @@
       <title>Apache Under the Lens: Tomcat’s Partial PUT and Camel’s Header Hijack</title>
       <link>https://unit42.paloaltonetworks.com/apache-cve-2025-24813-cve-2025-27636-cve-2025-29891/</link>
       <pubDate>Thu, 03 Jul 2025 10:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol shuts down Archetyp Market, longest-running dark web drug marketplace</title>
-      <link>https://securityaffairs.com/179591/cyber-crime/europol-shuts-down-archetyp-market-longest-running-dark-web-drug-marketplace.html</link>
-      <pubDate>Thu, 03 Jul 2025 09:53:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
