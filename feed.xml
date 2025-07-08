@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 08:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 10:24:40 +0000</lastBuildDate>
+    <item>
+      <title>GoldMelody’s Hidden Chords: Initial Access Broker In-Memory IIS Modules Revealed</title>
+      <link>https://unit42.paloaltonetworks.com/initial-access-broker-exploits-leaked-machine-keys/</link>
+      <pubDate>Tue, 08 Jul 2025 10:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Approach to mainframe penetration testing on z/OS. Deep dive into RACF</title>
+      <link>https://securelist.com/zos-mainframe-pentesting-resource-access-control-facility/116873/</link>
+      <pubDate>Tue, 08 Jul 2025 10:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Open Source Packages Surge 188% Annually</title>
+      <link>https://www.infosecurity-magazine.com/news/malicious-open-source-surge-188/</link>
+      <pubDate>Tue, 08 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware negotiator investigated over criminal gang kickbacks</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/07/ransomware-negotiator-investigated-over-criminal-gang-kickbacks</link>
+      <pubDate>Tue, 08 Jul 2025 09:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Red Team Tool Developer Shellter Admits ‘Misuse’ by Adversaries</title>
+      <link>https://www.infosecurity-magazine.com/news/red-team-tool-dev-shellter-misuse/</link>
+      <pubDate>Tue, 08 Jul 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Video Surveillance Vendor Hikvision to Fight Canadian Ban</title>
+      <link>https://www.infosecurity-magazine.com/news/china-hikvision-fight-canadian-ban/</link>
+      <pubDate>Tue, 08 Jul 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms</title>
+      <link>https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html</link>
+      <pubDate>Tue, 08 Jul 2025 08:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 08 Jul 2025 08:20:04 +0000</pubDate>
+    </item>
     <item>
       <title>New Bert Ransomware Group Strikes Globally with Multiple Variants</title>
       <link>https://www.infosecurity-magazine.com/news/bert-ransomware-globally-multiple/</link>
@@ -21,11 +61,6 @@
       <title>IT Worker arrested for selling access in $100M PIX cyber heist</title>
       <link>https://securityaffairs.com/179706/cyber-crime/it-worker-arrested-for-selling-access-in-100m-pix-cyber-heist.html</link>
       <pubDate>Tue, 08 Jul 2025 07:32:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 08 Jul 2025 07:20:04 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation</title>
@@ -213,6 +248,11 @@
       <pubDate>Mon, 07 Jul 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Caracal – Rust eBPF Rootkit for Stealthy Post-Exploitation</title>
+      <link>https://www.darknet.org.uk/2025/07/caracal-rust-ebpf-rootkit-for-stealthy-post-exploitation/</link>
+      <pubDate>Mon, 07 Jul 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A few interesting and notable ssh/telnet usernames, (Sun, Jul 6th)</title>
       <link>https://isc.sans.edu/diary/rss/32080</link>
       <pubDate>Sun, 06 Jul 2025 15:29:31 +0000</pubDate>
@@ -266,46 +306,6 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 27</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-27-6/</link>
       <pubDate>Fri, 04 Jul 2025 16:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Technical difficulties or cyber attack? Ingram Micro’s website goes down just in time for the holiday weekend</title>
-      <link>https://grahamcluley.com/technical-difficulties-or-cyber-attack-ingram-micros-website-goes-down-just-in-time-for-the-holiday-weekend/</link>
-      <pubDate>Fri, 04 Jul 2025 15:43:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Catwatchful stalkerware app spills secrets of 62,000 users – including its own admin</title>
-      <link>https://grahamcluley.com/catwatchful-stalkerware-app-spills-secrets-of-62000-users-including-its-own-admin/</link>
-      <pubDate>Fri, 04 Jul 2025 15:37:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-5777 Detection: A New Critical Vulnerability Dubbed “CitrixBleed 2” in NetScaler ADC Faces Exploitation Risk</title>
-      <link>https://socprime.com/blog/detect-cve-2025-5777-exploitation/</link>
-      <pubDate>Fri, 04 Jul 2025 13:12:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors</title>
-      <link>https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html</link>
-      <pubDate>Fri, 04 Jul 2025 12:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google fined $314M for misusing idle Android users’ data</title>
-      <link>https://securityaffairs.com/179628/laws-and-regulations/google-fined-314m-for-misusing-idle-android-users-data.html</link>
-      <pubDate>Fri, 04 Jul 2025 12:22:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware: Hunters International Is Not Shutting Down, It's Rebranding</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-hunters-international/</link>
-      <pubDate>Fri, 04 Jul 2025 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan Flags Chinese Apps Over Data Security Violations</title>
-      <link>https://www.infosecurity-magazine.com/news/taiwan-chinese-apps-data-security/</link>
-      <pubDate>Fri, 04 Jul 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hunters International ransomware group shuts down – but will it regroup under a new guise?</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/hunters-international-ransomware-group-shuts-down-but-will-it-regroup-under-a-new-guise</link>
-      <pubDate>Fri, 04 Jul 2025 10:27:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
