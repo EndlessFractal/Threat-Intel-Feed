@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 18:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 20:25:34 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 09 Jul 2025 18:45:03 +0000</pubDate>
+    </item>
     <item>
       <title>Driver's license numbers, addresses leaked in 2024 bitcoin ATM company breach</title>
       <link>https://therecord.media/bitcoin-depot-cryptocurrency-atm-company-data-breach</link>
@@ -23,9 +28,9 @@
       <pubDate>Wed, 09 Jul 2025 17:23:11 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 09 Jul 2025 16:40:03 +0000</pubDate>
+      <title>Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets</title>
+      <link>https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html</link>
+      <pubDate>Wed, 09 Jul 2025 16:26:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft expands Zero Trust workshop to cover network, SecOps, and more</title>
@@ -301,11 +306,6 @@
       <title>CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation</title>
       <link>https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html</link>
       <pubDate>Tue, 08 Jul 2025 05:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2025 Patch Tuesday: One Publicly Disclosed Zero-Day and 14 Critical Vulnerabilities Among 137 CVEs</title>
-      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2025/</link>
-      <pubDate>Tue, 08 Jul 2025 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
