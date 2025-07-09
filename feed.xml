@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 01:55:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 03:24:07 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -193,6 +193,11 @@
       <pubDate>Tue, 08 Jul 2025 05:08:00 +0000</pubDate>
     </item>
     <item>
+      <title>July 2025 Patch Tuesday: One Publicly Disclosed Zero-Day and 14 Critical Vulnerabilities Among 137 CVEs</title>
+      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2025/</link>
+      <pubDate>Tue, 08 Jul 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Tuesday, July 8th, 2025 https://isc.sans.edu/podcastdetail/9516, (Tue, Jul 8th)</title>
       <link>https://isc.sans.edu/diary/rss/32086</link>
       <pubDate>Tue, 08 Jul 2025 02:20:02 +0000</pubDate>
@@ -240,6 +245,16 @@
     <item>
       <title>In SE Labs Awards 2025, Our Endpoint and EDR Solutions Take Top Honors</title>
       <link>https://www.security.com/feature-stories/se-labs-awards-2025</link>
+      <pubDate>Mon, 07 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2025 Financial Security Issues</title>
+      <link>https://asec.ahnlab.com/en/88936/</link>
+      <pubDate>Mon, 07 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2025 Trend Report on the Deep Web &amp; Dark Web</title>
+      <link>https://asec.ahnlab.com/en/88933/</link>
       <pubDate>Mon, 07 Jul 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>Hackers Target Employee Credentials Amid Spike in ID Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-target-employee-credentials/</link>
       <pubDate>Mon, 07 Jul 2025 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gamers hacked playing Call of Duty: WWII—PC version temporarily taken offline</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/gamers-hacked-playing-call-of-duty-wwii-pc-version-temporarily-taken-offline</link>
-      <pubDate>Mon, 07 Jul 2025 11:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manufacturing Security: Why Default Passwords Must Go</title>
-      <link>https://thehackernews.com/2025/07/manufacturing-security-why-default.html</link>
-      <pubDate>Mon, 07 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Batavia spyware steals data from Russian organizations</title>
-      <link>https://securelist.com/batavia-spyware-steals-data-from-russian-organizations/116866/</link>
-      <pubDate>Mon, 07 Jul 2025 10:00:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
