@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 20:25:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 22:22:49 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 10 Jul 2025 19:25:04 +0000</pubDate>
+      <pubDate>Thu, 10 Jul 2025 21:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>SSH Tunneling in Action: direct-tcp requests [Guest Diary], (Wed, Jul 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/32094</link>
+      <pubDate>Thu, 10 Jul 2025 21:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK NCA arrested four people over M&amp;S, Co-op cyberattacks</title>
+      <link>https://securityaffairs.com/179806/cyber-crime/uk-nca-arrested-four-people-over-ms-co-op-cyberattacks.html</link>
+      <pubDate>Thu, 10 Jul 2025 21:13:17 +0000</pubDate>
     </item>
     <item>
       <title>Former Mexican president investigated over allegedly taking bribes from spyware industry</title>
@@ -28,7 +38,7 @@
       <pubDate>Thu, 10 Jul 2025 18:00:09 +0000</pubDate>
     </item>
     <item>
-      <title>UK Charges Four in ‘Scattered Spider’ Ransom Group</title>
+      <title>UK Arrests Four in ‘Scattered Spider’ Ransom Group</title>
       <link>https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/</link>
       <pubDate>Thu, 10 Jul 2025 17:31:10 +0000</pubDate>
     </item>
@@ -273,11 +283,6 @@
       <pubDate>Thu, 10 Jul 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>SSH Tunneling in Action: direct-tcp requests [Guest Diary], (Wed, Jul 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32094</link>
-      <pubDate>Thu, 10 Jul 2025 00:55:29 +0000</pubDate>
-    </item>
-    <item>
       <title>DoNot APT is expanding scope targeting European foreign ministries</title>
       <link>https://securityaffairs.com/179774/apt/donot-apt-is-expanding-scope-targeting-european-foreign-ministries.html</link>
       <pubDate>Thu, 10 Jul 2025 00:39:33 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Nippon Steel Solutions suffered a data breach following a zero-day attack</title>
       <link>https://securityaffairs.com/179766/data-breach/nippon-steel-solutions-data-breach.html</link>
       <pubDate>Wed, 09 Jul 2025 18:06:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets</title>
-      <link>https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html</link>
-      <pubDate>Wed, 09 Jul 2025 16:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
