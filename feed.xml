@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 04:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 06:34:27 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 11 Jul 2025 03:10:04 +0000</pubDate>
+      <pubDate>Fri, 11 Jul 2025 05:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises</title>
+      <link>https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html</link>
+      <pubDate>Fri, 11 Jul 2025 04:25:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, July 11th, 2025 https://isc.sans.edu/podcastdetail/9522, (Fri, Jul 11th)</title>
       <link>https://isc.sans.edu/diary/rss/32098</link>
       <pubDate>Fri, 11 Jul 2025 02:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Force Push Scanner – Hunt GitHub Dangling Commits for Leaked Secrets</title>
+      <link>https://www.darknet.org.uk/2025/07/force-push-scanner-hunt-github-dangling-commits-for-leaked-secrets/</link>
+      <pubDate>Fri, 11 Jul 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SSH Tunneling in Action: direct-tcp requests [Guest Diary], (Wed, Jul 9th)</title>
@@ -296,16 +306,6 @@
       <title>DoNot APT is expanding scope targeting European foreign ministries</title>
       <link>https://securityaffairs.com/179774/apt/donot-apt-is-expanding-scope-targeting-european-foreign-ministries.html</link>
       <pubDate>Thu, 10 Jul 2025 00:39:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Violent Extremists Likely Shifting Focus to Targeted Physical Threats in 2025</title>
-      <link>https://www.recordedfuture.com/research/us-violent-extremists-shifting-focus-targeted-physical-threats-2025</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #425: Call of Duty: From pew-pew to pwned</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-425/</link>
-      <pubDate>Wed, 09 Jul 2025 23:00:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
