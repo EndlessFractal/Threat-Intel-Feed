@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 22:22:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 01:58:34 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 11 Jul 2025 23:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Athlete or Hacker? Russian basketball player accused in U.S. ransomware case</title>
+      <link>https://securityaffairs.com/179831/uncategorized/athlete-or-hacker-russian-basketball-player-accused-in-u-s-ransomware-case.html</link>
+      <pubDate>Fri, 11 Jul 2025 23:11:43 +0000</pubDate>
+    </item>
     <item>
       <title>Albemarle latest Virginia county hit with ransomware</title>
       <link>https://therecord.media/albemarle-virginia-ransomware-attack</link>
       <pubDate>Fri, 11 Jul 2025 21:54:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 11 Jul 2025 21:40:03 +0000</pubDate>
     </item>
     <item>
       <title>Squid Dominated the Oceans in the Late Cretaceous</title>
@@ -300,11 +305,6 @@
     <item>
       <title>KUNBUS RevPi Webstatus</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-09</link>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>End-of-Train and Head-of-Train Remote Linking Protocol</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-10</link>
       <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
