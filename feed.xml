@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Jul 2025 16:26:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 18:30:09 +0000</lastBuildDate>
+    <item>
+      <title>Patch immediately: CVE-2025-25257 PoC enables remote code execution on Fortinet FortiWeb</title>
+      <link>https://securityaffairs.com/179874/security/patch-immediately-cve-2025-25257-poc-enables-remote-code-execution-on-fortinet-fortiweb.html</link>
+      <pubDate>Sun, 13 Jul 2025 18:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sun, 13 Jul 2025 17:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>Wing FTP Server flaw actively exploited shortly after technical details were made public</title>
       <link>https://securityaffairs.com/179861/hacking/wing-ftp-server-flaw-actively-exploited-shortly-after-technical-details-were-made-public.html</link>
@@ -16,11 +26,6 @@
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 53</title>
       <link>https://securityaffairs.com/179854/breaking-news/security-affairs-malware-newsletter-round-52-2.html</link>
       <pubDate>Sun, 13 Jul 2025 13:53:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 13 Jul 2025 13:00:04 +0000</pubDate>
     </item>
     <item>
       <title>Security Affairs newsletter Round 532 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
@@ -301,11 +306,6 @@
       <title>Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods</title>
       <link>https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html</link>
       <pubDate>Thu, 10 Jul 2025 12:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINEC NMS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-01</link>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
