@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Jul 2025 22:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 02:02:34 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 13 Jul 2025 21:00:04 +0000</pubDate>
+      <pubDate>Mon, 14 Jul 2025 01:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experimental Suspicious Domain Feed, (Sun, Jul 13th)</title>
+      <link>https://isc.sans.edu/diary/rss/32102</link>
+      <pubDate>Sun, 13 Jul 2025 23:33:36 +0000</pubDate>
     </item>
     <item>
       <title>Patch immediately: CVE-2025-25257 PoC enables remote code execution on Fortinet FortiWeb</title>
@@ -301,11 +306,6 @@
       <title>CVE-2025-47981: Critical Heap-Based Buffer Overflow Vulnerability in Windows SPNEGO Extended Negotiation Leads to RCE</title>
       <link>https://socprime.com/blog/latest-threats/cve-2025-47981-windows-vulnerability/</link>
       <pubDate>Thu, 10 Jul 2025 12:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods</title>
-      <link>https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html</link>
-      <pubDate>Thu, 10 Jul 2025 12:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
