@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 06:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 08:32:10 +0000</lastBuildDate>
+    <item>
+      <title>Google AI "Big Sleep" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act</title>
+      <link>https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html</link>
+      <pubDate>Wed, 16 Jul 2025 07:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 16 Jul 2025 05:30:03 +0000</pubDate>
+      <pubDate>Wed, 16 Jul 2025 06:30:04 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, July 16th, 2025 https://isc.sans.edu/podcastdetail/9528, (Wed, Jul 16th)</title>
       <link>https://isc.sans.edu/diary/rss/32110</link>
       <pubDate>Wed, 16 Jul 2025 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defending Against Malicious Botnets in 2025 Automated Traffic Threats and Mitigation</title>
+      <link>https://www.darknet.org.uk/2025/07/defending-against-malicious-botnets-in-2025-automated-traffic-threats-and-mitigation/</link>
+      <pubDate>Wed, 16 Jul 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds Wing FTP Server flaw to its Known Exploited Vulnerabilities catalog</title>
@@ -296,16 +306,6 @@
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/07/14/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Mon, 14 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-25257 Vulnerability: Critical SQL Injection in Fortinet FortiWeb Enables Unauthenticated Remote Code Execution</title>
-      <link>https://socprime.com/blog/cve-2025-25257-sql-injection-vulnerability/</link>
-      <pubDate>Mon, 14 Jul 2025 11:22:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts uncover critical flaws in Kigen eSIM technology affecting billions</title>
-      <link>https://securityaffairs.com/179894/security/experts-uncover-critical-flaws-in-kigen-esim-technology-affecting-billions.html</link>
-      <pubDate>Mon, 14 Jul 2025 11:09:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
