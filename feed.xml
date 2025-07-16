@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 16:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 18:34:10 +0000</lastBuildDate>
+    <item>
+      <title>Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms</title>
+      <link>https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html</link>
+      <pubDate>Wed, 16 Jul 2025 17:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>International operation disrupts pro-Russian hacker group NoName057(16)</title>
+      <link>https://therecord.media/international-police-takedown-noname-hacker</link>
+      <pubDate>Wed, 16 Jul 2025 17:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft is named a Leader in the 2025 Gartner® Magic Quadrant™ for Endpoint Protection Platforms</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/07/16/microsoft-is-named-a-leader-in-the-2025-gartner-magic-quadrant-for-endpoint-protection-platforms/</link>
+      <pubDate>Wed, 16 Jul 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking Trains</title>
+      <link>https://www.schneier.com/blog/archives/2025/07/hacking-trains.html</link>
+      <pubDate>Wed, 16 Jul 2025 16:57:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amid border dispute, Thailand goes after Cambodian tycoon over alleged cyber scam ties</title>
+      <link>https://therecord.media/thailand-goes-after-cambodian-tycoon-cyber-scams</link>
+      <pubDate>Wed, 16 Jul 2025 16:45:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 16 Jul 2025 16:35:03 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft’s July Patch Might Be to Blame If Azure VM Isn’t Loading</title>
       <link>https://www.techrepublic.com/article/news-microsoft-security-update-azure-virtual-machine-bug/</link>
       <pubDate>Wed, 16 Jul 2025 16:25:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protecting customers from Octo Tempest attacks across multiple industries</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/07/16/protecting-customers-from-octo-tempest-attacks-across-multiple-industries/</link>
+      <pubDate>Wed, 16 Jul 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SquidLoader Malware Campaign Targets Hong Kong Financial Sector</title>
@@ -43,14 +78,14 @@
       <pubDate>Wed, 16 Jul 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 16 Jul 2025 14:35:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Police dismantle DiskStation ransomware gang targeting NAS devices, arrest suspected ringleader</title>
       <link>https://www.fortra.com/blog/police-dismantle-diskstation-ransomware-gang</link>
       <pubDate>Wed, 16 Jul 2025 14:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2025</title>
+      <link>https://www.techrepublic.com/article/top-tech-conferences-events/</link>
+      <pubDate>Wed, 16 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit</title>
@@ -88,19 +123,9 @@
       <pubDate>Wed, 16 Jul 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ukraine-aligned hackers claim cyberattack on major Russian drone supplier</title>
-      <link>https://therecord.media/ukraine-hackers-claim-attack-russia-gaskar-group-drone-maker</link>
-      <pubDate>Wed, 16 Jul 2025 12:40:08 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2025-6558 Vulnerability: Google Chrome Zero-Day Under Active Exploitation</title>
       <link>https://socprime.com/blog/cve-2025-6558-google-chrome-vulnerability/</link>
       <pubDate>Wed, 16 Jul 2025 12:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>21-year-old former US soldier pleads guilty to hacking, extorting telecoms</title>
-      <link>https://therecord.media/cameron-john-wagenius-former-us-soldier-guilty-plea-hacking</link>
-      <pubDate>Wed, 16 Jul 2025 11:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access</title>
@@ -281,31 +306,6 @@
       <title>CISA Releases Six Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/07/15/cisa-releases-six-industrial-control-systems-advisories</link>
       <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Actors Expand Contagious Interview Campaign with New Malware Loader</title>
-      <link>https://www.infosecurity-magazine.com/news/north-korean-contagious-interview/</link>
-      <pubDate>Tue, 15 Jul 2025 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments</title>
-      <link>https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html</link>
-      <pubDate>Tue, 15 Jul 2025 11:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing Agentic AI: How to Protect the Invisible Identity Access</title>
-      <link>https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html</link>
-      <pubDate>Tue, 15 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AsyncRAT's Open-Source Code Sparks Surge in Dangerous Malware Variants Across the Globe</title>
-      <link>https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html</link>
-      <pubDate>Tue, 15 Jul 2025 10:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea-linked actors spread XORIndex malware via 67 malicious npm packages</title>
-      <link>https://securityaffairs.com/179950/hacking/north-korea-linked-actors-spread-xorindex-malware-via-67-malicious-npm-packages.html</link>
-      <pubDate>Tue, 15 Jul 2025 09:48:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
