@@ -6,16 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 08:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 10:26:49 +0000</lastBuildDate>
     <item>
-      <title>Google AI "Big Sleep" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act</title>
-      <link>https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html</link>
-      <pubDate>Wed, 16 Jul 2025 07:44:00 +0000</pubDate>
+      <title>CVE-2025-6554 marks the fifth actively exploited Chrome Zero-Day patched by Google in 2025</title>
+      <link>https://securityaffairs.com/180001/hacking/cve-2025-6554-marks-the-fifth-actively-exploited-chrome-zero-day-patched-by-google-in-2025.html</link>
+      <pubDate>Wed, 16 Jul 2025 10:11:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Talos IR ransomware engagements and the significance of timeliness in incident response</title>
+      <link>https://blog.talosintelligence.com/talos-ir-ransomware-engagements-and-the-significance-of-timeliness-in-incident-response/</link>
+      <pubDate>Wed, 16 Jul 2025 10:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Blocks Record-Breaking 7.3 Tbps DDoS Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/cloudflare-blocks-record-ddos/</link>
+      <pubDate>Wed, 16 Jul 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 16 Jul 2025 06:30:04 +0000</pubDate>
+      <pubDate>Wed, 16 Jul 2025 09:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Education Sector is Most Exposed to Remote Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/education-sector-most-exposed-to/</link>
+      <pubDate>Wed, 16 Jul 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code</title>
+      <link>https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html</link>
+      <pubDate>Wed, 16 Jul 2025 09:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Urgent: Google Releases Critical Chrome Update for CVE-2025-6558 Exploit Active in the Wild</title>
+      <link>https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html</link>
+      <pubDate>Wed, 16 Jul 2025 09:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepfakes. Fake Recruiters. Cloned CFOs — Learn How to Stop AI-Driven Attacks in Real Time</title>
+      <link>https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html</link>
+      <pubDate>Wed, 16 Jul 2025 09:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co-op Aims to Divert More Young Hackers into Cyber Careers</title>
+      <link>https://www.infosecurity-magazine.com/news/coop-divert-young-hackers-cyber/</link>
+      <pubDate>Wed, 16 Jul 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DDoS peaks hit new highs: Cloudflare mitigated massive 7.3 Tbps assault</title>
+      <link>https://securityaffairs.com/179989/security/ddos-peaks-hit-new-highs-cloudflare-mitigated-massive-7-3-tbps-assault.html</link>
+      <pubDate>Wed, 16 Jul 2025 08:31:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google AI "Big Sleep" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act</title>
+      <link>https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html</link>
+      <pubDate>Wed, 16 Jul 2025 07:44:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, July 16th, 2025 https://isc.sans.edu/podcastdetail/9528, (Wed, Jul 16th)</title>
@@ -261,51 +306,6 @@
       <title>Is AI “healthy” to use? (Lock and Code S06E14)</title>
       <link>https://www.malwarebytes.com/blog/podcast/2025/07/is-ai-healthy-to-use-lock-and-code-s06e14</link>
       <pubDate>Mon, 14 Jul 2025 16:33:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improving IT efficiency with Microsoft Security Copilot in Microsoft Intune and Microsoft Entra</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/07/14/improving-it-efficiency-with-microsoft-security-copilot-in-microsoft-intune-and-microsoft-entra/</link>
-      <pubDate>Mon, 14 Jul 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok-4 Jailbroken Two Days After Release Using Combined Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/grok-4-jailbroken-two-days-release/</link>
-      <pubDate>Mon, 14 Jul 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IoT Devices at Risk Due to eSIM Flaw in Kigen eUICC Cards</title>
-      <link>https://www.infosecurity-magazine.com/news/iot-risk-esim-flaw-kigens-euicc/</link>
-      <pubDate>Mon, 14 Jul 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake News Sites Mimicking CNN, BBC and CNBC Pave Way for Investment Scams</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-news-sites-investment-scams/</link>
-      <pubDate>Mon, 14 Jul 2025 14:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Urges Enterprises to Upgrade to Microsoft Windows 11 to Avoid Cyber Threats</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-urges-upgrade-microsoft/</link>
-      <pubDate>Mon, 14 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How FortiSandbox 5.0 Detects Dark 101 Ransomware Despite Evasion Techniques</title>
-      <link>https://feeds.fortinet.com/~/921639680/0/fortinet/blog/threat-research~How-FortiSandbox-Detects-Dark-Ransomware-Despite-Evasion-Techniques</link>
-      <pubDate>Mon, 14 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global Louis Vuitton data breach impacts UK, South Korea, and Turkey</title>
-      <link>https://securityaffairs.com/179908/data-breach/global-louis-vuitton-data-breach-impacts-uk-south-korea-and-turkey.html</link>
-      <pubDate>Mon, 14 Jul 2025 12:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More</title>
-      <link>https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html</link>
-      <pubDate>Mon, 14 Jul 2025 12:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/14/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Mon, 14 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
