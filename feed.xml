@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 14:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 16:31:17 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft’s July Patch Might Be to Blame If Azure VM Isn’t Loading</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-security-update-azure-virtual-machine-bug/</link>
+      <pubDate>Wed, 16 Jul 2025 16:25:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>SquidLoader Malware Campaign Targets Hong Kong Financial Sector</title>
+      <link>https://www.infosecurity-magazine.com/news/squidloader-malware-targets-hong/</link>
+      <pubDate>Wed, 16 Jul 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google spots tailored backdoor malware aimed at SonicWall appliances</title>
+      <link>https://therecord.media/sonicwall-sma-100-series-overstep-malware-unc6148</link>
+      <pubDate>Wed, 16 Jul 2025 15:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro-Russian Cybercrime Network Demolished in Operation Eastwood</title>
+      <link>https://www.infosecurity-magazine.com/news/prorussian-cybercrime-network/</link>
+      <pubDate>Wed, 16 Jul 2025 15:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italian police dismantle Romanian ransomware gang targeting nonprofits, film companies</title>
+      <link>https://therecord.media/italian-police-dismantle-romanian-ransomware-gang</link>
+      <pubDate>Wed, 16 Jul 2025 15:03:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 5.4 Million Affected in Healthcare Data Breach at Episource</title>
+      <link>https://www.infosecurity-magazine.com/news/54-million-affected-episource/</link>
+      <pubDate>Wed, 16 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How ZTNA and DLP Team Up to Prevent Breaches</title>
+      <link>https://www.security.com/product-insights/how-ztna-and-dlp-team-prevent-breaches</link>
+      <pubDate>Wed, 16 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 16 Jul 2025 14:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police dismantle DiskStation ransomware gang targeting NAS devices, arrest suspected ringleader</title>
+      <link>https://www.fortra.com/blog/police-dismantle-diskstation-ransomware-gang</link>
+      <pubDate>Wed, 16 Jul 2025 14:15:30 +0000</pubDate>
+    </item>
     <item>
       <title>UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit</title>
       <link>https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html</link>
@@ -21,11 +66,6 @@
       <title>Dating app scammer cons former US army colonel into leaking national secrets</title>
       <link>https://www.malwarebytes.com/blog/news/2025/07/dating-app-scammer-cons-former-us-army-colonel-into-leaking-national-secrets</link>
       <pubDate>Wed, 16 Jul 2025 13:39:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 16 Jul 2025 13:35:03 +0000</pubDate>
     </item>
     <item>
       <title>Salt Typhoon breach: Chinese APT compromises U.S. Army National Guard network</title>
@@ -163,11 +203,6 @@
       <pubDate>Tue, 15 Jul 2025 18:59:55 +0000</pubDate>
     </item>
     <item>
-      <title>Google says ‘Big Sleep’ AI tool found bug hackers planned to use</title>
-      <link>https://therecord.media/google-big-sleep-ai-tool-found-bug</link>
-      <pubDate>Tue, 15 Jul 2025 18:24:28 +0000</pubDate>
-    </item>
-    <item>
       <title>Sweet 16: Sophos named a Leader (again) in the 2025 Gartner® Magic Quadrant™ for Endpoint Protection Platforms</title>
       <link>https://news.sophos.com/en-us/2025/07/15/sweet-16-sophos-named-a-leader-again-in-the-2025-gartner-magic-quadrant-for-endpoint-protection-platforms/</link>
       <pubDate>Tue, 15 Jul 2025 18:15:59 +0000</pubDate>
@@ -176,11 +211,6 @@
       <title>Android Malware Konfety evolves with ZIP manipulation and dynamic loading</title>
       <link>https://securityaffairs.com/179969/malware/android-malware-konfety-evolves-with-zip-manipulation-and-dynamic-loading.html</link>
       <pubDate>Tue, 15 Jul 2025 17:14:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>NSA: Volt Typhoon was ‘not successful’ at persisting in critical infrastructure</title>
-      <link>https://therecord.media/china-typhoon-hackers-nsa-fbi-response</link>
-      <pubDate>Tue, 15 Jul 2025 17:10:18 +0000</pubDate>
     </item>
     <item>
       <title>Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors</title>
@@ -276,36 +306,6 @@
       <title>North Korea-linked actors spread XORIndex malware via 67 malicious npm packages</title>
       <link>https://securityaffairs.com/179950/hacking/north-korea-linked-actors-spread-xorindex-malware-via-67-malicious-npm-packages.html</link>
       <pubDate>Tue, 15 Jul 2025 09:48:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abacus Market Shutters After Exit Scam, Say Experts</title>
-      <link>https://www.infosecurity-magazine.com/news/abacus-market-shutters-exit-scam/</link>
-      <pubDate>Tue, 15 Jul 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Launches Vulnerability Research Institute to Boost UK Resilience</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-vulnerability-research/</link>
-      <pubDate>Tue, 15 Jul 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI seized multiple piracy sites distributing pirated video games</title>
-      <link>https://securityaffairs.com/179925/cyber-crime/fbi-seized-multiple-piracy-sites-distributing-pirated-video-games.html</link>
-      <pubDate>Tue, 15 Jul 2025 07:47:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keylogger Data Stored in an ADS, (Tue, Jul 15th)</title>
-      <link>https://isc.sans.edu/diary/rss/32108</link>
-      <pubDate>Tue, 15 Jul 2025 07:32:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign</title>
-      <link>https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html</link>
-      <pubDate>Tue, 15 Jul 2025 07:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GLOBAL GROUP: Emerging Ransomware-as-a-Service, Supporting AI Driven Negotiation and Mobile Control Panel for Their Affiliates</title>
-      <link>https://blog.eclecticiq.com/global-group-emerging-ransomware-as-a-service</link>
-      <pubDate>Tue, 15 Jul 2025 06:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
