@@ -6,11 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 10:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 12:50:58 +0000</lastBuildDate>
+    <item>
+      <title>Russia Linked to New Malware Targeting Email Accounts for Espionage</title>
+      <link>https://www.infosecurity-magazine.com/news/new-malware-targeting-email/</link>
+      <pubDate>Fri, 18 Jul 2025 12:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAC-0001 (APT28) Attack Detection: The russia-Backed Actor Uses LLM-Powered LAMEHUG Malware to Target Security and Defense Sector</title>
+      <link>https://socprime.com/blog/detect-uac-0001-attacks-with-lamehug-malware/</link>
+      <pubDate>Fri, 18 Jul 2025 12:39:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Breaking: UK sanctions Russian cyber spies accused of facilitating murders</title>
+      <link>https://therecord.media/uk-sanctions-gru-personnel-accused-murder-civilians-ukraine</link>
+      <pubDate>Fri, 18 Jul 2025 12:28:46 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 18 Jul 2025 10:00:03 +0000</pubDate>
+      <pubDate>Fri, 18 Jul 2025 12:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>New “LameHug” Malware Deploys AI-Generated Commands</title>
+      <link>https://www.infosecurity-magazine.com/news/new-lamehug-malware-deploys/</link>
+      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anne Arundel Dermatology data breach impacts 1.9 million people</title>
+      <link>https://securityaffairs.com/180100/data-breach/anne-arundel-dermatology-data-breach-impacts-1-9-million-people.html</link>
+      <pubDate>Fri, 18 Jul 2025 11:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Loaf and order: Belgian police launch bread-based cybersecurity campaign</title>
+      <link>https://grahamcluley.com/loaf-and-order-belgian-police-launch-bread-based-cybersecurity-campaign/</link>
+      <pubDate>Fri, 18 Jul 2025 11:30:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Mobile Phone Forensics Tool</title>
+      <link>https://www.schneier.com/blog/archives/2025/07/new-mobile-phone-forensics-tool.html</link>
+      <pubDate>Fri, 18 Jul 2025 11:07:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices</title>
+      <link>https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html</link>
+      <pubDate>Fri, 18 Jul 2025 11:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services</title>
+      <link>https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html</link>
+      <pubDate>Fri, 18 Jul 2025 10:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware</title>
+      <link>https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html</link>
+      <pubDate>Fri, 18 Jul 2025 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>LameHug: first AI-Powered malware linked to Russia’s APT28</title>
@@ -121,11 +171,6 @@
       <title>Meet the Experts At Black Hat 2025</title>
       <link>https://www.security.com/feature-stories/meet-experts-black-hat-2025</link>
       <pubDate>Thu, 17 Jul 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Armenian, Ukrainian nationals among Ryuk ransomware actors facing US hacking charges</title>
-      <link>https://therecord.media/ryuk-ransomware-actors-legal-action</link>
-      <pubDate>Thu, 17 Jul 2025 15:39:46 +0000</pubDate>
     </item>
     <item>
       <title>Malware-as-a-Service Campaign Exploits GitHub to Deliver Payloads</title>
@@ -261,51 +306,6 @@
       <title>UNC6148 deploys Overstep malware on SonicWall devices, possibly for ransomware operations</title>
       <link>https://securityaffairs.com/180035/hacking/unc6148-deploys-overstep-malware-on-sonicwall-devices-possibly-for-ransomware-operations.html</link>
       <pubDate>Thu, 17 Jul 2025 07:47:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hiding Payloads in Linux Extended File Attributes, (Thu, Jul 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/32116</link>
-      <pubDate>Thu, 17 Jul 2025 06:54:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code</title>
-      <link>https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html</link>
-      <pubDate>Thu, 17 Jul 2025 05:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Named a Leader in 2025 Gartner® Magic Quadrant™ for Endpoint Protection Platforms for Sixth Consecutive Time</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2025-gartner-magic-quadrant-epp/</link>
-      <pubDate>Thu, 17 Jul 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, July 17th, 2025 https://isc.sans.edu/podcastdetail/9530, (Thu, Jul 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/32114</link>
-      <pubDate>Thu, 17 Jul 2025 02:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submarine Cables Face Increasing Threats Amid Geopolitical Tensions and Limited Repair Capacity</title>
-      <link>https://www.recordedfuture.com/research/submarine-cables-face-increasing-threats</link>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s Big Sleep Foils Hackers by Spotting SQLite Flaw Before Exploit</title>
-      <link>https://www.techrepublic.com/article/news-google-big-sleep-sqlite-zero-day/</link>
-      <pubDate>Wed, 16 Jul 2025 22:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcoming Aura to Have I Been Pwned's Partner Program</title>
-      <link>https://www.troyhunt.com/welcoming-aura-to-have-i-been-pwneds-partner-program/</link>
-      <pubDate>Wed, 16 Jul 2025 20:54:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Eastwood disrupted operations of pro-Russian hacker group NoName057(16)</title>
-      <link>https://securityaffairs.com/180027/cyber-crime/operation-eastwood-disrupted-operations-of-pro-russian-hacker-group-noname05716.html</link>
-      <pubDate>Wed, 16 Jul 2025 19:51:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms</title>
-      <link>https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html</link>
-      <pubDate>Wed, 16 Jul 2025 17:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
