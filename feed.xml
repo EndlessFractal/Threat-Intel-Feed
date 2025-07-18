@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 08:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 10:26:07 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 18 Jul 2025 10:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>LameHug: first AI-Powered malware linked to Russia’s APT28</title>
+      <link>https://securityaffairs.com/180092/apt/lamehug-first-ai-powered-malware-linked-to-russias-apt28.html</link>
+      <pubDate>Fri, 18 Jul 2025 09:47:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Features Every AI-Powered SOC Platform Needs in 2025</title>
+      <link>https://securityaffairs.com/180070/security/5-features-every-ai-powered-soc-platform-needs-in-2025.html</link>
+      <pubDate>Fri, 18 Jul 2025 08:32:26 +0000</pubDate>
+    </item>
     <item>
       <title>AI-Generated Lcryx Ransomware Discovered in Cryptomining Botnet</title>
       <link>https://www.infosecurity-magazine.com/news/lcryx-ransomware-discovered-crypto/</link>
@@ -23,9 +38,9 @@
       <pubDate>Fri, 18 Jul 2025 07:51:07 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 18 Jul 2025 05:55:03 +0000</pubDate>
+      <title>Veeam Phishing via Wav File, (Fri, Jul 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/32120</link>
+      <pubDate>Fri, 18 Jul 2025 07:39:05 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, July 18th, 2025 https://isc.sans.edu/podcastdetail/9532, (Fri, Jul 18th)</title>
@@ -291,21 +306,6 @@
       <title>Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms</title>
       <link>https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html</link>
       <pubDate>Wed, 16 Jul 2025 17:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft is named a Leader in the 2025 Gartner® Magic Quadrant™ for Endpoint Protection Platforms</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/07/16/microsoft-is-named-a-leader-in-the-2025-gartner-magic-quadrant-for-endpoint-protection-platforms/</link>
-      <pubDate>Wed, 16 Jul 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacking Trains</title>
-      <link>https://www.schneier.com/blog/archives/2025/07/hacking-trains.html</link>
-      <pubDate>Wed, 16 Jul 2025 16:57:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft’s July Patch Might Be to Blame If Azure VM Isn’t Loading</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-security-update-azure-virtual-machine-bug/</link>
-      <pubDate>Wed, 16 Jul 2025 16:25:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
