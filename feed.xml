@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Jul 2025 16:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 18:31:05 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 19 Jul 2025 16:15:04 +0000</pubDate>
+      <pubDate>Sat, 19 Jul 2025 17:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet FortiWeb flaw CVE-2025-25257 exploited hours after PoC release</title>
+      <link>https://securityaffairs.com/180118/hacking/fortinet-fortiweb-flaw-cve-2025-25257-exploited-hours-after-poc-release.html</link>
+      <pubDate>Sat, 19 Jul 2025 16:25:57 +0000</pubDate>
     </item>
     <item>
       <title>Authorities released free decryptor for Phobos and 8base ransomware</title>
@@ -301,11 +306,6 @@
       <title>Chrome fixes 6 security vulnerabilities. Get the update now!</title>
       <link>https://www.malwarebytes.com/blog/news/2025/07/chrome-fixes-6-security-vulnerabilities-get-the-update-now</link>
       <pubDate>Thu, 17 Jul 2025 12:36:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Can Hide Malicious Code in Gemini’s Email Summaries</title>
-      <link>https://www.techrepublic.com/article/news-google-gemini-security-flaw-phishing/</link>
-      <pubDate>Thu, 17 Jul 2025 12:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
