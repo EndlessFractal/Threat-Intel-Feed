@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 18:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 20:25:20 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 20 Jul 2025 17:30:03 +0000</pubDate>
+      <pubDate>Sun, 20 Jul 2025 18:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Sharepoint 0-Day Vulnerablity Exploited CVE-2025-53770 (ToolShell), (Sun, Jul 20th)</title>
+      <link>https://isc.sans.edu/diary/rss/32122</link>
+      <pubDate>Sun, 20 Jul 2025 17:32:07 +0000</pubDate>
     </item>
     <item>
       <title>Singapore warns China-linked group UNC3886 targets its critical infrastructure</title>
@@ -40,6 +45,11 @@
     <item>
       <title>Microsoft Releases Guidance on Exploitation of SharePoint Vulnerability (CVE-2025-53770)</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/07/20/microsoft-releases-guidance-exploitation-sharepoint-vulnerability-cve-2025-53770</link>
+      <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability, CVE-2025-53770 “ToolShell,” to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/20/cisa-adds-one-known-exploited-vulnerability-cve-2025-53770-toolshell-catalog</link>
       <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters</title>
       <link>https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html</link>
       <pubDate>Thu, 17 Jul 2025 17:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s Chrome Emergency Patch Fixes a High-Severity Bug – Users Should Update Immediately</title>
-      <link>https://www.techrepublic.com/article/news-google-chrome-update-zero-day-flaw/</link>
-      <pubDate>Thu, 17 Jul 2025 16:48:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Endpoint Protection Redefined: Insights from the 2025 Gartner® Magic Quadrant™ for EPP, and How Agentic AI and Platformization Are Shaping the Market</title>
-      <link>https://www.sentinelone.com/blog/endpoint-protection-redefined-2025-gartner-magic-quadrant-for-epp/</link>
-      <pubDate>Thu, 17 Jul 2025 16:22:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
