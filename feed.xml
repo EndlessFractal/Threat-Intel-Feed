@@ -6,21 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 08:28:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 10:25:00 +0000</lastBuildDate>
+    <item>
+      <title>Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations</title>
+      <link>https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html</link>
+      <pubDate>Sun, 20 Jul 2025 09:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malware Injected into 6 npm Packages After Maintainer Tokens Stolen in Phishing Attack</title>
+      <link>https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html</link>
+      <pubDate>Sun, 20 Jul 2025 09:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adversaries to Allies: CISOs and Auditors Build Trust</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/adversaries-to-allies-cisos-and-auditors-build-trust</link>
+      <pubDate>Sun, 20 Jul 2025 09:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sun, 20 Jul 2025 09:20:03 +0000</pubDate>
+    </item>
     <item>
       <title>Radiology Associates of Richmond data breach impacts 1.4 million people</title>
       <link>https://securityaffairs.com/180128/data-breach/radiology-associates-of-richmond-data-breach-impacts-1-4-million-people.html</link>
       <pubDate>Sun, 20 Jul 2025 08:07:22 +0000</pubDate>
     </item>
     <item>
+      <title>Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers</title>
+      <link>https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html</link>
+      <pubDate>Sun, 20 Jul 2025 07:35:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Update 461</title>
       <link>https://www.troyhunt.com/weekly-update-461/</link>
       <pubDate>Sun, 20 Jul 2025 07:04:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 20 Jul 2025 06:20:04 +0000</pubDate>
     </item>
     <item>
       <title>New EU AI Act Compliance Guide – Just Weeks Before August Deadline</title>
@@ -143,13 +163,13 @@
       <pubDate>Fri, 18 Jul 2025 11:33:59 +0000</pubDate>
     </item>
     <item>
-      <title>CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign</title>
-      <link>https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html</link>
+      <title>Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services</title>
+      <link>https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html</link>
       <pubDate>Fri, 18 Jul 2025 11:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services</title>
-      <link>https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html</link>
+      <title>CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign</title>
+      <link>https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html</link>
       <pubDate>Fri, 18 Jul 2025 11:32:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Adoption agency leaks over a million records</title>
       <link>https://www.malwarebytes.com/blog/news/2025/07/adoption-agency-leaks-over-a-million-records</link>
       <pubDate>Thu, 17 Jul 2025 14:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner</title>
-      <link>https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html</link>
-      <pubDate>Thu, 17 Jul 2025 14:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta AI chatbot bug could have allowed anyone to see private conversations</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/meta-ai-chatbot-bug-could-have-allowed-anyone-to-see-private-conversations</link>
-      <pubDate>Thu, 17 Jul 2025 14:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Panoramic Corporation Digital Imaging Software</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-198-01</link>
-      <pubDate>Thu, 17 Jul 2025 13:16:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>WeTransfer walks back clause that said it would train AI on your files</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/wetransfer-walks-back-clause-that-said-it-would-train-ai-on-your-files</link>
-      <pubDate>Thu, 17 Jul 2025 13:11:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
