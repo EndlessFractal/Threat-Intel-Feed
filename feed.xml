@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Jul 2025 22:22:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 02:08:37 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 19 Jul 2025 21:15:04 +0000</pubDate>
+      <pubDate>Sun, 20 Jul 2025 01:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New EU AI Act Compliance Guide – Just Weeks Before August Deadline</title>
+      <link>https://www.techrepublic.com/article/news-eu-ai-act-explorer-guide/</link>
+      <pubDate>Sun, 20 Jul 2025 00:38:36 +0000</pubDate>
     </item>
     <item>
       <title>Fortinet FortiWeb flaw CVE-2025-25257 exploited hours after PoC release</title>
@@ -238,6 +243,11 @@
       <pubDate>Thu, 17 Jul 2025 17:40:00 +0000</pubDate>
     </item>
     <item>
+      <title>Google’s Chrome Emergency Patch Fixes a High-Severity Bug – Users Should Update Immediately</title>
+      <link>https://www.techrepublic.com/article/news-google-chrome-update-zero-day-flaw/</link>
+      <pubDate>Thu, 17 Jul 2025 16:48:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Stormous Ransomware gang targets North Country HealthCare, claims 600K patient data stolen</title>
       <link>https://securityaffairs.com/180057/data-breach/180057stormous-ransomware-gang-targets-north-country-healthcare-claims-600k-patient-data-stolen.html</link>
       <pubDate>Thu, 17 Jul 2025 16:46:16 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>AI Cloaking Tools Enable Harder-to-Detect Cyber-Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/ai-cloaking-tools-enable-complex/</link>
       <pubDate>Thu, 17 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improving Cloud Intrusion Detection and Triage with FortiCNAPP Composite Alerts</title>
-      <link>https://feeds.fortinet.com/~/921790763/0/fortinet/blog/threat-research~Improving-Cloud-Intrusion-Detection-and-Triage-with-FortiCNAPP-Composite-Alerts</link>
-      <pubDate>Thu, 17 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome fixes 6 security vulnerabilities. Get the update now!</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/chrome-fixes-6-security-vulnerabilities-get-the-update-now</link>
-      <pubDate>Thu, 17 Jul 2025 12:36:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
