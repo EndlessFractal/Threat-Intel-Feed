@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 16:27:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 18:31:21 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sun, 20 Jul 2025 17:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Singapore warns China-linked group UNC3886 targets its critical infrastructure</title>
+      <link>https://securityaffairs.com/180179/uncategorized/singapore-warns-china-linked-group-unc3886-targets-its-critical-infrastructure.html</link>
+      <pubDate>Sun, 20 Jul 2025 17:17:10 +0000</pubDate>
+    </item>
     <item>
       <title>EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware</title>
       <link>https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html</link>
       <pubDate>Sun, 20 Jul 2025 16:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 20 Jul 2025 15:25:03 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds Fortinet FortiWeb flaw to its Known Exploited Vulnerabilities catalog</title>
@@ -31,6 +36,11 @@
       <title>Security Affairs newsletter Round 533 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/180142/breaking-news/security-affairs-newsletter-round-533-by-pierluigi-paganini-international-edition.html</link>
       <pubDate>Sun, 20 Jul 2025 12:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases Guidance on Exploitation of SharePoint Vulnerability (CVE-2025-53770)</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/20/microsoft-releases-guidance-exploitation-sharepoint-vulnerability-cve-2025-53770</link>
+      <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers</title>
@@ -233,11 +243,6 @@
       <pubDate>Fri, 18 Jul 2025 08:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Broadcom patches critical VMware flaws exploited at Pwn2Own Berlin 2025</title>
-      <link>https://securityaffairs.com/180062/security/broadcom-patches-critical-vmware-flaws-exploited-at-pwn2own-berlin-2025.html</link>
-      <pubDate>Fri, 18 Jul 2025 07:51:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Veeam Phishing via Wav File, (Fri, Jul 18th)</title>
       <link>https://isc.sans.edu/diary/rss/32120</link>
       <pubDate>Fri, 18 Jul 2025 07:39:05 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Endpoint Protection Redefined: Insights from the 2025 Gartner® Magic Quadrant™ for EPP, and How Agentic AI and Platformization Are Shaping the Market</title>
       <link>https://www.sentinelone.com/blog/endpoint-protection-redefined-2025-gartner-magic-quadrant-for-epp/</link>
       <pubDate>Thu, 17 Jul 2025 16:22:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transparency on Microsoft Defender for Office 365 email security effectiveness</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/07/17/transparency-on-microsoft-defender-for-office-365-email-security-effectiveness/</link>
-      <pubDate>Thu, 17 Jul 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
