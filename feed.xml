@@ -6,14 +6,29 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Jul 2025 08:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 10:27:31 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft: Attackers Actively Compromising On-Prem SharePoint Customers</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-compromising-sharepoint/</link>
+      <pubDate>Mon, 21 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 21 Jul 2025 09:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ToolShell: Critical SharePoint Zero-Day Patched After Exploitation in the Wild</title>
+      <link>https://www.security.com/threat-intelligence/toolshell-zero-day-sharepoint-cve-2025-53770</link>
+      <pubDate>Mon, 21 Jul 2025 08:40:59 +0000</pubDate>
+    </item>
     <item>
       <title>Good Riddance Teespring, Hello Fourthwall</title>
       <link>https://www.troyhunt.com/good-riddance-teespring-hello-fourthwall/</link>
       <pubDate>Mon, 21 Jul 2025 08:24:46 +0000</pubDate>
     </item>
     <item>
-      <title>Rumble in the jungle: APT41’s new target in Africa</title>
+      <title>The SOC files: Rumble in the jungle or APT41’s new target in Africa</title>
       <link>https://securelist.com/apt41-in-africa/116986/</link>
       <pubDate>Mon, 21 Jul 2025 08:00:00 +0000</pubDate>
     </item>
@@ -21,11 +36,6 @@
       <title>A week in security (July 14 – July 20)</title>
       <link>https://www.malwarebytes.com/blog/news/2025/07/a-week-in-security-july-14-july-20</link>
       <pubDate>Mon, 21 Jul 2025 07:49:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 21 Jul 2025 07:35:03 +0000</pubDate>
     </item>
     <item>
       <title>SharePoint zero-day CVE-2025-53770 actively exploited in the wild</title>
@@ -296,16 +306,6 @@
       <title>AI-Generated Lcryx Ransomware Discovered in Cryptomining Botnet</title>
       <link>https://www.infosecurity-magazine.com/news/lcryx-ransomware-discovered-crypto/</link>
       <pubDate>Fri, 18 Jul 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retail Becomes New Target as Healthcare Ransomware Attacks Slow</title>
-      <link>https://www.infosecurity-magazine.com/news/retail-target-healthcare/</link>
-      <pubDate>Fri, 18 Jul 2025 08:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veeam Phishing via Wav File, (Fri, Jul 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/32120</link>
-      <pubDate>Fri, 18 Jul 2025 07:39:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
