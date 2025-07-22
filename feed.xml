@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 18:34:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 20:26:50 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 22 Jul 2025 20:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco confirms active exploitation of ISE and ISE-PIC flaws</title>
+      <link>https://securityaffairs.com/180260/hacking/cisco-confirms-active-exploitation-of-ise-and-ise-pic-flaws.html</link>
+      <pubDate>Tue, 22 Jul 2025 19:52:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI’s Double Edge: How AI Expands the Attack Surface &amp; Empowers Defenders</title>
+      <link>https://www.sentinelone.com/blog/ais-double-edge-how-ai-expands-the-attack-surface-and-empowers-defenders/</link>
+      <pubDate>Tue, 22 Jul 2025 19:23:21 +0000</pubDate>
+    </item>
     <item>
       <title>Dell Confirms Security Breach by Extortion Group, Calls Stolen Data ‘Fake’</title>
       <link>https://www.techrepublic.com/article/news-dell-data-breach-world-leaks-ransomware/</link>
       <pubDate>Tue, 22 Jul 2025 17:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 22 Jul 2025 17:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Chinese nation-state groups exploiting SharePoint vulnerability, Microsoft confirms</title>
@@ -153,6 +163,11 @@
       <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Releases Nine Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-releases-nine-industrial-control-systems-advisories</link>
       <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
@@ -201,6 +216,11 @@
       <title>Hardcoded credentials found in HPE Aruba Instant On Wi-Fi devices</title>
       <link>https://securityaffairs.com/180230/security/hardcoded-credentials-hpe-aruba-instant-on-wi-fi-devices.html</link>
       <pubDate>Tue, 22 Jul 2025 07:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Ranked #1 in 2025 Frost Radar™ for MDR</title>
+      <link>https://www.crowdstrike.com/en-us/blog/2025-frost-radar-mdr-number-one-leader/</link>
+      <pubDate>Tue, 22 Jul 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WinRAR MoTW Propagation Privacy, (Tue, Jul 22nd)</title>
@@ -286,26 +306,6 @@
       <title>#StopRansomware: Interlock</title>
       <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-203a</link>
       <pubDate>Mon, 21 Jul 2025 15:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>SharePoint ‘ToolShell’ vulnerabilities being exploited in the wild</title>
-      <link>https://news.sophos.com/en-us/2025/07/21/sharepoint-toolshell-vulnerabilities-being-exploited-in-the-wild/</link>
-      <pubDate>Mon, 21 Jul 2025 15:05:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accounting Firm Targeted by Malware Campaign Using New Crypter</title>
-      <link>https://www.infosecurity-magazine.com/news/crypter-malware-targets-accounting/</link>
-      <pubDate>Mon, 21 Jul 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fix Targets Attacks on SharePoint Zero-Day</title>
-      <link>https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/</link>
-      <pubDate>Mon, 21 Jul 2025 14:45:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Ring cameras hacked”? Amazon says no, users not so sure</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/ring-cameras-hacked-amazon-says-no-users-not-so-sure</link>
-      <pubDate>Mon, 21 Jul 2025 13:13:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
