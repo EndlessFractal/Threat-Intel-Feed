@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 16:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 18:34:53 +0000</lastBuildDate>
+    <item>
+      <title>Dell Confirms Security Breach by Extortion Group, Calls Stolen Data ‘Fake’</title>
+      <link>https://www.techrepublic.com/article/news-dell-data-breach-world-leaks-ransomware/</link>
+      <pubDate>Tue, 22 Jul 2025 17:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 22 Jul 2025 17:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese nation-state groups exploiting SharePoint vulnerability, Microsoft confirms</title>
+      <link>https://therecord.media/microsoft-sharepoint-vulnerabilities-china-groups-exploiting</link>
+      <pubDate>Tue, 22 Jul 2025 16:42:21 +0000</pubDate>
+    </item>
     <item>
       <title>Russian Threat Actors Target NGOs with New OAuth Phishing Tactics</title>
       <link>https://www.infosecurity-magazine.com/news/russian-hackers-target-ngos-oauth/</link>
@@ -23,14 +38,14 @@
       <pubDate>Tue, 22 Jul 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups</title>
+      <link>https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html</link>
+      <pubDate>Tue, 22 Jul 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Widespread Net RFQ Scam Targets High-Value Goods</title>
       <link>https://www.infosecurity-magazine.com/news/net-rfq-scam-targets-high-value/</link>
       <pubDate>Tue, 22 Jul 2025 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 22 Jul 2025 15:00:04 +0000</pubDate>
     </item>
     <item>
       <title>How to Make the Most of Hacker Summer Camp</title>
@@ -103,6 +118,36 @@
       <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Schneider Electric EcoStruxure Power Operation</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-04</link>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DuraComm DP-10iN-100-MU</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-01</link>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lantronix Provisioning Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-02</link>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxure</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-03</link>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric System Monitor Application</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-05</link>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxture IT Data Center Expert</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-06</link>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Joint Advisory Issued on Protecting Against Interlock Ransomware</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/07/22/joint-advisory-issued-protecting-against-interlock-ransomware</link>
       <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
@@ -110,6 +155,11 @@
     <item>
       <title>CISA Releases Nine Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-releases-nine-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -208,11 +258,6 @@
       <pubDate>Mon, 21 Jul 2025 18:39:20 +0000</pubDate>
     </item>
     <item>
-      <title>Hackers hit Dell product demo platform, but impact is limited</title>
-      <link>https://therecord.media/hackers-hit-dell-product-demo-platform-limited-impact</link>
-      <pubDate>Mon, 21 Jul 2025 17:56:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents</title>
       <link>https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html</link>
       <pubDate>Mon, 21 Jul 2025 17:18:00 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>“Ring cameras hacked”? Amazon says no, users not so sure</title>
       <link>https://www.malwarebytes.com/blog/news/2025/07/ring-cameras-hacked-amazon-says-no-users-not-so-sure</link>
       <pubDate>Mon, 21 Jul 2025 13:13:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>New CrushFTP Critical Vulnerability Exploited in the Wild</title>
-      <link>https://www.infosecurity-magazine.com/news/crushftp-critical-vulnerability/</link>
-      <pubDate>Mon, 21 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-53770 Detection: Microsoft SharePoint Zero-Day Vulnerability Is Actively Exploited for RCE Attacks</title>
-      <link>https://socprime.com/blog/latest-threats/detect-cve-2025-53770-exploitation/</link>
-      <pubDate>Mon, 21 Jul 2025 12:50:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA urges to immediately patch Microsoft SharePoint flaw adding it to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/180211/hacking/u-s-cisa-urges-to-immediately-patch-microsoft-sharepoint-flaw-adding-it-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Mon, 21 Jul 2025 12:39:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More</title>
-      <link>https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html</link>
-      <pubDate>Mon, 21 Jul 2025 11:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assessing the Role of AI in Zero Trust</title>
-      <link>https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html</link>
-      <pubDate>Mon, 21 Jul 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft issues emergency patches for SharePoint zero-days exploited in “ToolShell” attacks</title>
-      <link>https://securityaffairs.com/180197/hacking/microsoft-issues-emergency-patches-for-sharepoint-zero-days-exploited-in-toolshell-attacks.html</link>
-      <pubDate>Mon, 21 Jul 2025 11:14:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Another Supply Chain Vulnerability</title>
-      <link>https://www.schneier.com/blog/archives/2025/07/another-supply-chain-vulnerability.html</link>
-      <pubDate>Mon, 21 Jul 2025 11:04:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>How quickly do we patch? A quick look from the global viewpoint, (Mon, Jul 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/32126</link>
-      <pubDate>Mon, 21 Jul 2025 11:03:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol targets Kremlin-backed cybercrime gang NoName057(16)</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-targets-kremlin-backed-cybercrime-gang-noname057-16</link>
-      <pubDate>Mon, 21 Jul 2025 10:47:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
