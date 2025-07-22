@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 14:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 16:31:41 +0000</lastBuildDate>
+    <item>
+      <title>Russian Threat Actors Target NGOs with New OAuth Phishing Tactics</title>
+      <link>https://www.infosecurity-magazine.com/news/russian-hackers-target-ngos-oauth/</link>
+      <pubDate>Tue, 22 Jul 2025 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SharePoint under fire: new ToolShell attacks target enterprises</title>
+      <link>https://securityaffairs.com/180252/hacking/sharepoint-under-fire-new-toolshell-attacks-target-enterprises.html</link>
+      <pubDate>Tue, 22 Jul 2025 16:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create a Secure Username</title>
+      <link>https://www.techrepublic.com/article/how-to-create-a-secure-username/</link>
+      <pubDate>Tue, 22 Jul 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Widespread Net RFQ Scam Targets High-Value Goods</title>
+      <link>https://www.infosecurity-magazine.com/news/net-rfq-scam-targets-high-value/</link>
+      <pubDate>Tue, 22 Jul 2025 15:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 22 Jul 2025 14:00:03 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 15:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make the Most of Hacker Summer Camp</title>
+      <link>https://www.security.com/expert-perspectives/how-make-most-hacker-summer-camp</link>
+      <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian-speaking hacker group disrupted by local researchers</title>
+      <link>https://therecord.media/russia-hacker-group-disrupted-local-researchers</link>
+      <pubDate>Tue, 22 Jul 2025 14:57:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>SharePoint 'ToolShell' Vulnerabilities Exploited by Chinese Nation-State Hackers</title>
+      <link>https://www.infosecurity-magazine.com/news/sharepoint-toolshell-chinese/</link>
+      <pubDate>Tue, 22 Jul 2025 14:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #60: Elon’s AI girlfriend, the arsonist red panda, and the AI that will kill you</title>
+      <link>https://grahamcluley.com/the-ai-fix-60/</link>
+      <pubDate>Tue, 22 Jul 2025 14:05:41 +0000</pubDate>
     </item>
     <item>
       <title>Startup takes personal data stolen by malware and sells it on to other companies</title>
@@ -60,6 +100,16 @@
     <item>
       <title>Ransomware Group Uses AI Chatbot to Intensify Pressure on Victims</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-ai-chatbot-pressure/</link>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Joint Advisory Issued on Protecting Against Interlock Ransomware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/22/joint-advisory-issued-protecting-against-interlock-ransomware</link>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Nine Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-releases-nine-industrial-control-systems-advisories</link>
       <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -133,7 +183,7 @@
       <pubDate>Mon, 21 Jul 2025 23:08:03 +0000</pubDate>
     </item>
     <item>
-      <title>Active Exploitation of Microsoft SharePoint Vulnerabilities: Threat Brief</title>
+      <title>Active Exploitation of Microsoft SharePoint Vulnerabilities: Threat Brief (Updated July 22)</title>
       <link>https://unit42.paloaltonetworks.com/microsoft-sharepoint-cve-2025-49704-cve-2025-49706-cve-2025-53770/</link>
       <pubDate>Mon, 21 Jul 2025 22:48:19 +0000</pubDate>
     </item>
@@ -148,7 +198,7 @@
       <pubDate>Mon, 21 Jul 2025 20:48:01 +0000</pubDate>
     </item>
     <item>
-      <title>ToolShell: Details of CVEs Affecting SharePoint Servers</title>
+      <title>ToolShell: Details of CVEs affecting SharePoint servers</title>
       <link>https://blog.talosintelligence.com/toolshell-affecting-sharepoint-servers/</link>
       <pubDate>Mon, 21 Jul 2025 20:33:02 +0000</pubDate>
     </item>
@@ -166,11 +216,6 @@
       <title>Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents</title>
       <link>https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html</link>
       <pubDate>Mon, 21 Jul 2025 17:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian crypto exchange CoinDCX says $44 million stolen from reserves</title>
-      <link>https://therecord.media/indian-crypto-dcx-millions-stolen</link>
-      <pubDate>Mon, 21 Jul 2025 16:58:41 +0000</pubDate>
     </item>
     <item>
       <title>Patch SharePoint Now: Microsoft Servers at Risk of New ToolShell RCE Attack</title>
@@ -261,51 +306,6 @@
       <title>Europol targets Kremlin-backed cybercrime gang NoName057(16)</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-targets-kremlin-backed-cybercrime-gang-noname057-16</link>
       <pubDate>Mon, 21 Jul 2025 10:47:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Sharepoint 0-Day Vulnerablity Exploited CVE-2025-53770 (ToolShell), (Sun, Jul 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/32122</link>
-      <pubDate>Mon, 21 Jul 2025 10:39:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Attackers Actively Compromising On-Prem SharePoint Customers</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-compromising-sharepoint/</link>
-      <pubDate>Mon, 21 Jul 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ToolShell: Critical SharePoint Zero-Day Exploited in the Wild</title>
-      <link>https://www.security.com/threat-intelligence/toolshell-zero-day-sharepoint-cve-2025-53770</link>
-      <pubDate>Mon, 21 Jul 2025 08:40:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Good Riddance Teespring, Hello Fourthwall</title>
-      <link>https://www.troyhunt.com/good-riddance-teespring-hello-fourthwall/</link>
-      <pubDate>Mon, 21 Jul 2025 08:24:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The SOC files: Rumble in the jungle or APT41’s new target in Africa</title>
-      <link>https://securelist.com/apt41-in-africa/116986/</link>
-      <pubDate>Mon, 21 Jul 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (July 14 – July 20)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/a-week-in-security-july-14-july-20</link>
-      <pubDate>Mon, 21 Jul 2025 07:49:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>SharePoint zero-day CVE-2025-53770 actively exploited in the wild</title>
-      <link>https://securityaffairs.com/180182/hacking/sharepoint-zero-day-cve-2025-53770-actively-exploited-in-the-wild.html</link>
-      <pubDate>Mon, 21 Jul 2025 07:27:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse</title>
-      <link>https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html</link>
-      <pubDate>Mon, 21 Jul 2025 06:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Detects and Blocks Widespread SharePoint Zero-Day Exploitation</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-blocks-sharepoint-zero-day-exploitation/</link>
-      <pubDate>Mon, 21 Jul 2025 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
