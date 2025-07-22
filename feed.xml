@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 04:41:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 06:35:53 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 22 Jul 2025 03:55:04 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 05:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>WinRAR MoTW Propagation Privacy, (Tue, Jul 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/32130</link>
+      <pubDate>Tue, 22 Jul 2025 04:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wireshark 4.4.8 Released, (Tue, Jul 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/32128</link>
+      <pubDate>Tue, 22 Jul 2025 04:05:15 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, July 22nd, 2025 https://isc.sans.edu/podcastdetail/9536, (Tue, Jul 22nd)</title>
@@ -243,6 +253,16 @@
       <pubDate>Sun, 20 Jul 2025 16:13:00 +0000</pubDate>
     </item>
     <item>
+      <title>RokRAT Malware Using Malicious Hangul (.HWP) Documents</title>
+      <link>https://asec.ahnlab.com/en/89130/</link>
+      <pubDate>Sun, 20 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Variant of ACRStealer Actively Distributed with Modifications</title>
+      <link>https://asec.ahnlab.com/en/89128/</link>
+      <pubDate>Sun, 20 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Mobile Security &amp; Malware Issue 3st Week of July, 2025</title>
       <link>https://asec.ahnlab.com/en/89114/</link>
       <pubDate>Sun, 20 Jul 2025 15:00:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Adversaries to Allies: CISOs and Auditors Build Trust</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/adversaries-to-allies-cisos-and-auditors-build-trust</link>
       <pubDate>Sun, 20 Jul 2025 09:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Radiology Associates of Richmond data breach impacts 1.4 million people</title>
-      <link>https://securityaffairs.com/180128/data-breach/radiology-associates-of-richmond-data-breach-impacts-1-4-million-people.html</link>
-      <pubDate>Sun, 20 Jul 2025 08:07:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers</title>
-      <link>https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html</link>
-      <pubDate>Sun, 20 Jul 2025 07:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 461</title>
-      <link>https://www.troyhunt.com/weekly-update-461/</link>
-      <pubDate>Sun, 20 Jul 2025 07:04:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>New EU AI Act Compliance Guide – Just Weeks Before August Deadline</title>
-      <link>https://www.techrepublic.com/article/news-eu-ai-act-explorer-guide/</link>
-      <pubDate>Sun, 20 Jul 2025 00:38:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
