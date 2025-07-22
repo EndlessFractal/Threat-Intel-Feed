@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 03:41:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 04:41:17 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 22 Jul 2025 01:50:04 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 03:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Tuesday, July 22nd, 2025 https://isc.sans.edu/podcastdetail/9536, (Tue, Jul 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/32132</link>
+      <pubDate>Tue, 22 Jul 2025 02:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Critical Flaw in NVIDIA AI Toolkit Puts Cloud Services at Risk – Upgrade Immediately</title>
@@ -301,11 +306,6 @@
       <title>New EU AI Act Compliance Guide – Just Weeks Before August Deadline</title>
       <link>https://www.techrepublic.com/article/news-eu-ai-act-explorer-guide/</link>
       <pubDate>Sun, 20 Jul 2025 00:38:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet FortiWeb flaw CVE-2025-25257 exploited hours after PoC release</title>
-      <link>https://securityaffairs.com/180118/hacking/fortinet-fortiweb-flaw-cve-2025-25257-exploited-hours-after-poc-release.html</link>
-      <pubDate>Sat, 19 Jul 2025 16:25:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
