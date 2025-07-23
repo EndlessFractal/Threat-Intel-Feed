@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 04:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 06:36:21 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft linked attacks on SharePoint flaws to China-nexus actors</title>
+      <link>https://securityaffairs.com/180267/apt/microsoft-linked-attacks-on-sharepoint-flaws-to-china-nexus-actors.html</link>
+      <pubDate>Wed, 23 Jul 2025 06:20:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks</title>
+      <link>https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html</link>
+      <pubDate>Wed, 23 Jul 2025 04:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 23 Jul 2025 03:05:03 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 04:05:04 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, July 23rd, 2025 https://isc.sans.edu/podcastdetail/9538, (Wed, Jul 23rd)</title>
@@ -296,16 +306,6 @@
       <title>Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents</title>
       <link>https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html</link>
       <pubDate>Mon, 21 Jul 2025 17:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch SharePoint Now: Microsoft Servers at Risk of New ToolShell RCE Attack</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-sharepoint-remote-code-execution-toolshell/</link>
-      <pubDate>Mon, 21 Jul 2025 16:32:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Hackers Deploy New Android Spyware Version</title>
-      <link>https://www.infosecurity-magazine.com/news/iran-hackers-new-android-spyware/</link>
-      <pubDate>Mon, 21 Jul 2025 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
