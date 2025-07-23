@@ -6,21 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 06:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 08:33:43 +0000</lastBuildDate>
     <item>
-      <title>Microsoft linked attacks on SharePoint flaws to China-nexus actors</title>
-      <link>https://securityaffairs.com/180267/apt/microsoft-linked-attacks-on-sharepoint-flaws-to-china-nexus-actors.html</link>
-      <pubDate>Wed, 23 Jul 2025 06:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks</title>
-      <link>https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html</link>
-      <pubDate>Wed, 23 Jul 2025 04:40:00 +0000</pubDate>
+      <title>Global Ransomware Attacks Plummet 43% in Q2 2025</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-attacks-plummet-q2/</link>
+      <pubDate>Wed, 23 Jul 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 23 Jul 2025 04:05:04 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 07:05:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks</title>
+      <link>https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html</link>
+      <pubDate>Wed, 23 Jul 2025 06:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF</title>
+      <link>https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html</link>
+      <pubDate>Wed, 23 Jul 2025 06:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft linked attacks on SharePoint flaws to China-nexus actors</title>
+      <link>https://securityaffairs.com/180267/apt/microsoft-linked-attacks-on-sharepoint-flaws-to-china-nexus-actors.html</link>
+      <pubDate>Wed, 23 Jul 2025 06:20:16 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, July 23rd, 2025 https://isc.sans.edu/podcastdetail/9538, (Wed, Jul 23rd)</title>
@@ -253,6 +263,16 @@
       <pubDate>Tue, 22 Jul 2025 07:28:12 +0000</pubDate>
     </item>
     <item>
+      <title>Preventing Container Escape Attempts with Falcon Cloud Security's Enhanced Runtime Capabilities</title>
+      <link>https://www.crowdstrike.com/en-us/blog/preventing-container-escape-attempts-falcon-cloud-runtime-security/</link>
+      <pubDate>Tue, 22 Jul 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Ranked #1 in 2025 Frost Radar™ for MDR</title>
+      <link>https://www.crowdstrike.com/en-us/blog/2025-frost-radar-mdr-number-one-leader/</link>
+      <pubDate>Tue, 22 Jul 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>WinRAR MoTW Propagation Privacy, (Tue, Jul 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/32130</link>
       <pubDate>Tue, 22 Jul 2025 04:05:56 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Active Exploitation of Microsoft SharePoint Vulnerabilities: Threat Brief (Updated July 22)</title>
       <link>https://unit42.paloaltonetworks.com/microsoft-sharepoint-cve-2025-49704-cve-2025-49706-cve-2025-53770/</link>
       <pubDate>Mon, 21 Jul 2025 22:48:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Monitor AI’s Decision-Making Black Box: OpenAI, Anthropic, Google DeepMind, and More Explain Why</title>
-      <link>https://www.techrepublic.com/article/news-ai-chain-of-thought-monitorability/</link>
-      <pubDate>Mon, 21 Jul 2025 21:53:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ToolShell: Details of CVEs affecting SharePoint servers</title>
-      <link>https://blog.talosintelligence.com/toolshell-affecting-sharepoint-servers/</link>
-      <pubDate>Mon, 21 Jul 2025 20:33:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>MuddyWater deploys new DCHSpy variants amid Iran-Israel conflict</title>
-      <link>https://securityaffairs.com/180220/apt/muddywater-deploys-new-dchspy-variants-amid-iran-israel-conflict.html</link>
-      <pubDate>Mon, 21 Jul 2025 18:39:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents</title>
-      <link>https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html</link>
-      <pubDate>Mon, 21 Jul 2025 17:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
