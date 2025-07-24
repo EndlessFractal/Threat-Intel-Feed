@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 03:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 04:41:59 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 24 Jul 2025 02:15:04 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 03:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Tool: ficheck.py, (Thu, Jul 24th)</title>
+      <link>https://isc.sans.edu/diary/rss/32136</link>
+      <pubDate>Thu, 24 Jul 2025 03:07:53 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, July 24th, 2025 https://isc.sans.edu/podcastdetail/9540, (Thu, Jul 24th)</title>
@@ -193,6 +198,11 @@
       <pubDate>Wed, 23 Jul 2025 06:20:16 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Falcon Prevents Supply Chain Attack Involving Compromised NPM Packages</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-prevents-npm-package-supply-chain-attacks/</link>
+      <pubDate>Wed, 23 Jul 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CrowdStrike Named a Leader and Fast Mover in GigaOm ISPM Radar</title>
       <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-fast-mover-2025-gigaom-ispm-radar/</link>
       <pubDate>Wed, 23 Jul 2025 05:00:00 +0000</pubDate>
@@ -268,6 +278,11 @@
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Gunra Ransomware Emerges with New DLS</title>
+      <link>https://asec.ahnlab.com/en/89206/</link>
+      <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SharePoint 'ToolShell' Vulnerabilities Exploited by Chinese Nation-State Hackers</title>
       <link>https://www.infosecurity-magazine.com/news/sharepoint-toolshell-chinese/</link>
       <pubDate>Tue, 22 Jul 2025 14:40:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Microsoft Sentinel data lake: Unify signals, cut costs, and power agentic AI</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/07/22/microsoft-sentinel-data-lake-unify-signals-cut-costs-and-power-agentic-ai/</link>
       <pubDate>Tue, 22 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disrupting active exploitation of on-premises SharePoint vulnerabilities</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/07/22/disrupting-active-exploitation-of-on-premises-sharepoint-vulnerabilities/</link>
-      <pubDate>Tue, 22 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Credential Theft and Remote Access Surge as AllaKore, PureRAT, and Hijack Loader Proliferate</title>
-      <link>https://thehackernews.com/2025/07/credential-theft-and-remote-access.html</link>
-      <pubDate>Tue, 22 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Car crash victim’ calls mother for help and $15K bail money. But it’s an AI voice scam</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/car-crash-victim-calls-mother-for-help-and-15k-bail-money-but-its-an-ai-voice-scammer</link>
-      <pubDate>Tue, 22 Jul 2025 12:44:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
