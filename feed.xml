@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Jul 2025 10:23:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 12:47:17 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sun, 27 Jul 2025 10:40:04 +0000</pubDate>
+    </item>
     <item>
       <title>Quantum Supremacy and Our Cybersecurity Imperative</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/quantum-supremacy-and-our-cybersecurity-imperative</link>
       <pubDate>Sun, 27 Jul 2025 09:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 27 Jul 2025 09:40:03 +0000</pubDate>
     </item>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 55</title>
@@ -213,11 +213,6 @@
       <pubDate>Thu, 24 Jul 2025 18:00:58 +0000</pubDate>
     </item>
     <item>
-      <title>Phishers Target Aviation Execs to Scam Customers</title>
-      <link>https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/</link>
-      <pubDate>Thu, 24 Jul 2025 17:57:06 +0000</pubDate>
-    </item>
-    <item>
       <title>Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems</title>
       <link>https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html</link>
       <pubDate>Thu, 24 Jul 2025 17:14:00 +0000</pubDate>
@@ -306,6 +301,11 @@
       <title>UK and Romania Crack Down on ATM Fraudster Network</title>
       <link>https://www.infosecurity-magazine.com/news/uk-romania-crack-down-atm-fraudster/</link>
       <pubDate>Thu, 24 Jul 2025 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric CNC Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-205-01</link>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
