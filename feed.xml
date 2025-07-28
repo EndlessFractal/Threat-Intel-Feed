@@ -6,16 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Jul 2025 14:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 16:32:18 +0000</lastBuildDate>
     <item>
-      <title>New Scattered Spider Tactics Target VMware vSphere Environments</title>
-      <link>https://www.infosecurity-magazine.com/news/scattered-spider-targets-us-virtual/</link>
-      <pubDate>Mon, 28 Jul 2025 14:10:00 +0000</pubDate>
+      <title>Sploitlight: Analyzing a Spotlight-based macOS TCC vulnerability</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/07/28/sploitlight-analyzing-a-spotlight-based-macos-tcc-vulnerability/</link>
+      <pubDate>Mon, 28 Jul 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 28 Jul 2025 13:50:03 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 15:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parasitic Sharepoint Exploits, (Mon, Jul 28th)</title>
+      <link>https://isc.sans.edu/diary/rss/32148</link>
+      <pubDate>Mon, 28 Jul 2025 15:25:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Flaws in WordPress Plugin Leave 10,000 Sites Vulnerable</title>
+      <link>https://www.infosecurity-magazine.com/news/flaws-wordpress-plugin-expose/</link>
+      <pubDate>Mon, 28 Jul 2025 15:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>French submarine secrets surface after cyber attack</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/french-submarine-secrets-surface-after-cyber-attack</link>
+      <pubDate>Mon, 28 Jul 2025 14:19:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Scattered Spider Tactics Target VMware vSphere Environments</title>
+      <link>https://www.infosecurity-magazine.com/news/scattered-spider-targets-us-virtual/</link>
+      <pubDate>Mon, 28 Jul 2025 14:10:00 +0000</pubDate>
     </item>
     <item>
       <title>Cyberattack on Aeroflot causing mass flight disruptions, Russia says</title>
@@ -46,6 +66,11 @@
       <title>⚡ Weekly Recap — SharePoint Breach, Spyware, IoT Hijacks, DPRK Fraud, Crypto Drains and More</title>
       <link>https://thehackernews.com/2025/07/weekly-recap-sharepoint-breach-spyware.html</link>
       <pubDate>Mon, 28 Jul 2025 12:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/28/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Mon, 28 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Naval Group Denies Hack Claims, Alleges "Reputational Attack"</title>
@@ -116,6 +141,11 @@
       <title>ISC Stormcast For Monday, July 28th, 2025 https://isc.sans.edu/podcastdetail/9544, (Mon, Jul 28th)</title>
       <link>https://isc.sans.edu/diary/rss/32146</link>
       <pubDate>Mon, 28 Jul 2025 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Argus – Ultimate Reconnaissance Toolkit for Offensive Recon Operations</title>
+      <link>https://www.darknet.org.uk/2025/07/argus-ultimate-reconnaissance-toolkit-for-offensive-recon-operations/</link>
+      <pubDate>Mon, 28 Jul 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Allianz Life data breach exposed the data of most of its 1.4M customers</title>
@@ -276,36 +306,6 @@
       <title>ISC Stormcast For Friday, July 25th, 2025 https://isc.sans.edu/podcastdetail/9542, (Fri, Jul 25th)</title>
       <link>https://isc.sans.edu/diary/rss/32142</link>
       <pubDate>Fri, 25 Jul 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>evilreplay – Real-Time Browser Session Hijack Without Cookie Theft</title>
-      <link>https://www.darknet.org.uk/2025/07/evilreplay-real-time-browser-session-hijack-without-cookie-theft/</link>
-      <pubDate>Fri, 25 Jul 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRB, pausing for a "Sanctuary Moon" marathon</title>
-      <link>https://blog.talosintelligence.com/brb-pausing-for-a-sanctuary-moon-marathon/</link>
-      <pubDate>Thu, 24 Jul 2025 18:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishers Target Aviation Execs to Scam Customers</title>
-      <link>https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/</link>
-      <pubDate>Thu, 24 Jul 2025 17:57:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems</title>
-      <link>https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html</link>
-      <pubDate>Thu, 24 Jul 2025 17:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fire Ant Exploits VMware Flaws to Compromise ESXi Hosts and vCenter Environments</title>
-      <link>https://thehackernews.com/2025/07/fire-ant-exploits-vmware-flaw-to.html</link>
-      <pubDate>Thu, 24 Jul 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malware Campaign Masquerades as Dating Apps to Steal Data</title>
-      <link>https://www.infosecurity-magazine.com/news/malware-campaign-dating-apps/</link>
-      <pubDate>Thu, 24 Jul 2025 15:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
