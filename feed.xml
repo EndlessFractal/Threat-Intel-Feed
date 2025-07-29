@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 02:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 04:50:34 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 29 Jul 2025 00:55:04 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 04:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Tuesday, July 29th, 2025 https://isc.sans.edu/podcastdetail/9546, (Tue, Jul 29th)</title>
+      <link>https://isc.sans.edu/diary/rss/32150</link>
+      <pubDate>Tue, 29 Jul 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft uncovers macOS flaw allowing bypass TCC protections and exposing sensitive data</title>
@@ -301,11 +306,6 @@
       <title>In-Depth Analysis of an Obfuscated Web Shell Script</title>
       <link>https://feeds.fortinet.com/~/922174916/0/fortinet/blog/threat-research~InDepth-Analysis-of-an-Obfuscated-Web-Shell-Script</link>
       <pubDate>Fri, 25 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prolonged Chinese Cyber Espionage Campaign Targets VMware Appliances</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-espionage-targets-vmware/</link>
-      <pubDate>Fri, 25 Jul 2025 11:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
