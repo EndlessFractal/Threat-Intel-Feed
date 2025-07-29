@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 10:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 12:52:49 +0000</lastBuildDate>
+    <item>
+      <title>CISA Warns of Exploited Critical Vulnerabilities in Cisco Identity Services Engine</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-kev-cisco-ise/</link>
+      <pubDate>Tue, 29 Jul 2025 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 29 Jul 2025 12:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the Browser Became the Main Cyber Battleground</title>
+      <link>https://thehackernews.com/2025/07/how-browser-became-main-cyber.html</link>
+      <pubDate>Tue, 29 Jul 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Use Fake Apps to Steal Data and Blackmail Users Across Asia’s Mobile Networks</title>
+      <link>https://thehackernews.com/2025/07/cybercriminals-use-fake-apps-to-steal.html</link>
+      <pubDate>Tue, 29 Jul 2025 11:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aeroflot Hacked</title>
+      <link>https://www.schneier.com/blog/archives/2025/07/aeroflot-hacked.html</link>
+      <pubDate>Tue, 29 Jul 2025 11:02:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Seizes $2.4m in Crypto from Chaos Ransomware Gang</title>
+      <link>https://www.infosecurity-magazine.com/news/fbi-seizes-crypto-chaos-ransomware/</link>
+      <pubDate>Tue, 29 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Koske Malware Detection: New AI-Generated Linux Threat in the Wild</title>
+      <link>https://socprime.com/blog/koske-malware-detection/</link>
+      <pubDate>Tue, 29 Jul 2025 10:43:31 +0000</pubDate>
+    </item>
     <item>
       <title>Insights from Talos IR: Navigating NIS2 technical implementation</title>
       <link>https://blog.talosintelligence.com/insights-from-talos-ir-navigating-nis2-technical-implementation/</link>
@@ -18,9 +53,19 @@
       <pubDate>Tue, 29 Jul 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Why React Didn't Kill XSS: The New JavaScript Injection Playbook</title>
+      <link>https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html</link>
+      <pubDate>Tue, 29 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pro-Ukraine hacktivists claim cyberattack on Russian Airline Aeroflot that caused the cancellation of +100 flights</title>
       <link>https://securityaffairs.com/180521/hacktivism/pro-ukraine-hacktivists-claim-cyberattack-on-russian-airline-aeroflot-that-caused-the-cancellation-of-100-flights.html</link>
       <pubDate>Tue, 29 Jul 2025 09:59:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Triage is Key! Python to the Rescue!, (Tue, Jul 29th)</title>
+      <link>https://isc.sans.edu/diary/rss/32152</link>
+      <pubDate>Tue, 29 Jul 2025 09:29:53 +0000</pubDate>
     </item>
     <item>
       <title>Pro-Ukraine Hacktivists Ground Dozens of Aeroflot Flights</title>
@@ -31,11 +76,6 @@
       <title>Seychelles Commercial Bank Reported Cybersecurity Incident</title>
       <link>https://securityaffairs.com/180513/data-breach/seychelles-commercial-bank-reported-cybersecurity-incident.html</link>
       <pubDate>Tue, 29 Jul 2025 07:44:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 29 Jul 2025 07:00:04 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds PaperCut NG/MF CSRF Vulnerability to KEV Catalog Amid Active Exploitation</title>
@@ -266,46 +306,6 @@
       <title>Active Exploitation of Microsoft SharePoint Vulnerabilities: Threat Brief (Updated July 25)</title>
       <link>https://unit42.paloaltonetworks.com/microsoft-sharepoint-cve-2025-49704-cve-2025-49706-cve-2025-53770/</link>
       <pubDate>Fri, 25 Jul 2025 22:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Stable Quasi-Isodynamic Designs</title>
-      <link>https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-stable-quasi-isodynamic-designs.html</link>
-      <pubDate>Fri, 25 Jul 2025 21:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ηоmоgraph Illusion: Not Everything Is As It Seems</title>
-      <link>https://unit42.paloaltonetworks.com/homograph-attacks/</link>
-      <pubDate>Fri, 25 Jul 2025 21:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steam games abused to deliver malware once again</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/steam-games-abused-to-deliver-malware-once-again</link>
-      <pubDate>Fri, 25 Jul 2025 16:41:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Sanctions Firm Behind N. Korean IT Scheme; Arizona Woman Jailed for Running Laptop Farm</title>
-      <link>https://thehackernews.com/2025/07/us-sanctions-firm-behind-n-korean-it.html</link>
-      <pubDate>Fri, 25 Jul 2025 15:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BlackSuit Ransomware Group’s Dark Web Sites Seized in Operation Checkmate</title>
-      <link>https://www.infosecurity-magazine.com/news/blacksuit-ransomware-sites-seized/</link>
-      <pubDate>Fri, 25 Jul 2025 14:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchwork Targets Turkish Defense Firms with Spear-Phishing Using Malicious LNK Files</title>
-      <link>https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html</link>
-      <pubDate>Fri, 25 Jul 2025 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Epsilon Red Ransomware Detection: New Adversary Campaign Targeting Users Globally via ClickFix</title>
-      <link>https://socprime.com/blog/epsilon-red-ransomware-detection/</link>
-      <pubDate>Fri, 25 Jul 2025 13:22:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Espionage Campaign Hits Russian Aerospace Sector Using EAGLET Backdoor</title>
-      <link>https://thehackernews.com/2025/07/cyber-espionage-campaign-hits-russian.html</link>
-      <pubDate>Fri, 25 Jul 2025 13:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
