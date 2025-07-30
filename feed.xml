@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 10:26:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 12:52:39 +0000</lastBuildDate>
+    <item>
+      <title>Google Project Zero to publicly announce bugs within a week of reporting them</title>
+      <link>https://therecord.media/google-project-zero-publicly-announce-vulnerabilities-week-after-reporting</link>
+      <pubDate>Wed, 30 Jul 2025 11:45:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Third of Exploited Vulnerabilities Weaponized Within a Day of Disclosure</title>
+      <link>https://www.infosecurity-magazine.com/news/third-kev-exploited/</link>
+      <pubDate>Wed, 30 Jul 2025 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Firms Linked to Silk Typhoon Filed 15+ Patents for Cyber Espionage Tools</title>
+      <link>https://thehackernews.com/2025/07/chinese-firms-linked-to-silk-typhoon.html</link>
+      <pubDate>Wed, 30 Jul 2025 11:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 30 Jul 2025 11:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Measuring the Attack/Defense Balance</title>
+      <link>https://www.schneier.com/blog/archives/2025/07/measuring-the-attack-defense-balance.html</link>
+      <pubDate>Wed, 30 Jul 2025 11:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Breach Costs Fall for First Time in Five Years</title>
+      <link>https://www.infosecurity-magazine.com/news/data-breach-costs-fall/</link>
+      <pubDate>Wed, 30 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product Walkthrough: A Look Inside Pillar's AI Security Platform</title>
+      <link>https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html</link>
+      <pubDate>Wed, 30 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome</title>
+      <link>https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html</link>
+      <pubDate>Wed, 30 Jul 2025 10:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>US Tops Hit List as 396 SharePoint Systems Compromised Globally</title>
       <link>https://www.infosecurity-magazine.com/news/396-sharepoint-systems-compromised/</link>
@@ -38,11 +78,6 @@
       <pubDate>Wed, 30 Jul 2025 09:00:54 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 30 Jul 2025 08:10:03 +0000</pubDate>
-    </item>
-    <item>
       <title>OWASP Launches Agentic AI Security Guidance</title>
       <link>https://www.infosecurity-magazine.com/news/owasp-agentic-ai-security-guidance/</link>
       <pubDate>Wed, 30 Jul 2025 08:00:00 +0000</pubDate>
@@ -66,6 +101,11 @@
       <title>ISC Stormcast For Wednesday, July 30th, 2025 https://isc.sans.edu/podcastdetail/9548, (Wed, Jul 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32156</link>
       <pubDate>Wed, 30 Jul 2025 02:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leveraging OSINT from the Dark Web – A Practical How-To</title>
+      <link>https://www.darknet.org.uk/2025/07/leveraging-osint-from-the-dark-web-a-practical-how-to/</link>
+      <pubDate>Wed, 30 Jul 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>‘Sploitlight’ Vulnerability: How Hackers Bypassed Apple’s TCC Protections</title>
@@ -193,11 +233,6 @@
       <pubDate>Tue, 29 Jul 2025 13:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>Orange, France’s largest telecoms company, hit by cyberattack</title>
-      <link>https://therecord.media/orange-telecom-france-cyberattack</link>
-      <pubDate>Tue, 29 Jul 2025 13:17:09 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Warns of Exploited Critical Vulnerabilities in Cisco Identity Services Engine</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-kev-cisco-ise/</link>
       <pubDate>Tue, 29 Jul 2025 12:15:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Why React Didn't Kill XSS: The New JavaScript Injection Playbook</title>
       <link>https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html</link>
       <pubDate>Tue, 29 Jul 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pro-Ukraine hacktivists claim cyberattack on Russian Airline Aeroflot that caused the cancellation of +100 flights</title>
-      <link>https://securityaffairs.com/180521/hacktivism/pro-ukraine-hacktivists-claim-cyberattack-on-russian-airline-aeroflot-that-caused-the-cancellation-of-100-flights.html</link>
-      <pubDate>Tue, 29 Jul 2025 09:59:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Triage is Key! Python to the Rescue!, (Tue, Jul 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/32152</link>
-      <pubDate>Tue, 29 Jul 2025 09:29:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pro-Ukraine Hacktivists Ground Dozens of Aeroflot Flights</title>
-      <link>https://www.infosecurity-magazine.com/news/ukraine-hacktivists-dozens/</link>
-      <pubDate>Tue, 29 Jul 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seychelles Commercial Bank Reported Cybersecurity Incident</title>
-      <link>https://securityaffairs.com/180513/data-breach/seychelles-commercial-bank-reported-cybersecurity-incident.html</link>
-      <pubDate>Tue, 29 Jul 2025 07:44:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds PaperCut NG/MF CSRF Vulnerability to KEV Catalog Amid Active Exploitation</title>
-      <link>https://thehackernews.com/2025/07/cisa-adds-papercut-ngmf-csrf.html</link>
-      <pubDate>Tue, 29 Jul 2025 04:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, July 29th, 2025 https://isc.sans.edu/podcastdetail/9546, (Tue, Jul 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/32150</link>
-      <pubDate>Tue, 29 Jul 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft uncovers macOS flaw allowing bypass TCC protections and exposing sensitive data</title>
-      <link>https://securityaffairs.com/180503/hacking/microsoft-uncovers-macos-flaw-allowing-bypass-tcc-protections-and-exposing-sensitive-data.html</link>
-      <pubDate>Tue, 29 Jul 2025 00:01:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
