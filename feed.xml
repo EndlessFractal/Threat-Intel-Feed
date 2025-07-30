@@ -6,26 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 22:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 02:03:10 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 30 Jul 2025 01:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Sploitlight’ Vulnerability: How Hackers Bypassed Apple’s TCC Protections</title>
+      <link>https://www.techrepublic.com/article/news-macos-sploitlight-vulnerability-explained/</link>
+      <pubDate>Tue, 29 Jul 2025 23:33:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Exploitation of Microsoft SharePoint Vulnerabilities: Threat Brief (Updated July 29)</title>
+      <link>https://unit42.paloaltonetworks.com/microsoft-sharepoint-cve-2025-49704-cve-2025-49706-cve-2025-53770/</link>
+      <pubDate>Tue, 29 Jul 2025 22:00:19 +0000</pubDate>
+    </item>
     <item>
       <title>Minnesota governor activates National Guard after cyberattack on state capital</title>
       <link>https://therecord.media/minnesota-governor-activates-national-guard-st-paul-cyber-attack</link>
       <pubDate>Tue, 29 Jul 2025 21:31:36 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 29 Jul 2025 21:05:03 +0000</pubDate>
+      <title>Apple Updates Everything: July 2025, (Tue, Jul 29th)</title>
+      <link>https://isc.sans.edu/diary/rss/32154</link>
+      <pubDate>Tue, 29 Jul 2025 21:24:55 +0000</pubDate>
     </item>
     <item>
       <title>The Covert Operator's Playbook: Infiltration of Global Telecom Networks</title>
       <link>https://unit42.paloaltonetworks.com/infiltration-of-global-telecom-networks/</link>
       <pubDate>Tue, 29 Jul 2025 21:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Updates Everything: July 2025, (Tue, Jul 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/32154</link>
-      <pubDate>Tue, 29 Jul 2025 20:17:58 +0000</pubDate>
     </item>
     <item>
       <title>Orange reports major cyberattack, warns of service disruptions</title>
@@ -296,16 +306,6 @@
       <title>New Scattered Spider Tactics Target VMware vSphere Environments</title>
       <link>https://www.infosecurity-magazine.com/news/scattered-spider-targets-us-virtual/</link>
       <pubDate>Mon, 28 Jul 2025 14:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Allianz Life hit by hackers, customer and staff personal data stolen</title>
-      <link>https://grahamcluley.com/allianz-life-hit-by-hackers-customer-and-staff-personal-data-stolen/</link>
-      <pubDate>Mon, 28 Jul 2025 13:23:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical WordPress Post SMTP plugin flaw exposes 200K+ sites to full takeover</title>
-      <link>https://securityaffairs.com/180484/security/critical-wordpress-post-smtp-plugin-flaw-exposes-200k-sites-to-full-takeover.html</link>
-      <pubDate>Mon, 28 Jul 2025 13:14:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
