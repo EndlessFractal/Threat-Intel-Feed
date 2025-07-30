@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 14:23:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 16:30:08 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 30 Jul 2025 16:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>FunkSec Ransomware Decryptor Released Free to Public After Group Goes Dormant</title>
+      <link>https://thehackernews.com/2025/07/funksec-ransomware-decryptor-released.html</link>
+      <pubDate>Wed, 30 Jul 2025 16:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud: Threat Actors Increasingly Target Backups – Take These Steps Now</title>
+      <link>https://www.techrepublic.com/article/news-google-cloud-h1-2025-threat-horizons-report/</link>
+      <pubDate>Wed, 30 Jul 2025 15:42:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack shuts down hundreds of Russian pharmacies, disrupts healthcare services</title>
+      <link>https://therecord.media/cyberattack-shuts-down-russian-pharmacies</link>
+      <pubDate>Wed, 30 Jul 2025 15:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Say Hello to the New SECURITY.COM</title>
+      <link>https://www.security.com/feature-stories/say-hello-new-security-dot-com</link>
+      <pubDate>Wed, 30 Jul 2025 15:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hidden Backdoor Found in ATM Network via Raspberry Pi</title>
+      <link>https://www.infosecurity-magazine.com/news/backdoor-atm-network-raspberry-pi/</link>
+      <pubDate>Wed, 30 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Networks to acquire identity security provider CyberArk in $25 billion deal</title>
+      <link>https://therecord.media/palo-alto-networks-cyberark-acquisition</link>
+      <pubDate>Wed, 30 Jul 2025 14:47:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerabilities Identified in Dahua Hero C1 Smart Cameras</title>
+      <link>https://www.bitdefender.com/en-us/blog/labs/vulnerabilities-identified-in-dahua-hero-c1-smart-cameras-2</link>
+      <pubDate>Wed, 30 Jul 2025 14:33:14 +0000</pubDate>
+    </item>
     <item>
       <title>Google to Publicly Report New Vulnerabilities Within One Week of Vendor Disclosure</title>
       <link>https://www.infosecurity-magazine.com/news/google-report-new-vulnerabilities/</link>
@@ -23,9 +63,14 @@
       <pubDate>Wed, 30 Jul 2025 13:16:42 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 30 Jul 2025 13:15:03 +0000</pubDate>
+      <title>Product Walkthrough: A Look Inside Pillar's AI Security Platform</title>
+      <link>https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html</link>
+      <pubDate>Wed, 30 Jul 2025 13:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome</title>
+      <link>https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html</link>
+      <pubDate>Wed, 30 Jul 2025 13:02:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits</title>
@@ -36,6 +81,11 @@
       <title>Beyond the Buzz: Is Your Security Platform Delivering AI Value or Just Hype?</title>
       <link>https://www.sentinelone.com/blog/is-your-security-platform-delivering-ai-value-or-just-hype/</link>
       <pubDate>Wed, 30 Jul 2025 13:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eviction Strategies Tool Released</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/30/eviction-strategies-tool-released</link>
+      <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Google Project Zero to publicly announce bugs within a week of reporting them</title>
@@ -61,16 +111,6 @@
       <title>Data Breach Costs Fall for First Time in Five Years</title>
       <link>https://www.infosecurity-magazine.com/news/data-breach-costs-fall/</link>
       <pubDate>Wed, 30 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Product Walkthrough: A Look Inside Pillar's AI Security Platform</title>
-      <link>https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html</link>
-      <pubDate>Wed, 30 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome</title>
-      <link>https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html</link>
-      <pubDate>Wed, 30 Jul 2025 10:50:00 +0000</pubDate>
     </item>
     <item>
       <title>US Tops Hit List as 396 SharePoint Systems Compromised Globally</title>
@@ -123,6 +163,11 @@
       <pubDate>Wed, 30 Jul 2025 06:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Inside Mondel?z’s Identity Security Strategy with CrowdStrike</title>
+      <link>https://www.crowdstrike.com/en-us/blog/inside-mondelez-identity-security-stategy/</link>
+      <pubDate>Wed, 30 Jul 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Wednesday, July 30th, 2025 https://isc.sans.edu/podcastdetail/9548, (Wed, Jul 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32156</link>
       <pubDate>Wed, 30 Jul 2025 02:00:03 +0000</pubDate>
@@ -166,16 +211,6 @@
       <title>Google Cloud/Forrester Report: Top Challenges to Effective Threat Intelligence</title>
       <link>https://www.techrepublic.com/article/news-google-cloud-threat-intelligence-report/</link>
       <pubDate>Tue, 29 Jul 2025 19:44:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wyden asks White House to scrutinize UK surveillance laws</title>
-      <link>https://therecord.media/wyden-asks-white-house-scrutinize-uk-surveillance-laws-apple</link>
-      <pubDate>Tue, 29 Jul 2025 18:45:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scattered Spider is targeting victims' Snowflake data storage for quick exfiltration</title>
-      <link>https://therecord.media/scattered-spider-targeting-snowflake-access-data-exfiltration</link>
-      <pubDate>Tue, 29 Jul 2025 18:17:22 +0000</pubDate>
     </item>
     <item>
       <title>Tea Dating Advice app has users’ private messages disclosed</title>
@@ -271,41 +306,6 @@
       <title>Delta Electronics DTN Soft</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-210-03</link>
       <pubDate>Tue, 29 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and Partners Release Updated Advisory on Scattered Spider Group</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-and-partners-release-updated-advisory-scattered-spider-group</link>
-      <pubDate>Tue, 29 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Part One of Zero Trust Microsegmentation Guidance</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-releases-part-one-zero-trust-microsegmentation-guidance</link>
-      <pubDate>Tue, 29 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Five Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-releases-five-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 29 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the Browser Became the Main Cyber Battleground</title>
-      <link>https://thehackernews.com/2025/07/how-browser-became-main-cyber.html</link>
-      <pubDate>Tue, 29 Jul 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Use Fake Apps to Steal Data and Blackmail Users Across Asia’s Mobile Networks</title>
-      <link>https://thehackernews.com/2025/07/cybercriminals-use-fake-apps-to-steal.html</link>
-      <pubDate>Tue, 29 Jul 2025 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aeroflot Hacked</title>
-      <link>https://www.schneier.com/blog/archives/2025/07/aeroflot-hacked.html</link>
-      <pubDate>Tue, 29 Jul 2025 11:02:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Seizes $2.4m in Crypto from Chaos Ransomware Gang</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-seizes-crypto-chaos-ransomware/</link>
-      <pubDate>Tue, 29 Jul 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
