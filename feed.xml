@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 08:33:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 10:27:06 +0000</lastBuildDate>
     <item>
-      <title>Over 200 Malicious Open Source Packages Traced to Lazarus Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/200-malicious-open-source-lazarus/</link>
-      <pubDate>Thu, 31 Jul 2025 08:30:00 +0000</pubDate>
+      <title>Using LLMs as a reverse engineering sidekick</title>
+      <link>https://blog.talosintelligence.com/using-llm-as-a-reverse-engineering-sidekick/</link>
+      <pubDate>Thu, 31 Jul 2025 10:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>IR Trends Q2 2025: Phishing attacks persist as actors leverage compromised valid accounts to enhance legitimacy</title>
+      <link>https://blog.talosintelligence.com/ir-trends-q2-2025/</link>
+      <pubDate>Thu, 31 Jul 2025 10:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Unit 42’s Attribution Framework</title>
+      <link>https://unit42.paloaltonetworks.com/unit-42-attribution-framework/</link>
+      <pubDate>Thu, 31 Jul 2025 10:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unmasking LockBit: A Deep Dive into DLL Sideloading and Masquerading Tactics</title>
+      <link>https://www.security.com/threat-intelligence/lockbit-ransomware-attack-techniques</link>
+      <pubDate>Thu, 31 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Passwordless Future Years Away Despite Microsoft Authenticator Move</title>
+      <link>https://www.infosecurity-magazine.com/news/passwordless-years-microsoft/</link>
+      <pubDate>Thu, 31 Jul 2025 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 31 Jul 2025 07:25:03 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 09:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 200 Malicious Open Source Packages Traced to Lazarus Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/200-malicious-open-source-lazarus/</link>
+      <pubDate>Thu, 31 Jul 2025 08:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Exploit Critical WordPress Theme Flaw to Hijack Sites via Remote Plugin Install</title>
@@ -253,6 +278,11 @@
       <pubDate>Wed, 30 Jul 2025 06:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Inside Mondel?z’s Identity Security Strategy with CrowdStrike</title>
+      <link>https://www.crowdstrike.com/en-us/blog/inside-mondelez-identity-security-stategy/</link>
+      <pubDate>Wed, 30 Jul 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Wednesday, July 30th, 2025 https://isc.sans.edu/podcastdetail/9548, (Wed, Jul 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32156</link>
       <pubDate>Wed, 30 Jul 2025 02:00:03 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Apple Updates Everything: July 2025, (Tue, Jul 29th)</title>
       <link>https://isc.sans.edu/diary/rss/32154</link>
       <pubDate>Tue, 29 Jul 2025 21:24:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Covert Operator's Playbook: Infiltration of Global Telecom Networks</title>
-      <link>https://unit42.paloaltonetworks.com/infiltration-of-global-telecom-networks/</link>
-      <pubDate>Tue, 29 Jul 2025 21:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Orange reports major cyberattack, warns of service disruptions</title>
-      <link>https://securityaffairs.com/180552/security/orange-reports-major-cyberattack-warns-of-service-disruptions.html</link>
-      <pubDate>Tue, 29 Jul 2025 20:10:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud/Forrester Report: Top Challenges to Effective Threat Intelligence</title>
-      <link>https://www.techrepublic.com/article/news-google-cloud-threat-intelligence-report/</link>
-      <pubDate>Tue, 29 Jul 2025 19:44:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tea Dating Advice app has users’ private messages disclosed</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/tea-dating-advice-app-has-users-private-messages-disclosed</link>
-      <pubDate>Tue, 29 Jul 2025 18:13:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Allianz Life says majority of 1.4 million US customers’ info breached</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/allianz-life-says-majority-of-1-4-million-us-customers-info-breached</link>
-      <pubDate>Tue, 29 Jul 2025 17:24:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers leak images and comments from women dating safety app Tea</title>
-      <link>https://securityaffairs.com/180539/data-breach/hackers-leak-images-and-comments-from-women-dating-safety-app-tea.html</link>
-      <pubDate>Tue, 29 Jul 2025 17:00:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
