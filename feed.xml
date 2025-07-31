@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 22:23:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 02:02:37 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 30 Jul 2025 22:20:04 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 00:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #428: Red flags, leaked chats, and a final farewell</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-428/</link>
+      <pubDate>Wed, 30 Jul 2025 23:05:08 +0000</pubDate>
     </item>
     <item>
       <title>The $30M Cybersecurity AI — And Why Experts Say It Could Fail Spectacularly</title>
@@ -86,6 +91,11 @@
       <title>FunkSec Ransomware Decryptor Released Free to Public After Group Goes Dormant</title>
       <link>https://thehackernews.com/2025/07/funksec-ransomware-decryptor-released.html</link>
       <pubDate>Wed, 30 Jul 2025 16:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hafnium Tied to Advanced Chinese Surveillance Tools</title>
+      <link>https://www.infosecurity-magazine.com/news/hafnium-chinese-surveillance-tools/</link>
+      <pubDate>Wed, 30 Jul 2025 15:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Google Cloud: Threat Actors Increasingly Target Backups – Take These Steps Now</title>
@@ -296,16 +306,6 @@
       <title>How To Roll Out and Scale DLP Without Breaking Stuff</title>
       <link>https://www.security.com/product-insights/how-roll-out-and-scale-dlp-without-breaking-stuff</link>
       <pubDate>Tue, 29 Jul 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Policy and Disclosure: 2025 Edition</title>
-      <link>https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html</link>
-      <pubDate>Tue, 29 Jul 2025 14:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PyPI Warns of Ongoing Phishing Campaign Using Fake Verification Emails and Lookalike Domain</title>
-      <link>https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html</link>
-      <pubDate>Tue, 29 Jul 2025 14:27:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
