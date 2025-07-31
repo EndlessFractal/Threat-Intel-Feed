@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 16:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 18:35:40 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 31 Jul 2025 18:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Booker Prize Longlist and Hacker Summer Camp</title>
+      <link>https://blog.talosintelligence.com/the-booker-prize-longlist-and-hacker-summer-camp/</link>
+      <pubDate>Thu, 31 Jul 2025 18:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Spider Related Domain Names, (Thu, Jul 31st)</title>
+      <link>https://isc.sans.edu/diary/rss/32162</link>
+      <pubDate>Thu, 31 Jul 2025 17:56:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Secret Blizzard Deploys Malware in ISP-Level AitM Attacks on Moscow Embassies</title>
+      <link>https://thehackernews.com/2025/07/secret-blizzard-deploys-malware-in-isp.html</link>
+      <pubDate>Thu, 31 Jul 2025 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modernize your identity defense with Microsoft Identity Threat Detection and Response</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/07/31/modernize-your-identity-defense-with-microsoft-identity-threat-detection-and-response/</link>
+      <pubDate>Thu, 31 Jul 2025 17:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Attackers actively exploit critical zero-day in Alone WordPress Theme</title>
       <link>https://securityaffairs.com/180630/hacking/attackers-actively-exploit-critical-zero-day-in-alone-wordpress-theme.html</link>
@@ -16,6 +41,16 @@
       <title>Microsoft: Kremlin monitors foreign embassies in Moscow through cyber-espionage at ISP level</title>
       <link>https://therecord.media/russia-fsb-turla-espionage-foreign-embassies-isp-level</link>
       <pubDate>Thu, 31 Jul 2025 16:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frozen in transit: Secret Blizzard’s AiTM campaign against diplomats</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/07/31/frozen-in-transit-secret-blizzards-aitm-campaign-against-diplomats/</link>
+      <pubDate>Thu, 31 Jul 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts Detect Multi-Layer Redirect Tactic Used to Steal Microsoft 365 Login Credentials</title>
+      <link>https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html</link>
+      <pubDate>Thu, 31 Jul 2025 15:49:00 +0000</pubDate>
     </item>
     <item>
       <title>Android Malware Targets Banking Users Through Discord Channels</title>
@@ -46,11 +81,6 @@
       <title>North Korean hackers target open-source repositories in new espionage campaign</title>
       <link>https://therecord.media/north-korean-hackers-targeting-open-source-repositories</link>
       <pubDate>Thu, 31 Jul 2025 14:38:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 31 Jul 2025 14:30:03 +0000</pubDate>
     </item>
     <item>
       <title>Sophos named a Leader in the 2025 Frost Radar™ for Managed Detection and Response</title>
@@ -103,8 +133,28 @@
       <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Güralp Systems Güralp FMUS series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-212-01</link>
+      <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Lifecycle Services with VMware</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-212-02</link>
+      <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and USCG Issue Joint Advisory to Strengthen Cyber Hygiene in Critical Infrastructure</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/31/cisa-and-uscg-issue-joint-advisory-strengthen-cyber-hygiene-critical-infrastructure</link>
+      <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Thorium Platform Public Availability</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/07/31/thorium-platform-public-availability</link>
+      <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/31/cisa-releases-two-industrial-control-systems-advisories</link>
       <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -256,56 +306,6 @@
       <title>Hafnium Tied to Advanced Chinese Surveillance Tools</title>
       <link>https://www.infosecurity-magazine.com/news/hafnium-chinese-surveillance-tools/</link>
       <pubDate>Wed, 30 Jul 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud: Threat Actors Increasingly Target Backups – Take These Steps Now</title>
-      <link>https://www.techrepublic.com/article/news-google-cloud-h1-2025-threat-horizons-report/</link>
-      <pubDate>Wed, 30 Jul 2025 15:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Say Hello to the New SECURITY.COM</title>
-      <link>https://www.security.com/feature-stories/say-hello-new-security-dot-com</link>
-      <pubDate>Wed, 30 Jul 2025 15:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hidden Backdoor Found in ATM Network via Raspberry Pi</title>
-      <link>https://www.infosecurity-magazine.com/news/backdoor-atm-network-raspberry-pi/</link>
-      <pubDate>Wed, 30 Jul 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web  Issues Week 5, July 2025</title>
-      <link>https://asec.ahnlab.com/en/89316/</link>
-      <pubDate>Wed, 30 Jul 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google to Publicly Report New Vulnerabilities Within One Week of Vendor Disclosure</title>
-      <link>https://www.infosecurity-magazine.com/news/google-report-new-vulnerabilities/</link>
-      <pubDate>Wed, 30 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerabilities Identified in Dahua Hero C1 Smart Cameras</title>
-      <link>https://www.bitdefender.com/en-us/blog/labs/vulnerabilities-identified-in-dahua-hero-c1-smart-cameras</link>
-      <pubDate>Wed, 30 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PyPI maintainers alert users to email verification phishing attack</title>
-      <link>https://securityaffairs.com/180585/hacking/pypi-maintainers-alert-users-to-email-verification-phishing-attack.html</link>
-      <pubDate>Wed, 30 Jul 2025 13:16:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Product Walkthrough: A Look Inside Pillar's AI Security Platform</title>
-      <link>https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html</link>
-      <pubDate>Wed, 30 Jul 2025 13:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome</title>
-      <link>https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html</link>
-      <pubDate>Wed, 30 Jul 2025 13:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits</title>
-      <link>https://thehackernews.com/2025/07/critical-dahua-camera-flaws-enable.html</link>
-      <pubDate>Wed, 30 Jul 2025 13:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
