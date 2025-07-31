@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 20:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 22:23:40 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 31 Jul 2025 20:10:04 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 21:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Patches Vulnerability That Let Anyone Hide Search Results</title>
+      <link>https://www.techrepublic.com/article/news-google-search-refresh-outdated-content-exploit/</link>
+      <pubDate>Thu, 31 Jul 2025 20:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Russia-linked APT Secret Blizzard targets foreign embassies in Moscow with ApolloShadow malware</title>
@@ -301,11 +306,6 @@
       <title>Apple patches multiple vulnerabilities in iOS and iPadOS. Update now!</title>
       <link>https://www.malwarebytes.com/blog/news/2025/07/apple-patches-multiple-vulnerabilities-in-ios-and-ipados-update-now</link>
       <pubDate>Wed, 30 Jul 2025 16:56:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use Facebook Ads to Spread JSCEAL Malware via Fake Cryptocurrency Trading Apps</title>
-      <link>https://thehackernews.com/2025/07/hackers-use-facebook-ads-to-spread.html</link>
-      <pubDate>Wed, 30 Jul 2025 16:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
