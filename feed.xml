@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 04:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 06:36:47 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 31 Jul 2025 03:20:03 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 06:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dahua Camera flaws allow remote hacking. Update firmware now</title>
+      <link>https://securityaffairs.com/180602/hacking/dahua-camera-flaws-allow-remote-hacking-update-firmware-now.html</link>
+      <pubDate>Thu, 31 Jul 2025 05:55:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers released a decryptor for the FunkSec ransomware</title>
+      <link>https://securityaffairs.com/180616/malware/researchers-released-a-decryptor-for-the-funksec-ransomware.html</link>
+      <pubDate>Thu, 31 Jul 2025 05:52:45 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, July 31st, 2025 https://isc.sans.edu/podcastdetail/9550, (Thu, Jul 31st)</title>
@@ -296,16 +306,6 @@
       <title>Wiz Uncovers Critical Access Bypass Flaw in AI-Powered Vibe Coding Platform Base44</title>
       <link>https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html</link>
       <pubDate>Tue, 29 Jul 2025 15:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Authentication Flaw Identified in Base44 Vibe Coding Platform</title>
-      <link>https://www.infosecurity-magazine.com/news/authentication-flaw-base44/</link>
-      <pubDate>Tue, 29 Jul 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How To Roll Out and Scale DLP Without Breaking Stuff</title>
-      <link>https://www.security.com/product-insights/how-roll-out-and-scale-dlp-without-breaking-stuff</link>
-      <pubDate>Tue, 29 Jul 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
