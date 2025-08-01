@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Aug 2025 02:19:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 04:55:26 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 01 Aug 2025 01:15:03 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 04:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Friday, August 1st, 2025 https://isc.sans.edu/podcastdetail/9552, (Fri, Aug 1st)</title>
+      <link>https://isc.sans.edu/diary/rss/32164</link>
+      <pubDate>Fri, 01 Aug 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
       <title>BrainDamage – Payload Generator and Encrypted Shell Stager for Red Teams</title>
@@ -301,11 +306,6 @@
       <title>Europe’s General-Purpose AI Rulebook: What’s Covered &amp; Which Tech Giants Will Sign It</title>
       <link>https://www.techrepublic.com/article/news-eu-ai-code/</link>
       <pubDate>Wed, 30 Jul 2025 20:24:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing Firebase: Lessons Re-Learned from the Tea Breach, (Wed, Jul 30th)</title>
-      <link>https://isc.sans.edu/diary/rss/32158</link>
-      <pubDate>Wed, 30 Jul 2025 20:19:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
