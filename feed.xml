@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Aug 2025 14:25:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 16:31:25 +0000</lastBuildDate>
+    <item>
+      <title>Meta Offers $1M bounty at Pwn2Own Ireland 2025 for WhatsApp exploits</title>
+      <link>https://securityaffairs.com/180668/hacking/meta-offers-1m-bounty-at-pwn2own-ireland-2025-for-whatsapp-exploits.html</link>
+      <pubDate>Fri, 01 Aug 2025 15:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers leak purported Aeroflot data as Russia denies breach</title>
+      <link>https://therecord.media/hackers-leak-purported-aeroflot-data</link>
+      <pubDate>Fri, 01 Aug 2025 15:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI kills “short-lived experiment” where ChatGPT chats could be found on Google</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/08/openai-kills-short-lived-experiment-where-chatgpt-chats-could-be-found-on-google</link>
+      <pubDate>Fri, 01 Aug 2025 15:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 01 Aug 2025 15:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flo settles class action lawsuit alleging improper data sharing</title>
+      <link>https://therecord.media/flo-app-settlement-class-action-suit-data-sharing-meta</link>
+      <pubDate>Fri, 01 Aug 2025 14:44:28 +0000</pubDate>
+    </item>
     <item>
       <title>Russia’s mobile internet shutdowns hit record high amid Ukrainian drone attacks</title>
       <link>https://therecord.media/russia-mobile-internet-shutdowns-record</link>
       <pubDate>Fri, 01 Aug 2025 13:47:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts</title>
+      <link>https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html</link>
+      <pubDate>Fri, 01 Aug 2025 13:02:00 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 31</title>
@@ -18,9 +48,9 @@
       <pubDate>Fri, 01 Aug 2025 13:00:32 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 01 Aug 2025 12:20:04 +0000</pubDate>
+      <title>Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)</title>
+      <link>https://blog.cloudflare.com/vulnerability-disclosure-on-ssl-for-saas-v1-managed-cname/</link>
+      <pubDate>Fri, 01 Aug 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown</title>
@@ -148,11 +178,6 @@
       <pubDate>Thu, 31 Jul 2025 16:11:51 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft: Kremlin monitors foreign embassies in Moscow through cyber-espionage at ISP level</title>
-      <link>https://therecord.media/russia-fsb-turla-espionage-foreign-embassies-isp-level</link>
-      <pubDate>Thu, 31 Jul 2025 16:00:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Frozen in transit: Secret Blizzard’s AiTM campaign against diplomats</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/07/31/frozen-in-transit-secret-blizzards-aitm-campaign-against-diplomats/</link>
       <pubDate>Thu, 31 Jul 2025 16:00:00 +0000</pubDate>
@@ -166,11 +191,6 @@
       <title>Android Malware Targets Banking Users Through Discord Channels</title>
       <link>https://www.infosecurity-magazine.com/news/android-malware-targets-banks-via/</link>
       <pubDate>Thu, 31 Jul 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA unveils free Thorium malware analysis platform</title>
-      <link>https://therecord.media/cisa-unveils-free-malware-analysis-tool</link>
-      <pubDate>Thu, 31 Jul 2025 15:42:14 +0000</pubDate>
     </item>
     <item>
       <title>CISA Unveils Eviction Strategies Tool to Aid Incident Response</title>
@@ -286,26 +306,6 @@
       <title>FunkSec Ransomware Victims Can Now Recover Files with Free Decryptor</title>
       <link>https://www.infosecurity-magazine.com/news/funksec-ransomware-decryptor/</link>
       <pubDate>Thu, 31 Jul 2025 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UNC2891 Breaches ATM Network via 4G Raspberry Pi, Tries CAKETAP Rootkit for Fraud</title>
-      <link>https://thehackernews.com/2025/07/unc2891-breaches-atm-network-via-4g.html</link>
-      <pubDate>Thu, 31 Jul 2025 10:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using LLMs as a reverse engineering sidekick</title>
-      <link>https://blog.talosintelligence.com/using-llm-as-a-reverse-engineering-sidekick/</link>
-      <pubDate>Thu, 31 Jul 2025 10:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>IR Trends Q2 2025: Phishing attacks persist as actors leverage compromised valid accounts to enhance legitimacy</title>
-      <link>https://blog.talosintelligence.com/ir-trends-q2-2025/</link>
-      <pubDate>Thu, 31 Jul 2025 10:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Unit 42’s Attribution Framework</title>
-      <link>https://unit42.paloaltonetworks.com/unit-42-attribution-framework/</link>
-      <pubDate>Thu, 31 Jul 2025 10:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
