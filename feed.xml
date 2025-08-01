@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Aug 2025 18:34:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 20:26:31 +0000</lastBuildDate>
     <item>
       <title>China Investigates NVIDIA’s H20 Chips for Surveillance Risks</title>
       <link>https://www.techrepublic.com/article/news-china-investigates-nvidia-h20-chips-backdoor-security-risks/</link>
       <pubDate>Fri, 01 Aug 2025 18:32:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 01 Aug 2025 18:25:04 +0000</pubDate>
     </item>
     <item>
       <title>Apple ID scam leads to $27,000 in-person theft of Ohio man</title>
@@ -21,11 +26,6 @@
       <title>EU preps biometric checks for foreign visitors</title>
       <link>https://therecord.media/eu-preps-biometric-checks-travel</link>
       <pubDate>Fri, 01 Aug 2025 17:35:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 01 Aug 2025 17:25:03 +0000</pubDate>
     </item>
     <item>
       <title>Meta Offers $1M bounty at Pwn2Own Ireland 2025 for WhatsApp exploits</title>
@@ -68,6 +68,11 @@
       <pubDate>Fri, 01 Aug 2025 13:00:32 +0000</pubDate>
     </item>
     <item>
+      <title>Threat Actor Groups Tracked by Palo Alto Networks Unit 42 (Updated Aug. 1, 2025)</title>
+      <link>https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/</link>
+      <pubDate>Fri, 01 Aug 2025 13:00:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)</title>
       <link>https://blog.cloudflare.com/vulnerability-disclosure-on-ssl-for-saas-v1-managed-cname/</link>
       <pubDate>Fri, 01 Aug 2025 13:00:00 +0000</pubDate>
@@ -81,6 +86,11 @@
       <title>Luxembourg probes reported attack on Huawei tech that caused nationwide telecoms outage</title>
       <link>https://therecord.media/luxembourg-telecom-outage-reported-cyberattack-huawei-tech</link>
       <pubDate>Fri, 01 Aug 2025 12:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Let’s get Digital! Updated Digital Identity Guidelines are Here!</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/lets-get-digital-updated-digital-identity-guidelines-are-here</link>
+      <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ToolShell under siege: Check Point analyzes Chinese APT Storm-2603</title>
@@ -296,16 +306,6 @@
       <title>CISA Releases Two Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/07/31/cisa-releases-two-industrial-control-systems-advisories</link>
       <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals</title>
-      <link>https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html</link>
-      <pubDate>Thu, 31 Jul 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-8292: Use-After-Free Vulnerability in Google Chrome Leads to RCE and System Compromise</title>
-      <link>https://socprime.com/blog/cve-2025-8292-chrome-vulnerability/</link>
-      <pubDate>Thu, 31 Jul 2025 11:24:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
