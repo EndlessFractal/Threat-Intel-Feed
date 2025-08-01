@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 22:23:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 02:19:19 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 31 Jul 2025 21:10:03 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 01:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>BrainDamage – Payload Generator and Encrypted Shell Stager for Red Teams</title>
+      <link>https://www.darknet.org.uk/2025/08/braindamage-payload-generator-and-encrypted-shell-stager-for-red-teams/</link>
+      <pubDate>Fri, 01 Aug 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches Zero-Day Exploit Targeting Google Chrome Users</title>
+      <link>https://www.techrepublic.com/article/news-apple-zero-day-chrome-exploit-patch/</link>
+      <pubDate>Thu, 31 Jul 2025 23:11:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Exploitation of Microsoft SharePoint Vulnerabilities: Threat Brief (Updated July 31)</title>
+      <link>https://unit42.paloaltonetworks.com/microsoft-sharepoint-cve-2025-49704-cve-2025-49706-cve-2025-53770/</link>
+      <pubDate>Thu, 31 Jul 2025 22:30:19 +0000</pubDate>
     </item>
     <item>
       <title>Google Patches Vulnerability That Let Anyone Hide Search Results</title>
@@ -291,21 +306,6 @@
       <title>Securing Firebase: Lessons Re-Learned from the Tea Breach, (Wed, Jul 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32158</link>
       <pubDate>Wed, 30 Jul 2025 20:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scammers Unleash Flood of Slick Online Gaming Sites</title>
-      <link>https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/</link>
-      <pubDate>Wed, 30 Jul 2025 18:46:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple fixed a zero-day exploited in attacks against Google Chrome users</title>
-      <link>https://securityaffairs.com/180595/security/apple-fixed-a-zero-day-exploited-in-attacks-against-google-chrome-users.html</link>
-      <pubDate>Wed, 30 Jul 2025 18:09:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple patches multiple vulnerabilities in iOS and iPadOS. Update now!</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/07/apple-patches-multiple-vulnerabilities-in-ios-and-ipados-update-now</link>
-      <pubDate>Wed, 30 Jul 2025 16:56:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
