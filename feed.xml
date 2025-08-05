@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Aug 2025 06:38:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 08:34:36 +0000</lastBuildDate>
+    <item>
+      <title>Chaining NVIDIA’s Triton Server flaws exposes AI systems to remote takeover</title>
+      <link>https://securityaffairs.com/180793/security/chaining-nvidias-triton-server-flaws-exposes-ai-systems-to-remote-takeover.html</link>
+      <pubDate>Tue, 05 Aug 2025 07:35:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>15,000 Fake TikTok Shop Domains Deliver Malware, Steal Crypto via AI-Driven Scam Campaign</title>
+      <link>https://thehackernews.com/2025/08/15000-fake-tiktok-shop-domains-deliver.html</link>
+      <pubDate>Tue, 05 Aug 2025 07:27:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 05 Aug 2025 06:15:03 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 07:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall Investigating Potential SSL VPN Zero-Day After 20+ Targeted Attacks Reported</title>
+      <link>https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html</link>
+      <pubDate>Tue, 05 Aug 2025 05:18:00 +0000</pubDate>
     </item>
     <item>
       <title>New Feature: Daily Trends Report, (Mon, Aug 4th)</title>
@@ -71,6 +86,11 @@
       <title>Ghost in the Zip Reveals Expanding Ecosystem Behind PXA Stealer</title>
       <link>https://www.infosecurity-magazine.com/news/ghost-zip-behind-pxa-stealer/</link>
       <pubDate>Mon, 04 Aug 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Used China-Based Engineers to Maintain Vulnerable SharePoint</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-sharepoint-china-engineers/</link>
+      <pubDate>Mon, 04 Aug 2025 14:50:31 +0000</pubDate>
     </item>
     <item>
       <title>Hacked Crimean servers reveal information about abducted children, Ukraine says</title>
@@ -183,6 +203,11 @@
       <pubDate>Mon, 04 Aug 2025 06:19:00 +0000</pubDate>
     </item>
     <item>
+      <title>AI vs. AI: The Race Between Adversarial and Defensive Intelligence</title>
+      <link>https://www.crowdstrike.com/en-us/blog/ai-vs-ai-cybersecurity-arms-race/</link>
+      <pubDate>Mon, 04 Aug 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Monday, August 4th, 2025 https://isc.sans.edu/podcastdetail/9554, (Mon, Aug 4th)</title>
       <link>https://isc.sans.edu/diary/rss/32168</link>
       <pubDate>Mon, 04 Aug 2025 02:00:02 +0000</pubDate>
@@ -191,11 +216,6 @@
       <title>Legacy May Kill, (Sun, Aug 3rd)</title>
       <link>https://isc.sans.edu/diary/rss/32166</link>
       <pubDate>Sun, 03 Aug 2025 20:13:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Used China-Based Engineers to Maintain Vulnerable SharePoint</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-sharepoint-china-engineers/</link>
-      <pubDate>Sun, 03 Aug 2025 18:50:31 +0000</pubDate>
     </item>
     <item>
       <title>Akira Ransomware targets SonicWall VPNs in likely zero-day attacks</title>
@@ -231,11 +251,6 @@
       <title>New Linux backdoor Plague bypasses auth via malicious PAM module</title>
       <link>https://securityaffairs.com/180701/malware/new-linux-backdoor-plague-bypasses-auth-via-malicious-pam-module.html</link>
       <pubDate>Sat, 02 Aug 2025 23:22:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>China Presses Nvidia Over Alleged Backdoors in H20 Chips Amid Tech Tensions</title>
-      <link>https://securityaffairs.com/180694/intelligence/china-presses-nvidia-over-alleged-backdoors-in-h20-chips-amid-tech-tensions.html</link>
-      <pubDate>Sat, 02 Aug 2025 21:38:35 +0000</pubDate>
     </item>
     <item>
       <title>CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign</title>
@@ -291,21 +306,6 @@
       <title>Threat Actor Groups Tracked by Palo Alto Networks Unit 42 (Updated Aug. 1, 2025)</title>
       <link>https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/</link>
       <pubDate>Fri, 01 Aug 2025 13:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)</title>
-      <link>https://blog.cloudflare.com/vulnerability-disclosure-on-ssl-for-saas-v1-managed-cname/</link>
-      <pubDate>Fri, 01 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown</title>
-      <link>https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html</link>
-      <pubDate>Fri, 01 Aug 2025 12:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Let’s get Digital! Updated Digital Identity Guidelines are Here!</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/lets-get-digital-updated-digital-identity-guidelines-are-here</link>
-      <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
