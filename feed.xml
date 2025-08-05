@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Aug 2025 20:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 22:24:40 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 05 Aug 2025 21:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Use Proofpoint and Intermedia Link Wrapping to Hide Malicious URLs</title>
+      <link>https://www.techrepublic.com/article/news-proofpoint-link-wrapping-phishing/</link>
+      <pubDate>Tue, 05 Aug 2025 21:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>France extradites Nigerian national to US over $2.5 million hack targeting tax businesses</title>
+      <link>https://therecord.media/france-extradites-nigerian-national-ver-tax-hack-scam</link>
+      <pubDate>Tue, 05 Aug 2025 20:42:37 +0000</pubDate>
+    </item>
     <item>
       <title>Active infrastructure for Candiru spyware linked to Hungary, Saudi Arabia</title>
       <link>https://therecord.media/candiru-spyware-active-infrastructure-hungary-saudi-arabia</link>
@@ -16,11 +31,6 @@
       <title>Welcoming Guardio to Have I Been Pwned's Partner Program</title>
       <link>https://www.troyhunt.com/welcoming-guardio-to-have-i-been-pwneds-partner-program/</link>
       <pubDate>Tue, 05 Aug 2025 19:55:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 05 Aug 2025 18:30:04 +0000</pubDate>
     </item>
     <item>
       <title>Jeff Moss on DEF CON and its shadow power</title>
@@ -41,11 +51,6 @@
       <title>‘Critical’ firmware-level vulnerabilities found in laptops commonly used by security specialists</title>
       <link>https://therecord.media/critical-firmware-vulnerability-security-professionals</link>
       <pubDate>Tue, 05 Aug 2025 17:27:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bipartisan Senate duo wants answers from UnitedHealth over Episource data breach</title>
-      <link>https://therecord.media/episource-data-breach-questions-senators-cassidy-hassan</link>
-      <pubDate>Tue, 05 Aug 2025 17:11:58 +0000</pubDate>
     </item>
     <item>
       <title>Your SOC Is Tired. These AI Tools Aren’t.</title>
@@ -106,6 +111,11 @@
       <title>16-28 February 2025 Cyber Attacks Timeline</title>
       <link>https://www.hackmageddon.com/2025/08/05/16-28-february-2025-cyber-attacks-timeline/</link>
       <pubDate>Tue, 05 Aug 2025 14:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top Tech Conferences &amp; Events to Add to Your Calendar in 2025</title>
+      <link>https://www.techrepublic.com/article/top-tech-conferences-events/</link>
+      <pubDate>Tue, 05 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Google’s August Patch Fixes Two Qualcomm Vulnerabilities Exploited in the Wild</title>
@@ -228,13 +238,13 @@
       <pubDate>Tue, 05 Aug 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How CrowdStrike Secures AI Agents Across SaaS Environments</title>
-      <link>https://www.crowdstrike.com/en-us/blog/how-crowdstrike-secures-ai-agents-pervading-saas-environments/</link>
+      <title>CrowdStrike Announces Integration with ChatGPT Enterprise Compliance API</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-chatgpt-enterprise-compliance-api-integration/</link>
       <pubDate>Tue, 05 Aug 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CrowdStrike Announces Integration with ChatGPT Enterprise Compliance API</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-chatgpt-enterprise-compliance-api-integration/</link>
+      <title>How CrowdStrike Secures AI Agents Across SaaS Environments</title>
+      <link>https://www.crowdstrike.com/en-us/blog/how-crowdstrike-secures-ai-agents-pervading-saas-environments/</link>
       <pubDate>Tue, 05 Aug 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
@@ -256,11 +266,6 @@
       <title>NVIDIA Triton Vulnerabilities Could Let Attackers Hijack AI Inference Servers</title>
       <link>https://www.techrepublic.com/article/news-nvidia-triton-attack-chain/</link>
       <pubDate>Mon, 04 Aug 2025 18:46:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Use Proofpoint and Intermedia Link Wrapping to Hide Malicious URLs</title>
-      <link>https://www.techrepublic.com/article/news-proofpoint-link-wrapping-phishing/</link>
-      <pubDate>Mon, 04 Aug 2025 17:48:00 +0000</pubDate>
     </item>
     <item>
       <title>Hacking group D4rk4rmy claimed the hack of Monte-Carlo Société des Bains de Mer</title>
@@ -301,11 +306,6 @@
       <title>#BHUSA: Microsoft and Google Among Most Affected as Zero Day Exploits Jump 46%</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-google-zero-day-exploits/</link>
       <pubDate>Mon, 04 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vietnamese Hackers Use PXA Stealer, Hit 4,000 IPs and Steal 200,000 Passwords Globally</title>
-      <link>https://thehackernews.com/2025/08/vietnamese-hackers-use-pxa-stealer-hit.html</link>
-      <pubDate>Mon, 04 Aug 2025 13:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
