@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 08:33:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 10:27:02 +0000</lastBuildDate>
+    <item>
+      <title>When Good Accounts Go Bad: Exploiting Delegated Managed Service Accounts in Active Directory</title>
+      <link>https://unit42.paloaltonetworks.com/badsuccessor-attack-vector/</link>
+      <pubDate>Wed, 06 Aug 2025 10:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Driver of destruction: How a legitimate driver is being used to take down AV processes</title>
+      <link>https://securelist.com/av-killer-exploiting-throttlestop-sys/117026/</link>
+      <pubDate>Wed, 06 Aug 2025 10:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Updates Cyber Assessment Framework to Build UK CNI Resilience</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-updates-cyber-assessment/</link>
+      <pubDate>Wed, 06 Aug 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chanel and Pandora Breached as Salesforce Campaign Continues</title>
+      <link>https://www.infosecurity-magazine.com/news/chanel-pandora-breach-salesforce/</link>
+      <pubDate>Wed, 06 Aug 2025 09:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 06 Aug 2025 07:45:03 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 08:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERT-UA Warns of HTA-Delivered C# Malware Attacks Using Court Summons Lures</title>
+      <link>https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html</link>
+      <pubDate>Wed, 06 Aug 2025 07:25:00 +0000</pubDate>
     </item>
     <item>
       <title>These Cybersecurity Skills Will Help You Get Noticed, Not Ghosted</title>
@@ -281,31 +306,6 @@
       <title>SonicWall Investigating Potential SSL VPN Zero-Day After 20+ Targeted Attacks Reported</title>
       <link>https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html</link>
       <pubDate>Tue, 05 Aug 2025 05:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Announces Integration with ChatGPT Enterprise Compliance API</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-chatgpt-enterprise-compliance-api-integration/</link>
-      <pubDate>Tue, 05 Aug 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Tailors Adversary Intelligence to Customer Environments</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-tailors-adversary-intelligence-customer-environments/</link>
-      <pubDate>Tue, 05 Aug 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How CrowdStrike Secures AI Agents Across SaaS Environments</title>
-      <link>https://www.crowdstrike.com/en-us/blog/how-crowdstrike-secures-ai-agents-pervading-saas-environments/</link>
-      <pubDate>Tue, 05 Aug 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Feature: Daily Trends Report, (Mon, Aug 4th)</title>
-      <link>https://isc.sans.edu/diary/rss/32170</link>
-      <pubDate>Tue, 05 Aug 2025 02:52:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, August 5th, 2025 https://isc.sans.edu/podcastdetail/9556, (Tue, Aug 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/32172</link>
-      <pubDate>Tue, 05 Aug 2025 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
