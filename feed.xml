@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 06:38:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 08:33:53 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 06 Aug 2025 07:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>These Cybersecurity Skills Will Help You Get Noticed, Not Ghosted</title>
+      <link>https://www.techrepublic.com/article/complete-offensive-cybersecurity-bundle/</link>
+      <pubDate>Wed, 06 Aug 2025 07:00:50 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/180833/security/u-s-cisa-adds-d-link-cameras-and-network-video-recorder-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
@@ -23,14 +33,9 @@
       <pubDate>Wed, 06 Aug 2025 05:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Adds 3 D-Link Router Flaws to KEV Catalog After Active Exploitation Reports</title>
+      <title>CISA Adds 3 D-Link Vulnerabilities to KEV Catalog Amid Active Exploitation Evidence</title>
       <link>https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html</link>
       <pubDate>Wed, 06 Aug 2025 04:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 06 Aug 2025 04:40:03 +0000</pubDate>
     </item>
     <item>
       <title>The Semiconductor Industry and Regulatory Compliance</title>
@@ -301,11 +306,6 @@
       <title>ISC Stormcast For Tuesday, August 5th, 2025 https://isc.sans.edu/podcastdetail/9556, (Tue, Aug 5th)</title>
       <link>https://isc.sans.edu/diary/rss/32172</link>
       <pubDate>Tue, 05 Aug 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Talos Researcher Reveals Method That Causes LLMs to Expose Training Data</title>
-      <link>https://www.techrepublic.com/article/news-cisco-talos-generative-ai-llm-decomposition/</link>
-      <pubDate>Mon, 04 Aug 2025 19:44:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
