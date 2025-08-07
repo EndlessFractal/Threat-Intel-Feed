@@ -13,7 +13,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: "3.13"
 
       - name: Checkout code
         uses: actions/checkout@v4
@@ -29,8 +29,14 @@ jobs:
           git config --global user.email "${{ github.actor }}@github.com"
 
       - name: Run Parser
+        run: python FeedMerger.py
+
+      - name: Check for feed updates
         run: |
-          python FeedMerger.py
+          if git diff --quiet -I '^\s+<(lastBuildDate|pubDate)>.*</\1>' -- feed.xml feed.xml; then
+            echo "No meaningful changes to commit."
+            exit 0
+          fi
 
       - name: Commit and push changes
         run: |
