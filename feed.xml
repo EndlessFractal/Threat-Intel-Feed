@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Aug 2025 14:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 16:32:17 +0000</lastBuildDate>
+    <item>
+      <title>Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need</title>
+      <link>https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html</link>
+      <pubDate>Thu, 07 Aug 2025 15:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 07 Aug 2025 15:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>They Got Past Your First Layer. Now What?</title>
+      <link>https://www.security.com/expert-perspectives/defense-depth-zero-trust-world</link>
+      <pubDate>Thu, 07 Aug 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2025 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2025/08/07/february-2025-cyber-attacks-statistics/</link>
+      <pubDate>Thu, 07 Aug 2025 14:47:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>#BHUSA: Microsoft Debuts AI Agent Able to Reverse Engineer Malware</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-ai-agent-reverse/</link>
+      <pubDate>Thu, 07 Aug 2025 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA, Microsoft warn of critical Exchange hybrid flaw CVE-2025-53786</title>
+      <link>https://securityaffairs.com/180923/security/cisa-microsoft-warn-of-critical-exchange-hybrid-flaw-cve-2025-53786.html</link>
+      <pubDate>Thu, 07 Aug 2025 14:02:45 +0000</pubDate>
+    </item>
     <item>
       <title>New Microsoft Exchange Vulnerability Puts Hybrid Cloud Environments at Risk</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-exchange-vulnerability/</link>
@@ -33,14 +63,54 @@
       <pubDate>Thu, 07 Aug 2025 12:31:34 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 07 Aug 2025 12:25:03 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA, Microsoft issue alerts on ‘high-severity’ Exchange vulnerability</title>
       <link>https://therecord.media/microsoft-exchange-server-vulnerability-cisa-alert</link>
       <pubDate>Thu, 07 Aug 2025 12:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Electronics DIAView</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-219-01</link>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Johnson Controls FX80 and FX90</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-219-02</link>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Burk Technology ARC Solo</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-219-03</link>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Arena</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-219-04</link>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Packet Power EMX and EG</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-219-05</link>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dreame Technology iOS and Android Mobile Applications</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-219-06</link>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EG4 Electronics EG4 Inverters</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-219-07</link>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yealink IP Phones and RPS (Redirect and Provisioning Service)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-219-08</link>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Ten Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-releases-ten-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cyberattack hits France’s third-largest mobile operator, millions of customers affected</title>
@@ -78,7 +148,7 @@
       <pubDate>Thu, 07 Aug 2025 10:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>6,500 Axis Servers Expose Remoting Protocol, 4,000 in U.S. Vulnerable to Exploits</title>
+      <title>6,500 Axis Servers Expose Remoting Protocol; 4,000 in U.S. Vulnerable to Exploits</title>
       <link>https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html</link>
       <pubDate>Thu, 07 Aug 2025 10:40:00 +0000</pubDate>
     </item>
@@ -126,11 +196,6 @@
       <title>How CTEM Boosts Visibility and Shrinks Attack Surfaces in Hybrid and Cloud Environments</title>
       <link>https://securityaffairs.com/180871/security/how-ctem-boosts-visibility-and-shrinks-attack-surfaces-in-hybrid-and-cloud-environments.html</link>
       <pubDate>Thu, 07 Aug 2025 07:17:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need</title>
-      <link>https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html</link>
-      <pubDate>Thu, 07 Aug 2025 07:16:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, August 7th, 2025 https://isc.sans.edu/podcastdetail/9560, (Thu, Aug 7th)</title>
@@ -241,71 +306,6 @@
       <title>Ransom &amp; Dark Web  Issues Week 1, August 2025</title>
       <link>https://asec.ahnlab.com/en/89452/</link>
       <pubDate>Wed, 06 Aug 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAR-251132.c1.v1 Exploitation of SharePoint Vulnerabilities</title>
-      <link>https://www.cisa.gov/news-events/analysis-reports/ar25-218a</link>
-      <pubDate>Wed, 06 Aug 2025 14:50:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shared secret: EDR killer in the kill chain</title>
-      <link>https://news.sophos.com/en-us/2025/08/06/shared-secret-edr-killer-in-the-kill-chain/</link>
-      <pubDate>Wed, 06 Aug 2025 14:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers using fake summonses in attacks on Ukraine's defense sector</title>
-      <link>https://therecord.media/hackers-using-fake-summonses-ukraine</link>
-      <pubDate>Wed, 06 Aug 2025 13:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>#BHUSA: Exploring the Top Cyber Threats Facing Agentic AI Systems</title>
-      <link>https://www.infosecurity-magazine.com/news/top-cyber-threats-facing-agentic/</link>
-      <pubDate>Wed, 06 Aug 2025 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine claims to have hacked secrets from Russia’s newest nuclear submarine</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/ukraine-claims-to-have-hacked-secrets-from-russias-newest-nuclear-submarine</link>
-      <pubDate>Wed, 06 Aug 2025 13:44:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weight loss scams, or why ‘Jodie Foster’ wants me to lose weight</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/08/weight-loss-scams-or-why-jodie-foster-wants-me-to-lose-weight</link>
-      <pubDate>Wed, 06 Aug 2025 13:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>#BHUSA: Malware Complexity Jumps 127% in Six Months</title>
-      <link>https://www.infosecurity-magazine.com/news/malware-complexity-jumps-127/</link>
-      <pubDate>Wed, 06 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Are Targeting Critical Apex One Vulnerabilities, Trend Micro Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/attackers-critical-apex-one/</link>
-      <pubDate>Wed, 06 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perplexity AI ignores no-crawling rules on websites, crawls them anyway</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/08/perplexity-ai-ignores-no-crawling-rules-on-websites-crawls-them-anyway</link>
-      <pubDate>Wed, 06 Aug 2025 12:45:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who Got Arrested in the Raid on the XSS Crime Forum?</title>
-      <link>https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/</link>
-      <pubDate>Wed, 06 Aug 2025 12:12:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>WWBN, MedDream, Eclipse vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/wwbn-meddream-eclipse-vulnerabilities/</link>
-      <pubDate>Wed, 06 Aug 2025 12:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Malware Analysis Report Associated with Microsoft SharePoint Vulnerabilities</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/08/06/cisa-releases-malware-analysis-report-associated-microsoft-sharepoint-vulnerabilities</link>
-      <pubDate>Wed, 06 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases Guidance on High-Severity Vulnerability (CVE-2025-53786) in Hybrid Exchange Deployments</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/08/06/microsoft-releases-guidance-high-severity-vulnerability-cve-2025-53786-hybrid-exchange-deployments</link>
-      <pubDate>Wed, 06 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
