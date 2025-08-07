@@ -33,7 +33,7 @@ jobs:
 
       - name: Check for feed updates
         run: |
-          if git diff --quiet -I '^\s+<(lastBuildDate|pubDate)>.*</\1>' -- feed.xml feed.xml; then
+          if git diff --quiet -I '^\s*<(lastBuildDate|pubDate)>.*</\1>' HEAD -- feed.xml; then
             echo "No meaningful changes to commit."
             exit 0
           fi
