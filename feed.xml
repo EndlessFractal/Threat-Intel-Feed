@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Aug 2025 16:32:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 18:37:14 +0000</lastBuildDate>
     <item>
-      <title>Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need</title>
-      <link>https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html</link>
-      <pubDate>Thu, 07 Aug 2025 15:33:00 +0000</pubDate>
+      <title>AI wrote my code and all I got was this broken prototype</title>
+      <link>https://blog.talosintelligence.com/ai-wrote-my-code-and-all-i-got-was-this-broken-prototype/</link>
+      <pubDate>Thu, 07 Aug 2025 18:00:28 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 07 Aug 2025 15:30:03 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 16:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing public preview: Phishing triage agent in Microsoft Defender</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-public-preview-phishing-triage-agent-in-microsoft-defender/4438301</link>
+      <pubDate>Thu, 07 Aug 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need</title>
+      <link>https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html</link>
+      <pubDate>Thu, 07 Aug 2025 15:33:00 +0000</pubDate>
     </item>
     <item>
       <title>They Got Past Your First Layer. Now What?</title>
@@ -110,6 +120,11 @@
     <item>
       <title>CISA Releases Ten Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-releases-ten-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Issues ED 25-02: Mitigate Microsoft Exchange Vulnerability</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-issues-ed-25-02-mitigate-microsoft-exchange-vulnerability</link>
       <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>Trend Micro fixes two actively exploited Apex One RCE flaws</title>
       <link>https://securityaffairs.com/180856/hacking/trend-micro-fixes-two-actively-exploited-apex-one-rce-flaws.html</link>
       <pubDate>Wed, 06 Aug 2025 15:34:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Authorities Extradite Nigerian Man Accused of Hacking and Fraud</title>
-      <link>https://www.infosecurity-magazine.com/news/us-authorities-extradite-nigerian/</link>
-      <pubDate>Wed, 06 Aug 2025 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0099 Attack Detection: Hackers Target Government and Defense Agencies in Ukraine Using MATCHBOIL, MATCHWOK, and DRAGSTARE Malware</title>
-      <link>https://socprime.com/blog/detect-uac-0099-attacks-against-ukraine/</link>
-      <pubDate>Wed, 06 Aug 2025 15:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web  Issues Week 1, August 2025</title>
-      <link>https://asec.ahnlab.com/en/89452/</link>
-      <pubDate>Wed, 06 Aug 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
