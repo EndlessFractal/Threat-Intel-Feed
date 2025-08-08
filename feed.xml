@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Aug 2025 10:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 12:52:04 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 08 Aug 2025 12:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Columbia University says hacker stole SSNs and other data of nearly 900,000</title>
+      <link>https://therecord.media/columbia-university-data-breach-cyberattack-notifications</link>
+      <pubDate>Fri, 08 Aug 2025 12:36:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA pledges to continue backing CVE Program after April funding fiasco</title>
+      <link>https://therecord.media/cisa-pledges-support-cve-program-black-hat</link>
+      <pubDate>Fri, 08 Aug 2025 12:19:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Project Zero Changes Its Disclosure Policy</title>
+      <link>https://www.schneier.com/blog/archives/2025/08/google-project-zero-changes-its-disclosure-policy.html</link>
+      <pubDate>Fri, 08 Aug 2025 11:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leaked Credentials Up 160%: What Attackers Are Doing With Them</title>
+      <link>https://thehackernews.com/2025/08/leaked-credentials-up-160-what.html</link>
+      <pubDate>Fri, 08 Aug 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RubyGems, PyPI Hit by Malicious Packages Stealing Credentials, Crypto, Forcing Security Changes</title>
+      <link>https://thehackernews.com/2025/08/rubygems-pypi-hit-by-malicious-packages.html</link>
+      <pubDate>Fri, 08 Aug 2025 10:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Chrome renderer code exec to kernel with MSG_OOB</title>
+      <link>https://googleprojectzero.blogspot.com/2025/08/from-chrome-renderer-code-exec-to-kernel.html</link>
+      <pubDate>Fri, 08 Aug 2025 10:43:00 +0000</pubDate>
+    </item>
     <item>
       <title>US Federal Judiciary Tightens Security Following Escalated Cyber-Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/us-judiciary-security-cyber-attacks/</link>
@@ -21,11 +56,6 @@
       <title>Scammers mass-mailing the Efimer Trojan to steal crypto</title>
       <link>https://securelist.com/efimer-trojan/117148/</link>
       <pubDate>Fri, 08 Aug 2025 09:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 08 Aug 2025 08:45:04 +0000</pubDate>
     </item>
     <item>
       <title>Bouygues Telecom Data Breach Exposes 6.4 Million Customer Records</title>
@@ -228,11 +258,6 @@
       <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberattack hits France’s third-largest mobile operator, millions of customers affected</title>
-      <link>https://therecord.media/bouygues-telecom-france-cyberattack-data-breach</link>
-      <pubDate>Thu, 07 Aug 2025 11:51:04 +0000</pubDate>
-    </item>
-    <item>
       <title>TeaOnHer, the male version of Tea, is leaking personal information on its users too</title>
       <link>https://www.malwarebytes.com/blog/news/2025/08/teaonher-the-male-version-of-tea-is-leaking-personal-information-on-its-users-too</link>
       <pubDate>Thu, 07 Aug 2025 11:18:26 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>CERT-UA warns of UAC-0099 phishing attacks targeting Ukraine’s defense sector</title>
       <link>https://securityaffairs.com/180896/apt/cert-ua-warns-of-uac-0099-phishing-attacks-targeting-ukraines-defense-sector.html</link>
       <pubDate>Thu, 07 Aug 2025 10:04:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Infection Chain and ConfuserEx-Based Obfuscation for DarkCloud Stealer</title>
-      <link>https://unit42.paloaltonetworks.com/new-darkcloud-stealer-infection-chain/</link>
-      <pubDate>Thu, 07 Aug 2025 10:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malwarebytes earns MRG Effitas Android 360° Certificate for mobile threat detection</title>
-      <link>https://www.malwarebytes.com/blog/product/2025/08/malwarebytes-earns-mrg-effitas-android-360-certificate-for-mobile-threat-detection</link>
-      <pubDate>Thu, 07 Aug 2025 09:45:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts Alarmed by UK Government’s Companies House ID Checks</title>
-      <link>https://www.infosecurity-magazine.com/news/experts-alarmed-companies-house-id/</link>
-      <pubDate>Thu, 07 Aug 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall: Attacks Linked to Legacy Bug and Password Use</title>
-      <link>https://www.infosecurity-magazine.com/news/sonicwall-attacks-legacy-bug/</link>
-      <pubDate>Thu, 07 Aug 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 100 Dell models exposed to critical ControlVault3 firmware bugs</title>
-      <link>https://securityaffairs.com/180883/hacking/over-100-dell-models-exposed-to-critical-controlvault3-firmware-bugs.html</link>
-      <pubDate>Thu, 07 Aug 2025 07:20:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
