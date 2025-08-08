@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Aug 2025 08:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 10:26:44 +0000</lastBuildDate>
     <item>
-      <title>Bouygues Telecom Data Breach Exposes 6.4 Million Customer Records</title>
-      <link>https://www.infosecurity-magazine.com/news/bouygues-telecom-breach-customer/</link>
-      <pubDate>Fri, 08 Aug 2025 08:15:00 +0000</pubDate>
+      <title>US Federal Judiciary Tightens Security Following Escalated Cyber-Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/us-judiciary-security-cyber-attacks/</link>
+      <pubDate>Fri, 08 Aug 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TeaOnHer copies everything from Tea – including the data breaches</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/teaonher-copies-everything-from-tea-including-the-data-breaches</link>
+      <pubDate>Fri, 08 Aug 2025 09:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scammers mass-mailing the Efimer Trojan to steal crypto</title>
+      <link>https://securelist.com/efimer-trojan/117148/</link>
+      <pubDate>Fri, 08 Aug 2025 09:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 08 Aug 2025 07:45:04 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 08:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bouygues Telecom Data Breach Exposes 6.4 Million Customer Records</title>
+      <link>https://www.infosecurity-magazine.com/news/bouygues-telecom-breach-customer/</link>
+      <pubDate>Fri, 08 Aug 2025 08:15:00 +0000</pubDate>
     </item>
     <item>
       <title>GreedyBear Steals $1M in Crypto Using 150+ Malicious Firefox Wallet Extensions</title>
@@ -41,6 +56,11 @@
       <title>Inside Microsoft’s Real-Time War Against Cybersecurity Threats</title>
       <link>https://www.techrepublic.com/article/news-black-hat-2025-microsoft-security-teams-response-cyber-threats/</link>
       <pubDate>Fri, 08 Aug 2025 01:07:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Veles – Google’s Open Source Secret Scanner for GCP Key Detection</title>
+      <link>https://www.darknet.org.uk/2025/08/veles-googles-open-source-secret-scanner-for-gcp-key-detection/</link>
+      <pubDate>Fri, 08 Aug 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>6.8M WhatsApp Accounts Shut Down in Meta’s Fight Against Scam Networks</title>
@@ -286,26 +306,6 @@
       <title>Over 100 Dell models exposed to critical ControlVault3 firmware bugs</title>
       <link>https://securityaffairs.com/180883/hacking/over-100-dell-models-exposed-to-critical-controlvault3-firmware-bugs.html</link>
       <pubDate>Thu, 07 Aug 2025 07:20:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>How CTEM Boosts Visibility and Shrinks Attack Surfaces in Hybrid and Cloud Environments</title>
-      <link>https://securityaffairs.com/180871/security/how-ctem-boosts-visibility-and-shrinks-attack-surfaces-in-hybrid-and-cloud-environments.html</link>
-      <pubDate>Thu, 07 Aug 2025 07:17:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, August 7th, 2025 https://isc.sans.edu/podcastdetail/9560, (Thu, Aug 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/32182</link>
-      <pubDate>Thu, 07 Aug 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mass Internet Scanning from ASN 43350 [Guest Diary], (Thu, Aug 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/32180</link>
-      <pubDate>Thu, 07 Aug 2025 00:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Project Ire: Microsoft Tests AI That Autonomously Detects Malware</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-project-ire-ai-reverse-engineers-malware/</link>
-      <pubDate>Wed, 06 Aug 2025 22:35:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
