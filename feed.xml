@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Aug 2025 18:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 20:24:27 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sat, 09 Aug 2025 20:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks</title>
+      <link>https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html</link>
+      <pubDate>Sat, 09 Aug 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Embargo Ransomware nets $34.2M in crypto since April 2024</title>
       <link>https://securityaffairs.com/180981/cyber-crime/embargo-ransomware-nets-34-2m-in-crypto-since-april-2024.html</link>
       <pubDate>Sat, 09 Aug 2025 17:34:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 09 Aug 2025 17:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems</title>
@@ -300,11 +305,6 @@
     <item>
       <title>Johnson Controls FX80 and FX90</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-219-02</link>
-      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Burk Technology ARC Solo</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-219-03</link>
       <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
