@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Aug 2025 04:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 06:33:12 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 09 Aug 2025 02:55:04 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 05:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials</title>
+      <link>https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html</link>
+      <pubDate>Sat, 09 Aug 2025 05:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Former New York Times Cyber Reporter Issues Chilling Warning at Black Hat</title>
@@ -300,11 +305,6 @@
     <item>
       <title>CISA Releases Ten Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-releases-ten-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Issues ED 25-02: Mitigate Microsoft Exchange Vulnerability</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-issues-ed-25-02-mitigate-microsoft-exchange-vulnerability</link>
       <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
