@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 14:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 16:27:28 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 10 Aug 2025 13:15:03 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 15:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Paid Ads for Fake Tesla Websites, (Sun, Aug 10th)</title>
+      <link>https://isc.sans.edu/diary/rss/32186</link>
+      <pubDate>Sun, 10 Aug 2025 13:26:41 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation</title>
@@ -288,6 +293,11 @@
       <pubDate>Thu, 07 Aug 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>February 2025 Cyber Attacks Statistics</title>
+      <link>https://www.hackmageddon.com/2025/08/07/february-2025-cyber-attacks-statistics/</link>
+      <pubDate>Thu, 07 Aug 2025 14:47:30 +0000</pubDate>
+    </item>
+    <item>
       <title>#BHUSA: Microsoft Debuts AI Agent Able to Reverse Engineer Malware</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-ai-agent-reverse/</link>
       <pubDate>Thu, 07 Aug 2025 14:45:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>New Microsoft Exchange Vulnerability Puts Hybrid Cloud Environments at Risk</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-exchange-vulnerability/</link>
       <pubDate>Thu, 07 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Go, npm Packages Deliver Cross-Platform Malware, Trigger Remote Data Wipes</title>
-      <link>https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html</link>
-      <pubDate>Thu, 07 Aug 2025 13:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Among Victims in Ongoing Salesforce Data Theft Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/google-salesforce-data-theft/</link>
-      <pubDate>Thu, 07 Aug 2025 13:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
