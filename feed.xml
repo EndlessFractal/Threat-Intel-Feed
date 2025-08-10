@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 08:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 10:23:36 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Sun, 10 Aug 2025 10:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s Different About the Black Hat Conference, and What’s New in 2025?</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/whats-different-about-the-black-hat-conference-and-whats-new-in-2025</link>
+      <pubDate>Sun, 10 Aug 2025 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>BadCam: Linux-based Lenovo webcam bugs enable BadUSB attacks</title>
       <link>https://securityaffairs.com/181005/hacking/badcam-linux-based-lenovo-webcam-bugs-enable-badusb-attacks.html</link>
       <pubDate>Sun, 10 Aug 2025 07:10:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 10 Aug 2025 07:10:04 +0000</pubDate>
     </item>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 57</title>
@@ -31,6 +36,11 @@
       <title>Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks</title>
       <link>https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html</link>
       <pubDate>Sat, 09 Aug 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Reveal ReVault Attack Targeting Dell ControlVault3 Firmware in 100+ Laptop Models</title>
+      <link>https://thehackernews.com/2025/08/researchers-reveal-revault-attack.html</link>
+      <pubDate>Sat, 09 Aug 2025 18:55:00 +0000</pubDate>
     </item>
     <item>
       <title>Embargo Ransomware nets $34.2M in crypto since April 2024</title>
@@ -296,16 +306,6 @@
       <title>Google Among Victims in Ongoing Salesforce Data Theft Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/google-salesforce-data-theft/</link>
       <pubDate>Thu, 07 Aug 2025 13:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unveiling a New Variant of the DarkCloud Campaign</title>
-      <link>https://feeds.fortinet.com/~/922857380/0/fortinet/blog/threat-research~Unveiling-a-New-Variant-of-the-DarkCloud-Campaign</link>
-      <pubDate>Thu, 07 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facebook users targeted in ‘login’ phish</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/08/facebook-users-targeted-in-login-phish</link>
-      <pubDate>Thu, 07 Aug 2025 12:31:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
