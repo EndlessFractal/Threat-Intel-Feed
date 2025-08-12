@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Aug 2025 16:29:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 18:34:25 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 12 Aug 2025 17:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dutch NCSC: Citrix NetScaler zero-day breaches critical orgs</title>
+      <link>https://securityaffairs.com/181070/hacking/dutch-ncsc-citrix-netscaler-zero-day-breaches-critical-orgs.html</link>
+      <pubDate>Tue, 12 Aug 2025 17:45:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet SSL VPNs Hit by Global Brute-Force Wave Before Attackers Shift to FortiManager</title>
+      <link>https://thehackernews.com/2025/08/fortinet-ssl-vpns-hit-by-global-brute.html</link>
+      <pubDate>Tue, 12 Aug 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WinRAR vulnerability exploited by two different groups</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/08/winrar-vulnerability-exploited-by-two-different-groups</link>
+      <pubDate>Tue, 12 Aug 2025 16:28:53 +0000</pubDate>
+    </item>
     <item>
       <title>Cybercrime Groups ShinyHunters, Scattered Spider Join Forces in Extortion Attacks on Businesses</title>
       <link>https://thehackernews.com/2025/08/cybercrime-groups-shinyhunters.html</link>
@@ -18,6 +38,11 @@
       <pubDate>Tue, 12 Aug 2025 16:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Dow’s 125-year legacy: Innovating with AI to secure a long future</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/08/12/dows-125-year-legacy-innovating-with-ai-to-secure-a-long-future/</link>
+      <pubDate>Tue, 12 Aug 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New Charon ransomware targets Middle East public sector, aviation firms</title>
       <link>https://therecord.media/charon-ransomware-targeting-middle-east-aviation</link>
       <pubDate>Tue, 12 Aug 2025 15:57:56 +0000</pubDate>
@@ -26,11 +51,6 @@
       <title>DEF CON volunteers step up to help water sector after China, Iran attack utilities</title>
       <link>https://therecord.media/def-con-franklin-water-utility-cybersecurity-volunteers</link>
       <pubDate>Tue, 12 Aug 2025 15:50:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 12 Aug 2025 15:50:03 +0000</pubDate>
     </item>
     <item>
       <title>GPT-5 Safeguards Bypassed Using Storytelling-Driven Jailbreak</title>
@@ -135,6 +155,11 @@
     <item>
       <title>CISA Releases Seven Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-releases-seven-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 12 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 12 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>Automatic License Plate Readers Are Coming to Schools</title>
       <link>https://www.schneier.com/blog/archives/2025/08/automatic-license-plate-readers-are-coming-to-schools.html</link>
       <pubDate>Mon, 11 Aug 2025 11:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Embargo Ransomware Gang Amasses $34.2m in Attack Proceeds</title>
-      <link>https://www.infosecurity-magazine.com/news/embargo-ransomware-amasses-attack/</link>
-      <pubDate>Mon, 11 Aug 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic’s Claude Code Arms Developers With Always-On AI Security Reviews</title>
-      <link>https://www.techrepublic.com/article/news-anthropic-claude-code-ai-security-review/</link>
-      <pubDate>Mon, 11 Aug 2025 10:08:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keys to the Kingdom: Erlang/OTP SSH Vulnerability Analysis and Exploits Observed in the Wild</title>
-      <link>https://unit42.paloaltonetworks.com/erlang-otp-cve-2025-32433/</link>
-      <pubDate>Mon, 11 Aug 2025 10:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smart Buses flaws expose vehicles to tracking, control, and spying</title>
-      <link>https://securityaffairs.com/181045/hacking/smart-buses-flaws-expose-vehicles-to-tracking-control-and-spying.html</link>
-      <pubDate>Mon, 11 Aug 2025 08:40:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dia’s Paid Plan Marks New Phase in AI-Powered Web Browsing</title>
-      <link>https://www.techrepublic.com/article/news-arc-dia-the-browser-company/</link>
-      <pubDate>Mon, 11 Aug 2025 08:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
