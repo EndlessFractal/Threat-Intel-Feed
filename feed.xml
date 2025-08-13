@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 04:32:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 06:35:02 +0000</lastBuildDate>
+    <item>
+      <title>Charon Ransomware Hits Middle East Sectors Using APT-Level Evasion Tactics</title>
+      <link>https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html</link>
+      <pubDate>Wed, 13 Aug 2025 05:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 13 Aug 2025 02:55:04 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 04:00:04 +0000</pubDate>
     </item>
     <item>
       <title>Get Pwned, Get Local Advice From a Trusted Gov Source</title>
@@ -301,11 +306,6 @@
       <title>“The worst thing” for online rights: An age-restricted grey web (Lock and Code S06E16)</title>
       <link>https://www.malwarebytes.com/blog/podcast/2025/08/the-worst-thing-for-online-rights-an-age-restricted-grey-web-lock-and-code-s06e16</link>
       <pubDate>Mon, 11 Aug 2025 15:11:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Spot Surge in Erlang/OTP SSH RCE Exploits, 70% Target OT Firewalls</title>
-      <link>https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html</link>
-      <pubDate>Mon, 11 Aug 2025 15:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
