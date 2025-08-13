@@ -6,14 +6,29 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 16:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 18:32:31 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 13 Aug 2025 18:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>August Patch Tuesday includes blasts from the (recent) past</title>
+      <link>https://news.sophos.com/en-us/2025/08/13/august-patch-tuesday-includes-blasts-from-the-recent-past/</link>
+      <pubDate>Wed, 13 Aug 2025 17:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Applications in Cybersecurity</title>
+      <link>https://www.schneier.com/blog/archives/2025/08/ai-applications-in-cybersecurity.html</link>
+      <pubDate>Wed, 13 Aug 2025 16:28:35 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft’s Patch Tuesday: 100+ Updates Including Azure OpenAI Service, Memory Corruption Flaw</title>
       <link>https://www.techrepublic.com/article/news-microsoft-patch-tuesday-august-25/</link>
       <pubDate>Wed, 13 Aug 2025 16:22:59 +0000</pubDate>
     </item>
     <item>
-      <title>Estonians behind $577 million crypto mining fraud sentenced to 16 months</title>
+      <title>Estonians behind $577 million cryptomining fraud sentenced to 16 months</title>
       <link>https://therecord.media/estonians-behind-multimillion-dollar-crypto-fraud-sentenced</link>
       <pubDate>Wed, 13 Aug 2025 16:05:55 +0000</pubDate>
     </item>
@@ -21,6 +36,11 @@
       <title>Microsoft patches some very important vulnerabilities in August’s patch Tuesday</title>
       <link>https://www.malwarebytes.com/blog/news/2025/08/microsoft-patches-some-very-important-vulnerabilities-in-augusts-patch-tuesday</link>
       <pubDate>Wed, 13 Aug 2025 15:49:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>New PS1Bot Malware Campaign Uses Malvertising to Deploy Multi-Stage In-Memory Attacks</title>
+      <link>https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html</link>
+      <pubDate>Wed, 13 Aug 2025 15:46:00 +0000</pubDate>
     </item>
     <item>
       <title>Erlang/OTP SSH Vulnerability Sees Spike in Exploitation Attempts</title>
@@ -46,11 +66,6 @@
       <title>The MedusaLocker ransomware gang is hiring penetration testers</title>
       <link>https://www.fortra.com/blog/medusalocker-ransomware-gang-hiring-penetration-testers</link>
       <pubDate>Wed, 13 Aug 2025 14:17:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 13 Aug 2025 14:00:04 +0000</pubDate>
     </item>
     <item>
       <title>Zoom and Xerox Release Critical Security Updates Fixing Privilege Escalation and RCE Flaws</title>
@@ -291,21 +306,6 @@
       <title>Enhancements and new offerings for Sophos’ email security portfolio</title>
       <link>https://news.sophos.com/en-us/2025/08/12/enhancements-and-new-offerings-for-sophos-email-security-portfolio/</link>
       <pubDate>Tue, 12 Aug 2025 13:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>MITRE: Russian APT28's LameHug, a Pilot for Future AI Cyber-Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/mitre-russian-apt28-lamehug/</link>
-      <pubDate>Tue, 12 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ‘Curly COMrades’ APT Using NGEN COM Hijacking in Georgia, Moldova Attacks</title>
-      <link>https://thehackernews.com/2025/08/new-curly-comrades-apt-using-ngen-com.html</link>
-      <pubDate>Tue, 12 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>That “Amazon Safety Recall” message may well be a scam</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/08/that-amazon-safety-recall-message-may-well-be-a-scam</link>
-      <pubDate>Tue, 12 Aug 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
