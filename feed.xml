@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Aug 2025 08:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 10:25:46 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 14 Aug 2025 07:10:03 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 10:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Mega Malware Analysis Tutorial Featuring Donut-Generated Shellcode</title>
+      <link>https://unit42.paloaltonetworks.com/donut-malware-analysis-tutorial/</link>
+      <pubDate>Thu, 14 Aug 2025 10:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Warns Exploit Code Available for Critical Vulnerability</title>
+      <link>https://www.infosecurity-magazine.com/news/fortinet-exploit-code-available/</link>
+      <pubDate>Thu, 14 Aug 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simple Steps for Attack Surface Reduction</title>
+      <link>https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html</link>
+      <pubDate>Thu, 14 Aug 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Campaigners Slam Expansion of Police Facial Recognition Schemes in UK</title>
+      <link>https://www.infosecurity-magazine.com/news/campaigners-slam-police-facial/</link>
+      <pubDate>Thu, 14 Aug 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom patches critical Windows flaw allowing privilege escalation</title>
+      <link>https://securityaffairs.com/181140/security/zoom-patches-critical-windows-flaw-allowing-privilege-escalation.html</link>
+      <pubDate>Thu, 14 Aug 2025 08:22:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds N-able N-Central flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/181135/security/u-s-cisa-adds-n-able-n-central-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 14 Aug 2025 08:02:22 +0000</pubDate>
     </item>
     <item>
       <title>Manpower data breach impacted 144,180 individuals</title>
@@ -276,36 +306,6 @@
       <title>Muddled Libra’s Strike Teams: Amalgamated Evil</title>
       <link>https://unit42.paloaltonetworks.com/muddled-libras-strike-teams/</link>
       <pubDate>Tue, 12 Aug 2025 21:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malvertising campaign leads to PS1Bot, a multi-stage malware framework</title>
-      <link>https://blog.talosintelligence.com/ps1bot-malvertising-campaign/</link>
-      <pubDate>Tue, 12 Aug 2025 20:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday for August 2025 — Snort rules and prominent vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-august-2025/</link>
-      <pubDate>Tue, 12 Aug 2025 19:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft August 2025 Patch Tuesday, (Tue, Aug 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/32192</link>
-      <pubDate>Tue, 12 Aug 2025 18:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Spot XZ Utils Backdoor in Dozens of Docker Hub Images, Fueling Supply Chain Risks</title>
-      <link>https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html</link>
-      <pubDate>Tue, 12 Aug 2025 18:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch NCSC: Citrix NetScaler zero-day breaches critical orgs</title>
-      <link>https://securityaffairs.com/181070/hacking/dutch-ncsc-citrix-netscaler-zero-day-breaches-critical-orgs.html</link>
-      <pubDate>Tue, 12 Aug 2025 17:45:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet SSL VPNs Hit by Global Brute-Force Wave Before Attackers Shift to FortiManager</title>
-      <link>https://thehackernews.com/2025/08/fortinet-ssl-vpns-hit-by-global-brute.html</link>
-      <pubDate>Tue, 12 Aug 2025 17:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
