@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Aug 2025 01:54:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 03:21:54 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 14 Aug 2025 01:10:04 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 02:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Thursday, August 14th, 2025 https://isc.sans.edu/podcastdetail/9570, (Thu, Aug 14th)</title>
+      <link>https://isc.sans.edu/diary/rss/32200</link>
+      <pubDate>Thu, 14 Aug 2025 02:00:12 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds Microsoft Internet Explorer, Microsoft Office Excel, and WinRAR flaws to its Known Exploited Vulnerabilities catalog</title>
@@ -301,11 +306,6 @@
       <title>SonicWall VPN Cyberattack Linked to Known Access Control Vulnerability</title>
       <link>https://www.techrepublic.com/article/news-sonicwall-vpn-threat-activity/</link>
       <pubDate>Tue, 12 Aug 2025 15:38:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>29,000 Servers Remain Unpatched Against Microsoft Exchange Flaw</title>
-      <link>https://www.infosecurity-magazine.com/news/servers-unpatched-microsoft/</link>
-      <pubDate>Tue, 12 Aug 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
