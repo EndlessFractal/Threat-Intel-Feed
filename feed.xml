@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Aug 2025 06:37:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 08:33:29 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 18 Aug 2025 05:05:03 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 08:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xerox fixed path traversal and XXE bugs in FreeFlow Core</title>
+      <link>https://securityaffairs.com/181243/security/xerox-fixed-path-traversal-and-xxe-bugs-in-freeflow-core.html</link>
+      <pubDate>Mon, 18 Aug 2025 07:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (August 11 – August 17)</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/08/a-week-in-security-august-11-august-17</link>
+      <pubDate>Mon, 18 Aug 2025 07:01:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Monday, August 18th, 2025 https://isc.sans.edu/podcastdetail/9574, (Mon, Aug 18th)</title>
@@ -183,11 +193,6 @@
       <pubDate>Fri, 15 Aug 2025 08:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>‘Blue Locker’ Ransomware Targeting Oil &amp; Gas Sector in Pakistan</title>
-      <link>https://securityaffairs.com/181173/malware/blue-locker-ransomware-targeting-oil-gas-sector-in-pakistan.html</link>
-      <pubDate>Fri, 15 Aug 2025 08:05:14 +0000</pubDate>
-    </item>
-    <item>
       <title>Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution</title>
       <link>https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html</link>
       <pubDate>Fri, 15 Aug 2025 06:49:00 +0000</pubDate>
@@ -300,11 +305,6 @@
     <item>
       <title>Siemens SIMOTION SCOUT, SIMOTION SCOUT TIA, and SINAMICS STARTER</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-18</link>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINEC Traffic Analyzer</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-17</link>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
