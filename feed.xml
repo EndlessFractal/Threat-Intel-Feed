@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Aug 2025 12:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 14:24:34 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 18 Aug 2025 13:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors &amp; More</title>
+      <link>https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html</link>
+      <pubDate>Mon, 18 Aug 2025 12:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chinese APT Group Targets Web Hosting Services in Taiwan</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-apt-web-hosting-taiwan/</link>
@@ -21,11 +31,6 @@
       <title>Crypto24 Ransomware Detection: Hackers Hit Large Organizations via Legitimate Tools and Custom Malware to Stay Under the Radar</title>
       <link>https://socprime.com/blog/crypto24-ransomware-detection/</link>
       <pubDate>Mon, 18 Aug 2025 11:14:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 18 Aug 2025 11:10:04 +0000</pubDate>
     </item>
     <item>
       <title>Eavesdropping on Phone Conversations Through Vibrations</title>
@@ -301,11 +306,6 @@
       <title>KernelSU v0.5.7 Flaw Lets Android Apps Gain Root Access</title>
       <link>https://www.infosecurity-magazine.com/news/kernelsu-flaw-android-apps-root/</link>
       <pubDate>Thu, 14 Aug 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks</title>
-      <link>https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html</link>
-      <pubDate>Thu, 14 Aug 2025 15:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
