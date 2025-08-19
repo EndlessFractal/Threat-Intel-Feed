@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 16:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 18:29:40 +0000</lastBuildDate>
+    <item>
+      <title>Apache ActiveMQ Flaw Exploited to Deploy DripDropper Malware on Cloud Linux Systems</title>
+      <link>https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html</link>
+      <pubDate>Tue, 19 Aug 2025 17:37:00 +0000</pubDate>
+    </item>
     <item>
       <title>UK Has Dropped Apple Backdoor Request, US Spy Chief Says</title>
       <link>https://www.techrepublic.com/article/news-uk-drops-apple-backdoor/</link>
@@ -33,11 +38,6 @@
       <pubDate>Tue, 19 Aug 2025 15:34:53 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 19 Aug 2025 15:30:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Allianz Life Data Breach Exposes Personal Data of 1.1 Million Customers</title>
       <link>https://www.infosecurity-magazine.com/news/allianz-life-breach-exposes/</link>
       <pubDate>Tue, 19 Aug 2025 15:00:00 +0000</pubDate>
@@ -51,6 +51,11 @@
       <title>New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code</title>
       <link>https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html</link>
       <pubDate>Tue, 19 Aug 2025 14:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 19 Aug 2025 14:30:03 +0000</pubDate>
     </item>
     <item>
       <title>North Korea-linked hackers target embassies in Seoul in new espionage campaign</title>
@@ -301,11 +306,6 @@
       <title>Human resources firm Workday disclosed a data breach</title>
       <link>https://securityaffairs.com/181271/data-breach/human-resources-firm-workday-disclosed-a-data-breach.html</link>
       <pubDate>Mon, 18 Aug 2025 08:41:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>DoJ seizes $2.8M linked to Zeppelin Ransomware</title>
-      <link>https://securityaffairs.com/181237/cyber-crime/doj-seizes-2-8m-linked-to-zeppelin-ransomware.html</link>
-      <pubDate>Mon, 18 Aug 2025 08:07:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
