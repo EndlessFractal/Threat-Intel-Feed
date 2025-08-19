@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 08:29:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 10:23:48 +0000</lastBuildDate>
+    <item>
+      <title>Ransomware incidents in Japan during the first half of 2025</title>
+      <link>https://blog.talosintelligence.com/ransomware_incidents_in_japan_during_the_first_half_of_2025/</link>
+      <pubDate>Tue, 19 Aug 2025 10:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>JJ Cummings: The art of controlling information</title>
+      <link>https://blog.talosintelligence.com/jj-cummings-the-art-of-controlling-information/</link>
+      <pubDate>Tue, 19 Aug 2025 10:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fashionable Phishing Bait: GenAI on the Hook</title>
+      <link>https://unit42.paloaltonetworks.com/genai-phishing-bait/</link>
+      <pubDate>Tue, 19 Aug 2025 10:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Yorkshire Police Deletes 96,000 Pieces of Digital Evidence</title>
+      <link>https://www.infosecurity-magazine.com/news/south-yorkshire-police-deletes/</link>
+      <pubDate>Tue, 19 Aug 2025 09:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 19 Aug 2025 08:25:03 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 09:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian ISP iiNet Suffers Breach of 280,000+ Records</title>
+      <link>https://www.infosecurity-magazine.com/news/aussie-isp-iinet-breach-280000/</link>
+      <pubDate>Tue, 19 Aug 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Allianz Life security breach impacted 1.1 million customers</title>
+      <link>https://securityaffairs.com/181294/data-breach/allianz-life-security-breach-impacted-1-1-million-customers.html</link>
+      <pubDate>Tue, 19 Aug 2025 08:18:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyzing evolution of the PipeMagic malware</title>
+      <link>https://securityaffairs.com/181286/breaking-news/analyzing-evolution-of-the-pipemagic-malware.html</link>
+      <pubDate>Tue, 19 Aug 2025 08:01:19 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds Trend Micro Apex One flaw to its Known Exploited Vulnerabilities catalog</title>
@@ -213,19 +248,9 @@
       <pubDate>Sun, 17 Aug 2025 07:14:34 +0000</pubDate>
     </item>
     <item>
-      <title>Security Affairs newsletter Round 537 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/181226/breaking-news/security-affairs-newsletter-round-537-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 17 Aug 2025 00:26:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Weekly Update 465</title>
       <link>https://www.troyhunt.com/weekly-update-465/</link>
       <pubDate>Sat, 16 Aug 2025 22:06:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man-in-the-Prompt: The invisible attack threatening ChatGPT and other AI systems</title>
-      <link>https://securityaffairs.com/181211/cyber-crime/man-in-the-prompt-the-invisible-attack-threatening-chatgpt-and-other-ai-systems.html</link>
-      <pubDate>Sat, 16 Aug 2025 17:27:18 +0000</pubDate>
     </item>
     <item>
       <title>ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure</title>
@@ -281,31 +306,6 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 33</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-33-7/</link>
       <pubDate>Fri, 15 Aug 2025 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>US and Five Global Partners Release First Unified OT Security Taxonomy</title>
-      <link>https://www.infosecurity-magazine.com/news/us-canada-australia-nz-ot-security/</link>
-      <pubDate>Fri, 15 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions</title>
-      <link>https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html</link>
-      <pubDate>Fri, 15 Aug 2025 11:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trojans Embedded in .svg Files</title>
-      <link>https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html</link>
-      <pubDate>Fri, 15 Aug 2025 11:07:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero Trust + AI: Privacy in the Age of Agentic AI</title>
-      <link>https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html</link>
-      <pubDate>Fri, 15 Aug 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Discloses Critical RCE Flaw in Firewall Management Software</title>
-      <link>https://www.infosecurity-magazine.com/news/cisco-critical-rce-flaw-firewall/</link>
-      <pubDate>Fri, 15 Aug 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
