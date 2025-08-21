@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Aug 2025 22:19:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 01:45:36 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 21 Aug 2025 00:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety</title>
+      <link>https://unit42.paloaltonetworks.com/logit-gap-steering-impact/</link>
+      <pubDate>Wed, 20 Aug 2025 23:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Britain targets Kyrgyz financial institutions, crypto networks aiding Kremlin</title>
+      <link>https://securityaffairs.com/181375/laws-and-regulations/britain-targets-kyrgyz-financial-institutions-crypto-networks-aiding-kremlin.html</link>
+      <pubDate>Wed, 20 Aug 2025 22:37:17 +0000</pubDate>
+    </item>
     <item>
       <title>Russian state cyber group Static Tundra exploiting Cisco devices, FBI warns</title>
       <link>https://therecord.media/russia-cisco-fsb-static-tundra</link>
       <pubDate>Wed, 20 Aug 2025 19:05:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 20 Aug 2025 18:45:04 +0000</pubDate>
     </item>
     <item>
       <title>DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft</title>
@@ -41,6 +51,11 @@
       <title>Warlock ransomware: What you need to know</title>
       <link>https://www.fortra.com/blog/warlock-ransomware-what-you-need-know</link>
       <pubDate>Wed, 20 Aug 2025 16:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum-safe security: Progress towards next-generation cryptography</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/08/20/quantum-safe-security-progress-towards-next-generation-cryptography/</link>
+      <pubDate>Wed, 20 Aug 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pharmaceutical Company Inotiv Confirms Ransomware Attack</title>
@@ -291,21 +306,6 @@
       <title>Why Your Security Culture is Critical to Mitigating Cyber Risk</title>
       <link>https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html</link>
       <pubDate>Tue, 19 Aug 2025 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-Day Exploit in WinRAR File</title>
-      <link>https://www.schneier.com/blog/archives/2025/08/zero-day-exploit-in-winrar-file.html</link>
-      <pubDate>Tue, 19 Aug 2025 11:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware incidents in Japan during the first half of 2025</title>
-      <link>https://blog.talosintelligence.com/ransomware_incidents_in_japan_during_the_first_half_of_2025/</link>
-      <pubDate>Tue, 19 Aug 2025 10:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>JJ Cummings: The art of controlling information</title>
-      <link>https://blog.talosintelligence.com/jj-cummings-the-art-of-controlling-information/</link>
-      <pubDate>Tue, 19 Aug 2025 10:00:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
