@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Aug 2025 16:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 18:30:32 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 21 Aug 2025 18:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cherry pie, Douglas firs and the last trip of the summer</title>
+      <link>https://blog.talosintelligence.com/cherry-pie-douglas-firs-and-the-last-trip-of-the-summer/</link>
+      <pubDate>Thu, 21 Aug 2025 18:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple addressed the seventh actively exploited zero-day</title>
+      <link>https://securityaffairs.com/181394/security/apple-addressed-the-seventh-actively-exploited-zero-day.html</link>
+      <pubDate>Thu, 21 Aug 2025 16:54:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks</title>
+      <link>https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html</link>
+      <pubDate>Thu, 21 Aug 2025 16:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers deploy DripDropper via Apache ActiveMQ flaw, patch systems to evade detection</title>
+      <link>https://securityaffairs.com/181356/malware/hackers-deploy-dripdropper-via-apache-activemq-flaw-patch-systems-to-evade-detection.html</link>
+      <pubDate>Thu, 21 Aug 2025 16:30:10 +0000</pubDate>
+    </item>
     <item>
       <title>Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages</title>
       <link>https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html</link>
       <pubDate>Thu, 21 Aug 2025 16:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 21 Aug 2025 15:00:04 +0000</pubDate>
+      <title>Think before you Click(Fix): Analyzing the ClickFix social engineering technique</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/08/21/think-before-you-clickfix-analyzing-the-clickfix-social-engineering-technique/</link>
+      <pubDate>Thu, 21 Aug 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian Espionage Group Static Tundra Targets Legacy Cisco Flaw</title>
@@ -65,6 +90,11 @@
     <item>
       <title>CISA Releases Three Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-releases-three-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Thu, 21 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>Warlock Ransomware Hitting Victims Globally Through SharePoint ToolShell Exploit</title>
       <link>https://www.infosecurity-magazine.com/news/warlock-ransomware-sharepoint/</link>
       <pubDate>Wed, 20 Aug 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Impact to Action: Turning BIA Insights Into Resilient Recovery</title>
-      <link>https://thehackernews.com/2025/08/turning-bia-insights-into-resilient-recovery.html</link>
-      <pubDate>Wed, 20 Aug 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Macs May Not Be Safe from Modern Malware</title>
-      <link>https://www.techrepublic.com/article/siyanoav-antivirus-pro/</link>
-      <pubDate>Wed, 20 Aug 2025 10:22:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms</title>
-      <link>https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html</link>
-      <pubDate>Wed, 20 Aug 2025 09:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google fixed Chrome flaw found by Big Sleep AI</title>
-      <link>https://securityaffairs.com/181338/security/google-fixed-chrome-flaw-found-by-big-sleep-ai.html</link>
-      <pubDate>Wed, 20 Aug 2025 08:39:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pharmaceutical firm Inotiv discloses ransomware attack. Qilin group claims responsibility for the hack</title>
-      <link>https://securityaffairs.com/181311/data-breach/pharmaceutical-firm-inotiv-discloses-ransomware-attack-qilin-group-claims-responsibility-for-the-hack.html</link>
-      <pubDate>Wed, 20 Aug 2025 08:07:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>A hacker tied to Yemen Cyber Army gets 20 months in prison</title>
-      <link>https://securityaffairs.com/181320/cyber-crime/a-hacker-tied-to-yemen-cyber-army-gets-20-months-in-prison.html</link>
-      <pubDate>Wed, 20 Aug 2025 07:20:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
