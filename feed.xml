@@ -6,16 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 08:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 10:23:03 +0000</lastBuildDate>
     <item>
-      <title>U.S. CISA adds Apple iOS, iPadOS, and macOS flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/181406/security/u-s-cisa-adds-apple-ios-ipados-and-macos-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Fri, 22 Aug 2025 07:18:18 +0000</pubDate>
+      <title>Apple Releases Patch for Likely Exploited Zero-Day Vulnerability</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-patch-likely-exploited-zero/</link>
+      <pubDate>Fri, 22 Aug 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>After SharePoint attacks, Microsoft stops sharing PoC exploit code with China</title>
+      <link>https://securityaffairs.com/181430/security/after-sharepoint-attacks-microsoft-stops-sharing-poc-exploit-code-with-china.html</link>
+      <pubDate>Fri, 22 Aug 2025 09:12:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modern vehicle cybersecurity trends</title>
+      <link>https://securelist.com/automotive-security-trends-2025/117326/</link>
+      <pubDate>Fri, 22 Aug 2025 09:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Former developer jailed after deploying kill-switch malware at Ohio firm</title>
+      <link>https://securityaffairs.com/181422/uncategorized/former-developer-jailed-after-deploying-kill-switch-malware-at-ohio-firm.html</link>
+      <pubDate>Fri, 22 Aug 2025 08:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft to Make All Products Quantum Safe by 2033</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-products-quantum-safe/</link>
+      <pubDate>Fri, 22 Aug 2025 08:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 22 Aug 2025 07:10:09 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 08:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colt Discloses Breach After Warlock Ransomware Group Puts Files Up for Sale</title>
+      <link>https://securityaffairs.com/181412/data-breach/colt-discloses-breach-after-warlock-ransomware-group-puts-files-up-for-sale.html</link>
+      <pubDate>Fri, 22 Aug 2025 08:05:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Apple iOS, iPadOS, and macOS flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/181406/security/u-s-cisa-adds-apple-ios-ipados-and-macos-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Fri, 22 Aug 2025 07:18:18 +0000</pubDate>
     </item>
     <item>
       <title>Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware</title>
@@ -66,6 +96,11 @@
       <title>Think before you Click(Fix): Analyzing the ClickFix social engineering technique</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/08/21/think-before-you-clickfix-analyzing-the-clickfix-social-engineering-technique/</link>
       <pubDate>Thu, 21 Aug 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Security &amp; Malware Issue 3st Week of August, 2025</title>
+      <link>https://asec.ahnlab.com/en/89796/</link>
+      <pubDate>Thu, 21 Aug 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian Espionage Group Static Tundra Targets Legacy Cisco Flaw</title>
@@ -223,11 +258,6 @@
       <pubDate>Wed, 20 Aug 2025 23:00:15 +0000</pubDate>
     </item>
     <item>
-      <title>Britain targets Kyrgyz financial institutions, crypto networks aiding Kremlin</title>
-      <link>https://securityaffairs.com/181375/laws-and-regulations/britain-targets-kyrgyz-financial-institutions-crypto-networks-aiding-kremlin.html</link>
-      <pubDate>Wed, 20 Aug 2025 22:37:17 +0000</pubDate>
-    </item>
-    <item>
       <title>Russian state cyber group Static Tundra exploiting Cisco devices, FBI warns</title>
       <link>https://therecord.media/russia-cisco-fsb-static-tundra</link>
       <pubDate>Wed, 20 Aug 2025 19:05:02 +0000</pubDate>
@@ -246,11 +276,6 @@
       <title>Threat Intelligence Executive Report – Volume 2025, Number 4</title>
       <link>https://news.sophos.com/en-us/2025/08/20/threat-intelligence-executive-report-volume-2025-number-4/</link>
       <pubDate>Wed, 20 Aug 2025 16:57:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>DOJ takes action against 22-year-old running RapperBot Botnet</title>
-      <link>https://securityaffairs.com/181342/cyber-crime/doj-takes-action-against-22-year-old-running-rapperbot-botnet.html</link>
-      <pubDate>Wed, 20 Aug 2025 16:46:34 +0000</pubDate>
     </item>
     <item>
       <title>Warlock ransomware: What you need to know</title>
@@ -281,31 +306,6 @@
       <title>Airtell Router Scans, and Mislabeled usernames, (Wed, Aug 20th)</title>
       <link>https://isc.sans.edu/diary/rss/32216</link>
       <pubDate>Wed, 20 Aug 2025 15:27:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Britain targets Kyrgyz crypto networks aiding Kremlin with sanctions</title>
-      <link>https://therecord.media/britain-targets-kyrgyz-crypto</link>
-      <pubDate>Wed, 20 Aug 2025 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mule Operators in META Adopt Advanced Fraud Schemes</title>
-      <link>https://www.infosecurity-magazine.com/news/mule-operators-meta-advanced-fraud/</link>
-      <pubDate>Wed, 20 Aug 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proxyware Malware Being Distributed on YouTube Video Download Site – 2</title>
-      <link>https://asec.ahnlab.com/en/89787/</link>
-      <pubDate>Wed, 20 Aug 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web  Issues Week 3, August 2025</title>
-      <link>https://asec.ahnlab.com/en/89748/</link>
-      <pubDate>Wed, 20 Aug 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taegis MDR/XDR now work with Sophos Firewall’s Active Threat Response</title>
-      <link>https://news.sophos.com/en-us/2025/08/20/taegis-mdr-xdr-now-work-with-sophos-firewalls-active-threat-response/</link>
-      <pubDate>Wed, 20 Aug 2025 14:56:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
