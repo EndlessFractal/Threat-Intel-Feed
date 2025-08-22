@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 03:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 04:25:50 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 22 Aug 2025 01:10:04 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 04:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Friday, August 22nd, 2025 https://isc.sans.edu/podcastdetail/9582, (Fri, Aug 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/32222</link>
+      <pubDate>Fri, 22 Aug 2025 02:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Orange Belgium July data breach impacted 850,000 customers</title>
@@ -301,11 +306,6 @@
       <title>Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts</title>
       <link>https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html</link>
       <pubDate>Wed, 20 Aug 2025 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian state-sponsored espionage group Static Tundra compromises unpatched end-of-life network devices</title>
-      <link>https://blog.talosintelligence.com/static-tundra/</link>
-      <pubDate>Wed, 20 Aug 2025 13:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
