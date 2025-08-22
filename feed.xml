@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 16:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 18:30:21 +0000</lastBuildDate>
+    <item>
+      <title>Clickjack attack steals password managers’ secrets</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/08/clickjack-attack-steals-password-managers-secrets</link>
+      <pubDate>Fri, 22 Aug 2025 16:32:34 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIA CEO Dismisses Chip Security Allegations as China Orders Firms to Halt Purchases</title>
       <link>https://www.techrepublic.com/article/news-nvidia-dismisses-h20-security-concerns/</link>
       <pubDate>Fri, 22 Aug 2025 16:19:13 +0000</pubDate>
     </item>
     <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 22 Aug 2025 16:15:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Grok chats show up in Google searches</title>
       <link>https://www.malwarebytes.com/blog/news/2025/08/grok-chats-show-up-in-google-searches</link>
       <pubDate>Fri, 22 Aug 2025 15:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol says Telegram post about 50,000 Qilin ransomware award is fake</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-says-telegram-post-about-50-000-qilin-ransomware-award-is-fake</link>
+      <pubDate>Fri, 22 Aug 2025 15:01:03 +0000</pubDate>
     </item>
     <item>
       <title>Meet the Legends of Defense at VMware Explore 2025</title>
@@ -26,11 +41,6 @@
       <title>Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection</title>
       <link>https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html</link>
       <pubDate>Fri, 22 Aug 2025 14:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 22 Aug 2025 14:15:03 +0000</pubDate>
     </item>
     <item>
       <title>ChromeAlone – Chromium Browser C2 Implant for Red Team Operations</title>
@@ -296,16 +306,6 @@
       <title>NIST Unveils Guidelines to Help Spot Face Morphing Attempts</title>
       <link>https://www.infosecurity-magazine.com/news/nist-unveils-guidelines-spot-face/</link>
       <pubDate>Thu, 21 Aug 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI: Russia-linked group Static Tundra exploit old Cisco flaw for espionage</title>
-      <link>https://securityaffairs.com/181347/intelligence/fbi-russia-linked-group-static-tundra-exploit-old-cisco-flaw-for-espionage.html</link>
-      <pubDate>Thu, 21 Aug 2025 07:51:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>US CERT/CC warns of flaws in Workhorse Software accounting software used by hundreds of municipalities in Wisconsin</title>
-      <link>https://securityaffairs.com/181363/security/us-cert-cc-warns-of-flaws-in-workhorse-software-accounting-software-used-by-hundreds-of-municipalities-in-wisconsin.html</link>
-      <pubDate>Thu, 21 Aug 2025 07:05:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
