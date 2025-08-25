@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Aug 2025 16:28:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 18:32:18 +0000</lastBuildDate>
+    <item>
+      <title>Russia weighs Google Meet ban as part of foreign tech crackdown</title>
+      <link>https://therecord.media/russia-google-meet-ban-crackdown</link>
+      <pubDate>Mon, 25 Aug 2025 18:25:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insights: Telling You What We Really Think</title>
+      <link>https://unit42.paloaltonetworks.com/introducing-insights/</link>
+      <pubDate>Mon, 25 Aug 2025 18:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI browsers could leave users penniless: A prompt injection warning</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/08/ai-browsers-could-leave-users-penniless-a-prompt-injection-warning</link>
+      <pubDate>Mon, 25 Aug 2025 17:39:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Farmers Insurance says 1 million customers affected by cyberattack on third-party vendor</title>
+      <link>https://therecord.media/farmers-insurance-million-data-breach</link>
+      <pubDate>Mon, 25 Aug 2025 17:39:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Korea arrests suspected Chinese hacker accused of targeting BTS singer and other celebrities</title>
+      <link>https://therecord.media/south-korea-arrests-hacker-accused-of-targeting-celebrities-bts</link>
+      <pubDate>Mon, 25 Aug 2025 17:11:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 25 Aug 2025 17:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>Maryland investigating cyberattack impacting transit service for disabled people</title>
       <link>https://therecord.media/maryland-cyberattack-transit-disabled-people</link>
@@ -18,9 +48,9 @@
       <pubDate>Mon, 25 Aug 2025 16:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 25 Aug 2025 15:00:03 +0000</pubDate>
+      <title>Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads</title>
+      <link>https://thehackernews.com/2025/08/phishing-campaign-uses-upcrypter-in.html</link>
+      <pubDate>Mon, 25 Aug 2025 16:04:00 +0000</pubDate>
     </item>
     <item>
       <title>Your Enterprise Browser Isn’t the Data Leak Risk It Once Was</title>
@@ -31,6 +61,11 @@
       <title>ClickFix is Compromising Thousands of Devices Daily – Red Flags to Watch</title>
       <link>https://www.techrepublic.com/article/news-clickfix-attack-chain/</link>
       <pubDate>Mon, 25 Aug 2025 14:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unmasking the Unseen: Your Guide to Taming Shadow AI with Cloudflare One</title>
+      <link>https://blog.cloudflare.com/shadow-AI-analytics/</link>
+      <pubDate>Mon, 25 Aug 2025 14:05:00 +0000</pubDate>
     </item>
     <item>
       <title>Fake macOS Help Sites Seek to Spread Infostealer in Targeted Campaign</title>
@@ -51,6 +86,11 @@
       <title>⚡ Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits &amp; More</title>
       <link>https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html</link>
       <pubDate>Mon, 25 Aug 2025 12:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/25/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations</title>
@@ -218,16 +258,6 @@
       <pubDate>Fri, 22 Aug 2025 13:29:23 +0000</pubDate>
     </item>
     <item>
-      <title>Electronics manufacturer Data I/O reports ransomware attack to SEC</title>
-      <link>https://therecord.media/electronics-manufacturer-dataio-ransomware</link>
-      <pubDate>Fri, 22 Aug 2025 13:13:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA warns of Apple zero-day used in targeted cyberattacks</title>
-      <link>https://therecord.media/cisa-warns-of-apple-zero-day</link>
-      <pubDate>Fri, 22 Aug 2025 13:12:27 +0000</pubDate>
-    </item>
-    <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 34</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-7/</link>
       <pubDate>Fri, 22 Aug 2025 13:00:39 +0000</pubDate>
@@ -236,11 +266,6 @@
       <title>The Resurgence of IoT Malware: Inside the Mirai-Based “Gayfemboy” Botnet Campaign</title>
       <link>https://feeds.fortinet.com/~/923640392/0/fortinet/blog/threat-research~The-Resurgence-of-IoT-Malware-Inside-the-MiraiBased-%e2%80%9cGayfemboy%e2%80%9d-Botnet-Campaign</link>
       <pubDate>Fri, 22 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US warns tech companies against complying with European and British ‘censorship’ laws</title>
-      <link>https://therecord.media/tech-companies-ftc-censorship-laws</link>
-      <pubDate>Fri, 22 Aug 2025 12:41:20 +0000</pubDate>
     </item>
     <item>
       <title>Interpol-Led African Cybercrime Crackdown Leads to 1209 Arrests</title>
@@ -281,31 +306,6 @@
       <title>Apple Releases Patch for Likely Exploited Zero-Day Vulnerability</title>
       <link>https://www.infosecurity-magazine.com/news/apple-patch-likely-exploited-zero/</link>
       <pubDate>Fri, 22 Aug 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modern vehicle cybersecurity trends</title>
-      <link>https://securelist.com/automotive-security-trends-2025/117326/</link>
-      <pubDate>Fri, 22 Aug 2025 09:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft to Make All Products Quantum Safe by 2033</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-products-quantum-safe/</link>
-      <pubDate>Fri, 22 Aug 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blue Locker ransomware hits critical infrastructure – is your organisation ready?</title>
-      <link>https://www.exponential-e.com/blog/blue-locker-ransomware-hits-critical-infrastructure-is-your-organisation-ready</link>
-      <pubDate>Fri, 22 Aug 2025 07:07:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware</title>
-      <link>https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html</link>
-      <pubDate>Fri, 22 Aug 2025 06:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, August 22nd, 2025 https://isc.sans.edu/podcastdetail/9582, (Fri, Aug 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/32222</link>
-      <pubDate>Fri, 22 Aug 2025 02:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
