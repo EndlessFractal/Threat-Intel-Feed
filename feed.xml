@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Aug 2025 12:48:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 14:20:07 +0000</lastBuildDate>
+    <item>
+      <title>DSLRoot, Proxies, and the Threat of ‘Legal Botnets’</title>
+      <link>https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/</link>
+      <pubDate>Tue, 26 Aug 2025 14:05:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Your SSE Earning Its Keep? This One Is.</title>
+      <link>https://www.security.com/expert-perspectives/your-sse-earning-its-keep-one</link>
+      <pubDate>Tue, 26 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers</title>
+      <link>https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html</link>
+      <pubDate>Tue, 26 Aug 2025 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google to Require Identity Verification for Android App Developers: Here’s the Rollout Timeline</title>
+      <link>https://www.techrepublic.com/article/news-android-sideloading-app-developer/</link>
+      <pubDate>Tue, 26 Aug 2025 13:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nevada state websites, phone lines knocked offline by cyberattack</title>
+      <link>https://therecord.media/nevada-state-websites-phones-cyberattack-disruption</link>
+      <pubDate>Tue, 26 Aug 2025 13:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 26 Aug 2025 13:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>BQTLOCK Ransomware Detection: New RaaS Operators Employ Advanced Detection Evasion Techniques</title>
+      <link>https://socprime.com/blog/bqtlock-ransomware-detection/</link>
+      <pubDate>Tue, 26 Aug 2025 13:07:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auchan discloses data breach: data of hundreds of thousands of customers exposed</title>
+      <link>https://securityaffairs.com/181556/data-breach/auchan-discloses-data-breach-data-of-hundreds-of-thousands-of-customers-exposed.html</link>
+      <pubDate>Tue, 26 Aug 2025 13:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alleged mastermind behind K-Pop celebrity stock heist extradited to South Korea</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-mastermind-behind-k-pop-celebrity-stock-heist-extradited-to-south-korea</link>
+      <pubDate>Tue, 26 Aug 2025 11:31:08 +0000</pubDate>
+    </item>
     <item>
       <title>Encryption Backdoor in Military/Police Radios</title>
       <link>https://www.schneier.com/blog/archives/2025/08/encryption-backdoor-in-military-police-radios.html</link>
@@ -26,11 +71,6 @@
       <title>US: Maryland Confirms Cyber Incident Affecting State Transport Systems</title>
       <link>https://www.infosecurity-magazine.com/news/us-maryland-cyber-incident/</link>
       <pubDate>Tue, 26 Aug 2025 10:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 26 Aug 2025 10:10:03 +0000</pubDate>
     </item>
     <item>
       <title>CIISec: Most Security Professionals Want Stricter Regulations</title>
@@ -128,11 +168,6 @@
       <pubDate>Mon, 25 Aug 2025 16:13:13 +0000</pubDate>
     </item>
     <item>
-      <title>Wyden calls for probe of federal judiciary data breaches, accusing it of ‘negligence’</title>
-      <link>https://therecord.media/wyden-probe-federal-judiciary-data-breaches</link>
-      <pubDate>Mon, 25 Aug 2025 16:10:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads</title>
       <link>https://thehackernews.com/2025/08/phishing-campaign-uses-upcrypter-in.html</link>
       <pubDate>Mon, 25 Aug 2025 16:04:00 +0000</pubDate>
@@ -203,6 +238,11 @@
       <pubDate>Mon, 25 Aug 2025 08:13:00 +0000</pubDate>
     </item>
     <item>
+      <title>Yemen Cyber Army hacker jailed after stealing millions of people’s data</title>
+      <link>https://grahamcluley.com/yemen-cyber-army-hacker-jailed-after-stealing-millions-of-peoples-data/</link>
+      <pubDate>Mon, 25 Aug 2025 07:46:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Android.Backdoor.916.origin malware targets Russian business executives</title>
       <link>https://securityaffairs.com/181503/malware/android-backdoor-916-origin-malware-targets-russian-business-executives.html</link>
       <pubDate>Mon, 25 Aug 2025 07:16:01 +0000</pubDate>
@@ -266,46 +306,6 @@
       <title>IoT under siege: The return of the Mirai-based Gayfemboy Botnet</title>
       <link>https://securityaffairs.com/181480/cyber-crime/iot-under-siege-the-return-of-the-mirai-based-gayfemboy-botnet.html</link>
       <pubDate>Sun, 24 Aug 2025 08:36:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 59</title>
-      <link>https://securityaffairs.com/181469/malware/security-affairs-malware-newsletter-round-59.html</link>
-      <pubDate>Sun, 24 Aug 2025 08:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 538 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/181465/breaking-news/security-affairs-newsletter-round-538-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 24 Aug 2025 07:17:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kidney dialysis firm DaVita confirms ransomware attack compromised data of 2.7M people</title>
-      <link>https://securityaffairs.com/181458/data-breach/kidney-dialysis-firm-davita-confirms-ransomware-attack-compromised-data-of-2-7m-people.html</link>
-      <pubDate>Sat, 23 Aug 2025 17:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets</title>
-      <link>https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html</link>
-      <pubDate>Sat, 23 Aug 2025 07:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Bobtail Squid</title>
-      <link>https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-bobtail-squid.html</link>
-      <pubDate>Fri, 22 Aug 2025 21:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>I’m Spending the Year at the Munk School</title>
-      <link>https://www.schneier.com/blog/archives/2025/08/im-spending-the-year-at-the-munk-school.html</link>
-      <pubDate>Fri, 22 Aug 2025 19:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clickjack attack steals password managers’ secrets</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/08/clickjack-attack-steals-password-managers-secrets</link>
-      <pubDate>Fri, 22 Aug 2025 16:32:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA CEO Dismisses Chip Security Allegations as China Orders Firms to Halt Purchases</title>
-      <link>https://www.techrepublic.com/article/news-nvidia-dismisses-h20-security-concerns/</link>
-      <pubDate>Fri, 22 Aug 2025 16:19:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
