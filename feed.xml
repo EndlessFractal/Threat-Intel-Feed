@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 20:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 22:19:26 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 27 Aug 2025 21:30:04 +0000</pubDate>
+    </item>
     <item>
       <title>Over 28,000 Citrix instances remain exposed to critical RCE flaw CVE-2025-7775</title>
       <link>https://securityaffairs.com/181614/hacking/over-28000-citrix-instances-remain-exposed-to-critical-rce-flaw-cve-2025-7775.html</link>
@@ -31,11 +36,6 @@
       <title>Libbiosig, Tenda, SAIL, PDF XChange, Foxit vulnerabilities</title>
       <link>https://blog.talosintelligence.com/libbiosig-tenda-sail-pdf-xchange-foxit-vulnerabilities/</link>
       <pubDate>Wed, 27 Aug 2025 18:07:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 27 Aug 2025 17:30:04 +0000</pubDate>
     </item>
     <item>
       <title>License-plate reader company pauses work with federal agencies after backlash</title>
@@ -213,6 +213,11 @@
       <pubDate>Wed, 27 Aug 2025 05:55:21 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike to Acquire Onum to Transform How Data Powers the Agentic SOC</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-onum/</link>
+      <pubDate>Wed, 27 Aug 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CrowdStrike Named a Leader in 2025 IDC MarketScape for Worldwide Incident Response Services</title>
       <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-2025-idc-marketscape-worldwide-ir-services/</link>
       <pubDate>Wed, 27 Aug 2025 05:00:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Block unsafe prompts targeting your LLM endpoints with Firewall for AI</title>
       <link>https://blog.cloudflare.com/block-unsafe-llm-prompts-with-firewall-for-ai/</link>
       <pubDate>Tue, 26 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers</title>
-      <link>https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html</link>
-      <pubDate>Tue, 26 Aug 2025 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
