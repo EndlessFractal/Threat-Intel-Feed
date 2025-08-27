@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 08:28:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 10:21:47 +0000</lastBuildDate>
+    <item>
+      <title>Citrix Patches Three NetScaler Zero Days as One Sees Active Exploitation</title>
+      <link>https://www.infosecurity-magazine.com/news/citrix-patch-netscaler-zero-days/</link>
+      <pubDate>Wed, 27 Aug 2025 10:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploits and vulnerabilities in Q2 2025</title>
+      <link>https://securelist.com/vulnerabilities-and-exploits-in-q2-2025/117333/</link>
+      <pubDate>Wed, 27 Aug 2025 10:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer Data</title>
+      <link>https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html</link>
+      <pubDate>Wed, 27 Aug 2025 09:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ENISA to Coordinate €36m EU-Wide Incident Response Scheme</title>
+      <link>https://www.infosecurity-magazine.com/news/enisa-coordinate-36m-euwide/</link>
+      <pubDate>Wed, 27 Aug 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blind Eagle’s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra</title>
+      <link>https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html</link>
+      <pubDate>Wed, 27 Aug 2025 09:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESET warns of PromptLock, the first AI-driven ransomware</title>
+      <link>https://securityaffairs.com/181595/malware/eset-warns-of-promptlock-the-first-ai-driven-ransomware.html</link>
+      <pubDate>Wed, 27 Aug 2025 08:47:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Data Theft Campaign Targets Salesforce via Salesloft App</title>
+      <link>https://www.infosecurity-magazine.com/news/data-theft-campaign-salesforce/</link>
+      <pubDate>Wed, 27 Aug 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 27 Aug 2025 08:25:03 +0000</pubDate>
+    </item>
     <item>
       <title>New Phishing Campaign Abuses ConnectWise ScreenConnect to Take Over Devices</title>
       <link>https://www.infosecurity-magazine.com/news/phishing-abuses-connectwise-take/</link>
@@ -21,11 +61,6 @@
       <title>China linked Silk Typhoon targeted diplomats by hijacking web traffic</title>
       <link>https://securityaffairs.com/181584/security/china-linked-silk-typhoon-targeted-diplomats-by-hijacking-web-traffic.html</link>
       <pubDate>Wed, 27 Aug 2025 07:33:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 27 Aug 2025 07:25:04 +0000</pubDate>
     </item>
     <item>
       <title>Interesting Technique to Launch a Shellcode, (Wed, Aug 27th)</title>
@@ -271,41 +306,6 @@
       <title>AI browsers could leave users penniless: A prompt injection warning</title>
       <link>https://www.malwarebytes.com/blog/news/2025/08/ai-browsers-could-leave-users-penniless-a-prompt-injection-warning</link>
       <pubDate>Mon, 25 Aug 2025 17:39:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Farmers Insurance says 1 million customers affected by cyberattack on third-party vendor</title>
-      <link>https://therecord.media/farmers-insurance-million-data-breach</link>
-      <pubDate>Mon, 25 Aug 2025 17:39:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea arrests suspected Chinese hacker accused of targeting BTS singer and other celebrities</title>
-      <link>https://therecord.media/south-korea-arrests-hacker-accused-of-targeting-celebrities-bts</link>
-      <pubDate>Mon, 25 Aug 2025 17:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads</title>
-      <link>https://thehackernews.com/2025/08/phishing-campaign-uses-upcrypter-in.html</link>
-      <pubDate>Mon, 25 Aug 2025 16:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Enterprise Browser Isn’t the Data Leak Risk It Once Was</title>
-      <link>https://www.security.com/product-insights/your-enterprise-browser-isnt-data-leak-risk-it-once-was</link>
-      <pubDate>Mon, 25 Aug 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClickFix is Compromising Thousands of Devices Daily – Red Flags to Watch</title>
-      <link>https://www.techrepublic.com/article/news-clickfix-attack-chain/</link>
-      <pubDate>Mon, 25 Aug 2025 14:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unmasking the Unseen: Your Guide to Taming Shadow AI with Cloudflare One</title>
-      <link>https://blog.cloudflare.com/shadow-AI-analytics/</link>
-      <pubDate>Mon, 25 Aug 2025 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake macOS Help Sites Seek to Spread Infostealer in Targeted Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-macos-spread-infostealer/</link>
-      <pubDate>Mon, 25 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
