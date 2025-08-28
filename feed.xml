@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 12:43:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 14:21:24 +0000</lastBuildDate>
+    <item>
+      <title>Google Identifies ‘Widespread Data Theft’ Impacting Salesforce-Salesloft Drift Users</title>
+      <link>https://www.techrepublic.com/article/news-salesforce-salesloft-drift-data-breach/</link>
+      <pubDate>Thu, 28 Aug 2025 14:04:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>The age of agents: cryptographically recognizing agent traffic</title>
+      <link>https://blog.cloudflare.com/signed-agents/</link>
+      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netherlands Confirms China's Salt Typhoon Targeted Small Dutch Telcos</title>
+      <link>https://www.infosecurity-magazine.com/news/china-salt-typhoon-dutch-telcos/</link>
+      <pubDate>Thu, 28 Aug 2025 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA steps in to help Nevada state government recover from cyberattack</title>
+      <link>https://therecord.media/cisa-steps-nevada-cyber-state</link>
+      <pubDate>Thu, 28 Aug 2025 13:04:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defend what matters: Introducing Sophos Endpoint for Legacy Platforms</title>
+      <link>https://news.sophos.com/en-us/2025/08/28/defend-what-matters-introducing-sophos-endpoint-for-legacy-platforms/</link>
+      <pubDate>Thu, 28 Aug 2025 13:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-7775 Vulnerability: A New Critical NetScaler RCE Zero-Day Under Active Exploitation</title>
+      <link>https://socprime.com/blog/cve-2025-7775-vulnerability/</link>
+      <pubDate>Thu, 28 Aug 2025 13:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious VS Code Extensions Exploit Name Reuse Loophole</title>
+      <link>https://www.infosecurity-magazine.com/news/vs-code-extensions-exploit-name/</link>
+      <pubDate>Thu, 28 Aug 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TransUnion discloses a data breach impacting over 4.4 million customers</title>
+      <link>https://securityaffairs.com/181662/data-breach/transunion-discloses-a-data-breach-impacting-over-4-4-million-customers.html</link>
+      <pubDate>Thu, 28 Aug 2025 12:56:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 28 Aug 2025 12:40:04 +0000</pubDate>
+    </item>
     <item>
       <title>Germany charges man over cyberattack on Rosneft subsidiary</title>
       <link>https://therecord.media/germany-charges-cyberattack-rosneft</link>
@@ -21,6 +66,11 @@
       <title>Nevada Confirms Ransomware Attack, State Data Stolen</title>
       <link>https://www.infosecurity-magazine.com/news/nevada-ransomware-attack-data/</link>
       <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinar: Why Top Teams Are Prioritizing Code-to-Cloud Mapping in Our 2025 AppSec</title>
+      <link>https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html</link>
+      <pubDate>Thu, 28 Aug 2025 11:50:00 +0000</pubDate>
     </item>
     <item>
       <title>“No place in our networks”: FCC hangs up on thousands of voice operators in robocall war</title>
@@ -66,11 +116,6 @@
       <title>U.S. Treasury Sanctions DPRK IT-Worker Scheme, Exposing $600K Crypto Transfers and $1M+ Profits</title>
       <link>https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html</link>
       <pubDate>Thu, 28 Aug 2025 08:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 28 Aug 2025 08:35:03 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Actor Deletes Data and Backups Post-Exfiltration on Azure</title>
@@ -136,11 +181,6 @@
       <title>Cephalus ransomware: What you need to know</title>
       <link>https://www.fortra.com/blog/cephalus-ransomware-what-you-need-know</link>
       <pubDate>Wed, 27 Aug 2025 16:08:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers use fake NDAs to deliver malware to US manufacturers</title>
-      <link>https://therecord.media/hackers-fake-ndas-malware</link>
-      <pubDate>Wed, 27 Aug 2025 16:07:19 +0000</pubDate>
     </item>
     <item>
       <title>Storm-0501’s evolving techniques lead to cloud-based ransomware</title>
@@ -263,49 +303,9 @@
       <pubDate>Wed, 27 Aug 2025 08:47:38 +0000</pubDate>
     </item>
     <item>
-      <title>New Data Theft Campaign Targets Salesforce via Salesloft App</title>
-      <link>https://www.infosecurity-magazine.com/news/data-theft-campaign-salesforce/</link>
-      <pubDate>Wed, 27 Aug 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Phishing Campaign Abuses ConnectWise ScreenConnect to Take Over Devices</title>
-      <link>https://www.infosecurity-magazine.com/news/phishing-abuses-connectwise-take/</link>
-      <pubDate>Wed, 27 Aug 2025 08:25:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Home Assistant + Ubiquiti + AI = Home Automation Magic</title>
       <link>https://www.troyhunt.com/home-assistant-ubiquiti-ai-home-automation-magic/</link>
       <pubDate>Wed, 27 Aug 2025 07:37:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>China linked UNC6384 targeted diplomats by hijacking web traffic</title>
-      <link>https://securityaffairs.com/181584/security/china-linked-unc6384-targeted-diplomats-by-hijacking-web-traffic.html</link>
-      <pubDate>Wed, 27 Aug 2025 07:33:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interesting Technique to Launch a Shellcode, (Wed, Aug 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/32238</link>
-      <pubDate>Wed, 27 Aug 2025 05:55:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike to Acquire Onum to Transform How Data Powers the Agentic SOC</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-onum/</link>
-      <pubDate>Wed, 27 Aug 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Named a Leader in 2025 IDC MarketScape for Worldwide Incident Response Services</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-2025-idc-marketscape-worldwide-ir-services/</link>
-      <pubDate>Wed, 27 Aug 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, August 27th, 2025 https://isc.sans.edu/podcastdetail/9588, (Wed, Aug 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/32236</link>
-      <pubDate>Wed, 27 Aug 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Workforce Trends in 2025 – Skills Gap, Diversity and SOC Readiness</title>
-      <link>https://www.darknet.org.uk/2025/08/cybersecurity-workforce-trends-in-2025-skills-gap-diversity-and-soc-readiness/</link>
-      <pubDate>Wed, 27 Aug 2025 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
