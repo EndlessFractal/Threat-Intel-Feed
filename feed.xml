@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 22:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 01:43:06 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #432: Oops! I auto-filled my password into a cookie banner</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-432/</link>
+      <pubDate>Wed, 27 Aug 2025 23:05:04 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -300,11 +305,6 @@
     <item>
       <title>Is Your SSE Earning Its Keep? This One Is.</title>
       <link>https://www.security.com/expert-perspectives/your-sse-earning-its-keep-one</link>
-      <pubDate>Tue, 26 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Block unsafe prompts targeting your LLM endpoints with Firewall for AI</title>
-      <link>https://blog.cloudflare.com/block-unsafe-llm-prompts-with-firewall-for-ai/</link>
       <pubDate>Tue, 26 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
