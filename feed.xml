@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 14:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 16:27:15 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft warns of ransomware gang shifting to steal cloud data, lock companies out of systems</title>
+      <link>https://therecord.media/ransomware-gangs-shift-to-stealing-cloud-data</link>
+      <pubDate>Thu, 28 Aug 2025 15:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 28 Aug 2025 15:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake IT Support Attacks Hit Microsoft Teams</title>
+      <link>https://www.infosecurity-magazine.com/news/fake-support-attacks-hit-microsoft/</link>
+      <pubDate>Thu, 28 Aug 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Increasing Searches for ZIP Files, (Thu, Aug 28th)</title>
+      <link>https://isc.sans.edu/diary/rss/32242</link>
+      <pubDate>Thu, 28 Aug 2025 14:57:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft wants to automatically save your Word docs to the cloud</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/08/microsoft-wants-to-automatically-save-your-word-docs-to-the-cloud</link>
+      <pubDate>Thu, 28 Aug 2025 14:38:50 +0000</pubDate>
+    </item>
     <item>
       <title>Google Identifies ‘Widespread Data Theft’ Impacting Salesforce-Salesloft Drift Users</title>
       <link>https://www.techrepublic.com/article/news-salesforce-salesloft-drift-data-breach/</link>
       <pubDate>Thu, 28 Aug 2025 14:04:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salt Typhoon Exploits Cisco, Ivanti, Palo Alto Flaws to Breach 600 Organizations Worldwide</title>
+      <link>https://thehackernews.com/2025/08/salt-typhoon-exploits-cisco-ivanti-palo.html</link>
+      <pubDate>Thu, 28 Aug 2025 14:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>200 Swedish municipalities impacted by a major cyberattack on IT provider</title>
+      <link>https://securityaffairs.com/181668/security/200-swedish-municipalities-impacted-by-a-major-cyberattack-on-it-provider.html</link>
+      <pubDate>Thu, 28 Aug 2025 14:01:57 +0000</pubDate>
     </item>
     <item>
       <title>The age of agents: cryptographically recognizing agent traffic</title>
@@ -48,11 +83,6 @@
       <pubDate>Thu, 28 Aug 2025 12:56:49 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 28 Aug 2025 12:40:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Germany charges man over cyberattack on Rosneft subsidiary</title>
       <link>https://therecord.media/germany-charges-cyberattack-rosneft</link>
       <pubDate>Thu, 28 Aug 2025 12:24:45 +0000</pubDate>
@@ -68,6 +98,11 @@
       <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Releases Nine Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/28/cisa-releases-nine-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Webinar: Why Top Teams Are Prioritizing Code-to-Cloud Mapping in Our 2025 AppSec</title>
       <link>https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html</link>
       <pubDate>Thu, 28 Aug 2025 11:50:00 +0000</pubDate>
@@ -79,7 +114,7 @@
     </item>
     <item>
       <title>Claude AI chatbot abused to launch “cybercrime spree”</title>
-      <link>https://www.malwarebytes.com/blog/uncategorized/2025/08/claude-ai-chatbot-abused-to-launch-cybercrime-spree</link>
+      <link>https://www.malwarebytes.com/blog/news/2025/08/claude-ai-chatbot-abused-to-launch-cybercrime-spree</link>
       <pubDate>Thu, 28 Aug 2025 11:07:46 +0000</pubDate>
     </item>
     <item>
@@ -161,11 +196,6 @@
       <title>Libbiosig, Tenda, SAIL, PDF XChange, Foxit vulnerabilities</title>
       <link>https://blog.talosintelligence.com/libbiosig-tenda-sail-pdf-xchange-foxit-vulnerabilities/</link>
       <pubDate>Wed, 27 Aug 2025 18:07:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>License-plate reader company pauses work with federal agencies after backlash</title>
-      <link>https://therecord.media/flock-license-plate-reader-pauses-federal-work</link>
-      <pubDate>Wed, 27 Aug 2025 17:25:24 +0000</pubDate>
     </item>
     <item>
       <title>Someone Created the First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model</title>
@@ -276,36 +306,6 @@
       <title>Citrix Patches Three NetScaler Zero Days as One Sees Active Exploitation</title>
       <link>https://www.infosecurity-magazine.com/news/citrix-patch-netscaler-zero-days/</link>
       <pubDate>Wed, 27 Aug 2025 10:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploits and vulnerabilities in Q2 2025</title>
-      <link>https://securelist.com/vulnerabilities-and-exploits-in-q2-2025/117333/</link>
-      <pubDate>Wed, 27 Aug 2025 10:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer Data</title>
-      <link>https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html</link>
-      <pubDate>Wed, 27 Aug 2025 09:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ENISA to Coordinate €36m EU-Wide Incident Response Scheme</title>
-      <link>https://www.infosecurity-magazine.com/news/enisa-coordinate-36m-euwide/</link>
-      <pubDate>Wed, 27 Aug 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blind Eagle’s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra</title>
-      <link>https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html</link>
-      <pubDate>Wed, 27 Aug 2025 09:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESET warns of PromptLock, the first AI-driven ransomware</title>
-      <link>https://securityaffairs.com/181595/malware/eset-warns-of-promptlock-the-first-ai-driven-ransomware.html</link>
-      <pubDate>Wed, 27 Aug 2025 08:47:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Home Assistant + Ubiquiti + AI = Home Automation Magic</title>
-      <link>https://www.troyhunt.com/home-assistant-ubiquiti-ai-home-automation-magic/</link>
-      <pubDate>Wed, 27 Aug 2025 07:37:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
