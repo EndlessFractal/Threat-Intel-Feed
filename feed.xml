@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 18:28:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 20:22:23 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 29 Aug 2025 18:00:04 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 20:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scammer steals $1.5 million from Baltimore by spoofing city vendor</title>
+      <link>https://therecord.media/scammer-steals-baltimore-city-impersonation-vendor</link>
+      <pubDate>Fri, 29 Aug 2025 19:02:54 +0000</pubDate>
     </item>
     <item>
       <title>🎙️SECURITY.COM The Podcast: Tips For Seniors and Parents with Alex East</title>
@@ -81,6 +86,11 @@
       <title>Ransomware gang takedowns causing explosion of new, smaller groups</title>
       <link>https://therecord.media/ransomware-gang-takedown-proliferation</link>
       <pubDate>Fri, 29 Aug 2025 12:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Npm Package Hijacked to Steal Data and Crypto via AI-Powered Malware</title>
@@ -171,6 +181,11 @@
       <title>Microsoft Will Start Delivering Windows Quality Updates During Setup Soon</title>
       <link>https://www.techrepublic.com/article/news-windows-quality-updates-out-of-the-box/</link>
       <pubDate>Thu, 28 Aug 2025 21:13:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Contends UK’s ‘EU-Style’ Antitrust Regulations Harm Users and Developers</title>
+      <link>https://www.techrepublic.com/article/news-apple-warns-uk-regulation/</link>
+      <pubDate>Thu, 28 Aug 2025 20:01:32 +0000</pubDate>
     </item>
     <item>
       <title>Data breach at TransUnion impacts 4.4 million people</title>
@@ -268,11 +283,6 @@
       <pubDate>Thu, 28 Aug 2025 12:56:49 +0000</pubDate>
     </item>
     <item>
-      <title>Germany charges man over cyberattack on Rosneft subsidiary</title>
-      <link>https://therecord.media/germany-charges-cyberattack-rosneft</link>
-      <pubDate>Thu, 28 Aug 2025 12:24:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Nevada Confirms Ransomware Attack, State Data Stolen</title>
       <link>https://www.infosecurity-magazine.com/news/nevada-ransomware-attack-data/</link>
       <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
@@ -295,16 +305,6 @@
     <item>
       <title>GE Vernova CIMPLICITY</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-240-06</link>
-      <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Delta Electronics CNCSoft-G2</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-240-04</link>
-      <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Saitel DR &amp; Saitel DP Remote Terminal Unit</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-240-03</link>
       <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
