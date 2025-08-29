@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 08:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 10:22:14 +0000</lastBuildDate>
+    <item>
+      <title>How attackers adapt to built-in macOS protection</title>
+      <link>https://securelist.com/macos-security-and-typical-attacks/117367/</link>
+      <pubDate>Fri, 29 Aug 2025 10:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 29 Aug 2025 09:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google: Salesloft Drift breach hits all integrations</title>
+      <link>https://securityaffairs.com/181686/cyber-crime/google-salesloft-drift-breach-hits-all-integrations.html</link>
+      <pubDate>Fri, 29 Aug 2025 09:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain</title>
+      <link>https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html</link>
+      <pubDate>Fri, 29 Aug 2025 09:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TransUnion Data Breach Impacts 4.5 Million US Customers</title>
+      <link>https://www.infosecurity-magazine.com/news/transunion-data-breach-us-customers/</link>
+      <pubDate>Fri, 29 Aug 2025 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dutch intelligence warn that China-linked APT Salt Typhoon targeted local critical infrastructure</title>
       <link>https://securityaffairs.com/181677/apt/dutch-intelligence-warns-that-china-linked-apt-salt-typhoon-targeted-local-critical-infrastructure.html</link>
@@ -16,11 +41,6 @@
       <title>Google Warns Salesloft OAuth Breach Extends Beyond Salesforce, Impacting All Integrations</title>
       <link>https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html</link>
       <pubDate>Fri, 29 Aug 2025 07:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 29 Aug 2025 05:50:03 +0000</pubDate>
     </item>
     <item>
       <title>TamperedChef Malware Disguised as Fake PDF Editors Steals Credentials and Cookies</title>
@@ -286,26 +306,6 @@
       <title>Libbiosig, Tenda, SAIL, PDF XChange, Foxit vulnerabilities</title>
       <link>https://blog.talosintelligence.com/libbiosig-tenda-sail-pdf-xchange-foxit-vulnerabilities/</link>
       <pubDate>Wed, 27 Aug 2025 18:07:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Someone Created the First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model</title>
-      <link>https://thehackernews.com/2025/08/someone-created-first-ai-powered.html</link>
-      <pubDate>Wed, 27 Aug 2025 17:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Strengthens Software Procurement Security With New Tool</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-software-procurement-security/</link>
-      <pubDate>Wed, 27 Aug 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cephalus ransomware: What you need to know</title>
-      <link>https://www.fortra.com/blog/cephalus-ransomware-what-you-need-know</link>
-      <pubDate>Wed, 27 Aug 2025 16:08:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Storm-0501’s evolving techniques lead to cloud-based ransomware</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/08/27/storm-0501s-evolving-techniques-lead-to-cloud-based-ransomware/</link>
-      <pubDate>Wed, 27 Aug 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
