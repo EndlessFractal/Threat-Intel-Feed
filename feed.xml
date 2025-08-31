@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 06:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 08:24:47 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 31 Aug 2025 04:55:04 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 06:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Affairs newsletter Round 539 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
+      <link>https://securityaffairs.com/181754/breaking-news/security-affairs-newsletter-round-539-by-pierluigi-paganini-international-edition.html</link>
+      <pubDate>Sun, 31 Aug 2025 05:51:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon blocks APT29 campaign targeting Microsoft device code authentication</title>
+      <link>https://securityaffairs.com/181747/apt/amazon-blocks-apt29-campaign-targeting-microsoft-device-code-authentication.html</link>
+      <pubDate>Sun, 31 Aug 2025 05:45:58 +0000</pubDate>
     </item>
     <item>
       <title>Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling</title>
@@ -296,16 +306,6 @@
       <title>CVE-2025-7775 Vulnerability: A New Critical NetScaler RCE Zero-Day Under Active Exploitation</title>
       <link>https://socprime.com/blog/cve-2025-7775-vulnerability/</link>
       <pubDate>Thu, 28 Aug 2025 13:02:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious VS Code Extensions Exploit Name Reuse Loophole</title>
-      <link>https://www.infosecurity-magazine.com/news/vs-code-extensions-exploit-name/</link>
-      <pubDate>Thu, 28 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TransUnion discloses a data breach impacting over 4.4 million customers</title>
-      <link>https://securityaffairs.com/181662/data-breach/transunion-discloses-a-data-breach-impacting-over-4-4-million-customers.html</link>
-      <pubDate>Thu, 28 Aug 2025 12:56:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
