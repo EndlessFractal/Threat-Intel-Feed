@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 08:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 10:19:25 +0000</lastBuildDate>
+    <item>
+      <title>Salt Typhoon: What Security Action Should Governments Take Now?</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/salt-typhoon-what-security-action-should-governments-take-now</link>
+      <pubDate>Sun, 31 Aug 2025 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 31 Aug 2025 06:55:04 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 08:55:04 +0000</pubDate>
     </item>
     <item>
       <title>Security Affairs newsletter Round 539 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
@@ -301,11 +306,6 @@
       <title>Defend what matters: Introducing Sophos Endpoint for Legacy Platforms</title>
       <link>https://news.sophos.com/en-us/2025/08/28/defend-what-matters-introducing-sophos-endpoint-for-legacy-platforms/</link>
       <pubDate>Thu, 28 Aug 2025 13:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-7775 Vulnerability: A New Critical NetScaler RCE Zero-Day Under Active Exploitation</title>
-      <link>https://socprime.com/blog/cve-2025-7775-vulnerability/</link>
-      <pubDate>Thu, 28 Aug 2025 13:02:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
