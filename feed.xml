@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 20:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 22:19:01 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 31 Aug 2025 19:10:04 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 21:15:04 +0000</pubDate>
     </item>
     <item>
       <title>pdf-parser: All Streams, (Sun, Aug 31st)</title>
@@ -91,6 +91,11 @@
       <title>Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution</title>
       <link>https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html</link>
       <pubDate>Fri, 29 Aug 2025 17:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sweden scrambles after ransomware attack puts sensitive worker data at risk</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/sweden-scrambles-after-ransomware-attack-puts-sensitive-worker-data-at-risk</link>
+      <pubDate>Fri, 29 Aug 2025 16:53:51 +0000</pubDate>
     </item>
     <item>
       <title>Webinar: Learn How to Unite Dev, Sec, and Ops Teams With One Shared Playbook</title>
@@ -301,11 +306,6 @@
       <title>200 Swedish municipalities impacted by a major cyberattack on IT provider</title>
       <link>https://securityaffairs.com/181668/security/200-swedish-municipalities-impacted-by-a-major-cyberattack-on-it-provider.html</link>
       <pubDate>Thu, 28 Aug 2025 14:01:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>The age of agents: cryptographically recognizing agent traffic</title>
-      <link>https://blog.cloudflare.com/signed-agents/</link>
-      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
