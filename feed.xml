@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Sep 2025 10:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 12:46:17 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 01 Sep 2025 12:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crooks exploit Meta malvertising to target Android users with Brokewell</title>
+      <link>https://securityaffairs.com/181789/malware/crooks-exploit-meta-malvertising-to-target-android-users-with-brokewell.html</link>
+      <pubDate>Mon, 01 Sep 2025 12:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Attack on Pennsylvania’s AG Office Disrupts Court Cases</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-pennsylvania-ag/</link>
+      <pubDate>Mon, 01 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider</title>
+      <link>https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html</link>
+      <pubDate>Mon, 01 Sep 2025 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Travelers to the UK targeted in ETA scams</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/09/travelers-to-the-uk-targeted-in-eta-scams</link>
+      <pubDate>Mon, 01 Sep 2025 10:50:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea’s APT37 deploys RokRAT in new phishing campaign against academics</title>
+      <link>https://securityaffairs.com/181782/apt/north-koreas-apt37-deploys-rokrat-in-new-phishing-campaign-against-academics.html</link>
+      <pubDate>Mon, 01 Sep 2025 10:49:49 +0000</pubDate>
+    </item>
     <item>
       <title>Amazon Stops Russian APT29 Watering Hole Attack Exploiting Microsoft Auth</title>
       <link>https://www.infosecurity-magazine.com/news/amazon-russian-apt29-watering-hole/</link>
@@ -16,11 +46,6 @@
       <title>Salesloft Attacks Target Google Workspace</title>
       <link>https://www.infosecurity-magazine.com/news/salesloft-attacks-target-google/</link>
       <pubDate>Mon, 01 Sep 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 01 Sep 2025 08:30:04 +0000</pubDate>
     </item>
     <item>
       <title>WhatsApp Patches Zero-Day, Zero-Click Flaw</title>
@@ -228,11 +253,6 @@
       <pubDate>Fri, 29 Aug 2025 09:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>Google: Salesloft Drift breach hits all integrations</title>
-      <link>https://securityaffairs.com/181686/cyber-crime/google-salesloft-drift-breach-hits-all-integrations.html</link>
-      <pubDate>Fri, 29 Aug 2025 09:14:39 +0000</pubDate>
-    </item>
-    <item>
       <title>Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain</title>
       <link>https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html</link>
       <pubDate>Fri, 29 Aug 2025 09:05:00 +0000</pubDate>
@@ -241,11 +261,6 @@
       <title>TransUnion Data Breach Impacts 4.5 Million US Customers</title>
       <link>https://www.infosecurity-magazine.com/news/transunion-data-breach-us-customers/</link>
       <pubDate>Fri, 29 Aug 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch intelligence warn that China-linked APT Salt Typhoon targeted local critical infrastructure</title>
-      <link>https://securityaffairs.com/181677/apt/dutch-intelligence-warns-that-china-linked-apt-salt-typhoon-targeted-local-critical-infrastructure.html</link>
-      <pubDate>Fri, 29 Aug 2025 07:25:24 +0000</pubDate>
     </item>
     <item>
       <title>Google Warns Salesloft Drift Breach Impacts All Drift Integrations Beyond Salesforce</title>
@@ -291,21 +306,6 @@
       <title>Data breach at TransUnion impacts 4.4 million people</title>
       <link>https://therecord.media/transunion-data-breach-4-million</link>
       <pubDate>Thu, 28 Aug 2025 19:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Link up, lift up, level up</title>
-      <link>https://blog.talosintelligence.com/link-up-lift-up-level-up/</link>
-      <pubDate>Thu, 28 Aug 2025 18:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Affiliates Flock to ‘Soulless’ Scam Gambling Machine</title>
-      <link>https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/</link>
-      <pubDate>Thu, 28 Aug 2025 17:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Find VS Code Flaw Allowing Attackers to Republish Deleted Extensions Under Same Names</title>
-      <link>https://thehackernews.com/2025/08/researchers-find-vs-code-flaw-allowing.html</link>
-      <pubDate>Thu, 28 Aug 2025 17:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
