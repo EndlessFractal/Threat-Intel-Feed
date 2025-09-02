@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 18:28:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 20:21:08 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 02 Sep 2025 18:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pennsylvania AG says recovery continues after office refused to pay ransomware gang</title>
+      <link>https://therecord.media/pennsylvania-attorney-general-office-ransomware-attack-recovery</link>
+      <pubDate>Tue, 02 Sep 2025 18:30:45 +0000</pubDate>
+    </item>
     <item>
       <title>Cloudflare blocked a record 11.5 Tbps DDoS attack</title>
       <link>https://securityaffairs.com/181829/cyber-crime/cloudflare-blocked-a-record-11-5-tbps-ddos-attack.html</link>
@@ -16,11 +26,6 @@
       <title>Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE</title>
       <link>https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html</link>
       <pubDate>Tue, 02 Sep 2025 16:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 02 Sep 2025 16:29:56 +0000</pubDate>
     </item>
     <item>
       <title>ICE Reinstates Contract with Spyware Vendor Paragon</title>
@@ -198,6 +203,11 @@
       <pubDate>Mon, 01 Sep 2025 21:55:04 +0000</pubDate>
     </item>
     <item>
+      <title>Google Says Claims of Mass Gmail Security Breach Are “Entirely False”</title>
+      <link>https://www.techrepublic.com/article/news-gmail-security-breach-false-google/</link>
+      <pubDate>Mon, 01 Sep 2025 19:04:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Supply-chain attack hits Zscaler via Salesloft Drift, leaking customer info</title>
       <link>https://securityaffairs.com/181801/data-breach/supply-chain-attack-hits-zscaler-via-salesloft-drift-leaking-customer-info.html</link>
       <pubDate>Mon, 01 Sep 2025 17:37:49 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Hacker suspected of trying to cheat his way into university is arrested in Spain</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-suspected-of-trying-to-cheat-his-way-into-university-is-arrested-in-spain</link>
       <pubDate>Mon, 01 Sep 2025 07:22:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (August 25 – August 31)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/09/a-week-in-security-august-25-august-31</link>
-      <pubDate>Mon, 01 Sep 2025 07:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>pdf-parser: All Streams, (Sun, Aug 31st)</title>
-      <link>https://isc.sans.edu/diary/rss/32248</link>
-      <pubDate>Sun, 31 Aug 2025 18:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
