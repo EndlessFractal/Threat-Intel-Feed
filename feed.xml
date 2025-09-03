@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 16:26:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 18:29:38 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 03 Sep 2025 18:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google addressed two Android flaws actively exploited in targeted attacks</title>
+      <link>https://securityaffairs.com/181871/security/google-addressed-two-android-flaws-actively-exploited-in-targeted-attacks.html</link>
+      <pubDate>Wed, 03 Sep 2025 17:37:08 +0000</pubDate>
+    </item>
     <item>
       <title>With less than a month to go, House panel votes to extend popular cyber programs</title>
       <link>https://therecord.media/house-homeland-committee-cyber-information-sharing-law</link>
       <pubDate>Wed, 03 Sep 2025 15:17:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 03 Sep 2025 15:15:03 +0000</pubDate>
     </item>
     <item>
       <title>Watching Kpop Demon Hunters With My Kid Was A Cybersecurity Masterclass</title>
@@ -76,6 +81,11 @@
       <title>U.S. CISA adds WhatsApp, and TP-link flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/181863/hacking/u-s-cisa-adds-whatsapp-and-tp-link-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Wed, 03 Sep 2025 12:09:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Wed, 03 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA, NSA, and Global Partners Release a Shared Vision of Software Bill of Materials (SBOM) Guidance</title>
@@ -268,13 +278,13 @@
       <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <title>CISA Releases Four Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-releases-four-industrial-control-systems-advisories</link>
       <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Releases Four Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-releases-four-industrial-control-systems-advisories</link>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>Innovation unlocked: Sophos Endpoint is now integrated with Taegis MDR and XDR</title>
       <link>https://news.sophos.com/en-us/2025/09/02/innovation-unlocked-sophos-endpoint-is-now-integrated-with-taegis-mdr-and-xdr/</link>
       <pubDate>Tue, 02 Sep 2025 10:55:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-55177: Vulnerability in WhatsApp iOS &amp; macOS Messaging Clients Exploited for Zero-Click Attacks</title>
-      <link>https://socprime.com/blog/latest-threats/cve-2025-55177-vulnerability/</link>
-      <pubDate>Tue, 02 Sep 2025 10:38:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices</title>
-      <link>https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html</link>
-      <pubDate>Tue, 02 Sep 2025 10:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
