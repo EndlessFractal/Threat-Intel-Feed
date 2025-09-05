@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Sep 2025 02:59:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 04:25:06 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 05 Sep 2025 01:20:03 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 03:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Friday, September 5th, 2025 https://isc.sans.edu/podcastdetail/9600, (Fri, Sep 5th)</title>
+      <link>https://isc.sans.edu/diary/rss/32260</link>
+      <pubDate>Fri, 05 Sep 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
       <title>BlockEDRTraffic – EDR Evasive Lateral Movement Tool</title>
@@ -41,6 +46,11 @@
       <title>GhostRedirector Hacks 65 Windows Servers Using Rungan Backdoor and Gamshen IIS Module</title>
       <link>https://thehackernews.com/2025/09/ghostredirector-hacks-65-windows.html</link>
       <pubDate>Thu, 04 Sep 2025 17:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1</title>
+      <link>https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/</link>
+      <pubDate>Thu, 04 Sep 2025 17:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Texas sues PowerSchool for breach exposing the data of students and teachers</title>
@@ -95,11 +105,6 @@
     <item>
       <title>Give your PC a fresh start: New free tools to boost your PC’s speed, security, and peace of mind</title>
       <link>https://www.malwarebytes.com/blog/product/2025/09/give-your-pc-a-fresh-start-new-free-tools-to-boost-your-pcs-speed-security-and-peace-of-mind</link>
-      <pubDate>Thu, 04 Sep 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1</title>
-      <link>https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/</link>
       <pubDate>Thu, 04 Sep 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -300,11 +305,6 @@
     <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Wed, 03 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA, NSA, and Global Partners Release a Shared Vision of Software Bill of Materials (SBOM) Guidance</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-nsa-and-global-partners-release-shared-vision-software-bill-materials-sbom-guidance</link>
       <pubDate>Wed, 03 Sep 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
