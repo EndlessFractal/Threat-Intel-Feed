@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 12:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 14:22:10 +0000</lastBuildDate>
     <item>
-      <title>Observo AI, Real Time Data Pipelines, and the Future of the Autonomous SOC: Rethinking Security Data from the Ground Up</title>
-      <link>https://www.sentinelone.com/blog/observo-ai-and-the-future-of-the-autonomous-soc/</link>
-      <pubDate>Mon, 08 Sep 2025 12:30:29 +0000</pubDate>
+      <title>Remote Access Abuse Biggest Pre-Ransomware Indicator</title>
+      <link>https://www.infosecurity-magazine.com/news/remote-access-abuse-pre-ransomware/</link>
+      <pubDate>Mon, 08 Sep 2025 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nepal social media ban sparks protests, dozens injured</title>
+      <link>https://therecord.media/nepal-social-media-ban-protests</link>
+      <pubDate>Mon, 08 Sep 2025 13:41:56 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 08 Sep 2025 11:30:04 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 13:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>MostereRAT Deployed AnyDesk/TightVNC for Covert Full Access</title>
+      <link>https://feeds.fortinet.com/~/924516446/0/fortinet/blog/threat-research~MostereRAT-Deployed-AnyDeskTightVNC-for-Covert-Full-Access</link>
+      <pubDate>Mon, 08 Sep 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iCloud Calendar infrastructure abused in PayPal phishing campaign</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/09/icloud-calendar-infrastructure-abused-in-paypal-phishing-campaign</link>
+      <pubDate>Mon, 08 Sep 2025 12:47:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>HTTP Request Signatures, (Mon, Sep 8th)</title>
+      <link>https://isc.sans.edu/diary/rss/32266</link>
+      <pubDate>Mon, 08 Sep 2025 12:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observo AI, Real Time Data Pipelines, and the Future of the Autonomous SOC: Rethinking Security Data from the Ground Up</title>
+      <link>https://www.sentinelone.com/blog/observo-ai-and-the-future-of-the-autonomous-soc/</link>
+      <pubDate>Mon, 08 Sep 2025 12:30:29 +0000</pubDate>
     </item>
     <item>
       <title>AI in Government</title>
@@ -98,7 +123,7 @@
       <pubDate>Sun, 07 Sep 2025 08:08:09 +0000</pubDate>
     </item>
     <item>
-      <title>Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign</title>
+      <title>Noisy Bear Campaign Targeting Kazakhstan Energy Sector Outed as a Planned Phishing Test</title>
       <link>https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html</link>
       <pubDate>Sat, 06 Sep 2025 15:13:00 +0000</pubDate>
     </item>
@@ -213,11 +238,6 @@
       <pubDate>Fri, 05 Sep 2025 12:00:44 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberattack forces Jaguar Land Rover to tell staff to stay at home</title>
-      <link>https://therecord.media/jaguar-land-rover-cyberattack-workers-stay-home</link>
-      <pubDate>Fri, 05 Sep 2025 11:42:03 +0000</pubDate>
-    </item>
-    <item>
       <title>U.S. CISA adds Sitecore, Android, and Linux flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/181924/breaking-news/u-s-cisa-adds-sitecore-android-and-linux-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Fri, 05 Sep 2025 11:36:33 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>From YARA Offsets to Virtual Addresses, (Fri, Sep 5th)</title>
       <link>https://isc.sans.edu/diary/rss/32262</link>
       <pubDate>Fri, 05 Sep 2025 06:18:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages</title>
-      <link>https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html</link>
-      <pubDate>Fri, 05 Sep 2025 06:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, September 5th, 2025 https://isc.sans.edu/podcastdetail/9600, (Fri, Sep 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/32260</link>
-      <pubDate>Fri, 05 Sep 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>BlockEDRTraffic – EDR Evasive Lateral Movement Tool</title>
-      <link>https://www.darknet.org.uk/2025/09/blockedrtraffic-edr-evasive-lateral-movement-tool/</link>
-      <pubDate>Fri, 05 Sep 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian APT28 Deploys “NotDoor” Outlook Backdoor Against Companies in NATO Countries</title>
-      <link>https://thehackernews.com/2025/09/russian-apt28-deploys-notdoor-outlook.html</link>
-      <pubDate>Thu, 04 Sep 2025 18:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
