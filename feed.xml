@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 16:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 18:27:28 +0000</lastBuildDate>
+    <item>
+      <title>Feds seek to claim $5 million in bitcoin taken in SIM swaps</title>
+      <link>https://therecord.media/us-seeks-5-million-bitcoin-taken-in-sim-swaps</link>
+      <pubDate>Tue, 09 Sep 2025 18:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 09 Sep 2025 17:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday September 2025, (Tue, Sep 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/32270</link>
+      <pubDate>Tue, 09 Sep 2025 17:42:34 +0000</pubDate>
+    </item>
     <item>
       <title>Sen. King: Cyber domain is a ‘hellscape’ that will be made worse by cuts</title>
       <link>https://therecord.media/angus-king-cyber-domain-cuts-cisa</link>
@@ -31,11 +46,6 @@
       <title>AI at the Front Lines of Cybersecurity Defense</title>
       <link>https://www.security.com/feature-stories/ai-front-lines-cybersecurity-defense</link>
       <pubDate>Tue, 09 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 09 Sep 2025 14:55:04 +0000</pubDate>
     </item>
     <item>
       <title>New enhancements to the Sophos AI Assistant</title>
@@ -68,11 +78,6 @@
       <pubDate>Tue, 09 Sep 2025 14:04:36 +0000</pubDate>
     </item>
     <item>
-      <title>Cyber Command, NSA to remain under single leader as officials shelve plan to end 'dual hat'</title>
-      <link>https://therecord.media/cyber-command-nsa-dual-hat-single-leader-trump-administration</link>
-      <pubDate>Tue, 09 Sep 2025 13:45:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Salty2FA Phishing Kit Unveils New Level of Sophistication</title>
       <link>https://www.infosecurity-magazine.com/news/salty2fa-phishing-kit/</link>
       <pubDate>Tue, 09 Sep 2025 13:30:00 +0000</pubDate>
@@ -93,18 +98,8 @@
       <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rockwell Automation FactoryTalk Optix</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-04</link>
-      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Stratix IOS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-03</link>
-      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation ThinManager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-01</link>
+      <title>Rockwell Automation CompactLogix® 5480</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-06</link>
       <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -115,6 +110,41 @@
     <item>
       <title>Rockwell Automation FactoryTalk Activation Manager</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-05</link>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation ThinManager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-01</link>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Analytics LogixAI</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-08</link>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation 1783-NATR</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-09</link>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk Optix</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-04</link>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Stratix IOS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-03</link>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation ControlLogix 5580</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-07</link>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Fourteen Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/09/09/cisa-releases-fourteen-industrial-control-systems-advisories</link>
       <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>Stopping ransomware before it starts: Lessons from Cisco Talos Incident Response</title>
       <link>https://blog.talosintelligence.com/stopping-ransomware-before-it-starts/</link>
       <pubDate>Mon, 08 Sep 2025 10:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>GhostAction Supply Chain Attack Compromises 3000+ Secrets</title>
-      <link>https://www.infosecurity-magazine.com/news/ghostaction-supply-chain-3000/</link>
-      <pubDate>Mon, 08 Sep 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>You Didn’t Get Phished — You Onboarded the Attacker</title>
-      <link>https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html</link>
-      <pubDate>Mon, 08 Sep 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuela’s President Maduro said his Huawei Mate X6 cannot be hacked by US cyber spies</title>
-      <link>https://securityaffairs.com/181984/security/venezuelas-president-maduro-said-his-huawei-mate-x6-cannot-be-hacked-by-us-cyber-spies.html</link>
-      <pubDate>Mon, 08 Sep 2025 09:09:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Go-to Resources for Secure Cloud Storage</title>
-      <link>https://www.techrepublic.com/article/resources-for-secure-cloud-storage/</link>
-      <pubDate>Mon, 08 Sep 2025 09:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP S/4HANA Users Urged to Patch Critical Exploited Bug</title>
-      <link>https://www.infosecurity-magazine.com/news/sap-s4hana-patch-critical/</link>
-      <pubDate>Mon, 08 Sep 2025 08:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (September 1 – September 7)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/09/a-week-in-security-september-1-september-7</link>
-      <pubDate>Mon, 08 Sep 2025 07:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
