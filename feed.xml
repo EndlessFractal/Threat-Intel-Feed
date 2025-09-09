@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 22:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 01:42:19 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 09 Sep 2025 00:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage</title>
+      <link>https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html</link>
+      <pubDate>Tue, 09 Sep 2025 00:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>18 Popular Code Packages Hacked, Rigged to Steal Crypto</title>
+      <link>https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/</link>
+      <pubDate>Mon, 08 Sep 2025 22:53:41 +0000</pubDate>
+    </item>
     <item>
       <title>Salesloft: Hacker broke into systems in March through GitHub account</title>
       <link>https://therecord.media/salesloft-hacker-broke-into-github</link>
       <pubDate>Mon, 08 Sep 2025 20:50:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 08 Sep 2025 20:40:04 +0000</pubDate>
     </item>
     <item>
       <title>Hackers breached Salesloft ’s GitHub in March, and used stole tokens in a mass attack</title>
@@ -296,16 +306,6 @@
       <title>SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild</title>
       <link>https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html</link>
       <pubDate>Fri, 05 Sep 2025 10:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1-15 March 2025 Cyber Attacks Timeline</title>
-      <link>https://www.hackmageddon.com/2025/09/05/1-15-march-2025-cyber-attacks-timeline/</link>
-      <pubDate>Fri, 05 Sep 2025 09:44:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus Group Attack Detection: Hackers Expand Their Toolkit with PondRAT, ThemeForestRAT, and RemotePE Malware Strains</title>
-      <link>https://socprime.com/blog/detect-lazarus-attacks-using-three-new-rats/</link>
-      <pubDate>Fri, 05 Sep 2025 09:02:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
