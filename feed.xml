@@ -6,21 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 10:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 12:46:50 +0000</lastBuildDate>
     <item>
-      <title>Salesloft: GitHub Account Breach Was Ground Zero in Drift Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/salesloft-github-breach-drift/</link>
-      <pubDate>Tue, 09 Sep 2025 09:00:00 +0000</pubDate>
+      <title>Open Source Community Thwarts Massive npm Supply Chain Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/npm-supply-chain-attack-averted/</link>
+      <pubDate>Tue, 09 Sep 2025 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google misled users about their privacy and now owes them $425m, says court</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/09/google-misled-users-about-their-privacy-and-now-owes-them-425m-says-court</link>
+      <pubDate>Tue, 09 Sep 2025 12:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Axios User Agent Helps Automate Phishing on “Unprecedented Scale”</title>
+      <link>https://www.infosecurity-magazine.com/news/axios-user-agent-automate-phishing/</link>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Cryptanalysis of the Fiat-Shamir Protocol</title>
+      <link>https://www.schneier.com/blog/archives/2025/09/new-cryptanalysis-of-the-fiat-shamir-protocol.html</link>
+      <pubDate>Tue, 09 Sep 2025 11:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Cyber Espionage Campaign Impersonates US Congressman</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-espionage-impersonates-us/</link>
+      <pubDate>Tue, 09 Sep 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 09 Sep 2025 08:50:04 +0000</pubDate>
+      <pubDate>Tue, 09 Sep 2025 10:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Webinar] Shadow AI Agents Multiply Fast —  Learn How to Detect and Control Them</title>
+      <link>https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html</link>
+      <pubDate>Tue, 09 Sep 2025 10:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From MostereRAT to ClickFix: New Malware Campaigns Highlight Rising AI and Phishing Risks</title>
+      <link>https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html</link>
+      <pubDate>Tue, 09 Sep 2025 10:27:00 +0000</pubDate>
     </item>
     <item>
       <title>How Leading CISOs are Getting Budget Approval</title>
       <link>https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html</link>
-      <pubDate>Tue, 09 Sep 2025 08:30:00 +0000</pubDate>
+      <pubDate>Tue, 09 Sep 2025 10:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOR-Based Cryptojacking Attack Expands Through Misconfigured Docker APIs</title>
+      <link>https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html</link>
+      <pubDate>Tue, 09 Sep 2025 10:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salesloft: GitHub Account Breach Was Ground Zero in Drift Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/salesloft-github-breach-drift/</link>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack</title>
@@ -193,6 +233,11 @@
       <pubDate>Mon, 08 Sep 2025 02:00:03 +0000</pubDate>
     </item>
     <item>
+      <title>asnip – ASN Reconnaissance via Domain and IP Mapping</title>
+      <link>https://www.darknet.org.uk/2025/09/asnip-asn-reconnaissance-via-domain-and-ip-mapping/</link>
+      <pubDate>Mon, 08 Sep 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Czech cyber agency NUKIB flags Chinese espionage risks to critical infrastructure</title>
       <link>https://securityaffairs.com/181976/intelligence/czech-cyber-agency-nukib-flags-chinese-espionage-risks-to-critical-infrastructure.html</link>
       <pubDate>Mon, 08 Sep 2025 00:05:55 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>Nexar dashcam video database hacked</title>
       <link>https://www.malwarebytes.com/blog/news/2025/09/nexar-dashcam-video-database-hacked</link>
       <pubDate>Fri, 05 Sep 2025 16:52:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation</title>
-      <link>https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html</link>
-      <pubDate>Fri, 05 Sep 2025 16:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎙️SECURITY.COM The Podcast: Diving Deep Into Vulnerability Risk Modeling with Empirical Security</title>
-      <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-vulnerability-risk-modeling-empirical-security</link>
-      <pubDate>Fri, 05 Sep 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bridgestone Confirms "Limited Cyber Incident" Impacting Facilities in North America</title>
-      <link>https://www.infosecurity-magazine.com/news/bridgestone-confirms-limited-cyber/</link>
-      <pubDate>Fri, 05 Sep 2025 15:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Azure mandatory multifactor authentication: Phase 2 starting in October 2025</title>
-      <link>https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/</link>
-      <pubDate>Fri, 05 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany charges hacker with Rosneft cyberattack in latest wake-up call for critical infrastructure</title>
-      <link>https://www.exponential-e.com/blog/germany-charges-hacker-with-rosneft-cyberattack-in-latest-wake-up-call-for-critical-infrastructure</link>
-      <pubDate>Fri, 05 Sep 2025 14:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations</title>
-      <link>https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html</link>
-      <pubDate>Fri, 05 Sep 2025 14:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parents warned that robot toys spied on children’s location without consent</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/parents-warned-that-robot-toys-spied-on-childrens-location-without-consent</link>
-      <pubDate>Fri, 05 Sep 2025 14:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Carolina School District Data Breach Affects 31,000 People</title>
-      <link>https://www.infosecurity-magazine.com/news/south-carolina-school-district/</link>
-      <pubDate>Fri, 05 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals ‘Grok’ Their Way Past X’s Defenses to Spread Malware</title>
-      <link>https://www.techrepublic.com/article/news-grok-ai-malware-grokking/</link>
-      <pubDate>Fri, 05 Sep 2025 13:56:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
