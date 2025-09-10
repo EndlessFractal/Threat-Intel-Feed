@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 22:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 01:38:47 +0000</lastBuildDate>
     <item>
-      <title>Microsoft Patch Tuesday, September 2025 Edition</title>
-      <link>https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/</link>
-      <pubDate>Tue, 09 Sep 2025 21:21:14 +0000</pubDate>
+      <title>Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts</title>
+      <link>https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html</link>
+      <pubDate>Wed, 10 Sep 2025 01:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP Patches Critical NetWeaver (CVSS Up to 10.0) and Previously Exploited S/4HANA Flaws</title>
+      <link>https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html</link>
+      <pubDate>Wed, 10 Sep 2025 01:03:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 09 Sep 2025 20:55:04 +0000</pubDate>
+      <pubDate>Wed, 10 Sep 2025 01:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Is the New Diamond: Latest Moves by Hackers and Defenders</title>
+      <link>https://unit42.paloaltonetworks.com/data-is-the-new-diamond-latest-moves-by-hackers-and-defenders/</link>
+      <pubDate>Tue, 09 Sep 2025 23:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday, September 2025 Edition</title>
+      <link>https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/</link>
+      <pubDate>Tue, 09 Sep 2025 21:21:14 +0000</pubDate>
     </item>
     <item>
       <title>SAP September 2025 Patch Day fixed 4 critical flaws</title>
@@ -291,21 +306,6 @@
       <title>Remote Access Abuse Biggest Pre-Ransomware Indicator</title>
       <link>https://www.infosecurity-magazine.com/news/remote-access-abuse-pre-ransomware/</link>
       <pubDate>Mon, 08 Sep 2025 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MostereRAT Deployed AnyDesk/TightVNC for Covert Full Access</title>
-      <link>https://feeds.fortinet.com/~/924516446/0/fortinet/blog/threat-research~MostereRAT-Deployed-AnyDeskTightVNC-for-Covert-Full-Access</link>
-      <pubDate>Mon, 08 Sep 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iCloud Calendar infrastructure abused in PayPal phishing campaign</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/09/icloud-calendar-infrastructure-abused-in-paypal-phishing-campaign</link>
-      <pubDate>Mon, 08 Sep 2025 12:47:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>HTTP Request Signatures, (Mon, Sep 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/32266</link>
-      <pubDate>Mon, 08 Sep 2025 12:40:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
