@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 06:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 08:28:36 +0000</lastBuildDate>
+    <item>
+      <title>Watch Out for Salty2FA: New Phishing Kit Targeting US and EU Enterprises</title>
+      <link>https://thehackernews.com/2025/09/watch-out-for-salty2fa-new-phishing-kit.html</link>
+      <pubDate>Wed, 10 Sep 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday security updates for September 2025 fixed two zero-day flaws</title>
+      <link>https://securityaffairs.com/182045/security/microsoft-patch-tuesday-security-updates-for-september-2025-fixed-two-zero-day-flaws.html</link>
+      <pubDate>Wed, 10 Sep 2025 07:48:55 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 10 Sep 2025 05:00:04 +0000</pubDate>
+      <pubDate>Wed, 10 Sep 2025 07:05:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, September 10th, 2025 https://isc.sans.edu/podcastdetail/9606, (Wed, Sep 10th)</title>
@@ -23,7 +33,7 @@
       <pubDate>Wed, 10 Sep 2025 01:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>SAP Patches Critical NetWeaver (CVSS Up to 10.0) and Previously Exploited S/4HANA Flaws</title>
+      <title>SAP Patches Critical NetWeaver (CVSS Up to 10.0) and High-Severity S/4HANA Flaws</title>
       <link>https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html</link>
       <pubDate>Wed, 10 Sep 2025 01:03:00 +0000</pubDate>
     </item>
@@ -238,6 +248,11 @@
       <pubDate>Tue, 09 Sep 2025 05:48:39 +0000</pubDate>
     </item>
     <item>
+      <title>September 2025 Patch Tuesday: Two Publicly Disclosed Zero-Days and Eight Critical Vulnerabilities Among 84 CVEs</title>
+      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2025/</link>
+      <pubDate>Tue, 09 Sep 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Tuesday, September 9th, 2025 https://isc.sans.edu/podcastdetail/9604, (Tue, Sep 9th)</title>
       <link>https://isc.sans.edu/diary/rss/32268</link>
       <pubDate>Tue, 09 Sep 2025 02:00:02 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms</title>
       <link>https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html</link>
       <pubDate>Mon, 08 Sep 2025 15:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MostereRAT Targets Windows Users With Stealth Tactics</title>
-      <link>https://www.infosecurity-magazine.com/news/rat-targets-windows-users-stealth/</link>
-      <pubDate>Mon, 08 Sep 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian investment platform Wealthsimple disclosed a data breach</title>
-      <link>https://securityaffairs.com/181999/data-breach/canadian-investment-platform-wealthsimple-disclosed-a-data-breach.html</link>
-      <pubDate>Mon, 08 Sep 2025 14:10:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remote Access Abuse Biggest Pre-Ransomware Indicator</title>
-      <link>https://www.infosecurity-magazine.com/news/remote-access-abuse-pre-ransomware/</link>
-      <pubDate>Mon, 08 Sep 2025 13:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
