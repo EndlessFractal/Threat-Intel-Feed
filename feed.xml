@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 20:22:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 22:19:06 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 10 Sep 2025 21:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical flaw SessionReaper in Commerce and Magento platforms lets attackers hijack customer accounts</title>
+      <link>https://securityaffairs.com/182075/security/critical-flaw-sessionreaper-in-commerce-and-magento-platforms-lets-attackers-hijack-customer-accounts.html</link>
+      <pubDate>Wed, 10 Sep 2025 20:54:02 +0000</pubDate>
+    </item>
     <item>
       <title>September Patch Tuesday handles 81 CVEs</title>
       <link>https://news.sophos.com/en-us/2025/09/10/september-patch-tuesday-handles-81-cves/</link>
@@ -21,11 +31,6 @@
       <title>Google Pixel 10 adds C2PA to camera and Photos to spot AI-generated or edited images</title>
       <link>https://securityaffairs.com/182068/security/google-pixel-10-adds-c2pa-to-camera-and-photos-to-spot-ai-generated-or-edited-images.html</link>
       <pubDate>Wed, 10 Sep 2025 18:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 10 Sep 2025 18:15:04 +0000</pubDate>
     </item>
     <item>
       <title>Researchers find spyware on phones belonging to Kenyan filmmakers</title>
@@ -218,6 +223,11 @@
       <pubDate>Tue, 09 Sep 2025 18:26:47 +0000</pubDate>
     </item>
     <item>
+      <title>Former WhatsApp Security Chief Sues Meta, Citing Major Privacy Risks</title>
+      <link>https://www.techrepublic.com/article/news-whistleblower-sues-meta-privacy-risks/</link>
+      <pubDate>Tue, 09 Sep 2025 18:23:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Microsoft Patch Tuesday September 2025, (Tue, Sep 9th)</title>
       <link>https://isc.sans.edu/diary/rss/32270</link>
       <pubDate>Tue, 09 Sep 2025 17:42:34 +0000</pubDate>
@@ -295,16 +305,6 @@
     <item>
       <title>Rockwell Automation ThinManager</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-01</link>
-      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Analytics LogixAI</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-08</link>
-      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation 1783-NATR</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-09</link>
       <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
