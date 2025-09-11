@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 16:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 18:26:12 +0000</lastBuildDate>
+    <item>
+      <title>Beaches and breaches</title>
+      <link>https://blog.talosintelligence.com/beaches-and-breaches/</link>
+      <pubDate>Thu, 11 Sep 2025 18:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bulletproof Host Stark Industries Evades EU Sanctions</title>
+      <link>https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/</link>
+      <pubDate>Thu, 11 Sep 2025 17:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 11 Sep 2025 17:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>FTC opens inquiry into how AI chatbots impact child safety, privacy</title>
+      <link>https://therecord.media/ftc-opens-inquiry-ai-chatbots-kids</link>
+      <pubDate>Thu, 11 Sep 2025 17:20:26 +0000</pubDate>
+    </item>
     <item>
       <title>CISA Launches Roadmap for the CVE Program</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-launches-roadmap-cve-program/</link>
@@ -36,11 +56,6 @@
       <title>Senator Wyden Urges FTC to Probe Microsoft for Ransomware-Linked Cybersecurity Negligence</title>
       <link>https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html</link>
       <pubDate>Thu, 11 Sep 2025 14:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 11 Sep 2025 14:25:04 +0000</pubDate>
     </item>
     <item>
       <title>Cyberattacks against schools driven by a rise in student hackers, ICO warns</title>
@@ -78,8 +93,43 @@
       <pubDate>Thu, 11 Sep 2025 12:41:15 +0000</pubDate>
     </item>
     <item>
+      <title>Siemens User Management Component (UMC)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-07</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC OS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-04</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric Modicon M340, BMXNOE0100, and BMXNOE0110</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-09</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxure</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-08</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Siemens SINAMICS Drives</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-03</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daikin Security Gateway</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-10</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Industrial Edge Management OS (IEM-OS)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-06</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMOTION Tools</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-01</link>
       <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -88,8 +138,13 @@
       <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens SIMOTION Tools</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-01</link>
+      <title>Siemens Apogee PXC and Talon TC Devices</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-05</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Eleven Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-releases-eleven-industrial-control-systems-advisories</link>
       <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -173,16 +228,6 @@
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Smashing Security podcast #434: Whopper Hackers, and AI Whoppers</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-434/</link>
-      <pubDate>Wed, 10 Sep 2025 23:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>US charges suspected ransomware kingpin, and offers $10 million bounty for his capture</title>
-      <link>https://www.fortra.com/blog/us-charges-suspected-ransomware-kingpin-offers-10-million-bounty</link>
-      <pubDate>Wed, 10 Sep 2025 21:24:02 +0000</pubDate>
-    </item>
-    <item>
       <title>Critical flaw SessionReaper in Commerce and Magento platforms lets attackers hijack customer accounts</title>
       <link>https://securityaffairs.com/182075/security/critical-flaw-sessionreaper-in-commerce-and-magento-platforms-lets-attackers-hijack-customer-accounts.html</link>
       <pubDate>Wed, 10 Sep 2025 20:54:02 +0000</pubDate>
@@ -201,11 +246,6 @@
       <title>House moves ahead with defense bill that includes AI, cyber provisions</title>
       <link>https://therecord.media/house-passes-defense-policy-bill-ai-cyber</link>
       <pubDate>Wed, 10 Sep 2025 18:40:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>US investors in spyware firms nearly tripled in 2024: report</title>
-      <link>https://therecord.media/us-investors-in-spyware-tripled-in-2024</link>
-      <pubDate>Wed, 10 Sep 2025 18:34:34 +0000</pubDate>
     </item>
     <item>
       <title>Former WhatsApp Security Chief Sues Meta, Citing Major Privacy Risks</title>
@@ -243,11 +283,6 @@
       <pubDate>Wed, 10 Sep 2025 14:55:07 +0000</pubDate>
     </item>
     <item>
-      <title>Maturing the cyber threat intelligence program</title>
-      <link>https://blog.talosintelligence.com/maturing-the-cyber-threat-intelligence-program/</link>
-      <pubDate>Wed, 10 Sep 2025 14:01:28 +0000</pubDate>
-    </item>
-    <item>
       <title>Notes of cyber inspector: three clusters of threat in cyberspace</title>
       <link>https://securelist.com/three-hacktivist-apt-clusters-tools-and-ttps/117324/</link>
       <pubDate>Wed, 10 Sep 2025 14:00:59 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Cursor Autorun Flaw Lets Repositories Execute Code Without Consent</title>
       <link>https://www.infosecurity-magazine.com/news/cursor-autorun-flaw-repos-execute/</link>
       <pubDate>Wed, 10 Sep 2025 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Releases Emergency Patch for Critical Flaw in Commerce and Magento</title>
-      <link>https://www.infosecurity-magazine.com/news/adobes-emergency-patch-commerce/</link>
-      <pubDate>Wed, 10 Sep 2025 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes 80 Flaws — Including SMB PrivEsc and Azure CVSS 10.0 Bugs</title>
-      <link>https://thehackernews.com/2025/09/microsoft-fixes-80-flaws-including-smb.html</link>
-      <pubDate>Wed, 10 Sep 2025 11:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Payments Plummet in Education Amid Enhanced Resiliency</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-payments-plummet/</link>
-      <pubDate>Wed, 10 Sep 2025 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple iPhone Air and iPhone 17 Feature A19 Chips With Spyware-Resistant Memory Safety</title>
-      <link>https://thehackernews.com/2025/09/apple-iphone-air-and-iphone-17-feature.html</link>
-      <pubDate>Wed, 10 Sep 2025 10:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of Ransomware in Education 2025</title>
-      <link>https://news.sophos.com/en-us/2025/09/10/the-state-of-ransomware-in-education-2025/</link>
-      <pubDate>Wed, 10 Sep 2025 10:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>AdaptixC2: A New Open-Source Framework Leveraged in Real-World Attacks</title>
-      <link>https://unit42.paloaltonetworks.com/adaptixc2-post-exploitation-framework/</link>
-      <pubDate>Wed, 10 Sep 2025 10:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plex users: Reset your password!</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/09/plex-users-reset-your-password</link>
-      <pubDate>Wed, 10 Sep 2025 09:47:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
