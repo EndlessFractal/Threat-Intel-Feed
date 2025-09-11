@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 14:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 16:25:59 +0000</lastBuildDate>
+    <item>
+      <title>CISA Launches Roadmap for the CVE Program</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-launches-roadmap-cve-program/</link>
+      <pubDate>Thu, 11 Sep 2025 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fileless Malware Deploys Advanced RAT via Legitimate Tools</title>
+      <link>https://www.infosecurity-magazine.com/news/fileless-malware-deploys-advanced/</link>
+      <pubDate>Thu, 11 Sep 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Pixel 10 Adds C2PA Support to Verify AI-Generated Media Authenticity</title>
+      <link>https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html</link>
+      <pubDate>Thu, 11 Sep 2025 15:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wyden Urges FTC Investigation Over Ascension Ransomware Hack</title>
+      <link>https://www.infosecurity-magazine.com/news/wyden-urges-ascension-hack-ftc/</link>
+      <pubDate>Thu, 11 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Posture Check: Are You Still Relying on AV to Protect Your Business?</title>
+      <link>https://www.security.com/product-insights/posture-check-relying-av</link>
+      <pubDate>Thu, 11 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Senator Wyden Urges FTC to Probe Microsoft for Ransomware-Linked Cybersecurity Negligence</title>
+      <link>https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html</link>
+      <pubDate>Thu, 11 Sep 2025 14:51:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 11 Sep 2025 13:25:04 +0000</pubDate>
+      <pubDate>Thu, 11 Sep 2025 14:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattacks against schools driven by a rise in student hackers, ICO warns</title>
+      <link>https://therecord.media/cyberattacks-against-schools-driven-by-student-hackers</link>
+      <pubDate>Thu, 11 Sep 2025 14:22:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google fixes critical Chrome flaw, researcher earns $43K</title>
+      <link>https://securityaffairs.com/182107/security/google-fixes-critical-chrome-flaw-researcher-earns-43k.html</link>
+      <pubDate>Thu, 11 Sep 2025 14:07:54 +0000</pubDate>
     </item>
     <item>
       <title>FTC should investigate Microsoft after Ascension ransomware attack, senator says</title>
@@ -36,6 +76,21 @@
       <title>Fake Bureau of Motor Vehicles texts are after your personal and banking details</title>
       <link>https://www.malwarebytes.com/blog/news/2025/09/fake-bureau-motor-vehicles-texts-are-after-your-personal-and-banking-details</link>
       <pubDate>Thu, 11 Sep 2025 12:41:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINAMICS Drives</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-03</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC Virtualization as a Service (SIVaaS)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-02</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMOTION Tools</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-254-01</link>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>UK delays introducing new cybersecurity legislation, again</title>
@@ -118,6 +173,16 @@
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Smashing Security podcast #434: Whopper Hackers, and AI Whoppers</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-434/</link>
+      <pubDate>Wed, 10 Sep 2025 23:05:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>US charges suspected ransomware kingpin, and offers $10 million bounty for his capture</title>
+      <link>https://www.fortra.com/blog/us-charges-suspected-ransomware-kingpin-offers-10-million-bounty</link>
+      <pubDate>Wed, 10 Sep 2025 21:24:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Critical flaw SessionReaper in Commerce and Magento platforms lets attackers hijack customer accounts</title>
       <link>https://securityaffairs.com/182075/security/critical-flaw-sessionreaper-in-commerce-and-magento-platforms-lets-attackers-hijack-customer-accounts.html</link>
       <pubDate>Wed, 10 Sep 2025 20:54:02 +0000</pubDate>
@@ -151,11 +216,6 @@
       <title>Google Pixel 10 adds C2PA to camera and Photos to spot AI-generated or edited images</title>
       <link>https://securityaffairs.com/182068/security/google-pixel-10-adds-c2pa-to-camera-and-photos-to-spot-ai-generated-or-edited-images.html</link>
       <pubDate>Wed, 10 Sep 2025 18:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers find spyware on phones belonging to Kenyan filmmakers</title>
-      <link>https://therecord.media/researchers-spyware-kenya-filmmaker-phone</link>
-      <pubDate>Wed, 10 Sep 2025 17:04:38 +0000</pubDate>
     </item>
     <item>
       <title>Interview with a DLP Expert: A Blueprint for Scaling, Extensibility, and Resilience</title>
@@ -246,66 +306,6 @@
       <title>Plex users: Reset your password!</title>
       <link>https://www.malwarebytes.com/blog/news/2025/09/plex-users-reset-your-password</link>
       <pubDate>Wed, 10 Sep 2025 09:47:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Time-Saving Guide for Service Providers: Automating vCISO and Compliance Services</title>
-      <link>https://thehackernews.com/2025/09/the-time-saving-guide-for-service.html</link>
-      <pubDate>Wed, 10 Sep 2025 09:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Zero-Days Among Patch Tuesday CVEs This Month</title>
-      <link>https://www.infosecurity-magazine.com/news/two-zero-days-patch-tuesday-cves/</link>
-      <pubDate>Wed, 10 Sep 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KillSec Ransomware is Attacking Healthcare Institutions in Brazil</title>
-      <link>https://securityaffairs.com/182063/cyber-crime/killsec-ransomware-is-attacking-healthcare-institutions-in-brazil.html</link>
-      <pubDate>Wed, 10 Sep 2025 08:38:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Code Reached 10% of Cloud Environments</title>
-      <link>https://www.infosecurity-magazine.com/news/malicious-npm-code-10-cloud/</link>
-      <pubDate>Wed, 10 Sep 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch Out for Salty2FA: New Phishing Kit Targeting US and EU Enterprises</title>
-      <link>https://thehackernews.com/2025/09/watch-out-for-salty2fa-new-phishing-kit.html</link>
-      <pubDate>Wed, 10 Sep 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked APT41 Hackers Target U.S. Trade Officials Amid 2025 Negotiations</title>
-      <link>https://thehackernews.com/2025/09/china-linked-apt41-hackers-target-us.html</link>
-      <pubDate>Wed, 10 Sep 2025 07:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday security updates for September 2025 fixed two zero-day flaws</title>
-      <link>https://securityaffairs.com/182045/security/microsoft-patch-tuesday-security-updates-for-september-2025-fixed-two-zero-day-flaws.html</link>
-      <pubDate>Wed, 10 Sep 2025 07:48:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, September 10th, 2025 https://isc.sans.edu/podcastdetail/9606, (Wed, Sep 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/32272</link>
-      <pubDate>Wed, 10 Sep 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts</title>
-      <link>https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html</link>
-      <pubDate>Wed, 10 Sep 2025 01:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP Patches Critical NetWeaver (CVSS Up to 10.0) and High-Severity S/4HANA Flaws</title>
-      <link>https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html</link>
-      <pubDate>Wed, 10 Sep 2025 01:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Search Engines in 2025 – Rankings, Risks &amp; Ethical Trade-offs</title>
-      <link>https://www.darknet.org.uk/2025/09/dark-web-search-engines-in-2025-rankings-risks-ethical-trade-offs/</link>
-      <pubDate>Wed, 10 Sep 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Is the New Diamond: Latest Moves by Hackers and Defenders</title>
-      <link>https://unit42.paloaltonetworks.com/data-is-the-new-diamond-latest-moves-by-hackers-and-defenders/</link>
-      <pubDate>Tue, 09 Sep 2025 23:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
