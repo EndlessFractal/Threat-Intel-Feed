@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Sep 2025 04:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 06:31:15 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 12 Sep 2025 03:30:03 +0000</pubDate>
+      <pubDate>Fri, 12 Sep 2025 05:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories</title>
+      <link>https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html</link>
+      <pubDate>Fri, 12 Sep 2025 04:49:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, September 12th, 2025 https://isc.sans.edu/podcastdetail/9610, (Fri, Sep 12th)</title>
@@ -238,6 +243,11 @@
       <pubDate>Thu, 11 Sep 2025 06:02:00 +0000</pubDate>
     </item>
     <item>
+      <title>Falcon Complete Hub Turns MDR Visibility into Action</title>
+      <link>https://www.crowdstrike.com/en-us/blog/falcon-complete-hub-turns-mdr-visibility-into-action/</link>
+      <pubDate>Thu, 11 Sep 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Thursday, September 11th, 2025 https://isc.sans.edu/podcastdetail/9608, (Thu, Sep 11th)</title>
       <link>https://isc.sans.edu/diary/rss/32278</link>
       <pubDate>Thu, 11 Sep 2025 02:00:02 +0000</pubDate>
@@ -256,6 +266,16 @@
       <title>The Intelligence Operations Organizations Need</title>
       <link>https://www.recordedfuture.com/blog/the-intelligence-operations-organizations-need</link>
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #434: Whopper Hackers, and AI Whoppers</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-434/</link>
+      <pubDate>Wed, 10 Sep 2025 23:05:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>US charges suspected ransomware kingpin, and offers $10 million bounty for his capture</title>
+      <link>https://www.fortra.com/blog/us-charges-suspected-ransomware-kingpin-offers-10-million-bounty</link>
+      <pubDate>Wed, 10 Sep 2025 21:24:02 +0000</pubDate>
     </item>
     <item>
       <title>Critical flaw SessionReaper in Commerce and Magento platforms lets attackers hijack customer accounts</title>
@@ -286,26 +306,6 @@
       <title>Interview with a DLP Expert: A Blueprint for Scaling, Extensibility, and Resilience</title>
       <link>https://www.security.com/expert-perspectives/dlp-expert-interview-scaling-extensibility-resilience</link>
       <pubDate>Wed, 10 Sep 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese APT Deploys EggStreme Fileless Malware to Breach Philippine Military Systems</title>
-      <link>https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html</link>
-      <pubDate>Wed, 10 Sep 2025 15:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KillSec Ransomware Hits Brazilian Healthcare IT Vendor</title>
-      <link>https://www.infosecurity-magazine.com/news/killsec-ransomware-hits-brazilian/</link>
-      <pubDate>Wed, 10 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 2025 Security Issues in Korean &amp; Global Financial Sector</title>
-      <link>https://asec.ahnlab.com/en/90110/</link>
-      <pubDate>Wed, 10 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 2025 APT Group Trends</title>
-      <link>https://asec.ahnlab.com/en/90104/</link>
-      <pubDate>Wed, 10 Sep 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
