@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 22:18:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 01:37:50 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 12 Sep 2025 01:30:04 +0000</pubDate>
+    </item>
     <item>
       <title>Meta ignored child sex abuse in VR, say whistleblowers</title>
       <link>https://www.malwarebytes.com/blog/news/2025/09/meta-ignored-child-sex-abuse-in-vr-say-whistleblowers</link>
       <pubDate>Thu, 11 Sep 2025 21:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 11 Sep 2025 21:30:04 +0000</pubDate>
     </item>
     <item>
       <title>California legislature passes bill forcing web browsers to let consumers automatically opt out of data sharing</title>
@@ -248,16 +248,6 @@
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Smashing Security podcast #434: Whopper Hackers, and AI Whoppers</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-434/</link>
-      <pubDate>Wed, 10 Sep 2025 23:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>US charges suspected ransomware kingpin, and offers $10 million bounty for his capture</title>
-      <link>https://www.fortra.com/blog/us-charges-suspected-ransomware-kingpin-offers-10-million-bounty</link>
-      <pubDate>Wed, 10 Sep 2025 21:24:02 +0000</pubDate>
-    </item>
-    <item>
       <title>Critical flaw SessionReaper in Commerce and Magento platforms lets attackers hijack customer accounts</title>
       <link>https://securityaffairs.com/182075/security/critical-flaw-sessionreaper-in-commerce-and-magento-platforms-lets-attackers-hijack-customer-accounts.html</link>
       <pubDate>Wed, 10 Sep 2025 20:54:02 +0000</pubDate>
@@ -306,6 +296,16 @@
       <title>BASE64 Over DNS, (Wed, Sep 10th)</title>
       <link>https://isc.sans.edu/diary/rss/32274</link>
       <pubDate>Wed, 10 Sep 2025 14:55:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notes of cyber inspector: three clusters of threat in cyberspace</title>
+      <link>https://securelist.com/three-hacktivist-apt-clusters-tools-and-ttps/117324/</link>
+      <pubDate>Wed, 10 Sep 2025 14:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attack at blood center: Org tells users their data’s been stolen</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/09/ransomware-attack-at-blood-center-org-tells-users-their-datas-been-stolen</link>
+      <pubDate>Wed, 10 Sep 2025 13:22:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
