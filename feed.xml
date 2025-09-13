@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Sep 2025 22:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 01:26:08 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 12 Sep 2025 21:40:04 +0000</pubDate>
+      <pubDate>Sat, 13 Sep 2025 00:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trusted Connections, Hidden Risks: Token Management in the Third-Party Supply Chain</title>
+      <link>https://unit42.paloaltonetworks.com/third-party-supply-chain-token-management/</link>
+      <pubDate>Fri, 12 Sep 2025 23:00:40 +0000</pubDate>
     </item>
     <item>
       <title>Assessing the Quality of Dried Squid</title>
@@ -301,11 +306,6 @@
       <title>‘Astronaut-in-distress’ romance scammer steals money from elderly woman</title>
       <link>https://www.malwarebytes.com/blog/news/2025/09/astronaut-in-distress-romance-scammer-steals-money-from-elderly-woman</link>
       <pubDate>Thu, 11 Sep 2025 10:38:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall SSL VPN Flaw and Misconfigurations Actively Exploited by Akira Ransomware Hackers</title>
-      <link>https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html</link>
-      <pubDate>Thu, 11 Sep 2025 10:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
