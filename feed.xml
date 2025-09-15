@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 16:27:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 18:30:40 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Mon, 15 Sep 2025 17:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol adds Spanish academic suspected of aiding pro-Russian hackers to most wanted list</title>
+      <link>https://therecord.media/europol-adds-spanish-academic-most-wanted-russia-hack</link>
+      <pubDate>Mon, 15 Sep 2025 17:02:30 +0000</pubDate>
+    </item>
     <item>
       <title>HybridPetya Mimics NotPetya, Adds UEFI Compromise</title>
       <link>https://www.infosecurity-magazine.com/news/hybridpetya-mimics-notpetya-uefi/</link>
       <pubDate>Mon, 15 Sep 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 15 Sep 2025 15:25:03 +0000</pubDate>
     </item>
     <item>
       <title>Skip Geo-Blocks, Not Security with This Lifetime $50 DNS &amp; VPN</title>
@@ -188,11 +193,6 @@
       <pubDate>Fri, 12 Sep 2025 16:24:10 +0000</pubDate>
     </item>
     <item>
-      <title>Vietnam, Panama governments suffer incidents leaking citizen data</title>
-      <link>https://therecord.media/vietnam-cic-panama-finance-ministry-cyberattacks</link>
-      <pubDate>Fri, 12 Sep 2025 15:45:12 +0000</pubDate>
-    </item>
-    <item>
       <title>AI browsers or agentic browsers: a look at the future of web surfing</title>
       <link>https://www.malwarebytes.com/blog/ai/2025/09/ai-browsers-or-agentic-browsers-a-look-at-the-future-of-web-surfing</link>
       <pubDate>Fri, 12 Sep 2025 15:41:44 +0000</pubDate>
@@ -216,6 +216,11 @@
       <title>Apple Warns French Users of Fourth Spyware Campaign in 2025, CERT-FR Confirms</title>
       <link>https://thehackernews.com/2025/09/apple-warns-french-users-of-fourth.html</link>
       <pubDate>Fri, 12 Sep 2025 14:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>British rail passengers urged to stay on guard after hack signals failure</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/british-rail-passengers-hack-signals-failure</link>
+      <pubDate>Fri, 12 Sep 2025 14:42:02 +0000</pubDate>
     </item>
     <item>
       <title>Cisco fixes high-severity IOS XR flaws enabling image bypass and DoS</title>
@@ -301,11 +306,6 @@
       <title>Fileless Malware Deploys Advanced RAT via Legitimate Tools</title>
       <link>https://www.infosecurity-magazine.com/news/fileless-malware-deploys-advanced/</link>
       <pubDate>Thu, 11 Sep 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Pixel 10 Adds C2PA Support to Verify AI-Generated Media Authenticity</title>
-      <link>https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html</link>
-      <pubDate>Thu, 11 Sep 2025 15:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
