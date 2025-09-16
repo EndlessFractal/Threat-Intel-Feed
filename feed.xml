@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 12:45:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 14:21:11 +0000</lastBuildDate>
+    <item>
+      <title>Self-Replicating Worm Hits 180+ Software Packages</title>
+      <link>https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/</link>
+      <pubDate>Tue, 16 Sep 2025 14:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maranhão Stealer Detection: New Node.js-Based Information-Stealing Malware Applies Reflective DLL Injection</title>
+      <link>https://socprime.com/blog/maranhao-stealer-detection/</link>
+      <pubDate>Tue, 16 Sep 2025 14:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 16 Sep 2025 13:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercrime group accessed Google Law Enforcement Request System (LERS)</title>
+      <link>https://securityaffairs.com/182266/security/cybercrime-group-accessed-google-law-enforcement-request-system-lers.html</link>
+      <pubDate>Tue, 16 Sep 2025 13:24:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok, ChatGPT, other AIs happy to help phish senior citizens</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/09/grok-chatgpt-other-ais-happy-to-help-phish-senior-citizens</link>
+      <pubDate>Tue, 16 Sep 2025 13:06:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>LABScon 2025 | From LLM Malware to Hotel Room Bugs: A Look at This Year’s Talks</title>
+      <link>https://www.sentinelone.com/blog/labscon-2025-from-llm-malware-to-hotel-room-bugs-a-look-at-this-years-talks/</link>
+      <pubDate>Tue, 16 Sep 2025 13:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>New FileFix Variant Delivers StealC Malware Through Multilingual Phishing Site</title>
+      <link>https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html</link>
+      <pubDate>Tue, 16 Sep 2025 12:33:00 +0000</pubDate>
+    </item>
     <item>
       <title>Jaguar Land Rover says cyberattack shutdown to last 'at least' another week</title>
       <link>https://therecord.media/jaguar-land-rover-another-week-shutdown-cyberattack</link>
@@ -31,11 +66,6 @@
       <title>Securing the Agentic Era: Introducing Astrix's AI Agent Control Plane</title>
       <link>https://thehackernews.com/2025/09/securing-agentic-era-introducing.html</link>
       <pubDate>Tue, 16 Sep 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 16 Sep 2025 10:35:03 +0000</pubDate>
     </item>
     <item>
       <title>JLR Extends Production Halt After Cyber-Attack</title>
@@ -268,11 +298,6 @@
       <pubDate>Sun, 14 Sep 2025 08:06:38 +0000</pubDate>
     </item>
     <item>
-      <title>FBI warns of Salesforce attacks by UNC6040 and UNC6395 groups</title>
-      <link>https://securityaffairs.com/182159/cyber-crime/fbi-warns-of-salesforce-attacks-by-unc6040-and-unc6395-groups.html</link>
-      <pubDate>Sat, 13 Sep 2025 19:24:52 +0000</pubDate>
-    </item>
-    <item>
       <title>FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks</title>
       <link>https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html</link>
       <pubDate>Sat, 13 Sep 2025 09:04:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>Weekly Update 469</title>
       <link>https://www.troyhunt.com/weekly-update-469/</link>
       <pubDate>Sat, 13 Sep 2025 07:42:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trusted Connections, Hidden Risks: Token Management in the Third-Party Supply Chain</title>
-      <link>https://unit42.paloaltonetworks.com/third-party-supply-chain-token-management/</link>
-      <pubDate>Fri, 12 Sep 2025 23:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assessing the Quality of Dried Squid</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/assessing-the-quality-of-dried-squid.html</link>
-      <pubDate>Fri, 12 Sep 2025 21:05:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Cyberattack Victim Notification Framework</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/a-cyberattack-victim-notification-framework.html</link>
-      <pubDate>Fri, 12 Sep 2025 21:04:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 37</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-37-6/</link>
-      <pubDate>Fri, 12 Sep 2025 16:24:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI browsers or agentic browsers: a look at the future of web surfing</title>
-      <link>https://www.malwarebytes.com/blog/ai/2025/09/ai-browsers-or-agentic-browsers-a-look-at-the-future-of-web-surfing</link>
-      <pubDate>Fri, 12 Sep 2025 15:41:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
