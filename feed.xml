@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 14:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 16:26:59 +0000</lastBuildDate>
+    <item>
+      <title>Fifteen Ransomware Gangs “Retire,” Future Unclear</title>
+      <link>https://www.infosecurity-magazine.com/news/fifteen-ransomware-gangs-retire/</link>
+      <pubDate>Tue, 16 Sep 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 16 Sep 2025 15:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gucci and Alexander McQueen Hit by Customer Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/gucci-mcqueen-customer-breach/</link>
+      <pubDate>Tue, 16 Sep 2025 15:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sentinels League: Live Rankings for the Threat Hunting World Championship</title>
+      <link>https://www.sentinelone.com/blog/sentinels-league-live-rankings-for-the-threat-hunting-world-championship/</link>
+      <pubDate>Tue, 16 Sep 2025 15:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese AI Villager Pen Testing Tool Hits 11,000 PyPI Downloads</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-ai-villager-pen-testing/</link>
+      <pubDate>Tue, 16 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Complex Hybrid Environments Need More Than Good Enough</title>
+      <link>https://www.security.com/product-insights/complex-hybrid-environments-need-more-good-enough</link>
+      <pubDate>Tue, 16 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SlopAds Fraud Ring Exploits 224 Android Apps to Drive 2.3 Billion Daily Ad Bids</title>
+      <link>https://thehackernews.com/2025/09/slopads-fraud-ring-exploits-224-android.html</link>
+      <pubDate>Tue, 16 Sep 2025 14:19:00 +0000</pubDate>
+    </item>
     <item>
       <title>Self-Replicating Worm Hits 180+ Software Packages</title>
       <link>https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/</link>
@@ -16,11 +51,6 @@
       <title>Maranhão Stealer Detection: New Node.js-Based Information-Stealing Malware Applies Reflective DLL Injection</title>
       <link>https://socprime.com/blog/maranhao-stealer-detection/</link>
       <pubDate>Tue, 16 Sep 2025 14:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 16 Sep 2025 13:35:03 +0000</pubDate>
     </item>
     <item>
       <title>Cybercrime group accessed Google Law Enforcement Request System (LERS)</title>
@@ -41,6 +71,46 @@
       <title>New FileFix Variant Delivers StealC Malware Through Multilingual Phishing Site</title>
       <link>https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html</link>
       <pubDate>Tue, 16 Sep 2025 12:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy RTU500 Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-259-02</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Multiple Industrial Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-259-06</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC NET CP, SINEMA, and SCALANCE</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-259-03</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens OpenSSL Vulnerability in Industrial Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-259-05</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric Altivar Products, ATVdPAC Module, ILC992 InterLink Converter</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-259-01</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM, SINEC NMS, and SINEMA</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-259-04</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Electronics DIALink</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-259-07</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Eight Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/09/16/cisa-releases-eight-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Jaguar Land Rover says cyberattack shutdown to last 'at least' another week</title>
@@ -118,7 +188,7 @@
       <pubDate>Tue, 16 Sep 2025 05:58:14 +0000</pubDate>
     </item>
     <item>
-      <title>40 npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials</title>
+      <title>40+ npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials</title>
       <link>https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html</link>
       <pubDate>Tue, 16 Sep 2025 05:00:00 +0000</pubDate>
     </item>
@@ -236,76 +306,6 @@
       <title>HiddenGh0st, Winos and kkRAT Exploit SEO, GitHub Pages in Chinese Malware Attacks</title>
       <link>https://thehackernews.com/2025/09/hiddengh0st-winos-and-kkrat-exploit-seo.html</link>
       <pubDate>Mon, 15 Sep 2025 05:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK ICO finds students behind majority of school data breaches</title>
-      <link>https://securityaffairs.com/182197/cyber-crime/uk-ico-finds-students-behind-majority-of-school-data-breaches.html</link>
-      <pubDate>Mon, 15 Sep 2025 05:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>INC ransom group claimed the breach of Panama’s Ministry of Economy and Finance</title>
-      <link>https://securityaffairs.com/182203/data-breach/panamas-ministry-of-economy-and-finance-data-breach.html</link>
-      <pubDate>Mon, 15 Sep 2025 05:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, September 15th, 2025 https://isc.sans.edu/podcastdetail/9612, (Mon, Sep 15th)</title>
-      <link>https://isc.sans.edu/diary/rss/32284</link>
-      <pubDate>Mon, 15 Sep 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 2025 CVE Landscape</title>
-      <link>https://www.recordedfuture.com/blog/august-2025-cve-landscape</link>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web Searches For Archives, (Sun, Sep 14th)</title>
-      <link>https://isc.sans.edu/diary/rss/32282</link>
-      <pubDate>Sun, 14 Sep 2025 21:58:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/upcoming-speaking-engagements-48.html</link>
-      <pubDate>Sun, 14 Sep 2025 16:02:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 62</title>
-      <link>https://securityaffairs.com/182181/malware/security-affairs-malware-newsletter-round-62.html</link>
-      <pubDate>Sun, 14 Sep 2025 15:05:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 2025 Threat Trend Report on Ransomware</title>
-      <link>https://asec.ahnlab.com/en/90159/</link>
-      <pubDate>Sun, 14 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 2025 Trends Report on Phishing Emails</title>
-      <link>https://asec.ahnlab.com/en/90158/</link>
-      <pubDate>Sun, 14 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 541 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/182169/breaking-news/security-affairs-newsletter-round-541-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 14 Sep 2025 12:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Privateers: The Return of the Hack-Back Debate</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cyber-privateers-the-return-of-the-hack-back-debate</link>
-      <pubDate>Sun, 14 Sep 2025 09:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShinyHunters Attack National Credit Information Center of Vietnam</title>
-      <link>https://securityaffairs.com/182189/cyber-crime/shinyhunters-attack-national-credit-information-center-of-vietnam.html</link>
-      <pubDate>Sun, 14 Sep 2025 08:06:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks</title>
-      <link>https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html</link>
-      <pubDate>Sat, 13 Sep 2025 09:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 469</title>
-      <link>https://www.troyhunt.com/weekly-update-469/</link>
-      <pubDate>Sat, 13 Sep 2025 07:42:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
