@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 16:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 18:30:22 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 16 Sep 2025 17:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>House lawmakers move to extend two key cyber programs, for now</title>
+      <link>https://therecord.media/house-lawmakers-move-to-extend-two-cyber-laws</link>
+      <pubDate>Tue, 16 Sep 2025 17:22:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos supports Objective-See Foundation to advance macOS security and inclusive cybersecurity education</title>
+      <link>https://news.sophos.com/en-us/2025/09/16/sophos-supports-objective-see-foundation-to-advance-macos-security-and-inclusive-cybersecurity-education/</link>
+      <pubDate>Tue, 16 Sep 2025 17:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI to predict ages in bid to stop ChatGPT from discussing self harm with kids</title>
+      <link>https://therecord.media/openai-age-prediction-chatgpt-children-safety</link>
+      <pubDate>Tue, 16 Sep 2025 16:39:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover</title>
+      <link>https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html</link>
+      <pubDate>Tue, 16 Sep 2025 16:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Purview innovations for your Fabric data: Unify data security and governance for the AI era</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/09/16/microsoft-purview-innovations-for-your-fabric-data-unify-data-security-and-governance-for-the-ai-era/</link>
+      <pubDate>Tue, 16 Sep 2025 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fifteen Ransomware Gangs “Retire,” Future Unclear</title>
       <link>https://www.infosecurity-magazine.com/news/fifteen-ransomware-gangs-retire/</link>
       <pubDate>Tue, 16 Sep 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 16 Sep 2025 15:40:04 +0000</pubDate>
     </item>
     <item>
       <title>Gucci and Alexander McQueen Hit by Customer Data Breach</title>
@@ -188,9 +213,19 @@
       <pubDate>Tue, 16 Sep 2025 05:58:14 +0000</pubDate>
     </item>
     <item>
-      <title>40+ npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials</title>
+      <title>CrowdStrike Falcon Platform Evolves to Lead the Agentic Security Era</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-evolves-to-lead-agentic-security-era/</link>
+      <pubDate>Tue, 16 Sep 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Replicating Worm Hits 180+ npm Packages to Steal Credentials in Latest Supply Chain Attack</title>
       <link>https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html</link>
       <pubDate>Tue, 16 Sep 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike to Acquire Pangea to Secure Enterprise AI Use and Development</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-pangea/</link>
+      <pubDate>Tue, 16 Sep 2025 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, September 16th, 2025 https://isc.sans.edu/podcastdetail/9614, (Tue, Sep 16th)</title>
@@ -228,19 +263,9 @@
       <pubDate>Mon, 15 Sep 2025 18:35:07 +0000</pubDate>
     </item>
     <item>
-      <title>FBI warns of Scattered Spider and ShinyHunters attacks on Salesforce platforms</title>
-      <link>https://therecord.media/fbi-warns-scattered-spider-salesforce</link>
-      <pubDate>Mon, 15 Sep 2025 18:24:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Fairmont Federal Credit Union 2023 data breach impacted 187K people</title>
       <link>https://securityaffairs.com/182217/data-breach/fairmont-federal-credit-union-2023-data-breach-impacted-187k-people.html</link>
       <pubDate>Mon, 15 Sep 2025 18:10:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol adds Spanish academic suspected of aiding pro-Russian hackers to most wanted list</title>
-      <link>https://therecord.media/europol-adds-spanish-academic-most-wanted-russia-hack</link>
-      <pubDate>Mon, 15 Sep 2025 17:02:30 +0000</pubDate>
     </item>
     <item>
       <title>HybridPetya Mimics NotPetya, Adds UEFI Compromise</title>
@@ -281,31 +306,6 @@
       <title>Shiny tools, shallow checks: how the AI hype opens the door to malicious MCP servers</title>
       <link>https://securelist.com/model-context-protocol-for-ai-integration-abused-in-supply-chain-attacks/117473/</link>
       <pubDate>Mon, 15 Sep 2025 10:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA at Risk After OIG Accuses it of Wasting Federal Funds</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-oig-accuses-wasting-federal/</link>
-      <pubDate>Mon, 15 Sep 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing Campaigns Drop RMM Tools for Remote Access</title>
-      <link>https://www.infosecurity-magazine.com/news/phishing-campaigns-rmm-tools/</link>
-      <pubDate>Mon, 15 Sep 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns</title>
-      <link>https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html</link>
-      <pubDate>Mon, 15 Sep 2025 07:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (September 8 – September 14)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/09/a-week-in-security-september-8-september-14</link>
-      <pubDate>Mon, 15 Sep 2025 07:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HiddenGh0st, Winos and kkRAT Exploit SEO, GitHub Pages in Chinese Malware Attacks</title>
-      <link>https://thehackernews.com/2025/09/hiddengh0st-winos-and-kkrat-exploit-seo.html</link>
-      <pubDate>Mon, 15 Sep 2025 05:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
