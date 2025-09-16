@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 08:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 10:22:00 +0000</lastBuildDate>
+    <item>
+      <title>JLR Extends Production Halt After Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/jlr-extends-production-halt-after/</link>
+      <pubDate>Tue, 16 Sep 2025 10:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RevengeHotels: a new wave of attacks leveraging LLMs and VenomRAT</title>
+      <link>https://securelist.com/revengehotels-attacks-with-ai-and-venomrat-across-latin-america/117493/</link>
+      <pubDate>Tue, 16 Sep 2025 10:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>API Threats Surge to 40,000 Incidents in 1H 2025</title>
+      <link>https://www.infosecurity-magazine.com/news/api-threats-surge-40000-incidents/</link>
+      <pubDate>Tue, 16 Sep 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FinWise Bank Warns of Insider Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/finwise-bank-warns-of-insider-data/</link>
+      <pubDate>Tue, 16 Sep 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Tue, 16 Sep 2025 08:35:03 +0000</pubDate>
+    </item>
     <item>
       <title>Sophos tops G2 Fall 2025 Reports: #1 Overall in MDR and Firewall</title>
       <link>https://news.sophos.com/en-us/2025/09/16/sophos-tops-g2-fall-2025-reports-1-overall-in-mdr-and-firewall/</link>
@@ -21,11 +46,6 @@
       <title>Phoenix RowHammer Attack Bypasses Advanced DDR5 Memory Protections in 109 Seconds</title>
       <link>https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html</link>
       <pubDate>Tue, 16 Sep 2025 07:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 16 Sep 2025 06:35:04 +0000</pubDate>
     </item>
     <item>
       <title>Insider breach at FinWise Bank exposes data of 689,000 AFF customers</title>
@@ -193,6 +213,16 @@
       <pubDate>Sun, 14 Sep 2025 15:05:08 +0000</pubDate>
     </item>
     <item>
+      <title>August 2025 Threat Trend Report on Ransomware</title>
+      <link>https://asec.ahnlab.com/en/90159/</link>
+      <pubDate>Sun, 14 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2025 Trends Report on Phishing Emails</title>
+      <link>https://asec.ahnlab.com/en/90158/</link>
+      <pubDate>Sun, 14 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Security Affairs newsletter Round 541 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/182169/breaking-news/security-affairs-newsletter-round-541-by-pierluigi-paganini-international-edition.html</link>
       <pubDate>Sun, 14 Sep 2025 12:09:19 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>SEO Poisoning Attack Targets Chinese-Speaking Users with Fake Software Sites</title>
       <link>https://feeds.fortinet.com/~/924720758/0/fortinet/blog/threat-research~SEO-Poisoning-Attack-Targets-ChineseSpeaking-Users-with-Fake-Software-Sites</link>
       <pubDate>Fri, 12 Sep 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New HybridPetya Ransomware Bypasses UEFI Secure Boot With CVE-2024-7344 Exploit</title>
-      <link>https://thehackernews.com/2025/09/new-hybridpetya-ransomware-bypasses.html</link>
-      <pubDate>Fri, 12 Sep 2025 11:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical CVE-2025-5086 in DELMIA Apriso Actively Exploited, CISA Issues Warning</title>
-      <link>https://thehackernews.com/2025/09/critical-cve-2025-5086-in-delmia-apriso.html</link>
-      <pubDate>Fri, 12 Sep 2025 11:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France Warns Apple Users of New Spyware Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/france-apple-spyware-campaign/</link>
-      <pubDate>Fri, 12 Sep 2025 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICO Warns of Student-Led Data Breaches in UK Schools</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-student-data-breaches-uk/</link>
-      <pubDate>Fri, 12 Sep 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage</title>
-      <link>https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html</link>
-      <pubDate>Fri, 12 Sep 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories</title>
-      <link>https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html</link>
-      <pubDate>Fri, 12 Sep 2025 04:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
