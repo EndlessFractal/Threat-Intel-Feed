@@ -6,21 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 06:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 08:27:21 +0000</lastBuildDate>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 18 Sep 2025 05:30:03 +0000</pubDate>
+      <title>Jaguar Land Rover will extend its production halt into a third week following a cyberattack</title>
+      <link>https://securityaffairs.com/182312/security/jaguar-land-rover-will-extend-its-production-halt-into-a-third-week-following-a-cyberattack.html</link>
+      <pubDate>Thu, 18 Sep 2025 07:40:48 +0000</pubDate>
     </item>
     <item>
-      <title>ISC Stormcast For Thursday, September 18th, 2025 https://isc.sans.edu/podcastdetail/9618, (Thu, Sep 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/32298</link>
-      <pubDate>Thu, 18 Sep 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploring Uploads in a Dshield Honeypot Environment [Guest Diary], (Thu, Sep 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/32296</link>
-      <pubDate>Thu, 18 Sep 2025 00:49:09 +0000</pubDate>
+      <title>Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions</title>
+      <link>https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html</link>
+      <pubDate>Thu, 18 Sep 2025 05:49:00 +0000</pubDate>
     </item>
     <item>
       <title>CopyCop Deepens Its Playbook with New Websites and Targets</title>
@@ -55,6 +50,11 @@
     <item>
       <title>Critical CVEs in Chaos-Mesh Enable In-Cluster Code Execution</title>
       <link>https://www.infosecurity-magazine.com/news/cves-chaos-mesh-cluster-code/</link>
+      <pubDate>Wed, 17 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web  Issues Week 3, September 2025</title>
+      <link>https://asec.ahnlab.com/en/90184/</link>
       <pubDate>Wed, 17 Sep 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -163,11 +163,6 @@
       <pubDate>Wed, 17 Sep 2025 08:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>CTRL-Z DLL Hooking, (Wed, Sep 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/32294</link>
-      <pubDate>Wed, 17 Sep 2025 08:02:44 +0000</pubDate>
-    </item>
-    <item>
       <title>DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM</title>
       <link>https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html</link>
       <pubDate>Wed, 17 Sep 2025 06:20:00 +0000</pubDate>
@@ -198,11 +193,6 @@
       <pubDate>Wed, 17 Sep 2025 04:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>ISC Stormcast For Wednesday, September 17th, 2025 https://isc.sans.edu/podcastdetail/9616, (Wed, Sep 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/32292</link>
-      <pubDate>Wed, 17 Sep 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Protect Your People and Assets from Targeted Threats</title>
       <link>https://www.recordedfuture.com/blog/how-to-protect-your-people-and-assets-from-targeted-threats</link>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
@@ -221,11 +211,6 @@
       <title>Update your Apple devices to fix dozens of vulnerabilities</title>
       <link>https://www.malwarebytes.com/blog/news/2025/09/update-your-apple-devices-to-fix-dozens-of-vulnerabilities</link>
       <pubDate>Tue, 16 Sep 2025 19:48:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why You Need Phishing Resistant Authentication NOW., (Tue, Sep 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/32290</link>
-      <pubDate>Tue, 16 Sep 2025 18:04:16 +0000</pubDate>
     </item>
     <item>
       <title>Sophos supports Objective-See Foundation to advance macOS security and inclusive cybersecurity education</title>
@@ -306,6 +291,21 @@
       <title>New FileFix Variant Delivers StealC Malware Through Multilingual Phishing Site</title>
       <link>https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html</link>
       <pubDate>Tue, 16 Sep 2025 12:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy RTU500 Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-259-02</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Multiple Industrial Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-259-06</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC NET CP, SINEMA, and SCALANCE</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-259-03</link>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
