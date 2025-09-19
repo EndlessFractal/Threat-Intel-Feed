@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Sep 2025 04:25:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 06:31:25 +0000</lastBuildDate>
+    <item>
+      <title>Have I Been Pwned Demos Are Now Live!</title>
+      <link>https://www.troyhunt.com/have-i-been-pwned-demos-are-now-live/</link>
+      <pubDate>Fri, 19 Sep 2025 05:49:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns of Two Malware Strains Exploiting Ivanti EPMM CVE-2025-4427 and CVE-2025-4428</title>
+      <link>https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html</link>
+      <pubDate>Fri, 19 Sep 2025 04:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 19 Sep 2025 02:05:03 +0000</pubDate>
+      <pubDate>Fri, 19 Sep 2025 04:05:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, September 19th, 2025 https://isc.sans.edu/podcastdetail/9620, (Fri, Sep 19th)</title>
@@ -65,6 +75,11 @@
     <item>
       <title>New York Blood Center Alerts 194,000 People to Data Breach</title>
       <link>https://www.infosecurity-magazine.com/news/new-york-blood-center-data-breach/</link>
+      <pubDate>Thu, 18 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Security &amp; Malware Issue 3st Week of September, 2025</title>
+      <link>https://asec.ahnlab.com/en/90209/</link>
       <pubDate>Thu, 18 Sep 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>Critical CVEs in Chaos-Mesh Enable In-Cluster Code Execution</title>
       <link>https://www.infosecurity-magazine.com/news/cves-chaos-mesh-cluster-code/</link>
       <pubDate>Wed, 17 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kawa4096 Ransomware: Leveraging Brand Mimicry for Psychological Impact</title>
-      <link>https://asec.ahnlab.com/en/90207/</link>
-      <pubDate>Wed, 17 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web  Issues Week 3, September 2025</title>
-      <link>https://asec.ahnlab.com/en/90184/</link>
-      <pubDate>Wed, 17 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Listener for Ivanti Endpoint Mobile Management Systems</title>
-      <link>https://www.cisa.gov/news-events/analysis-reports/ar25-261a</link>
-      <pubDate>Wed, 17 Sep 2025 14:28:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
