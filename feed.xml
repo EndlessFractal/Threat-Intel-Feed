@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 22:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 01:41:32 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 18 Sep 2025 22:05:04 +0000</pubDate>
+      <pubDate>Fri, 19 Sep 2025 01:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShadowLeak: Radware Uncovers Zero-Click Attack on ChatGPT</title>
+      <link>https://securityaffairs.com/182334/hacking/shadowleak-radware-uncovers-zero-click-attack-on-chatgpt.html</link>
+      <pubDate>Thu, 18 Sep 2025 23:29:17 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI fixes zero-click ShadowLeak vulnerability affecting ChatGPT Deep Research agent</title>
@@ -301,11 +306,6 @@
       <title>TaskUs Employees Behind Coinbase Breach, US Court Filing Alleges</title>
       <link>https://www.infosecurity-magazine.com/news/taskus-employee-coinbase-breach/</link>
       <pubDate>Wed, 17 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>224 malicious apps removed from the Google Play Store after ad fraud campaign discovered</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/09/224-malicious-apps-removed-from-the-google-play-store-after-ad-fraud-campaign-discovered</link>
-      <pubDate>Wed, 17 Sep 2025 13:45:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
