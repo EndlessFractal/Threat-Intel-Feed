@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Sep 2025 16:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 18:26:16 +0000</lastBuildDate>
+    <item>
+      <title>A cyberattack on Collins Aerospace disrupted operations at major European airports</title>
+      <link>https://securityaffairs.com/182363/hacking/a-cyberattack-on-collins-aerospace-disrupted-operations-at-major-european-airports.html</link>
+      <pubDate>Sat, 20 Sep 2025 16:43:26 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 20 Sep 2025 15:25:04 +0000</pubDate>
+      <pubDate>Sat, 20 Sep 2025 16:30:03 +0000</pubDate>
     </item>
     <item>
       <title>CISA warns of malware deployed through Ivanti EPMM flaws</title>
@@ -301,11 +306,6 @@
       <title>CVE-2025-10585 Vulnerability: A New Zero-Day Exploit in Chrome’s V8 JavaScript and WebAssembly Engine Weaponized in Real-World Attacks</title>
       <link>https://socprime.com/blog/cve-2025-10585-zero-day-vulnerability/</link>
       <pubDate>Thu, 18 Sep 2025 11:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Time-of-Check Time-of-Use Attacks Against LLMs</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html</link>
-      <pubDate>Thu, 18 Sep 2025 11:06:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
