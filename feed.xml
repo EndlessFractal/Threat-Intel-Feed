@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Sep 2025 22:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 01:48:13 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 20 Sep 2025 20:30:05 +0000</pubDate>
+      <pubDate>Sat, 20 Sep 2025 23:30:03 +0000</pubDate>
     </item>
     <item>
       <title>A cyberattack on Collins Aerospace disrupted operations at major European airports</title>
@@ -96,6 +96,11 @@
       <title>17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge</title>
       <link>https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html</link>
       <pubDate>Fri, 19 Sep 2025 14:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>You don’t need quantum hardware for post-quantum security</title>
+      <link>https://blog.cloudflare.com/you-dont-need-quantum-hardware/</link>
+      <pubDate>Fri, 19 Sep 2025 13:44:40 +0000</pubDate>
     </item>
     <item>
       <title>The GoLaxy papers: Inside China’s AI persona army</title>
@@ -301,11 +306,6 @@
       <title>CVE-2025-41248 &amp; CVE-2025-41249: Vulnerabilities in Spring Framework, Spring Security Lead to Authorization Bypass, Expose Sensitive Data</title>
       <link>https://socprime.com/blog/latest-threats/cve-2025-41248-and-cve-2025-41249-in-spring-framework/</link>
       <pubDate>Thu, 18 Sep 2025 11:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-10585 Vulnerability: A New Zero-Day Exploit in Chrome’s V8 JavaScript and WebAssembly Engine Weaponized in Real-World Attacks</title>
-      <link>https://socprime.com/blog/cve-2025-10585-zero-day-vulnerability/</link>
-      <pubDate>Thu, 18 Sep 2025 11:14:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
