@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Sep 2025 12:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 14:16:52 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 21 Sep 2025 11:40:05 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2025 13:40:04 +0000</pubDate>
     </item>
     <item>
       <title>DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams</title>
@@ -111,11 +111,6 @@
       <title>17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge</title>
       <link>https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html</link>
       <pubDate>Fri, 19 Sep 2025 14:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>You don’t need quantum hardware for post-quantum security</title>
-      <link>https://blog.cloudflare.com/you-dont-need-quantum-hardware/</link>
-      <pubDate>Fri, 19 Sep 2025 13:44:40 +0000</pubDate>
     </item>
     <item>
       <title>The GoLaxy papers: Inside China’s AI persona army</title>
@@ -306,6 +301,11 @@
       <title>CISA Releases Nine Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/09/18/cisa-releases-nine-industrial-control-systems-advisories</link>
       <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SilentSync RAT Delivered via Two Malicious PyPI Packages Targeting Python Developers</title>
+      <link>https://thehackernews.com/2025/09/silentsync-rat-delivered-via-two.html</link>
+      <pubDate>Thu, 18 Sep 2025 11:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
