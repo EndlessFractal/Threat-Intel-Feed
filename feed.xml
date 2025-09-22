@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 06:33:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 08:29:43 +0000</lastBuildDate>
     <item>
-      <title>Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants</title>
-      <link>https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html</link>
-      <pubDate>Mon, 22 Sep 2025 05:47:00 +0000</pubDate>
+      <title>A week in security (September 15 – September 21)</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/09/a-week-in-security-september-15-september-21</link>
+      <pubDate>Mon, 22 Sep 2025 07:02:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 22 Sep 2025 03:50:03 +0000</pubDate>
+      <pubDate>Mon, 22 Sep 2025 06:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware: GitHub repos distributing Atomic Infostealer on macOS</title>
+      <link>https://securityaffairs.com/182419/malware/beware-github-repos-distributing-atomic-infostealer-on-macos.html</link>
+      <pubDate>Mon, 22 Sep 2025 06:49:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants</title>
+      <link>https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html</link>
+      <pubDate>Mon, 22 Sep 2025 05:47:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Monday, September 22nd, 2025 https://isc.sans.edu/podcastdetail/9622, (Mon, Sep 22nd)</title>
@@ -141,6 +151,11 @@
       <title>17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge</title>
       <link>https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html</link>
       <pubDate>Fri, 19 Sep 2025 14:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>You don’t need quantum hardware for post-quantum security</title>
+      <link>https://blog.cloudflare.com/you-dont-need-quantum-hardware/</link>
+      <pubDate>Fri, 19 Sep 2025 13:44:40 +0000</pubDate>
     </item>
     <item>
       <title>The GoLaxy papers: Inside China’s AI persona army</title>
@@ -290,21 +305,6 @@
     <item>
       <title>Dover Fueling Solutions ProGauge MagLink LX4 Devices</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-07</link>
-      <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Saitel DR &amp; Saitel DP Remote Terminal Unit</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-03</link>
-      <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Westermo Network Technologies WeOS 5</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-01</link>
-      <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Westermo Network Technologies WeOS 5</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-02</link>
       <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
