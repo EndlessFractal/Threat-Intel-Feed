@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 03:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 04:25:52 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
@@ -136,11 +136,6 @@
       <title>17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge</title>
       <link>https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html</link>
       <pubDate>Fri, 19 Sep 2025 14:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>You don’t need quantum hardware for post-quantum security</title>
-      <link>https://blog.cloudflare.com/you-dont-need-quantum-hardware/</link>
-      <pubDate>Fri, 19 Sep 2025 13:44:40 +0000</pubDate>
     </item>
     <item>
       <title>The GoLaxy papers: Inside China’s AI persona army</title>
@@ -305,6 +300,11 @@
     <item>
       <title>Westermo Network Technologies WeOS 5</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-02</link>
+      <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Asset Suite</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-04</link>
       <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
