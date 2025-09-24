@@ -6,11 +6,66 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 10:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 12:44:05 +0000</lastBuildDate>
+    <item>
+      <title>UK authorities announce arrest in cyberattack that disrupted European airports</title>
+      <link>https://therecord.media/uk-arrest-cyberattack-disruption-european-airports</link>
+      <pubDate>Wed, 24 Sep 2025 12:34:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>How One Bad Password Ended a 158-Year-Old Business</title>
+      <link>https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html</link>
+      <pubDate>Wed, 24 Sep 2025 11:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SolarWinds fixed a critical RCE flaw in its Web Help Desk software</title>
+      <link>https://securityaffairs.com/182545/security/solarwinds-fixed-a-critical-rce-flaw-in-its-web-help-desk-software.html</link>
+      <pubDate>Wed, 24 Sep 2025 11:50:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms</title>
+      <link>https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/</link>
+      <pubDate>Wed, 24 Sep 2025 11:48:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Casino company Boyd Gaming hacked, employee data stolen</title>
+      <link>https://therecord.media/casino-company-boyd-gaming-reports-data-breach</link>
+      <pubDate>Wed, 24 Sep 2025 11:43:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus</title>
+      <link>https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html</link>
+      <pubDate>Wed, 24 Sep 2025 11:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Disrupts Massive Cell Phone Array in New York</title>
+      <link>https://www.schneier.com/blog/archives/2025/09/us-disrupts-massive-cell-phone-array-in-new-york.html</link>
+      <pubDate>Wed, 24 Sep 2025 11:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>iframe Security Exposed: The Blind Spot Fueling Payment Skimmer Attacks</title>
+      <link>https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html</link>
+      <pubDate>Wed, 24 Sep 2025 11:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vegas Gambling Giant Hit by Cyber Incident, Employee Data Exposed</title>
+      <link>https://www.infosecurity-magazine.com/news/vegas-gambling-cyber-incident/</link>
+      <pubDate>Wed, 24 Sep 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 24 Sep 2025 10:55:03 +0000</pubDate>
+    </item>
     <item>
       <title>Cell Tower Hacking Gear Seized Ahead of UN General Assembly</title>
       <link>https://www.infosecurity-magazine.com/news/cell-tower-hacking-gear-seized-nyc/</link>
       <pubDate>Wed, 24 Sep 2025 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How threat actors breached a U.S. federal civilian agency by exploiting a GeoServer flaw</title>
+      <link>https://securityaffairs.com/182532/hacking/how-threat-actors-breached-u-s-federal-civilian-agency-by-exploiting-a-geoserver-flaw.html</link>
+      <pubDate>Wed, 24 Sep 2025 10:14:48 +0000</pubDate>
     </item>
     <item>
       <title>What happens when you engage Cisco Talos Incident Response?</title>
@@ -21,11 +76,6 @@
       <title>Federal Agency Compromised Via GeoServer Exploit, CISA Reveals</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-federal-agency-geoserver/</link>
       <pubDate>Wed, 24 Sep 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 24 Sep 2025 08:55:04 +0000</pubDate>
     </item>
     <item>
       <title>European Police Bust €100m Crypto-Fraud Ring</title>
@@ -188,11 +238,6 @@
       <pubDate>Tue, 23 Sep 2025 12:25:44 +0000</pubDate>
     </item>
     <item>
-      <title>Jaguar Land Rover extends shutdown again following cyberattack</title>
-      <link>https://therecord.media/jaguar-land-rover-extends-shutdown-again-cyberattack</link>
-      <pubDate>Tue, 23 Sep 2025 12:05:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Schneider Electric SESU</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-266-03</link>
       <pubDate>Tue, 23 Sep 2025 12:00:00 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>$150K awarded for L1TF Reloaded exploit that bypasses cloud mitigations</title>
       <link>https://securityaffairs.com/182476/security/150k-awarded-for-l1tf-reloaded-exploit-that-bypasses-cloud-mitigations.html</link>
       <pubDate>Tue, 23 Sep 2025 10:05:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Car Giant Stellantis Confims Third-Party Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/stellantis-confims-third-party/</link>
-      <pubDate>Tue, 23 Sep 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Mandates 2FA and Short-Lived Tokens to Strengthen npm Supply Chain Security</title>
-      <link>https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html</link>
-      <pubDate>Tue, 23 Sep 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scammers are impersonating the FBI to steal your personal data</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/09/scammers-are-impersonating-the-fbi-to-steal-your-personal-data</link>
-      <pubDate>Tue, 23 Sep 2025 09:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jaguar Land Rover Extends Production Pause Again</title>
-      <link>https://www.infosecurity-magazine.com/news/jaguar-land-rover-extends/</link>
-      <pubDate>Tue, 23 Sep 2025 08:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BadIIS Malware Spreads via SEO Poisoning — Redirects Traffic, Plants Web Shells</title>
-      <link>https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html</link>
-      <pubDate>Tue, 23 Sep 2025 08:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s RCMP closes TradeOgre, seizes $40M in country’s largest crypto bust</title>
-      <link>https://securityaffairs.com/182467/cyber-crime/canadas-rcmp-closes-tradeogre-seizes-40m-in-countrys-largest-crypto-bust.html</link>
-      <pubDate>Tue, 23 Sep 2025 06:59:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, September 23rd, 2025 https://isc.sans.edu/podcastdetail/9624, (Tue, Sep 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/32306</link>
-      <pubDate>Tue, 23 Sep 2025 03:50:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Rewrite: Chinese-Speaking Threat Actors Deploy BadIIS in a Wide Scale SEO Poisoning Campaign</title>
-      <link>https://unit42.paloaltonetworks.com/operation-rewrite-seo-poisoning-campaign/</link>
-      <pubDate>Mon, 22 Sep 2025 23:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alleged Scattered Spider member turns self in to Las Vegas police</title>
-      <link>https://therecord.media/las-vegas-arrest-scattered-spider-suspect-turns-self-in</link>
-      <pubDate>Mon, 22 Sep 2025 19:19:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
