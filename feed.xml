@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 01:40:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 03:00:02 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Wed, 24 Sep 2025 01:50:04 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware Payments vs Rising Incident Counts in 2025 – What’s Changing in RaaS Economics</title>
       <link>https://www.darknet.org.uk/2025/09/ransomware-payments-vs-rising-incident-counts-in-2025-whats-changing-in-raas-economics/</link>
       <pubDate>Wed, 24 Sep 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 24 Sep 2025 00:50:03 +0000</pubDate>
     </item>
     <item>
       <title>HIBP Demo: Querying the API, and the Free Test Key!</title>
@@ -121,6 +121,11 @@
       <title>Deepfake Attacks Hit Two-Thirds of Businesses</title>
       <link>https://www.infosecurity-magazine.com/news/deepfake-attacks-hit-twothirds-of/</link>
       <pubDate>Tue, 23 Sep 2025 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google DORA Research: Software Developers Use AI ‘Heavily’</title>
+      <link>https://www.techrepublic.com/article/news-dora-ai-report-2025/</link>
+      <pubDate>Tue, 23 Sep 2025 13:00:07 +0000</pubDate>
     </item>
     <item>
       <title>Critical Security Flaws Grow with AI Use, New Report Shows</title>
@@ -301,11 +306,6 @@
       <title>Major Cyber Threat Detection Vendors Pull Out of MITRE Evaluations Test</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-vendors-pull-out-mitre/</link>
       <pubDate>Mon, 22 Sep 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall Releases Advisory for Customers after Security Incident</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/09/22/sonicwall-releases-advisory-customers-after-security-incident</link>
-      <pubDate>Mon, 22 Sep 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
