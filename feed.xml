@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Sep 2025 14:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 16:26:58 +0000</lastBuildDate>
     <item>
-      <title>Safe in the sandbox: security hardening for Cloudflare Workers</title>
-      <link>https://blog.cloudflare.com/safe-in-the-sandbox-security-hardening-for-cloudflare-workers/</link>
-      <pubDate>Thu, 25 Sep 2025 14:00:00 +0000</pubDate>
+      <title>Critical Vulnerability in Salesforce AgentForce Exposed</title>
+      <link>https://www.infosecurity-magazine.com/news/critical-flaw-salesforce-agentforce/</link>
+      <pubDate>Thu, 25 Sep 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google, period-tracking app to pay combined $56 million to settle privacy claims</title>
+      <link>https://therecord.media/google-flo-health-settle-privacy-class-action</link>
+      <pubDate>Thu, 25 Sep 2025 15:46:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>New SVG-based phishing campaign is a recipe for disaster</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/09/new-svg-based-phishing-campaign-is-a-recipe-for-disaster</link>
+      <pubDate>Thu, 25 Sep 2025 15:32:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious AI Agent Server Reportedly Steals Emails</title>
+      <link>https://www.infosecurity-magazine.com/news/malicious-ai-agent-server/</link>
+      <pubDate>Thu, 25 Sep 2025 15:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 25 Sep 2025 13:20:04 +0000</pubDate>
+      <pubDate>Thu, 25 Sep 2025 15:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salesforce Patches Critical ForcedLeak Bug Exposing CRM Data via AI Prompt Injection</title>
+      <link>https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html</link>
+      <pubDate>Thu, 25 Sep 2025 15:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XCSSET evolves again: Analyzing the latest updates to XCSSET’s inventory</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/09/25/xcsset-evolves-again-analyzing-the-latest-updates-to-xcssets-inventory/</link>
+      <pubDate>Thu, 25 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing Campaign Evolves into PureRAT Deployment, Linked to Vietnamese Threat Actors</title>
+      <link>https://www.infosecurity-magazine.com/news/vietnamese-threat-actor-python/</link>
+      <pubDate>Thu, 25 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webshells Hiding in .well-known Places, (Thu, Sep 25th)</title>
+      <link>https://isc.sans.edu/diary/rss/32320</link>
+      <pubDate>Thu, 25 Sep 2025 14:24:49 +0000</pubDate>
     </item>
     <item>
       <title>North Korean Hackers Use New AkdoorTea Backdoor to Target Global Crypto Developers</title>
@@ -26,6 +61,11 @@
       <title>The Scam That Won’t Quit: Malicious “TradingView Premium” Ads Jump from Meta to Google and YouTube</title>
       <link>https://www.bitdefender.com/en-us/blog/labs/the-scam-that-wont-quit-malicious-tradingview-premium-ads-jump-from-meta-to-google-and-youtube</link>
       <pubDate>Thu, 25 Sep 2025 12:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dingtian DT-R002</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-268-01</link>
+      <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CTEM's Core: Prioritization and Validation</title>
@@ -163,11 +203,6 @@
       <pubDate>Wed, 24 Sep 2025 16:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>China-linked hackers use ‘BRICKSTORM’ backdoor to steal IP</title>
-      <link>https://therecord.media/china-linked-hackers-brickstorm-backdoor-ip</link>
-      <pubDate>Wed, 24 Sep 2025 16:02:05 +0000</pubDate>
-    </item>
-    <item>
       <title>npm Package Uses QR Code Steganography to Steal Credentials</title>
       <link>https://www.infosecurity-magazine.com/news/npm-uses-qr-code-steganography/</link>
       <pubDate>Wed, 24 Sep 2025 15:30:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>How threat actors breached a U.S. federal civilian agency by exploiting a GeoServer flaw</title>
       <link>https://securityaffairs.com/182532/hacking/how-threat-actors-breached-u-s-federal-civilian-agency-by-exploiting-a-geoserver-flaw.html</link>
       <pubDate>Wed, 24 Sep 2025 10:14:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>What happens when you engage Cisco Talos Incident Response?</title>
-      <link>https://blog.talosintelligence.com/what-happens-when-you-engage-talos-ir/</link>
-      <pubDate>Wed, 24 Sep 2025 10:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federal Agency Compromised Via GeoServer Exploit, CISA Reveals</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-federal-agency-geoserver/</link>
-      <pubDate>Wed, 24 Sep 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>European Police Bust €100m Crypto-Fraud Ring</title>
-      <link>https://www.infosecurity-magazine.com/news/european-police-bust-100m/</link>
-      <pubDate>Wed, 24 Sep 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials</title>
-      <link>https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html</link>
-      <pubDate>Wed, 24 Sep 2025 07:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>State-Sponsored Hackers Exploiting Libraesva Email Security Gateway Vulnerability</title>
-      <link>https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html</link>
-      <pubDate>Wed, 24 Sep 2025 06:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare mitigates largest-ever DDoS attack at 22.2 Tbps</title>
-      <link>https://securityaffairs.com/182521/security/cloudflare-mitigates-largest-ever-ddos-attack-at-22-2-tbps.html</link>
-      <pubDate>Wed, 24 Sep 2025 05:18:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, September 24th, 2025 https://isc.sans.edu/podcastdetail/9626, (Wed, Sep 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/32314</link>
-      <pubDate>Wed, 24 Sep 2025 03:15:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
