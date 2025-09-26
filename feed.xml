@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Sep 2025 22:17:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 01:40:41 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Fri, 26 Sep 2025 01:25:04 +0000</pubDate>
+    </item>
     <item>
       <title>Starmer to unveil digital ID cards in plan set to ignite civil liberties row</title>
       <link>https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards</link>
       <pubDate>Thu, 25 Sep 2025 21:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 25 Sep 2025 21:20:04 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds CISCO Secure Firewall ASA and Secure FTD flaws to its Known Exploited Vulnerabilities catalog</title>
@@ -121,11 +121,6 @@
       <title>Webshells Hiding in .well-known Places, (Thu, Sep 25th)</title>
       <link>https://isc.sans.edu/diary/rss/32320</link>
       <pubDate>Thu, 25 Sep 2025 14:24:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Safe in the sandbox: security hardening for Cloudflare Workers</title>
-      <link>https://blog.cloudflare.com/safe-in-the-sandbox-security-hardening-for-cloudflare-workers/</link>
-      <pubDate>Thu, 25 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>North Korean Hackers Use New AkdoorTea Backdoor to Target Global Crypto Developers</title>
@@ -306,6 +301,11 @@
       <title>UNC5221 Uses BRICKSTORM Backdoor to Infiltrate U.S. Legal and Technology Sectors</title>
       <link>https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html</link>
       <pubDate>Wed, 24 Sep 2025 14:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nation-State hackers exploit Libraesva Email Gateway flaw</title>
+      <link>https://securityaffairs.com/182552/hacking/nation-state-hackers-exploit-libraesva-email-gateway-flaw.html</link>
+      <pubDate>Wed, 24 Sep 2025 14:29:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
