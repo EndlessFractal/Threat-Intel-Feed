@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Sep 2025 10:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 12:38:35 +0000</lastBuildDate>
+    <item>
+      <title>China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks</title>
+      <link>https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html</link>
+      <pubDate>Sat, 27 Sep 2025 12:06:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 27 Sep 2025 09:40:04 +0000</pubDate>
+      <pubDate>Sat, 27 Sep 2025 11:40:04 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Update 471</title>
@@ -53,7 +58,7 @@
       <pubDate>Fri, 26 Sep 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Researchers Expose SVG and PureRAT Phishing Threats Targeting Ukraine and Vietnam</title>
+      <title>Researchers Expose Phishing Threats Distributing CountLoader and PureRAT</title>
       <link>https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html</link>
       <pubDate>Fri, 26 Sep 2025 16:40:00 +0000</pubDate>
     </item>
@@ -113,7 +118,7 @@
       <pubDate>Fri, 26 Sep 2025 12:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>Neon App pays users to record their phone calls, sells data for AI training</title>
+      <title>Neon App pays users to record their phone calls, sells data for AI training [updated]</title>
       <link>https://www.malwarebytes.com/blog/news/2025/09/neon-app-pays-users-to-record-their-phone-calls-sells-data-for-ai-training</link>
       <pubDate>Fri, 26 Sep 2025 12:35:25 +0000</pubDate>
     </item>
@@ -301,11 +306,6 @@
       <title>Webshells Hiding in .well-known Places, (Thu, Sep 25th)</title>
       <link>https://isc.sans.edu/diary/rss/32320</link>
       <pubDate>Thu, 25 Sep 2025 14:24:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Safe in the sandbox: security hardening for Cloudflare Workers</title>
-      <link>https://blog.cloudflare.com/safe-in-the-sandbox-security-hardening-for-cloudflare-workers/</link>
-      <pubDate>Thu, 25 Sep 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
