@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 12:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 14:16:02 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 28 Sep 2025 11:50:03 +0000</pubDate>
+      <pubDate>Sun, 28 Sep 2025 13:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 64</title>
+      <link>https://securityaffairs.com/182706/malware/security-affairs-malware-newsletter-round-64.html</link>
+      <pubDate>Sun, 28 Sep 2025 13:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Affairs newsletter Round 543 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
+      <link>https://securityaffairs.com/182698/breaking-news/security-affairs-newsletter-round-543-by-pierluigi-paganini-international-edition.html</link>
+      <pubDate>Sun, 28 Sep 2025 12:23:11 +0000</pubDate>
     </item>
     <item>
       <title>Cyber Incidents Take Off: Europe’s Airports Join a Growing List</title>
@@ -218,6 +228,11 @@
       <pubDate>Fri, 26 Sep 2025 04:05:15 +0000</pubDate>
     </item>
     <item>
+      <title>SetupHijack – Installer and Updater Race Condition Proof of Concept for Local Escalation</title>
+      <link>https://www.darknet.org.uk/2025/09/setuphijack-installer-and-updater-race-condition-proof-of-concept-for-local-escalation/</link>
+      <pubDate>Fri, 26 Sep 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Starmer to unveil digital ID cards in plan set to ignite civil liberties row</title>
       <link>https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards</link>
       <pubDate>Thu, 25 Sep 2025 21:33:41 +0000</pubDate>
@@ -273,11 +288,6 @@
       <pubDate>Thu, 25 Sep 2025 17:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>Volvo North America disclosed a data breach following a ransomware attack on IT provider Miljödata</title>
-      <link>https://securityaffairs.com/182577/data-breach/volvo-north-america-disclosed-a-data-breach-following-a-ransomware-attack-on-it-provider-miljodata.html</link>
-      <pubDate>Thu, 25 Sep 2025 16:57:59 +0000</pubDate>
-    </item>
-    <item>
       <title>Critical Vulnerability in Salesforce AgentForce Exposed</title>
       <link>https://www.infosecurity-magazine.com/news/critical-flaw-salesforce-agentforce/</link>
       <pubDate>Thu, 25 Sep 2025 16:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Malicious AI Agent Server Reportedly Steals Emails</title>
       <link>https://www.infosecurity-magazine.com/news/malicious-ai-agent-server/</link>
       <pubDate>Thu, 25 Sep 2025 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salesforce Patches Critical ForcedLeak Bug Exposing CRM Data via AI Prompt Injection</title>
-      <link>https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html</link>
-      <pubDate>Thu, 25 Sep 2025 15:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XCSSET evolves again: Analyzing the latest updates to XCSSET’s inventory</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/09/25/xcsset-evolves-again-analyzing-the-latest-updates-to-xcssets-inventory/</link>
-      <pubDate>Thu, 25 Sep 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
