@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 04:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 06:32:42 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 30 Sep 2025 04:25:04 +0000</pubDate>
+      <pubDate>Tue, 30 Sep 2025 06:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems</title>
+      <link>https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html</link>
+      <pubDate>Tue, 30 Sep 2025 05:41:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, September 30th, 2025 https://isc.sans.edu/podcastdetail/9634, (Tue, Sep 30th)</title>
@@ -301,11 +306,6 @@
       <title>Apple’s Feedback to EU Commission: Repeal Digital Markets Act</title>
       <link>https://www.techrepublic.com/article/news-apple-repeal-eu-digital-markets-act/</link>
       <pubDate>Fri, 26 Sep 2025 15:33:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRICKSTORM Malware Detection: UNC5221 and Related China-Backed Actors Target U.S. Legal and Tech Sectors</title>
-      <link>https://socprime.com/blog/brickstorm-backdoor-detection/</link>
-      <pubDate>Fri, 26 Sep 2025 14:33:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
