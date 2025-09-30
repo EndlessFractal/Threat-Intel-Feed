@@ -6,11 +6,66 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 12:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 14:20:44 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 30 Sep 2025 12:45:04 +0000</pubDate>
+      <pubDate>Tue, 30 Sep 2025 14:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #70: AI behaves… until it knows you’re watching</title>
+      <link>https://grahamcluley.com/the-ai-fix-70/</link>
+      <pubDate>Tue, 30 Sep 2025 14:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-41244 Vulnerability: A New VMware Tools and Aria Zero-Day Actively Exploited for Privilege Escalation</title>
+      <link>https://socprime.com/blog/cve-2025-41244-zero-day-vulnerability/</link>
+      <pubDate>Tue, 30 Sep 2025 13:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Cuts Federal Funding for MS-ISAC Cybersecurity Program</title>
+      <link>https://www.infosecurity-magazine.com/news/us-cuts-funding-ms-isac/</link>
+      <pubDate>Tue, 30 Sep 2025 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK convicts Chinese national in £5.5B crypto fraud, marks world’s largest Bitcoin seizure</title>
+      <link>https://securityaffairs.com/182804/cyber-crime/uk-convicts-chinese-national-in-5-5b-crypto-fraud-marks-worlds-largest-bitcoin-seizure.html</link>
+      <pubDate>Tue, 30 Sep 2025 13:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits</title>
+      <link>https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html</link>
+      <pubDate>Tue, 30 Sep 2025 13:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack on Japanese beer giant Asahi limits shipping, call center operations</title>
+      <link>https://therecord.media/asahi-japan-cyberattack-limits-shipping-call-centers</link>
+      <pubDate>Tue, 30 Sep 2025 13:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Empowering defenders in the era of agentic AI with Microsoft Sentinel</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/09/30/empowering-defenders-in-the-era-of-agentic-ai-with-microsoft-sentinel/</link>
+      <pubDate>Tue, 30 Sep 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Trifecta Highlights Dangers of Indirect Prompt Injection</title>
+      <link>https://www.infosecurity-magazine.com/news/gemini-trifecta-dangers-indirect/</link>
+      <pubDate>Tue, 30 Sep 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake</title>
+      <link>https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html</link>
+      <pubDate>Tue, 30 Sep 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharpening the Focus on Product Requirements and Cybersecurity Risks: Updating Foundational Activities for IoT Product Manufacturers</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/sharpening-focus-product-requirements-and-cybersecurity-risks-updating</link>
+      <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stop Alert Chaos: Context Is the Key to Effective Incident Response</title>
+      <link>https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html</link>
+      <pubDate>Tue, 30 Sep 2025 11:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Details of a Scam</title>
@@ -26,6 +81,11 @@
       <title>Tech companies should be shielded from spyware lawsuits, report says</title>
       <link>https://therecord.media/spyware-safe-harbor-law-proposed-tech-companies</link>
       <pubDate>Tue, 30 Sep 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Urgent: China-Linked Hackers Exploit New VMware Zero-Day Since October 2024</title>
+      <link>https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html</link>
+      <pubDate>Tue, 30 Sep 2025 10:57:00 +0000</pubDate>
     </item>
     <item>
       <title>Dutch teens recruited on Telegram, accused of Russia-backed hacking plot</title>
@@ -148,11 +208,6 @@
       <pubDate>Mon, 29 Sep 2025 16:09:46 +0000</pubDate>
     </item>
     <item>
-      <title>UK government to be guarantor for Jaguar Land Rover loan as it recovers from cyberattack</title>
-      <link>https://therecord.media/jaguar-land-rover-loan-guarantor-cyberattack</link>
-      <pubDate>Mon, 29 Sep 2025 16:09:39 +0000</pubDate>
-    </item>
-    <item>
       <title>Dutch Authorities Arrest Teens in Foreign Interference Case</title>
       <link>https://www.infosecurity-magazine.com/news/dutch-teens-arrested/</link>
       <pubDate>Mon, 29 Sep 2025 16:00:00 +0000</pubDate>
@@ -251,61 +306,6 @@
       <title>Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security</title>
       <link>https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html</link>
       <pubDate>Mon, 29 Sep 2025 08:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harrods Reveals Supply Chain Breach Impacting Online Customers</title>
-      <link>https://www.infosecurity-magazine.com/news/harrods-supply-chain-breach-online/</link>
-      <pubDate>Mon, 29 Sep 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package</title>
-      <link>https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html</link>
-      <pubDate>Mon, 29 Sep 2025 08:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Despite Russian influence, Moldova votes Pro-EU, highlighting future election risks</title>
-      <link>https://securityaffairs.com/182743/uncategorized/despite-russian-influence-moldova-votes-pro-eu-highlighting-future-election-risks.html</link>
-      <pubDate>Mon, 29 Sep 2025 07:29:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcoming CERN to Have I Been Pwned</title>
-      <link>https://www.troyhunt.com/welcoming-cern-to-have-i-been-pwned/</link>
-      <pubDate>Mon, 29 Sep 2025 07:03:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (September 22 – September 28)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/09/a-week-in-security-september-22-september-28</link>
-      <pubDate>Mon, 29 Sep 2025 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch teens arrested for spying on behalf of pro-Russian hackers</title>
-      <link>https://securityaffairs.com/182724/intelligence/dutch-teens-arrested-for-spying-on-behalf-of-pro-russian-hackers.html</link>
-      <pubDate>Mon, 29 Sep 2025 05:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Boosts SOC Detection Content with Correlation Rule Template Discovery Dashboard</title>
-      <link>https://www.crowdstrike.com/en-us/blog/boost-soc-detection-content-correlation-rule-template-discovery-dashboard/</link>
-      <pubDate>Mon, 29 Sep 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, September 29th, 2025 https://isc.sans.edu/podcastdetail/9632, (Mon, Sep 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/32326</link>
-      <pubDate>Mon, 29 Sep 2025 02:05:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIPentestKit – AI-Augmented Red Team Toolkit for Recon, Fuzzing and Payload Generation</title>
-      <link>https://www.darknet.org.uk/2025/09/aipentestkit-ai-augmented-red-team-toolkit-for-recon-fuzzing-and-payload-generation/</link>
-      <pubDate>Mon, 29 Sep 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The CISO’s Guide to Continuous Threat Exposure Management</title>
-      <link>https://www.recordedfuture.com/blog/ciso-guide-continuous-threat-exposure-management</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The future of cyber defense is revealed next week</title>
-      <link>https://www.recordedfuture.com/blog/the-future-cyber-defense-revealed-next-week</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
