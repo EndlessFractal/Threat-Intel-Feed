@@ -6,11 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 08:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 10:23:33 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 30 Sep 2025 08:25:03 +0000</pubDate>
+      <pubDate>Tue, 30 Sep 2025 10:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phantom Taurus: A New Chinese Nexus APT and the Discovery of the NET-STAR Malware Suite</title>
+      <link>https://unit42.paloaltonetworks.com/phantom-taurus/</link>
+      <pubDate>Tue, 30 Sep 2025 10:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asahi Suspends Operations in Japan After Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/asahi-operations-japan-attack/</link>
+      <pubDate>Tue, 30 Sep 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android Trojan “Datzbro” Tricking Elderly with AI-Generated Facebook Travel Events</title>
+      <link>https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html</link>
+      <pubDate>Tue, 30 Sep 2025 09:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Adminer, Cisco IOS, Fortra GoAnywhere MFT, Libraesva ESG, and Sudo flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/182771/security/u-s-cisa-adds-adminer-cisco-ios-fortra-goanywhere-mft-libraesva-esg-and-sudo-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Tue, 30 Sep 2025 09:07:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evolving Enterprise Defense to Secure the Modern AI Supply Chain</title>
+      <link>https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html</link>
+      <pubDate>Tue, 30 Sep 2025 08:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CIISec Members Say Budgets Are Falling Behind Threats</title>
+      <link>https://www.infosecurity-magazine.com/news/ciisec-members-budget-falling/</link>
+      <pubDate>Tue, 30 Sep 2025 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asahi halts ordering, shipping, and customer service after cyberattack</title>
+      <link>https://securityaffairs.com/182791/security/asahi-halts-ordering-shipping-and-customer-service-after-cyberattack.html</link>
+      <pubDate>Tue, 30 Sep 2025 08:24:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.K. Police Just Seized £5.5 Billion in Bitcoin — The World’s Largest Crypto Bust</title>
+      <link>https://thehackernews.com/2025/09/uk-police-just-seized-55-billion-in.html</link>
+      <pubDate>Tue, 30 Sep 2025 08:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is your SIEM still serving You? Why it might be time to rethink your security stack</title>
+      <link>https://news.sophos.com/en-us/2025/09/30/rethink-siem-xdr-mdr/</link>
+      <pubDate>Tue, 30 Sep 2025 08:19:50 +0000</pubDate>
     </item>
     <item>
       <title>Scattered Spider, ShinyHunters Restructure – New Attacks Underway</title>
@@ -248,19 +293,9 @@
       <pubDate>Sun, 28 Sep 2025 13:30:58 +0000</pubDate>
     </item>
     <item>
-      <title>Security Affairs newsletter Round 543 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/182698/breaking-news/security-affairs-newsletter-round-543-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 28 Sep 2025 12:23:11 +0000</pubDate>
-    </item>
-    <item>
       <title>Cyber Incidents Take Off: Europe’s Airports Join a Growing List</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cyber-incidents-take-off-europes-airports-join-a-growing-list</link>
       <pubDate>Sun, 28 Sep 2025 09:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio’s Union County suffers ransomware attack impacting 45,000 people</title>
-      <link>https://securityaffairs.com/182689/cyber-crime/ohios-union-county-suffers-ransomware-attack-impacting-45000-people.html</link>
-      <pubDate>Sat, 27 Sep 2025 21:43:44 +0000</pubDate>
     </item>
     <item>
       <title>China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks</title>
@@ -271,41 +306,6 @@
       <title>Weekly Update 471</title>
       <link>https://www.troyhunt.com/weekly-update-471/</link>
       <pubDate>Sat, 27 Sep 2025 06:50:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>New tool: convert-ts-bash-history.py, (Fri, Sep 26th)</title>
-      <link>https://isc.sans.edu/diary/rss/32324</link>
-      <pubDate>Fri, 26 Sep 2025 22:26:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Jigging for Squid</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-jigging-for-squid.html</link>
-      <pubDate>Fri, 26 Sep 2025 21:03:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Insights: Active Exploitation of Cisco ASA Zero Days</title>
-      <link>https://unit42.paloaltonetworks.com/zero-day-vulnerabilities-affect-cisco-software/</link>
-      <pubDate>Fri, 26 Sep 2025 20:30:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Executive Order Brings US TikTok $14B Deal One Step Closer to Finalizing</title>
-      <link>https://www.techrepublic.com/article/news-tiktok-executive-order/</link>
-      <pubDate>Fri, 26 Sep 2025 19:41:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pointer leaks through pointer-keyed data structures</title>
-      <link>https://googleprojectzero.blogspot.com/2025/09/pointer-leaks-through-pointer-keyed.html</link>
-      <pubDate>Fri, 26 Sep 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Expose Phishing Threats Distributing CountLoader and PureRAT</title>
-      <link>https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html</link>
-      <pubDate>Fri, 26 Sep 2025 16:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers threaten parents: Get nursery to pay ransom or we leak your child’s data</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/09/hackers-threaten-parents-get-nursery-to-pay-ransom-or-we-leak-your-childs-data</link>
-      <pubDate>Fri, 26 Sep 2025 16:38:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
