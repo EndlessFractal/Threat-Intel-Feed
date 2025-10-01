@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 06:32:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 08:28:47 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 01 Oct 2025 06:30:03 +0000</pubDate>
+      <pubDate>Wed, 01 Oct 2025 08:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs</title>
+      <link>https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html</link>
+      <pubDate>Wed, 01 Oct 2025 07:11:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>WestJet confirms cyberattack exposed IDs, passports in June incident</title>
+      <link>https://securityaffairs.com/182823/data-breach/westjet-confirms-cyberattack-exposed-ids-passports-in-june-incident.html</link>
+      <pubDate>Wed, 01 Oct 2025 06:38:18 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, October 1st, 2025 https://isc.sans.edu/podcastdetail/9636, (Wed, Oct 1st)</title>
@@ -273,6 +283,11 @@
       <pubDate>Tue, 30 Sep 2025 05:41:00 +0000</pubDate>
     </item>
     <item>
+      <title>How Falcon ASPM Secures GenAI Applications and Lessons from Dogfooding</title>
+      <link>https://www.crowdstrike.com/en-us/blog/how-falcon-aspm-secures-charlotte-ai-genai-applications/</link>
+      <pubDate>Tue, 30 Sep 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Tuesday, September 30th, 2025 https://isc.sans.edu/podcastdetail/9634, (Tue, Sep 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32332</link>
       <pubDate>Tue, 30 Sep 2025 02:00:03 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>UK grants £1.5B loan to Jaguar Land Rover after cyberattack</title>
       <link>https://securityaffairs.com/182757/security/uk-grants-1-5b-loan-to-jaguar-land-rover-after-cyberattack.html</link>
       <pubDate>Mon, 29 Sep 2025 20:22:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos named a Leader in the IDC MarketScape™: Worldwide Extended Detection and Response (XDR) Software 2025</title>
-      <link>https://news.sophos.com/en-us/2025/09/29/sophos-named-a-leader-in-the-idc-marketscape-worldwide-extended-detection-and-response-xdr-software-2025/</link>
-      <pubDate>Mon, 29 Sep 2025 19:47:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Increase in Scans for Palo Alto Global Protect Vulnerability (CVE-2024-3400), (Mon, Sep 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/32328</link>
-      <pubDate>Mon, 29 Sep 2025 18:42:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations</title>
-      <link>https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html</link>
-      <pubDate>Mon, 29 Sep 2025 16:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
