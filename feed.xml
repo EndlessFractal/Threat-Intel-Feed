@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 20:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 22:19:14 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 01 Oct 2025 20:20:03 +0000</pubDate>
+      <pubDate>Wed, 01 Oct 2025 22:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Does the Government Shutdown Mean for Cybersecurity?</title>
+      <link>https://www.techrepublic.com/article/news-government-shutdown-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 20:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Your favourite phone apps might be leaking your company’s secrets</title>
       <link>https://www.fortra.com/blog/favourite-phone-apps-might-leaking-companys-secrets</link>
       <pubDate>Wed, 01 Oct 2025 20:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenSSL patches 3 vulnerabilities, urging immediate updates</title>
+      <link>https://securityaffairs.com/182845/security/openssl-patches-3-vulnerabilities-urging-immediate-updates.html</link>
+      <pubDate>Wed, 01 Oct 2025 20:15:47 +0000</pubDate>
     </item>
     <item>
       <title>Nvidia and Adobe vulnerabilities</title>
@@ -295,16 +305,6 @@
     <item>
       <title>MegaSys Enterprises Telenium Online Web Application</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-273-01</link>
-      <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LG Innotek Camera Multiple Models</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-273-07</link>
-      <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenPLC_V3</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-273-05</link>
       <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
