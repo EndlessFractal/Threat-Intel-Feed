@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 18:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 20:22:52 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 02 Oct 2025 18:25:04 +0000</pubDate>
+      <pubDate>Thu, 02 Oct 2025 20:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Launches Security Store to Unify AI-Powered Defense Tools</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-security-store/</link>
+      <pubDate>Thu, 02 Oct 2025 19:31:47 +0000</pubDate>
     </item>
     <item>
       <title>CERT-UA warns UAC-0245 targets Ukraine with CABINETRAT backdoor</title>
@@ -31,6 +36,11 @@
       <title>Cybercriminals are trying to extort executives with data allegedly stolen through Oracle tool</title>
       <link>https://therecord.media/possible-clop-campaign-extortion-executives-stolen-data</link>
       <pubDate>Thu, 02 Oct 2025 17:05:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft named a Leader in the IDC MarketScape for XDR</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/</link>
+      <pubDate>Thu, 02 Oct 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Dutch court rules Meta violated European law by pushing users to profiled feeds</title>
@@ -296,16 +306,6 @@
       <title>Gemini AI flaws could have exposed your data</title>
       <link>https://www.malwarebytes.com/blog/news/2025/10/gemini-ai-flaws-could-have-exposed-your-data</link>
       <pubDate>Wed, 01 Oct 2025 13:31:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>OneLogin Bug Let Attackers Use API Keys to Steal OIDC Secrets and Impersonate Apps</title>
-      <link>https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html</link>
-      <pubDate>Wed, 01 Oct 2025 13:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learn How Leading Security Teams Blend AI + Human Workflows (Free Webinar)</title>
-      <link>https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html</link>
-      <pubDate>Wed, 01 Oct 2025 12:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
