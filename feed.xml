@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 10:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 12:41:51 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 02 Oct 2025 10:20:04 +0000</pubDate>
+      <pubDate>Thu, 02 Oct 2025 12:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automating Pentest Delivery: 7 Key Workflows for Maximum Impact</title>
+      <link>https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html</link>
+      <pubDate>Thu, 02 Oct 2025 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Georgia Tech settles with DOJ over allegations of lax cybersecurity on federal projects</title>
+      <link>https://therecord.media/georgia-tech-gtrc-cybersecurity-false-claims-act-settlement</link>
+      <pubDate>Thu, 02 Oct 2025 11:53:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: CarPlay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand &amp; More</title>
+      <link>https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html</link>
+      <pubDate>Thu, 02 Oct 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Mandiant Probes New Oracle Extortion Wave Possibly Linked to Cl0p Ransomware</title>
+      <link>https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html</link>
+      <pubDate>Thu, 02 Oct 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Close Threat Detection Gaps: Your SOC's Action Plan</title>
+      <link>https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html</link>
+      <pubDate>Thu, 02 Oct 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expired US Cyber Law Puts Data Sharing and Threat Response at Risk</title>
+      <link>https://www.infosecurity-magazine.com/news/expired-cisa-2015-us-intelligence/</link>
+      <pubDate>Thu, 02 Oct 2025 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercrime group claims to have breached Red Hat ‘s private GitHub repositories</title>
+      <link>https://securityaffairs.com/182866/data-breach/cybercrime-group-claims-to-have-breached-red-hat-s-private-github-repositories.html</link>
+      <pubDate>Thu, 02 Oct 2025 10:37:05 +0000</pubDate>
     </item>
     <item>
       <title>UAT-8099: Chinese-speaking cybercrime group targets high-value IIS for SEO fraud</title>
@@ -148,11 +183,6 @@
       <pubDate>Wed, 01 Oct 2025 14:44:29 +0000</pubDate>
     </item>
     <item>
-      <title>Seniors targeted in global Facebook scam spreading new Android malware</title>
-      <link>https://therecord.media/seniors-targeted-facebook-android-malware-scam</link>
-      <pubDate>Wed, 01 Oct 2025 13:57:36 +0000</pubDate>
-    </item>
-    <item>
       <title>Gemini AI flaws could have exposed your data</title>
       <link>https://www.malwarebytes.com/blog/news/2025/10/gemini-ai-flaws-could-have-exposed-your-data</link>
       <pubDate>Wed, 01 Oct 2025 13:31:35 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>From fake lovers to sextortionists: 260 scammers arrested across Africa</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-lovers-sextortionists-scammers-africa</link>
       <pubDate>Tue, 30 Sep 2025 19:45:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>New $50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections</title>
-      <link>https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html</link>
-      <pubDate>Tue, 30 Sep 2025 18:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware</title>
-      <link>https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html</link>
-      <pubDate>Tue, 30 Sep 2025 16:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tile trackers plagued by weak security, researchers warn</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/09/tile-trackers-plagued-by-weak-security-researchers-warn</link>
-      <pubDate>Tue, 30 Sep 2025 15:46:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smishing Campaigns Exploit Cellular Routers to Target Belgium</title>
-      <link>https://www.infosecurity-magazine.com/news/smishing-exploit-cellular-routers/</link>
-      <pubDate>Tue, 30 Sep 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>"user=admin". Sometimes you don't even need to log in., (Tue, Sep 30th)</title>
-      <link>https://isc.sans.edu/diary/rss/32334</link>
-      <pubDate>Tue, 30 Sep 2025 15:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Android RAT Klopatra Targets Financial Data</title>
-      <link>https://www.infosecurity-magazine.com/news/android-rat-klopatra-targets/</link>
-      <pubDate>Tue, 30 Sep 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
