@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 03:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 04:25:17 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 06 Oct 2025 03:00:05 +0000</pubDate>
+      <pubDate>Mon, 06 Oct 2025 04:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quick and Dirty Analysis of Possible Oracle E-Business Suite Exploit Script (CVE-2025-61882), (Mon, Oct 6th)</title>
+      <link>https://isc.sans.edu/diary/rss/32346</link>
+      <pubDate>Mon, 06 Oct 2025 03:50:24 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Monday, October 6th, 2025 https://isc.sans.edu/podcastdetail/9642, (Mon, Oct 6th)</title>
@@ -300,11 +305,6 @@
     <item>
       <title>CISA Adds Five Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/10/02/cisa-adds-five-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Thu, 02 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/02/cisa-releases-two-industrial-control-systems-advisories</link>
       <pubDate>Thu, 02 Oct 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
