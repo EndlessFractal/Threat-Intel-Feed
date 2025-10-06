@@ -6,16 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 06:32:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 08:28:40 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 06 Oct 2025 06:30:03 +0000</pubDate>
+      <pubDate>Mon, 06 Oct 2025 08:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we trained an ML model to detect DLL hijacking</title>
+      <link>https://securelist.com/building-ml-model-to-detect-dll-hijacking/117565/</link>
+      <pubDate>Mon, 06 Oct 2025 08:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting DLL hijacking with machine learning: real-world cases</title>
+      <link>https://securelist.com/detecting-dll-hijacking-with-machine-learning-in-kaspersky-siem/117567/</link>
+      <pubDate>Mon, 06 Oct 2025 08:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zimbra users targeted in zero-day exploit using iCalendar attachments</title>
+      <link>https://securityaffairs.com/183014/hacking/zimbra-users-targeted-in-zero-day-exploit-using-icalendar-attachments.html</link>
+      <pubDate>Mon, 06 Oct 2025 07:33:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (September 29 – October 5)</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/a-week-in-security-september-29-october-5</link>
+      <pubDate>Mon, 06 Oct 2025 07:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading the ENISA Threat Landscape 2025 report</title>
+      <link>https://securityaffairs.com/182978/security/reading-the-enisa-threat-landscape-2025-report.html</link>
+      <pubDate>Mon, 06 Oct 2025 06:51:27 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Update 472</title>
       <link>https://www.troyhunt.com/weekly-update-472/</link>
       <pubDate>Mon, 06 Oct 2025 06:23:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files</title>
+      <link>https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html</link>
+      <pubDate>Mon, 06 Oct 2025 06:01:00 +0000</pubDate>
     </item>
     <item>
       <title>Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks</title>
@@ -213,11 +243,6 @@
       <pubDate>Thu, 02 Oct 2025 19:31:47 +0000</pubDate>
     </item>
     <item>
-      <title>CERT-UA warns UAC-0245 targets Ukraine with CABINETRAT backdoor</title>
-      <link>https://securityaffairs.com/182862/cyber-warfare-2/cert-ua-warns-uac-0245-targets-ukraine-with-cabinetrat-backdoor.html</link>
-      <pubDate>Thu, 02 Oct 2025 18:01:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Family group chats: Your (very last) line of cyber defense</title>
       <link>https://blog.talosintelligence.com/family-group-chats-your-very-last-line-of-cyber-defense/</link>
       <pubDate>Thu, 02 Oct 2025 18:00:08 +0000</pubDate>
@@ -263,11 +288,6 @@
       <pubDate>Thu, 02 Oct 2025 14:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>Allianz Life data breach impacted 1.5 Million people</title>
-      <link>https://securityaffairs.com/182876/data-breach/allianz-life-data-breach-impacted-1-5-million-people.html</link>
-      <pubDate>Thu, 02 Oct 2025 14:13:43 +0000</pubDate>
-    </item>
-    <item>
       <title>DeepSeek AI Models Are Easier to Hack Than US Rivals, Warn Researchers</title>
       <link>https://www.techrepublic.com/article/news-deepseek-security-gaps-caisi-study/</link>
       <pubDate>Thu, 02 Oct 2025 14:13:15 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Scam Facebook groups send malicious Android malware to seniors</title>
       <link>https://www.malwarebytes.com/blog/news/2025/10/scam-facebook-groups-send-malicious-android-malware-to-seniors</link>
       <pubDate>Thu, 02 Oct 2025 13:09:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown</title>
-      <link>https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html</link>
-      <pubDate>Thu, 02 Oct 2025 13:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free VPN Apps Found Riddled With Security Flaws</title>
-      <link>https://www.infosecurity-magazine.com/news/free-vpn-apps-security-flaws/</link>
-      <pubDate>Thu, 02 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Confucius Espionage: From Stealer to Backdoor</title>
-      <link>https://feeds.fortinet.com/~/925674278/0/fortinet/blog/threat-research~Confucius-Espionage-From-Stealer-to-Backdoor</link>
-      <pubDate>Thu, 02 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raise3D Pro2 Series 3D Printers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-275-01</link>
-      <pubDate>Thu, 02 Oct 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
