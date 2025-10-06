@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 20:23:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 22:18:45 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 06 Oct 2025 20:20:03 +0000</pubDate>
+      <pubDate>Mon, 06 Oct 2025 22:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside Microsoft Threat Intelligence: Calm in the chaos</title>
+      <link>https://www.microsoft.com/en-us/security/security-insider/threat-landscape/inside-microsoft-threat-intelligence-calm-in-chaos#overview-video</link>
+      <pubDate>Mon, 06 Oct 2025 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medusa ransomware used during exploitation of GoAnywhere file transfer bug, Microsoft says</title>
+      <link>https://therecord.media/medusa-ransomware-exploited-file-transfer</link>
+      <pubDate>Mon, 06 Oct 2025 20:40:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discord discloses third-party breach affecting customer support data</title>
+      <link>https://securityaffairs.com/183039/data-breach/discord-discloses-third-party-breach-affecting-customer-support-data.html</link>
+      <pubDate>Mon, 06 Oct 2025 20:31:56 +0000</pubDate>
     </item>
     <item>
       <title>FBI, UK gov’t urge orgs to patch Oracle E-Business vuln after alleged Clop campaign</title>
@@ -86,11 +101,6 @@
       <title>Quick and Dirty Analysis of Possible Oracle E-Business Suite Exploit Script (CVE-2025-61882) [UPDATED[, (Mon, Oct 6th)</title>
       <link>https://isc.sans.edu/diary/rss/32346</link>
       <pubDate>Mon, 06 Oct 2025 12:36:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android and Windows gamers worldwide potentially affected by bug in Unity game engine</title>
-      <link>https://therecord.media/unity-game-engine-vulnerability-android-windows-linux-macos</link>
-      <pubDate>Mon, 06 Oct 2025 12:23:11 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-61882 Vulnerability: A Critical Oracle E-Business Suite Zero-Day Exploited in Cl0p Data Theft Attacks</title>
@@ -243,11 +253,6 @@
       <pubDate>Sat, 04 Oct 2025 10:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>ShinyHunters Launches Data Leak Site: Trinity of Chaos Announces New Ransomware Victims</title>
-      <link>https://securityaffairs.com/182918/cyber-crime/shinyhunters-launches-data-leak-site-trinity-of-chaos-announces-new-ransomware-victims.html</link>
-      <pubDate>Fri, 03 Oct 2025 22:33:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Friday Squid Blogging: Squid Overfishing in the Southwest Atlantic</title>
       <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html</link>
       <pubDate>Fri, 03 Oct 2025 21:05:28 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security</title>
       <link>https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html</link>
       <pubDate>Fri, 03 Oct 2025 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target Unpatched Flaws in Oracle E-Business Suite</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-flaws-oracle-ebs/</link>
-      <pubDate>Fri, 03 Oct 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
