@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 12:45:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 14:21:03 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 06 Oct 2025 12:45:04 +0000</pubDate>
+      <pubDate>Mon, 06 Oct 2025 14:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected Chinese cyber spies targeted Serbian aviation agency</title>
+      <link>https://therecord.media/suspected-chinese-spies-serbia</link>
+      <pubDate>Mon, 06 Oct 2025 14:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discord users’ data stolen by hackers in third-party data breach</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/discord-users-data-stolen-by-hackers-in-third-party-data-breach</link>
+      <pubDate>Mon, 06 Oct 2025 13:54:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oracle patches critical E-Business Suite flaw exploited by Cl0p hackers</title>
+      <link>https://securityaffairs.com/183029/security/oracle-patches-critical-e-business-suite-flaw-exploited-by-cl0p-hackers.html</link>
+      <pubDate>Mon, 06 Oct 2025 13:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn sues ProAPIs for $15K/Month LinkedIn data scraping scheme</title>
+      <link>https://securityaffairs.com/183001/security/linkedin-sues-proapis-for-15k-month-linkedin-data-scraping-scheme.html</link>
+      <pubDate>Mon, 06 Oct 2025 13:08:33 +0000</pubDate>
     </item>
     <item>
       <title>Quick and Dirty Analysis of Possible Oracle E-Business Suite Exploit Script (CVE-2025-61882) [UPDATED[, (Mon, Oct 6th)</title>
@@ -113,6 +133,16 @@
       <pubDate>Mon, 06 Oct 2025 02:45:14 +0000</pubDate>
     </item>
     <item>
+      <title>Massive Malicious NPM Package Attack Threatens Software Supply Chains</title>
+      <link>https://www.recordedfuture.com/blog/massive-malicious-npm-package-attack-threatens-software-supply-chains</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BIETA: A Technology Enablement Front for China's MSS</title>
+      <link>https://www.recordedfuture.com/research/bieta-technology-enablement-front-for-chinas-mss</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Six out of 10 UK secondary schools hit by cyber-attack or breach in past year</title>
       <link>https://www.theguardian.com/technology/2025/oct/05/uk-secondary-schools-suffered-cyber-attack-or-breach-in-past-year</link>
       <pubDate>Sun, 05 Oct 2025 14:00:40 +0000</pubDate>
@@ -203,11 +233,6 @@
       <pubDate>Fri, 03 Oct 2025 15:25:48 +0000</pubDate>
     </item>
     <item>
-      <title>License plate reader company Flock launches new product that detects human voices</title>
-      <link>https://therecord.media/flock-surveillance-technology-gunshot-voice-detection</link>
-      <pubDate>Fri, 03 Oct 2025 15:08:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Chinese-Speaking Cybercrime Group Hijacks IIS Servers for SEO Fraud</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-cybercrime-hijacks-servers/</link>
       <pubDate>Fri, 03 Oct 2025 14:59:00 +0000</pubDate>
@@ -216,11 +241,6 @@
       <title>The era of predictive threat intelligence is here</title>
       <link>https://blog.eclecticiq.com/the-era-of-predictive-threat-intelligence-is-here</link>
       <pubDate>Fri, 03 Oct 2025 14:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ProSpy, ToSpy malware pose as Signal and ToTok to steal data in UAE</title>
-      <link>https://securityaffairs.com/182907/malware/prospy-tospy-malware-pose-as-signal-and-totok-to-steal-data-in-uae.html</link>
-      <pubDate>Fri, 03 Oct 2025 13:44:05 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 40</title>
@@ -263,11 +283,6 @@
       <pubDate>Fri, 03 Oct 2025 08:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>Google warns of Cl0p extortion campaign against Oracle E-Business users</title>
-      <link>https://securityaffairs.com/182893/cyber-crime/google-warns-of-cl0p-extortion-campaign-against-oracle-e-business-users.html</link>
-      <pubDate>Fri, 03 Oct 2025 05:21:58 +0000</pubDate>
-    </item>
-    <item>
       <title>ISC Stormcast For Friday, October 3rd, 2025 https://isc.sans.edu/podcastdetail/9640, (Fri, Oct 3rd)</title>
       <link>https://isc.sans.edu/diary/rss/32342</link>
       <pubDate>Fri, 03 Oct 2025 02:00:02 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Microsoft Launches Security Store to Unify AI-Powered Defense Tools</title>
       <link>https://www.techrepublic.com/article/news-microsoft-security-store/</link>
       <pubDate>Thu, 02 Oct 2025 19:31:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Family group chats: Your (very last) line of cyber defense</title>
-      <link>https://blog.talosintelligence.com/family-group-chats-your-very-last-line-of-cyber-defense/</link>
-      <pubDate>Thu, 02 Oct 2025 18:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Meta AI conversations may come back as ads in your feed</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/your-meta-ai-conversations-may-come-back-as-ads-in-your-feed</link>
-      <pubDate>Thu, 02 Oct 2025 17:55:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft named a Leader in the IDC MarketScape for XDR</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/</link>
-      <pubDate>Thu, 02 Oct 2025 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
