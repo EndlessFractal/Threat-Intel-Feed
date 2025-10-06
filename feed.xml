@@ -6,11 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 10:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 12:45:58 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 06 Oct 2025 10:20:03 +0000</pubDate>
+      <pubDate>Mon, 06 Oct 2025 12:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quick and Dirty Analysis of Possible Oracle E-Business Suite Exploit Script (CVE-2025-61882) [UPDATED[, (Mon, Oct 6th)</title>
+      <link>https://isc.sans.edu/diary/rss/32346</link>
+      <pubDate>Mon, 06 Oct 2025 12:36:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android and Windows gamers worldwide potentially affected by bug in Unity game engine</title>
+      <link>https://therecord.media/unity-game-engine-vulnerability-android-windows-linux-macos</link>
+      <pubDate>Mon, 06 Oct 2025 12:23:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-61882 Vulnerability: A Critical Oracle E-Business Suite Zero-Day Exploited in Cl0p Data Theft Attacks</title>
+      <link>https://socprime.com/blog/latest-threats/cve-2025-61882-zero-day-vulnerability/</link>
+      <pubDate>Mon, 06 Oct 2025 12:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Critical Questions For Adopting an AI Security Solution</title>
+      <link>https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html</link>
+      <pubDate>Mon, 06 Oct 2025 11:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm &amp; More</title>
+      <link>https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html</link>
+      <pubDate>Mon, 06 Oct 2025 11:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks</title>
+      <link>https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html</link>
+      <pubDate>Mon, 06 Oct 2025 11:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers</title>
+      <link>https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html</link>
+      <pubDate>Mon, 06 Oct 2025 11:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI in the 2026 Midterm Elections</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html</link>
+      <pubDate>Mon, 06 Oct 2025 11:06:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to set up two-factor authentication (2FA) on your Facebook account</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/how-to-set-up-two-factor-authentication-2fa-on-your-facebook-account</link>
+      <pubDate>Mon, 06 Oct 2025 10:14:14 +0000</pubDate>
     </item>
     <item>
       <title>Scanning of Palo Alto Portals Surges 500%</title>
@@ -61,16 +106,6 @@
       <title>Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files</title>
       <link>https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html</link>
       <pubDate>Mon, 06 Oct 2025 06:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks</title>
-      <link>https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html</link>
-      <pubDate>Mon, 06 Oct 2025 05:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quick and Dirty Analysis of Possible Oracle E-Business Suite Exploit Script (CVE-2025-61882), (Mon, Oct 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/32346</link>
-      <pubDate>Mon, 06 Oct 2025 03:50:24 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Monday, October 6th, 2025 https://isc.sans.edu/podcastdetail/9642, (Mon, Oct 6th)</title>
@@ -183,11 +218,6 @@
       <pubDate>Fri, 03 Oct 2025 14:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>LinkedIn sues software company allegedly scraping data from millions of profiles</title>
-      <link>https://therecord.media/linkedin-sues-data-scraping-company</link>
-      <pubDate>Fri, 03 Oct 2025 14:03:42 +0000</pubDate>
-    </item>
-    <item>
       <title>ProSpy, ToSpy malware pose as Signal and ToTok to steal data in UAE</title>
       <link>https://securityaffairs.com/182907/malware/prospy-tospy-malware-pose-as-signal-and-totok-to-steal-data-in-uae.html</link>
       <pubDate>Fri, 03 Oct 2025 13:44:05 +0000</pubDate>
@@ -243,6 +273,11 @@
       <pubDate>Fri, 03 Oct 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>RustRedOps – Rust Native Offensive Toolkit Collection for Red Teams</title>
+      <link>https://www.darknet.org.uk/2025/10/rustredops-rust-native-offensive-toolkit-collection-for-red-teams/</link>
+      <pubDate>Fri, 03 Oct 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Oracle Extortion Case: $50M Demand From ‘Notorious’ Hacking Group</title>
       <link>https://www.techrepublic.com/article/news-oracle-e-business-suite-breach-ransom-extortion-clop/</link>
       <pubDate>Thu, 02 Oct 2025 22:32:39 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Microsoft named a Leader in the IDC MarketScape for XDR</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/</link>
       <pubDate>Thu, 02 Oct 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Daniel Miessler on the AI Attack/Defense Balance</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html</link>
-      <pubDate>Thu, 02 Oct 2025 16:19:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Government Shutdown to Slash Federal Cybersecurity Staff</title>
-      <link>https://www.infosecurity-magazine.com/news/us-government-shutdown-federal/</link>
-      <pubDate>Thu, 02 Oct 2025 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FunkLocker Ransomware Detection: FunkSec  Operators Leverage AI to Target U.S., Europe, and Asia</title>
-      <link>https://socprime.com/blog/latest-threats/detect-funklocker-ransomware-by-funksec/</link>
-      <pubDate>Thu, 02 Oct 2025 15:09:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎙️SECURITY.COM The Podcast: From Cybersecurity Products to Platforms</title>
-      <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-cybersecurity-products-platforms</link>
-      <pubDate>Thu, 02 Oct 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extortion Emails Sent to Executives by Self-Proclaimed Clop Gang Member</title>
-      <link>https://www.infosecurity-magazine.com/news/extortion-emails-executives-clop/</link>
-      <pubDate>Thu, 02 Oct 2025 14:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware</title>
-      <link>https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html</link>
-      <pubDate>Thu, 02 Oct 2025 14:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek AI Models Are Easier to Hack Than US Rivals, Warn Researchers</title>
-      <link>https://www.techrepublic.com/article/news-deepseek-security-gaps-caisi-study/</link>
-      <pubDate>Thu, 02 Oct 2025 14:13:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
