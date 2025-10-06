@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 16:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 18:31:30 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 06 Oct 2025 16:25:04 +0000</pubDate>
+      <pubDate>Mon, 06 Oct 2025 18:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishers target 1Password users with convincing fake breach alert</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/phishers-target-1password-users-with-convincing-fake-breach-alert</link>
+      <pubDate>Mon, 06 Oct 2025 17:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/</link>
+      <pubDate>Mon, 06 Oct 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New malware leverages WhatsApp to target Brazilian government and businesses</title>
+      <link>https://therecord.media/brazil-malware-whatsapp-sorvepotel</link>
+      <pubDate>Mon, 06 Oct 2025 16:59:37 +0000</pubDate>
     </item>
     <item>
       <title>Europol Calls for Stronger Data Laws to Combat Cybercrime</title>
@@ -76,6 +91,11 @@
       <title>CVE-2025-61882 Vulnerability: A Critical Oracle E-Business Suite Zero-Day Exploited in Cl0p Data Theft Attacks</title>
       <link>https://socprime.com/blog/latest-threats/cve-2025-61882-zero-day-vulnerability/</link>
       <pubDate>Mon, 06 Oct 2025 12:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Seven Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/06/cisa-adds-seven-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Mon, 06 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>5 Critical Questions For Adopting an AI Security Solution</title>
@@ -238,11 +258,6 @@
       <pubDate>Fri, 03 Oct 2025 19:48:36 +0000</pubDate>
     </item>
     <item>
-      <title>California AG sues city for allowing out-of-state searches of license plate reader database</title>
-      <link>https://therecord.media/california-lawsuit-el-cajon-police-out-of-state-searches-flock-database</link>
-      <pubDate>Fri, 03 Oct 2025 19:30:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer</title>
       <link>https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html</link>
       <pubDate>Fri, 03 Oct 2025 18:11:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Hackers Target Unpatched Flaws in Oracle E-Business Suite</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-flaws-oracle-ebs/</link>
       <pubDate>Fri, 03 Oct 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New "Cavalry Werewolf" Attack Hits Russian Agencies with FoalShell and StallionRAT</title>
-      <link>https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html</link>
-      <pubDate>Fri, 03 Oct 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WestJet Data Breach Impacts 1.2 Million Customers</title>
-      <link>https://www.infosecurity-magazine.com/news/westjet-data-breach-customers/</link>
-      <pubDate>Fri, 03 Oct 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild</title>
-      <link>https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html</link>
-      <pubDate>Fri, 03 Oct 2025 08:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
