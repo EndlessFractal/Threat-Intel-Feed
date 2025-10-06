@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 08:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 10:23:50 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 06 Oct 2025 08:25:04 +0000</pubDate>
+      <pubDate>Mon, 06 Oct 2025 10:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scanning of Palo Alto Portals Surges 500%</title>
+      <link>https://www.infosecurity-magazine.com/news/scanning-of-palo-alto-portals/</link>
+      <pubDate>Mon, 06 Oct 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asahi Confirms Ransomware Attack, Data Stolen from Servers</title>
+      <link>https://www.infosecurity-magazine.com/news/asahi-ransomware-attack-data-stolen/</link>
+      <pubDate>Mon, 06 Oct 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Renault Informs Customers of Supply Chain Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/renault-customers-supply-chain/</link>
+      <pubDate>Mon, 06 Oct 2025 08:30:00 +0000</pubDate>
     </item>
     <item>
       <title>How we trained an ML model to detect DLL hijacking</title>
@@ -291,21 +306,6 @@
       <title>DeepSeek AI Models Are Easier to Hack Than US Rivals, Warn Researchers</title>
       <link>https://www.techrepublic.com/article/news-deepseek-security-gaps-caisi-study/</link>
       <pubDate>Thu, 02 Oct 2025 14:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>More .well-known Scans, (Thu, Oct 2nd)</title>
-      <link>https://isc.sans.edu/diary/rss/32340</link>
-      <pubDate>Thu, 02 Oct 2025 14:08:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Confucius Shifts from Document Stealers to Python Backdoors</title>
-      <link>https://www.infosecurity-magazine.com/news/confucius-shifts-doc-stealers/</link>
-      <pubDate>Thu, 02 Oct 2025 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scam Facebook groups send malicious Android malware to seniors</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/scam-facebook-groups-send-malicious-android-malware-to-seniors</link>
-      <pubDate>Thu, 02 Oct 2025 13:09:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
