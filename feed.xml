@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 14:22:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 16:26:57 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 07 Oct 2025 14:20:03 +0000</pubDate>
+      <pubDate>Tue, 07 Oct 2025 16:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploit Against FreePBX (CVE-2025-57819) with code execution., (Tue, Oct 7th)</title>
+      <link>https://isc.sans.edu/diary/rss/32350</link>
+      <pubDate>Tue, 07 Oct 2025 16:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Claims Ransomware Attack on Mecklenburg Schools</title>
+      <link>https://www.infosecurity-magazine.com/news/qilin-ransomware-mecklenburg/</link>
+      <pubDate>Tue, 07 Oct 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them</title>
+      <link>https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html</link>
+      <pubDate>Tue, 07 Oct 2025 15:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Flaw Exposes 60,000 Redis Servers to Remote Exploitation</title>
+      <link>https://www.infosecurity-magazine.com/news/redis-servers-remote-exploitation/</link>
+      <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOC 911? Now You Can Bust Investigations Wide Open</title>
+      <link>https://www.security.com/product-insights/threat-tracer-investigations-capabilities-you-need</link>
+      <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia blocks mobile internet for foreign SIM cards, citing drone threats</title>
+      <link>https://therecord.media/russia-blocks-mobile-internet-foreign-sim-cards</link>
+      <pubDate>Tue, 07 Oct 2025 14:41:55 +0000</pubDate>
     </item>
     <item>
       <title>The AI Fix #71: Hacked robots and power-hungry AI</title>
@@ -21,6 +51,16 @@
       <title>Discord says sensitive info stolen during cyberattack on customer service provider</title>
       <link>https://therecord.media/discord-data-breach-third-party</link>
       <pubDate>Tue, 07 Oct 2025 12:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Electronics DIAScreen</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-280-01</link>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/07/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Jaguar Land Rover to restart production following cyberattack</title>
@@ -141,11 +181,6 @@
       <title>Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/</link>
       <pubDate>Mon, 06 Oct 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New malware leverages WhatsApp to target Brazilian government and businesses</title>
-      <link>https://therecord.media/brazil-malware-whatsapp-sorvepotel</link>
-      <pubDate>Mon, 06 Oct 2025 16:59:37 +0000</pubDate>
     </item>
     <item>
       <title>Europol Calls for Stronger Data Laws to Combat Cybercrime</title>
@@ -271,41 +306,6 @@
       <title>CrowdStrike Identifies Campaign Targeting Oracle E-Business Suite via Zero-Day Vulnerability (now tracked as CVE-2025-61882)</title>
       <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-identifies-campaign-targeting-oracle-e-business-suite-zero-day-CVE-2025-61882/</link>
       <pubDate>Mon, 06 Oct 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reading the ENISA Threat Landscape 2025 report</title>
-      <link>https://securityaffairs.com/182978/security/reading-the-enisa-threat-landscape-2025-report.html</link>
-      <pubDate>Mon, 06 Oct 2025 06:51:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 472</title>
-      <link>https://www.troyhunt.com/weekly-update-472/</link>
-      <pubDate>Mon, 06 Oct 2025 06:23:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files</title>
-      <link>https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html</link>
-      <pubDate>Mon, 06 Oct 2025 06:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, October 6th, 2025 https://isc.sans.edu/podcastdetail/9642, (Mon, Oct 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/32344</link>
-      <pubDate>Mon, 06 Oct 2025 02:45:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Malicious NPM Package Attack Threatens Software Supply Chains</title>
-      <link>https://www.recordedfuture.com/blog/massive-malicious-npm-package-attack-threatens-software-supply-chains</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BIETA: A Technology Enablement Front for China's MSS</title>
-      <link>https://www.recordedfuture.com/research/bieta-technology-enablement-front-for-chinas-mss</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Six out of 10 UK secondary schools hit by cyber-attack or breach in past year</title>
-      <link>https://www.theguardian.com/technology/2025/oct/05/uk-secondary-schools-suffered-cyber-attack-or-breach-in-past-year</link>
-      <pubDate>Sun, 05 Oct 2025 14:00:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
