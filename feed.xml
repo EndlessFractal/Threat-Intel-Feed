@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 16:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 18:31:47 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 07 Oct 2025 16:25:04 +0000</pubDate>
+      <pubDate>Tue, 07 Oct 2025 18:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Ransomware Gang Claims Asahi Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/qilin-ransomware-asahi-cyber-attack/</link>
+      <pubDate>Tue, 07 Oct 2025 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police searched national network of automatic license plate reading cameras in abortion investigation</title>
+      <link>https://therecord.media/police-searched-license-reading-cameras-abortion-investigation</link>
+      <pubDate>Tue, 07 Oct 2025 17:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers</title>
+      <link>https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html</link>
+      <pubDate>Tue, 07 Oct 2025 17:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disrupting threats targeting Microsoft Teams</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/</link>
+      <pubDate>Tue, 07 Oct 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Exploit Against FreePBX (CVE-2025-57819) with code execution., (Tue, Oct 7th)</title>
@@ -18,9 +38,14 @@
       <pubDate>Tue, 07 Oct 2025 16:23:36 +0000</pubDate>
     </item>
     <item>
-      <title>Qilin Claims Ransomware Attack on Mecklenburg Schools</title>
-      <link>https://www.infosecurity-magazine.com/news/qilin-ransomware-mecklenburg/</link>
-      <pubDate>Tue, 07 Oct 2025 15:45:00 +0000</pubDate>
+      <title>New Microsoft Secure Future Initiative (SFI) patterns and practices: Practical guides to strengthen security</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/10/07/new-microsoft-secure-future-initiative-sfi-patterns-and-practices-practical-guides-to-strengthen-security/</link>
+      <pubDate>Tue, 07 Oct 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t connect your wallet: Best Wallet cryptocurrency scam is making the rounds</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/dont-connect-your-wallet-best-wallet-cryptocurrency-scam-is-making-the-rounds</link>
+      <pubDate>Tue, 07 Oct 2025 15:58:17 +0000</pubDate>
     </item>
     <item>
       <title>Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them</title>
@@ -36,6 +61,11 @@
       <title>SOC 911? Now You Can Bust Investigations Wide Open</title>
       <link>https://www.security.com/product-insights/threat-tracer-investigations-capabilities-you-need</link>
       <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Claims Ransomware Attack on Mecklenburg Schools</title>
+      <link>https://www.infosecurity-magazine.com/news/qilin-ransomware-mecklenburg/</link>
+      <pubDate>Tue, 07 Oct 2025 14:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Russia blocks mobile internet for foreign SIM cards, citing drone threats</title>
@@ -60,6 +90,11 @@
     <item>
       <title>CISA Releases Two Industrial Control Systems Advisories</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/10/07/cisa-releases-two-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/07/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Tue, 07 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -168,11 +203,6 @@
       <pubDate>Mon, 06 Oct 2025 20:31:56 +0000</pubDate>
     </item>
     <item>
-      <title>FBI, UK gov’t urge orgs to patch Oracle E-Business vuln after alleged Clop campaign</title>
-      <link>https://therecord.media/fbi-uk-urge-orgs-to-patch-after-clop-campaign</link>
-      <pubDate>Mon, 06 Oct 2025 18:56:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Phishers target 1Password users with convincing fake breach alert</title>
       <link>https://www.malwarebytes.com/blog/news/2025/10/phishers-target-1password-users-with-convincing-fake-breach-alert</link>
       <pubDate>Mon, 06 Oct 2025 17:24:42 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Asahi Confirms Ransomware Attack, Data Stolen from Servers</title>
       <link>https://www.infosecurity-magazine.com/news/asahi-ransomware-attack-data-stolen/</link>
       <pubDate>Mon, 06 Oct 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Renault Informs Customers of Supply Chain Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/renault-customers-supply-chain/</link>
-      <pubDate>Mon, 06 Oct 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How we trained an ML model to detect DLL hijacking</title>
-      <link>https://securelist.com/building-ml-model-to-detect-dll-hijacking/117565/</link>
-      <pubDate>Mon, 06 Oct 2025 08:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detecting DLL hijacking with machine learning: real-world cases</title>
-      <link>https://securelist.com/detecting-dll-hijacking-with-machine-learning-in-kaspersky-siem/117567/</link>
-      <pubDate>Mon, 06 Oct 2025 08:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zimbra users targeted in zero-day exploit using iCalendar attachments</title>
-      <link>https://securityaffairs.com/183014/hacking/zimbra-users-targeted-in-zero-day-exploit-using-icalendar-attachments.html</link>
-      <pubDate>Mon, 06 Oct 2025 07:33:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (September 29 – October 5)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/a-week-in-security-september-29-october-5</link>
-      <pubDate>Mon, 06 Oct 2025 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Identifies Campaign Targeting Oracle E-Business Suite via Zero-Day Vulnerability (now tracked as CVE-2025-61882)</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-identifies-campaign-targeting-oracle-e-business-suite-zero-day-CVE-2025-61882/</link>
-      <pubDate>Mon, 06 Oct 2025 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
