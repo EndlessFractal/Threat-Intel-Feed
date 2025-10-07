@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 08:28:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 10:22:18 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 07 Oct 2025 08:25:04 +0000</pubDate>
+      <pubDate>Tue, 07 Oct 2025 10:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Too salty to handle: Exposing cases of CSS abuse for hidden text salting</title>
+      <link>https://blog.talosintelligence.com/too-salty-to-handle-exposing-cases-of-css-abuse-for-hidden-text-salting/</link>
+      <pubDate>Tue, 07 Oct 2025 10:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC: Patch Critical Oracle EBS Bug Now</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-patch-critical-oracle-ebs-bug/</link>
+      <pubDate>Tue, 07 Oct 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: Critical GoAnywhere Bug Exploited in Medusa Ransomware Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-critical-goanywhere/</link>
+      <pubDate>Tue, 07 Oct 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike ties Oracle EBS RCE (CVE-2025-61882) to Cl0p attacks began Aug 9, 2025</title>
+      <link>https://securityaffairs.com/183065/cyber-crime/crowdstrike-ties-oracle-ebs-rce-cve-2025-61882-to-cl0p-attacks-began-aug-9-2025.html</link>
+      <pubDate>Tue, 07 Oct 2025 08:42:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discord warns users after data stolen in third-party breach</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/discord-warns-users-after-data-stolen-in-third-party-breach</link>
+      <pubDate>Tue, 07 Oct 2025 08:34:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely</title>
+      <link>https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html</link>
+      <pubDate>Tue, 07 Oct 2025 08:33:00 +0000</pubDate>
     </item>
     <item>
       <title>CVEs Targeting Remote Access Technologies in 2025</title>
       <link>https://www.hackmageddon.com/2025/10/07/cves-targeting-remote-access-technologies-in-2025/</link>
       <pubDate>Tue, 07 Oct 2025 08:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware</title>
+      <link>https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html</link>
+      <pubDate>Tue, 07 Oct 2025 08:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Intelligence reporting, reimagined: A complete reporting experience for CTI teams</title>
@@ -263,11 +298,6 @@
       <pubDate>Sun, 05 Oct 2025 09:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>GreyNoise detects 500% surge in scans targeting Palo Alto Networks portals</title>
-      <link>https://securityaffairs.com/182939/hacking/greynoise-detects-500-surge-in-scans-targeting-palo-alto-networks-portals.html</link>
-      <pubDate>Sat, 04 Oct 2025 19:50:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief</title>
       <link>https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html</link>
       <pubDate>Sat, 04 Oct 2025 14:37:00 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day</title>
       <link>https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html</link>
       <pubDate>Sat, 04 Oct 2025 10:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Squid Overfishing in the Southwest Atlantic</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html</link>
-      <pubDate>Fri, 03 Oct 2025 21:05:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Playbook Offers Guidelines on Advancing Transformative Responsible AI</title>
-      <link>https://www.techrepublic.com/article/news-advance-transformative-responsible-ai-world-economic-forum-accenture/</link>
-      <pubDate>Fri, 03 Oct 2025 19:48:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer</title>
-      <link>https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html</link>
-      <pubDate>Fri, 03 Oct 2025 18:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads</title>
-      <link>https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html</link>
-      <pubDate>Fri, 03 Oct 2025 15:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan running dry: Ransomware attack leaves nation days away from Asahi beer shortage</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/japan-running-dry-ransomware-attack-leaves-nation-days-away-from-asahi-beer-shortage</link>
-      <pubDate>Fri, 03 Oct 2025 15:25:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese-Speaking Cybercrime Group Hijacks IIS Servers for SEO Fraud</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-cybercrime-hijacks-servers/</link>
-      <pubDate>Fri, 03 Oct 2025 14:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
