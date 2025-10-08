@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 08:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 10:22:32 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 08 Oct 2025 08:25:03 +0000</pubDate>
+      <pubDate>Wed, 08 Oct 2025 10:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber-Attack Contributes to Huge Sales Drop at JLR</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-attack-sales-drop-jlr/</link>
+      <pubDate>Wed, 08 Oct 2025 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to do when you click on a suspicious link</title>
+      <link>https://blog.talosintelligence.com/what-to-do-when-you-click-on-a-suspicious-link/</link>
+      <pubDate>Wed, 08 Oct 2025 10:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ClickFix Factory: First Exposure of IUAM ClickFix Generator</title>
+      <link>https://unit42.paloaltonetworks.com/clickfix-generator-first-of-its-kind/</link>
+      <pubDate>Wed, 08 Oct 2025 10:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Can you test my game?” Fake itch.io pages spread hidden malware to gamers</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2025/10/can-you-test-my-game-fake-itch-io-pages-spread-hidden-malware-to-gamers</link>
+      <pubDate>Wed, 08 Oct 2025 09:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bybit Theft Drives Record-Breaking $2bn Haul for North Korea</title>
+      <link>https://www.infosecurity-magazine.com/news/bybit-recordbreaking-2bn-north/</link>
+      <pubDate>Wed, 08 Oct 2025 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redis patches 13-Year-Old Lua flaw enabling Remote Code Execution</title>
+      <link>https://securityaffairs.com/183097/security/redis-patches-13-year-old-lua-flaw-enabling-remote-code-execution.html</link>
+      <pubDate>Wed, 08 Oct 2025 09:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Time to Waste: Embedding AI to Cut Noise and Reduce Risk</title>
+      <link>https://thehackernews.com/2025/09/automation-is-redefining-pentest.html</link>
+      <pubDate>Wed, 08 Oct 2025 08:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Met Police Arrest Two Teens in Connection with Kido Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/met-police-arrest-two-teens-kido/</link>
+      <pubDate>Wed, 08 Oct 2025 08:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Polymorphic Python Malware, (Wed, Oct 8th)</title>
@@ -266,46 +306,6 @@
       <title>Case Study: How Advance2000 keeps 10K+ users secure with Sophos</title>
       <link>https://news.sophos.com/en-us/2025/10/06/case-study-advance-2000-msp/</link>
       <pubDate>Mon, 06 Oct 2025 14:24:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations</title>
-      <link>https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html</link>
-      <pubDate>Mon, 06 Oct 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discord users’ data stolen by hackers in third-party data breach</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/discord-users-data-stolen-by-hackers-in-third-party-data-breach</link>
-      <pubDate>Mon, 06 Oct 2025 13:54:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle patches critical E-Business Suite flaw exploited by Cl0p hackers</title>
-      <link>https://securityaffairs.com/183029/security/oracle-patches-critical-e-business-suite-flaw-exploited-by-cl0p-hackers.html</link>
-      <pubDate>Mon, 06 Oct 2025 13:39:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn sues ProAPIs for $15K/Month LinkedIn data scraping scheme</title>
-      <link>https://securityaffairs.com/183001/security/linkedin-sues-proapis-for-15k-month-linkedin-data-scraping-scheme.html</link>
-      <pubDate>Mon, 06 Oct 2025 13:08:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quick and Dirty Analysis of Possible Oracle E-Business Suite Exploit Script (CVE-2025-61882) [UPDATED[, (Mon, Oct 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/32346</link>
-      <pubDate>Mon, 06 Oct 2025 12:36:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-61882 Vulnerability: A Critical Oracle E-Business Suite Zero-Day Exploited in Cl0p Data Theft Attacks</title>
-      <link>https://socprime.com/blog/latest-threats/cve-2025-61882-zero-day-vulnerability/</link>
-      <pubDate>Mon, 06 Oct 2025 12:04:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Seven Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/06/cisa-adds-seven-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Mon, 06 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Critical Questions For Adopting an AI Security Solution</title>
-      <link>https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html</link>
-      <pubDate>Mon, 06 Oct 2025 11:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
