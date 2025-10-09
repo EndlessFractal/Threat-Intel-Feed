@@ -6,16 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 16:33:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 18:35:25 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 09 Oct 2025 16:25:03 +0000</pubDate>
+      <pubDate>Thu, 09 Oct 2025 18:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why don’t we sit around this computer console and have a sing-along?</title>
+      <link>https://blog.talosintelligence.com/newsletter-computer-console-sing-along/</link>
+      <pubDate>Thu, 09 Oct 2025 18:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Payroll pirate' hackers diverting salary payments from university employees, Microsoft says</title>
+      <link>https://therecord.media/universities-phishing-payroll-pirates</link>
+      <pubDate>Thu, 09 Oct 2025 17:23:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware</title>
+      <link>https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html</link>
+      <pubDate>Thu, 09 Oct 2025 17:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Renewal of cyber information-sharing law must mind the gap, senator says</title>
+      <link>https://therecord.media/cisa-2015-renewal-peters-bill-gap-in-liability-protections</link>
+      <pubDate>Thu, 09 Oct 2025 16:49:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Much Time Did SSE Customers Save? It Turns Out, a Lot.</title>
+      <link>https://www.security.com/expert-perspectives/time-sse-customers-save</link>
+      <pubDate>Thu, 09 Oct 2025 16:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Discord says 70,000 users had government IDs exposed in third-party breach</title>
       <link>https://therecord.media/discord-government-docs-exposed-breach</link>
       <pubDate>Thu, 09 Oct 2025 16:21:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/</link>
+      <pubDate>Thu, 09 Oct 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps</title>
+      <link>https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html</link>
+      <pubDate>Thu, 09 Oct 2025 15:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Investigating targeted “payroll pirate” attacks affecting US universities</title>
@@ -60,6 +95,16 @@
     <item>
       <title>Hitachi Energy Asset Suite</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-282-01</link>
+      <pubDate>Thu, 09 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Thu, 09 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Four Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-releases-four-industrial-control-systems-advisories</link>
       <pubDate>Thu, 09 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -178,11 +223,6 @@
       <pubDate>Wed, 08 Oct 2025 16:39:20 +0000</pubDate>
     </item>
     <item>
-      <title>China-linked hackers target Asian organizations with Nezha monitoring tool</title>
-      <link>https://therecord.media/china-linked-hackers-target-asian-orgs-monitoring-tool</link>
-      <pubDate>Wed, 08 Oct 2025 16:12:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Flok License Plate Surveillance</title>
       <link>https://www.schneier.com/blog/archives/2025/10/flok-license-plate-surveillance.html</link>
       <pubDate>Wed, 08 Oct 2025 16:10:58 +0000</pubDate>
@@ -196,11 +236,6 @@
       <title>Modeling scams see mature models as attractive new prospects</title>
       <link>https://www.malwarebytes.com/blog/news/2025/10/modeling-scams-see-mature-models-as-attractive-new-prospects</link>
       <pubDate>Wed, 08 Oct 2025 14:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany will not support 'Chat Control' message scanning in the EU</title>
-      <link>https://therecord.media/chat-control-eu-germany-will-not-support-law</link>
-      <pubDate>Wed, 08 Oct 2025 14:02:58 +0000</pubDate>
     </item>
     <item>
       <title>Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave</title>
@@ -271,41 +306,6 @@
       <title>“Can you test my game?” Fake itch.io pages spread hidden malware to gamers</title>
       <link>https://www.malwarebytes.com/blog/threat-intel/2025/10/can-you-test-my-game-fake-itch-io-pages-spread-hidden-malware-to-gamers</link>
       <pubDate>Wed, 08 Oct 2025 09:17:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bybit Theft Drives Record-Breaking $2bn Haul for North Korea</title>
-      <link>https://www.infosecurity-magazine.com/news/bybit-recordbreaking-2bn-north/</link>
-      <pubDate>Wed, 08 Oct 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redis patches 13-Year-Old Lua flaw enabling Remote Code Execution</title>
-      <link>https://securityaffairs.com/183097/security/redis-patches-13-year-old-lua-flaw-enabling-remote-code-execution.html</link>
-      <pubDate>Wed, 08 Oct 2025 09:10:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>No Time to Waste: Embedding AI to Cut Noise and Reduce Risk</title>
-      <link>https://thehackernews.com/2025/09/automation-is-redefining-pentest.html</link>
-      <pubDate>Wed, 08 Oct 2025 08:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Met Police Arrest Two Teens in Connection with Kido Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/met-police-arrest-two-teens-kido/</link>
-      <pubDate>Wed, 08 Oct 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Polymorphic Python Malware, (Wed, Oct 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/32354</link>
-      <pubDate>Wed, 08 Oct 2025 07:43:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks</title>
-      <link>https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html</link>
-      <pubDate>Wed, 08 Oct 2025 07:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, October 8th, 2025 https://isc.sans.edu/podcastdetail/9646, (Wed, Oct 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/32352</link>
-      <pubDate>Wed, 08 Oct 2025 03:25:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
