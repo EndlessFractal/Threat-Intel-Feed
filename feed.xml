@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 14:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 16:33:27 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 09 Oct 2025 14:20:03 +0000</pubDate>
+      <pubDate>Thu, 09 Oct 2025 16:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discord says 70,000 users had government IDs exposed in third-party breach</title>
+      <link>https://therecord.media/discord-government-docs-exposed-breach</link>
+      <pubDate>Thu, 09 Oct 2025 16:21:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating targeted “payroll pirate” attacks affecting US universities</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/10/09/investigating-targeted-payroll-pirate-attacks-affecting-us-universities/</link>
+      <pubDate>Thu, 09 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-5947: WordPress Plugin flaw lets hackers access Admin accounts</title>
+      <link>https://securityaffairs.com/183162/hacking/cve-2025-5947-wordpress-plugin-flaw-lets-hackers-access-admin-accounts.html</link>
+      <pubDate>Thu, 09 Oct 2025 14:27:38 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks</title>
@@ -31,6 +46,21 @@
       <title>ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe &amp; More</title>
       <link>https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html</link>
       <pubDate>Thu, 09 Oct 2025 12:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Lifecycle Services with Cisco</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-282-02</link>
+      <pubDate>Thu, 09 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Stratix</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-282-03</link>
+      <pubDate>Thu, 09 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Asset Suite</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-282-01</link>
+      <pubDate>Thu, 09 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SaaS Breaches Start with Tokens - What Security Teams Must Watch</title>
@@ -178,11 +208,6 @@
       <pubDate>Wed, 08 Oct 2025 13:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>Russian hackers turn to AI as old tactics fail, Ukrainian CERT says</title>
-      <link>https://therecord.media/russian-hackers-turn-to-ai-ukraine-cert</link>
-      <pubDate>Wed, 08 Oct 2025 13:46:09 +0000</pubDate>
-    </item>
-    <item>
       <title>DraftKings thwarts credential stuffing attack, but urges password reset and MFA</title>
       <link>https://securityaffairs.com/183110/security/draftkings-thwarts-credential-stuffing-attack-but-urges-password-reset-and-mfa.html</link>
       <pubDate>Wed, 08 Oct 2025 13:39:14 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>ISC Stormcast For Wednesday, October 8th, 2025 https://isc.sans.edu/podcastdetail/9646, (Wed, Oct 8th)</title>
       <link>https://isc.sans.edu/diary/rss/32352</link>
       <pubDate>Wed, 08 Oct 2025 03:25:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLM Black Markets in 2025 – Prompt Injection, Jailbreak Sales &amp; Model Leaks</title>
-      <link>https://www.darknet.org.uk/2025/10/llm-black-markets-in-2025-prompt-injection-jailbreak-sales-model-leaks/</link>
-      <pubDate>Wed, 08 Oct 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Responding to Cloud Incidents  A Step-by-Step Guide from the 2025 Unit 42 Global Incident Response Report</title>
-      <link>https://unit42.paloaltonetworks.com/responding-to-cloud-incidents/</link>
-      <pubDate>Tue, 07 Oct 2025 23:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShinyHunters Wage Broad Corporate Extortion Spree</title>
-      <link>https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/</link>
-      <pubDate>Tue, 07 Oct 2025 22:45:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Synacor Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/183085/hacking/u-s-cisa-adds-synacor-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Tue, 07 Oct 2025 21:39:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>GoAnywhere MFT zero-day used by Storm-1175 in Medusa ransomware campaigns</title>
-      <link>https://securityaffairs.com/183075/hacking/goanywhere-mft-zero-day-used-by-storm-1175-in-medusa-ransomware-campaigns.html</link>
-      <pubDate>Tue, 07 Oct 2025 19:23:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
