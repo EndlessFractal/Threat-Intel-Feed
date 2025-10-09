@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 18:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 20:28:23 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 09 Oct 2025 18:30:03 +0000</pubDate>
+      <pubDate>Thu, 09 Oct 2025 20:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClayRat campaign uses Telegram and phishing sites to distribute Android spyware</title>
+      <link>https://securityaffairs.com/183169/malware/clayrat-campaign-uses-telegram-and-phishing-sites-to-distribute-android-spyware.html</link>
+      <pubDate>Thu, 09 Oct 2025 19:56:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake VPN and streaming app drops malware that drains your bank account</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/fake-vpn-and-streaming-app-drops-malware-that-drains-your-bank-account</link>
+      <pubDate>Thu, 09 Oct 2025 19:05:39 +0000</pubDate>
     </item>
     <item>
       <title>Why don’t we sit around this computer console and have a sing-along?</title>
@@ -296,16 +306,6 @@
       <title>What to do when you click on a suspicious link</title>
       <link>https://blog.talosintelligence.com/what-to-do-when-you-click-on-a-suspicious-link/</link>
       <pubDate>Wed, 08 Oct 2025 10:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The ClickFix Factory: First Exposure of IUAM ClickFix Generator</title>
-      <link>https://unit42.paloaltonetworks.com/clickfix-generator-first-of-its-kind/</link>
-      <pubDate>Wed, 08 Oct 2025 10:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Can you test my game?” Fake itch.io pages spread hidden malware to gamers</title>
-      <link>https://www.malwarebytes.com/blog/threat-intel/2025/10/can-you-test-my-game-fake-itch-io-pages-spread-hidden-malware-to-gamers</link>
-      <pubDate>Wed, 08 Oct 2025 09:17:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
