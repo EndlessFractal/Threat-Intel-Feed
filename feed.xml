@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 12:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 14:25:50 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 09 Oct 2025 12:45:03 +0000</pubDate>
+      <pubDate>Thu, 09 Oct 2025 14:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks</title>
+      <link>https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html</link>
+      <pubDate>Thu, 09 Oct 2025 13:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Warn of Security Gaps in AI Browsers</title>
+      <link>https://www.infosecurity-magazine.com/news/architectural-flaws-ai-browsers/</link>
+      <pubDate>Thu, 09 Oct 2025 13:15:00 +0000</pubDate>
     </item>
     <item>
       <title>ClayRat Spyware Campaign Targets Android Users in Russia</title>
       <link>https://www.infosecurity-magazine.com/news/clayrat-spyware-targets-android/</link>
       <pubDate>Thu, 09 Oct 2025 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe &amp; More</title>
+      <link>https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html</link>
+      <pubDate>Thu, 09 Oct 2025 12:16:00 +0000</pubDate>
     </item>
     <item>
       <title>SaaS Breaches Start with Tokens - What Security Teams Must Watch</title>
@@ -208,7 +223,7 @@
       <pubDate>Wed, 08 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now</title>
+      <title>Severe Framelink Figma MCP Vulnerability Lets Hackers Execute Code Remotely</title>
       <link>https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html</link>
       <pubDate>Wed, 08 Oct 2025 10:58:00 +0000</pubDate>
     </item>
@@ -268,6 +283,11 @@
       <pubDate>Wed, 08 Oct 2025 03:25:14 +0000</pubDate>
     </item>
     <item>
+      <title>LLM Black Markets in 2025 – Prompt Injection, Jailbreak Sales &amp; Model Leaks</title>
+      <link>https://www.darknet.org.uk/2025/10/llm-black-markets-in-2025-prompt-injection-jailbreak-sales-model-leaks/</link>
+      <pubDate>Wed, 08 Oct 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Responding to Cloud Incidents  A Step-by-Step Guide from the 2025 Unit 42 Global Incident Response Report</title>
       <link>https://unit42.paloaltonetworks.com/responding-to-cloud-incidents/</link>
       <pubDate>Tue, 07 Oct 2025 23:00:19 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>GoAnywhere MFT zero-day used by Storm-1175 in Medusa ransomware campaigns</title>
       <link>https://securityaffairs.com/183075/hacking/goanywhere-mft-zero-day-used-by-storm-1175-in-medusa-ransomware-campaigns.html</link>
       <pubDate>Tue, 07 Oct 2025 19:23:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Ransomware Gang Claims Asahi Cyber-Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/qilin-ransomware-asahi-cyber-attack/</link>
-      <pubDate>Tue, 07 Oct 2025 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers</title>
-      <link>https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html</link>
-      <pubDate>Tue, 07 Oct 2025 17:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disrupting threats targeting Microsoft Teams</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/</link>
-      <pubDate>Tue, 07 Oct 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploit Against FreePBX (CVE-2025-57819) with code execution., (Tue, Oct 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/32350</link>
-      <pubDate>Tue, 07 Oct 2025 16:23:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
