@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 03:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 04:30:26 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 09 Oct 2025 03:00:04 +0000</pubDate>
+      <pubDate>Thu, 09 Oct 2025 04:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Guest Diary] Building Better Defenses: RedTail Observations from a Honeypot, (Thu, Oct 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/32312</link>
+      <pubDate>Thu, 09 Oct 2025 03:24:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Thursday, October 9th, 2025 https://isc.sans.edu/podcastdetail/9648, (Thu, Oct 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/32356</link>
+      <pubDate>Thu, 09 Oct 2025 03:10:14 +0000</pubDate>
     </item>
     <item>
       <title>Court Injunctions are the Thoughts and Prayers of Data Breach Response</title>
@@ -296,16 +306,6 @@
       <title>XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities</title>
       <link>https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html</link>
       <pubDate>Tue, 07 Oct 2025 10:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discord Reveals Data Breach Following Third-Party Compromise</title>
-      <link>https://www.infosecurity-magazine.com/news/discord-data-breach-third-party/</link>
-      <pubDate>Tue, 07 Oct 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Too salty to handle: Exposing cases of CSS abuse for hidden text salting</title>
-      <link>https://blog.talosintelligence.com/too-salty-to-handle-exposing-cases-of-css-abuse-for-hidden-text-salting/</link>
-      <pubDate>Tue, 07 Oct 2025 10:00:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
