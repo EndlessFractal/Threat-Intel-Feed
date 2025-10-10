@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 18:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 20:26:55 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 10 Oct 2025 18:25:03 +0000</pubDate>
+      <pubDate>Fri, 10 Oct 2025 20:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Houston suburb says some online services taken down by cyberattack</title>
+      <link>https://therecord.media/houston-suburb-cyberattack-services</link>
+      <pubDate>Fri, 10 Oct 2025 20:03:37 +0000</pubDate>
     </item>
     <item>
       <title>FBI takedown banner appears on BreachForums site as Scattered Spider promotes leak</title>
@@ -143,11 +148,6 @@
       <pubDate>Fri, 10 Oct 2025 07:33:56 +0000</pubDate>
     </item>
     <item>
-      <title>CrowdStrike Named a Visionary in 2025 Gartner® Magic Quadrant™ for Security Information and Event Management</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-named-visionary-2025-gartner-magic-quadrant-for-siem/</link>
-      <pubDate>Fri, 10 Oct 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw</title>
       <link>https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html</link>
       <pubDate>Fri, 10 Oct 2025 06:41:00 +0000</pubDate>
@@ -176,11 +176,6 @@
       <title>Why don’t we sit around this computer console and have a sing-along?</title>
       <link>https://blog.talosintelligence.com/newsletter-computer-console-sing-along/</link>
       <pubDate>Thu, 09 Oct 2025 18:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Payroll pirate' hackers diverting salary payments from university employees, Microsoft says</title>
-      <link>https://therecord.media/universities-phishing-payroll-pirates</link>
-      <pubDate>Thu, 09 Oct 2025 17:23:21 +0000</pubDate>
     </item>
     <item>
       <title>From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware</title>
@@ -306,6 +301,11 @@
       <title>Discord denies massive breach, confirms limited exposure of 70K ID photos</title>
       <link>https://securityaffairs.com/183143/cyber-crime/discord-denies-massive-breach-confirms-limited-exposure-of-70k-id-photos.html</link>
       <pubDate>Thu, 09 Oct 2025 08:49:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC: Observability and Threat Hunting Must Improve</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-observability-threat-hunting/</link>
+      <pubDate>Thu, 09 Oct 2025 08:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
