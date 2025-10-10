@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 14:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 16:31:04 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 10 Oct 2025 14:20:03 +0000</pubDate>
+      <pubDate>Fri, 10 Oct 2025 16:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp Worm Targets Brazilian Banking Customers</title>
+      <link>https://news.sophos.com/en-us/2025/10/10/whatsapp-worm-targets-brazilian-banking-customers/</link>
+      <pubDate>Fri, 10 Oct 2025 16:14:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>DDoS Botnet Aisuru Blankets US ISPs in Record DDoS</title>
+      <link>https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/</link>
+      <pubDate>Fri, 10 Oct 2025 16:10:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 41</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-41-7/</link>
+      <pubDate>Fri, 10 Oct 2025 15:43:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple voices concerns over age-check law that could put user privacy at risk</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/apple-voices-concerns-over-age-check-law-that-could-put-user-privacy-at-risk</link>
+      <pubDate>Fri, 10 Oct 2025 15:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your passwords don’t need so many fiddly characters, NIST says</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/your-passwords-dont-need-so-many-fiddly-characters-nist-says</link>
+      <pubDate>Fri, 10 Oct 2025 15:06:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nezha Attacks Detection: Open-Source Monitoring Tool Weaponized by China-Nexus Hackers to Deploy Gh0st RAT</title>
+      <link>https://socprime.com/blog/detect-china-nexus-attacks-using-nezha/</link>
+      <pubDate>Fri, 10 Oct 2025 14:45:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers</title>
+      <link>https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html</link>
+      <pubDate>Fri, 10 Oct 2025 14:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Juniper patched nine critical flaws in Junos Space</title>
@@ -21,6 +56,11 @@
       <title>Ukraine sees surge in AI-Powered cyberattacks by Russia-linked Threat Actors</title>
       <link>https://securityaffairs.com/183222/apt/ukraine-sees-surge-in-ai-powered-cyberattacks-by-russia-linked-threat-actors.html</link>
       <pubDate>Fri, 10 Oct 2025 13:31:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries</title>
+      <link>https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html</link>
+      <pubDate>Fri, 10 Oct 2025 13:31:00 +0000</pubDate>
     </item>
     <item>
       <title>New Stealit Campaign Abuses Node.js Single Executable Application</title>
@@ -266,46 +306,6 @@
       <title>NCSC: Observability and Threat Hunting Must Improve</title>
       <link>https://www.infosecurity-magazine.com/news/ncsc-observability-threat-hunting/</link>
       <pubDate>Thu, 09 Oct 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EclecticIQ AI Suite levels up: New AI tools to boost your investigations</title>
-      <link>https://blog.eclecticiq.com/eclecticiq-ai-suite-levels-up-new-ai-tools-to-boost-your-investigations</link>
-      <pubDate>Thu, 09 Oct 2025 08:13:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>High Number of Windows 10 Users Remain as End-of-Life Looms</title>
-      <link>https://www.infosecurity-magazine.com/news/windows-10-users-end-of-life/</link>
-      <pubDate>Thu, 09 Oct 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme</title>
-      <link>https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html</link>
-      <pubDate>Thu, 09 Oct 2025 06:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Guest Diary] Building Better Defenses: RedTail Observations from a Honeypot, (Thu, Oct 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32312</link>
-      <pubDate>Thu, 09 Oct 2025 03:24:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, October 9th, 2025 https://isc.sans.edu/podcastdetail/9648, (Thu, Oct 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32356</link>
-      <pubDate>Thu, 09 Oct 2025 03:10:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Court Injunctions are the Thoughts and Prayers of Data Breach Response</title>
-      <link>https://www.troyhunt.com/court-injunctions-are-the-thoughts-and-prayers-of-data-breach-response/</link>
-      <pubDate>Thu, 09 Oct 2025 00:03:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #438: When your mouse turns snitch, and hackers grow a conscience</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-438/</link>
-      <pubDate>Wed, 08 Oct 2025 23:31:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin ransomware claimed responsibility for the attack on the beer giant Asahi</title>
-      <link>https://securityaffairs.com/183131/cyber-crime/qilin-ransomware-claimed-responsibility-for-the-asahi-attack.html</link>
-      <pubDate>Wed, 08 Oct 2025 21:05:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
