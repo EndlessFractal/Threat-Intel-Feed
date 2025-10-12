@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 03:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 04:28:39 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 12 Oct 2025 03:00:05 +0000</pubDate>
+      <pubDate>Sun, 12 Oct 2025 04:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Update 473</title>
+      <link>https://www.troyhunt.com/weekly-update-473/</link>
+      <pubDate>Sun, 12 Oct 2025 03:25:42 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-11371: Unpatched zero-day in Gladinet CentreStack, Triofox under attack</title>
@@ -300,11 +305,6 @@
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Thu, 09 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Four Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-releases-four-industrial-control-systems-advisories</link>
       <pubDate>Thu, 09 Oct 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
