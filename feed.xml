@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 12:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 14:27:16 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 13 Oct 2025 12:45:04 +0000</pubDate>
+      <pubDate>Mon, 13 Oct 2025 14:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>SimonMed Imaging discloses a data breach impacting over 1.2 million people</title>
+      <link>https://securityaffairs.com/183342/uncategorized/simonmed-imaging-discloses-a-data-breach-impacting-over-1-2-million-people.html</link>
+      <pubDate>Mon, 13 Oct 2025 14:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Stealit Malware Campaign Spreads via VPN and Game Installer Apps</title>
+      <link>https://www.infosecurity-magazine.com/news/new-stealit-malware-campaign-vpn/</link>
+      <pubDate>Mon, 13 Oct 2025 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel &amp; More</title>
+      <link>https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html</link>
+      <pubDate>Mon, 13 Oct 2025 13:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft revamps Internet Explorer Mode in Edge after August attacks</title>
+      <link>https://securityaffairs.com/183333/security/microsoft-revamps-internet-explorer-mode-in-edge-after-august-attacks.html</link>
+      <pubDate>Mon, 13 Oct 2025 13:17:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-61884: Novel Oracle E-Business Suite  Vulnerability Enables Remote Theft of Sensitive Data Without Login</title>
+      <link>https://socprime.com/blog/cve-2025-61884-vulnerability-in-oracle-ebs/</link>
+      <pubDate>Mon, 13 Oct 2025 13:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Awareness Month: 10 tips to Stay Safe Online that anyone can use</title>
+      <link>https://news.sophos.com/en-us/2025/10/13/cybersecurity-awareness-month-2025-10-tips/</link>
+      <pubDate>Mon, 13 Oct 2025 13:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK fines 4chan over noncompliance with Online Safety Act</title>
+      <link>https://therecord.media/4chan-fined-ofcom-uk-online-safety-act</link>
+      <pubDate>Mon, 13 Oct 2025 12:40:35 +0000</pubDate>
     </item>
     <item>
       <title>Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk</title>
@@ -123,11 +158,6 @@
       <pubDate>Sat, 11 Oct 2025 18:21:51 +0000</pubDate>
     </item>
     <item>
-      <title>Attackers exploit valid logins in SonicWall SSL VPN compromise</title>
-      <link>https://securityaffairs.com/183245/hacking/attackers-exploit-valid-logins-in-sonicwall-ssl-vpn-compromise.html</link>
-      <pubDate>Sat, 11 Oct 2025 16:03:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts</title>
       <link>https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html</link>
       <pubDate>Sat, 11 Oct 2025 13:30:00 +0000</pubDate>
@@ -141,11 +171,6 @@
       <title>Acting US Cyber Command, NSA chief won’t be nominated for the job, sources say</title>
       <link>https://therecord.media/william-hartman-not-nominee-nsa-cyber-command</link>
       <pubDate>Sat, 11 Oct 2025 00:35:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple doubles maximum bug bounty to $2M for zero-click RCEs</title>
-      <link>https://securityaffairs.com/183235/security/apple-doubles-maximum-bug-bounty-to-2m-for-zero-click-rces.html</link>
-      <pubDate>Fri, 10 Oct 2025 23:38:15 +0000</pubDate>
     </item>
     <item>
       <title>Prosecutors seek 7-year prison term for ‘sophisticated’ PowerSchool hacker</title>
@@ -171,11 +196,6 @@
       <title>FBI takedown banner appears on BreachForums site as Scattered Spider promotes leak</title>
       <link>https://therecord.media/breachforums-fbi-france-takedown-banner-scattered-spider-salesforce-leak</link>
       <pubDate>Fri, 10 Oct 2025 17:24:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft violated EU law in handling of kids’ data, Austrian privacy regulator finds</title>
-      <link>https://therecord.media/microsoft-violated-eu-law-austria</link>
-      <pubDate>Fri, 10 Oct 2025 16:38:17 +0000</pubDate>
     </item>
     <item>
       <title>BreachForums seized, but hackers say they will still leak Salesforce data</title>
@@ -286,26 +306,6 @@
       <title>CloudConqueror – AWS CloudControl API Attack Surface Mapping and Persistence Tool</title>
       <link>https://www.darknet.org.uk/2025/10/cloudconqueror-aws-cloudcontrol-api-attack-surface-mapping-and-persistence-tool/</link>
       <pubDate>Fri, 10 Oct 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, October 10th, 2025 https://isc.sans.edu/podcastdetail/9650, (Fri, Oct 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/32360</link>
-      <pubDate>Fri, 10 Oct 2025 00:45:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>When AI Remembers Too Much – Persistent Behaviors in Agents’ Memory</title>
-      <link>https://unit42.paloaltonetworks.com/indirect-prompt-injection-poisons-ai-longterm-memory/</link>
-      <pubDate>Thu, 09 Oct 2025 22:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake VPN and streaming app drops malware that drains your bank account</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/fake-vpn-and-streaming-app-drops-malware-that-drains-your-bank-account</link>
-      <pubDate>Thu, 09 Oct 2025 19:05:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why don’t we sit around this computer console and have a sing-along?</title>
-      <link>https://blog.talosintelligence.com/newsletter-computer-console-sing-along/</link>
-      <pubDate>Thu, 09 Oct 2025 18:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
