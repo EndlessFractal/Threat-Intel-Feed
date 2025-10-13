@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 12:50:07 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 13 Oct 2025 10:25:04 +0000</pubDate>
+      <pubDate>Mon, 13 Oct 2025 12:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk</title>
+      <link>https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html</link>
+      <pubDate>Mon, 13 Oct 2025 11:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI and the Future of American Politics</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html</link>
+      <pubDate>Mon, 13 Oct 2025 11:04:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors</title>
+      <link>https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html</link>
+      <pubDate>Mon, 13 Oct 2025 10:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Astaroth Trojan abuses GitHub to host configs and evade takedowns</title>
+      <link>https://securityaffairs.com/183323/cyber-crime/astaroth-trojan-abuses-github-to-host-configs-and-evade-takedowns.html</link>
+      <pubDate>Mon, 13 Oct 2025 10:08:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor</title>
+      <link>https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html</link>
+      <pubDate>Mon, 13 Oct 2025 09:54:00 +0000</pubDate>
     </item>
     <item>
       <title>Apple Bug Bounty Payouts Can Now Top $5m</title>
@@ -193,11 +218,6 @@
       <pubDate>Fri, 10 Oct 2025 14:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>Juniper patched nine critical flaws in Junos Space</title>
-      <link>https://securityaffairs.com/183229/security/juniper-patched-nine-critical-flaws-in-junos-space.html</link>
-      <pubDate>Fri, 10 Oct 2025 14:02:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries</title>
       <link>https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html</link>
       <pubDate>Fri, 10 Oct 2025 13:31:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Why don’t we sit around this computer console and have a sing-along?</title>
       <link>https://blog.talosintelligence.com/newsletter-computer-console-sing-along/</link>
       <pubDate>Thu, 09 Oct 2025 18:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware</title>
-      <link>https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html</link>
-      <pubDate>Thu, 09 Oct 2025 17:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Much Time Did SSE Customers Save? It Turns Out, a Lot.</title>
-      <link>https://www.security.com/expert-perspectives/time-sse-customers-save</link>
-      <pubDate>Thu, 09 Oct 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/</link>
-      <pubDate>Thu, 09 Oct 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps</title>
-      <link>https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html</link>
-      <pubDate>Thu, 09 Oct 2025 15:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
