@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 20:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 22:23:21 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 13 Oct 2025 20:20:03 +0000</pubDate>
+      <pubDate>Mon, 13 Oct 2025 22:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Oracle EBS Flaw Could Expose Sensitive Data</title>
+      <link>https://www.techrepublic.com/article/news-oracle-ebs-vulnerability/</link>
+      <pubDate>Mon, 13 Oct 2025 21:40:27 +0000</pubDate>
     </item>
     <item>
       <title>Customer payment data stolen in Unity Technologies’s SpeedTree website compromise</title>
@@ -301,11 +306,6 @@
       <title>175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign</title>
       <link>https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html</link>
       <pubDate>Fri, 10 Oct 2025 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google: Clop Accessed “Significant Amount” of Data in Oracle EBS Exploit</title>
-      <link>https://www.infosecurity-magazine.com/news/google-clop-data-oracle-exploit/</link>
-      <pubDate>Fri, 10 Oct 2025 10:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
