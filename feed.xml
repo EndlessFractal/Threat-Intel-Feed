@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 16:32:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 18:35:42 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 14 Oct 2025 16:25:03 +0000</pubDate>
+      <pubDate>Tue, 14 Oct 2025 18:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday October 2025, (Tue, Oct 14th)</title>
+      <link>https://isc.sans.edu/diary/rss/32368</link>
+      <pubDate>Tue, 14 Oct 2025 17:55:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year</title>
+      <link>https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html</link>
+      <pubDate>Tue, 14 Oct 2025 16:55:00 +0000</pubDate>
     </item>
     <item>
       <title>Upcoming Speaking Engagements</title>
@@ -95,6 +105,16 @@
     <item>
       <title>Chinese Hackers Use Trusted ArcGIS App For Year-Long Persistence</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-hackers-use-trusted-arcgis/</link>
+      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation 1715 EtherNet/IP Comms Module</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-287-01</link>
+      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Five Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-adds-five-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Astaroth Trojan abuses GitHub to host configs and evade takedowns</title>
       <link>https://securityaffairs.com/183323/cyber-crime/astaroth-trojan-abuses-github-to-host-configs-and-evade-takedowns.html</link>
       <pubDate>Mon, 13 Oct 2025 10:08:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor</title>
-      <link>https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html</link>
-      <pubDate>Mon, 13 Oct 2025 09:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Bug Bounty Payouts Can Now Top $5m</title>
-      <link>https://www.infosecurity-magazine.com/news/apple-bug-bounty-payouts-can-now/</link>
-      <pubDate>Mon, 13 Oct 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI and French Police Shutter BreachForums Domain Again</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-french-police-shutter/</link>
-      <pubDate>Mon, 13 Oct 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google, Mandiant expose malware and zero-day behind Oracle EBS extortion</title>
-      <link>https://securityaffairs.com/183306/hacking/google-mandiant-expose-malware-and-zero-day-behind-oracle-ebs-extortion.html</link>
-      <pubDate>Mon, 13 Oct 2025 08:35:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
