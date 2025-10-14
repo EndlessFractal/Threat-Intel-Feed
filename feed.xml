@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 06:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 08:31:37 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 14 Oct 2025 06:30:04 +0000</pubDate>
+      <pubDate>Tue, 14 Oct 2025 08:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The king is dead, long live the king! Windows 10 EOL and Windows 11 forensic artifacts</title>
+      <link>https://securelist.com/forensic-artifacts-in-windows-11/117680/</link>
+      <pubDate>Tue, 14 Oct 2025 08:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oracle issued an emergency security update to fix new E-Business Suite flaw CVE-2025-61884</title>
+      <link>https://securityaffairs.com/183362/security/oracle-issued-an-emergency-security-update-to-fix-new-e-business-suite-flaw-cve-2025-61884.html</link>
+      <pubDate>Tue, 14 Oct 2025 07:31:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extending STIX: How Custom objects empower your intelligence work</title>
+      <link>https://blog.eclecticiq.com/beyond-stix-how-custom-objects-empower-your-intelligence-work</link>
+      <pubDate>Tue, 14 Oct 2025 07:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels</title>
+      <link>https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html</link>
+      <pubDate>Tue, 14 Oct 2025 07:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain</title>
+      <link>https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html</link>
+      <pubDate>Tue, 14 Oct 2025 05:28:00 +0000</pubDate>
     </item>
     <item>
       <title>UK hit by record number of ‘nationally significant’ cyberattacks</title>
@@ -218,11 +243,6 @@
       <pubDate>Sun, 12 Oct 2025 03:25:42 +0000</pubDate>
     </item>
     <item>
-      <title>CVE-2025-11371: Unpatched zero-day in Gladinet CentreStack, Triofox under attack</title>
-      <link>https://securityaffairs.com/183259/hacking/cve-2025-11371-unpatched-zero-day-in-gladinet-centrestack-triofox-under-attack.html</link>
-      <pubDate>Sat, 11 Oct 2025 20:25:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts</title>
       <link>https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html</link>
       <pubDate>Sat, 11 Oct 2025 13:30:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries</title>
       <link>https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html</link>
       <pubDate>Fri, 10 Oct 2025 13:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Stealit Campaign Abuses Node.js Single Executable Application</title>
-      <link>https://feeds.fortinet.com/~/926060729/0/fortinet/blog/threat-research~New-Stealit-Campaign-Abuses-Nodejs-Single-Executable-Application</link>
-      <pubDate>Fri, 10 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation</title>
-      <link>https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html</link>
-      <pubDate>Fri, 10 Oct 2025 11:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Millions of (very) private chats exposed by two AI companion apps</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/millions-of-very-private-chats-exposed-by-two-ai-companion-apps</link>
-      <pubDate>Fri, 10 Oct 2025 11:32:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Launches AI Bug Bounty with $30,000 Top Reward</title>
-      <link>https://www.infosecurity-magazine.com/news/google-launches-ai-bug-bounty/</link>
-      <pubDate>Fri, 10 Oct 2025 11:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
