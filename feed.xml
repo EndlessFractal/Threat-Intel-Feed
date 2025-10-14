@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 10:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 12:52:58 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 14 Oct 2025 10:20:03 +0000</pubDate>
+      <pubDate>Tue, 14 Oct 2025 12:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pixel-stealing “Pixnapping” attack targets Android devices</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/pixel-stealing-pixnapping-attack-targets-android-devices</link>
+      <pubDate>Tue, 14 Oct 2025 12:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Use Trusted ArcGIS App For Year-Long Persistence</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-hackers-use-trusted-arcgis/</link>
+      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moving Beyond Awareness: How Threat Hunting Builds Readiness</title>
+      <link>https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html</link>
+      <pubDate>Tue, 14 Oct 2025 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing</title>
+      <link>https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html</link>
+      <pubDate>Tue, 14 Oct 2025 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK NCSC Reports 429 cyberattacks in a year, with nationally significant cases more than doubling</title>
+      <link>https://securityaffairs.com/183372/security/uk-ncsc-reports-429-cyberattacks-in-a-year-with-nationally-significant-cases-more-than-doubling.html</link>
+      <pubDate>Tue, 14 Oct 2025 11:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions</title>
+      <link>https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html</link>
+      <pubDate>Tue, 14 Oct 2025 11:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Trump Administration’s Increased Use of Social Media Surveillance</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html</link>
+      <pubDate>Tue, 14 Oct 2025 11:09:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>What AI Reveals About Web Applications— and Why It Matters</title>
+      <link>https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html</link>
+      <pubDate>Tue, 14 Oct 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Signal in the noise: what hashtags reveal about hacktivism in 2025</title>
@@ -238,11 +278,6 @@
       <pubDate>Sun, 12 Oct 2025 15:01:05 +0000</pubDate>
     </item>
     <item>
-      <title>Security Affairs newsletter Round 545 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/183268/breaking-news/security-affairs-newsletter-round-545-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 12 Oct 2025 12:16:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Revisiting CISA Priorities for FY2026 and Beyond</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/revisiting-cisa-priorities-for-fy2026-and-beyond</link>
       <pubDate>Sun, 12 Oct 2025 09:31:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Friday Squid Blogging: Sperm Whale Eating a Giant Squid</title>
       <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-sperm-whale-eating-a-giant-squid.html</link>
       <pubDate>Fri, 10 Oct 2025 21:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Golden Scale: Bling Libra and the Evolving Extortion Economy</title>
-      <link>https://unit42.paloaltonetworks.com/scattered-lapsus-hunters/</link>
-      <pubDate>Fri, 10 Oct 2025 21:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>BreachForums seized, but hackers say they will still leak Salesforce data</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/breachforums-seized-hackers-will-leak-salesforce-data</link>
-      <pubDate>Fri, 10 Oct 2025 16:34:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp Worm Targets Brazilian Banking Customers</title>
-      <link>https://news.sophos.com/en-us/2025/10/10/whatsapp-worm-targets-brazilian-banking-customers/</link>
-      <pubDate>Fri, 10 Oct 2025 16:14:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>DDoS Botnet Aisuru Blankets US ISPs in Record DDoS</title>
-      <link>https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/</link>
-      <pubDate>Fri, 10 Oct 2025 16:10:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 41</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-41-7/</link>
-      <pubDate>Fri, 10 Oct 2025 15:43:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple voices concerns over age-check law that could put user privacy at risk</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/apple-voices-concerns-over-age-check-law-that-could-put-user-privacy-at-risk</link>
-      <pubDate>Fri, 10 Oct 2025 15:27:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your passwords don’t need so many fiddly characters, NIST says</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/your-passwords-dont-need-so-many-fiddly-characters-nist-says</link>
-      <pubDate>Fri, 10 Oct 2025 15:06:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
