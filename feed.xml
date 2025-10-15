@@ -6,16 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 14:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 16:26:29 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 15 Oct 2025 14:20:04 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 16:20:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Architecture of Trust: How to Build with a Zero Trust Creed</title>
+      <link>https://www.security.com/expert-perspectives/how-build-zero-trust-creed</link>
+      <pubDate>Wed, 15 Oct 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAC-0239 Activity Detection: Targeted Spearphishing Attacks Against Defense Forces and State Bodies of Ukraine via the OrcaC2 Framework and FILEMESS Stealer</title>
+      <link>https://socprime.com/blog/uac-0239-attack-detection/</link>
+      <pubDate>Wed, 15 Oct 2025 15:58:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flaw in Slider Revolution Plugin Exposed 4m WordPress Sites</title>
+      <link>https://www.infosecurity-magazine.com/news/flaw-slider-revolution-plugin/</link>
+      <pubDate>Wed, 15 Oct 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scammers are still sending us their fake Robinhood security alerts</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/scammers-are-still-sending-us-their-fake-robinhood-security-alerts</link>
+      <pubDate>Wed, 15 Oct 2025 15:42:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whisper 2FA Behind One Million Phishing Attempts Since July</title>
+      <link>https://www.infosecurity-magazine.com/news/whisper-2fa-behind-1m-phishing/</link>
+      <pubDate>Wed, 15 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC warns companies to prepare for a day when your screens go dark</title>
+      <link>https://www.fortra.com/blog/ncsc-warns-companies-prepare-screens-dark</link>
+      <pubDate>Wed, 15 Oct 2025 14:48:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>200,000 Linux systems from Framework are shipped with signed UEFI components vulnerable to Secure Boot bypass</title>
+      <link>https://securityaffairs.com/183426/hacking/200000-linux-systems-from-framework-are-shipped-with-signed-uefi-components-vulnerable-to-secure-boot-bypass.html</link>
+      <pubDate>Wed, 15 Oct 2025 14:22:32 +0000</pubDate>
     </item>
     <item>
       <title>Human Risk Report Reveals Overconfidence in Phishing Defenses</title>
       <link>https://www.techrepublic.com/article/human-risk-report-2025/</link>
       <pubDate>Wed, 15 Oct 2025 14:16:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks</title>
+      <link>https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html</link>
+      <pubDate>Wed, 15 Oct 2025 14:16:00 +0000</pubDate>
     </item>
     <item>
       <title>Mango says some customer information exposed in cyber incident</title>
@@ -46,6 +86,11 @@
       <title>Capita given record £14 million fine over ransomware attack security failings</title>
       <link>https://therecord.media/capita-record-fine-uk-ico-ransomware-attack</link>
       <pubDate>Wed, 15 Oct 2025 12:11:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices</link>
+      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Attackers Bypass Synced Passkeys</title>
@@ -261,51 +306,6 @@
       <title>Pixel-stealing “Pixnapping” attack targets Android devices</title>
       <link>https://www.malwarebytes.com/blog/news/2025/10/pixel-stealing-pixnapping-attack-targets-android-devices</link>
       <pubDate>Tue, 14 Oct 2025 12:21:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Use Trusted ArcGIS App For Year-Long Persistence</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-hackers-use-trusted-arcgis/</link>
-      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation 1715 EtherNet/IP Comms Module</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-287-01</link>
-      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Five Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-adds-five-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-releases-one-industrial-control-systems-advisory</link>
-      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moving Beyond Awareness: How Threat Hunting Builds Readiness</title>
-      <link>https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html</link>
-      <pubDate>Tue, 14 Oct 2025 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing</title>
-      <link>https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html</link>
-      <pubDate>Tue, 14 Oct 2025 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK NCSC Reports 429 cyberattacks in a year, with nationally significant cases more than doubling</title>
-      <link>https://securityaffairs.com/183372/security/uk-ncsc-reports-429-cyberattacks-in-a-year-with-nationally-significant-cases-more-than-doubling.html</link>
-      <pubDate>Tue, 14 Oct 2025 11:21:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions</title>
-      <link>https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html</link>
-      <pubDate>Tue, 14 Oct 2025 11:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Trump Administration’s Increased Use of Social Media Surveillance</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html</link>
-      <pubDate>Tue, 14 Oct 2025 11:09:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
