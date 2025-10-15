@@ -6,11 +6,66 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 08:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 10:28:58 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 15 Oct 2025 08:30:03 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 10:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP fixed maximum-severity bug in NetWeaver</title>
+      <link>https://securityaffairs.com/183420/security/sap-fixed-maximum-severity-bug-in-netweaver.html</link>
+      <pubDate>Wed, 15 Oct 2025 10:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mysterious Elephant: a growing threat</title>
+      <link>https://securelist.com/mysterious-elephant-apt-ttps-and-tools/117596/</link>
+      <pubDate>Wed, 15 Oct 2025 10:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>PhantomVAI Loader Delivers a Range of Infostealers</title>
+      <link>https://unit42.paloaltonetworks.com/phantomvai-loader-delivers-infostealers/</link>
+      <pubDate>Wed, 15 Oct 2025 10:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers report rare intrusion by suspected Chinese hackers into Russian tech firm</title>
+      <link>https://therecord.media/rare-china-linked-intrusion-russian-tech-firms</link>
+      <pubDate>Wed, 15 Oct 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jewelbug: Chinese APT Group Widens Reach to Russia</title>
+      <link>https://www.security.com/threat-intelligence/jewelbug-apt-russia</link>
+      <pubDate>Wed, 15 Oct 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Last Windows 10 Patch Tuesday Features Six Zero Days</title>
+      <link>https://www.infosecurity-magazine.com/news/last-windows-10-patch-tuesday-six/</link>
+      <pubDate>Wed, 15 Oct 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capita fined £14m for data protection failings in 2023 cyber-attack</title>
+      <link>https://www.theguardian.com/business/2025/oct/15/capita-fined-for-data-protection-failings-in-2023-cyber-attack</link>
+      <pubDate>Wed, 15 Oct 2025 09:13:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘A Call to Arms’ as UK Faces 50% Surge in Major Cyberattacks</title>
+      <link>https://www.techrepublic.com/article/news-uk-cyberattacks-rise-2025/</link>
+      <pubDate>Wed, 15 Oct 2025 09:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capita Fined £14m After 2023 Breach that Hit 6.6 Million People</title>
+      <link>https://www.infosecurity-magazine.com/news/capita-fined-14m-2023-breach-66/</link>
+      <pubDate>Wed, 15 Oct 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inspiring Futures: Empowering the Next Generation of Girls in Tech</title>
+      <link>https://news.sophos.com/en-us/2025/10/15/963244/</link>
+      <pubDate>Wed, 15 Oct 2025 08:50:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK, US Sanction Southeast Asia-Based Online Scam Network</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-us-sanction-online-scam-network/</link>
+      <pubDate>Wed, 15 Oct 2025 08:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Unencrypted satellites expose global communications</title>
@@ -111,11 +166,6 @@
       <title>Legacy Windows Protocols Still Expose Networks to Credential Theft</title>
       <link>https://www.infosecurity-magazine.com/news/legacy-windows-protocols-expose/</link>
       <pubDate>Tue, 14 Oct 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan reports surge in Chinese cyber activity and disinformation efforts</title>
-      <link>https://therecord.media/taiwan-nsb-report-china-surge-cyberattacks-influence-operations</link>
-      <pubDate>Tue, 14 Oct 2025 15:43:05 +0000</pubDate>
     </item>
     <item>
       <title>CamoLeak: GitHub Copilot Flaw Allowed Silent Data Theft</title>
@@ -256,56 +306,6 @@
       <title>npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels</title>
       <link>https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html</link>
       <pubDate>Tue, 14 Oct 2025 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 End of Support: How to Stay Protected</title>
-      <link>https://www.crowdstrike.com/en-us/blog/windows-10-end-of-support-how-to-stay-protected/</link>
-      <pubDate>Tue, 14 Oct 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain</title>
-      <link>https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html</link>
-      <pubDate>Tue, 14 Oct 2025 05:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 2025 Patch Tuesday: Two Publicly Disclosed, Three Zero-Days, and Eight Critical Vulnerabilities Among 172 CVEs</title>
-      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2025/</link>
-      <pubDate>Tue, 14 Oct 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How CrowdStrike Stops Living-off-the-Land Attacks</title>
-      <link>https://www.crowdstrike.com/en-us/blog/beyond-the-binary-stop-attackers-living-off-your-land/</link>
-      <pubDate>Tue, 14 Oct 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Mitigate Supply Chain Attacks</title>
-      <link>https://www.recordedfuture.com/blog/supply-chain-attacks</link>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers break OpenAI guardrails</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/researchers-break-openai-guardrails</link>
-      <pubDate>Mon, 13 Oct 2025 23:10:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, October 14th, 2025 https://isc.sans.edu/podcastdetail/9654, (Mon, Oct 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/32366</link>
-      <pubDate>Mon, 13 Oct 2025 22:45:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing scams exploit New York’s inflation refund program</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/phishing-scams-exploit-new-yorks-inflation-refund-program</link>
-      <pubDate>Mon, 13 Oct 2025 22:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Oracle EBS Flaw Could Expose Sensitive Data</title>
-      <link>https://www.techrepublic.com/article/news-oracle-ebs-vulnerability/</link>
-      <pubDate>Mon, 13 Oct 2025 21:40:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Customer payment data stolen in Unity Technologies’s SpeedTree website compromise</title>
-      <link>https://securityaffairs.com/183349/data-breach/customer-payment-data-stolen-in-unity-technologiess-speedtree-website-compromise.html</link>
-      <pubDate>Mon, 13 Oct 2025 18:18:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
