@@ -6,11 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 16:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 18:36:52 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 15 Oct 2025 16:20:08 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 18:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open PLC and Planet vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/open-plc-and-planet-vulnerabilities/</link>
+      <pubDate>Wed, 15 Oct 2025 17:39:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months</title>
+      <link>https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html</link>
+      <pubDate>Wed, 15 Oct 2025 17:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>F5 network compromised</title>
+      <link>https://news.sophos.com/en-us/2025/10/15/f5-network-compromised/</link>
+      <pubDate>Wed, 15 Oct 2025 17:08:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>October Patch Tuesday beats January ’25 record</title>
+      <link>https://news.sophos.com/en-us/2025/10/15/october-patch-tuesday-beats-january-25-record/</link>
+      <pubDate>Wed, 15 Oct 2025 17:06:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA warns of ‘significant’ threat to federal networks after nation-state hackers stole F5 source code, undisclosed bug info</title>
+      <link>https://therecord.media/cisa-directive-f5-nation-state-incident</link>
+      <pubDate>Wed, 15 Oct 2025 16:54:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>PowerSchool hacker sentenced to 4 years in prison</title>
+      <link>https://therecord.media/powerschool-hacker-sentenced-4-years</link>
+      <pubDate>Wed, 15 Oct 2025 16:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>TikTok scam sells you access to your own fake money</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/tiktok-scam-sells-you-access-to-your-own-fake-money</link>
+      <pubDate>Wed, 15 Oct 2025 16:18:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion</title>
+      <link>https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html</link>
+      <pubDate>Wed, 15 Oct 2025 16:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The importance of hardening customer support tools against cyberattacks</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/10/15/the-importance-of-hardening-customer-support-tools-against-attack/</link>
+      <pubDate>Wed, 15 Oct 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Architecture of Trust: How to Build with a Zero Trust Creed</title>
@@ -123,11 +168,6 @@
       <pubDate>Wed, 15 Oct 2025 10:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>Researchers report rare intrusion by suspected Chinese hackers into Russian tech firm</title>
-      <link>https://therecord.media/rare-china-linked-intrusion-russian-tech-firms</link>
-      <pubDate>Wed, 15 Oct 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Jewelbug: Chinese APT Group Widens Reach to Russia</title>
       <link>https://www.security.com/threat-intelligence/jewelbug-apt-russia</link>
       <pubDate>Wed, 15 Oct 2025 10:00:00 +0000</pubDate>
@@ -223,11 +263,6 @@
       <pubDate>Tue, 14 Oct 2025 20:39:26 +0000</pubDate>
     </item>
     <item>
-      <title>Indiana city confirms ransomware hackers behind September incident</title>
-      <link>https://therecord.media/michigan-indiana-city-ransomware</link>
-      <pubDate>Tue, 14 Oct 2025 20:38:51 +0000</pubDate>
-    </item>
-    <item>
       <title>Researchers warn of widespread RDP attacks by 100K-node botnet</title>
       <link>https://securityaffairs.com/183389/security/researchers-warn-of-widespread-rdp-attacks-by-100k-node-botnet.html</link>
       <pubDate>Tue, 14 Oct 2025 18:20:10 +0000</pubDate>
@@ -268,44 +303,9 @@
       <pubDate>Tue, 14 Oct 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>80% Lower Breach Risk: Forrester TEI Study Puts SES Complete To the Test</title>
+      <title>80% Lower Breach Risk: Forrester TEI Study Puts SES Complete to the Test</title>
       <link>https://www.security.com/feature-stories/forrester-tei-study-ses-complete</link>
       <pubDate>Tue, 14 Oct 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senior Execs Falling Short on Cyber-Attack Preparedness, NCSC Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/execs-falling-short-cyber/</link>
-      <pubDate>Tue, 14 Oct 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #72: The AI hype train, space data centers, and lifelike robot heads</title>
-      <link>https://grahamcluley.com/the-ai-fix-72/</link>
-      <pubDate>Tue, 14 Oct 2025 14:25:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harvard University hit in Oracle EBS cyberattack, 1.3 TB of data leaked by Cl0p group</title>
-      <link>https://securityaffairs.com/183379/security/harvard-university-hit-in-oracle-ebs-cyberattack-1-3-tb-of-data-leaked-by-cl0p-group.html</link>
-      <pubDate>Tue, 14 Oct 2025 14:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shift left, stay ahead: The case for early threat prevention</title>
-      <link>https://news.sophos.com/en-us/2025/10/14/prevention-first-approach-to-security-webinar/</link>
-      <pubDate>Tue, 14 Oct 2025 13:05:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-11001 and CVE-2025-11002 Vulnerabilities: Critical Flaws in 7-Zip Enable Remote Code Execution</title>
-      <link>https://socprime.com/blog/latest-threats/cve-2025-11001-and-cve-2025-11002-in-7zip/</link>
-      <pubDate>Tue, 14 Oct 2025 12:55:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-driven scams are preying on Gen Z’s digital lives​</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/ai-driven-scams-are-preying-on-gen-zs-digital-lives</link>
-      <pubDate>Tue, 14 Oct 2025 12:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pixel-stealing “Pixnapping” attack targets Android devices</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/pixel-stealing-pixnapping-attack-targets-android-devices</link>
-      <pubDate>Tue, 14 Oct 2025 12:21:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
