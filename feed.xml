@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 10:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 12:51:56 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 15 Oct 2025 10:20:03 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 12:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York secures $14 million in fines from 8 car insurance companies after data breaches</title>
+      <link>https://therecord.media/auto-insurance-companies-fined-ny-state-pre-fill-data-breaches</link>
+      <pubDate>Wed, 15 Oct 2025 12:36:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Satellites leak voice calls, text messages and more</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/satellites-still-leak-unencrypted-traffic-including-voice-calls-and-text-messages</link>
+      <pubDate>Wed, 15 Oct 2025 12:20:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capita given record £14 million fine over ransomware attack security failings</title>
+      <link>https://therecord.media/capita-record-fine-uk-ico-ransomware-attack</link>
+      <pubDate>Wed, 15 Oct 2025 12:11:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Attackers Bypass Synced Passkeys</title>
+      <link>https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html</link>
+      <pubDate>Wed, 15 Oct 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banking Scams Up 65% Globally in Past Year</title>
+      <link>https://www.techrepublic.com/article/news-banking-scams-2025/</link>
+      <pubDate>Wed, 15 Oct 2025 11:17:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple’s Bug Bounty Program</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html</link>
+      <pubDate>Wed, 15 Oct 2025 11:02:18 +0000</pubDate>
     </item>
     <item>
       <title>SAP fixed maximum-severity bug in NetWeaver</title>
@@ -38,9 +68,14 @@
       <pubDate>Wed, 15 Oct 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Last Windows 10 Patch Tuesday Features Six Zero Days</title>
+      <title>Last Windows 10 Patch Tuesday Features Six Zero-Days</title>
       <link>https://www.infosecurity-magazine.com/news/last-windows-10-patch-tuesday-six/</link>
       <pubDate>Wed, 15 Oct 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped</title>
+      <link>https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html</link>
+      <pubDate>Wed, 15 Oct 2025 09:23:00 +0000</pubDate>
     </item>
     <item>
       <title>Capita fined £14m for data protection failings in 2023 cyber-attack</title>
@@ -128,11 +163,6 @@
       <pubDate>Tue, 14 Oct 2025 20:05:03 +0000</pubDate>
     </item>
     <item>
-      <title>Feds sanction Cambodian conglomerate over cyber scams, seize $15 billion from chairman</title>
-      <link>https://therecord.media/feds-sanction-cambodian-conglomerate-scams-seize-15-billion</link>
-      <pubDate>Tue, 14 Oct 2025 19:56:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Researchers warn of widespread RDP attacks by 100K-node botnet</title>
       <link>https://securityaffairs.com/183389/security/researchers-warn-of-widespread-rdp-attacks-by-100k-node-botnet.html</link>
       <pubDate>Tue, 14 Oct 2025 18:20:10 +0000</pubDate>
@@ -156,11 +186,6 @@
       <title>Microsoft raises the bar: A smarter way to measure AI for cybersecurity</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/</link>
       <pubDate>Tue, 14 Oct 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California enacts age verification, chatbot laws</title>
-      <link>https://therecord.media/california-enacts-age-verification-chatbot-laws</link>
-      <pubDate>Tue, 14 Oct 2025 15:52:39 +0000</pubDate>
     </item>
     <item>
       <title>Legacy Windows Protocols Still Expose Networks to Credential Theft</title>
@@ -281,31 +306,6 @@
       <title>UK: NCSC Reports 130% Spike in "Nationally Significant" Cyber Incidents</title>
       <link>https://www.infosecurity-magazine.com/news/uk-ncsc-spike-national-cyber/</link>
       <pubDate>Tue, 14 Oct 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unverified COTS hardware enables persistent attacks in small satellites via SpyChain</title>
-      <link>https://securityaffairs.com/183303/hacking/unverified-cots-hardware-enables-persistent-attacks-in-small-satellites-via-spychain.html</link>
-      <pubDate>Tue, 14 Oct 2025 08:39:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The king is dead, long live the king! Windows 10 EOL and Windows 11 forensic artifacts</title>
-      <link>https://securelist.com/forensic-artifacts-in-windows-11/117680/</link>
-      <pubDate>Tue, 14 Oct 2025 08:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle issued an emergency security update to fix new E-Business Suite flaw CVE-2025-61884</title>
-      <link>https://securityaffairs.com/183362/security/oracle-issued-an-emergency-security-update-to-fix-new-e-business-suite-flaw-cve-2025-61884.html</link>
-      <pubDate>Tue, 14 Oct 2025 07:31:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extending STIX: How Custom objects empower your intelligence work</title>
-      <link>https://blog.eclecticiq.com/beyond-stix-how-custom-objects-empower-your-intelligence-work</link>
-      <pubDate>Tue, 14 Oct 2025 07:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels</title>
-      <link>https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html</link>
-      <pubDate>Tue, 14 Oct 2025 07:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
