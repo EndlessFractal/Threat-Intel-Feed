@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 06:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 08:34:51 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 15 Oct 2025 06:30:03 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 08:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unencrypted satellites expose global communications</title>
+      <link>https://securityaffairs.com/183404/hacking/unencrypted-satellites-expose-global-communications.html</link>
+      <pubDate>Wed, 15 Oct 2025 07:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flax Typhoon APT exploited ArcGIS server for over a year as a backdoor</title>
+      <link>https://securityaffairs.com/183398/apt/flax-typhoon-apt-exploited-arcgis-server-for-over-a-year-as-a-backdoor.html</link>
+      <pubDate>Wed, 15 Oct 2025 07:11:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control</title>
+      <link>https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html</link>
+      <pubDate>Wed, 15 Oct 2025 06:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access</title>
+      <link>https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html</link>
+      <pubDate>Wed, 15 Oct 2025 06:16:00 +0000</pubDate>
     </item>
     <item>
       <title>Clipboard Pictures Exfiltration in Python Infostealer, (Wed, Oct 15th)</title>
@@ -286,26 +306,6 @@
       <title>Customer payment data stolen in Unity Technologies’s SpeedTree website compromise</title>
       <link>https://securityaffairs.com/183349/data-breach/customer-payment-data-stolen-in-unity-technologiess-speedtree-website-compromise.html</link>
       <pubDate>Mon, 13 Oct 2025 18:18:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rewiring Democracy is Coming Soon</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html</link>
-      <pubDate>Mon, 13 Oct 2025 16:36:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heads Up: Scans for ESAFENET CDG V5 , (Mon, Oct 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/32364</link>
-      <pubDate>Mon, 13 Oct 2025 16:33:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a lasting security culture at Microsoft</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/10/13/building-a-lasting-security-culture-at-microsoft/</link>
-      <pubDate>Mon, 13 Oct 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target ScreenConnect Features For Network Intrusions</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-target-screenconnects/</link>
-      <pubDate>Mon, 13 Oct 2025 15:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
