@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 04:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 06:36:50 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 15 Oct 2025 04:25:04 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 06:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clipboard Pictures Exfiltration in Python Infostealer, (Wed, Oct 15th)</title>
+      <link>https://isc.sans.edu/diary/rss/32372</link>
+      <pubDate>Wed, 15 Oct 2025 05:41:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login</title>
+      <link>https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html</link>
+      <pubDate>Wed, 15 Oct 2025 05:36:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, October 15th, 2025 https://isc.sans.edu/podcastdetail/9656, (Tue, Oct 14th)</title>
@@ -228,9 +238,24 @@
       <pubDate>Tue, 14 Oct 2025 07:09:00 +0000</pubDate>
     </item>
     <item>
+      <title>Windows 10 End of Support: How to Stay Protected</title>
+      <link>https://www.crowdstrike.com/en-us/blog/windows-10-end-of-support-how-to-stay-protected/</link>
+      <pubDate>Tue, 14 Oct 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain</title>
       <link>https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html</link>
       <pubDate>Tue, 14 Oct 2025 05:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2025 Patch Tuesday: Two Publicly Disclosed, Three Zero-Days, and Eight Critical Vulnerabilities Among 172 CVEs</title>
+      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2025/</link>
+      <pubDate>Tue, 14 Oct 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How CrowdStrike Stops Living-off-the-Land Attacks</title>
+      <link>https://www.crowdstrike.com/en-us/blog/beyond-the-binary-stop-attackers-living-off-your-land/</link>
+      <pubDate>Tue, 14 Oct 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Mitigate Supply Chain Attacks</title>
@@ -281,31 +306,6 @@
       <title>Hackers Target ScreenConnect Features For Network Intrusions</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-target-screenconnects/</link>
       <pubDate>Mon, 13 Oct 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spain Arrests Alleged Leader of GXC Team Cybercrime Network</title>
-      <link>https://www.infosecurity-magazine.com/news/spain-arrests-leader-gxc-team/</link>
-      <pubDate>Mon, 13 Oct 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SimonMed Imaging discloses a data breach impacting over 1.2 million people</title>
-      <link>https://securityaffairs.com/183342/uncategorized/simonmed-imaging-discloses-a-data-breach-impacting-over-1-2-million-people.html</link>
-      <pubDate>Mon, 13 Oct 2025 14:02:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Stealit Malware Campaign Spreads via VPN and Game Installer Apps</title>
-      <link>https://www.infosecurity-magazine.com/news/new-stealit-malware-campaign-vpn/</link>
-      <pubDate>Mon, 13 Oct 2025 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel &amp; More</title>
-      <link>https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html</link>
-      <pubDate>Mon, 13 Oct 2025 13:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft revamps Internet Explorer Mode in Edge after August attacks</title>
-      <link>https://securityaffairs.com/183333/security/microsoft-revamps-internet-explorer-mode-in-edge-after-august-attacks.html</link>
-      <pubDate>Mon, 13 Oct 2025 13:17:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
