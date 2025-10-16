@@ -6,16 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 20:28:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 22:21:12 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 16 Oct 2025 22:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Brief: Nation-State Actor Steals F5 Source Code and Undisclosed Vulnerabilities</title>
+      <link>https://unit42.paloaltonetworks.com/nation-state-threat-actor-steals-f5-source-code/</link>
+      <pubDate>Thu, 16 Oct 2025 21:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dairy Farmers of America confirms June cyberattack leaked personal data</title>
+      <link>https://therecord.media/dairy-farm-leaked-info-ransomware</link>
+      <pubDate>Thu, 16 Oct 2025 21:07:52 +0000</pubDate>
+    </item>
     <item>
       <title>Ring to partner with Flock, giving law enforcement easier access to home security camera footage</title>
       <link>https://therecord.media/ring-partner-flock-law-enforcement-video</link>
       <pubDate>Thu, 16 Oct 2025 20:21:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 16 Oct 2025 20:20:03 +0000</pubDate>
     </item>
     <item>
       <title>Operation Zero Disco: Threat actors targets Cisco SNMP flaw to drop Linux rootkits</title>
@@ -61,11 +71,6 @@
       <title>From Obstacle to Accelerator: Custom Compliance for Cloud Security</title>
       <link>https://www.sentinelone.com/blog/custom-compliance-for-cloud-security/</link>
       <pubDate>Thu, 16 Oct 2025 15:27:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean hackers seen using blockchain to hide crypto-stealing malware</title>
-      <link>https://therecord.media/north-korean-hackers-using-blockchain-hiding-malware</link>
-      <pubDate>Thu, 16 Oct 2025 15:21:54 +0000</pubDate>
     </item>
     <item>
       <title>New Rootkit Campaign Exploits Cisco SNMP Flaw to Gain Persistence</title>
@@ -301,11 +306,6 @@
       <title>Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months</title>
       <link>https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html</link>
       <pubDate>Wed, 15 Oct 2025 17:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>F5 network compromised</title>
-      <link>https://news.sophos.com/en-us/2025/10/15/f5-network-compromised/</link>
-      <pubDate>Wed, 15 Oct 2025 17:08:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
