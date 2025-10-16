@@ -6,16 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 14:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 16:32:52 +0000</lastBuildDate>
+    <item>
+      <title>Infocon: green</title>
+      <link>https://isc.sans.edu/diary.html?rss</link>
+      <pubDate>Thu, 16 Oct 2025 16:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>New DShield Support Slack, (Thu, Oct 16th)</title>
+      <link>https://isc.sans.edu/diary/rss/32376</link>
+      <pubDate>Thu, 16 Oct 2025 15:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Obstacle to Accelerator: Custom Compliance for Cloud Security</title>
+      <link>https://www.sentinelone.com/blog/custom-compliance-for-cloud-security/</link>
+      <pubDate>Thu, 16 Oct 2025 15:27:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean hackers seen using blockchain to hide crypto-stealing malware</title>
+      <link>https://therecord.media/north-korean-hackers-using-blockchain-hiding-malware</link>
+      <pubDate>Thu, 16 Oct 2025 15:21:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Rootkit Campaign Exploits Cisco SNMP Flaw to Gain Persistence</title>
+      <link>https://www.infosecurity-magazine.com/news/rootkit-campaign-exploits-cisco/</link>
+      <pubDate>Thu, 16 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️SECURITY.COM The Podcast: Authentically Marketing Cybersecurity</title>
+      <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-authentically-marketing-cybersecurity</link>
+      <pubDate>Thu, 16 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts</title>
+      <link>https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html</link>
+      <pubDate>Thu, 16 Oct 2025 14:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites</title>
+      <link>https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html</link>
+      <pubDate>Thu, 16 Oct 2025 14:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets</title>
+      <link>https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html</link>
+      <pubDate>Thu, 16 Oct 2025 14:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>F5 Hit by ‘Nation-State’ Cyberattack</title>
       <link>https://www.techrepublic.com/article/news-f5-cyberattack-2025/</link>
       <pubDate>Thu, 16 Oct 2025 14:21:42 +0000</pubDate>
     </item>
     <item>
-      <title>Infocon: green</title>
-      <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 16 Oct 2025 14:20:03 +0000</pubDate>
+      <title>Video call app Huddle01 exposed 600K+ user logs</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/video-call-app-huddle01-exposed-600k-user-logs</link>
+      <pubDate>Thu, 16 Oct 2025 14:20:50 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-59230 and CVE-2025-24990 Vulnerabilities: New Windows Zero-Days Under Active Exploitation</title>
@@ -28,6 +73,11 @@
       <pubDate>Thu, 16 Oct 2025 14:08:00 +0000</pubDate>
     </item>
     <item>
+      <title>Extortion and ransomware drive over half of cyberattacks</title>
+      <link>https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/</link>
+      <pubDate>Thu, 16 Oct 2025 14:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AI Attacks Surge as Microsoft Process 100 Trillion Signals Daily</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-process-100-trillion/</link>
       <pubDate>Thu, 16 Oct 2025 14:00:00 +0000</pubDate>
@@ -36,6 +86,66 @@
       <title>LastPass Warns Customers It Has Not Been Hacked Amid Phishing Email Scam</title>
       <link>https://www.infosecurity-magazine.com/news/lastpass-not-hacked-phishing-email/</link>
       <pubDate>Thu, 16 Oct 2025 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk ViewPoint</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-03</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SiPass Integrated</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-06</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC NMS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-08</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC ET 200SP Communication Processors</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-07</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation ArmorStart AOP</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-04</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Solid Edge</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-05</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens HyperLynx and Industrial Edge App Publisher</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-10</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy MACH GWS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-11</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens TeleControl Server Basic</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-09</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk Linx</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-02</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk View Machine Edition and PanelView Plus 7</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-01</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Thirteen Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/16/cisa-releases-thirteen-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>'Categorically untrue' that China hacked UK intelligence systems, say officials</title>
@@ -196,116 +306,6 @@
       <title>The importance of hardening customer support tools against cyberattacks</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/10/15/the-importance-of-hardening-customer-support-tools-against-attack/</link>
       <pubDate>Wed, 15 Oct 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Architecture of Trust: How to Build with a Zero Trust Creed</title>
-      <link>https://www.security.com/expert-perspectives/how-build-zero-trust-creed</link>
-      <pubDate>Wed, 15 Oct 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0239 Activity Detection: Targeted Spearphishing Attacks Against Defense Forces and State Bodies of Ukraine via the OrcaC2 Framework and FILEMESS Stealer</title>
-      <link>https://socprime.com/blog/uac-0239-attack-detection/</link>
-      <pubDate>Wed, 15 Oct 2025 15:58:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flaw in Slider Revolution Plugin Exposed 4m WordPress Sites</title>
-      <link>https://www.infosecurity-magazine.com/news/flaw-slider-revolution-plugin/</link>
-      <pubDate>Wed, 15 Oct 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scammers are still sending us their fake Robinhood security alerts</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/scammers-are-still-sending-us-their-fake-robinhood-security-alerts</link>
-      <pubDate>Wed, 15 Oct 2025 15:42:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Whisper 2FA Behind One Million Phishing Attempts Since July</title>
-      <link>https://www.infosecurity-magazine.com/news/whisper-2fa-behind-1m-phishing/</link>
-      <pubDate>Wed, 15 Oct 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web  Issues Week 3, October 2025</title>
-      <link>https://asec.ahnlab.com/en/90578/</link>
-      <pubDate>Wed, 15 Oct 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC warns companies to prepare for a day when your screens go dark</title>
-      <link>https://www.fortra.com/blog/ncsc-warns-companies-prepare-screens-dark</link>
-      <pubDate>Wed, 15 Oct 2025 14:48:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>200,000 Linux systems from Framework are shipped with signed UEFI components vulnerable to Secure Boot bypass</title>
-      <link>https://securityaffairs.com/183426/hacking/200000-linux-systems-from-framework-are-shipped-with-signed-uefi-components-vulnerable-to-secure-boot-bypass.html</link>
-      <pubDate>Wed, 15 Oct 2025 14:22:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Human Risk Report Reveals Overconfidence in Phishing Defenses</title>
-      <link>https://www.techrepublic.com/article/human-risk-report-2025/</link>
-      <pubDate>Wed, 15 Oct 2025 14:16:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks</title>
-      <link>https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html</link>
-      <pubDate>Wed, 15 Oct 2025 14:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mango says some customer information exposed in cyber incident</title>
-      <link>https://therecord.media/mango-fashion-retaier-data-breach</link>
-      <pubDate>Wed, 15 Oct 2025 14:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram Goes PG-13 as Meta Reshapes Teen Safety and AI Content Rules</title>
-      <link>https://www.techrepublic.com/article/news-instagram-teen-accounts-pg13-safety/</link>
-      <pubDate>Wed, 15 Oct 2025 13:33:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maverick: a new banking Trojan abusing WhatsApp in a mass-scale distribution</title>
-      <link>https://securelist.com/maverick-banker-distributing-via-whatsapp/117715/</link>
-      <pubDate>Wed, 15 Oct 2025 13:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Satellites leak voice calls, text messages and more</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/satellites-still-leak-unencrypted-traffic-including-voice-calls-and-text-messages</link>
-      <pubDate>Wed, 15 Oct 2025 12:20:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices</link>
-      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Attackers Bypass Synced Passkeys</title>
-      <link>https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html</link>
-      <pubDate>Wed, 15 Oct 2025 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Banking Scams Up 65% Globally in Past Year</title>
-      <link>https://www.techrepublic.com/article/news-banking-scams-2025/</link>
-      <pubDate>Wed, 15 Oct 2025 11:17:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple’s Bug Bounty Program</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html</link>
-      <pubDate>Wed, 15 Oct 2025 11:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP fixed maximum-severity bug in NetWeaver</title>
-      <link>https://securityaffairs.com/183420/security/sap-fixed-maximum-severity-bug-in-netweaver.html</link>
-      <pubDate>Wed, 15 Oct 2025 10:03:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mysterious Elephant: a growing threat</title>
-      <link>https://securelist.com/mysterious-elephant-apt-ttps-and-tools/117596/</link>
-      <pubDate>Wed, 15 Oct 2025 10:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>PhantomVAI Loader Delivers a Range of Infostealers</title>
-      <link>https://unit42.paloaltonetworks.com/phantomvai-loader-delivers-infostealers/</link>
-      <pubDate>Wed, 15 Oct 2025 10:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
