@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 08:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 10:27:28 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 17 Oct 2025 08:25:04 +0000</pubDate>
+      <pubDate>Fri, 17 Oct 2025 10:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prosper data breach puts 17 million people at risk of identity theft</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/prosper-data-breach-puts-17-million-people-at-risk-of-identity-theft</link>
+      <pubDate>Fri, 17 Oct 2025 10:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post-exploitation framework now also delivered via npm</title>
+      <link>https://securelist.com/adaptixc2-agent-found-in-an-npm-package/117784/</link>
+      <pubDate>Fri, 17 Oct 2025 10:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft revokes 200+ certificates abused by Vanilla Tempest in fake Teams campaign</title>
+      <link>https://securityaffairs.com/183532/cyber-crime/microsoft-revokes-200-certificates-abused-by-vanilla-tempest-in-fake-teams-campaign.html</link>
+      <pubDate>Fri, 17 Oct 2025 09:40:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices</title>
+      <link>https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html</link>
+      <pubDate>Fri, 17 Oct 2025 09:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft’s Patch Tuesday: 172 Flaws Fixed</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-patch-tuesday-october-2025/</link>
+      <pubDate>Fri, 17 Oct 2025 09:12:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>PowerSchool hacker got four years in prison</title>
+      <link>https://securityaffairs.com/183515/security/powerschool-hacker-got-four-years-in-prison.html</link>
+      <pubDate>Fri, 17 Oct 2025 08:59:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Teams Must Deploy Anti-Infostealer Defenses Now</title>
+      <link>https://www.infosecurity-magazine.com/news/deploy-antiinfostealer-defenses/</link>
+      <pubDate>Fri, 17 Oct 2025 08:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Under the engineering hood: Why Malwarebytes chose WordPress as its CMS</title>
@@ -41,6 +76,11 @@
       <title>ISC Stormcast For Friday, October 17th, 2025 https://isc.sans.edu/podcastdetail/9660, (Fri, Oct 17th)</title>
       <link>https://isc.sans.edu/diary/rss/32378</link>
       <pubDate>Fri, 17 Oct 2025 01:45:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>HoneyBee – Misconfigured App Generator for Red Team Validation</title>
+      <link>https://www.darknet.org.uk/2025/10/honeybee-misconfigured-app-generator-for-red-team-validation/</link>
+      <pubDate>Fri, 17 Oct 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Brief: Nation-State Actor Steals F5 Source Code and Undisclosed Vulnerabilities</title>
@@ -266,46 +306,6 @@
       <title>Roku accused of selling children’s data to advertisers and brokers</title>
       <link>https://www.malwarebytes.com/blog/news/2025/10/roku-accused-of-selling-childrens-data-to-advertisers-and-brokers</link>
       <pubDate>Thu, 16 Oct 2025 10:20:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>BeaverTail and OtterCookie evolve with a new Javascript module</title>
-      <link>https://blog.talosintelligence.com/beavertail-and-ottercookie/</link>
-      <pubDate>Thu, 16 Oct 2025 10:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Laura Faria: Empathy on the front lines</title>
-      <link>https://blog.talosintelligence.com/laura-faria-empathy-on-the-front-lines/</link>
-      <pubDate>Thu, 16 Oct 2025 10:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>US and UK Lead Record Cybercrime Operation in Southeast Asia</title>
-      <link>https://www.techrepublic.com/article/cybercrime-operation-southeast-asia/</link>
-      <pubDate>Thu, 16 Oct 2025 09:52:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 23 Million Victims Hit by Data Breaches in Q3</title>
-      <link>https://www.infosecurity-magazine.com/news/over-23-million-victims-data/</link>
-      <pubDate>Thu, 16 Oct 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: $15B Crypto Bust, Satellite Spying, Billion-Dollar Smishing, Android RATs &amp; More</title>
-      <link>https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html</link>
-      <pubDate>Thu, 16 Oct 2025 09:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds SKYSEA Client View, Rapid7 Velociraptor, Microsoft Windows, and IGEL OS flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/183479/security/u-s-cisa-adds-skysea-client-view-rapid7-velociraptor-microsoft-windows-and-igel-os-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 16 Oct 2025 08:56:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>F5 Reveals Nation State Breach and Urges Immediate Patching</title>
-      <link>https://www.infosecurity-magazine.com/news/f5-nation-state-breach-immediate/</link>
-      <pubDate>Thu, 16 Oct 2025 08:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spanish fashion retailer MANGO disclosed a data breach</title>
-      <link>https://securityaffairs.com/183435/data-breach/spanish-fashion-retailer-mango-disclosed-a-data-breach.html</link>
-      <pubDate>Thu, 16 Oct 2025 08:05:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
