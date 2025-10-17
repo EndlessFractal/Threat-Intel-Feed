@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 06:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 08:33:59 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 17 Oct 2025 06:30:03 +0000</pubDate>
+      <pubDate>Fri, 17 Oct 2025 08:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Under the engineering hood: Why Malwarebytes chose WordPress as its CMS</title>
+      <link>https://www.malwarebytes.com/blog/inside-malwarebytes/2025/10/under-the-engineering-hood-why-malwarebytes-chose-wordpress-as-its-cms</link>
+      <pubDate>Fri, 17 Oct 2025 08:10:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>TikTok Videos Promoting Malware Installation, (Fri, Oct 17th)</title>
+      <link>https://isc.sans.edu/diary/rss/32380</link>
+      <pubDate>Fri, 17 Oct 2025 07:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auction house Sotheby’s disclosed a July data breach</title>
+      <link>https://securityaffairs.com/183522/data-breach/auction-house-sothebys-disclosed-a-july-data-breach.html</link>
+      <pubDate>Fri, 17 Oct 2025 07:38:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEO spam and hidden links: how to protect your website and your reputation</title>
+      <link>https://securelist.com/seo-spam-hidden-links/117782/</link>
+      <pubDate>Fri, 17 Oct 2025 07:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign</title>
+      <link>https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html</link>
+      <pubDate>Fri, 17 Oct 2025 06:03:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, October 17th, 2025 https://isc.sans.edu/podcastdetail/9660, (Fri, Oct 17th)</title>
@@ -135,6 +160,11 @@
     <item>
       <title>AI Attacks Surge as Microsoft Process 100 Trillion Signals Daily</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-process-100-trillion/</link>
+      <pubDate>Thu, 16 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving the trustworthiness of Javascript on the Web</title>
+      <link>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</link>
       <pubDate>Thu, 16 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>Spanish fashion retailer MANGO disclosed a data breach</title>
       <link>https://securityaffairs.com/183435/data-breach/spanish-fashion-retailer-mango-disclosed-a-data-breach.html</link>
       <pubDate>Thu, 16 Oct 2025 08:05:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Falcon Defends Against Git Vulnerability CVE-2025-48384</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-blocks-git-vulnerability-cve-2025-48384/</link>
-      <pubDate>Thu, 16 Oct 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack</title>
-      <link>https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html</link>
-      <pubDate>Thu, 16 Oct 2025 04:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #439: A breach, a burnout, and a bit of Fleetwood Mac</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-439/</link>
-      <pubDate>Wed, 15 Oct 2025 23:28:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, October 16th, 2025 https://isc.sans.edu/podcastdetail/9658, (Wed, Oct 15th)</title>
-      <link>https://isc.sans.edu/diary/rss/32374</link>
-      <pubDate>Wed, 15 Oct 2025 20:45:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Ransomware announced new victims</title>
-      <link>https://securityaffairs.com/183447/security/qilin-ransomware-announced-new-victims.html</link>
-      <pubDate>Wed, 15 Oct 2025 19:42:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Firewall v22 is now available in early access</title>
-      <link>https://news.sophos.com/en-us/2025/10/15/sophos-firewall-v22-is-now-available-in-early-access/</link>
-      <pubDate>Wed, 15 Oct 2025 18:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
