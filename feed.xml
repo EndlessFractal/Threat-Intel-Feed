@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 04:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 06:36:06 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 17 Oct 2025 04:25:03 +0000</pubDate>
+      <pubDate>Fri, 17 Oct 2025 06:30:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, October 17th, 2025 https://isc.sans.edu/podcastdetail/9660, (Fri, Oct 17th)</title>
@@ -208,7 +208,7 @@
       <pubDate>Thu, 16 Oct 2025 11:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in "Zero Disco' Attacks</title>
+      <title>Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in 'Zero Disco' Attacks</title>
       <link>https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html</link>
       <pubDate>Thu, 16 Oct 2025 11:38:00 +0000</pubDate>
     </item>
@@ -278,6 +278,11 @@
       <pubDate>Thu, 16 Oct 2025 08:05:09 +0000</pubDate>
     </item>
     <item>
+      <title>Falcon Defends Against Git Vulnerability CVE-2025-48384</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-blocks-git-vulnerability-cve-2025-48384/</link>
+      <pubDate>Thu, 16 Oct 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack</title>
       <link>https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html</link>
       <pubDate>Thu, 16 Oct 2025 04:26:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Sophos Firewall v22 is now available in early access</title>
       <link>https://news.sophos.com/en-us/2025/10/15/sophos-firewall-v22-is-now-available-in-early-access/</link>
       <pubDate>Wed, 15 Oct 2025 18:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A sophisticated nation-state actor breached F5 systems, stealing BIG-IP source code and data on undisclosed flaw</title>
-      <link>https://securityaffairs.com/183436/security/a-sophisticated-nation-state-actor-breached-f5-systems-stealing-big-ip-source-code-and-data-on-undisclosed-flaw.html</link>
-      <pubDate>Wed, 15 Oct 2025 18:27:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
