@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 03:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 04:30:39 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 17 Oct 2025 03:00:04 +0000</pubDate>
+      <pubDate>Fri, 17 Oct 2025 04:25:03 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, October 17th, 2025 https://isc.sans.edu/podcastdetail/9660, (Fri, Oct 17th)</title>
@@ -85,6 +85,11 @@
     <item>
       <title>🎙️SECURITY.COM The Podcast: Authentically Marketing Cybersecurity</title>
       <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-authentically-marketing-cybersecurity</link>
+      <pubDate>Thu, 16 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Security &amp; Malware Issue 3st Week of October, 2025</title>
+      <link>https://asec.ahnlab.com/en/90607/</link>
       <pubDate>Thu, 16 Oct 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>A sophisticated nation-state actor breached F5 systems, stealing BIG-IP source code and data on undisclosed flaw</title>
       <link>https://securityaffairs.com/183436/security/a-sophisticated-nation-state-actor-breached-f5-systems-stealing-big-ip-source-code-and-data-on-undisclosed-flaw.html</link>
       <pubDate>Wed, 15 Oct 2025 18:27:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open PLC and Planet vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/open-plc-and-planet-vulnerabilities/</link>
-      <pubDate>Wed, 15 Oct 2025 17:39:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
