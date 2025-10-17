@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 16:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 18:32:58 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 17 Oct 2025 16:25:03 +0000</pubDate>
+      <pubDate>Fri, 17 Oct 2025 18:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech industry association sues to block Texas ‘censorship’ law age-gating access to apps</title>
+      <link>https://therecord.media/tech-industry-texas-age-gating</link>
+      <pubDate>Fri, 17 Oct 2025 16:52:57 +0000</pubDate>
     </item>
     <item>
       <title>TikTok Videos Promoting Malware Installation, (Fri, Oct 17th)</title>
@@ -163,6 +168,11 @@
       <pubDate>Fri, 17 Oct 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>September 2025 CVE Landscape</title>
+      <link>https://www.recordedfuture.com/blog/september-2025-cve-landscape</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Threat Brief: Nation-State Actor Steals F5 Source Code and Undisclosed Vulnerabilities</title>
       <link>https://unit42.paloaltonetworks.com/nation-state-threat-actor-steals-f5-source-code/</link>
       <pubDate>Thu, 16 Oct 2025 21:30:08 +0000</pubDate>
@@ -181,11 +191,6 @@
       <title>Operation Zero Disco: Threat actors targets Cisco SNMP flaw to drop Linux rootkits</title>
       <link>https://securityaffairs.com/183508/malware/operation-zero-disco-threat-actors-targets-cisco-snmp-flaw-to-drop-linux-rootkits.html</link>
       <pubDate>Thu, 16 Oct 2025 19:52:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cambodia to repatriate South Koreans ensnared by scam industry amid diplomatic pressure</title>
-      <link>https://therecord.media/cambodia-repatriating-south-koreans-scam-compounds</link>
-      <pubDate>Thu, 16 Oct 2025 19:02:36 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware attacks and how victims respond</title>
@@ -300,11 +305,6 @@
     <item>
       <title>Rockwell Automation ArmorStart AOP</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-04</link>
-      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Solid Edge</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-289-05</link>
       <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
