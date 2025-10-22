@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 06:33:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 08:31:44 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 22 Oct 2025 06:30:04 +0000</pubDate>
+      <pubDate>Wed, 22 Oct 2025 08:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Lapsus$ Hunters Signal Shift in Tactics</title>
+      <link>https://www.infosecurity-magazine.com/news/scattered-lapsus-hunters-shift/</link>
+      <pubDate>Wed, 22 Oct 2025 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution</title>
+      <link>https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html</link>
+      <pubDate>Wed, 22 Oct 2025 07:05:00 +0000</pubDate>
     </item>
     <item>
       <title>Russia-linked COLDRIVER speeds up malware evolution after LOSTKEYS exposure</title>
@@ -296,16 +306,6 @@
       <title>WatchGuard VPN Flaw Gives Hackers Full Firewall Control</title>
       <link>https://www.techrepublic.com/article/news-watchguard-vpn-flaw/</link>
       <pubDate>Mon, 20 Oct 2025 14:12:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Driven Social Engineering Top Cyber Threat for 2026, ISACA Survey Reveals</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-social-engineering-top-cyber/</link>
-      <pubDate>Mon, 20 Oct 2025 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese gangs made over $1 billion targeting Americans with scam texts</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/chinese-gangs-made-over-1-billion-targeting-americans-with-scam-texts</link>
-      <pubDate>Mon, 20 Oct 2025 13:37:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
