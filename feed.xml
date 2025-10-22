@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 12:48:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 14:24:05 +0000</lastBuildDate>
+    <item>
+      <title>Dark Covenant 3.0: Controlled Impunity and Russia’s Cybercriminals</title>
+      <link>https://www.recordedfuture.com/research/dark-covenant-3-controlled-impunity-and-russias-cybercriminals</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 22 Oct 2025 12:45:04 +0000</pubDate>
+      <pubDate>Wed, 22 Oct 2025 14:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>We need secure products as much as we need security products</title>
+      <link>https://news.sophos.com/en-us/2025/10/22/we-need-secure-products-as-much-as-we-need-security-products/</link>
+      <pubDate>Wed, 22 Oct 2025 13:36:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>TARmageddon flaw in Async-Tar Rust library allows to smuggle extra archives when the library is processing nested TAR files</title>
+      <link>https://securityaffairs.com/183682/hacking/tarmageddon-flaw-in-async-tar-rust-library.html</link>
+      <pubDate>Wed, 22 Oct 2025 13:26:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>'PhantomCaptcha' hackers impersonate Ukrainian president’s office in attack on war relief workers</title>
+      <link>https://therecord.media/phantomcaptcha-spearphishing-campaign-ukraine-war-relief-groups</link>
+      <pubDate>Wed, 22 Oct 2025 13:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft's July Patch</title>
+      <link>https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html</link>
+      <pubDate>Wed, 22 Oct 2025 12:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jaguar Land Rover cyberattack cost $2.5 billion, says monitoring group</title>
+      <link>https://therecord.media/jaguar-land-rover-cyberattack-economic-impact</link>
+      <pubDate>Wed, 22 Oct 2025 12:51:50 +0000</pubDate>
     </item>
     <item>
       <title>What time is it? Accuracy of pool.ntp.org., (Tue, Oct 21st)</title>
@@ -36,6 +66,11 @@
       <title>JLR Hack UK's Costliest Ever, Hitting Economy with £1.9bn Loss</title>
       <link>https://www.infosecurity-magazine.com/news/jlr-hack-uk-costliest-ever-19bn/</link>
       <pubDate>Wed, 22 Oct 2025 11:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Nethereum NuGet Package Used Homoglyph Trick to Steal Crypto Wallet Keys</title>
+      <link>https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html</link>
+      <pubDate>Wed, 22 Oct 2025 11:43:00 +0000</pubDate>
     </item>
     <item>
       <title>Failures in Face Recognition</title>
@@ -271,41 +306,6 @@
       <title>Reducing abuse of Microsoft 365 Exchange Online’s Direct Send</title>
       <link>https://blog.talosintelligence.com/reducing-abuse-of-microsoft-365-exchange-onlines-direct-send/</link>
       <pubDate>Tue, 21 Oct 2025 10:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Getting salty with LLMs: SophosAI unveils new defense against jailbreaking at CAMLIS 2025</title>
-      <link>https://news.sophos.com/en-us/2025/10/21/getting-salty-with-llms-sophosai-unveils-new-defense-against-jailbreaking-at-camlis-2025/</link>
-      <pubDate>Tue, 21 Oct 2025 10:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>The evolving landscape of email phishing attacks: how threat actors are reusing and refining established techniques</title>
-      <link>https://securelist.com/email-phishing-techniques-2025/117801/</link>
-      <pubDate>Tue, 21 Oct 2025 10:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>PassiveNeuron: a sophisticated campaign targeting servers of high-profile organizations</title>
-      <link>https://securelist.com/passiveneuron-campaign-with-apt-implants-and-cobalt-strike/117745/</link>
-      <pubDate>Tue, 21 Oct 2025 08:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma Stealer Developers Doxxed in Underground Rival Cybercrime Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/lumma-stealer-developers-doxxed/</link>
-      <pubDate>Tue, 21 Oct 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers</title>
-      <link>https://thehackernews.com/2025/10/google-identifies-three-new-russian.html</link>
-      <pubDate>Tue, 21 Oct 2025 07:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network</title>
-      <link>https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html</link>
-      <pubDate>Tue, 21 Oct 2025 07:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New User Experience Transforms Interaction with the Falcon Platform</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-transforms-falcon-ux-charlotte-ai/</link>
-      <pubDate>Tue, 21 Oct 2025 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
