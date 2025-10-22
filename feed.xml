@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 16:29:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 18:33:33 +0000</lastBuildDate>
     <item>
       <title>Dark Covenant 3.0: Controlled Impunity and Russia’s Cybercriminals</title>
       <link>https://www.recordedfuture.com/research/dark-covenant-3-controlled-impunity-and-russias-cybercriminals</link>
@@ -15,7 +15,42 @@
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 22 Oct 2025 16:25:03 +0000</pubDate>
+      <pubDate>Wed, 22 Oct 2025 18:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>TP-Link urges immediate updates for Omada Gateways after critical flaws discovery</title>
+      <link>https://securityaffairs.com/183690/security/tp-link-urges-immediate-updates-for-omada-gateways-after-critical-flaws-discovery.html</link>
+      <pubDate>Wed, 22 Oct 2025 17:56:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK facing ‘most contested and complex’ threat in decades, warns GCHQ director</title>
+      <link>https://therecord.media/facing-anne-keast-decades-gchq</link>
+      <pubDate>Wed, 22 Oct 2025 17:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada Fines Cybercrime Friendly Cryptomus $176M</title>
+      <link>https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/</link>
+      <pubDate>Wed, 22 Oct 2025 17:21:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign</title>
+      <link>https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html</link>
+      <pubDate>Wed, 22 Oct 2025 17:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals turn on each other: the story of Lumma Stealer’s collapse</title>
+      <link>https://www.fortra.com/blog/cybercriminals-turn-each-other-story-lumma-stealers-collapse</link>
+      <pubDate>Wed, 22 Oct 2025 17:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files</title>
+      <link>https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html</link>
+      <pubDate>Wed, 22 Oct 2025 16:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The CISO imperative: Building resilience in an era of accelerated cyberthreats</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/</link>
+      <pubDate>Wed, 22 Oct 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Over 100 Chrome extensions break WhatsApp’s anti-spam rules</title>
@@ -91,6 +126,11 @@
       <title>Zero-click Dolby audio bug lets attackers run code on Android and Windows devices</title>
       <link>https://www.malwarebytes.com/blog/news/2025/10/zero-click-dolby-audio-bug-lets-attackers-run-code-on-android-and-windows-devices</link>
       <pubDate>Wed, 22 Oct 2025 12:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/22/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Wed, 22 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bridging the Remediation Gap: Introducing Pentera Resolve</title>
@@ -193,11 +233,6 @@
       <pubDate>Tue, 21 Oct 2025 18:55:03 +0000</pubDate>
     </item>
     <item>
-      <title>Google finds Russian state hackers replacing burned malware with new tools</title>
-      <link>https://therecord.media/coldriver-callisto-russia-hackers-new-malware-google</link>
-      <pubDate>Tue, 21 Oct 2025 17:30:45 +0000</pubDate>
-    </item>
-    <item>
       <title>The new Microsoft Security Store unites partners and innovation</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/</link>
       <pubDate>Tue, 21 Oct 2025 16:00:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Raisecomm RAX701-GC Series</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-294-06</link>
       <pubDate>Tue, 21 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Compact GuardLogix 5370</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-294-02</link>
-      <pubDate>Tue, 21 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases 10 Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/21/cisa-releases-10-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 21 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked Salt Typhoon breaches European Telecom via Citrix exploit</title>
-      <link>https://securityaffairs.com/183653/apt/china-linked-salt-typhoon-breaches-european-telecom-via-citrix-exploit.html</link>
-      <pubDate>Tue, 21 Oct 2025 11:27:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows update breaks USB support in recovery mode</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/windows-update-breaks-usb-support-in-recovery-mode</link>
-      <pubDate>Tue, 21 Oct 2025 11:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Bolton charged over classified emails after Iranian hack of his AOL account</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/john-bolton-charged-over-classified-emails-after-iranian-hack-of-his-aol-account</link>
-      <pubDate>Tue, 21 Oct 2025 11:08:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Cybersecurity Merit Badge</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/a-cybersecurity-merit-badge.html</link>
-      <pubDate>Tue, 21 Oct 2025 11:07:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing AI to Benefit from AI</title>
-      <link>https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html</link>
-      <pubDate>Tue, 21 Oct 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
