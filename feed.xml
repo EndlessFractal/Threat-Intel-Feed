@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 08:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 10:24:54 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 22 Oct 2025 08:30:03 +0000</pubDate>
+      <pubDate>Wed, 22 Oct 2025 10:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deep analysis of the flaw in BetterBank reward logic</title>
+      <link>https://securelist.com/betterbank-defi-protocol-esteem-token-bonus-minting/117822/</link>
+      <pubDate>Wed, 22 Oct 2025 10:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jingle Thief: Inside a Cloud-Based Gift Card Fraud Campaign</title>
+      <link>https://unit42.paloaltonetworks.com/cloud-based-gift-card-fraud-campaign/</link>
+      <pubDate>Wed, 22 Oct 2025 10:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>ToolShell Used to Compromise Telecoms Company in Middle East</title>
+      <link>https://www.security.com/threat-intelligence/toolshell-china-zingdoor</link>
+      <pubDate>Wed, 22 Oct 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warlock Ransomware: Old Actor, New Tricks?</title>
+      <link>https://www.security.com/threat-intelligence/warlock-ransomware-origins</link>
+      <pubDate>Wed, 22 Oct 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware</title>
+      <link>https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html</link>
+      <pubDate>Wed, 22 Oct 2025 08:58:00 +0000</pubDate>
     </item>
     <item>
       <title>Scattered Lapsus$ Hunters Signal Shift in Tactics</title>
@@ -36,6 +61,11 @@
       <title>ISC Stormcast For Wednesday, October 22nd, 2025 https://isc.sans.edu/podcastdetail/9666, (Wed, Oct 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/32392</link>
       <pubDate>Wed, 22 Oct 2025 02:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post-Quantum Cryptography in 2025 – Migration Paths, Early Movers and CISO/RedTeam Impact</title>
+      <link>https://www.darknet.org.uk/2025/10/post-quantum-cryptography-in-2025-migration-paths-early-movers-and-ciso-redteam-impact/</link>
+      <pubDate>Wed, 22 Oct 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Inside the Synthient Threat Data</title>
@@ -276,36 +306,6 @@
       <title>Judge bars NSO from targeting WhatsApp users with spyware, reduces damages in landmark case</title>
       <link>https://therecord.media/judge-bars-nso-from-targeting-whatsapp-users-lowers-damages</link>
       <pubDate>Mon, 20 Oct 2025 16:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the attack chain: Threat activity targeting Azure Blob Storage</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/10/20/inside-the-attack-chain-threat-activity-targeting-azure-blob-storage/</link>
-      <pubDate>Mon, 20 Oct 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China claims it caught US attempting cyberattack on national time center</title>
-      <link>https://therecord.media/china-attack-national-time-center</link>
-      <pubDate>Mon, 20 Oct 2025 15:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experian Fined €2.7m For GDPR Breach in Netherlands</title>
-      <link>https://www.infosecurity-magazine.com/news/experian-fined-gdpr-breach/</link>
-      <pubDate>Mon, 20 Oct 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What does Google know about me? (Lock and Code S06E21)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2025/10/what-does-google-know-about-me-lock-and-code-s06e21</link>
-      <pubDate>Mon, 20 Oct 2025 14:26:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>From inbox clutter to costly compromise: Why email threats still matter</title>
-      <link>https://news.sophos.com/en-us/2025/10/20/cyber-awareness-month-why-email-threats-still-matter/</link>
-      <pubDate>Mon, 20 Oct 2025 14:24:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>WatchGuard VPN Flaw Gives Hackers Full Firewall Control</title>
-      <link>https://www.techrepublic.com/article/news-watchguard-vpn-flaw/</link>
-      <pubDate>Mon, 20 Oct 2025 14:12:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
