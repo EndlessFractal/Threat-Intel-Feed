@@ -6,11 +6,56 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 10:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 12:48:36 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Thu, 23 Oct 2025 10:20:04 +0000</pubDate>
+      <pubDate>Thu, 23 Oct 2025 12:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infostealer Targeting Android Devices, (Thu, Oct 23rd)</title>
+      <link>https://isc.sans.edu/diary/rss/32414</link>
+      <pubDate>Thu, 23 Oct 2025 12:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-40778 and CVE-2025-40780: Cache Poisoning Vulnerabilities in BIND 9 Expose DNS Servers to the Risk of Attacks</title>
+      <link>https://socprime.com/blog/cve-2025-40778-and-cve-2025-40780-vulnerabilities/</link>
+      <pubDate>Thu, 23 Oct 2025 12:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK cyber law delays 'deeply concerning,' say MPs</title>
+      <link>https://therecord.media/britain-cyber-law-delays-opposition-mps-warning</link>
+      <pubDate>Thu, 23 Oct 2025 11:54:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Vulnerabilities Found in TP-Link VPN Routers</title>
+      <link>https://www.infosecurity-magazine.com/news/vulnerabilities-tplink-vpn-routers/</link>
+      <pubDate>Thu, 23 Oct 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple may have to open its walled garden to outside app stores</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/apple-may-have-to-open-its-walled-garden-to-outside-app-stores</link>
+      <pubDate>Thu, 23 Oct 2025 11:29:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Serious F5 Breach</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/serious-f5-breach.html</link>
+      <pubDate>Thu, 23 Oct 2025 11:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Organizations Are Abandoning Static Secrets for Managed Identities</title>
+      <link>https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html</link>
+      <pubDate>Thu, 23 Oct 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Motex LANSCOPE flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/183768/breaking-news/u-s-cisa-adds-motex-lanscope-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 23 Oct 2025 10:49:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta boosts scam protection on WhatsApp and Messenger</title>
+      <link>https://www.malwarebytes.com/blog/scams/2025/10/meta-boosts-scam-protection-on-whatsapp-and-messenger</link>
+      <pubDate>Thu, 23 Oct 2025 10:39:37 +0000</pubDate>
     </item>
     <item>
       <title>IR Trends Q3 2025: ToolShell attacks dominate, highlighting criticality of segmentation and rapid response</title>
@@ -138,11 +183,6 @@
       <pubDate>Wed, 22 Oct 2025 15:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>State attorneys general stepping up privacy enforcement, watchdog finds</title>
-      <link>https://therecord.media/state-ags-enforcement-privacy-law</link>
-      <pubDate>Wed, 22 Oct 2025 15:21:24 +0000</pubDate>
-    </item>
-    <item>
       <title>Dataminr to Acquire Cybersecurity Firm ThreatConnect in $290M Deal</title>
       <link>https://www.techrepublic.com/article/news-dataminr-buys-threatconnect/</link>
       <pubDate>Wed, 22 Oct 2025 15:20:16 +0000</pubDate>
@@ -233,13 +273,13 @@
       <pubDate>Wed, 22 Oct 2025 10:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>ToolShell Used to Compromise Telecoms Company in Middle East</title>
-      <link>https://www.security.com/threat-intelligence/toolshell-china-zingdoor</link>
+      <title>Warlock Ransomware: Old Actor, New Tricks?</title>
+      <link>https://www.security.com/threat-intelligence/warlock-ransomware-origins</link>
       <pubDate>Wed, 22 Oct 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Warlock Ransomware: Old Actor, New Tricks?</title>
-      <link>https://www.security.com/threat-intelligence/warlock-ransomware-origins</link>
+      <title>ToolShell Used to Compromise Telecoms Company in Middle East</title>
+      <link>https://www.security.com/threat-intelligence/toolshell-china-zingdoor</link>
       <pubDate>Wed, 22 Oct 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
@@ -266,46 +306,6 @@
       <title>Russia-linked COLDRIVER speeds up malware evolution after LOSTKEYS exposure</title>
       <link>https://securityaffairs.com/183672/apt/russia-linked-coldriver-speeds-up-malware-evolution-after-lostkeys-exposure.html</link>
       <pubDate>Wed, 22 Oct 2025 06:06:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Domain User to SYSTEM: Analyzing the NTLM LDAP Authentication Bypass Vulnerability (CVE-2025-54918)</title>
-      <link>https://www.crowdstrike.com/en-us/blog/analyzing-ntlm-ldap-authentication-bypass-vulnerability/</link>
-      <pubDate>Wed, 22 Oct 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution</title>
-      <link>https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html</link>
-      <pubDate>Wed, 22 Oct 2025 04:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, October 22nd, 2025 https://isc.sans.edu/podcastdetail/9666, (Wed, Oct 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/32392</link>
-      <pubDate>Wed, 22 Oct 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post-Quantum Cryptography in 2025 – Migration Paths, Early Movers and CISO/RedTeam Impact</title>
-      <link>https://www.darknet.org.uk/2025/10/post-quantum-cryptography-in-2025-migration-paths-early-movers-and-ciso-redteam-impact/</link>
-      <pubDate>Wed, 22 Oct 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 10 Takeaways from Predict 2025: Turning Intelligence Into Action</title>
-      <link>https://www.recordedfuture.com/blog/top-10-takeaways-from-predict-2025</link>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Synthient Threat Data</title>
-      <link>https://www.troyhunt.com/inside-the-synthient-threat-data/</link>
-      <pubDate>Tue, 21 Oct 2025 19:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japanese retailer Muji halted online sales after a ransomware attack on logistics partner</title>
-      <link>https://securityaffairs.com/183639/breaking-news/japanese-retailer-muji-halted-online-sales-after-a-ransomware-attack-on-logistics-partner.html</link>
-      <pubDate>Tue, 21 Oct 2025 18:55:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>The new Microsoft Security Store unites partners and innovation</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/</link>
-      <pubDate>Tue, 21 Oct 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
