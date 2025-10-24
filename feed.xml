@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Oct 2025 20:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 22:20:14 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 24 Oct 2025 20:20:03 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 22:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Discovery With AzureHound</title>
+      <link>https://unit42.paloaltonetworks.com/threat-actor-misuse-of-azurehound/</link>
+      <pubDate>Fri, 24 Oct 2025 22:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: “El Pulpo The Squid”</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html</link>
+      <pubDate>Fri, 24 Oct 2025 21:07:38 +0000</pubDate>
     </item>
     <item>
       <title>US to attend UN cybercrime treaty signing in Hanoi despite industry concerns</title>
@@ -90,6 +100,11 @@
     <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2025/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases Out-of-Band Security Update to Mitigate Windows Server Update Service Vulnerability, CVE-2025-59287</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/24/microsoft-releases-out-band-security-update-mitigate-windows-server-update-service-vulnerability-cve</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -291,21 +306,6 @@
       <title>Over 250 attacks hit Adobe Commerce and Magento via critical CVE-2025-54236 flaw</title>
       <link>https://securityaffairs.com/183754/hacking/over-250-attacks-hit-adobe-commerce-and-magento-via-critical-cve-2025-54236-flaw.html</link>
       <pubDate>Thu, 23 Oct 2025 09:22:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Jingle Thief' Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards</title>
-      <link>https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</link>
-      <pubDate>Thu, 23 Oct 2025 07:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattack on Jaguar Land Rover inflicts $2.5B loss on UK economy</title>
-      <link>https://securityaffairs.com/183733/security/cyberattack-on-jaguar-land-rover-inflicts-2-5b-loss-on-uk-economy.html</link>
-      <pubDate>Thu, 23 Oct 2025 07:25:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Master IT Fundamentals with This CompTIA Certification Prep Bundle</title>
-      <link>https://www.techrepublic.com/article/the-all-in-one-comptia-certifications-prep-courses-bundle/</link>
-      <pubDate>Thu, 23 Oct 2025 07:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
