@@ -6,11 +6,26 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Oct 2025 08:29:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 10:24:46 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Fri, 24 Oct 2025 08:25:15 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Locking it down: A new technique to prevent LLM jailbreaks</title>
+      <link>https://news.sophos.com/en-us/2025/10/24/locking-it-down-a-new-technique-to-prevent-llm-jailbreaks/</link>
+      <pubDate>Fri, 24 Oct 2025 10:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Think passwordless is too complicated? Let's clear that up</title>
+      <link>https://blog.talosintelligence.com/passwordless-mythbusting-with-cisco-duo/</link>
+      <pubDate>Fri, 24 Oct 2025 10:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked hackers exploit patched ToolShell flaw to breach Middle East telecom</title>
+      <link>https://securityaffairs.com/183800/security/china-linked-hackers-exploit-patched-toolshell-flaw-to-breach-middle-east-telecom.html</link>
+      <pubDate>Fri, 24 Oct 2025 08:37:53 +0000</pubDate>
     </item>
     <item>
       <title>Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack</title>
@@ -291,21 +306,6 @@
       <title>MuddyWater Uses Compromised Mailboxes in Global Phishing Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/muddywater-compromised-mailboxes/</link>
       <pubDate>Wed, 22 Oct 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web  Issues Week 4, October 2025</title>
-      <link>https://asec.ahnlab.com/en/90703/</link>
-      <pubDate>Wed, 22 Oct 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>webctrl.cgi/Blue Angel Software Suite Exploit Attempts. Maybe CVE-2025-34033 Variant?, (Wed, Oct 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/32410</link>
-      <pubDate>Wed, 22 Oct 2025 14:21:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>We need secure products as much as we need security products</title>
-      <link>https://news.sophos.com/en-us/2025/10/22/we-need-secure-products-as-much-as-we-need-security-products/</link>
-      <pubDate>Wed, 22 Oct 2025 13:36:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
