@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Oct 2025 14:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 18:21:12 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 25 Oct 2025 14:10:04 +0000</pubDate>
+      <pubDate>Sat, 25 Oct 2025 18:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Rosselkhoznadzor hit by DDoS attack, food shipments across Russia delayed</title>
+      <link>https://securityaffairs.com/183845/security/russian-rosselkhoznadzor-hit-by-ddos-attack-food-shipments-delayed.html</link>
+      <pubDate>Sat, 25 Oct 2025 17:52:49 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-59287: Microsoft fixes critical WSUS flaw under active attack</title>
@@ -300,11 +305,6 @@
       <title>IR Trends Q3 2025: ToolShell attacks dominate, highlighting criticality of segmentation and rapid response</title>
       <link>https://blog.talosintelligence.com/ir-trends-q3-2025/</link>
       <pubDate>Thu, 23 Oct 2025 10:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Smishing Deluge: China-Based Campaign Flooding Global Text Messages</title>
-      <link>https://unit42.paloaltonetworks.com/global-smishing-campaign/</link>
-      <pubDate>Thu, 23 Oct 2025 10:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
