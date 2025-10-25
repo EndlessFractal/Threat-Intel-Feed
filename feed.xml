@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Oct 2025 12:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 14:13:51 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 25 Oct 2025 12:20:04 +0000</pubDate>
+      <pubDate>Sat, 25 Oct 2025 14:10:04 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-59287: Microsoft fixes critical WSUS flaw under active attack</title>
@@ -188,6 +188,11 @@
       <pubDate>Thu, 23 Oct 2025 16:56:56 +0000</pubDate>
     </item>
     <item>
+      <title>Harden your identity defense with improved protection, deeper correlation, and richer context</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/</link>
+      <pubDate>Thu, 23 Oct 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pakistani-Linked Hacker Group Targets Indian Government</title>
       <link>https://www.infosecurity-magazine.com/news/pakistani-hacker-group-targets/</link>
       <pubDate>Thu, 23 Oct 2025 15:30:00 +0000</pubDate>
@@ -300,11 +305,6 @@
       <title>The Smishing Deluge: China-Based Campaign Flooding Global Text Messages</title>
       <link>https://unit42.paloaltonetworks.com/global-smishing-campaign/</link>
       <pubDate>Thu, 23 Oct 2025 10:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma Stealer Vacuum Filled by Upgraded Vidar 2.0 Infostealer, Researchers Say</title>
-      <link>https://www.infosecurity-magazine.com/news/lumma-stealer-vacuum-filled-vidar-2/</link>
-      <pubDate>Thu, 23 Oct 2025 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
