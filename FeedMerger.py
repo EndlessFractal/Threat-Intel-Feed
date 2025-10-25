@@ -7,52 +7,65 @@ from dateutil import parser as date_parser
 from feedgen.feed import FeedGenerator
 import feedparser
 import pytz
+import requests
 
 # Convert dt to UTC
 def convert_to_utc(dt):
     return dt.astimezone(pytz.utc) if dt else datetime.min.replace(tzinfo=pytz.utc)
 
 # Parse date with tz info
+TZINFOS = {"EDT": pytz.timezone("America/New_York"),
+           "EST": pytz.timezone("America/New_York")}
+
 def parse_date(date_str):
     try:
-        tzinfos = {"EDT": pytz.timezone("America/New_York"),
-                   "EST": pytz.timezone("America/New_York")}
-        return date_parser.parse(date_str, tzinfos=tzinfos)
+        return date_parser.parse(date_str, tzinfos=TZINFOS)
     except Exception as e:
         print(f"Parse error: {date_str} - {e}")
         return None
 
 # Key for sorting entries by published date
 def sort_key(entry):
-    if hasattr(entry, 'published'):
-        dt = parse_date(entry.published)
+    date_str = getattr(entry, 'published', None) or getattr(entry, 'updated', None)
+    if date_str:
+        dt = parse_date(date_str)
         if dt:
             return convert_to_utc(dt)
     return datetime.min.replace(tzinfo=pytz.utc)
 
-# Fetch feed entries with retries
-def fetch_feed(url, max_retries=3, delay=5):
+# Fetch feed entries with retries and timeout
+def fetch_feed(url, max_retries=2, delay=3, timeout=5):
     for attempt in range(max_retries):
         try:
-            feed = feedparser.parse(url)
+            resp = requests.get(url, timeout=timeout)
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
             if hasattr(feed, 'entries'):
                 return feed.entries
+        except (requests.Timeout, concurrent.futures.TimeoutError):
+            print(f"Timeout: {url} (attempt {attempt + 1})")
         except Exception as e:
             print(f"Error fetching {url} (attempt {attempt + 1}): {e}")
         time.sleep(delay)
     return []
 
-
 # Combine feeds and remove duplicate links
 def combine_rss_feeds(feed_urls):
     combined = []
     seen = set()
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        for entries in executor.map(fetch_feed, feed_urls):
-            for entry in entries:
-                if entry.link not in seen:
-                    seen.add(entry.link)
-                    combined.append(entry)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=min(10, len(feed_urls))) as executor:
+        future_to_url = {executor.submit(fetch_feed, url): url for url in feed_urls}
+        for future in concurrent.futures.as_completed(future_to_url):
+            url = future_to_url[future]
+            try:
+                entries = future.result()
+                for entry in entries:
+                    if entry.link not in seen:
+                        seen.add(entry.link)
+                        combined.append(entry)
+            except Exception as exc:
+                print(f"Feed {url} generated an exception: {exc}")
+
     return sorted(combined, key=sort_key)
 
 # Create and save RSS feed XML

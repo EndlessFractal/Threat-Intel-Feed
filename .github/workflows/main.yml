@@ -11,12 +11,10 @@ jobs:
 
     steps:
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/checkout@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.13"
-
-      - name: Checkout code
-        uses: actions/checkout@v4
+          python-version: '3.13'
 
       - name: Install dependencies
         run: |
@@ -32,13 +30,20 @@ jobs:
         run: python FeedMerger.py
 
       - name: Check for feed updates
+        id: check_changes
         run: |
-          if git diff --quiet -I '^[[:space:]]*<(lastBuildDate|pubDate)>.*' HEAD -- feed.xml; then
+          if diff -q \
+            <(git show HEAD:feed.xml | grep -v -E '<(pubDate|lastBuildDate)>') \
+            <(cat feed.xml | grep -v -E '<(pubDate|lastBuildDate)>') > /dev/null; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
             echo "No meaningful changes to commit."
-            exit 0
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Meaningful changes detected in feed.xml"
           fi
 
       - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
         run: |
           git add feed.xml
           git commit -am "Update RSS feed"
