@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Oct 2025 08:25:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 10:20:15 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sat, 25 Oct 2025 08:20:04 +0000</pubDate>
+      <pubDate>Sat, 25 Oct 2025 10:20:04 +0000</pubDate>
     </item>
     <item>
       <title>Cloud Discovery With AzureHound</title>
@@ -121,6 +121,11 @@
       <title>The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently</title>
       <link>https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html</link>
       <pubDate>Fri, 24 Oct 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Locking it down: A new technique to prevent LLM jailbreaks</title>
+      <link>https://news.sophos.com/en-us/2025/10/24/locking-it-down-a-new-technique-to-prevent-llm-jailbreaks/</link>
+      <pubDate>Fri, 24 Oct 2025 10:00:12 +0000</pubDate>
     </item>
     <item>
       <title>Think passwordless is too complicated? Let's clear that up</title>
@@ -301,11 +306,6 @@
       <title>Over 250 attacks hit Adobe Commerce and Magento via critical CVE-2025-54236 flaw</title>
       <link>https://securityaffairs.com/183754/hacking/over-250-attacks-hit-adobe-commerce-and-magento-via-critical-cve-2025-54236-flaw.html</link>
       <pubDate>Thu, 23 Oct 2025 09:22:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Jingle Thief' Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards</title>
-      <link>https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</link>
-      <pubDate>Thu, 23 Oct 2025 07:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
