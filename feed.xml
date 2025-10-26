@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 16:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 18:21:49 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Sun, 26 Oct 2025 16:15:03 +0000</pubDate>
+      <pubDate>Sun, 26 Oct 2025 18:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Safepay ransomware group claims the hack of professional video surveillance provider Xortec</title>
+      <link>https://securityaffairs.com/183868/malware/safepay-ransomware-group-claims-the-hack-of-professional-video-surveillance-provider-xortec.html</link>
+      <pubDate>Sun, 26 Oct 2025 17:07:44 +0000</pubDate>
     </item>
     <item>
       <title>Kaitai Struct WebIDE, (Sun, Oct 26th)</title>
@@ -203,6 +208,11 @@
       <pubDate>Fri, 24 Oct 2025 00:39:18 +0000</pubDate>
     </item>
     <item>
+      <title>How to Prevent Ransomware | Recorded Future</title>
+      <link>https://www.recordedfuture.com/blog/how-to-prevent-ransomware</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pwn2Own Day 2: Organizers paid $792K for 56 0-days</title>
       <link>https://securityaffairs.com/183792/hacking/pwn2own-day-2-organizers-paid-792k-for-56-0-days.html</link>
       <pubDate>Thu, 23 Oct 2025 23:49:54 +0000</pubDate>
@@ -295,16 +305,6 @@
       <title>Secure AI at Scale and Speed — Learn the Framework in this Free Webinar</title>
       <link>https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html</link>
       <pubDate>Thu, 23 Oct 2025 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Vulnerabilities Found in TP-Link VPN Routers</title>
-      <link>https://www.infosecurity-magazine.com/news/vulnerabilities-tplink-vpn-routers/</link>
-      <pubDate>Thu, 23 Oct 2025 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack &amp; More</title>
-      <link>https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html</link>
-      <pubDate>Thu, 23 Oct 2025 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
