@@ -6,11 +6,25 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 12:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 14:18:06 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 27 Oct 2025 12:35:03 +0000</pubDate>
+      <pubDate>Mon, 27 Oct 2025 14:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Evolving Role of AI Governance: Turning Risk into Responsibility</title>
+      <link>https://levelblue.com/blogs/security-essentials/the-evolving-role-of-ai-governance-turning-risk-into-responsibility</link>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens</title>
+      <link>https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html</link>
+      <pubDate>Mon, 27 Oct 2025 12:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA releases warning about Windows Server Update Service bug, orders agencies to patch</title>
+      <link>https://therecord.media/wsus-vulnerability-cisa-late-friday-warning</link>
+      <pubDate>Mon, 27 Oct 2025 12:44:55 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-61932 Exploitation: A New Critical Motex LANSCOPE Endpoint Manager Vulnerability Used in Real-World Attacks</title>
@@ -273,11 +287,6 @@
       <pubDate>Fri, 24 Oct 2025 02:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>North Korean hacking group targeting European drone maker with ScoringMathTea malware</title>
-      <link>https://therecord.media/north-korea-hackers-target-europe-drone-makers</link>
-      <pubDate>Fri, 24 Oct 2025 01:05:19 +0000</pubDate>
-    </item>
-    <item>
       <title>NetExec – Network Execution Toolkit for Windows and Active Directory</title>
       <link>https://www.darknet.org.uk/2025/10/netexec-network-execution-toolkit-for-windows-and-active-directory/</link>
       <pubDate>Fri, 24 Oct 2025 01:00:00 +0000</pubDate>
@@ -296,16 +305,6 @@
       <title>Strings in the maze: Finding hidden strengths and gaps in your team</title>
       <link>https://blog.talosintelligence.com/strings-in-the-maze/</link>
       <pubDate>Thu, 23 Oct 2025 18:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thousands of online stores at risk as SessionReaper attacks spread</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/thousands-of-online-stores-at-risk-as-sessionreaper-attacks-spread</link>
-      <pubDate>Thu, 23 Oct 2025 16:56:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harden your identity defense with improved protection, deeper correlation, and richer context</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/</link>
-      <pubDate>Thu, 23 Oct 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
