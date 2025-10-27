@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 10:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 12:36:55 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 27 Oct 2025 10:15:03 +0000</pubDate>
+      <pubDate>Mon, 27 Oct 2025 12:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-61932 Exploitation: A New Critical Motex LANSCOPE Endpoint Manager Vulnerability Used in Real-World Attacks</title>
+      <link>https://socprime.com/blog/cve-2025-61932-vulnerability-exploitation/</link>
+      <pubDate>Mon, 27 Oct 2025 11:37:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tata Consultancy Services Refutes Losing M&amp;S Contract After Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/tcs-refutes-losing-ms-contract/</link>
+      <pubDate>Mon, 27 Oct 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>First Wap: A Surveillance Computer You’ve Never Heard Of</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html</link>
+      <pubDate>Mon, 27 Oct 2025 11:08:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Fraud Cases Surge 17% Annually</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-fraud-cases-surge-17-annually/</link>
+      <pubDate>Mon, 27 Oct 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux variant of Qilin Ransomware targets Windows via remote management tools and BYOVD</title>
+      <link>https://securityaffairs.com/183891/malware/linux-variant-of-qilin-ransomware-targets-windows-via-remote-management-tools-and-byovd.html</link>
+      <pubDate>Mon, 27 Oct 2025 10:45:05 +0000</pubDate>
     </item>
     <item>
       <title>Critical WordPress Plugin Bugs Exploited En Masse</title>
@@ -26,6 +51,11 @@
       <title>How We (Almost) Found Chromium's Bug via Crash Reports to Report URI</title>
       <link>https://www.troyhunt.com/how-we-almost-found-chromiums-bug-via-crash-reports-to-report-uri/</link>
       <pubDate>Mon, 27 Oct 2025 09:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack</title>
+      <link>https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html</link>
+      <pubDate>Mon, 27 Oct 2025 08:55:00 +0000</pubDate>
     </item>
     <item>
       <title>Wordfence blocks 8.7M attacks exploiting old GutenKit and Hunk Companion flaws</title>
@@ -263,11 +293,6 @@
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pwn2Own Day 2: Organizers paid $792K for 56 0-days</title>
-      <link>https://securityaffairs.com/183792/hacking/pwn2own-day-2-organizers-paid-792k-for-56-0-days.html</link>
-      <pubDate>Thu, 23 Oct 2025 23:49:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Strings in the maze: Finding hidden strengths and gaps in your team</title>
       <link>https://blog.talosintelligence.com/strings-in-the-maze/</link>
       <pubDate>Thu, 23 Oct 2025 18:00:57 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>Harden your identity defense with improved protection, deeper correlation, and richer context</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/</link>
       <pubDate>Thu, 23 Oct 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pakistani-Linked Hacker Group Targets Indian Government</title>
-      <link>https://www.infosecurity-magazine.com/news/pakistani-hacker-group-targets/</link>
-      <pubDate>Thu, 23 Oct 2025 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets</title>
-      <link>https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html</link>
-      <pubDate>Thu, 23 Oct 2025 15:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIHON KOHDEN Central Monitor CNS-6201</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-296-01</link>
-      <pubDate>Thu, 23 Oct 2025 15:27:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile Security &amp; Malware Issue 4st Week of October, 2025</title>
-      <link>https://asec.ahnlab.com/en/90720/</link>
-      <pubDate>Thu, 23 Oct 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus Group’s Operation DreamJob Targets European Defense Firms</title>
-      <link>https://www.infosecurity-magazine.com/news/lazarus-groups-operation-dreamjob/</link>
-      <pubDate>Thu, 23 Oct 2025 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
