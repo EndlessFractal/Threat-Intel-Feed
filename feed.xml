@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 16:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 18:25:15 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 27 Oct 2025 16:20:03 +0000</pubDate>
+      <pubDate>Mon, 27 Oct 2025 18:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italian-made spyware spotted in breaches of Russian, Belarusian systems</title>
+      <link>https://therecord.media/memento-labs-formerly-hacking-team-dante-spyware-russia-kaspersky</link>
+      <pubDate>Mon, 27 Oct 2025 18:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cities reverse course on automated license plate reader cameras amid privacy concerns</title>
+      <link>https://therecord.media/cities-reverse-course-on-automated-license-plate-reader-cameras</link>
+      <pubDate>Mon, 27 Oct 2025 17:36:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Ransomware Group Publishes Over 40 Cases Monthly</title>
+      <link>https://www.infosecurity-magazine.com/news/qilin-ransomware-40-cases-monthly/</link>
+      <pubDate>Mon, 27 Oct 2025 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts</title>
+      <link>https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html</link>
+      <pubDate>Mon, 27 Oct 2025 16:12:00 +0000</pubDate>
     </item>
     <item>
       <title>Europol Warns of Rising Threat From Caller ID Spoofing Attacks</title>
@@ -122,6 +142,11 @@
       <pubDate>Mon, 27 Oct 2025 07:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Named the Leader in 2025 Frost Radar for SaaS Security Posture Management</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2025-frost-radar-sspm/</link>
+      <pubDate>Mon, 27 Oct 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Mem3nt0 mori – The Hacking Team is back!</title>
       <link>https://securelist.com/forumtroll-apt-hacking-team-dante-spyware/117851/</link>
       <pubDate>Mon, 27 Oct 2025 03:00:20 +0000</pubDate>
@@ -207,11 +232,6 @@
       <pubDate>Fri, 24 Oct 2025 18:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>Calling TeaOnHer’s content 'seemingly illegal,' lawmakers demand info from company</title>
-      <link>https://therecord.media/teaonher-app-letter-house-oversight-republicans</link>
-      <pubDate>Fri, 24 Oct 2025 17:31:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation</title>
       <link>https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html</link>
       <pubDate>Fri, 24 Oct 2025 16:30:00 +0000</pubDate>
@@ -245,11 +265,6 @@
       <title>How To Prepare for the Quantum Shift</title>
       <link>https://www.security.com/expert-perspectives/how-prepare-quantum-shift</link>
       <pubDate>Fri, 24 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter Ransomware Initiative stresses importance of supply-chain security</title>
-      <link>https://therecord.media/counter-ransomware-initiative-software-supply-chain-guidance</link>
-      <pubDate>Fri, 24 Oct 2025 12:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Blitz Spear Phishing Campaign Targets NGOs Supporting Ukraine</title>
@@ -290,21 +305,6 @@
       <title>Locking it down: A new technique to prevent LLM jailbreaks</title>
       <link>https://news.sophos.com/en-us/2025/10/24/locking-it-down-a-new-technique-to-prevent-llm-jailbreaks/</link>
       <pubDate>Fri, 24 Oct 2025 10:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Think passwordless is too complicated? Let's clear that up</title>
-      <link>https://blog.talosintelligence.com/passwordless-mythbusting-with-cisco-duo/</link>
-      <pubDate>Fri, 24 Oct 2025 10:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation</title>
-      <link>https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html</link>
-      <pubDate>Fri, 24 Oct 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack</title>
-      <link>https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html</link>
-      <pubDate>Fri, 24 Oct 2025 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
