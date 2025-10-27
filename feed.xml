@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 14:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 16:21:50 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 27 Oct 2025 14:15:03 +0000</pubDate>
+      <pubDate>Mon, 27 Oct 2025 16:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Warns of Rising Threat From Caller ID Spoofing Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/europol-warns-id-spoofing-attacks/</link>
+      <pubDate>Mon, 27 Oct 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What brain privacy will look like in the age of neurotech</title>
+      <link>https://therecord.media/what-brain-privacy-will-look-like</link>
+      <pubDate>Mon, 27 Oct 2025 15:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Louvre Jewel Heist</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/louvre-jewel-heist.html</link>
+      <pubDate>Mon, 27 Oct 2025 15:03:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to set up two factor authentication (2FA) on your Instagram account</title>
+      <link>https://www.malwarebytes.com/blog/how-to/2025/10/how-to-set-up-two-factor-authentication-2fa-on-your-instagram-account</link>
+      <pubDate>Mon, 27 Oct 2025 14:53:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crafted URLs can trick OpenAI Atlas into running dangerous commands</title>
+      <link>https://securityaffairs.com/183900/hacking/crafted-urls-can-trick-openai-atlas-into-running-dangerous-commands.html</link>
+      <pubDate>Mon, 27 Oct 2025 14:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands</title>
+      <link>https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html</link>
+      <pubDate>Mon, 27 Oct 2025 14:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing scam uses fake death notices to trick LastPass users</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/phishing-scam-uses-fake-death-notices-to-trick-lastpass-users</link>
+      <pubDate>Mon, 27 Oct 2025 14:15:50 +0000</pubDate>
     </item>
     <item>
       <title>The Evolving Role of AI Governance: Turning Risk into Responsibility</title>
@@ -222,11 +257,6 @@
       <pubDate>Fri, 24 Oct 2025 12:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberattack on Russia’s food safety agency reportedly disrupts product shipments</title>
-      <link>https://therecord.media/russia-food-safety-agency-rosselkhoznadzor-ddos-attack</link>
-      <pubDate>Fri, 24 Oct 2025 12:08:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Summoning Team won Master of Pwn as Pwn2Own Ireland Rewards $1,024,750</title>
       <link>https://securityaffairs.com/183810/hacking/summoning-team-won-master-of-pwn-as-pwn2own-ireland-rewards-1024750.html</link>
       <pubDate>Fri, 24 Oct 2025 12:02:59 +0000</pubDate>
@@ -272,39 +302,9 @@
       <pubDate>Fri, 24 Oct 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>China-linked hackers exploit patched ToolShell flaw to breach Middle East telecom</title>
-      <link>https://securityaffairs.com/183800/security/china-linked-hackers-exploit-patched-toolshell-flaw-to-breach-middle-east-telecom.html</link>
-      <pubDate>Fri, 24 Oct 2025 08:37:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack</title>
       <link>https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html</link>
       <pubDate>Fri, 24 Oct 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, October 24th, 2025 https://isc.sans.edu/podcastdetail/9670, (Fri, Oct 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/32418</link>
-      <pubDate>Fri, 24 Oct 2025 02:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>NetExec – Network Execution Toolkit for Windows and Active Directory</title>
-      <link>https://www.darknet.org.uk/2025/10/netexec-network-execution-toolkit-for-windows-and-active-directory/</link>
-      <pubDate>Fri, 24 Oct 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing Cloud Account for Information, (Thu, Oct 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/32416</link>
-      <pubDate>Fri, 24 Oct 2025 00:39:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Prevent Ransomware | Recorded Future</title>
-      <link>https://www.recordedfuture.com/blog/how-to-prevent-ransomware</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strings in the maze: Finding hidden strengths and gaps in your team</title>
-      <link>https://blog.talosintelligence.com/strings-in-the-maze/</link>
-      <pubDate>Thu, 23 Oct 2025 18:00:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
