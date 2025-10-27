@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 08:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 10:20:08 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Mon, 27 Oct 2025 08:20:03 +0000</pubDate>
+      <pubDate>Mon, 27 Oct 2025 10:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical WordPress Plugin Bugs Exploited En Masse</title>
+      <link>https://www.infosecurity-magazine.com/news/critical-wordpress-plugin-bugs/</link>
+      <pubDate>Mon, 27 Oct 2025 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bytes over DNS, (Mon, Oct 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/32420</link>
+      <pubDate>Mon, 27 Oct 2025 09:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>How We (Almost) Found Chromium's Bug via Crash Reports to Report URI</title>
+      <link>https://www.troyhunt.com/how-we-almost-found-chromiums-bug-via-crash-reports-to-report-uri/</link>
+      <pubDate>Mon, 27 Oct 2025 09:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wordfence blocks 8.7M attacks exploiting old GutenKit and Hunk Companion flaws</title>
+      <link>https://securityaffairs.com/183876/uncategorized/wordfence-blocks-8-7m-attacks-exploiting-old-gutenkit-and-hunk-companion-flaws.html</link>
+      <pubDate>Mon, 27 Oct 2025 08:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands</title>
+      <link>https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html</link>
+      <pubDate>Mon, 27 Oct 2025 07:29:00 +0000</pubDate>
     </item>
     <item>
       <title>A week in security (October 20 – October 26)</title>
@@ -243,11 +268,6 @@
       <pubDate>Thu, 23 Oct 2025 23:49:54 +0000</pubDate>
     </item>
     <item>
-      <title>Lazarus targets European defense firms in UAV-themed Operation DreamJob</title>
-      <link>https://securityaffairs.com/183783/apt/lazarus-targets-european-defense-firms-in-uav-themed-operation-dreamjob.html</link>
-      <pubDate>Thu, 23 Oct 2025 18:40:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Strings in the maze: Finding hidden strengths and gaps in your team</title>
       <link>https://blog.talosintelligence.com/strings-in-the-maze/</link>
       <pubDate>Thu, 23 Oct 2025 18:00:57 +0000</pubDate>
@@ -286,25 +306,6 @@
       <title>Lazarus Group’s Operation DreamJob Targets European Defense Firms</title>
       <link>https://www.infosecurity-magazine.com/news/lazarus-groups-operation-dreamjob/</link>
       <pubDate>Thu, 23 Oct 2025 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Rise of Phantom Cyber Firms: How to Spot Them and What to Verify Before You Engage</title>
-      <link>https://levelblue.com/blogs/security-essentials/the-rise-of-phantom-cyber-firms-how-to-spot-them-and-what-to-verify-before-you-engage</link>
-    </item>
-    <item>
-      <title>Infostealer Targeting Android Devices, (Thu, Oct 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/32414</link>
-      <pubDate>Thu, 23 Oct 2025 12:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-40778 and CVE-2025-40780: Cache Poisoning Vulnerabilities in BIND 9 Expose DNS Servers to the Risk of Attacks</title>
-      <link>https://socprime.com/blog/cve-2025-40778-and-cve-2025-40780-vulnerabilities/</link>
-      <pubDate>Thu, 23 Oct 2025 12:01:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>AutomationDirect Productivity Suite</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-296-01</link>
-      <pubDate>Thu, 23 Oct 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
