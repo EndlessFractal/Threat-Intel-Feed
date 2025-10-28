@@ -6,21 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 14:17:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 16:22:52 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 28 Oct 2025 14:15:04 +0000</pubDate>
+      <pubDate>Tue, 28 Oct 2025 16:20:03 +0000</pubDate>
     </item>
     <item>
-      <title>183M Gmail-Linked Credentials Exposed in Massive Breach</title>
+      <title>Chrome Zero-Day Actively Exploited in Attacks by Mem3nt0 mori</title>
+      <link>https://www.infosecurity-magazine.com/news/chrome-zero-day-flaw-exploited/</link>
+      <pubDate>Tue, 28 Oct 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android malware mimics human typing to evade detection, steal money</title>
+      <link>https://therecord.media/android-malware-mimics-humans-avoid-detection</link>
+      <pubDate>Tue, 28 Oct 2025 15:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #74: AGI, LLM brain rot, and how to scam an AI browser</title>
+      <link>https://grahamcluley.com/the-ai-fix-74/</link>
+      <pubDate>Tue, 28 Oct 2025 15:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lawsuit against NYPD alleges its surveillance system is unconstitutional</title>
+      <link>https://therecord.media/nypd-domain-awareness-system-civil-rights-lawsuit</link>
+      <pubDate>Tue, 28 Oct 2025 15:34:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nation-State Cyber Ecosystems Weakened by Sanctions, Report Reveals</title>
+      <link>https://www.infosecurity-magazine.com/news/nation-state-cyber-weakened/</link>
+      <pubDate>Tue, 28 Oct 2025 15:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Tips for a Healthier Cybersecurity Program</title>
+      <link>https://www.security.com/feature-stories/5-tips-healthier-cybersecurity-program</link>
+      <pubDate>Tue, 28 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Everest group claimed the hack of Sweden’s power grid operator Svenska kraftnät</title>
+      <link>https://securityaffairs.com/183963/cyber-crime/everest-group-claimed-the-hack-of-swedens-power-grid-operator-svenska-kraftnat.html</link>
+      <pubDate>Tue, 28 Oct 2025 14:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clearview AI sued in Europe over alleged privacy violations</title>
+      <link>https://therecord.media/clearview-ai-sued-europe-alleged-privacy-violations</link>
+      <pubDate>Tue, 28 Oct 2025 14:53:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Around 70 countries sign new UN Cybercrime Convention—but not everyone’s on board</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/10/around-70-countries-sign-new-un-cybercrime-convention-but-not-everyones-on-board</link>
+      <pubDate>Tue, 28 Oct 2025 14:23:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gmail-Linked Credentials Exposed in Massive Breach</title>
       <link>https://www.techrepublic.com/article/news-183m-gmail-accounts-breach/</link>
       <pubDate>Tue, 28 Oct 2025 13:20:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keeping the Internet fast and secure: introducing Merkle Tree Certificates</title>
-      <link>https://blog.cloudflare.com/bootstrap-mtc/</link>
-      <pubDate>Tue, 28 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Quarter of Scam Victims Have Considered Self-Harm</title>
@@ -123,16 +163,6 @@
       <pubDate>Mon, 27 Oct 2025 19:18:29 +0000</pubDate>
     </item>
     <item>
-      <title>Italian-made spyware spotted in breaches of Russian, Belarusian systems</title>
-      <link>https://therecord.media/memento-labs-formerly-hacking-team-dante-spyware-russia-kaspersky</link>
-      <pubDate>Mon, 27 Oct 2025 18:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cities reverse course on automated license plate reader cameras amid privacy concerns</title>
-      <link>https://therecord.media/cities-reverse-course-on-automated-license-plate-reader-cameras</link>
-      <pubDate>Mon, 27 Oct 2025 17:36:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Qilin Ransomware Group Publishes Over 40 Cases Monthly</title>
       <link>https://www.infosecurity-magazine.com/news/qilin-ransomware-40-cases-monthly/</link>
       <pubDate>Mon, 27 Oct 2025 16:45:00 +0000</pubDate>
@@ -146,11 +176,6 @@
       <title>Europol Warns of Rising Threat From Caller ID Spoofing Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/europol-warns-id-spoofing-attacks/</link>
       <pubDate>Mon, 27 Oct 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What brain privacy will look like in the age of neurotech</title>
-      <link>https://therecord.media/what-brain-privacy-will-look-like</link>
-      <pubDate>Mon, 27 Oct 2025 15:07:30 +0000</pubDate>
     </item>
     <item>
       <title>Louvre Jewel Heist</title>
@@ -280,31 +305,6 @@
       <title>Kaitai Struct WebIDE, (Sun, Oct 26th)</title>
       <link>https://isc.sans.edu/diary/rss/32422</link>
       <pubDate>Sun, 26 Oct 2025 16:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 68</title>
-      <link>https://securityaffairs.com/183862/security/security-affairs-malware-newsletter-round-68.html</link>
-      <pubDate>Sun, 26 Oct 2025 13:02:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Awareness Month: Protecting Your Child in the Digital Age</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cyber-awareness-month-protecting-your-child-in-the-digital-age</link>
-      <pubDate>Sun, 26 Oct 2025 09:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 547 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/183850/breaking-news/security-affairs-newsletter-round-547-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 26 Oct 2025 04:37:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 475</title>
-      <link>https://www.troyhunt.com/weekly-update-475/</link>
-      <pubDate>Sat, 25 Oct 2025 21:32:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud Discovery With AzureHound</title>
-      <link>https://unit42.paloaltonetworks.com/threat-actor-misuse-of-azurehound/</link>
-      <pubDate>Fri, 24 Oct 2025 22:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
