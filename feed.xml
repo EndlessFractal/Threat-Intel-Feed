@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 08:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 10:19:29 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 28 Oct 2025 08:20:03 +0000</pubDate>
+      <pubDate>Tue, 28 Oct 2025 10:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>A phishing with invisible characters in the subject line, (Tue, Oct 28th)</title>
+      <link>https://isc.sans.edu/diary/rss/32428</link>
+      <pubDate>Tue, 28 Oct 2025 10:12:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>EclecticIQ Intelligence Center 3.6: Built for finished intel, custom data modeling, and faster investigations</title>
+      <link>https://blog.eclecticiq.com/eclecticiq-intelligence-center-3.6-built-for-finished-intel-custom-data-modeling-and-faster-investigations</link>
+      <pubDate>Tue, 28 Oct 2025 09:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Actively Exploited WSUS Bug Added to CISA KEV List</title>
+      <link>https://www.infosecurity-magazine.com/news/actively-exploited-wsus-bug-cisa/</link>
+      <pubDate>Tue, 28 Oct 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware payments hit record low: only 23% Pay in Q3 2025</title>
+      <link>https://securityaffairs.com/183941/cyber-crime/ransomware-payments-hit-record-low-only-23-pay-in-q3-2025.html</link>
+      <pubDate>Tue, 28 Oct 2025 09:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware</title>
+      <link>https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html</link>
+      <pubDate>Tue, 28 Oct 2025 08:22:00 +0000</pubDate>
     </item>
     <item>
       <title>X warns users to re-enroll passkeys and YubiKeys for 2FA by Nov 10</title>
@@ -237,11 +262,6 @@
       <pubDate>Sat, 25 Oct 2025 17:52:49 +0000</pubDate>
     </item>
     <item>
-      <title>CVE-2025-59287: Microsoft fixes critical WSUS flaw under active attack</title>
-      <link>https://securityaffairs.com/183830/security/cve-2025-59287-microsoft-fixes-critical-wsus-flaw-under-active-attack.html</link>
-      <pubDate>Sat, 25 Oct 2025 10:49:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Cloud Discovery With AzureHound</title>
       <link>https://unit42.paloaltonetworks.com/threat-actor-misuse-of-azurehound/</link>
       <pubDate>Fri, 24 Oct 2025 22:00:01 +0000</pubDate>
@@ -285,26 +305,6 @@
       <title>Is AI moving faster than its safety net?</title>
       <link>https://www.malwarebytes.com/blog/news/2025/10/is-ai-moving-faster-than-its-safety-net</link>
       <pubDate>Fri, 24 Oct 2025 13:35:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>How To Prepare for the Quantum Shift</title>
-      <link>https://www.security.com/expert-perspectives/how-prepare-quantum-shift</link>
-      <pubDate>Fri, 24 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blitz Spear Phishing Campaign Targets NGOs Supporting Ukraine</title>
-      <link>https://www.infosecurity-magazine.com/news/blitz-spear-phishing-ngos-ukraine/</link>
-      <pubDate>Fri, 24 Oct 2025 12:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases Out-of-Band Security Update to Mitigate Windows Server Update Service Vulnerability, CVE-2025-59287</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/24/microsoft-releases-out-band-security-update-mitigate-windows-server-update-service-vulnerability-cve</link>
-      <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
