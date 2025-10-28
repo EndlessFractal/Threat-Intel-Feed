@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 16:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 18:26:09 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 28 Oct 2025 16:20:03 +0000</pubDate>
+      <pubDate>Tue, 28 Oct 2025 18:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers warn of Qilin ransomware gang after group hit hundreds of orgs this year</title>
+      <link>https://therecord.media/qilin-ransomware-gang-hits-hundreds-of-orgs-2025</link>
+      <pubDate>Tue, 28 Oct 2025 18:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investment Scams Spread Across Asia With International Reach</title>
+      <link>https://www.infosecurity-magazine.com/news/investment-scams-spread-across-asia/</link>
+      <pubDate>Tue, 28 Oct 2025 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human</title>
+      <link>https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html</link>
+      <pubDate>Tue, 28 Oct 2025 16:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains</title>
+      <link>https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html</link>
+      <pubDate>Tue, 28 Oct 2025 16:12:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome Zero-Day Actively Exploited in Attacks by Mem3nt0 mori</title>
@@ -36,6 +56,11 @@
       <title>Nation-State Cyber Ecosystems Weakened by Sanctions, Report Reveals</title>
       <link>https://www.infosecurity-magazine.com/news/nation-state-cyber-weakened/</link>
       <pubDate>Tue, 28 Oct 2025 15:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vertikal Systems Hospital Manager Backend Services</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-301-01</link>
+      <pubDate>Tue, 28 Oct 2025 15:10:34 +0000</pubDate>
     </item>
     <item>
       <title>5 Tips for a Healthier Cybersecurity Program</title>
@@ -76,6 +101,21 @@
       <title>UN’s First Global Cybercrime Treaty Sparks Debate Over Privacy and Surveillance</title>
       <link>https://www.techrepublic.com/article/news-un-cybercrime-treaty/</link>
       <pubDate>Tue, 28 Oct 2025 12:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxure</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-301-01</link>
+      <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Three Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/28/cisa-releases-three-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Early Threat Detection Is a Must for Long-Term Business Growth</title>
@@ -143,6 +183,11 @@
       <pubDate>Tue, 28 Oct 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Digital Risk Management Strategies</title>
+      <link>https://www.recordedfuture.com/blog/digital-risk-management-strategies</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>US declines to join more than 70 countries in signing UN cybercrime treaty</title>
       <link>https://therecord.media/us-declines-signing-cybercrime-treaty</link>
       <pubDate>Mon, 27 Oct 2025 21:08:22 +0000</pubDate>
@@ -156,11 +201,6 @@
       <title>Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild</title>
       <link>https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/</link>
       <pubDate>Mon, 27 Oct 2025 19:45:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sweden’s power grid operator confirms data breach claimed by ransomware gang</title>
-      <link>https://therecord.media/sweden-power-grid-operator-data</link>
-      <pubDate>Mon, 27 Oct 2025 19:18:29 +0000</pubDate>
     </item>
     <item>
       <title>Qilin Ransomware Group Publishes Over 40 Cases Monthly</title>
@@ -265,46 +305,6 @@
       <title>ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands</title>
       <link>https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html</link>
       <pubDate>Mon, 27 Oct 2025 07:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (October 20 – October 26)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/a-week-in-security-october-20-october-26</link>
-      <pubDate>Mon, 27 Oct 2025 07:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Named the Leader in 2025 Frost Radar for SaaS Security Posture Management</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2025-frost-radar-sspm/</link>
-      <pubDate>Mon, 27 Oct 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mem3nt0 mori – The Hacking Team is back!</title>
-      <link>https://securelist.com/forumtroll-apt-hacking-team-dante-spyware/117851/</link>
-      <pubDate>Mon, 27 Oct 2025 03:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uncovering Qilin attack methods exposed through multiple cases</title>
-      <link>https://blog.talosintelligence.com/uncovering-qilin-attack-methods-exposed-through-multiple-cases/</link>
-      <pubDate>Mon, 27 Oct 2025 02:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, October 27th, 2025 https://isc.sans.edu/podcastdetail/9672, (Mon, Oct 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/32424</link>
-      <pubDate>Mon, 27 Oct 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reaper – Unified Application Security Testing with AI Support</title>
-      <link>https://www.darknet.org.uk/2025/10/reaper-unified-application-security-testing-with-ai-support/</link>
-      <pubDate>Mon, 27 Oct 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Safepay ransomware group claims the hack of professional video surveillance provider Xortec</title>
-      <link>https://securityaffairs.com/183868/malware/safepay-ransomware-group-claims-the-hack-of-professional-video-surveillance-provider-xortec.html</link>
-      <pubDate>Sun, 26 Oct 2025 17:07:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kaitai Struct WebIDE, (Sun, Oct 26th)</title>
-      <link>https://isc.sans.edu/diary/rss/32422</link>
-      <pubDate>Sun, 26 Oct 2025 16:01:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
