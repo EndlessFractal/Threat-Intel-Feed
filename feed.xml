@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 22:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 01:20:38 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Tue, 28 Oct 2025 22:15:03 +0000</pubDate>
+      <pubDate>Wed, 29 Oct 2025 01:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepfake-as-a-Service 2025 – How Voice Cloning and Synthetic Media Fraud Are Changing Enterprise Defenses</title>
+      <link>https://www.darknet.org.uk/2025/10/deepfake-as-a-service-2025-how-voice-cloning-and-synthetic-media-fraud-are-changing-enterprise-defenses/</link>
+      <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aisuru Botnet Shifts from DDoS to Residential Proxies</title>
+      <link>https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/</link>
+      <pubDate>Wed, 29 Oct 2025 00:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bots, Bread and the Battle for the Web</title>
+      <link>https://unit42.paloaltonetworks.com/malicious-seo-and-ai/</link>
+      <pubDate>Tue, 28 Oct 2025 23:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28)</title>
+      <link>https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/</link>
+      <pubDate>Tue, 28 Oct 2025 22:30:54 +0000</pubDate>
     </item>
     <item>
       <title>Aisuru botnet is behind record 20Tb/sec DDoS attacks</title>
@@ -213,11 +233,6 @@
       <pubDate>Mon, 27 Oct 2025 20:31:13 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28)</title>
-      <link>https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/</link>
-      <pubDate>Mon, 27 Oct 2025 19:45:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Qilin Ransomware Group Publishes Over 40 Cases Monthly</title>
       <link>https://www.infosecurity-magazine.com/news/qilin-ransomware-40-cases-monthly/</link>
       <pubDate>Mon, 27 Oct 2025 16:45:00 +0000</pubDate>
@@ -290,21 +305,6 @@
       <title>Linux variant of Qilin Ransomware targets Windows via remote management tools and BYOVD</title>
       <link>https://securityaffairs.com/183891/malware/linux-variant-of-qilin-ransomware-targets-windows-via-remote-management-tools-and-byovd.html</link>
       <pubDate>Mon, 27 Oct 2025 10:45:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical WordPress Plugin Bugs Exploited En Masse</title>
-      <link>https://www.infosecurity-magazine.com/news/critical-wordpress-plugin-bugs/</link>
-      <pubDate>Mon, 27 Oct 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bytes over DNS, (Mon, Oct 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/32420</link>
-      <pubDate>Mon, 27 Oct 2025 09:10:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>How We (Almost) Found Chromium's Bug via Crash Reports to Report URI</title>
-      <link>https://www.troyhunt.com/how-we-almost-found-chromiums-bug-via-crash-reports-to-report-uri/</link>
-      <pubDate>Mon, 27 Oct 2025 09:09:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
