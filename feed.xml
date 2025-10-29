@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 14:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 16:22:57 +0000</lastBuildDate>
     <item>
       <title>Infocon: green</title>
       <link>https://isc.sans.edu/diary.html?rss</link>
-      <pubDate>Wed, 29 Oct 2025 14:15:03 +0000</pubDate>
+      <pubDate>Wed, 29 Oct 2025 16:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome to Make HTTPS Mandatory by Default in 2026</title>
+      <link>https://www.infosecurity-magazine.com/news/chrome-https-mandatory-2026/</link>
+      <pubDate>Wed, 29 Oct 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Former Meta lobbyist’s appointment to Irish data commission ‘conflict of interest,’ complaint alleges</title>
+      <link>https://therecord.media/meta-lobbyist-ireland-dpc-conflict</link>
+      <pubDate>Wed, 29 Oct 2025 15:46:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices</title>
+      <link>https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html</link>
+      <pubDate>Wed, 29 Oct 2025 15:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall v22: Health Check</title>
+      <link>https://news.sophos.com/en-us/2025/10/29/sophos-firewall-v22-health-check/</link>
+      <pubDate>Wed, 29 Oct 2025 15:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Legends: Inside the Mind of a STAR</title>
+      <link>https://www.security.com/feature-stories/cyber-legends-inside-mind-star</link>
+      <pubDate>Wed, 29 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts</title>
+      <link>https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html</link>
+      <pubDate>Wed, 29 Oct 2025 14:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian hackers, likely linked to Sandworm, exploit legitimate tools against Ukrainian targets</title>
+      <link>https://securityaffairs.com/183999/apt/russian-hackers-likely-linked-to-sandworm-exploit-legitimate-tools-against-ukrainian-targets.html</link>
+      <pubDate>Wed, 29 Oct 2025 14:56:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Misfire: Teen Handcuffed After AI Mistakes Doritos for Gun</title>
+      <link>https://www.techrepublic.com/article/news-ai-mistakes-doritos-for-gun/</link>
+      <pubDate>Wed, 29 Oct 2025 14:24:33 +0000</pubDate>
     </item>
     <item>
       <title>Npm Malware Uses Invisible Dependencies to Infect Dozens of Packages</title>
@@ -30,6 +70,16 @@
     <item>
       <title>LevelBlue Named a Major Player in the IDC MarketScape: Worldwide Extended Detection and Response Software 2025 Vendor Assessment</title>
       <link>https://levelblue.com/blogs/security-essentials/levelblue-named-a-major-player-in-the-idc-marketscape-worldwide-extended-detection-and-response-software-2025-vendor-assessment</link>
+    </item>
+    <item>
+      <title>Defending QUIC from acknowledgement-based DDoS attacks</title>
+      <link>https://blog.cloudflare.com/defending-quic-from-acknowledgement-based-ddos-attacks/</link>
+      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One IP address, many users: detecting CGNAT to reduce collateral effects</title>
+      <link>https://blog.cloudflare.com/detecting-cgn-to-reduce-collateral-damage/</link>
+      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Gmail breach panic? It’s a misunderstanding, not a hack</title>
@@ -202,11 +252,6 @@
       <pubDate>Tue, 28 Oct 2025 15:34:38 +0000</pubDate>
     </item>
     <item>
-      <title>Lawsuit against NYPD alleges its surveillance system is unconstitutional</title>
-      <link>https://therecord.media/nypd-domain-awareness-system-civil-rights-lawsuit</link>
-      <pubDate>Tue, 28 Oct 2025 15:34:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Nation-State Cyber Ecosystems Weakened by Sanctions, Report Reveals</title>
       <link>https://www.infosecurity-magazine.com/news/nation-state-cyber-weakened/</link>
       <pubDate>Tue, 28 Oct 2025 15:15:00 +0000</pubDate>
@@ -260,51 +305,6 @@
       <title>Schneider Electric EcoStruxure</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-301-01</link>
       <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Three Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/28/cisa-releases-three-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Early Threat Detection Is a Must for Long-Term Business Growth</title>
-      <link>https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html</link>
-      <pubDate>Tue, 28 Oct 2025 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NSFW ChatGPT? OpenAI plans “grown-up mode” for verified adults</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/nsfw-chatgpt-openai-plans-grown-up-mode-for-verified-adults</link>
-      <pubDate>Tue, 28 Oct 2025 11:39:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Social Engineering People’s Credit Card Details</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html</link>
-      <pubDate>Tue, 28 Oct 2025 11:01:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Your Google Workspace as Secure as You Think it is?</title>
-      <link>https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html</link>
-      <pubDate>Tue, 28 Oct 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A phishing with invisible characters in the subject line, (Tue, Oct 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/32428</link>
-      <pubDate>Tue, 28 Oct 2025 10:12:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>EclecticIQ Intelligence Center 3.6: Built for finished intel, custom data modeling, and faster investigations</title>
-      <link>https://blog.eclecticiq.com/eclecticiq-intelligence-center-3.6-built-for-finished-intel-custom-data-modeling-and-faster-investigations</link>
-      <pubDate>Tue, 28 Oct 2025 09:55:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Actively Exploited WSUS Bug Added to CISA KEV List</title>
-      <link>https://www.infosecurity-magazine.com/news/actively-exploited-wsus-bug-cisa/</link>
-      <pubDate>Tue, 28 Oct 2025 09:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
