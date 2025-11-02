@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 14:13:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 18:20:41 +0000</lastBuildDate>
+    <item>
+      <title>Scans for Port 8530/8531 (TCP). Likely related to WSUS Vulnerability CVE-2025-59287, (Sun, Nov 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/32440</link>
+      <pubDate>Sun, 02 Nov 2025 17:50:48 +0000</pubDate>
+    </item>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 69</title>
       <link>https://securityaffairs.com/184123/malware/security-affairs-malware-newsletter-round-69.html</link>
@@ -301,11 +306,6 @@
       <title>X-Request-Purpose: Identifying "research" and bug bounty related scans?, (Thu, Oct 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32436</link>
       <pubDate>Thu, 30 Oct 2025 13:22:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake PayPal invoice from Geek Squad is a tech support scam</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/10/fake-paypal-invoice-from-geek-squad-is-a-tech-support-scam</link>
-      <pubDate>Thu, 30 Oct 2025 13:19:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
