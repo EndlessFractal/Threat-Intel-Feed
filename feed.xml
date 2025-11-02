@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 18:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 22:14:34 +0000</lastBuildDate>
+    <item>
+      <title>Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody</title>
+      <link>https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/</link>
+      <pubDate>Sun, 02 Nov 2025 20:37:24 +0000</pubDate>
+    </item>
     <item>
       <title>Scans for Port 8530/8531 (TCP). Likely related to WSUS Vulnerability CVE-2025-59287, (Sun, Nov 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/32440</link>
@@ -301,11 +306,6 @@
       <title>CVE-2025-59287 Detection: A Critical Unauthenticated RCE Vulnerability in Microsoft WSUS Under Active Exploitation</title>
       <link>https://socprime.com/blog/cve-2025-59287-detection/</link>
       <pubDate>Thu, 30 Oct 2025 13:46:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>X-Request-Purpose: Identifying "research" and bug bounty related scans?, (Thu, Oct 30th)</title>
-      <link>https://isc.sans.edu/diary/rss/32436</link>
-      <pubDate>Thu, 30 Oct 2025 13:22:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
