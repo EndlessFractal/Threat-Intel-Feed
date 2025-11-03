@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 18:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 20:19:26 +0000</lastBuildDate>
+    <item>
+      <title>Lawmakers ask FTC to probe Flock Safety’s cybersecurity practices</title>
+      <link>https://therecord.media/wyden-letter-ftc-flock-safety-investigate-cybersecurity-practices</link>
+      <pubDate>Mon, 03 Nov 2025 19:53:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cargo theft gets a boost from hackers using remote monitoring tools</title>
+      <link>https://therecord.media/cargo-theft-hackers-remote-monitoring-tools</link>
+      <pubDate>Mon, 03 Nov 2025 19:34:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data breach costs lead to 90% drop in operating profit at South Korean telecom giant</title>
+      <link>https://therecord.media/data-breach-costs-lead-to-profit-decline-south-korea-telecom</link>
+      <pubDate>Mon, 03 Nov 2025 19:15:11 +0000</pubDate>
+    </item>
     <item>
       <title>Defeating KASLR by Doing Nothing at All</title>
       <link>https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html</link>
       <pubDate>Mon, 03 Nov 2025 18:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious VSX Extension "SleepyDuck" Uses Ethereum to Keep Its Command Server Alive</title>
+      <link>https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html</link>
+      <pubDate>Mon, 03 Nov 2025 18:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SesameOp: Novel backdoor uses OpenAI Assistants API for command and control</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/</link>
+      <pubDate>Mon, 03 Nov 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>An Attacker’s Mindset and the Thrill of the Hunt</title>
@@ -193,29 +218,14 @@
       <pubDate>Sat, 01 Nov 2025 13:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>University of Pennsylvania investigating offensive email sent through graduate school system</title>
-      <link>https://therecord.media/upenn-hacker-email-affirmative</link>
-      <pubDate>Fri, 31 Oct 2025 21:32:39 +0000</pubDate>
-    </item>
-    <item>
       <title>Friday Squid Blogging: Giant Squid at the Smithsonian</title>
       <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html</link>
       <pubDate>Fri, 31 Oct 2025 21:06:18 +0000</pubDate>
     </item>
     <item>
-      <title>FCC plans vote to remove cyber regulations installed after theft of Trump info from telecoms</title>
-      <link>https://therecord.media/fcc-plans-vote-rescind-biden-era-ruling-telecoms-cyber</link>
-      <pubDate>Fri, 31 Oct 2025 18:54:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Old Linux Kernel flaw CVE-2024-1086 resurfaces in ransomware attacks</title>
       <link>https://securityaffairs.com/184076/security/old-linux-kernel-flaw-cve-2024-1086-resurfaces-in-ransomware-attacks.html</link>
       <pubDate>Fri, 31 Oct 2025 18:11:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese hackers scanning, exploiting Cisco ASA firewalls used by governments worldwide</title>
-      <link>https://therecord.media/chinese-hackers-scan-exploit-firewalls-government</link>
-      <pubDate>Fri, 31 Oct 2025 17:33:59 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically</title>
@@ -296,16 +306,6 @@
       <title>Facial Recognition Firm Clearview AI Hit with Criminal Complaint in Austria</title>
       <link>https://www.infosecurity-magazine.com/news/clearview-ai-hit-with-criminal/</link>
       <pubDate>Fri, 31 Oct 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>When AI Agents Go Rogue: Agent Session Smuggling Attack in A2A Systems</title>
-      <link>https://unit42.paloaltonetworks.com/agent-session-smuggling-in-agent2agent-systems/</link>
-      <pubDate>Fri, 31 Oct 2025 10:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers</title>
-      <link>https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html</link>
-      <pubDate>Fri, 31 Oct 2025 08:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
