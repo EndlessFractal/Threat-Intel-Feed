@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 16:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 18:24:12 +0000</lastBuildDate>
+    <item>
+      <title>Defeating KASLR by Doing Nothing at All</title>
+      <link>https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html</link>
+      <pubDate>Mon, 03 Nov 2025 18:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Attacker’s Mindset and the Thrill of the Hunt</title>
+      <link>https://www.security.com/expert-perspectives/attacker-mindset-thrill-hunt</link>
+      <pubDate>Mon, 03 Nov 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and NSA Outline Best Practices to Secure Exchange Servers</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-nsa-secure-exchange-servers/</link>
+      <pubDate>Mon, 03 Nov 2025 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack of the clones: Fake ChatGPT apps are everywhere</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/11/attack-of-the-clones-fake-chatgpt-apps-are-everywhere</link>
+      <pubDate>Mon, 03 Nov 2025 16:01:17 +0000</pubDate>
+    </item>
     <item>
       <title>New GDI Flaws Could Enable Remote Code Execution in Windows</title>
       <link>https://www.infosecurity-magazine.com/news/gdi-flaws-enable-rce-windows/</link>
@@ -286,26 +306,6 @@
       <title>CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers</title>
       <link>https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html</link>
       <pubDate>Fri, 31 Oct 2025 08:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery</title>
-      <link>https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html</link>
-      <pubDate>Fri, 31 Oct 2025 08:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks</title>
-      <link>https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html</link>
-      <pubDate>Fri, 31 Oct 2025 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do</title>
-      <link>https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html</link>
-      <pubDate>Fri, 31 Oct 2025 03:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, October 31st, 2025 https://isc.sans.edu/podcastdetail/9680, (Fri, Oct 31st)</title>
-      <link>https://isc.sans.edu/diary/rss/32438</link>
-      <pubDate>Fri, 31 Oct 2025 02:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
