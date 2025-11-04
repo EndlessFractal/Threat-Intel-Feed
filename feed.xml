@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 10:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 12:38:13 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2024-1086 Vulnerability: Critical Privilege Escalation Flaw in Linux Kernel Exploited in the Ransomware Attacks</title>
+      <link>https://socprime.com/blog/cve-2024-1086-vulnerability/</link>
+      <pubDate>Tue, 04 Nov 2025 12:34:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches Everything, Again, (Tue, Nov 4th)</title>
+      <link>https://isc.sans.edu/diary/rss/32448</link>
+      <pubDate>Tue, 04 Nov 2025 12:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Targeting Payroll Sites</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html</link>
+      <pubDate>Tue, 04 Nov 2025 12:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Big Sleep found five vulnerabilities in Safari</title>
+      <link>https://securityaffairs.com/184184/security/google-big-sleep-found-five-vulnerabilities-in-safari.html</link>
+      <pubDate>Tue, 04 Nov 2025 11:53:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Defense Using the Wazuh Open Source Platform</title>
+      <link>https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html</link>
+      <pubDate>Tue, 04 Nov 2025 11:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors</title>
+      <link>https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html</link>
+      <pubDate>Tue, 04 Nov 2025 10:49:00 +0000</pubDate>
+    </item>
     <item>
       <title>DeFi Protocol Balancer Loses Over $120m in Cyber Heist</title>
       <link>https://www.infosecurity-magazine.com/news/defi-protocol-balancer-loses-120m/</link>
@@ -253,11 +283,6 @@
       <pubDate>Sat, 01 Nov 2025 17:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>China-linked UNC6384 exploits Windows zero-day to spy on European diplomats</title>
-      <link>https://securityaffairs.com/184083/apt/china-linked-unc6384-exploits-windows-zero-day-to-spy-on-european-diplomats.html</link>
-      <pubDate>Sat, 01 Nov 2025 14:11:12 +0000</pubDate>
-    </item>
-    <item>
       <title>ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability</title>
       <link>https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html</link>
       <pubDate>Sat, 01 Nov 2025 13:43:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack</title>
       <link>https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html</link>
       <pubDate>Fri, 31 Oct 2025 16:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conduent Data Breach Impacts Over 10.5 Million Individuals</title>
-      <link>https://www.infosecurity-magazine.com/news/conduent-data-breach-10-million/</link>
-      <pubDate>Fri, 31 Oct 2025 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats</title>
-      <link>https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html</link>
-      <pubDate>Fri, 31 Oct 2025 13:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems</title>
-      <link>https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html</link>
-      <pubDate>Fri, 31 Oct 2025 13:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 44</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/</link>
-      <pubDate>Fri, 31 Oct 2025 13:11:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud Abuse at Scale</title>
-      <link>https://feeds.fortinet.com/~/927010508/0/fortinet/blog/threat-research~Cloud-Abuse-at-Scale</link>
-      <pubDate>Fri, 31 Oct 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
