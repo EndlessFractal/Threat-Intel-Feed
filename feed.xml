@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 22:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 01:18:04 +0000</lastBuildDate>
     <item>
       <title>More than $100 million stolen in exploit of Balancer DeFi protocol</title>
       <link>https://therecord.media/crypto-heist-balancer-exploit</link>
@@ -111,6 +111,11 @@
       <title>⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool &amp; More</title>
       <link>https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html</link>
       <pubDate>Mon, 03 Nov 2025 12:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated November 3)</title>
+      <link>https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/</link>
+      <pubDate>Mon, 03 Nov 2025 12:45:54 +0000</pubDate>
     </item>
     <item>
       <title>AI Summarization Optimization</title>
@@ -301,11 +306,6 @@
       <title>Phake phishing: Phundamental or pholly?</title>
       <link>https://news.sophos.com/en-us/2025/10/31/phake-phishing-phundamental-or-pholly/</link>
       <pubDate>Fri, 31 Oct 2025 11:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facial Recognition Firm Clearview AI Hit with Criminal Complaint in Austria</title>
-      <link>https://www.infosecurity-magazine.com/news/clearview-ai-hit-with-criminal/</link>
-      <pubDate>Fri, 31 Oct 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
