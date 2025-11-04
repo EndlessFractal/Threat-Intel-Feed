@@ -9,6 +9,7 @@ on:
 jobs:
   update_after_feed:
     runs-on: ubuntu-latest
+    if: needs.update_feed.outputs.committed == 'true'
 
     steps:
       - name: Checkout code

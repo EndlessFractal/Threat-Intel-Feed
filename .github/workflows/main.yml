@@ -8,6 +8,8 @@ on:
 jobs:
   update_feed:
     runs-on: ubuntu-latest
+    outputs:
+      committed: ${{ steps.check.outputs.changed }}
 
     steps:
       - name: Checkout code
