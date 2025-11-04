@@ -11,33 +11,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v5
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.13'
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install feedparser
-        pip install requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser requests
 
-    - name: Run Python script
-      env:
-        SECRET_WEBHOOK_URL: ${{ secrets.SECRET_WEBHOOK_URL }}
-        SECRET_WEBHOOK_URL2: ${{ secrets.SECRET_WEBHOOK_URL2 }}
-      run: |
-        python RSSparser.py $SECRET_WEBHOOK_URL $SECRET_WEBHOOK_URL2
+      - name: Run Python script
+        env:
+          SECRET_WEBHOOK_URL: ${{ secrets.SECRET_WEBHOOK_URL }}
+          SECRET_WEBHOOK_URL2: ${{ secrets.SECRET_WEBHOOK_URL2 }}
+        run: |
+          python RSSparser.py "$SECRET_WEBHOOK_URL" "$SECRET_WEBHOOK_URL2"
 
-        if [ "$(git status --porcelain)" ]; then
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@github.com"
-          git add posted_links.txt
-          git commit -am "Updated posted_links.txt"
-          git push
-        else
-          echo "No new payloads found. Exiting cleanly."
-        fi
+      - name: Commit and push changes if any
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.name "${{ github.actor }}"
+            git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+            git add posted_links.txt
+            git commit -m "Updated posted_links.txt"
+            git push
+          else
+            echo "No new payloads found. Exiting cleanly."
+          fi
