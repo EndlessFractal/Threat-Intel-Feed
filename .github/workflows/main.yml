@@ -8,7 +8,6 @@ on:
 jobs:
   update_feed:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v5
@@ -23,26 +22,30 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
-      - name: Run Python script
+      - name: Run Parser
         run: python FeedMerger.py
 
-      - name: Stage files
-        run: |
-          git add feed.xml posted_links.txt
-
-      - name: Check for changes
-        id: check
-        run: |
-          if git diff --quiet --staged -- posted_links.txt; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Commit and push changes
-        if: steps.check.outputs.changed == 'true'
+      - name: Set git config
         run: |
           git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --global user.email "${{ github.actor }}@github.com"
+
+      - name: Check for feed updates
+        id: check_changes
+        run: |
+          if diff -q --ignore-all-space \
+            <(git show HEAD:feed.xml | grep -v -E '<(pubDate|lastBuildDate)>') \
+            <(cat feed.xml | grep -v -E '<(pubDate|lastBuildDate)>') > /dev/null; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No meaningful changes to commit."
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Meaningful changes detected in feed.xml"
+          fi
+
+      - name: Commit changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git add feed.xml
           git commit -m "Update RSS feed"
           git push
