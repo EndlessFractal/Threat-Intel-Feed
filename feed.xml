@@ -6,7 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 12:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 14:17:57 +0000</lastBuildDate>
+    <item>
+      <title>Dissecting and Understanding APT Threat Group Activity</title>
+      <link>https://levelblue.com/blogs/security-essentials/dissecting-and-understanding-apt-threat-group-activity</link>
+    </item>
+    <item>
+      <title>Russia’s Sandworm hackers deploying wipers against Ukraine’s grain industry</title>
+      <link>https://therecord.media/russia-sandworm-grain-wipers</link>
+      <pubDate>Thu, 06 Nov 2025 12:53:47 +0000</pubDate>
+    </item>
     <item>
       <title>Rigged Poker Games</title>
       <link>https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html</link>
@@ -16,6 +25,16 @@
       <title>Hacktivist-Driven DDoS Dominates Attacks on Public Sector</title>
       <link>https://www.infosecurity-magazine.com/news/hacktivistdriven-ddos-attacks/</link>
       <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Tabletop to Turnkey: Building Cyber Resilience in Financial Services</title>
+      <link>https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html</link>
+      <pubDate>Thu, 06 Nov 2025 11:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks &amp; More</title>
+      <link>https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html</link>
+      <pubDate>Thu, 06 Nov 2025 11:40:00 +0000</pubDate>
     </item>
     <item>
       <title>Do robots dream of secure networking? Teaching cybersecurity to AI systems</title>
@@ -88,6 +107,11 @@
       <pubDate>Thu, 06 Nov 2025 00:30:28 +0000</pubDate>
     </item>
     <item>
+      <title>Malicious Infrastructure Finds Stability with aurologic GmbH</title>
+      <link>https://www.recordedfuture.com/research/malicious-infrastructure-finds-stability-with-aurologic-gmbh</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SonicWall blames state-sponsored hackers for September security breach</title>
       <link>https://securityaffairs.com/184258/security/sonicwall-blames-state-sponsored-hackers-for-september-security-breach.html</link>
       <pubDate>Wed, 05 Nov 2025 21:54:25 +0000</pubDate>
@@ -158,23 +182,18 @@
       <pubDate>Wed, 05 Nov 2025 15:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>Europe police bust global fraud ring that used German payment firms to launder millions</title>
-      <link>https://therecord.media/europe-police-bust-global-fraud-ring-payment-firms</link>
-      <pubDate>Wed, 05 Nov 2025 15:22:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Detecting fraudulent North Korean hires: A CISO playbook</title>
       <link>https://news.sophos.com/en-us/2025/11/05/detecting-fraudulent-north-korean-hires-a-ciso-playbook/</link>
       <pubDate>Wed, 05 Nov 2025 15:06:09 +0000</pubDate>
     </item>
     <item>
-      <title>Your Data’s in the Cloud—Your Defense Should Be Too</title>
-      <link>https://www.security.com/product-insights/your-data-cloud-your-defense-should-be-too</link>
+      <title>Ransom &amp; Dark Web  Issues Week 1, Novermber 2025</title>
+      <link>https://asec.ahnlab.com/en/90882/</link>
       <pubDate>Wed, 05 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web  Issues Week 1, Novermber 2025</title>
-      <link>https://asec.ahnlab.com/en/90882/</link>
+      <title>Your Data’s in the Cloud—Your Defense Should Be Too</title>
+      <link>https://www.security.com/product-insights/your-data-cloud-your-defense-should-be-too</link>
       <pubDate>Wed, 05 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +305,6 @@
       <title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title>
       <link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link>
       <pubDate>Wed, 05 Nov 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Expands Agentic Security Workforce with New Agents</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link>
-      <pubDate>Wed, 05 Nov 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link>
-      <pubDate>Wed, 05 Nov 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, November 5th, 2025 https://isc.sans.edu/podcastdetail/9686, (Wed, Nov 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/32450</link>
-      <pubDate>Wed, 05 Nov 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Red Teaming LLMs 2025 – Offensive Security Meets Generative AI</title>
-      <link>https://www.darknet.org.uk/2025/11/red-teaming-llms-2025-offensive-security-meets-generative-ai/</link>
-      <pubDate>Wed, 05 Nov 2025 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
