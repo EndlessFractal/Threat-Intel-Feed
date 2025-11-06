@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 10:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 12:35:54 +0000</lastBuildDate>
+    <item>
+      <title>Rigged Poker Games</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html</link>
+      <pubDate>Thu, 06 Nov 2025 12:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacktivist-Driven DDoS Dominates Attacks on Public Sector</title>
+      <link>https://www.infosecurity-magazine.com/news/hacktivistdriven-ddos-attacks/</link>
+      <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do robots dream of secure networking? Teaching cybersecurity to AI systems</title>
+      <link>https://blog.talosintelligence.com/do-robots-dream-of-secure-networking/</link>
+      <pubDate>Thu, 06 Nov 2025 11:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked Actors Maintain Focus on Organizations Influencing U.S. Policy</title>
+      <link>https://www.security.com/threat-intelligence/china-apt-us-policy</link>
+      <pubDate>Thu, 06 Nov 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response</title>
+      <link>https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html</link>
+      <pubDate>Thu, 06 Nov 2025 10:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattacks on UK water systems reveal rising risks to critical infrastructure</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/11/cyberattacks-on-uk-water-systems-reveal-rising-risks-to-critical-infrastructure</link>
+      <pubDate>Thu, 06 Nov 2025 10:29:56 +0000</pubDate>
+    </item>
     <item>
       <title>AI-Enabled Malware Now Actively Deployed, Says Google</title>
       <link>https://www.infosecurity-magazine.com/news/aienabled-malware-actively/</link>
       <pubDate>Thu, 06 Nov 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alleged Russia-linked Curly COMrades exploit Windows Hyper-V to evade EDRs</title>
+      <link>https://securityaffairs.com/184268/hacking/alleged-russia-linked-curly-comrades-exploit-windows-hyper-v-to-evade-edrs.html</link>
+      <pubDate>Thu, 06 Nov 2025 09:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upgrade to Microsoft Windows 11 Home for Just $10</title>
+      <link>https://www.techrepublic.com/article/microsoft-windows-11-home/</link>
+      <pubDate>Thu, 06 Nov 2025 09:30:12 +0000</pubDate>
     </item>
     <item>
       <title>Google Forecasts Rise of Cyber-Physical Attacks Targeting Europe in 2026</title>
@@ -41,6 +81,11 @@
       <title>ISC Stormcast For Thursday, November 6th, 2025 https://isc.sans.edu/podcastdetail/9688, (Thu, Nov 6th)</title>
       <link>https://isc.sans.edu/diary/rss/32456</link>
       <pubDate>Thu, 06 Nov 2025 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #442: The hack that messed with time, and rogue ransom where negotiators</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-442/</link>
+      <pubDate>Thu, 06 Nov 2025 00:30:28 +0000</pubDate>
     </item>
     <item>
       <title>SonicWall blames state-sponsored hackers for September security breach</title>
@@ -261,51 +306,6 @@
       <title>Red Teaming LLMs 2025 – Offensive Security Meets Generative AI</title>
       <link>https://www.darknet.org.uk/2025/11/red-teaming-llms-2025-offensive-security-meets-generative-ai/</link>
       <pubDate>Wed, 05 Nov 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Know Ourselves Before Knowing Our Enemies: Threat Intelligence at the Expense of Asset Management</title>
-      <link>https://unit42.paloaltonetworks.com/asset-management/</link>
-      <pubDate>Wed, 05 Nov 2025 00:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google fixed a critical remote code execution in Android</title>
-      <link>https://securityaffairs.com/184208/security/google-fixed-a-critical-remote-code-execution-in-android.html</link>
-      <pubDate>Tue, 04 Nov 2025 18:20:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces</title>
-      <link>https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html</link>
-      <pubDate>Tue, 04 Nov 2025 17:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SesameOp: New backdoor exploits OpenAI API for covert C2</title>
-      <link>https://securityaffairs.com/184197/malware/sesameop-new-backdoor-exploits-openai-api-for-covert-c2.html</link>
-      <pubDate>Tue, 04 Nov 2025 17:06:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>​​Learn what generative AI can do for your security operations center</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/11/04/learn-what-generative-ai-can-do-for-your-security-operations-center-soc/</link>
-      <pubDate>Tue, 04 Nov 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>European Authorities Dismantle €600 Million Crypto Fraud Network in Global Sweep</title>
-      <link>https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html</link>
-      <pubDate>Tue, 04 Nov 2025 15:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>French Police Seize €1.6m Amid Crypto Scam Network Crackdown</title>
-      <link>https://www.infosecurity-magazine.com/news/french-police-seize-16m-euros/</link>
-      <pubDate>Tue, 04 Nov 2025 15:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SesameOp Backdoor Detection: Microsoft Discovers New Malware Abusing OpenAI Assistants API in Cyber-Attacks</title>
-      <link>https://socprime.com/blog/sesameop-backdoor-detection/</link>
-      <pubDate>Tue, 04 Nov 2025 15:38:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOC Prime Secures Strategic Investment Led by u.ventures to Accelerate AI-Driven Cyber Defense Transformation</title>
-      <link>https://socprime.com/news/soc-prime-secures-investment-by-uventures/</link>
-      <pubDate>Tue, 04 Nov 2025 15:10:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
