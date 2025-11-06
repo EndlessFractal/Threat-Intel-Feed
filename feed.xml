@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 03:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 04:23:28 +0000</lastBuildDate>
     <item>
       <title>Binary Breadcrumbs: Correlating Malware Samples with Honeypot Logs Using PowerShell [Guest Diary], (Wed, Nov 5th)</title>
       <link>https://isc.sans.edu/diary/rss/32454</link>
@@ -273,7 +273,7 @@
       <pubDate>Tue, 04 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Unerring Spear: Cephalus Ransomware Analysis</title>
+      <title>An Unerring Spear: Cephalus Ransomware Analysis</title>
       <link>https://asec.ahnlab.com/en/90878/</link>
       <pubDate>Tue, 04 Nov 2025 15:00:00 +0000</pubDate>
     </item>
@@ -303,9 +303,8 @@
       <pubDate>Tue, 04 Nov 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DragonForce Cartel Emerges as Conti-Derived Ransomware Threat</title>
-      <link>https://www.infosecurity-magazine.com/news/dragonforce-cartel-conti-derived/</link>
-      <pubDate>Tue, 04 Nov 2025 13:45:00 +0000</pubDate>
+      <title>SpiderLabs Ransomware Tracker Update October 2025: Qlin Doubles Down on Attacks</title>
+      <link>https://levelblue.com/blogs/security-essentials/spiderlabs-ransomware-tracker-update-october-2025-qlin-doubles-down-on-attacks</link>
     </item>
   </channel>
 </rss>
