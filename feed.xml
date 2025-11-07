@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Nov 2025 01:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 03:08:32 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Friday, November 7th, 2025 https://isc.sans.edu/podcastdetail/9690, (Fri, Nov 7th)</title>
+      <link>https://isc.sans.edu/diary/rss/32458</link>
+      <pubDate>Fri, 07 Nov 2025 02:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Clop Ransomware group claims the breach of The Washington Post</title>
       <link>https://securityaffairs.com/184304/cyber-crime/clop-ransomware-group-claims-the-breach-of-the-washington-post.html</link>
@@ -95,6 +100,11 @@
     <item>
       <title>Multi-Turn Attacks Expose Weaknesses in Open-Weight LLM Models</title>
       <link>https://www.infosecurity-magazine.com/news/multi-turn-attacks-llm-models/</link>
+      <pubDate>Thu, 06 Nov 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Security &amp; Malware Issue 2025년 11월 1주차</title>
+      <link>https://asec.ahnlab.com/en/90888/</link>
       <pubDate>Thu, 06 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -295,16 +305,6 @@
       <title>CVE-2025-48593: Critical Zero-Click Vulnerability in Android Enables Remote Code Execution</title>
       <link>https://socprime.com/blog/cve-2025-48593-vulnerability-in-android/</link>
       <pubDate>Wed, 05 Nov 2025 14:25:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data</title>
-      <link>https://thehackernews.com/2025/11/researchers-find-chatgpt.html</link>
-      <pubDate>Wed, 05 Nov 2025 14:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Security: Defining and Defending Cybersecurity’s Next Frontier</title>
-      <link>https://www.sentinelone.com/blog/ai-security-defining-and-defending-cybersecuritys-next-frontier/</link>
-      <pubDate>Wed, 05 Nov 2025 14:00:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
