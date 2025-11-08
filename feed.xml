@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 08:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 12:30:50 +0000</lastBuildDate>
     <item>
       <title>Honeypot: Requests for (Code) Repositories, (Sat, Nov 8th)</title>
       <link>https://isc.sans.edu/diary/rss/32460</link>
@@ -128,6 +128,11 @@
       <pubDate>Fri, 07 Nov 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Scanners-Box – Open-Source Reconnaissance and Scanning Toolkit</title>
+      <link>https://www.darknet.org.uk/2025/11/scanners-box-open-source-reconnaissance-and-scanning-toolkit/</link>
+      <pubDate>Fri, 07 Nov 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Clop Ransomware group claims the breach of The Washington Post</title>
       <link>https://securityaffairs.com/184304/cyber-crime/clop-ransomware-group-claims-the-breach-of-the-washington-post.html</link>
       <pubDate>Thu, 06 Nov 2025 22:10:10 +0000</pubDate>
@@ -227,11 +232,6 @@
       <pubDate>Thu, 06 Nov 2025 12:02:45 +0000</pubDate>
     </item>
     <item>
-      <title>Hacktivist-Driven DDoS Dominates Attacks on Public Sector</title>
-      <link>https://www.infosecurity-magazine.com/news/hacktivistdriven-ddos-attacks/</link>
-      <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ABB FLXeon Controllers</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-310-03</link>
       <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
@@ -244,6 +244,11 @@
     <item>
       <title>Advantech DeviceOn/iEdge</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-310-01</link>
+      <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacktivist-Driven DDoS Dominates Attacks on Public Sector</title>
+      <link>https://www.infosecurity-magazine.com/news/hacktivistdriven-ddos-attacks/</link>
       <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -300,11 +305,6 @@
       <title>Google Forecasts Rise of Cyber-Physical Attacks Targeting Europe in 2026</title>
       <link>https://www.infosecurity-magazine.com/news/google-cyberphysical-attacks/</link>
       <pubDate>Thu, 06 Nov 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection</title>
-      <link>https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html</link>
-      <pubDate>Thu, 06 Nov 2025 07:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
