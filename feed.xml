@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 06:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 08:20:12 +0000</lastBuildDate>
     <item>
       <title>Honeypot: Requests for (Code) Repositories, (Sat, Nov 8th)</title>
       <link>https://isc.sans.edu/diary/rss/32460</link>
@@ -116,6 +116,11 @@
       <title>Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities</title>
       <link>https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html</link>
       <pubDate>Fri, 07 Nov 2025 06:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the Falcon Platform Delivers Fast, CISO-Ready Executive Reports</title>
+      <link>https://www.crowdstrike.com/en-us/blog/how-falcon-platform-delivers-fast-ciso-ready-executive-reports/</link>
+      <pubDate>Fri, 07 Nov 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Friday, November 7th, 2025 https://isc.sans.edu/podcastdetail/9690, (Fri, Nov 7th)</title>
@@ -300,11 +305,6 @@
       <title>Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection</title>
       <link>https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html</link>
       <pubDate>Thu, 06 Nov 2025 07:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach</title>
-      <link>https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html</link>
-      <pubDate>Thu, 06 Nov 2025 05:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
