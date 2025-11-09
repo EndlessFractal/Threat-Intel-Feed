@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 04:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 06:23:22 +0000</lastBuildDate>
     <item>
       <title>China-linked hackers target U.S. non-profit in long-term espionage campaign</title>
       <link>https://securityaffairs.com/184351/apt/china-linked-hackers-target-u-s-non-profit-in-long-term-espionage-campaign.html</link>
@@ -183,16 +183,6 @@
       <pubDate>Thu, 06 Nov 2025 17:45:55 +0000</pubDate>
     </item>
     <item>
-      <title>The rising tide of cyber attacks against the UK water sector</title>
-      <link>https://www.fortra.com/blog/rising-tide-cyber-attacks-against-uk-water-sector</link>
-      <pubDate>Thu, 06 Nov 2025 17:43:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Pay up or we share the tapes”: Hackers target massage parlour clients in blackmail scheme</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/pay-up-or-we-share-the-tapes-hackers-target-massage-parlour-clients-in-blackmail-scheme</link>
-      <pubDate>Thu, 06 Nov 2025 17:33:04 +0000</pubDate>
-    </item>
-    <item>
       <title>New IDC research highlights a major cloud security shift</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/11/06/new-idc-research-highlights-a-major-cloud-security-shift/</link>
       <pubDate>Thu, 06 Nov 2025 17:00:00 +0000</pubDate>
@@ -247,6 +237,11 @@
       <pubDate>Thu, 06 Nov 2025 12:02:45 +0000</pubDate>
     </item>
     <item>
+      <title>Hacktivist-Driven DDoS Dominates Attacks on Public Sector</title>
+      <link>https://www.infosecurity-magazine.com/news/hacktivistdriven-ddos-attacks/</link>
+      <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ABB FLXeon Controllers</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-310-03</link>
       <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
@@ -259,11 +254,6 @@
     <item>
       <title>Advantech DeviceOn/iEdge</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-310-01</link>
-      <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacktivist-Driven DDoS Dominates Attacks on Public Sector</title>
-      <link>https://www.infosecurity-magazine.com/news/hacktivistdriven-ddos-attacks/</link>
       <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -305,6 +295,16 @@
       <title>AI-Enabled Malware Now Actively Deployed, Says Google</title>
       <link>https://www.infosecurity-magazine.com/news/aienabled-malware-actively/</link>
       <pubDate>Thu, 06 Nov 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alleged Russia-linked Curly COMrades exploit Windows Hyper-V to evade EDRs</title>
+      <link>https://securityaffairs.com/184268/hacking/alleged-russia-linked-curly-comrades-exploit-windows-hyper-v-to-evade-edrs.html</link>
+      <pubDate>Thu, 06 Nov 2025 09:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upgrade to Microsoft Windows 11 Home for Just $10</title>
+      <link>https://www.techrepublic.com/article/microsoft-windows-11-home/</link>
+      <pubDate>Thu, 06 Nov 2025 09:30:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
