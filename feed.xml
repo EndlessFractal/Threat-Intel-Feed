@@ -6,7 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 12:35:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 14:18:12 +0000</lastBuildDate>
+    <item>
+      <title>SharpParty</title>
+      <link>https://levelblue.com/blogs/security-essentials/sharpparty</link>
+    </item>
+    <item>
+      <title>How credentials get stolen in seconds, even with a script-kiddie-level phish</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2025/11/how-credentials-get-stolen-in-seconds-even-with-a-script-kiddie-level-phish</link>
+      <pubDate>Tue, 11 Nov 2025 13:17:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stolen iPhones are locked tight, until scammers phish your Apple ID credentials</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/11/stolen-iphones-are-locked-tight-until-scammers-phish-your-apple-id-credentials</link>
+      <pubDate>Tue, 11 Nov 2025 12:35:27 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Exploit Critical Flaw in Gladinet's Triofox File Sharing Product</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-exploit-critical-flaw/</link>
@@ -228,6 +242,11 @@
       <pubDate>Mon, 10 Nov 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Reconnoitre – Open-Source Reconnaissance and Service Enumeration Tool</title>
+      <link>https://www.darknet.org.uk/2025/11/reconnoitre-open-source-reconnaissance-and-service-enumeration-tool/</link>
+      <pubDate>Mon, 10 Nov 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>QNAP fixed multiple zero-days in its software demonstrated at Pwn2Own 2025</title>
       <link>https://securityaffairs.com/184396/hacking/qnap-fixed-multiple-zero-days-in-its-software-demonstrated-at-pwn2own-2025.html</link>
       <pubDate>Mon, 10 Nov 2025 00:01:33 +0000</pubDate>
@@ -286,26 +305,6 @@
       <title>Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware</title>
       <link>https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html</link>
       <pubDate>Fri, 07 Nov 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​​Whisper Leak: A novel side-channel attack on remote language models</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/</link>
-      <pubDate>Fri, 07 Nov 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools</title>
-      <link>https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html</link>
-      <pubDate>Fri, 07 Nov 2025 16:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake CAPTCHA sites now have tutorial videos to help victims install malware</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/11/fake-captcha-sites-now-have-tutorial-videos-to-help-victims-install-malware</link>
-      <pubDate>Fri, 07 Nov 2025 15:01:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 45</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/</link>
-      <pubDate>Fri, 07 Nov 2025 14:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
