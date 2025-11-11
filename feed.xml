@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 10:19:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 12:35:57 +0000</lastBuildDate>
+    <item>
+      <title>Hackers Exploit Critical Flaw in Gladinet's Triofox File Sharing Product</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-exploit-critical-flaw/</link>
+      <pubDate>Tue, 11 Nov 2025 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prompt Injection in AI Browsers</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html</link>
+      <pubDate>Tue, 11 Nov 2025 12:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISO's Expert Guide To AI Supply Chain Attacks</title>
+      <link>https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html</link>
+      <pubDate>Tue, 11 Nov 2025 11:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories</title>
+      <link>https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html</link>
+      <pubDate>Tue, 11 Nov 2025 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers</title>
+      <link>https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html</link>
+      <pubDate>Tue, 11 Nov 2025 11:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea-linked Konni APT used Google Find Hub to erase data and spy on defectors</title>
+      <link>https://securityaffairs.com/184474/intelligence/north-korea-konni-apt-used-google-find-hub-to-erase-data-and-spy-on-defectors.html</link>
+      <pubDate>Tue, 11 Nov 2025 11:37:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google’s Latest Security Push Marks the Slow Death of Passwords</title>
+      <link>https://www.techrepublic.com/article/news-google-gmail-passwordless/</link>
+      <pubDate>Tue, 11 Nov 2025 11:31:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Zero-Day Bug Used in Spyware Attacks to KEV</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-zeroday-bugspyware-attacks-kev/</link>
+      <pubDate>Tue, 11 Nov 2025 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Quantum Route Redirect Phishing Kit Democratizes Cyber-Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/quantum-route-redirect-phishing/</link>
@@ -218,11 +258,6 @@
       <pubDate>Sun, 09 Nov 2025 10:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>Security Affairs newsletter Round 549 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/184362/breaking-news/security-affairs-newsletter-round-549-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 09 Nov 2025 09:46:59 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic</title>
       <link>https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html</link>
       <pubDate>Sat, 08 Nov 2025 14:29:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 45</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/</link>
       <pubDate>Fri, 07 Nov 2025 14:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hacking Group Sandworm Deploys New Wiper Malware in Ukraine</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-sandworm-new-wiper-ukraine/</link>
-      <pubDate>Fri, 07 Nov 2025 12:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faking Receipts with AI</title>
-      <link>https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html</link>
-      <pubDate>Fri, 07 Nov 2025 12:01:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation</title>
-      <link>https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html</link>
-      <pubDate>Fri, 07 Nov 2025 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LANDFALL: New Commercial-Grade Android Spyware in Exploit Chain Targeting Samsung Devices</title>
-      <link>https://unit42.paloaltonetworks.com/landfall-is-new-commercial-grade-android-spyware/</link>
-      <pubDate>Fri, 07 Nov 2025 11:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enterprise Credentials at Risk – Same Old, Same Old?</title>
-      <link>https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html</link>
-      <pubDate>Fri, 07 Nov 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts</title>
-      <link>https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html</link>
-      <pubDate>Fri, 07 Nov 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities</title>
-      <link>https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html</link>
-      <pubDate>Fri, 07 Nov 2025 06:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
