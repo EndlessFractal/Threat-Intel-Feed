@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 10:19:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 12:36:37 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 477</title>
+      <link>https://www.troyhunt.com/weekly-update-477/</link>
+      <pubDate>Wed, 12 Nov 2025 12:27:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>On Hacking Back</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/on-hacking-back.html</link>
+      <pubDate>Wed, 12 Nov 2025 12:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR</title>
+      <link>https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html</link>
+      <pubDate>Wed, 12 Nov 2025 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update now: November Patch Tuesday fixes Windows zero-day exploited in the wild</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/11/update-now-november-patch-tuesday-fixes-windows-zero-day-exploited-in-the-wild</link>
+      <pubDate>Wed, 12 Nov 2025 11:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security</title>
+      <link>https://thehackernews.com/2025/11/active-directory-under-siege-why.html</link>
+      <pubDate>Wed, 12 Nov 2025 11:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack</title>
+      <link>https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html</link>
+      <pubDate>Wed, 12 Nov 2025 10:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Malwarebytes stops the ransomware attack that most security software can’t see</title>
+      <link>https://www.malwarebytes.com/blog/inside-malwarebytes/2025/11/how-malwarebytes-stops-the-ransomware-attack-that-most-security-software-cant-see</link>
+      <pubDate>Wed, 12 Nov 2025 10:19:46 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Fixes Windows Kernel Zero Day in November Patch Tuesday</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-windows-kernel-zero-day/</link>
       <pubDate>Wed, 12 Nov 2025 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synology patches critical BeeStation RCE flaw shown at Pwn2Own Ireland 2025</title>
+      <link>https://securityaffairs.com/184528/security/synology-patches-critical-beestation-rce-flaw-shown-at-pwn2own-ireland-2025.html</link>
+      <pubDate>Wed, 12 Nov 2025 10:02:00 +0000</pubDate>
     </item>
     <item>
       <title>UK Government Finally Introduces Cyber Security and Resilience Bill</title>
@@ -88,7 +128,7 @@
       <pubDate>Tue, 11 Nov 2025 14:38:11 +0000</pubDate>
     </item>
     <item>
-      <title>Patch now: Samsung zero-day lets attackers take over your phone</title>
+      <title>Samsung zero-day lets attackers take over your phone</title>
       <link>https://www.malwarebytes.com/blog/news/2025/11/patch-now-samsung-zero-day-lets-attackers-take-over-your-phone</link>
       <pubDate>Tue, 11 Nov 2025 14:28:04 +0000</pubDate>
     </item>
@@ -252,11 +292,6 @@
       <pubDate>Mon, 10 Nov 2025 12:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>Agentic AI in Cybersecurity: Beyond Triage to Strategic Threat Hunting</title>
-      <link>https://securityaffairs.com/184413/uncategorized/agentic-ai-in-cybersecurity-beyond-triage-to-strategic-threat-hunting.html</link>
-      <pubDate>Mon, 10 Nov 2025 12:17:10 +0000</pubDate>
-    </item>
-    <item>
       <title>New Attacks Against Secure Enclaves</title>
       <link>https://www.schneier.com/blog/archives/2025/11/new-attacks-against-secure-enclaves.html</link>
       <pubDate>Mon, 10 Nov 2025 12:04:55 +0000</pubDate>
@@ -270,41 +305,6 @@
       <title>New Browser Security Report Reveals Emerging Threats for Enterprises</title>
       <link>https://thehackernews.com/2025/11/new-browser-security-report-reveals.html</link>
       <pubDate>Mon, 10 Nov 2025 11:58:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch out for Walmart gift card scams</title>
-      <link>https://www.malwarebytes.com/blog/scams/2025/11/watch-out-for-walmart-gift-card-scams</link>
-      <pubDate>Mon, 10 Nov 2025 11:41:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>New NCA Campaign Warns Men Off Crypto Investment Scams</title>
-      <link>https://www.infosecurity-magazine.com/news/nca-campaign-men-crypto-investment/</link>
-      <pubDate>Mon, 10 Nov 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Set to Retire Web Check and Mail Check Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-retire-web-check-mail-check/</link>
-      <pubDate>Mon, 10 Nov 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware</title>
-      <link>https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html</link>
-      <pubDate>Mon, 10 Nov 2025 09:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs</title>
-      <link>https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html</link>
-      <pubDate>Mon, 10 Nov 2025 08:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (November 3 – November 9)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/11/a-week-in-security-november-3-november-9</link>
-      <pubDate>Mon, 10 Nov 2025 08:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The reality: Bargains bring risk</title>
-      <link>https://blog.eclecticiq.com/the-reality-bargains-bring-risk</link>
-      <pubDate>Mon, 10 Nov 2025 07:26:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
