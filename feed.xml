@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 14:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 16:22:02 +0000</lastBuildDate>
+    <item>
+      <title>Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks</title>
+      <link>https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html</link>
+      <pubDate>Fri, 14 Nov 2025 15:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected Russian hacker reportedly detained in Thailand, faces possible US extradition</title>
+      <link>https://therecord.media/russian-hacker-detained-thailand-possible-us-extradition</link>
+      <pubDate>Fri, 14 Nov 2025 15:04:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Millions of sites at risk from Imunify360 critical flaw exploit</title>
+      <link>https://securityaffairs.com/184628/security/millions-of-sites-at-risk-from-imunify360-critical-flaw-exploit.html</link>
+      <pubDate>Fri, 14 Nov 2025 14:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense &amp; Government Targets</title>
+      <link>https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html</link>
+      <pubDate>Fri, 14 Nov 2025 14:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Malware and LLM Abuse: The Next Wave of Cyber Threats</title>
+      <link>https://socprime.com/blog/latest-threats/ai-malware-and-llm-abuse/</link>
+      <pubDate>Fri, 14 Nov 2025 14:26:05 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic: China-Based Hackers Used Claude to Automate Global Cyberattack</title>
       <link>https://www.techrepublic.com/article/news-anthropic-china-hackers-claude/</link>
@@ -178,11 +203,6 @@
       <pubDate>Thu, 13 Nov 2025 12:51:37 +0000</pubDate>
     </item>
     <item>
-      <title>Operation Endgame: Police reveal takedowns of three key cybercrime tools</title>
-      <link>https://therecord.media/operation-endgame-cybercrime-takedowns-rhadamanthys-venomrat-elysium</link>
-      <pubDate>Thu, 13 Nov 2025 12:45:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Operation Endgame 3.0 Dismantles Three Major Malware Networks</title>
       <link>https://www.infosecurity-magazine.com/news/operation-endgame-3-dismantles/</link>
       <pubDate>Thu, 13 Nov 2025 12:25:00 +0000</pubDate>
@@ -191,6 +211,16 @@
       <title>Book Review: The Business of Secrets</title>
       <link>https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html</link>
       <pubDate>Thu, 13 Nov 2025 12:09:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and Partners Release Advisory Update on Akira Ransomware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware</link>
+      <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases 18 Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-releases-18-industrial-control-systems-advisories</link>
+      <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Siemens COMOS</title>
@@ -276,36 +306,6 @@
       <title>Rockwell Automation FactoryTalk DataMosaix Private Cloud</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-07</link>
       <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and Partners Release Advisory Update on Akira Ransomware</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware</link>
-      <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases 18 Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-releases-18-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security</title>
-      <link>https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html</link>
-      <pubDate>Thu, 13 Nov 2025 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds WatchGuard Firebox, Microsoft Windows, and Gladinet Triofox flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/184573/security/u-s-cisa-adds-watchguard-firebox-microsoft-windows-and-gladinet-triofox-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 13 Nov 2025 11:29:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown</title>
-      <link>https://thehackernews.com/2025/11/operation-endgame-dismantles.html</link>
-      <pubDate>Thu, 13 Nov 2025 11:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unleashing the Kraken ransomware group</title>
-      <link>https://blog.talosintelligence.com/kraken-ransomware-group/</link>
-      <pubDate>Thu, 13 Nov 2025 11:00:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
