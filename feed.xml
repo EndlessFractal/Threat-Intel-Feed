@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 22:16:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 01:16:58 +0000</lastBuildDate>
+    <item>
+      <title>Friday Squid Blogging: Pilot Whales Eat a Lot of Squid</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html</link>
+      <pubDate>Fri, 14 Nov 2025 23:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital Doppelgangers: Anatomy of Evolving Impersonation Campaigns Distributing Gh0st RAT</title>
+      <link>https://unit42.paloaltonetworks.com/impersonation-campaigns-deliver-gh0st-rat/</link>
+      <pubDate>Fri, 14 Nov 2025 23:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>Multiple US citizens plead guilty to helping North Korean IT workers earn $2 million</title>
       <link>https://therecord.media/multiple-us-nationals-guilty-pleas-north-korean-it-worker-scams</link>
@@ -116,6 +126,11 @@
       <title>The Role of Humans in an AI-Powered World</title>
       <link>https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html</link>
       <pubDate>Fri, 14 Nov 2025 12:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/11/14/fortinet-releases-security-advisory-relative-path-traversal-vulnerability-affecting-fortiweb</link>
+      <pubDate>Fri, 14 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
@@ -290,21 +305,6 @@
     <item>
       <title>Siemens Altair Grid Engine</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-16</link>
-      <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Software Center and Solid Edge</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-17</link>
-      <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>General Industrial Controls Lynx+ Gateway</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-08</link>
-      <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric MELSEC iQ-F Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-01</link>
       <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
