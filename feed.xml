@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Nov 2025 08:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 10:16:05 +0000</lastBuildDate>
+    <item>
+      <title>Honeypot: FortiWeb CVE-2025-64446 Exploits, (Sat, Nov 15th)</title>
+      <link>https://isc.sans.edu/diary/rss/32486</link>
+      <pubDate>Sat, 15 Nov 2025 09:44:35 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. CISA adds Fortinet FortiWeb flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/184652/hacking/u-s-cisa-adds-fortinet-fortiweb-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html</link>
@@ -300,11 +305,6 @@
     <item>
       <title>Rockwell Automation Verve Asset Manager</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-05</link>
-      <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FactoryTalk Policy Manager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-09</link>
       <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
