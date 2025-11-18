@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 10:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 12:36:34 +0000</lastBuildDate>
+    <item>
+      <title>AI and Voter Engagement</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/ai-and-voter-engagement.html</link>
+      <pubDate>Tue, 18 Nov 2025 12:01:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale</title>
+      <link>https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html</link>
+      <pubDate>Tue, 18 Nov 2025 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why it matters when your online order is drop-shipped</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/11/why-it-matters-when-your-online-order-is-drop-shipped</link>
+      <pubDate>Tue, 18 Nov 2025 11:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Snort3: Enhanced rule grouping for greater flexibility and control</title>
+      <link>https://blog.talosintelligence.com/new-in-snort3-enhanced-rule-grouping-for-greater-flexibility-and-control/</link>
+      <pubDate>Tue, 18 Nov 2025 11:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities</title>
+      <link>https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html</link>
+      <pubDate>Tue, 18 Nov 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GenAI and Deepfakes Drive Digital Forgeries and Biometric Fraud</title>
+      <link>https://www.infosecurity-magazine.com/news/genai-deepfakes-digital-forgeries/</link>
+      <pubDate>Tue, 18 Nov 2025 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages</title>
+      <link>https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html</link>
+      <pubDate>Tue, 18 Nov 2025 10:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A miracle: A company says sorry after a cyber attack – and donates the ransom to cybersecurity research</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/a-miracle-a-company-says-sorry-after-a-cyber-attack-and-donates-the-ransom-to-cybersecurity-research</link>
+      <pubDate>Tue, 18 Nov 2025 09:54:01 +0000</pubDate>
+    </item>
     <item>
       <title>Half a Million Stolen FTSE 100 Credentials Found on Criminal Sites</title>
       <link>https://www.infosecurity-magazine.com/news/half-million-stolen-ftse-100/</link>
@@ -18,7 +58,7 @@
       <pubDate>Tue, 18 Nov 2025 08:59:04 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Mitigates Record 5.72 Tbps DDoS Attack Driven by AISURU Botnet</title>
+      <title>Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet</title>
       <link>https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html</link>
       <pubDate>Tue, 18 Nov 2025 08:17:00 +0000</pubDate>
     </item>
@@ -123,13 +163,13 @@
       <pubDate>Mon, 17 Nov 2025 14:21:29 +0000</pubDate>
     </item>
     <item>
+      <title>Art and Science: Cyber and Physical Security Convergence Deficiencies in the Louvre Heist</title>
+      <link>https://levelblue.com/blogs/security-essentials/art-and-science-cyber-and-physical-security-convergence-deficiencies-in-the-louvre-heist</link>
+    </item>
+    <item>
       <title>Black Hat, AHOY! 5 Sessions to Join in London</title>
       <link>https://www.security.com/expert-perspectives/black-hat-5-sessions-join-london</link>
       <pubDate>Mon, 17 Nov 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Art and Science: Cyber and Physical Security Convergence Deficiencies in the Louvre Heist</title>
-      <link>https://levelblue.com/blogs/security-essentials/art-and-science-cyber-and-physical-security-convergence-deficiencies-in-the-louvre-heist</link>
     </item>
     <item>
       <title>Scammers are sending bogus copyright warnings to steal your X login</title>
@@ -202,6 +242,11 @@
       <pubDate>Mon, 17 Nov 2025 02:00:03 +0000</pubDate>
     </item>
     <item>
+      <title>mcp-scan – Real-Time Guardrail Monitoring and Dynamic Proxy for MCP Servers</title>
+      <link>https://www.darknet.org.uk/2025/11/mcp-scan-real-time-guardrail-monitoring-and-dynamic-proxy-for-mcp-servers/</link>
+      <pubDate>Mon, 17 Nov 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Microsoft Patch Tuesday, November 2025 Edition</title>
       <link>https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/</link>
       <pubDate>Sun, 16 Nov 2025 21:47:14 +0000</pubDate>
@@ -260,51 +305,6 @@
       <title>Honeypot: FortiWeb CVE-2025-64446 Exploits, (Sat, Nov 15th)</title>
       <link>https://isc.sans.edu/diary/rss/32486</link>
       <pubDate>Sat, 15 Nov 2025 09:44:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Pilot Whales Eat a Lot of Squid</title>
-      <link>https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html</link>
-      <pubDate>Fri, 14 Nov 2025 23:33:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Digital Doppelgangers: Anatomy of Evolving Impersonation Campaigns Distributing Gh0st RAT</title>
-      <link>https://unit42.paloaltonetworks.com/impersonation-campaigns-deliver-gh0st-rat/</link>
-      <pubDate>Fri, 14 Nov 2025 23:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Personal details of Tate galleries job applicants leaked online</title>
-      <link>https://www.theguardian.com/technology/2025/nov/14/personal-details-of-tate-galleries-job-applicants-leaked-online</link>
-      <pubDate>Fri, 14 Nov 2025 18:38:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels</title>
-      <link>https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html</link>
-      <pubDate>Fri, 14 Nov 2025 18:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html</link>
-      <pubDate>Fri, 14 Nov 2025 17:08:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Be careful responding to unexpected job interviews</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/11/be-careful-responding-to-unexpected-job-interviews</link>
-      <pubDate>Fri, 14 Nov 2025 16:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks</title>
-      <link>https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html</link>
-      <pubDate>Fri, 14 Nov 2025 15:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense &amp; Government Targets</title>
-      <link>https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html</link>
-      <pubDate>Fri, 14 Nov 2025 14:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Malware and LLM Abuse: The Next Wave of Cyber Threats</title>
-      <link>https://socprime.com/blog/latest-threats/ai-malware-and-llm-abuse/</link>
-      <pubDate>Fri, 14 Nov 2025 14:26:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
