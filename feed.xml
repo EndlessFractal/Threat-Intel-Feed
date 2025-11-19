@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 10:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 12:36:52 +0000</lastBuildDate>
+    <item>
+      <title>Legal Restrictions on Vulnerability Disclosure</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html</link>
+      <pubDate>Wed, 19 Nov 2025 12:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>PlushDaemon Hackers Unleash New Malware in China-Aligned Spy Campaigns</title>
+      <link>https://www.infosecurity-magazine.com/news/plushdaemon-new-malware-china-spy/</link>
+      <pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software</title>
+      <link>https://thehackernews.com/2025/11/application-containment-how-to-use.html</link>
+      <pubDate>Wed, 19 Nov 2025 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unwanted Gifts: Major Campaign Lures Targets with Fake Party Invites</title>
+      <link>https://www.security.com/threat-intelligence/rmm-logmein-attacks</link>
+      <pubDate>Wed, 19 Nov 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bill Largent: On epic reads, lifelong learning, and empathy</title>
+      <link>https://blog.talosintelligence.com/bill-largent-on-epic-reads-lifelong-learning-and-empathy/</link>
+      <pubDate>Wed, 19 Nov 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharenting: are you leaving your kids’ digital footprints for scammers to find?</title>
+      <link>https://www.malwarebytes.com/blog/inside-malwarebytes/2025/11/sharenting-are-you-leaving-your-kids-digital-footprints-for-scammers-to-find</link>
+      <pubDate>Wed, 19 Nov 2025 10:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Linked Operation “WrtHug” Hijacks Thousands of ASUS Routers</title>
+      <link>https://www.infosecurity-magazine.com/news/chinal-operation-wrthug-thousands/</link>
+      <pubDate>Wed, 19 Nov 2025 10:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>IT threat evolution in Q3 2025. Mobile statistics</title>
       <link>https://securelist.com/malware-report-q3-2025-mobile-statistics/118013/</link>
@@ -18,9 +53,19 @@
       <pubDate>Wed, 19 Nov 2025 10:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates</title>
+      <link>https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html</link>
+      <pubDate>Wed, 19 Nov 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>China-aligned threat actor is conducting widespread cyberespionage campaigns</title>
       <link>https://therecord.media/china-aligned-threat-actor-espionage-network-devices</link>
       <pubDate>Wed, 19 Nov 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts</title>
+      <link>https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html</link>
+      <pubDate>Wed, 19 Nov 2025 09:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Half of Ransomware Access Due to Hijacked VPN Credentials</title>
@@ -260,51 +305,6 @@
       <title>Google fixed the seventh Chrome zero-day in 2025</title>
       <link>https://securityaffairs.com/184764/hacking/google-fixed-the-seventh-chrome-zero-day-in-2025.html</link>
       <pubDate>Tue, 18 Nov 2025 08:59:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet</title>
-      <link>https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html</link>
-      <pubDate>Tue, 18 Nov 2025 08:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KongTuke activity, (Tue, Nov 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/32498</link>
-      <pubDate>Tue, 18 Nov 2025 07:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch police takes down bulletproof hosting hub linked to 80+ cybercrime cases</title>
-      <link>https://securityaffairs.com/184757/cyber-crime/dutch-police-takes-down-bulletproof-hosting-hub-linked-to-80-cybercrime-cases.html</link>
-      <pubDate>Tue, 18 Nov 2025 06:23:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defeating BLOCKADE SPIDER: How CrowdStrike Stops Cross-Domain Attacks</title>
-      <link>https://www.crowdstrike.com/en-us/blog/defeating-blockade-spider-how-crowdstrike-stops-cross-domain-attacks/</link>
-      <pubDate>Tue, 18 Nov 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability</title>
-      <link>https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html</link>
-      <pubDate>Tue, 18 Nov 2025 04:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, November 18th, 2025 https://isc.sans.edu/podcastdetail/9704, (Tue, Nov 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/32496</link>
-      <pubDate>Tue, 18 Nov 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Addressing the vulnerability prioritization challenge</title>
-      <link>https://www.recordedfuture.com/blog/addressing-the-vulnerability-prioritization-challenge</link>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft mitigated the largest cloud DDoS ever recorded, 15.7 Tbps</title>
-      <link>https://securityaffairs.com/184749/cyber-crime/microsoft-mitigated-the-largest-cloud-ddos-ever-recorded-15-7-tbps.html</link>
-      <pubDate>Mon, 17 Nov 2025 19:13:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>AT&amp;T’s $177M Breach Settlement Deadline Nears — Are You Entitled to a Payout?</title>
-      <link>https://www.techrepublic.com/article/news-att-177m-data-breach-settlement/</link>
-      <pubDate>Mon, 17 Nov 2025 18:34:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
