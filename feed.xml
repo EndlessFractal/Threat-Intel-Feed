@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 06:27:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 08:24:39 +0000</lastBuildDate>
+    <item>
+      <title>SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny</title>
+      <link>https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html</link>
+      <pubDate>Fri, 21 Nov 2025 08:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity</title>
       <link>https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html</link>
@@ -153,11 +158,6 @@
       <pubDate>Thu, 20 Nov 2025 12:07:38 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Releases Six Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/11/20/cisa-releases-six-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Festo MSE6-C2M/D2M/E2M</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-04</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
@@ -185,6 +185,11 @@
     <item>
       <title>Festo Didactic products</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-05</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Six Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/11/20/cisa-releases-six-industrial-control-systems-advisories</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -293,7 +298,7 @@
       <pubDate>Wed, 19 Nov 2025 17:27:07 +0000</pubDate>
     </item>
     <item>
-      <title>Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001)</title>
+      <title>NHS Warns of PoC Exploit for 7-Zip Symbolic Link–Based RCE Vulnerability</title>
       <link>https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html</link>
       <pubDate>Wed, 19 Nov 2025 16:27:00 +0000</pubDate>
     </item>
@@ -301,11 +306,6 @@
       <title>Mac users warned about new DigitStealer information stealer</title>
       <link>https://www.malwarebytes.com/blog/news/2025/11/mac-users-warned-about-new-digitstealer-information-stealer</link>
       <pubDate>Wed, 19 Nov 2025 16:23:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol Operation Disrupts $55m in Cryptocurrency For Piracy</title>
-      <link>https://www.infosecurity-magazine.com/news/europol-disrupts-cryptocurrency/</link>
-      <pubDate>Wed, 19 Nov 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
