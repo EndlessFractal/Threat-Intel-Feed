@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 03:08:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 04:20:42 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Friday, November 21st, 2025 https://isc.sans.edu/podcastdetail/9710, (Fri, Nov 21st)</title>
       <link>https://isc.sans.edu/diary/rss/32508</link>
@@ -148,11 +148,6 @@
       <pubDate>Thu, 20 Nov 2025 12:07:38 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Releases Six Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/11/20/cisa-releases-six-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Festo MSE6-C2M/D2M/E2M</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-04</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
@@ -180,6 +175,11 @@
     <item>
       <title>Festo Didactic products</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-05</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Six Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/11/20/cisa-releases-six-industrial-control-systems-advisories</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -236,6 +236,11 @@
       <title>Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt</title>
       <link>https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html</link>
       <pubDate>Thu, 20 Nov 2025 07:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Falcon Data Protection for Cloud Extends DSPM into Runtime</title>
+      <link>https://www.crowdstrike.com/en-us/blog/falcon-data-protection-for-cloud-extends-dspm-into-runtime/</link>
+      <pubDate>Thu, 20 Nov 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CrowdStrike Research: Security Flaws in DeepSeek-Generated Code Linked to Political Triggers</title>
@@ -301,11 +306,6 @@
       <title>Unicode: It is more than funny domain names., (Wed, Nov 12th)</title>
       <link>https://isc.sans.edu/diary/rss/32472</link>
       <pubDate>Wed, 19 Nov 2025 15:59:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices</title>
-      <link>https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html</link>
-      <pubDate>Wed, 19 Nov 2025 15:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
