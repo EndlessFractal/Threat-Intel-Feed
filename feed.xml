@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 12:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 14:16:59 +0000</lastBuildDate>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 47</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-47-7/</link>
+      <pubDate>Fri, 21 Nov 2025 14:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEC voluntarily dismisses SolarWinds lawsuit</title>
+      <link>https://therecord.media/solawards-lawsuit-dismissed-sec</link>
+      <pubDate>Fri, 21 Nov 2025 13:18:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security</title>
+      <link>https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html</link>
+      <pubDate>Fri, 21 Nov 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two suspected Scattered Spider hackers plead not guilty over Transport for London cyberattack</title>
+      <link>https://therecord.media/transport-for-london-hack-scattered-spider-suspects-plead-not-guilty</link>
+      <pubDate>Fri, 21 Nov 2025 12:53:01 +0000</pubDate>
+    </item>
     <item>
       <title>Massive data leak hits Italian railway operator Ferrovie dello Stato via Almaviva hack</title>
       <link>https://securityaffairs.com/184907/data-breach/massive-data-leak-hits-italian-railway-operator-ferrovie-dello-stato-via-almaviva-hack.html</link>
@@ -118,11 +138,6 @@
       <pubDate>Thu, 20 Nov 2025 17:44:02 +0000</pubDate>
     </item>
     <item>
-      <title>New Android malware can capture private messages, researchers warn</title>
-      <link>https://therecord.media/new-android-malware-captures-private-messages</link>
-      <pubDate>Thu, 20 Nov 2025 17:41:47 +0000</pubDate>
-    </item>
-    <item>
       <title>ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet</title>
       <link>https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html</link>
       <pubDate>Thu, 20 Nov 2025 17:24:00 +0000</pubDate>
@@ -131,11 +146,6 @@
       <title>UK’s new cybersecurity bill takes aim at ransomware gangs and state-backed hackers</title>
       <link>https://www.fortra.com/blog/uks-new-cybersecurity-bill-takes-aim-ransomware-gangs-state-backed-hackers</link>
       <pubDate>Thu, 20 Nov 2025 17:13:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>FCC spikes Biden-era cyber regulations prompted by Salt Typhoon telecom breaches</title>
-      <link>https://therecord.media/fcc-removes-biden-era-cybersecurity-rules-telecoms-salt-typhoon</link>
-      <pubDate>Thu, 20 Nov 2025 17:00:44 +0000</pubDate>
     </item>
     <item>
       <title>Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows</title>
@@ -198,23 +208,8 @@
       <pubDate>Thu, 20 Nov 2025 12:07:38 +0000</pubDate>
     </item>
     <item>
-      <title>Festo MSE6-C2M/D2M/E2M</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-04</link>
-      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Automated Logic WebCTRL Premium Server</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-01</link>
-      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opto 22 GRV-EPIC and groov RIO</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-03</link>
-      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emerson Appleton UPSMON-PRO</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-06</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -223,8 +218,23 @@
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Opto 22 GRV-EPIC and groov RIO</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-03</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Festo MSE6-C2M/D2M/E2M</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-04</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Festo Didactic products</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-05</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emerson Appleton UPSMON-PRO</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-06</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>CrowdStrike Research: Security Flaws in DeepSeek-Generated Code Linked to Political Triggers</title>
       <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/</link>
       <pubDate>Thu, 20 Nov 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign</title>
-      <link>https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html</link>
-      <pubDate>Thu, 20 Nov 2025 04:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, November 20th, 2025 https://isc.sans.edu/podcastdetail/9708, (Thu, Nov 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/32504</link>
-      <pubDate>Thu, 20 Nov 2025 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
