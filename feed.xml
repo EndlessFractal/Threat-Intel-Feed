@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 16:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 18:27:12 +0000</lastBuildDate>
+    <item>
+      <title>Georgia court filing organization warns of outages after ransomware allegations</title>
+      <link>https://therecord.media/georgia-court-filing-org-ransomware-warning</link>
+      <pubDate>Tue, 25 Nov 2025 17:57:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Charting the future of SOC: Human and AI collaboration for better security</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/4470688</link>
+      <pubDate>Tue, 25 Nov 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys</title>
+      <link>https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html</link>
+      <pubDate>Tue, 25 Nov 2025 16:49:00 +0000</pubDate>
+    </item>
     <item>
       <title>New ClickFix wave infects users with hidden malware in images and fake Windows updates</title>
       <link>https://www.malwarebytes.com/blog/news/2025/11/new-clickfix-wave-infects-users-with-hidden-malware-in-images-and-fake-windows-updates</link>
       <pubDate>Tue, 25 Nov 2025 16:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Shai-Hulud" Worm Compromises npm Ecosystem in Supply Chain Attack (Updated November 25)</title>
+      <link>https://unit42.paloaltonetworks.com/npm-supply-chain-attack/</link>
+      <pubDate>Tue, 25 Nov 2025 16:00:14 +0000</pubDate>
     </item>
     <item>
       <title>Smishing Triad Impersonation Campaigns Expand Globally</title>
@@ -38,13 +58,13 @@
       <pubDate>Tue, 25 Nov 2025 14:18:00 +0000</pubDate>
     </item>
     <item>
+      <title>Black Friday 2025: Aligning Cyber Resilience and Business Goals to Protect Your Retail Business</title>
+      <link>https://levelblue.com/blogs/security-essentials/black-friday-2025-aligning-cyber-resilience-and-business-goals-to-protect-your-retail-business</link>
+    </item>
+    <item>
       <title>Cyber Legends: Inside the Mind of an Investigator</title>
       <link>https://www.security.com/expert-perspectives/cyber-legends-inside-mind-investigator</link>
       <pubDate>Tue, 25 Nov 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Friday 2025: Aligning Cyber Resilience and Business Goals to Protect Your Retail Business</title>
-      <link>https://levelblue.com/blogs/security-essentials/black-friday-2025-aligning-cyber-resilience-and-business-goals-to-protect-your-retail-business</link>
     </item>
     <item>
       <title>Cyberthreats Targeting the 2025 Holiday Season: What CISOs Need to Know</title>
@@ -65,6 +85,41 @@
       <title>Four Ways AI Is Being Used to Strengthen Democracies Worldwide</title>
       <link>https://www.schneier.com/blog/archives/2025/11/four-ways-ai-is-being-used-to-strengthen-democracies-worldwide.html</link>
       <pubDate>Tue, 25 Nov 2025 12:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-01</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Arena Simulation</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-02</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zenitel TCIV-3+</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-03</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opto 22 groov View</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-04</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Festo Compact Vision System, Control Block, Controller, and Operator Unit products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-05</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SiRcom SMART Alert (SiSA)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-06</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/11/25/cisa-releases-seven-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens</title>
@@ -250,61 +305,6 @@
       <title>IACR Nullifies Election Because of Lost Decryption Key</title>
       <link>https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html</link>
       <pubDate>Mon, 24 Nov 2025 12:03:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>​​Spyware Allows Cyber Threat Actors to Target Users of Messaging Applications​</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/11/24/spyware-allows-cyber-threat-actors-target-users-messaging-applications</link>
-      <pubDate>Mon, 24 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-41115: A Maximum-Severity Privilege Escalation Vulnerability in the Grafana SCIM Component</title>
-      <link>https://socprime.com/blog/cve-2025-41115-vulnerability/</link>
-      <pubDate>Mon, 24 Nov 2025 11:24:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Urges Patch of Actively Exploited Flaw in Oracle Identity Manager</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-kev-oracle-identity-manager/</link>
-      <pubDate>Mon, 24 Nov 2025 11:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs</title>
-      <link>https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html</link>
-      <pubDate>Mon, 24 Nov 2025 11:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iberia Airlines Notifies Customers of Supply Chain Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/iberia-airlines-supply-chain-data/</link>
-      <pubDate>Mon, 24 Nov 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI attack agents are accelerators, not autonomous weapons: the Anthropic attack</title>
-      <link>https://securityaffairs.com/184943/security/ai-attack-agents-are-accelerators-not-autonomous-weapons-the-anthropic-attack.html</link>
-      <pubDate>Mon, 24 Nov 2025 09:38:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>MoD Launches World’s First Military Gaming Tournament</title>
-      <link>https://www.infosecurity-magazine.com/news/mod-worlds-first-military-gaming/</link>
-      <pubDate>Mon, 24 Nov 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Endgame disrupts Rhadamanthys information-stealing malware</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/operation-endgame-disrupts-rhadamanthys-information-stealing-malware</link>
-      <pubDate>Mon, 24 Nov 2025 08:41:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scattered Spider alleged members deny TfL charges</title>
-      <link>https://securityaffairs.com/185000/hacking/scattered-spider-alleged-members-deny-tfl-charges.html</link>
-      <pubDate>Mon, 24 Nov 2025 08:24:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (November 17 – November 23)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/11/a-week-in-security-november-17-november-23</link>
-      <pubDate>Mon, 24 Nov 2025 08:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access</title>
-      <link>https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html</link>
-      <pubDate>Mon, 24 Nov 2025 07:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
