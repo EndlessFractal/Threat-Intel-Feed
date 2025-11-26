@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 04:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 06:27:44 +0000</lastBuildDate>
+    <item>
+      <title>FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams</title>
+      <link>https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html</link>
+      <pubDate>Wed, 26 Nov 2025 04:29:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, November 26th, 2025 https://isc.sans.edu/podcastdetail/9716, (Wed, Nov 26th)</title>
       <link>https://isc.sans.edu/diary/rss/32522</link>
@@ -112,11 +117,6 @@
       <pubDate>Tue, 25 Nov 2025 12:00:50 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/11/25/cisa-releases-seven-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-01</link>
       <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
@@ -144,6 +144,11 @@
     <item>
       <title>SiRcom SMART Alert (SiSA)</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-06</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/11/25/cisa-releases-seven-industrial-control-systems-advisories</link>
       <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -300,11 +305,6 @@
       <title>The Sophos Central UAE region is now live!</title>
       <link>https://news.sophos.com/en-us/2025/11/24/the-sophos-central-uae-region-is-now-live/</link>
       <pubDate>Mon, 24 Nov 2025 13:30:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft</title>
-      <link>https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html</link>
-      <pubDate>Mon, 24 Nov 2025 13:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
