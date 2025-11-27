@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 22:17:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 01:18:05 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #445: The hack that brought back the zombie apocalypse</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-445/</link>
+      <pubDate>Thu, 27 Nov 2025 00:34:24 +0000</pubDate>
+    </item>
     <item>
       <title>Defending Against Sha1-Hulud: The Second Coming</title>
       <link>https://www.sentinelone.com/blog/defending-against-sha1-hulud-the-second-coming/</link>
       <pubDate>Wed, 26 Nov 2025 21:17:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>At least 35,000 impacted by Dartmouth College breach through Oracle EBS campaign</title>
-      <link>https://therecord.media/dartmouth-data-breach-thousands</link>
-      <pubDate>Wed, 26 Nov 2025 20:37:40 +0000</pubDate>
     </item>
     <item>
       <title>For the first time, a RomCom payload has been observed being distributed via SocGholish</title>
@@ -38,11 +38,6 @@
       <pubDate>Wed, 26 Nov 2025 18:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>House Energy and Commerce Committee unveils new draft children’s online safety bill</title>
-      <link>https://therecord.media/house-commttee-unveils-new-kosa-bill</link>
-      <pubDate>Wed, 26 Nov 2025 17:59:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’</title>
       <link>https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/</link>
       <pubDate>Wed, 26 Nov 2025 17:22:36 +0000</pubDate>
@@ -56,11 +51,6 @@
       <title>London councils enact emergency plans after three hit by cyber-attack</title>
       <link>https://www.theguardian.com/technology/2025/nov/26/london-councils-kensington-and-chelsea-westminster-cyber-attack-emergency</link>
       <pubDate>Wed, 26 Nov 2025 16:34:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thailand bans World iris scans, orders company to delete data</title>
-      <link>https://therecord.media/thailand-world-iris-scans-ban</link>
-      <pubDate>Wed, 26 Nov 2025 16:29:56 +0000</pubDate>
     </item>
     <item>
       <title>Cyber-Attack Disrupts OnSolve CodeRED Emergency Notification System</title>
@@ -87,11 +77,6 @@
       <pubDate>Wed, 26 Nov 2025 14:48:30 +0000</pubDate>
     </item>
     <item>
-      <title>Hackers exploit 3D design software to target game developers, animators</title>
-      <link>https://therecord.media/hackers-blender-software-malware</link>
-      <pubDate>Wed, 26 Nov 2025 14:38:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist</title>
       <link>https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html</link>
       <pubDate>Wed, 26 Nov 2025 14:31:00 +0000</pubDate>
@@ -105,11 +90,6 @@
       <title>Fake LinkedIn jobs trick Mac users into downloading Flexible Ferret malware</title>
       <link>https://www.malwarebytes.com/blog/news/2025/11/fake-linkedin-jobs-trick-mac-users-into-downloading-flexible-ferret-malware</link>
       <pubDate>Wed, 26 Nov 2025 14:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Municipal emergency warning service offline after hackers steal user data</title>
-      <link>https://therecord.media/emergency-warning-service-offline</link>
-      <pubDate>Wed, 26 Nov 2025 14:02:07 +0000</pubDate>
     </item>
     <item>
       <title>Take 5 This Thanksgiving for the Defenses That Show Up Like Family</title>
@@ -197,11 +177,6 @@
       <pubDate>Wed, 26 Nov 2025 03:10:10 +0000</pubDate>
     </item>
     <item>
-      <title>Systemic Ransomware Events in 2025 – How Jaguar Land Rover Showed What a Category 3 Supply Chain Breach Looks Like</title>
-      <link>https://www.darknet.org.uk/2025/11/systemic-ransomware-events-in-2025-how-jaguar-land-rover-showed-what-a-category-3-supply-chain-breach-looks-like/</link>
-      <pubDate>Wed, 26 Nov 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Integrating Threat Intelligence and Vulnerability Management: A Modern Approach</title>
       <link>https://www.recordedfuture.com/blog/threat-intelligence-and-vulnerability-management</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
@@ -286,11 +261,6 @@
       <pubDate>Tue, 25 Nov 2025 12:00:50 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/11/25/cisa-releases-seven-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-01</link>
       <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
@@ -304,6 +274,36 @@
       <title>Zenitel TCIV-3+</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-03</link>
       <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opto 22 groov View</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-04</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Festo Compact Vision System, Control Block, Controller, and Operator Unit products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-05</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SiRcom SMART Alert (SiSA)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-06</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/11/25/cisa-releases-seven-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens</title>
+      <link>https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html</link>
+      <pubDate>Tue, 25 Nov 2025 11:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp closes loophole that let researchers collect data on 3.5B accounts</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/11/whatsapp-closes-loophole-that-let-researchers-collect-data-on-3-5b-accounts</link>
+      <pubDate>Tue, 25 Nov 2025 11:30:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
