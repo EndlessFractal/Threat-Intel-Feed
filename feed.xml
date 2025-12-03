@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 03:15:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 06:28:17 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Wednesday, December 3rd, 2025 https://isc.sans.edu/podcastdetail/9722, (Wed, Dec 3rd)</title>
       <link>https://isc.sans.edu/diary/rss/32530</link>
@@ -198,6 +198,11 @@
       <pubDate>Tue, 02 Dec 2025 07:17:00 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Leverages NVIDIA Nemotron in Amazon Bedrock to Advance Agentic Security</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-uses-nvidia-nemotron-aws-power-agentic-security/</link>
+      <pubDate>Tue, 02 Dec 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Tuesday, December 2nd, 2025 https://isc.sans.edu/podcastdetail/9720, (Tue, Dec 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/32528</link>
       <pubDate>Tue, 02 Dec 2025 02:05:12 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Emerging Android threat ‘Albiriox’ enables full On‑Device Fraud</title>
       <link>https://securityaffairs.com/185194/malware/emerging-android-threat-albiriox-enables-full-on%e2%80%91device-fraud.html</link>
       <pubDate>Mon, 01 Dec 2025 10:38:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian Man Gets Seven Years for Running “Evil Twin” Wi-Fi</title>
-      <link>https://www.infosecurity-magazine.com/news/australian-man-seven-years-evil/</link>
-      <pubDate>Mon, 01 Dec 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
