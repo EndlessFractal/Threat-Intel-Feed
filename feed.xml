@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 18:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 20:21:04 +0000</lastBuildDate>
+    <item>
+      <title>Shai Hulud 2.0, now with a wiper flavor</title>
+      <link>https://securelist.com/shai-hulud-2-0/118214/</link>
+      <pubDate>Wed, 03 Dec 2025 20:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attempts to Bypass CDNs, (Wed, Dec 3rd)</title>
+      <link>https://isc.sans.edu/diary/rss/32532</link>
+      <pubDate>Wed, 03 Dec 2025 19:31:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>University of Pennsylvania and University of Phoenix disclose data breaches</title>
+      <link>https://securityaffairs.com/185279/data-breach/university-of-pennsylvania-and-university-of-phoenix-disclose-data-breaches.html</link>
+      <pubDate>Wed, 03 Dec 2025 19:17:49 +0000</pubDate>
+    </item>
     <item>
       <title>University of Phoenix says 'numerous individuals' impacted by Oracle EBS breach</title>
       <link>https://therecord.media/university-of-phoenix-data-breach</link>
       <pubDate>Wed, 03 Dec 2025 18:23:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution</title>
+      <link>https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html</link>
+      <pubDate>Wed, 03 Dec 2025 18:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar</title>
+      <link>https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html</link>
+      <pubDate>Wed, 03 Dec 2025 17:56:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation</title>
@@ -103,14 +128,14 @@
       <pubDate>Wed, 03 Dec 2025 13:21:17 +0000</pubDate>
     </item>
     <item>
-      <title>CISA, Australia, and Partners Author Joint Guidance on Securely Integrating Artificial Intelligence in Operational Technology</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/12/03/cisa-australia-and-partners-author-joint-guidance-securely-integrating-artificial-intelligence</link>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/12/03/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Wed, 03 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar</title>
-      <link>https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html</link>
-      <pubDate>Wed, 03 Dec 2025 11:59:00 +0000</pubDate>
+      <title>CISA, Australia, and Partners Author Joint Guidance on Securely Integrating Artificial Intelligence in Operational Technology</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/12/03/cisa-australia-and-partners-author-joint-guidance-securely-integrating-artificial-intelligence</link>
+      <pubDate>Wed, 03 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Disinformation and Cyber-Threats Among Top Global Exec Concerns</title>
@@ -268,16 +293,6 @@
       <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Releases Five Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/12/02/cisa-releases-five-industrial-control-systems-advisories</link>
-      <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/12/02/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Industrial Video &amp; Control Longwatch</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-336-01</link>
       <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
@@ -288,24 +303,9 @@
       <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Google patches 107 Android flaws, including two being actively exploited</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/google-patches-107-android-flaws</link>
-      <pubDate>Tue, 02 Dec 2025 11:37:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities</title>
-      <link>https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html</link>
-      <pubDate>Tue, 02 Dec 2025 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Releases Patches for Android Zero-Day Flaws Exploited in the Wild</title>
-      <link>https://www.infosecurity-magazine.com/news/google-patches-android-0day/</link>
-      <pubDate>Tue, 02 Dec 2025 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICO Set to Check If Mobile Games Comply with Children’s Code</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-check-mobile-games-comply/</link>
-      <pubDate>Tue, 02 Dec 2025 10:30:00 +0000</pubDate>
+      <title>CISA Releases Five Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/12/02/cisa-releases-five-industrial-control-systems-advisories</link>
+      <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
