@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 20:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 22:15:29 +0000</lastBuildDate>
+    <item>
+      <title>CISA, NSA warn of China’s BRICKSTORM malware after incident response efforts</title>
+      <link>https://therecord.media/cisa-nsa-warn-brickstorm-china</link>
+      <pubDate>Thu, 04 Dec 2025 21:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerabilities in React Server Components and Next.js</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/</link>
+      <pubDate>Thu, 04 Dec 2025 20:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/</link>
+      <pubDate>Thu, 04 Dec 2025 20:23:15 +0000</pubDate>
+    </item>
     <item>
       <title>Phishing attempt against Reporters Without Borders attributed to Russia-linked group</title>
       <link>https://therecord.media/phishing-attempt-reporters-without-borders-callisto-coldriver</link>
@@ -61,11 +76,6 @@
       <title>Cybersecurity strategies to prioritize now​​</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/12/04/cybersecurity-strategies-to-prioritize-now/</link>
       <pubDate>Thu, 04 Dec 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian scientist sentenced to 21 years on treason, cyber sabotage charges</title>
-      <link>https://therecord.media/russia-sentences-physicist-treason-ddos-attacks</link>
-      <pubDate>Thu, 04 Dec 2025 16:43:41 +0000</pubDate>
     </item>
     <item>
       <title>CISA and International Partners Issue Guidance for Secure AI in Infrastructure</title>
@@ -296,16 +306,6 @@
       <title>Attackers have a new way to slip past MFA in educational orgs</title>
       <link>https://www.malwarebytes.com/blog/news/2025/12/attackers-have-a-new-way-to-slip-past-your-mfa</link>
       <pubDate>Wed, 03 Dec 2025 15:44:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI warns of surge in account takeover (ATO) fraud schemes – what you need to know</title>
-      <link>https://www.fortra.com/blog/fbi-warns-surge-account-takeover-ato-fraud-schemes-need-know</link>
-      <pubDate>Wed, 03 Dec 2025 15:38:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud</title>
-      <link>https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html</link>
-      <pubDate>Wed, 03 Dec 2025 15:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
