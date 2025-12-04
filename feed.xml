@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 10:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 12:39:17 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2025-48633 and CVE-2025-48572: Android Framework Information Disclosure and Privilege Escalation Vulnerabilities Exploited in the Wild</title>
+      <link>https://socprime.com/blog/cve-2025-48633-and-cve-2025-48572-vulnerabilities/</link>
+      <pubDate>Thu, 04 Dec 2025 12:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Threats That Reshaped Web Security This Year [2025]</title>
+      <link>https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html</link>
+      <pubDate>Thu, 04 Dec 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skills Shortages Trump Headcount as Critical Cyber Challenge</title>
+      <link>https://www.infosecurity-magazine.com/news/skills-shortages-headcount-2025/</link>
+      <pubDate>Thu, 04 Dec 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Silently Fixes 8-Year Windows Security Flaw</title>
       <link>https://www.techrepublic.com/article/news-microsoft-fixes-security-flaw/</link>
@@ -291,21 +306,6 @@
       <title>Air fryer app caught asking for voice data (re-air) (Lock and Code S06E24)</title>
       <link>https://www.malwarebytes.com/blog/podcast/2025/12/air-fryer-app-caught-asking-for-voice-data-re-air-lock-and-code-s06e24</link>
       <pubDate>Tue, 02 Dec 2025 16:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical PickleScan Vulnerabilities Expose AI Model Supply Chains</title>
-      <link>https://www.infosecurity-magazine.com/news/picklescan-flaws-expose-ai-supply/</link>
-      <pubDate>Tue, 02 Dec 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MuddyWater strikes Israel with advanced MuddyViper malware</title>
-      <link>https://securityaffairs.com/185244/apt/muddywater-strikes-israel-with-advanced-muddyviper-malware.html</link>
-      <pubDate>Tue, 02 Dec 2025 15:19:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShadyPanda's Seven-Year Campaign Infects 4.3M Chrome and Edge Users</title>
-      <link>https://www.infosecurity-magazine.com/news/shadypanda-infects-43m-chrome-edge/</link>
-      <pubDate>Tue, 02 Dec 2025 15:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
