@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 03:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 06:28:12 +0000</lastBuildDate>
+    <item>
+      <title>JPCERT Confirms Active Command Injection Attacks on Array AG Gateways</title>
+      <link>https://thehackernews.com/2025/12/jpcert-confirms-active-command.html</link>
+      <pubDate>Fri, 05 Dec 2025 05:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Friday, December 5th, 2025 https://isc.sans.edu/podcastdetail/9726, (Fri, Dec 5th)</title>
       <link>https://isc.sans.edu/diary/rss/32540</link>
@@ -233,6 +238,16 @@
       <pubDate>Thu, 04 Dec 2025 06:52:00 +0000</pubDate>
     </item>
     <item>
+      <title>Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary</title>
+      <link>https://www.crowdstrike.com/en-us/blog/warp-panda-cloud-threats/</link>
+      <pubDate>Thu, 04 Dec 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indirect Prompt Injection Attacks: A Lurking Risk to AI Systems</title>
+      <link>https://www.crowdstrike.com/en-us/blog/indirect-prompt-injection-attacks-hidden-ai-risks/</link>
+      <pubDate>Thu, 04 Dec 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>India Scraps Mandatory App Preinstall Following Industry Pushback</title>
       <link>https://www.techrepublic.com/article/news-india-scraps-mandatory-app-preinstall/</link>
       <pubDate>Thu, 04 Dec 2025 05:25:11 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation</title>
       <link>https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html</link>
       <pubDate>Wed, 03 Dec 2025 17:46:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts</title>
-      <link>https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html</link>
-      <pubDate>Wed, 03 Dec 2025 17:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Air-Gapped Systems: When Less Connectivity Means More Ransomware Security</title>
-      <link>https://www.security.com/product-insights/air-gapped-systems-less-connectivity-more-ransomware-security</link>
-      <pubDate>Wed, 03 Dec 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>French NGO Reporters Without Borders Targeted by Star Blizzard</title>
-      <link>https://www.infosecurity-magazine.com/news/star-blizzard-targets-reporters/</link>
-      <pubDate>Wed, 03 Dec 2025 16:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
