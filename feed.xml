@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Dec 2025 20:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 22:15:43 +0000</lastBuildDate>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 74</title>
       <link>https://securityaffairs.com/185422/malware/security-affairs-malware-newsletter-round-74.html</link>
@@ -43,6 +43,11 @@
       <pubDate>Sat, 06 Dec 2025 15:24:00 +0000</pubDate>
     </item>
     <item>
+      <title>Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill</title>
+      <link>https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/</link>
+      <pubDate>Sat, 06 Dec 2025 14:45:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation</title>
       <link>https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html</link>
       <pubDate>Sat, 06 Dec 2025 11:40:00 +0000</pubDate>
@@ -73,6 +78,11 @@
       <pubDate>Fri, 05 Dec 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Maryland man sentenced for N. Korea IT worker scheme involving US government contracts</title>
+      <link>https://therecord.media/north-korea-it-worker-scheme-maryland-man-sentenced</link>
+      <pubDate>Fri, 05 Dec 2025 18:45:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails</title>
       <link>https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html</link>
       <pubDate>Fri, 05 Dec 2025 17:53:00 +0000</pubDate>
@@ -86,6 +96,11 @@
       <title>Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch</title>
       <link>https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html</link>
       <pubDate>Fri, 05 Dec 2025 16:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese hackers exploiting React2Shell bug impacting countless websites, Amazon researchers say</title>
+      <link>https://therecord.media/chinese-hackers-exploiting-react2shell-vulnerability-amazon</link>
+      <pubDate>Fri, 05 Dec 2025 16:21:55 +0000</pubDate>
     </item>
     <item>
       <title>React.js Hit by Maximum-Severity 'React2Shell' Vulnerability</title>
@@ -103,6 +118,11 @@
       <pubDate>Fri, 05 Dec 2025 15:49:43 +0000</pubDate>
     </item>
     <item>
+      <title>On cyber, Trump’s national security strategy emphasizes industry and regional partners</title>
+      <link>https://therecord.media/trump-national-security-strategy-cyber-elements</link>
+      <pubDate>Fri, 05 Dec 2025 15:18:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Google Rolls Out Chrome 143 Update for Billions Worldwide</title>
       <link>https://www.techrepublic.com/article/news-chrome-143-update-13-security-fixes/</link>
       <pubDate>Fri, 05 Dec 2025 14:53:50 +0000</pubDate>
@@ -116,6 +136,11 @@
       <title>Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability</title>
       <link>https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html</link>
       <pubDate>Fri, 05 Dec 2025 14:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU issues €120 million fine to Elon Musk’s X under rules to tackle disinformation</title>
+      <link>https://therecord.media/eu-fines-x-under-digital-services-act-disinformation-transparecy-rules</link>
+      <pubDate>Fri, 05 Dec 2025 14:04:57 +0000</pubDate>
     </item>
     <item>
       <title>Leaks show Intellexa burning zero-days to keep Predator spyware running</title>
@@ -208,9 +233,19 @@
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>SMS Phishers Pivot to Points, Taxes, Fake Retailers</title>
+      <link>https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/</link>
+      <pubDate>Thu, 04 Dec 2025 23:02:34 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. CISA adds a new an OpenPLC ScadaBR flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/185327/hacking/u-s-cisa-adds-new-openplc-scadabr-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Thu, 04 Dec 2025 21:56:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA, NSA warn of China’s BRICKSTORM malware after incident response efforts</title>
+      <link>https://therecord.media/cisa-nsa-warn-brickstorm-china</link>
+      <pubDate>Thu, 04 Dec 2025 21:35:26 +0000</pubDate>
     </item>
     <item>
       <title>Critical Vulnerabilities in React Server Components and Next.js</title>
@@ -271,41 +306,6 @@
       <title>ASUS confirms vendor breach as Everest gang leaks data, claims ArcSoft and Qualcomm</title>
       <link>https://securityaffairs.com/185310/data-breach/asus-confirms-vendor-breach-as-everest-gang-leaks-data-claims-arcsoft-and-qualcomm.html</link>
       <pubDate>Thu, 04 Dec 2025 15:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protect Your Digital Life with a 5-Year iProVPN Plan for $20</title>
-      <link>https://www.techrepublic.com/article/iprovpn-5-year-subscription/</link>
-      <pubDate>Thu, 04 Dec 2025 15:41:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Agencies Push for Digital Trust Amid AI Era with New Provenance Report</title>
-      <link>https://www.infosecurity-magazine.com/news/cyber-agencies-new-provenance/</link>
-      <pubDate>Thu, 04 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile Security &amp; Malware Issue 1st Week of December, 2025</title>
-      <link>https://asec.ahnlab.com/en/91443/</link>
-      <pubDate>Thu, 04 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New GhostFrame Phishing Framework Hits Over One Million Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/ghostframe-phishing-hits-one/</link>
-      <pubDate>Thu, 04 Dec 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UDPGangster Campaigns Target Multiple Countries</title>
-      <link>https://feeds.fortinet.com/~/931297808/0/fortinet/blog/threat-research~UDPGangster-Campaigns-Target-Multiple-Countries</link>
-      <pubDate>Thu, 04 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian police trialing facial recognition bodycams</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/canadian-police-trialing-facial-recognition-bodycams</link>
-      <pubDate>Thu, 04 Dec 2025 13:19:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update Chrome now: Google fixes 13 security issues affecting billions</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/google-fixes-13-security-issues-affecting-billions</link>
-      <pubDate>Thu, 04 Dec 2025 12:42:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
