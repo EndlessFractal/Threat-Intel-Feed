@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 20:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 22:17:26 +0000</lastBuildDate>
+    <item>
+      <title>Trump plans executive order curbing state AI laws</title>
+      <link>https://therecord.media/trump-plans-ai-exec-order-curbing-state-laws</link>
+      <pubDate>Mon, 08 Dec 2025 21:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than $2 billion in payments from 4,000 ransomware incidents reported to Treasury in recent years</title>
+      <link>https://therecord.media/fincen-treasury-2-billion-ransomware-payments-report</link>
+      <pubDate>Mon, 08 Dec 2025 21:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploitation of Critical Vulnerability in React Server Components (Updated December 8)</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/</link>
+      <pubDate>Mon, 08 Dec 2025 21:00:55 +0000</pubDate>
+    </item>
     <item>
       <title>Meta proposal for less data sharing is approved by European Commission</title>
       <link>https://therecord.media/meta-less-data-sharing-european-commission</link>
@@ -73,19 +88,9 @@
       <pubDate>Mon, 08 Dec 2025 14:53:05 +0000</pubDate>
     </item>
     <item>
-      <title>Three hacking groups, two vulnerabilities and all eyes on China</title>
-      <link>https://therecord.media/three-hacking-groups-two-vulnerabilities-china-microsoft</link>
-      <pubDate>Mon, 08 Dec 2025 14:51:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Privacy concerns raised as Grok AI found to be a stalker’s best friend</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-concerns-raised-as-grok-ai-found-to-be-a-stalkers-best-friend</link>
       <pubDate>Mon, 08 Dec 2025 14:45:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian police bust bank-account hacking gang that used NFCGate-based malware</title>
-      <link>https://therecord.media/russian-police-bust-banking-hackers-nfcgate-based-malware</link>
-      <pubDate>Mon, 08 Dec 2025 13:56:16 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-66516: Maximum-Severity Vulnerability in Apache Tika Could Lead to XML External Entity Injection Attack</title>
@@ -111,6 +116,11 @@
       <title>Substitution Cipher Based on The Voynich Manuscript</title>
       <link>https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html</link>
       <pubDate>Mon, 08 Dec 2025 12:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/12/08/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Can Retailers Cyber-Prepare for the Most Vulnerable Time of the Year?</title>
@@ -296,16 +306,6 @@
       <title>React2Shell Vulnerability: Maximum-Severity Flaw in React Server Components Actively Exploited by China-Backed Groups</title>
       <link>https://socprime.com/blog/react2shell-vulnerability-exploitation/</link>
       <pubDate>Fri, 05 Dec 2025 15:49:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Rolls Out Chrome 143 Update for Billions Worldwide</title>
-      <link>https://www.techrepublic.com/article/news-chrome-143-update-13-security-fixes/</link>
-      <pubDate>Fri, 05 Dec 2025 14:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked Warp Panda Targets North American Firms in Espionage Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/chinalinked-warp-panda/</link>
-      <pubDate>Fri, 05 Dec 2025 14:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
