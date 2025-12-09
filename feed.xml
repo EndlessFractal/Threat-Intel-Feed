@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 03:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 04:26:35 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Tuesday, December 9th, 2025 https://isc.sans.edu/podcastdetail/9730, (Tue, Dec 9th)</title>
       <link>https://isc.sans.edu/diary/rss/32548</link>
@@ -18,9 +18,29 @@
       <pubDate>Tue, 09 Dec 2025 00:26:49 +0000</pubDate>
     </item>
     <item>
+      <title>GrayBravo’s CastleLoader Activity Clusters Target Multiple Industries</title>
+      <link>https://www.recordedfuture.com/research/graybravos-castleloader-activity-clusters-target-multiple-industries</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump plans executive order curbing state AI laws</title>
+      <link>https://therecord.media/trump-plans-ai-exec-order-curbing-state-laws</link>
+      <pubDate>Mon, 08 Dec 2025 21:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than $2 billion in payments from 4,000 ransomware incidents reported to Treasury in recent years</title>
+      <link>https://therecord.media/fincen-treasury-2-billion-ransomware-payments-report</link>
+      <pubDate>Mon, 08 Dec 2025 21:15:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Exploitation of Critical Vulnerability in React Server Components (Updated December 8)</title>
       <link>https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/</link>
       <pubDate>Mon, 08 Dec 2025 21:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta proposal for less data sharing is approved by European Commission</title>
+      <link>https://therecord.media/meta-less-data-sharing-european-commission</link>
+      <pubDate>Mon, 08 Dec 2025 20:01:45 +0000</pubDate>
     </item>
     <item>
       <title>FBI: Crooks manipulate online photos to fuel virtual kidnapping ransoms</title>
@@ -31,6 +51,11 @@
       <title>Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT</title>
       <link>https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html</link>
       <pubDate>Mon, 08 Dec 2025 17:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian kids revolt as Kremlin bans Roblox, other popular apps</title>
+      <link>https://therecord.media/russia-bans-roblox-drawing-criticism-from-kids</link>
+      <pubDate>Mon, 08 Dec 2025 17:02:22 +0000</pubDate>
     </item>
     <item>
       <title>Google Confirms Rising ‘Account Takeovers ’— Users Told to Check Chrome Settings</title>
@@ -46,6 +71,11 @@
       <title>ClayRat Android Spyware Expands Capabilities</title>
       <link>https://www.infosecurity-magazine.com/news/clayrat-android-spyware-upgraded/</link>
       <pubDate>Mon, 08 Dec 2025 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers track dozens of organizations affected by React2Shell compromises tied to China’s MSS</title>
+      <link>https://therecord.media/researchers-track-dozens-react2shell-vuln</link>
+      <pubDate>Mon, 08 Dec 2025 16:30:12 +0000</pubDate>
     </item>
     <item>
       <title>How to Choose an SSE Platform That Delivers</title>
@@ -71,6 +101,11 @@
       <title>Oracle EBS zero-day used by Clop to breach Barts Health NHS</title>
       <link>https://securityaffairs.com/185447/data-breach/oracle-ebs-zero-day-used-by-clop-to-breach-barts-health-nhs.html</link>
       <pubDate>Mon, 08 Dec 2025 14:53:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privacy concerns raised as Grok AI found to be a stalker’s best friend</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-concerns-raised-as-grok-ai-found-to-be-a-stalkers-best-friend</link>
+      <pubDate>Mon, 08 Dec 2025 14:45:48 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-66516: Maximum-Severity Vulnerability in Apache Tika Could Lead to XML External Entity Injection Attack</title>
@@ -223,6 +258,11 @@
       <pubDate>Sat, 06 Dec 2025 15:24:00 +0000</pubDate>
     </item>
     <item>
+      <title>Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill</title>
+      <link>https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/</link>
+      <pubDate>Sat, 06 Dec 2025 14:45:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation</title>
       <link>https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html</link>
       <pubDate>Sat, 06 Dec 2025 11:40:00 +0000</pubDate>
@@ -266,46 +306,6 @@
       <title>Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch</title>
       <link>https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html</link>
       <pubDate>Fri, 05 Dec 2025 16:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>React.js Hit by Maximum-Severity 'React2Shell' Vulnerability</title>
-      <link>https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/</link>
-      <pubDate>Fri, 05 Dec 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Identifies New China-Nexus Espionage Actor</title>
-      <link>https://www.techrepublic.com/article/news-china-nexus-espionage-actor/</link>
-      <pubDate>Fri, 05 Dec 2025 15:52:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>React2Shell Vulnerability: Maximum-Severity Flaw in React Server Components Actively Exploited by China-Backed Groups</title>
-      <link>https://socprime.com/blog/react2shell-vulnerability-exploitation/</link>
-      <pubDate>Fri, 05 Dec 2025 15:49:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Rolls Out Chrome 143 Update for Billions Worldwide</title>
-      <link>https://www.techrepublic.com/article/news-chrome-143-update-13-security-fixes/</link>
-      <pubDate>Fri, 05 Dec 2025 14:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked Warp Panda Targets North American Firms in Espionage Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/chinalinked-warp-panda/</link>
-      <pubDate>Fri, 05 Dec 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability</title>
-      <link>https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html</link>
-      <pubDate>Fri, 05 Dec 2025 14:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leaks show Intellexa burning zero-days to keep Predator spyware running</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/leaks-show-intellexa-burning-zero-days-to-keep-predator-spyware-running</link>
-      <pubDate>Fri, 05 Dec 2025 13:31:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sharpening the knife: GOLD BLADE’s strategic evolution</title>
-      <link>https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/</link>
-      <pubDate>Fri, 05 Dec 2025 13:24:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
