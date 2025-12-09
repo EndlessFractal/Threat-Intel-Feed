@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 10:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 12:38:34 +0000</lastBuildDate>
+    <item>
+      <title>AI vs. Human Drivers</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/ai-vs-human-drivers.html</link>
+      <pubDate>Tue, 09 Dec 2025 12:07:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepfakes, AI resumes, and the growing threat of fake applicants</title>
+      <link>https://www.malwarebytes.com/blog/inside-malwarebytes/2025/12/deepfakes-ai-resumes-and-the-growing-threat-of-fake-applicants</link>
+      <pubDate>Tue, 09 Dec 2025 11:49:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Named One of Computerworld’s 2026 Best Places to Work in IT</title>
+      <link>https://news.sophos.com/en-us/2025/12/09/sophos-named-one-of-computerworlds-2026-best-places-to-work-in-it/</link>
+      <pubDate>Tue, 09 Dec 2025 11:33:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK NCSC Raises Alarms Over Prompt Injection Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-raises-alarms-prompt/</link>
+      <pubDate>Tue, 09 Dec 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Streamline Zero Trust Using the Shared Signals Framework</title>
+      <link>https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html</link>
+      <pubDate>Tue, 09 Dec 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goodbye, dark Telegram: Blocks are pushing the underground out</title>
+      <link>https://securelist.com/goodbye-dark-telegram/118286/</link>
+      <pubDate>Tue, 09 Dec 2025 11:25:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats</title>
+      <link>https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html</link>
+      <pubDate>Tue, 09 Dec 2025 11:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New BYOVD loader behind DeadLock ransomware attack</title>
+      <link>https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/</link>
+      <pubDate>Tue, 09 Dec 2025 11:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polish Police arrest 3 Ukrainians for possessing advanced hacking tools</title>
+      <link>https://securityaffairs.com/185480/cyber-crime/polish-police-arrest-3-ukrainians-for-possessing-advanced-hacking-tools.html</link>
+      <pubDate>Tue, 09 Dec 2025 10:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-55182 Exploitation Hits the Smart Home</title>
+      <link>https://www.bitdefender.com/en-us/blog/labs/cve-2025-55182-exploitation-hits-the-smart-home</link>
+      <pubDate>Tue, 09 Dec 2025 09:37:00 +0000</pubDate>
+    </item>
     <item>
       <title>STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware</title>
       <link>https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html</link>
@@ -256,56 +306,6 @@
       <title>The State of the 2025 Cyber Workforce: Skills Gaps, AI Opportunity and Economic Strain</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-state-of-the-2025-cyber-workforce-skills-gaps-ai-opportunity-and-economic-strain</link>
       <pubDate>Sun, 07 Dec 2025 10:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside Shanya, a packer-as-a-service fueling modern attacks</title>
-      <link>https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/</link>
-      <pubDate>Sun, 07 Dec 2025 02:57:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers launch dual campaign on GlobalProtect portals and SonicWall APIs</title>
-      <link>https://securityaffairs.com/185382/hacking/attackers-launch-dual-campaign-on-globalprotect-portals-and-sonicwall-apis.html</link>
-      <pubDate>Sat, 06 Dec 2025 16:08:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks</title>
-      <link>https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html</link>
-      <pubDate>Sat, 06 Dec 2025 15:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill</title>
-      <link>https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/</link>
-      <pubDate>Sat, 06 Dec 2025 14:45:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation</title>
-      <link>https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html</link>
-      <pubDate>Sat, 06 Dec 2025 11:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maximum-severity XXE vulnerability discovered in Apache Tika</title>
-      <link>https://securityaffairs.com/185363/security/maximum-severity-xxe-vulnerability-discovered-in-apache-tika.html</link>
-      <pubDate>Sat, 06 Dec 2025 00:03:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>From React to Remote Code – Protecting Against the Critical React2Shell RCE Exposure</title>
-      <link>https://www.sentinelone.com/blog/protecting-against-critical-react2shell-rce-exposure/</link>
-      <pubDate>Fri, 05 Dec 2025 23:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Prompt Injection Attack Vectors Through MCP Sampling</title>
-      <link>https://unit42.paloaltonetworks.com/model-context-protocol-attack-vectors/</link>
-      <pubDate>Fri, 05 Dec 2025 23:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Vampire Squid Genome</title>
-      <link>https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html</link>
-      <pubDate>Fri, 05 Dec 2025 22:06:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft named a leader in the 2025 Gartner® Magic Quadrant™ for Email Security</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/12/05/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-email-security/</link>
-      <pubDate>Fri, 05 Dec 2025 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
