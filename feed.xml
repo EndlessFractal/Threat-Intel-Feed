@@ -6,11 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 14:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 16:23:57 +0000</lastBuildDate>
+    <item>
+      <title>California man admits role in $263 million cryptocurrency theft that funded lavish lifestyle</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/california-man-admits-role-in-263-million-cryptocurrency-theft-that-funded-lavish-lifestyle</link>
+      <pubDate>Tue, 09 Dec 2025 16:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeadLock Ransomware Uses BYOVD to Evade Security Measures</title>
+      <link>https://www.infosecurity-magazine.com/news/deadlock-ransomware-uses-byovd/</link>
+      <pubDate>Tue, 09 Dec 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #80: DeepSeek’s cheap GPT-5 rival, Antigravity fails, and why being rude to AI makes it smarter</title>
+      <link>https://grahamcluley.com/the-ai-fix-80/</link>
+      <pubDate>Tue, 09 Dec 2025 15:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broadside botnet hits TBK DVRs, raising alarms for maritime logistics</title>
+      <link>https://securityaffairs.com/185491/malware/broadside-botnet-hits-tbk-dvrs-raising-alarms-for-maritime-logistics.html</link>
+      <pubDate>Tue, 09 Dec 2025 15:10:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seoul cyber investigators seize data, devices from ‘South Korea’s Amazon’ following data breach</title>
+      <link>https://therecord.media/seoul-cyber-investigators-seize-data-korea-tech-giant</link>
+      <pubDate>Tue, 09 Dec 2025 14:51:43 +0000</pubDate>
+    </item>
     <item>
       <title>Uncovering Hidden Forensic Evidence in Windows: The Mystery of AutoLogger-Diagtrack-Listener.etl</title>
       <link>https://feeds.fortinet.com/~/932574884/0/fortinet/blog/threat-research~Uncovering-Hidden-Forensic-Evidence-in-Windows-The-Mystery-of-AutoLoggerDiagtrackListeneretl</link>
       <pubDate>Tue, 09 Dec 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading</title>
+      <link>https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html</link>
+      <pubDate>Tue, 09 Dec 2025 13:37:00 +0000</pubDate>
     </item>
     <item>
       <title>Prompt injection is a problem that may never be fixed, warns NCSC</title>
@@ -23,7 +53,7 @@
       <pubDate>Tue, 09 Dec 2025 12:57:28 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Issues New ‘Critical’ Windows 11 Update Amid Broader Upgrade Push</title>
+      <title>Microsoft Issues New ‘Critical‘ Windows 11 Update Amid Broader Upgrade Push</title>
       <link>https://www.techrepublic.com/article/news-microsoft-windows-11-update-dec-2025/</link>
       <pubDate>Tue, 09 Dec 2025 12:55:14 +0000</pubDate>
     </item>
@@ -73,6 +103,11 @@
       <pubDate>Tue, 09 Dec 2025 11:00:25 +0000</pubDate>
     </item>
     <item>
+      <title>New in Snort3: Enhanced rule grouping for greater flexibility and control</title>
+      <link>https://blog.talosintelligence.com/new-in-snort3-enhanced-rule-grouping-for-greater-flexibility-and-control/</link>
+      <pubDate>Tue, 09 Dec 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Polish Police arrest 3 Ukrainians for possessing advanced hacking tools</title>
       <link>https://securityaffairs.com/185480/cyber-crime/polish-police-arrest-3-ukrainians-for-possessing-advanced-hacking-tools.html</link>
       <pubDate>Tue, 09 Dec 2025 10:03:42 +0000</pubDate>
@@ -106,6 +141,16 @@
       <title>FinCEN data shows $4.5B in ransomware payments, record spike in 2023</title>
       <link>https://securityaffairs.com/185465/cyber-crime/fincen-data-shows-4-5b-in-ransomware-payments-record-spike-in-2023.html</link>
       <pubDate>Tue, 09 Dec 2025 00:26:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Real-Word Third-Party Risk Examples</title>
+      <link>https://www.recordedfuture.com/blog/third-party-risk-examples</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October</title>
+      <link>https://www.recordedfuture.com/blog/november-2025-cve-landscape</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>GrayBravo’s CastleLoader Activity Clusters Target Multiple Industries</title>
@@ -148,7 +193,7 @@
       <pubDate>Mon, 08 Dec 2025 17:02:22 +0000</pubDate>
     </item>
     <item>
-      <title>Google Confirms Rising ‘Account Takeovers ’— Users Told to Check Chrome Settings</title>
+      <title>Google Confirms Rising ‘Account Takeovers’— Users Told to Check Chrome Settings</title>
       <link>https://www.techrepublic.com/article/news-google-chrome-account-takeover/</link>
       <pubDate>Mon, 08 Dec 2025 17:00:11 +0000</pubDate>
     </item>
@@ -161,11 +206,6 @@
       <title>ClayRat Android Spyware Expands Capabilities</title>
       <link>https://www.infosecurity-magazine.com/news/clayrat-android-spyware-upgraded/</link>
       <pubDate>Mon, 08 Dec 2025 16:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers track dozens of organizations affected by React2Shell compromises tied to China’s MSS</title>
-      <link>https://therecord.media/researchers-track-dozens-react2shell-vuln</link>
-      <pubDate>Mon, 08 Dec 2025 16:30:12 +0000</pubDate>
     </item>
     <item>
       <title>How to Choose an SSE Platform That Delivers</title>
@@ -266,46 +306,6 @@
       <title>Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks</title>
       <link>https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html</link>
       <pubDate>Mon, 08 Dec 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Gives All Eligible PCs the Green Light for Windows 11 25H2</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-windows11-25h2/</link>
-      <pubDate>Mon, 08 Dec 2025 09:06:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds a Meta React Server Components flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/185427/security/u-s-cisa-adds-a-meta-react-server-components-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Mon, 08 Dec 2025 09:01:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strengthening Fraud Prevention with Real-Time Mobile Identity Signals</title>
-      <link>https://www.techrepublic.com/article/strengthening-fraud-prevention-with-real-time-mobile-identity-signals/</link>
-      <pubDate>Mon, 08 Dec 2025 08:17:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (December 1 – December 7)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-1-december-7</link>
-      <pubDate>Mon, 08 Dec 2025 08:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign</title>
-      <link>https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html</link>
-      <pubDate>Mon, 08 Dec 2025 06:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration</title>
-      <link>https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/</link>
-      <pubDate>Mon, 08 Dec 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, December 8th, 2025 https://isc.sans.edu/podcastdetail/9728, (Mon, Dec 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/32546</link>
-      <pubDate>Mon, 08 Dec 2025 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical React2Shell Vulnerability Under Active Exploitation by Chinese Threat Actors</title>
-      <link>https://www.recordedfuture.com/blog/critical-react2shell-vulnerability</link>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
