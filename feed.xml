@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 22:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 01:22:50 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Wednesday, December 10th, 2025 https://isc.sans.edu/podcastdetail/9732, (Wed, Dec 10th)</title>
+      <link>https://isc.sans.edu/diary/rss/32552</link>
+      <pubDate>Wed, 10 Dec 2025 00:35:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday for December 2025 — Snort rules and prominent vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-december-2025/</link>
+      <pubDate>Tue, 09 Dec 2025 23:29:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday, December 2025 Edition</title>
+      <link>https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/</link>
+      <pubDate>Tue, 09 Dec 2025 23:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti warns customers of new EPM flaw enabling remote code execution</title>
+      <link>https://securityaffairs.com/185508/hacking/ivanti-warns-customers-of-new-epm-flaw-enabling-remote-code-execution.html</link>
+      <pubDate>Tue, 09 Dec 2025 22:11:33 +0000</pubDate>
+    </item>
     <item>
       <title>California man pleads guilty to RICO charges as DOJ indicts crypto theft gang</title>
       <link>https://therecord.media/california-man-pleads-guilty-rico-charges-crypto-theft</link>
       <pubDate>Tue, 09 Dec 2025 21:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply chain attack</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2025/12/09/shai-hulud-2-0-guidance-for-detecting-investigating-and-defending-against-the-supply-chain-attack/</link>
+      <pubDate>Tue, 09 Dec 2025 21:41:32 +0000</pubDate>
     </item>
     <item>
       <title>Exploitation of Critical Vulnerability in React Server Components (Updated December 9)</title>
@@ -281,31 +306,6 @@
       <title>New Splunk Windows Flaw Enables Privilege Escalation Attacks</title>
       <link>https://www.techrepublic.com/article/news-splunk-windows-flaw-dec-2025/</link>
       <pubDate>Mon, 08 Dec 2025 16:03:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marquis Software Breach Affects Over 780,000 Nationwide</title>
-      <link>https://www.infosecurity-magazine.com/news/marquis-software-breach/</link>
-      <pubDate>Mon, 08 Dec 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How phishers hide banking scams behind free Cloudflare Pages</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/how-phishers-hide-banking-scams-behind-free-cloudflare-pages</link>
-      <pubDate>Mon, 08 Dec 2025 15:26:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle EBS zero-day used by Clop to breach Barts Health NHS</title>
-      <link>https://securityaffairs.com/185447/data-breach/oracle-ebs-zero-day-used-by-clop-to-breach-barts-health-nhs.html</link>
-      <pubDate>Mon, 08 Dec 2025 14:53:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Privacy concerns raised as Grok AI found to be a stalker’s best friend</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-concerns-raised-as-grok-ai-found-to-be-a-stalkers-best-friend</link>
-      <pubDate>Mon, 08 Dec 2025 14:45:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-66516: Maximum-Severity Vulnerability in Apache Tika Could Lead to XML External Entity Injection Attack</title>
-      <link>https://socprime.com/blog/cve-2025-66516-vulnerability/</link>
-      <pubDate>Mon, 08 Dec 2025 13:48:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
