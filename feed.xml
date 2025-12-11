@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 20:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 22:17:48 +0000</lastBuildDate>
+    <item>
+      <title>A big finish to 2025 in December’s Patch Tuesday</title>
+      <link>https://news.sophos.com/en-us/2025/12/11/a-big-finish-to-2025-in-decembers-patch-tuesday/</link>
+      <pubDate>Thu, 11 Dec 2025 22:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Gogs zero-day under attack, 700 servers hacked</title>
+      <link>https://securityaffairs.com/185593/hacking/critical-gogs-zero-day-under-attack-700-servers-hacked.html</link>
+      <pubDate>Thu, 11 Dec 2025 21:29:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-62221 and CVE-2025-54100: Windows Elevation of Privilege and RCE Zero-Day Vulnerabilities Patched</title>
+      <link>https://socprime.com/blog/cve-2025-62221-and-cve-2025-54100-vulnerabilities/</link>
+      <pubDate>Thu, 11 Dec 2025 20:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>GeminiJack zero-click flaw in Gemini Enterprise allowed corporate data exfiltration</title>
+      <link>https://securityaffairs.com/185574/hacking/geminijack-zero-click-flaw-in-gemini-enterprise-allowed-corporate-data-exfiltration.html</link>
+      <pubDate>Thu, 11 Dec 2025 20:16:22 +0000</pubDate>
+    </item>
     <item>
       <title>One newsletter to rule them all</title>
       <link>https://blog.talosintelligence.com/one-newsletter-to-rule-them-all/</link>
@@ -68,19 +88,9 @@
       <pubDate>Thu, 11 Dec 2025 15:44:40 +0000</pubDate>
     </item>
     <item>
-      <title>Grassroots DICOM (GDCM)</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-345-01</link>
-      <pubDate>Thu, 11 Dec 2025 15:23:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Announced pick for No. 2 at NSA won’t get the job as another candidate surfaces</title>
       <link>https://therecord.media/announced-nsa-deputy-director-pick-joe-francescon-not-taking-job</link>
       <pubDate>Thu, 11 Dec 2025 15:22:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Varex Imaging Panoramic Dental Imaging Software</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-345-02</link>
-      <pubDate>Thu, 11 Dec 2025 15:21:00 +0000</pubDate>
     </item>
     <item>
       <title>UK fines LastPass £1.2 million for data breach affecting 1.6 million people</title>
@@ -116,21 +126,6 @@
       <title>Hunting for Mythic in network traffic</title>
       <link>https://securelist.com/detecting-mythic-in-network-traffic/118291/</link>
       <pubDate>Thu, 11 Dec 2025 12:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025 CWE Top 25 Most Dangerous Software Weaknesses</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/12/11/2025-cwe-top-25-most-dangerous-software-weaknesses</link>
-      <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases 12 Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/12/11/cisa-releases-12-industrial-control-systems-advisories</link>
-      <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/12/11/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Another Chrome zero-day under attack: update now</title>
@@ -306,6 +301,11 @@
       <title>FBI Warns of Fake Video Scams</title>
       <link>https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html</link>
       <pubDate>Wed, 10 Dec 2025 12:05:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Fixes Zero Click Gemini Enterprise Flaw That Exposed Corporate Data</title>
+      <link>https://www.infosecurity-magazine.com/news/google-fixes-gemini-enterprise-flaw/</link>
+      <pubDate>Wed, 10 Dec 2025 12:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
