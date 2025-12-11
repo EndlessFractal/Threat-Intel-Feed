@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 10:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 12:40:00 +0000</lastBuildDate>
+    <item>
+      <title>Hunting for Mythic in network traffic</title>
+      <link>https://securelist.com/detecting-mythic-in-network-traffic/118291/</link>
+      <pubDate>Thu, 11 Dec 2025 12:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Another Chrome zero-day under attack: update now</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/12/another-chrome-zero-day-under-attack-update-now</link>
+      <pubDate>Thu, 11 Dec 2025 11:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hamas-Affiliated Ashen Lepus Targets Middle Eastern Diplomatic Entities With New AshTag Malware Suite</title>
+      <link>https://unit42.paloaltonetworks.com/hamas-affiliate-ashen-lepus-uses-new-malware-suite-ashtag/</link>
+      <pubDate>Thu, 11 Dec 2025 11:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor</title>
+      <link>https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html</link>
+      <pubDate>Thu, 11 Dec 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scam-Busting FCA Firm Checker Tool Given Cautious Welcome</title>
+      <link>https://www.infosecurity-magazine.com/news/fca-firm-checker-tool-cautious/</link>
+      <pubDate>Thu, 11 Dec 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks</title>
+      <link>https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html</link>
+      <pubDate>Thu, 11 Dec 2025 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Releases Critical Chrome Security Update to Address Three Zero-Days</title>
       <link>https://www.infosecurity-magazine.com/news/google-chrome-security-update/</link>
       <pubDate>Thu, 11 Dec 2025 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GOLD SALEM tradecraft for deploying Warlock ransomware</title>
+      <link>https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/</link>
+      <pubDate>Thu, 11 Dec 2025 10:00:59 +0000</pubDate>
     </item>
     <item>
       <title>“Cyber Tax” Warning as Two-Fifths of SMBs Raise Prices After Breach</title>
@@ -183,13 +218,13 @@
       <pubDate>Wed, 10 Dec 2025 12:00:55 +0000</pubDate>
     </item>
     <item>
-      <title>Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups</title>
-      <link>https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</link>
+      <title>Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes</title>
+      <link>https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</link>
       <pubDate>Wed, 10 Dec 2025 11:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes</title>
-      <link>https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</link>
+      <title>Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups</title>
+      <link>https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</link>
       <pubDate>Wed, 10 Dec 2025 11:54:00 +0000</pubDate>
     </item>
     <item>
@@ -271,41 +306,6 @@
       <title>North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware</title>
       <link>https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html</link>
       <pubDate>Tue, 09 Dec 2025 18:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics</title>
-      <link>https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/</link>
-      <pubDate>Tue, 09 Dec 2025 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity 2026 | The Year Ahead in AI, Adversaries, and Global Change</title>
-      <link>https://www.sentinelone.com/blog/cybersecurity-2026-the-year-ahead-in-ai-adversaries-and-global-change/</link>
-      <pubDate>Tue, 09 Dec 2025 17:10:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Changing the physics of cyber defense</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/</link>
-      <pubDate>Tue, 09 Dec 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious VS Code Extensions Deploy Advanced Infostealer</title>
-      <link>https://www.infosecurity-magazine.com/news/malicious-vs-code-extensions/</link>
-      <pubDate>Tue, 09 Dec 2025 16:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California man admits role in $263 million cryptocurrency theft that funded lavish lifestyle</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/california-man-admits-role-in-263-million-cryptocurrency-theft-that-funded-lavish-lifestyle</link>
-      <pubDate>Tue, 09 Dec 2025 16:13:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure</title>
-      <link>https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html</link>
-      <pubDate>Tue, 09 Dec 2025 16:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeadLock Ransomware Uses BYOVD to Evade Security Measures</title>
-      <link>https://www.infosecurity-magazine.com/news/deadlock-ransomware-uses-byovd/</link>
-      <pubDate>Tue, 09 Dec 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
