@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 03:22:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 08:26:39 +0000</lastBuildDate>
+    <item>
+      <title>It didn’t take long: CVE-2025-55182 is now under active exploitation</title>
+      <link>https://securelist.com/cve-2025-55182-exploitation/118331/</link>
+      <pubDate>Thu, 11 Dec 2025 07:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution</title>
+      <link>https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html</link>
+      <pubDate>Thu, 11 Dec 2025 05:56:00 +0000</pubDate>
+    </item>
     <item>
       <title>Using AI Gemma 3 Locally with a Single CPU , (Wed, Dec 10th)</title>
       <link>https://isc.sans.edu/diary/rss/32556</link>
@@ -106,6 +116,11 @@
       <title>Sophos achieves its best-ever results in the MITRE ATT&amp;CK Enterprise 2025 Evaluation</title>
       <link>https://news.sophos.com/en-us/2025/12/10/sophos-achieves-its-best-ever-results-in-the-mitre-attck-enterprise-2025-evaluation/</link>
       <pubDate>Wed, 10 Dec 2025 15:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 2, December 2025</title>
+      <link>https://asec.ahnlab.com/en/91518/</link>
+      <pubDate>Wed, 10 Dec 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New EtherRAT backdoor surfaces in React2Shell attacks tied to North Korea</title>
@@ -291,21 +306,6 @@
       <title>Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading</title>
       <link>https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html</link>
       <pubDate>Tue, 09 Dec 2025 13:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prompt injection is a problem that may never be fixed, warns NCSC</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/prompt-injection-is-a-problem-that-may-never-be-fixed-warns-ncsc</link>
-      <pubDate>Tue, 09 Dec 2025 13:34:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU fines X $140m, tied to verification rules that make impostor scams easier</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/eu-fines-x-140m-tied-to-verification-rules-that-make-impostor-scams-easier</link>
-      <pubDate>Tue, 09 Dec 2025 12:57:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Firewall v22 is now available</title>
-      <link>https://news.sophos.com/en-us/2025/12/09/sophos-firewall-v22-is-now-available/</link>
-      <pubDate>Tue, 09 Dec 2025 12:20:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
