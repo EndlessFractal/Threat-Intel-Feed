@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 14:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 16:26:58 +0000</lastBuildDate>
+    <item>
+      <title>Federal agencies now only have one more day to patch React2Shell bug</title>
+      <link>https://therecord.media/react4shell-vulnerability-cisa-shortens-patch-deadline</link>
+      <pubDate>Thu, 11 Dec 2025 16:11:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malware Discovered in 19 Visual Studio Code Extensions</title>
+      <link>https://www.infosecurity-magazine.com/news/malware-discovered-in-19-vs-code/</link>
+      <pubDate>Thu, 11 Dec 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers reportedly breach developer involved with Russia’s military draft database</title>
+      <link>https://therecord.media/hackers-reportedly-breach-developer-involved-in-russian-military-database</link>
+      <pubDate>Thu, 11 Dec 2025 15:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announced pick for No. 2 at NSA won’t get the job as another candidate surfaces</title>
+      <link>https://therecord.media/announced-nsa-deputy-director-pick-joe-francescon-not-taking-job</link>
+      <pubDate>Thu, 11 Dec 2025 15:22:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK fines LastPass £1.2 million for data breach affecting 1.6 million people</title>
+      <link>https://therecord.media/uk-fines-lastpass-over-1-million-data-breach</link>
+      <pubDate>Thu, 11 Dec 2025 14:58:54 +0000</pubDate>
+    </item>
     <item>
       <title>CyberVolk Returns | Flawed VolkLocker Brings New Features With Growing Pains</title>
       <link>https://www.sentinelone.com/blog/cybervolk-returns-flawed-volklocker-brings-new-features-with-growing-pains/</link>
@@ -118,6 +143,11 @@
       <pubDate>Thu, 11 Dec 2025 00:30:16 +0000</pubDate>
     </item>
     <item>
+      <title>Palestine Action: Operations and Global Network</title>
+      <link>https://www.recordedfuture.com/research/palestine-action-operations-and-global-network</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Fortinet fixed two critical authentication-bypass vulnerabilities</title>
       <link>https://securityaffairs.com/185546/security/fortinet-fixed-two-critical-authentication-bypass-vulnerabilities.html</link>
       <pubDate>Wed, 10 Dec 2025 22:04:38 +0000</pubDate>
@@ -133,16 +163,6 @@
       <pubDate>Wed, 10 Dec 2025 20:19:00 +0000</pubDate>
     </item>
     <item>
-      <title>DOJ, CISA warn of Russia-linked attacks targeting meat processing plants, nuclear regulatory entities and other critical infrastructure</title>
-      <link>https://therecord.media/doj-cisa-warn-russia-hackers-targeting-critical-infrastructure</link>
-      <pubDate>Wed, 10 Dec 2025 19:58:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flock cameras remained active in two cities where officials had asked for them to be turned off</title>
-      <link>https://therecord.media/flock-safety-cameras-remained-active-after-cities-asked-turned-off</link>
-      <pubDate>Wed, 10 Dec 2025 19:47:02 +0000</pubDate>
-    </item>
-    <item>
       <title>.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL</title>
       <link>https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html</link>
       <pubDate>Wed, 10 Dec 2025 19:21:00 +0000</pubDate>
@@ -151,11 +171,6 @@
       <title>From awareness to action: Building a security-first culture for the agentic AI era</title>
       <link>https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/</link>
       <pubDate>Wed, 10 Dec 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US extradites member of Russian hacktivist group involved in critical infrastructure attacks</title>
-      <link>https://therecord.media/us-extradites-member-of-russian-hacking-groups-critical-infrastructure</link>
-      <pubDate>Wed, 10 Dec 2025 17:49:32 +0000</pubDate>
     </item>
     <item>
       <title>Clarity in complexity: New insights for transparent email security</title>
@@ -186,11 +201,6 @@
       <title>Pro-Russia Hackers Target US Critical Infrastructure in New Wave</title>
       <link>https://www.infosecurity-magazine.com/news/russia-hackers-target-us-critical/</link>
       <pubDate>Wed, 10 Dec 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teen who allegedly stole millions of personal data records arrested in Spain</title>
-      <link>https://therecord.media/spain-arrests-teen-suspect-data-theft-and-sale</link>
-      <pubDate>Wed, 10 Dec 2025 15:26:32 +0000</pubDate>
     </item>
     <item>
       <title>Possible exploit variant for CVE-2024-9042 (Kubernetes OS Command Injection), (Wed, Dec 10th)</title>
@@ -296,16 +306,6 @@
       <title>Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws</title>
       <link>https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html</link>
       <pubDate>Wed, 10 Dec 2025 04:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, December 10th, 2025 https://isc.sans.edu/podcastdetail/9732, (Wed, Dec 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/32552</link>
-      <pubDate>Wed, 10 Dec 2025 00:35:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Implications of Russia-India-China Trilateral Cooperation</title>
-      <link>https://www.recordedfuture.com/research/implications-of-russia-india-china-trilateral-cooperation</link>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
