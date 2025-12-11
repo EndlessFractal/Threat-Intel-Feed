@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Dec 2025 22:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 01:23:38 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #447: Grok the stalker, the Louvre heist, and Microsoft 365 mayhem</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-447/</link>
+      <pubDate>Thu, 11 Dec 2025 00:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet fixed two critical authentication-bypass vulnerabilities</title>
+      <link>https://securityaffairs.com/185546/security/fortinet-fixed-two-critical-authentication-bypass-vulnerabilities.html</link>
+      <pubDate>Wed, 10 Dec 2025 22:04:38 +0000</pubDate>
+    </item>
     <item>
       <title>Lawmaker calls facial recognition on doorbell cameras a ‘privacy nightmare’</title>
       <link>https://therecord.media/lawmaker-calls-facial-recognition-doorbell-cameras-privacy-nightmare</link>
@@ -123,6 +133,11 @@
       <pubDate>Wed, 10 Dec 2025 12:00:59 +0000</pubDate>
     </item>
     <item>
+      <title>Exploitation of Critical Vulnerability in React Server Components (Updated December 10)</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/</link>
+      <pubDate>Wed, 10 Dec 2025 12:00:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups</title>
       <link>https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</link>
       <pubDate>Wed, 10 Dec 2025 11:54:00 +0000</pubDate>
@@ -201,11 +216,6 @@
       <title>Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply chain attack</title>
       <link>https://www.microsoft.com/en-us/security/blog/2025/12/09/shai-hulud-2-0-guidance-for-detecting-investigating-and-defending-against-the-supply-chain-attack/</link>
       <pubDate>Tue, 09 Dec 2025 21:41:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploitation of Critical Vulnerability in React Server Components (Updated December 10)</title>
-      <link>https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/</link>
-      <pubDate>Tue, 09 Dec 2025 20:30:55 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Patch Tuesday December 2025, (Tue, Dec 9th)</title>
@@ -295,16 +305,6 @@
     <item>
       <title>Universal Boot Loader (U-Boot)</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-343-01</link>
-      <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple India-based CCTV Cameras</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-343-03</link>
-      <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Festo LX Appliance</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-343-02</link>
       <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
