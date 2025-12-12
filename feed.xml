@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 20:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 22:17:19 +0000</lastBuildDate>
+    <item>
+      <title>Friday Squid Blogging: Giant Squid Eating a Diamondback Squid</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html</link>
+      <pubDate>Fri, 12 Dec 2025 22:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploitation of Critical Vulnerability in React Server Components (Updated December 12)</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/</link>
+      <pubDate>Fri, 12 Dec 2025 21:40:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Processing 630 Million More Pwned Passwords, Courtesy of the FBI</title>
+      <link>https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/</link>
+      <pubDate>Fri, 12 Dec 2025 21:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hamas-affiliated APT targeting government agencies in the Middle East, Morocco</title>
+      <link>https://therecord.media/hamas-apt-targeting-government-agencies</link>
+      <pubDate>Fri, 12 Dec 2025 21:16:27 +0000</pubDate>
+    </item>
     <item>
       <title>Canada’s privacy regulator to probe billboards equipped with facial scanning tech</title>
       <link>https://therecord.media/canada-privacy-regulator-to-probe-face-scanning-billboards</link>
@@ -56,6 +76,11 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 50</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/</link>
       <pubDate>Fri, 12 Dec 2025 14:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gartner tells businesses to block AI browsers now</title>
+      <link>https://www.fortra.com/blog/gartner-tells-businesses-block-ai-browsers-now</link>
+      <pubDate>Fri, 12 Dec 2025 12:52:38 +0000</pubDate>
     </item>
     <item>
       <title>Building Trustworthy AI Agents</title>
@@ -166,11 +191,6 @@
       <title>React2Shell flaw (CVE-2025-55182) exploited for remote code execution</title>
       <link>https://news.sophos.com/en-us/2025/12/11/react2shell-flaw-cve-2025-55182-exploited-for-remote-code-execution/</link>
       <pubDate>Thu, 11 Dec 2025 18:07:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New 'DroidLock' malware demands a ransom, locks user out of device</title>
-      <link>https://therecord.media/android-droidlock-malware-demands-ransom-locks-mobile-device</link>
-      <pubDate>Thu, 11 Dec 2025 17:21:38 +0000</pubDate>
     </item>
     <item>
       <title>AIs Exploiting Smart Contracts</title>
@@ -286,26 +306,6 @@
       <title>Pro-Russia Hacktivist Support: Ukrainian Faces US Charges</title>
       <link>https://securityaffairs.com/185552/hacktivism/pro-russia-hacktivist-support-ukrainian-faces-us-charges.html</link>
       <pubDate>Thu, 11 Dec 2025 08:29:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>OT Security Lessons from 2025: Why Essential Eight Needs an OT Lens</title>
-      <link>https://www.techrepublic.com/article/new-apac-ot-security-essential-eight-translation/</link>
-      <pubDate>Thu, 11 Dec 2025 08:03:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>It didn’t take long: CVE-2025-55182 is now under active exploitation</title>
-      <link>https://securelist.com/cve-2025-55182-exploitation/118331/</link>
-      <pubDate>Thu, 11 Dec 2025 07:30:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw</title>
-      <link>https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html</link>
-      <pubDate>Thu, 11 Dec 2025 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Leakage: AI’s Plumbing Problem</title>
-      <link>https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/</link>
-      <pubDate>Thu, 11 Dec 2025 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
