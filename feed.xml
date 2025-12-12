@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 03:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 06:28:56 +0000</lastBuildDate>
+    <item>
+      <title>Abusing DLLs EntryPoint for the Fun, (Fri, Dec 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/32562</link>
+      <pubDate>Fri, 12 Dec 2025 05:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog</title>
+      <link>https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html</link>
+      <pubDate>Fri, 12 Dec 2025 05:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Friday, December 12th, 2025 https://isc.sans.edu/podcastdetail/9736, (Fri, Dec 12th)</title>
       <link>https://isc.sans.edu/diary/rss/32560</link>
@@ -213,6 +223,11 @@
       <pubDate>Thu, 11 Dec 2025 01:48:20 +0000</pubDate>
     </item>
     <item>
+      <title>Smashing Security podcast #447: Grok the stalker, the Louvre heist, and Microsoft 365 mayhem</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-447/</link>
+      <pubDate>Thu, 11 Dec 2025 00:30:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Palestine Action: Operations and Global Network</title>
       <link>https://www.recordedfuture.com/research/palestine-action-operations-and-global-network</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
@@ -253,6 +268,11 @@
       <pubDate>Wed, 10 Dec 2025 16:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ransomware may have extorted over $2.1 billion between 2022-2024, but it’s not all bad news, claims FinCEN report</title>
+      <link>https://www.fortra.com/blog/ransomware-may-have-extorted-over-21-billion-between-2022-2024-its-not-all-bad-news-claims</link>
+      <pubDate>Wed, 10 Dec 2025 16:17:02 +0000</pubDate>
+    </item>
+    <item>
       <title>December Patch Tuesday fixes three zero-days, including one that hijacks Windows devices</title>
       <link>https://www.malwarebytes.com/blog/news/2025/12/december-patch-tuesday-fixes-three-zero-days-including-one-that-hijacks-windows-devices</link>
       <pubDate>Wed, 10 Dec 2025 16:06:14 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Fake Leonardo DiCaprio Movie Torrent Drops Agent Tesla Through Layered PowerShell Chain</title>
       <link>https://www.bitdefender.com/en-us/blog/labs/fake-leonardo-dicaprio-movie-torrent-agent-tesla-powershell</link>
       <pubDate>Wed, 10 Dec 2025 13:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling</title>
-      <link>https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html</link>
-      <pubDate>Wed, 10 Dec 2025 13:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GhostFrame phishing kit fuels widespread attacks against millions</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/ghostframe-phishing-kit-fuels-widespread-attacks-against-millions</link>
-      <pubDate>Wed, 10 Dec 2025 12:41:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Warns of Fake Video Scams</title>
-      <link>https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html</link>
-      <pubDate>Wed, 10 Dec 2025 12:05:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Fixes Zero Click Gemini Enterprise Flaw That Exposed Corporate Data</title>
-      <link>https://www.infosecurity-magazine.com/news/google-fixes-gemini-enterprise-flaw/</link>
-      <pubDate>Wed, 10 Dec 2025 12:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
