@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 22:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 01:23:11 +0000</lastBuildDate>
     <item>
       <title>A big finish to 2025 in December’s Patch Tuesday</title>
       <link>https://news.sophos.com/en-us/2025/12/11/a-big-finish-to-2025-in-decembers-patch-tuesday/</link>
@@ -188,6 +188,11 @@
       <pubDate>Thu, 11 Dec 2025 07:09:00 +0000</pubDate>
     </item>
     <item>
+      <title>Data Leakage: AI’s Plumbing Problem</title>
+      <link>https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/</link>
+      <pubDate>Thu, 11 Dec 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution</title>
       <link>https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html</link>
       <pubDate>Thu, 11 Dec 2025 05:56:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>FBI Warns of Fake Video Scams</title>
       <link>https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html</link>
       <pubDate>Wed, 10 Dec 2025 12:05:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Fixes Zero Click Gemini Enterprise Flaw That Exposed Corporate Data</title>
-      <link>https://www.infosecurity-magazine.com/news/google-fixes-gemini-enterprise-flaw/</link>
-      <pubDate>Wed, 10 Dec 2025 12:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
