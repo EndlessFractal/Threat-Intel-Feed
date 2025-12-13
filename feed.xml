@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 06:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 08:21:59 +0000</lastBuildDate>
     <item>
       <title>Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild</title>
       <link>https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html</link>
@@ -158,6 +158,11 @@
       <pubDate>Fri, 12 Dec 2025 08:00:17 +0000</pubDate>
     </item>
     <item>
+      <title>Inside the Latest Innovations Powering Falcon Exposure Management</title>
+      <link>https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/</link>
+      <pubDate>Fri, 12 Dec 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Abusing DLLs EntryPoint for the Fun, (Fri, Dec 12th)</title>
       <link>https://isc.sans.edu/diary/rss/32562</link>
       <pubDate>Fri, 12 Dec 2025 05:08:36 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks</title>
       <link>https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html</link>
       <pubDate>Thu, 11 Dec 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Releases Critical Chrome Security Update to Address Three Zero-Days</title>
-      <link>https://www.infosecurity-magazine.com/news/google-chrome-security-update/</link>
-      <pubDate>Thu, 11 Dec 2025 10:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
