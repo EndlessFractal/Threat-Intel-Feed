@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 03:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 04:23:54 +0000</lastBuildDate>
     <item>
       <title>Emergency fixes deployed by Google and Apple after targeted attacks</title>
       <link>https://securityaffairs.com/185628/hacking/emergency-fixes-deployed-by-google-and-apple-after-targeted-attacks.html</link>
@@ -33,6 +33,21 @@
       <pubDate>Fri, 12 Dec 2025 21:29:39 +0000</pubDate>
     </item>
     <item>
+      <title>Hamas-affiliated APT targeting government agencies in the Middle East, Morocco</title>
+      <link>https://therecord.media/hamas-apt-targeting-government-agencies</link>
+      <pubDate>Fri, 12 Dec 2025 21:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada’s privacy regulator to probe billboards equipped with facial scanning tech</title>
+      <link>https://therecord.media/canada-privacy-regulator-to-probe-face-scanning-billboards</link>
+      <pubDate>Fri, 12 Dec 2025 19:49:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than 340,000 impacted by cyberattack on library in large Washington county</title>
+      <link>https://therecord.media/over-340000-impacted-washington-state-library-hack</link>
+      <pubDate>Fri, 12 Dec 2025 19:05:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads</title>
       <link>https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html</link>
       <pubDate>Fri, 12 Dec 2025 18:50:00 +0000</pubDate>
@@ -48,6 +63,16 @@
       <pubDate>Fri, 12 Dec 2025 18:01:00 +0000</pubDate>
     </item>
     <item>
+      <title>Trump signs executive order on 'national framework' for AI regulation</title>
+      <link>https://therecord.media/trump-executive-order-ai-national-framework</link>
+      <pubDate>Fri, 12 Dec 2025 17:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Germany summons Russian ambassador over cyberattack, election disinformation</title>
+      <link>https://therecord.media/germany-summons-russian-ambassador-cyberattack-disinformation</link>
+      <pubDate>Fri, 12 Dec 2025 15:42:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Google ads funnel Mac users to poisoned AI chats that spread the AMOS infostealer</title>
       <link>https://www.malwarebytes.com/blog/news/2025/12/google-ads-funnel-mac-users-to-poisoned-ai-chats-that-spread-the-amos-infostealer</link>
       <pubDate>Fri, 12 Dec 2025 14:26:03 +0000</pubDate>
@@ -61,11 +86,6 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 50</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/</link>
       <pubDate>Fri, 12 Dec 2025 14:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gartner tells businesses to block AI browsers now</title>
-      <link>https://www.fortra.com/blog/gartner-tells-businesses-block-ai-browsers-now</link>
-      <pubDate>Fri, 12 Dec 2025 12:52:38 +0000</pubDate>
     </item>
     <item>
       <title>Building Trustworthy AI Agents</title>
@@ -126,6 +146,11 @@
       <title>Turn me on, turn me off: Zigbee assessment in industrial environments</title>
       <link>https://securelist.com/zigbee-protocol-security-assessment/118373/</link>
       <pubDate>Fri, 12 Dec 2025 08:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the Latest Innovations Powering Falcon Exposure Management</title>
+      <link>https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/</link>
+      <pubDate>Fri, 12 Dec 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Abusing DLLs EntryPoint for the Fun, (Fri, Dec 12th)</title>
@@ -281,31 +306,6 @@
       <title>GOLD SALEM tradecraft for deploying Warlock ransomware</title>
       <link>https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/</link>
       <pubDate>Thu, 11 Dec 2025 10:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Cyber Tax” Warning as Two-Fifths of SMBs Raise Prices After Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/twofifths-smbs-raise-prices-after/</link>
-      <pubDate>Thu, 11 Dec 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pro-Russia Hacktivist Support: Ukrainian Faces US Charges</title>
-      <link>https://securityaffairs.com/185552/hacktivism/pro-russia-hacktivist-support-ukrainian-faces-us-charges.html</link>
-      <pubDate>Thu, 11 Dec 2025 08:29:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>OT Security Lessons from 2025: Why Essential Eight Needs an OT Lens</title>
-      <link>https://www.techrepublic.com/article/new-apac-ot-security-essential-eight-translation/</link>
-      <pubDate>Thu, 11 Dec 2025 08:03:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>It didn’t take long: CVE-2025-55182 is now under active exploitation</title>
-      <link>https://securelist.com/cve-2025-55182-exploitation/118331/</link>
-      <pubDate>Thu, 11 Dec 2025 07:30:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw</title>
-      <link>https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html</link>
-      <pubDate>Thu, 11 Dec 2025 07:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
