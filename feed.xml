@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 10:22:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 12:41:13 +0000</lastBuildDate>
+    <item>
+      <title>⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams &amp; More</title>
+      <link>https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html</link>
+      <pubDate>Mon, 15 Dec 2025 12:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Against the Federal Moratorium on State-Level Regulation of AI</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/against-the-federal-moratorium-on-state-level-regulation-of-ai.html</link>
+      <pubDate>Mon, 15 Dec 2025 12:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Browser Extension Risk Guide After the ShadyPanda Campaign</title>
+      <link>https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html</link>
+      <pubDate>Mon, 15 Dec 2025 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Releases macOS Sequoia 15.7.3 Security Update</title>
+      <link>https://www.techrepublic.com/article/news-apple-macos-sequoia-security-update/</link>
+      <pubDate>Mon, 15 Dec 2025 11:53:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. fintech and data services firm 700Credit suffered a data breach impacting at least 5.6 million people</title>
+      <link>https://securityaffairs.com/185692/data-breach/u-s-fintech-and-data-services-firm-700credit-suffered-a-data-breach-impacting-at-least-5-6-million-people.html</link>
+      <pubDate>Mon, 15 Dec 2025 11:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asahi to Launch Cybersecurity Overhaul After Crippling Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/asahi-launch-cybersecurity/</link>
+      <pubDate>Mon, 15 Dec 2025 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are Your AI Assistants Under Attack?</title>
+      <link>https://www.techrepublic.com/article/news-ai-assistants-under-attack/</link>
+      <pubDate>Mon, 15 Dec 2025 11:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 25 Most Dangerous Software Weaknesses of 2025 Revealed</title>
+      <link>https://www.infosecurity-magazine.com/news/top-25-dangerous-software/</link>
+      <pubDate>Mon, 15 Dec 2025 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Man jailed for teaching criminals how to use malware</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/man-jailed-for-teaching-criminals-how-to-use-malware</link>
+      <pubDate>Mon, 15 Dec 2025 10:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERT-FR recommends completely deactivate Wi-Fi whenever it’s not in use</title>
+      <link>https://securityaffairs.com/185702/hacking/cert-fr-recommends-completely-deactivate-wi-fi-whenever-its-not-in-use.html</link>
+      <pubDate>Mon, 15 Dec 2025 10:01:01 +0000</pubDate>
+    </item>
     <item>
       <title>NCSC Playbook Embeds Cyber Essentials in Supply Chains</title>
       <link>https://www.infosecurity-magazine.com/news/ncsc-playbook-cyber-essentials/</link>
@@ -223,11 +273,6 @@
       <pubDate>Fri, 12 Dec 2025 10:00:39 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. CISA adds an OSGeo GeoServer flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/185604/hacking/u-s-cisa-adds-an-osgeo-geoserver-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Fri, 12 Dec 2025 09:24:42 +0000</pubDate>
-    </item>
-    <item>
       <title>ICO Fines LastPass £1.2m After 2022 Breach</title>
       <link>https://www.infosecurity-magazine.com/news/ico-fines-lastpass-12m-2022-breach/</link>
       <pubDate>Fri, 12 Dec 2025 09:10:00 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>Abusing DLLs EntryPoint for the Fun, (Fri, Dec 12th)</title>
       <link>https://isc.sans.edu/diary/rss/32562</link>
       <pubDate>Fri, 12 Dec 2025 05:08:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog</title>
-      <link>https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html</link>
-      <pubDate>Fri, 12 Dec 2025 05:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, December 12th, 2025 https://isc.sans.edu/podcastdetail/9736, (Fri, Dec 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/32560</link>
-      <pubDate>Fri, 12 Dec 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>A big finish to 2025 in December’s Patch Tuesday</title>
-      <link>https://news.sophos.com/en-us/2025/12/11/a-big-finish-to-2025-in-decembers-patch-tuesday/</link>
-      <pubDate>Thu, 11 Dec 2025 22:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Gogs zero-day under attack, 700 servers hacked</title>
-      <link>https://securityaffairs.com/185593/hacking/critical-gogs-zero-day-under-attack-700-servers-hacked.html</link>
-      <pubDate>Thu, 11 Dec 2025 21:29:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-62221 and CVE-2025-54100: Windows Elevation of Privilege and RCE Zero-Day Vulnerabilities Patched</title>
-      <link>https://socprime.com/blog/cve-2025-62221-and-cve-2025-54100-vulnerabilities/</link>
-      <pubDate>Thu, 11 Dec 2025 20:24:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>One newsletter to rule them all</title>
-      <link>https://blog.talosintelligence.com/one-newsletter-to-rule-them-all/</link>
-      <pubDate>Thu, 11 Dec 2025 19:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>React2Shell flaw (CVE-2025-55182) exploited for remote code execution</title>
-      <link>https://news.sophos.com/en-us/2025/12/11/react2shell-flaw-cve-2025-55182-exploited-for-remote-code-execution/</link>
-      <pubDate>Thu, 11 Dec 2025 18:07:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIs Exploiting Smart Contracts</title>
-      <link>https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html</link>
-      <pubDate>Thu, 11 Dec 2025 17:06:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Imposter for hire: How fake people can gain very real access</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/</link>
-      <pubDate>Thu, 11 Dec 2025 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
