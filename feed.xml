@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 14:22:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 16:27:10 +0000</lastBuildDate>
+    <item>
+      <title>Russian Phishing Campaign Delivers Phantom Stealer Via ISO Files</title>
+      <link>https://www.infosecurity-magazine.com/news/russian-phishing-phantom-stealer/</link>
+      <pubDate>Mon, 15 Dec 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pig butchering is the next “humanitarian global crisis” (Lock and Code S06E25)</title>
+      <link>https://www.malwarebytes.com/blog/podcast/2025/12/pig-butchering-is-the-next-humanitarian-global-crisis-lock-and-code-s06e25</link>
+      <pubDate>Mon, 15 Dec 2025 15:39:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlassian fixed maximum severity flaw CVE-2025-66516 in Apache Tika</title>
+      <link>https://securityaffairs.com/185710/security/atlassian-fixed-maximum-severity-flaw-cve-2025-66516-in-apache-tika.html</link>
+      <pubDate>Mon, 15 Dec 2025 15:03:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE</title>
+      <link>https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html</link>
+      <pubDate>Mon, 15 Dec 2025 14:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nearly 20 million affected by Prosper, 700Credit data breaches</title>
+      <link>https://therecord.media/data-breaches-affecting-20-million-prosper-700credit</link>
+      <pubDate>Mon, 15 Dec 2025 14:20:44 +0000</pubDate>
+    </item>
     <item>
       <title>CVE-2025-55183 and CVE-2025-55184: New React RSC Vulnerabilities Expose Applications to Denial of Service Attacks and Source Code Leaks</title>
       <link>https://socprime.com/blog/cve-2025-55183-and-cve-2025-55184-rsc-vulnerabilities/</link>
@@ -128,6 +153,11 @@
       <pubDate>Mon, 15 Dec 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>What’s Next for Enterprise Threat Intelligence in 2026</title>
+      <link>https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Upcoming Speaking Engagements</title>
       <link>https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html</link>
       <pubDate>Sun, 14 Dec 2025 17:10:39 +0000</pubDate>
@@ -223,11 +253,6 @@
       <pubDate>Fri, 12 Dec 2025 19:49:40 +0000</pubDate>
     </item>
     <item>
-      <title>More than 340,000 impacted by cyberattack on library in large Washington county</title>
-      <link>https://therecord.media/over-340000-impacted-washington-state-library-hack</link>
-      <pubDate>Fri, 12 Dec 2025 19:05:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads</title>
       <link>https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html</link>
       <pubDate>Fri, 12 Dec 2025 18:50:00 +0000</pubDate>
@@ -268,11 +293,6 @@
       <pubDate>Fri, 12 Dec 2025 12:00:47 +0000</pubDate>
     </item>
     <item>
-      <title>Elastic detects stealthy NANOREMOTE malware using Google Drive as C2</title>
-      <link>https://securityaffairs.com/185613/malware/elastic-detects-stealthy-nanoremote-malware-using-google-drive-as-c2.html</link>
-      <pubDate>Fri, 12 Dec 2025 11:11:36 +0000</pubDate>
-    </item>
-    <item>
       <title>NCSC Plugs Gap in Cyber-Deception Guidance</title>
       <link>https://www.infosecurity-magazine.com/news/ncsc-plugs-gap-cyber-deception/</link>
       <pubDate>Fri, 12 Dec 2025 10:30:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work</title>
       <link>https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html</link>
       <pubDate>Fri, 12 Dec 2025 10:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Following the digital trail: what happens to data stolen in a phishing attack</title>
-      <link>https://securelist.com/what-happens-to-stolen-data-after-phishing-attacks/118180/</link>
-      <pubDate>Fri, 12 Dec 2025 10:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICO Fines LastPass £1.2m After 2022 Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-fines-lastpass-12m-2022-breach/</link>
-      <pubDate>Fri, 12 Dec 2025 09:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New React RSC Vulnerabilities Enable DoS and Source Code Exposure</title>
-      <link>https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html</link>
-      <pubDate>Fri, 12 Dec 2025 08:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation</title>
-      <link>https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html</link>
-      <pubDate>Fri, 12 Dec 2025 08:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
