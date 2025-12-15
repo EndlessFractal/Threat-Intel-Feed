@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 12:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 14:22:29 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2025-55183 and CVE-2025-55184: New React RSC Vulnerabilities Expose Applications to Denial of Service Attacks and Source Code Leaks</title>
+      <link>https://socprime.com/blog/cve-2025-55183-and-cve-2025-55184-rsc-vulnerabilities/</link>
+      <pubDate>Mon, 15 Dec 2025 14:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>PayPal closes loophole that let scammers send real emails with fake purchase notices</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/12/paypal-closes-loophole-that-let-scammers-send-real-emails-with-fake-purchase-notices</link>
+      <pubDate>Mon, 15 Dec 2025 13:41:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>More React2Shell Exploits CVE-2025-55182, (Mon, Dec 15th)</title>
+      <link>https://isc.sans.edu/diary/rss/32572</link>
+      <pubDate>Mon, 15 Dec 2025 13:17:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jaguar Land Rover confirms staff data stolen in cyberattack</title>
+      <link>https://therecord.media/jaguar-land-rover-confirms-staff-data-stolen-cyberattack</link>
+      <pubDate>Mon, 15 Dec 2025 13:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>MI6 chief warns 'front line is everywhere' and signals intent to pressure Putin</title>
+      <link>https://therecord.media/mi6-chief-speech-russia-threats-warning</link>
+      <pubDate>Mon, 15 Dec 2025 12:47:31 +0000</pubDate>
+    </item>
     <item>
       <title>⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams &amp; More</title>
       <link>https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html</link>
@@ -86,6 +111,11 @@
       <title>Frogblight threatens you with a court case: a new Android banker targets Turkish users</title>
       <link>https://securelist.com/frogblight-banker/118440/</link>
       <pubDate>Mon, 15 Dec 2025 07:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/</link>
+      <pubDate>Mon, 15 Dec 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption</title>
@@ -213,16 +243,6 @@
       <pubDate>Fri, 12 Dec 2025 18:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>Trump signs executive order on 'national framework' for AI regulation</title>
-      <link>https://therecord.media/trump-executive-order-ai-national-framework</link>
-      <pubDate>Fri, 12 Dec 2025 17:08:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany summons Russian ambassador over cyberattack, election disinformation</title>
-      <link>https://therecord.media/germany-summons-russian-ambassador-cyberattack-disinformation</link>
-      <pubDate>Fri, 12 Dec 2025 15:42:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Google ads funnel Mac users to poisoned AI chats that spread the AMOS infostealer</title>
       <link>https://www.malwarebytes.com/blog/news/2025/12/google-ads-funnel-mac-users-to-poisoned-ai-chats-that-spread-the-amos-infostealer</link>
       <pubDate>Fri, 12 Dec 2025 14:26:03 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation</title>
       <link>https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html</link>
       <pubDate>Fri, 12 Dec 2025 08:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korean Police Raid Coupang Over Data Breach as CEO Resigns</title>
-      <link>https://www.infosecurity-magazine.com/news/seoul-police-raid-coupang-ceo/</link>
-      <pubDate>Fri, 12 Dec 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turn me on, turn me off: Zigbee assessment in industrial environments</title>
-      <link>https://securelist.com/zigbee-protocol-security-assessment/118373/</link>
-      <pubDate>Fri, 12 Dec 2025 08:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Latest Innovations Powering Falcon Exposure Management</title>
-      <link>https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/</link>
-      <pubDate>Fri, 12 Dec 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abusing DLLs EntryPoint for the Fun, (Fri, Dec 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/32562</link>
-      <pubDate>Fri, 12 Dec 2025 05:08:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
