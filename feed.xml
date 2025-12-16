@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Dec 2025 10:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 12:39:06 +0000</lastBuildDate>
+    <item>
+      <title>Amazon Warns Russian GRU Hackers Target Western Firms via Edge Devices</title>
+      <link>https://www.infosecurity-magazine.com/news/amazon-russian-gru-hackers-target/</link>
+      <pubDate>Tue, 16 Dec 2025 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Surveillance and AI</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/chinese-surveillance-and-ai.html</link>
+      <pubDate>Tue, 16 Dec 2025 12:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photo booth flaw exposes people’s private pictures online</title>
+      <link>https://www.malwarebytes.com/blog/uncategorized/2025/12/photo-booth-flaw-exposes-peoples-private-pictures-online</link>
+      <pubDate>Tue, 16 Dec 2025 11:46:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Data Security and Privacy Need to Start in Code</title>
+      <link>https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html</link>
+      <pubDate>Tue, 16 Dec 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google is discontinuing its dark web report: why it matters</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/12/google-is-discontinuing-its-dark-web-report-why-it-matters</link>
+      <pubDate>Tue, 16 Dec 2025 11:10:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass</title>
+      <link>https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html</link>
+      <pubDate>Tue, 16 Dec 2025 10:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google to Kill Popular Dark Web Report Tool</title>
+      <link>https://www.techrepublic.com/article/news-google-kills-dark-web-report-tool/</link>
+      <pubDate>Tue, 16 Dec 2025 10:53:44 +0000</pubDate>
+    </item>
     <item>
       <title>Millions of Car Owners Hit By Credit700 Data Breach</title>
       <link>https://www.infosecurity-magazine.com/news/millions-car-owners-credit700-data/</link>
@@ -56,6 +91,11 @@
       <title>ISC Stormcast For Tuesday, December 16th, 2025 https://isc.sans.edu/podcastdetail/9740, (Tue, Dec 16th)</title>
       <link>https://isc.sans.edu/diary/rss/32574</link>
       <pubDate>Tue, 16 Dec 2025 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas sues 5 smart TV manufacturers over data collection practices</title>
+      <link>https://therecord.media/texas-sues-5-smart-tv-makers-over-acr-tech</link>
+      <pubDate>Mon, 15 Dec 2025 22:11:11 +0000</pubDate>
     </item>
     <item>
       <title>Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components</title>
@@ -108,6 +148,11 @@
       <pubDate>Mon, 15 Dec 2025 14:32:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nearly 20 million affected by Prosper, 700Credit data breaches</title>
+      <link>https://therecord.media/data-breaches-affecting-20-million-prosper-700credit</link>
+      <pubDate>Mon, 15 Dec 2025 14:20:44 +0000</pubDate>
+    </item>
+    <item>
       <title>CVE-2025-55183 and CVE-2025-55184: New React RSC Vulnerabilities Expose Applications to Denial of Service Attacks and Source Code Leaks</title>
       <link>https://socprime.com/blog/cve-2025-55183-and-cve-2025-55184-rsc-vulnerabilities/</link>
       <pubDate>Mon, 15 Dec 2025 14:00:16 +0000</pubDate>
@@ -126,6 +171,16 @@
       <title>More React2Shell Exploits CVE-2025-55182, (Mon, Dec 15th)</title>
       <link>https://isc.sans.edu/diary/rss/32572</link>
       <pubDate>Mon, 15 Dec 2025 13:17:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jaguar Land Rover confirms staff data stolen in cyberattack</title>
+      <link>https://therecord.media/jaguar-land-rover-confirms-staff-data-stolen-cyberattack</link>
+      <pubDate>Mon, 15 Dec 2025 13:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>MI6 chief warns 'front line is everywhere' and signals intent to pressure Putin</title>
+      <link>https://therecord.media/mi6-chief-speech-russia-threats-warning</link>
+      <pubDate>Mon, 15 Dec 2025 12:47:31 +0000</pubDate>
     </item>
     <item>
       <title>⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams &amp; More</title>
@@ -251,61 +306,6 @@
       <title>Security Affairs newsletter Round 554 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/185673/breaking-news/security-affairs-newsletter-round-554-by-pierluigi-paganini-international-edition.html</link>
       <pubDate>Sun, 14 Dec 2025 14:03:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025: The Year Cybersecurity Crossed the AI Rubicon</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/2025-the-year-cybersecurity-crossed-the-ai-rubicon</link>
-      <pubDate>Sun, 14 Dec 2025 10:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts found an unsecured 16TB database containing 4.3B professional records</title>
-      <link>https://securityaffairs.com/185661/data-breach/experts-found-an-unsecured-16tb-database-containing-4-3b-professional-records.html</link>
-      <pubDate>Sun, 14 Dec 2025 08:56:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClickFix Attacks Still Using the Finger, (Sat, Dec 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/32566</link>
-      <pubDate>Sat, 13 Dec 2025 19:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany calls in Russian Ambassador over air traffic control hack claims</title>
-      <link>https://securityaffairs.com/185650/apt/germany-calls-in-russian-ambassador-over-air-traffic-control-hack-claims.html</link>
-      <pubDate>Sat, 13 Dec 2025 18:14:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks</title>
-      <link>https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html</link>
-      <pubDate>Sat, 13 Dec 2025 12:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild</title>
-      <link>https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html</link>
-      <pubDate>Sat, 13 Dec 2025 05:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Giant Squid Eating a Diamondback Squid</title>
-      <link>https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html</link>
-      <pubDate>Fri, 12 Dec 2025 22:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploitation of Critical Vulnerability in React Server Components (Updated December 12)</title>
-      <link>https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/</link>
-      <pubDate>Fri, 12 Dec 2025 21:40:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Processing 630 Million More Pwned Passwords, Courtesy of the FBI</title>
-      <link>https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/</link>
-      <pubDate>Fri, 12 Dec 2025 21:29:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads</title>
-      <link>https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html</link>
-      <pubDate>Fri, 12 Dec 2025 18:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The US digital doxxing of H-1B applicants is a massive privacy misstep</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/the-us-digital-doxxing-of-h-1b-applicants-is-a-massive-privacy-misstep</link>
-      <pubDate>Fri, 12 Dec 2025 18:19:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
