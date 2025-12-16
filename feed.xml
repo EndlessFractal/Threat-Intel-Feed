@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Dec 2025 04:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 06:29:20 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Tuesday, December 16th, 2025 https://isc.sans.edu/podcastdetail/9740, (Tue, Dec 16th)</title>
       <link>https://isc.sans.edu/diary/rss/32574</link>
       <pubDate>Tue, 16 Dec 2025 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas sues 5 smart TV manufacturers over data collection practices</title>
+      <link>https://therecord.media/texas-sues-5-smart-tv-makers-over-acr-tech</link>
+      <pubDate>Mon, 15 Dec 2025 22:11:11 +0000</pubDate>
     </item>
     <item>
       <title>Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components</title>
@@ -63,6 +68,11 @@
       <pubDate>Mon, 15 Dec 2025 14:32:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nearly 20 million affected by Prosper, 700Credit data breaches</title>
+      <link>https://therecord.media/data-breaches-affecting-20-million-prosper-700credit</link>
+      <pubDate>Mon, 15 Dec 2025 14:20:44 +0000</pubDate>
+    </item>
+    <item>
       <title>CVE-2025-55183 and CVE-2025-55184: New React RSC Vulnerabilities Expose Applications to Denial of Service Attacks and Source Code Leaks</title>
       <link>https://socprime.com/blog/cve-2025-55183-and-cve-2025-55184-rsc-vulnerabilities/</link>
       <pubDate>Mon, 15 Dec 2025 14:00:16 +0000</pubDate>
@@ -81,6 +91,16 @@
       <title>More React2Shell Exploits CVE-2025-55182, (Mon, Dec 15th)</title>
       <link>https://isc.sans.edu/diary/rss/32572</link>
       <pubDate>Mon, 15 Dec 2025 13:17:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jaguar Land Rover confirms staff data stolen in cyberattack</title>
+      <link>https://therecord.media/jaguar-land-rover-confirms-staff-data-stolen-cyberattack</link>
+      <pubDate>Mon, 15 Dec 2025 13:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>MI6 chief warns 'front line is everywhere' and signals intent to pressure Putin</title>
+      <link>https://therecord.media/mi6-chief-speech-russia-threats-warning</link>
+      <pubDate>Mon, 15 Dec 2025 12:47:31 +0000</pubDate>
     </item>
     <item>
       <title>⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams &amp; More</title>
@@ -263,6 +283,11 @@
       <pubDate>Fri, 12 Dec 2025 21:29:39 +0000</pubDate>
     </item>
     <item>
+      <title>Hamas-affiliated APT targeting government agencies in the Middle East, Morocco</title>
+      <link>https://therecord.media/hamas-apt-targeting-government-agencies</link>
+      <pubDate>Fri, 12 Dec 2025 21:16:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads</title>
       <link>https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html</link>
       <pubDate>Fri, 12 Dec 2025 18:50:00 +0000</pubDate>
@@ -281,31 +306,6 @@
       <title>Google ads funnel Mac users to poisoned AI chats that spread the AMOS infostealer</title>
       <link>https://www.malwarebytes.com/blog/news/2025/12/google-ads-funnel-mac-users-to-poisoned-ai-chats-that-spread-the-amos-infostealer</link>
       <pubDate>Fri, 12 Dec 2025 14:26:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale</title>
-      <link>https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html</link>
-      <pubDate>Fri, 12 Dec 2025 14:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 50</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/</link>
-      <pubDate>Fri, 12 Dec 2025 14:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gartner tells businesses to block AI browsers now</title>
-      <link>https://www.fortra.com/blog/gartner-tells-businesses-block-ai-browsers-now</link>
-      <pubDate>Fri, 12 Dec 2025 12:52:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Trustworthy AI Agents</title>
-      <link>https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html</link>
-      <pubDate>Fri, 12 Dec 2025 12:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Plugs Gap in Cyber-Deception Guidance</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-plugs-gap-cyber-deception/</link>
-      <pubDate>Fri, 12 Dec 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
