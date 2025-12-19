@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 12:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 14:19:04 +0000</lastBuildDate>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 51</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-51-8/</link>
+      <pubDate>Fri, 19 Dec 2025 14:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA warns ASUS Live Update backdoor is still exploitable, seven years on</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/12/cisa-warns-asus-live-update-backdoor-is-still-exploitable-seven-years-on</link>
+      <pubDate>Fri, 19 Dec 2025 13:56:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump signs defense bill allocating millions for Cyber Command, mandating Pentagon phone security</title>
+      <link>https://therecord.media/trump-signs-ndaa-cyber-command</link>
+      <pubDate>Fri, 19 Dec 2025 13:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Foreign Office Cyber Breach Exposed Diplomatic Secrets</title>
+      <link>https://www.techrepublic.com/article/news-uk-foreign-office-cyber-breach/</link>
+      <pubDate>Fri, 19 Dec 2025 13:46:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK confirms Foreign Office hacked, says ‘low risk’ of impact to individuals</title>
+      <link>https://therecord.media/uk-foreign-office-hacked-china</link>
+      <pubDate>Fri, 19 Dec 2025 13:22:02 +0000</pubDate>
+    </item>
     <item>
       <title>Denmark Blames Russia for "Destructive" Cyber-Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/denmark-blames-russia-for/</link>
@@ -16,6 +41,11 @@
       <title>AI Advertising Company Hacked</title>
       <link>https://www.schneier.com/blog/archives/2025/12/ai-advertising-company-hacked.html</link>
       <pubDate>Fri, 19 Dec 2025 12:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLOP targets Gladinet CentreStack servers in large-scale extortion campaign</title>
+      <link>https://securityaffairs.com/185875/cyber-crime/clop-targets-gladinet-centrestack-servers-in-large-scale-extortion-campaign.html</link>
+      <pubDate>Fri, 19 Dec 2025 11:48:37 +0000</pubDate>
     </item>
     <item>
       <title>WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability</title>
@@ -128,11 +158,6 @@
       <pubDate>Thu, 18 Dec 2025 16:41:14 +0000</pubDate>
     </item>
     <item>
-      <title>Chinese attackers exploiting zero-day to target Cisco email security products</title>
-      <link>https://therecord.media/chinese-attackers-zero-day</link>
-      <pubDate>Thu, 18 Dec 2025 16:35:25 +0000</pubDate>
-    </item>
-    <item>
       <title>OAuth Device Code Phishing Campaigns Surge Targets Microsoft 365</title>
       <link>https://www.infosecurity-magazine.com/news/oauth-phishing-campaigns/</link>
       <pubDate>Thu, 18 Dec 2025 16:00:00 +0000</pubDate>
@@ -151,11 +176,6 @@
       <title>The ghosts of WhatsApp: How GhostPairing hijacks accounts</title>
       <link>https://www.malwarebytes.com/blog/news/2025/12/the-ghosts-of-whatsapp-how-ghostpairing-hijacks-accounts</link>
       <pubDate>Thu, 18 Dec 2025 13:37:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pa. high court rules that police can access Google searches without a warrant</title>
-      <link>https://therecord.media/google-searches-police-access-without-warrant-pennsylvania-court-ruling</link>
-      <pubDate>Thu, 18 Dec 2025 13:33:23 +0000</pubDate>
     </item>
     <item>
       <title>ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories</title>
@@ -208,7 +228,7 @@
       <pubDate>Thu, 18 Dec 2025 09:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chinese Hackers Breach Cisco’s Email Security Systems</title>
+      <title>Chinese Hackers Target Cisco’s Email Security Systems</title>
       <link>https://www.techrepublic.com/article/news-cisco-email-security-breach/</link>
       <pubDate>Thu, 18 Dec 2025 09:28:14 +0000</pubDate>
     </item>
@@ -286,26 +306,6 @@
       <title>UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager</title>
       <link>https://blog.talosintelligence.com/uat-9686/</link>
       <pubDate>Wed, 17 Dec 2025 16:55:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motors WordPress Vulnerability Exposes Sites to Takeover</title>
-      <link>https://www.infosecurity-magazine.com/news/motors-wordpress-flaw-takeover/</link>
-      <pubDate>Wed, 17 Dec 2025 16:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Chrome flaws could be triggered by simply browsing the web: Update now</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/two-chrome-flaws-could-be-triggered-by-simply-browsing-the-web-update-now</link>
-      <pubDate>Wed, 17 Dec 2025 16:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>New “Lies-in-the-Loop” Attack Undermines AI Safety Dialogs</title>
-      <link>https://www.infosecurity-magazine.com/news/lies-loop-attack-ai-safety-dialogs/</link>
-      <pubDate>Wed, 17 Dec 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign</title>
-      <link>https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html</link>
-      <pubDate>Wed, 17 Dec 2025 15:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
