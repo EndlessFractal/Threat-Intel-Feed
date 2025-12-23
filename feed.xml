@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Dec 2025 22:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 04:35:45 +0000</lastBuildDate>
     <item>
       <title>Spotify disables accounts after open-source group scrapes 86 million songs from platform</title>
       <link>https://therecord.media/spotify-disables-scraping-annas</link>
@@ -46,6 +46,11 @@
       <title>Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens</title>
       <link>https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html</link>
       <pubDate>Mon, 22 Dec 2025 16:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>86% Surge in Fake Delivery Websites Hits Shoppers During Holiday Rush</title>
+      <link>https://www.infosecurity-magazine.com/news/surge-fake-delivery-holidays/</link>
+      <pubDate>Mon, 22 Dec 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ukrainian hacker pleads guilty to Nefilim Ransomware attacks in U.S.</title>
@@ -301,11 +306,6 @@
       <title>China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware</title>
       <link>https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html</link>
       <pubDate>Thu, 18 Dec 2025 17:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-20393 Exploitation: A Maximum-Severity Zero-Day Vulnerability in Cisco AsyncOS Software Abused in Attacks by the China-Backed APT UAT-9686</title>
-      <link>https://socprime.com/blog/cve-2025-20393-vulnerability-exploitation/</link>
-      <pubDate>Thu, 18 Dec 2025 17:11:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
