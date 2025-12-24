@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Dec 2025 01:22:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 06:29:51 +0000</lastBuildDate>
     <item>
       <title>Who Does Cybersecurity Need? You!</title>
       <link>https://unit42.paloaltonetworks.com/cybersecurity-is-for-everyone/</link>
@@ -56,6 +56,11 @@
       <title>Critical n8n flaw could enable arbitrary code execution</title>
       <link>https://securityaffairs.com/186036/hacking/critical-n8n-flaw-could-enable-arbitrary-code-execution.html</link>
       <pubDate>Tue, 23 Dec 2025 15:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, December 2025</title>
+      <link>https://asec.ahnlab.com/en/91725/</link>
+      <pubDate>Tue, 23 Dec 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites</title>
@@ -263,6 +268,11 @@
       <pubDate>Mon, 22 Dec 2025 00:53:32 +0000</pubDate>
     </item>
     <item>
+      <title>GeoServer, Where Various CoinMiner Attacks Occur</title>
+      <link>https://asec.ahnlab.com/en/91724/</link>
+      <pubDate>Sun, 21 Dec 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Mobile Security &amp; Malware Issue 3st Week of December, 2025</title>
       <link>https://asec.ahnlab.com/en/91683/</link>
       <pubDate>Sun, 21 Dec 2025 15:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Friday Squid Blogging: Petting a Squid</title>
       <link>https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html</link>
       <pubDate>Fri, 19 Dec 2025 22:06:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto Networks, Google Cloud Expand Partnership in Multibillion-Dollar Deal</title>
-      <link>https://www.techrepublic.com/article/news-palo-alto-google-cloud-multibillion-dollar-deal/</link>
-      <pubDate>Fri, 19 Dec 2025 19:45:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers</title>
-      <link>https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html</link>
-      <pubDate>Fri, 19 Dec 2025 17:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
