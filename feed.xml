@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 06:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 08:27:55 +0000</lastBuildDate>
+    <item>
+      <title>A week in security (December 22 – December 28)</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28</link>
+      <pubDate>Mon, 29 Dec 2025 08:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide</title>
+      <link>https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html</link>
+      <pubDate>Mon, 29 Dec 2025 07:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors</title>
+      <link>https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html</link>
+      <pubDate>Mon, 29 Dec 2025 06:34:00 +0000</pubDate>
+    </item>
     <item>
       <title>Condé Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk</title>
       <link>https://securityaffairs.com/186224/data-breach/conde-nast-faces-major-data-breach-2-3m-wired-records-leaked-40m-more-at-risk.html</link>
@@ -258,11 +273,6 @@
       <pubDate>Tue, 23 Dec 2025 15:36:10 +0000</pubDate>
     </item>
     <item>
-      <title>The AI Fix #82: Santa Claus doesn’t exist (according to AI)</title>
-      <link>https://grahamcluley.com/the-ai-fix-82-santa-claus-doesnt-exist-according-to-ai/</link>
-      <pubDate>Tue, 23 Dec 2025 15:30:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 4, December 2025</title>
       <link>https://asec.ahnlab.com/en/91725/</link>
       <pubDate>Tue, 23 Dec 2025 15:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Denmark Accuses Russia of Conducting Two Cyberattacks</title>
       <link>https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html</link>
       <pubDate>Tue, 23 Dec 2025 12:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assessing SIEM effectiveness</title>
-      <link>https://securelist.com/siem-effectiveness-assessment/118560/</link>
-      <pubDate>Tue, 23 Dec 2025 12:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-14733 Vulnerability: WatchGuard Addresses a Critical RCE Affecting Firebox Firewalls, Actively Exploited for Real-World Attacks</title>
-      <link>https://socprime.com/blog/cve-2025-14733-vulnerability/</link>
-      <pubDate>Tue, 23 Dec 2025 11:57:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
