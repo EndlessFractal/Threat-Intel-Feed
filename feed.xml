@@ -6,16 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 08:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 10:20:44 +0000</lastBuildDate>
     <item>
-      <title>A week in security (December 22 – December 28)</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28</link>
-      <pubDate>Mon, 29 Dec 2025 08:02:00 +0000</pubDate>
+      <title>The HoneyMyte APT evolves with a kernel-mode rootkit and a ToneShell backdoor</title>
+      <link>https://securelist.com/honeymyte-kernel-mode-rootkit/118590/</link>
+      <pubDate>Mon, 29 Dec 2025 10:00:35 +0000</pubDate>
     </item>
     <item>
       <title>MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide</title>
       <link>https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html</link>
-      <pubDate>Mon, 29 Dec 2025 07:49:00 +0000</pubDate>
+      <pubDate>Mon, 29 Dec 2025 09:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials</title>
+      <link>https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html</link>
+      <pubDate>Mon, 29 Dec 2025 09:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evasive Panda cyberespionage campaign uses DNS poisoning to install MgBot backdoor</title>
+      <link>https://securityaffairs.com/186213/apt/evasive-panda-cyberespionage-campaign-uses-dns-poisoning-to-install-mgbot-backdoor.html</link>
+      <pubDate>Mon, 29 Dec 2025 08:51:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (December 22 – December 28)</title>
+      <link>https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28</link>
+      <pubDate>Mon, 29 Dec 2025 08:02:00 +0000</pubDate>
     </item>
     <item>
       <title>Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors</title>
@@ -126,11 +141,6 @@
       <title>IoT Hack</title>
       <link>https://www.schneier.com/blog/archives/2025/12/iot-hack.html</link>
       <pubDate>Fri, 26 Dec 2025 12:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spotify cracks down on unlawful scraping of 86 million songs</title>
-      <link>https://securityaffairs.com/186136/data-breach/spotify-cracks-down-on-unlawful-scraping-of-86-million-songs.html</link>
-      <pubDate>Fri, 26 Dec 2025 10:51:04 +0000</pubDate>
     </item>
     <item>
       <title>Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection</title>
@@ -273,6 +283,11 @@
       <pubDate>Tue, 23 Dec 2025 15:36:10 +0000</pubDate>
     </item>
     <item>
+      <title>The AI Fix #82: Santa Claus doesn’t exist (according to AI)</title>
+      <link>https://grahamcluley.com/the-ai-fix-82-santa-claus-doesnt-exist-according-to-ai/</link>
+      <pubDate>Tue, 23 Dec 2025 15:30:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransom &amp; Dark Web Issues Week 4, December 2025</title>
       <link>https://asec.ahnlab.com/en/91725/</link>
       <pubDate>Tue, 23 Dec 2025 15:00:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>A Cybersecurity Holiday Gift Guide</title>
       <link>https://www.security.com/expert-perspectives/cybersecurity-holiday-gift-guide</link>
       <pubDate>Tue, 23 Dec 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEC Targets Crypto Platforms in Social Media Scam Crackdown</title>
-      <link>https://www.techrepublic.com/article/news-sec-targets-crypto-platforms/</link>
-      <pubDate>Tue, 23 Dec 2025 12:42:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacktivists claim near-total Spotify music scrape</title>
-      <link>https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape</link>
-      <pubDate>Tue, 23 Dec 2025 12:28:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Denmark Accuses Russia of Conducting Two Cyberattacks</title>
-      <link>https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html</link>
-      <pubDate>Tue, 23 Dec 2025 12:02:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
