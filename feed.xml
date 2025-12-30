@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 06:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 10:20:15 +0000</lastBuildDate>
+    <item>
+      <title>Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor</title>
+      <link>https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html</link>
+      <pubDate>Tue, 30 Dec 2025 08:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds a flaw in MongoDB Server to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/186297/hacking/u-s-cisa-adds-a-flaw-in-mongodb-server-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Tue, 30 Dec 2025 08:33:56 +0000</pubDate>
+    </item>
     <item>
       <title>US, Australia say ‘MongoBleed’ bug being exploited</title>
       <link>https://therecord.media/us-australia-bug-exploitation</link>
@@ -158,11 +168,6 @@
       <pubDate>Sat, 27 Dec 2025 18:20:16 +0000</pubDate>
     </item>
     <item>
-      <title>NPM package with 56,000 downloads compromises WhatsApp accounts</title>
-      <link>https://securityaffairs.com/186174/malware/npm-package-with-56000-downloads-compromises-whatsapp-accounts.html</link>
-      <pubDate>Sat, 27 Dec 2025 09:40:47 +0000</pubDate>
-    </item>
-    <item>
       <title>New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory</title>
       <link>https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html</link>
       <pubDate>Sat, 27 Dec 2025 07:52:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Evasive Panda APT poisons DNS requests to deliver MgBot</title>
       <link>https://securelist.com/evasive-panda-apt/118576/</link>
       <pubDate>Wed, 24 Dec 2025 07:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition</title>
-      <link>https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html</link>
-      <pubDate>Wed, 24 Dec 2025 06:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
