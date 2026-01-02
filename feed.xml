@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 12:36:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 14:18:21 +0000</lastBuildDate>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 1</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-1-7/</link>
+      <pubDate>Fri, 02 Jan 2026 14:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia</title>
+      <link>https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html</link>
+      <pubDate>Fri, 02 Jan 2026 13:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing campaign abuses Google Cloud Application to impersonate legitimate Google emails</title>
+      <link>https://securityaffairs.com/186425/cyber-crime/phishing-campaign-abuses-google-cloud-application-to-impersonate-legitimate-google-emails.html</link>
+      <pubDate>Fri, 02 Jan 2026 12:48:25 +0000</pubDate>
+    </item>
     <item>
       <title>Flock Exposes Its AI-Enabled Surveillance Cameras</title>
       <link>https://www.schneier.com/blog/archives/2026/01/flock-exposes-its-ai-enabled-surveillance-cameras.html</link>
@@ -203,11 +218,6 @@
       <pubDate>Tue, 30 Dec 2025 08:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. CISA adds a flaw in MongoDB Server to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/186297/hacking/u-s-cisa-adds-a-flaw-in-mongodb-server-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Tue, 30 Dec 2025 08:33:56 +0000</pubDate>
-    </item>
-    <item>
       <title>US, Australia say ‘MongoBleed’ bug being exploited</title>
       <link>https://therecord.media/us-australia-bug-exploitation</link>
       <pubDate>Mon, 29 Dec 2025 22:04:33 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>Weekly Update 484</title>
       <link>https://www.troyhunt.com/weekly-update-484/</link>
       <pubDate>Sun, 28 Dec 2025 09:33:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Sunday, December 28th, 2025 https://isc.sans.edu/podcastdetail/9750, (Sun, Dec 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/32590</link>
-      <pubDate>Sun, 28 Dec 2025 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory</title>
-      <link>https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html</link>
-      <pubDate>Sat, 27 Dec 2025 07:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
