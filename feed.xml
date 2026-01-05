@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 03:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 08:29:29 +0000</lastBuildDate>
+    <item>
+      <title>A week in security (December 29 – January 4)</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4</link>
+      <pubDate>Mon, 05 Jan 2026 08:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sedgwick discloses data breach after TridentLocker ransomware attack</title>
+      <link>https://securityaffairs.com/186525/data-breach/sedgwick-discloses-data-breach-after-tridentlocker-ransomware-attack.html</link>
+      <pubDate>Mon, 05 Jan 2026 06:50:03 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Monday, January 5th, 2026 https://isc.sans.edu/podcastdetail/9752, (Mon, Jan 5th)</title>
       <link>https://isc.sans.edu/diary/rss/32596</link>
@@ -116,11 +126,6 @@
       <title>Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia</title>
       <link>https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html</link>
       <pubDate>Fri, 02 Jan 2026 13:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing campaign abuses Google Cloud Application to impersonate legitimate Google emails</title>
-      <link>https://securityaffairs.com/186425/cyber-crime/phishing-campaign-abuses-google-cloud-application-to-impersonate-legitimate-google-emails.html</link>
-      <pubDate>Fri, 02 Jan 2026 12:48:25 +0000</pubDate>
     </item>
     <item>
       <title>Flock Exposes Its AI-Enabled Surveillance Cameras</title>
@@ -301,11 +306,6 @@
       <title>The HoneyMyte APT evolves with a kernel-mode rootkit and a ToneShell backdoor</title>
       <link>https://securelist.com/honeymyte-kernel-mode-rootkit/118590/</link>
       <pubDate>Mon, 29 Dec 2025 10:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide</title>
-      <link>https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html</link>
-      <pubDate>Mon, 29 Dec 2025 09:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
