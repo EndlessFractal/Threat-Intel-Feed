@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 06:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:27:15 +0000</lastBuildDate>
     <item>
       <title>New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands</title>
       <link>https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html</link>
       <pubDate>Tue, 06 Jan 2026 05:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers</title>
+      <link>https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html</link>
+      <pubDate>Tue, 06 Jan 2026 03:30:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, January 6th, 2026 https://isc.sans.edu/podcastdetail/9754, (Tue, Jan 6th)</title>
@@ -301,11 +306,6 @@
       <title>Infosecurity's Top 10 Cybersecurity Stories of 2025</title>
       <link>https://www.infosecurity-magazine.com/news/infosecurity-top-10-stories-2025/</link>
       <pubDate>Thu, 01 Jan 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How To Browse Faster and Get More Done Using Adapt Browser</title>
-      <link>https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html</link>
-      <pubDate>Thu, 01 Jan 2026 05:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
