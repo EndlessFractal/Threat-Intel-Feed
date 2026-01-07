@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 14:21:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 16:27:14 +0000</lastBuildDate>
+    <item>
+      <title>Alleged cyber scam kingpin arrested, extradited to China</title>
+      <link>https://therecord.media/alleged-cyber-scam-kingpin-cambodia-arrested-extradited</link>
+      <pubDate>Wed, 07 Jan 2026 16:02:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ghost Tap Malware Fuels Surge in Remote NFC Payment Fraud</title>
+      <link>https://www.infosecurity-magazine.com/news/ghost-tap-malware-remote-nfc-fraud/</link>
+      <pubDate>Wed, 07 Jan 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical macOS Flaw Lets Attackers Bypass Apple Privacy Controls Without Consent</title>
+      <link>https://www.techrepublic.com/article/news-macos-flaw-apple-privacy-controls/</link>
+      <pubDate>Wed, 07 Jan 2026 15:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Misconfigured email routing enables internal-spoofed phishing</title>
+      <link>https://securityaffairs.com/186638/hacking/misconfigured-email-routing-enables-internal-spoofed-phishing.html</link>
+      <pubDate>Wed, 07 Jan 2026 14:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build Practical Cyber Defense Skills with This 5-Course Bundle</title>
+      <link>https://www.techrepublic.com/article/advanced-cybersecurity-master-class/</link>
+      <pubDate>Wed, 07 Jan 2026 14:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>China intensifies Cyber-Attacks on Taiwan as Energy Sector Sees Tenfold Spike</title>
+      <link>https://www.infosecurity-magazine.com/news/china-intensifies-cyberattacks/</link>
+      <pubDate>Wed, 07 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control</title>
+      <link>https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html</link>
+      <pubDate>Wed, 07 Jan 2026 13:48:00 +0000</pubDate>
+    </item>
     <item>
       <title>Personal LLM Accounts Drive Shadow AI Data Leak Risks</title>
       <link>https://www.infosecurity-magazine.com/news/personal-llm-accounts-drive-shadow/</link>
@@ -36,6 +71,11 @@
       <title>The Wegman’s Supermarket Chain Is Probably Using Facial Recognition</title>
       <link>https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html</link>
       <pubDate>Wed, 07 Jan 2026 12:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital Identities: Getting to Know the Verifiable Digital Credential Ecosystem</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/digital-identities-getting-know-verifiable-digital-credential-0</link>
+      <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators</title>
@@ -116,6 +156,11 @@
       <title>ISC Stormcast For Wednesday, January 7th, 2026 https://isc.sans.edu/podcastdetail/9756, (Wed, Jan 7th)</title>
       <link>https://isc.sans.edu/diary/rss/32604</link>
       <pubDate>Wed, 07 Jan 2026 02:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>GRU-Linked BlueDelta Evolves Credential Harvesting</title>
+      <link>https://www.recordedfuture.com/research/gru-linked-bluedelta-evolves-credential-harvesting</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CERT/CC warns of critical, unfixed vulnerability in TOTOLINK EX200</title>
@@ -261,51 +306,6 @@
       <title>Russian hackers target European hospitality industry with ‘blue screen of death’ malware</title>
       <link>https://therecord.media/russian-hackers-europe-hospitality-blue-screen</link>
       <pubDate>Mon, 05 Jan 2026 20:24:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trusted Google Notifications Used in Phishing Campaign Targeting 3,000+ Orgs</title>
-      <link>https://www.techrepublic.com/article/news-google-notifications-phishing-campaign-email-security/</link>
-      <pubDate>Mon, 05 Jan 2026 18:55:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government</title>
-      <link>https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html</link>
-      <pubDate>Mon, 05 Jan 2026 17:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Risks of OOB Access via IP KVM Devices, (Mon, Jan 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/32598</link>
-      <pubDate>Mon, 05 Jan 2026 17:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ilya Lichtenstein Released Early After Bitfinex Hack Conviction</title>
-      <link>https://www.infosecurity-magazine.com/news/lichtenstein-released-bitfinex/</link>
-      <pubDate>Mon, 05 Jan 2026 16:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks</title>
-      <link>https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html</link>
-      <pubDate>Mon, 05 Jan 2026 16:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Users at Risk as Critical Zoom Vulnerability Exploited</title>
-      <link>https://www.techrepublic.com/article/news-zoom-flaw-windows-users-at-risk/</link>
-      <pubDate>Mon, 05 Jan 2026 16:06:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>VVS Stealer Uses Advanced Obfuscation to Target Discord Users</title>
-      <link>https://www.infosecurity-magazine.com/news/vvs-stealer-advanced-obfuscation/</link>
-      <pubDate>Mon, 05 Jan 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Are the Main AI-Assisted Cyber-Attacks and Scams?</title>
-      <link>https://socprime.com/blog/siem-edr/what-are-the-main-ai-assisted-cyber-attacks/</link>
-      <pubDate>Mon, 05 Jan 2026 15:54:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ALPRs are recording your daily drive (Lock and Code S06E26)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2026/01/alprs-are-recording-your-daily-drive-lock-and-code-s06e26</link>
-      <pubDate>Mon, 05 Jan 2026 15:52:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
