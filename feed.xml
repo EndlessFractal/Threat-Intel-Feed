@@ -6,11 +6,11 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 01:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 03:27:39 +0000</lastBuildDate>
     <item>
-      <title>Smashing Security podcast #449: How to scam someone in seven days</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-449/</link>
-      <pubDate>Thu, 08 Jan 2026 00:31:41 +0000</pubDate>
+      <title>ISC Stormcast For Thursday, January 8th, 2026 https://isc.sans.edu/podcastdetail/9758, (Thu, Jan 8th)</title>
+      <link>https://isc.sans.edu/diary/rss/32610</link>
+      <pubDate>Thu, 08 Jan 2026 02:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Analysis using Gephi with DShield Sensor Data, (Wed, Jan 7th)</title>
@@ -23,9 +23,24 @@
       <pubDate>Wed, 07 Jan 2026 21:15:01 +0000</pubDate>
     </item>
     <item>
+      <title>Spanish airline Iberia attributes recent data breach claims to November incident</title>
+      <link>https://therecord.media/spanish-airline-attributes-recent-breach-allegation-to-nov-incident</link>
+      <pubDate>Wed, 07 Jan 2026 21:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Illinois state agency exposed personal data of 700,000 people</title>
+      <link>https://therecord.media/illinois-agency-exposed-data</link>
+      <pubDate>Wed, 07 Jan 2026 20:46:07 +0000</pubDate>
+    </item>
+    <item>
       <title>900,000 Users Hit as Malicious Chrome Extensions Steal ChatGPT, DeepSeek Chats</title>
       <link>https://www.techrepublic.com/article/news-900k-users-chrome-extensions-steal-chatgpt-deepseek-chats/</link>
       <pubDate>Wed, 07 Jan 2026 20:37:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stalkerware operator pleads guilty in rare prosecution</title>
+      <link>https://therecord.media/stalkerware-guilty-plea-fleming</link>
+      <pubDate>Wed, 07 Jan 2026 19:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators</title>
@@ -46,6 +61,11 @@
       <title>Versatile Malware Loader pkr_mtsi Delivers Diverse Payloads</title>
       <link>https://www.infosecurity-magazine.com/news/malware-loader-pkrmtsi-payloads/</link>
       <pubDate>Wed, 07 Jan 2026 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alleged cyber scam kingpin arrested, extradited to China</title>
+      <link>https://therecord.media/alleged-cyber-scam-kingpin-cambodia-arrested-extradited</link>
+      <pubDate>Wed, 07 Jan 2026 16:02:30 +0000</pubDate>
     </item>
     <item>
       <title>Ghost Tap Malware Fuels Surge in Remote NFC Payment Fraud</title>
@@ -86,6 +106,11 @@
       <title>All the Single Agents</title>
       <link>https://www.security.com/feature-stories/single-agents</link>
       <pubDate>Wed, 07 Jan 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack forces British high school to cancel classes and delay reopening</title>
+      <link>https://therecord.media/cyberattack-forces-british-high-school-to-delay-opening</link>
+      <pubDate>Wed, 07 Jan 2026 12:56:14 +0000</pubDate>
     </item>
     <item>
       <title>One million customers on alert as extortion group claims massive Brightspeed data haul</title>
@@ -281,31 +306,6 @@
       <title>VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX</title>
       <link>https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html</link>
       <pubDate>Tue, 06 Jan 2026 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jaguar Land Rover's Q3 Sales Crash Amid Cyber-Attack Fallout</title>
-      <link>https://www.infosecurity-magazine.com/news/jlr-q3-sales-crash-cyberattack/</link>
-      <pubDate>Tue, 06 Jan 2026 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coinbase insider who sold customer data to criminals arrested in India</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/coinbase-insider-who-sold-customer-data-to-criminals-arrested-in-india</link>
-      <pubDate>Tue, 06 Jan 2026 08:38:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>How CrowdStrike’s Malware Analysis Agent Detects Malware at Machine Speed</title>
-      <link>https://www.crowdstrike.com/en-us/blog/how-crowdstrike-detects-malware-at-machine-speed/</link>
-      <pubDate>Tue, 06 Jan 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands</title>
-      <link>https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html</link>
-      <pubDate>Tue, 06 Jan 2026 05:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers</title>
-      <link>https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html</link>
-      <pubDate>Tue, 06 Jan 2026 03:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
