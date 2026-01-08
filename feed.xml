@@ -6,11 +6,66 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 10:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 12:40:19 +0000</lastBuildDate>
+    <item>
+      <title>Fifth of Breaches Take Two Weeks to Recover From</title>
+      <link>https://www.infosecurity-magazine.com/news/fifth-breaches-two-weeks-recover/</link>
+      <pubDate>Thu, 08 Jan 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI &amp; Humans: Making the Relationship Work</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html</link>
+      <pubDate>Thu, 08 Jan 2026 12:05:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Trusted Open Source</title>
+      <link>https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html</link>
+      <pubDate>Thu, 08 Jan 2026 11:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US To Leave Global Forum on Cyber Expertise</title>
+      <link>https://www.infosecurity-magazine.com/news/us-leave-global-forum-on-cyber/</link>
+      <pubDate>Thu, 08 Jan 2026 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing Vibe Coding Tools: Scaling Productivity Without Scaling Risk</title>
+      <link>https://unit42.paloaltonetworks.com/securing-vibe-coding-tools/</link>
+      <pubDate>Thu, 08 Jan 2026 11:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAT-7290 targets high value telecommunications infrastructure in South Asia</title>
+      <link>https://blog.talosintelligence.com/uat-7290/</link>
+      <pubDate>Thu, 08 Jan 2026 11:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release</title>
+      <link>https://thehackernews.com/2026/01/cisco-patches-ise-security.html</link>
+      <pubDate>Thu, 08 Jan 2026 10:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds HPE OneView and Microsoft Office PowerPoint flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/186672/security/u-s-cisa-adds-hpe-oneview-and-microsoft-office-powerpoint-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 08 Jan 2026 10:41:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake WinRAR downloads hide malware behind a real installer</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/01/fake-winrar-downloads-hide-malware-behind-a-real-installer</link>
+      <pubDate>Thu, 08 Jan 2026 10:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages</title>
+      <link>https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html</link>
+      <pubDate>Thu, 08 Jan 2026 10:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>Maximum Severity “Ni8mare” Bug Lets Hackers Hijack n8n Servers</title>
       <link>https://www.infosecurity-magazine.com/news/maximum-severity-ni8mare-bug/</link>
       <pubDate>Thu, 08 Jan 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances</title>
+      <link>https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html</link>
+      <pubDate>Thu, 08 Jan 2026 09:53:00 +0000</pubDate>
     </item>
     <item>
       <title>China-linked groups intensify attacks on Taiwan’s critical infrastructure, NSB warns</title>
@@ -251,61 +306,6 @@
       <title>CERT/CC warns of critical, unfixed vulnerability in TOTOLINK EX200</title>
       <link>https://securityaffairs.com/186597/security/cert-cc-warns-of-critical-unfixed-vulnerability-in-totolink-ex200.html</link>
       <pubDate>Tue, 06 Jan 2026 20:28:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google fixes critical Dolby Decoder bug in Android January update</title>
-      <link>https://securityaffairs.com/186591/security/google-fixes-critical-dolby-decoder-bug-in-android-january-update.html</link>
-      <pubDate>Tue, 06 Jan 2026 18:54:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing actors exploit complex routing and misconfigurations to spoof domains</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/01/06/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/</link>
-      <pubDate>Tue, 06 Jan 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users</title>
-      <link>https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html</link>
-      <pubDate>Tue, 06 Jan 2026 17:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Microsoft Defender Experts Suite: Elevate your security with expert-led services</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/01/06/introducing-the-microsoft-defender-experts-suite-elevate-your-security-with-expert-led-services/</link>
-      <pubDate>Tue, 06 Jan 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hospitality Sector Hit By PHALT#BLYX ClickFix Malware Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/phaltblyx-clickfix-malware/</link>
-      <pubDate>Tue, 06 Jan 2026 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Cyberattack Was Part of the US Assault on Venezuela</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/a-cyberattack-was-part-of-the-us-assault-on-venezuela.html</link>
-      <pubDate>Tue, 06 Jan 2026 16:08:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>12 Months of Fighting Cybercrime &amp; Defending Enterprises | The SentinelLABS 2025 Review</title>
-      <link>https://www.sentinelone.com/blog/12-months-of-fighting-cybercrime-defending-enterprises-the-sentinellabs-2025-review/</link>
-      <pubDate>Tue, 06 Jan 2026 16:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover</title>
-      <link>https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html</link>
-      <pubDate>Tue, 06 Jan 2026 15:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>High-Severity Flaw in Open WebUI Affects AI Connections</title>
-      <link>https://www.infosecurity-magazine.com/news/flaw-open-webui-affects-ai/</link>
-      <pubDate>Tue, 06 Jan 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing campaign abuses Google Cloud services to steal Microsoft 365 logins</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/01/phishing-campaign-abuses-google-cloud-services-to-steal-microsoft-365-logins</link>
-      <pubDate>Tue, 06 Jan 2026 15:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tool Review: Tailsnitch, (Tue, Jan 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/32602</link>
-      <pubDate>Tue, 06 Jan 2026 14:23:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
