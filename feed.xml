@@ -6,17 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 03:27:39 +0000</lastBuildDate>
-    <item>
-      <title>ISC Stormcast For Thursday, January 8th, 2026 https://isc.sans.edu/podcastdetail/9758, (Thu, Jan 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/32610</link>
-      <pubDate>Thu, 08 Jan 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis using Gephi with DShield Sensor Data, (Wed, Jan 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/32608</link>
-      <pubDate>Thu, 08 Jan 2026 00:13:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 04:37:25 +0000</lastBuildDate>
     <item>
       <title>Ni8mare flaw gives unauthenticated control of n8n instances</title>
       <link>https://securityaffairs.com/186648/security/ni8mare-flaw-gives-unauthenticated-control-of-n8n-instances.html</link>
@@ -178,11 +168,6 @@
       <pubDate>Wed, 07 Jan 2026 09:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>A phishing campaign with QR codes rendered using an HTML table, (Wed, Jan 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/32606</link>
-      <pubDate>Wed, 07 Jan 2026 09:32:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Apple Rolls Out iOS 26.3 Security Test to Beta Users</title>
       <link>https://www.techrepublic.com/article/news-apple-ios-security-system-test/</link>
       <pubDate>Wed, 07 Jan 2026 09:03:42 +0000</pubDate>
@@ -201,11 +186,6 @@
       <title>Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers</title>
       <link>https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html</link>
       <pubDate>Wed, 07 Jan 2026 04:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, January 7th, 2026 https://isc.sans.edu/podcastdetail/9756, (Wed, Jan 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/32604</link>
-      <pubDate>Wed, 07 Jan 2026 02:05:03 +0000</pubDate>
     </item>
     <item>
       <title>GRU-Linked BlueDelta Evolves Credential Harvesting</title>
@@ -268,11 +248,6 @@
       <pubDate>Tue, 06 Jan 2026 15:01:10 +0000</pubDate>
     </item>
     <item>
-      <title>Tool Review: Tailsnitch, (Tue, Jan 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/32602</link>
-      <pubDate>Tue, 06 Jan 2026 14:23:28 +0000</pubDate>
-    </item>
-    <item>
       <title>When Your AI Coding Plugin Starts Picking Your Dependencies: Marketplace Skills and Dependency Hijack in Claude Code</title>
       <link>https://www.sentinelone.com/blog/marketplace-skills-and-dependency-hijack-in-claude-code/</link>
       <pubDate>Tue, 06 Jan 2026 14:00:51 +0000</pubDate>
@@ -306,6 +281,31 @@
       <title>VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX</title>
       <link>https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html</link>
       <pubDate>Tue, 06 Jan 2026 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jaguar Land Rover's Q3 Sales Crash Amid Cyber-Attack Fallout</title>
+      <link>https://www.infosecurity-magazine.com/news/jlr-q3-sales-crash-cyberattack/</link>
+      <pubDate>Tue, 06 Jan 2026 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How CrowdStrike’s Malware Analysis Agent Detects Malware at Machine Speed</title>
+      <link>https://www.crowdstrike.com/en-us/blog/how-crowdstrike-detects-malware-at-machine-speed/</link>
+      <pubDate>Tue, 06 Jan 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands</title>
+      <link>https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html</link>
+      <pubDate>Tue, 06 Jan 2026 05:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers</title>
+      <link>https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html</link>
+      <pubDate>Tue, 06 Jan 2026 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-linked APT UAC-0184 uses Viber to spy on Ukrainian military in 2025</title>
+      <link>https://securityaffairs.com/186571/apt/russia-linked-apt-uac-0184-uses-viber-to-spy-on-ukrainian-military-in-2025.html</link>
+      <pubDate>Mon, 05 Jan 2026 22:41:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
