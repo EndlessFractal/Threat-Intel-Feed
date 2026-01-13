@@ -6,11 +6,51 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 10:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 12:41:20 +0000</lastBuildDate>
+    <item>
+      <title>1980s Hacker Manifesto</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/1980s-hacker-manifesto.html</link>
+      <pubDate>Tue, 13 Jan 2026 12:09:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Should We Learn From How Attackers Leveraged AI in 2025?</title>
+      <link>https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html</link>
+      <pubDate>Tue, 13 Jan 2026 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation</title>
+      <link>https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html</link>
+      <pubDate>Tue, 13 Jan 2026 11:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who Decides Who Doesn’t Deserve Privacy?</title>
+      <link>https://www.troyhunt.com/who-decides-who-doesnt-deserve-privacy/</link>
+      <pubDate>Tue, 13 Jan 2026 11:41:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parliament Asks Security Pros to Shape Cyber Security and Resilience Bill</title>
+      <link>https://www.infosecurity-magazine.com/news/parliament-security-pros-cyber/</link>
+      <pubDate>Tue, 13 Jan 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remote Code Execution With Modern AI/ML Formats and Libraries</title>
+      <link>https://unit42.paloaltonetworks.com/rce-vulnerabilities-in-ai-python-libraries/</link>
+      <pubDate>Tue, 13 Jan 2026 11:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Magecart Campaign Targets Six Card Networks</title>
+      <link>https://www.infosecurity-magazine.com/news/global-magecart-campaign-six-card/</link>
+      <pubDate>Tue, 13 Jan 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers get hacked, as BreachForums database is leaked</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-get-hacked-as-breachforums-database-is-leaked</link>
       <pubDate>Tue, 13 Jan 2026 09:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack</title>
+      <link>https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html</link>
+      <pubDate>Tue, 13 Jan 2026 09:08:00 +0000</pubDate>
     </item>
     <item>
       <title>Betterment Customer Data Exposed in Crypto Scam Hack</title>
@@ -266,46 +306,6 @@
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 2</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-2-7/</link>
       <pubDate>Fri, 09 Jan 2026 14:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-21858 aka Ni8mare: Critical Unauthenticated Remote Code Execution Vulnerability in n8n Platform</title>
-      <link>https://socprime.com/blog/cve-2026-21858-vulnerability/</link>
-      <pubDate>Fri, 09 Jan 2026 13:53:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol Leads Global Crackdown on Black Axe Cybercrime Gang, 34 Arrested</title>
-      <link>https://www.infosecurity-magazine.com/news/europol-crackdown-on-black-axe/</link>
-      <pubDate>Fri, 09 Jan 2026 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>World Economic Forum: Deepfake Face-Swapping Tools Are Creating Critical Security Risks</title>
-      <link>https://www.infosecurity-magazine.com/news/wef-deepfake-faceswapping-security/</link>
-      <pubDate>Fri, 09 Jan 2026 12:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are we ready for ChatGPT Health?</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/01/are-we-ready-for-chatgpt-health</link>
-      <pubDate>Fri, 09 Jan 2026 12:26:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto Crosswalk Signals Had Default Passwords</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html</link>
-      <pubDate>Fri, 09 Jan 2026 12:06:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)</title>
-      <link>https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html</link>
-      <pubDate>Fri, 09 Jan 2026 11:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Powered Truman Show Operation Industrializes Investment Fraud</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-truman-show-industrializes/</link>
-      <pubDate>Fri, 09 Jan 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions</title>
-      <link>https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html</link>
-      <pubDate>Fri, 09 Jan 2026 10:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
