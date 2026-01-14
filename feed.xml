@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 16:27:09 +0000</lastBuildDate>
+    <item>
+      <title>Hackers Use Fake PayPal Notices to Steal Credentials, Deploy RMMs</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-fake-paypal-notices-deploy/</link>
+      <pubDate>Wed, 14 Jan 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing scammers are posting fake “account restricted” comments on LinkedIn</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/01/phishing-scammers-are-posting-fake-account-restricted-comments-on-linkedin</link>
+      <pubDate>Wed, 14 Jan 2026 15:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine appoints digital chief as defense minister to drive military reform</title>
+      <link>https://therecord.media/ukraine-digital-chief-transformation</link>
+      <pubDate>Wed, 14 Jan 2026 15:35:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet fixed two critical flaws in FortiFone and FortiSIEM</title>
+      <link>https://securityaffairs.com/186902/uncategorized/fortinet-fixed-two-critical-flaws-in-fortifone-and-fortisiem.html</link>
+      <pubDate>Wed, 14 Jan 2026 15:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Are Becoming Privilege Escalation Paths</title>
+      <link>https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html</link>
+      <pubDate>Wed, 14 Jan 2026 15:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAC-0190 Attack Detection: Fake Charity Lures Used to Deploy the PLUGGYAPE Backdoor Against the Ukrainian Armed Forces</title>
+      <link>https://socprime.com/blog/uac-0190-attacks-detection/</link>
+      <pubDate>Wed, 14 Jan 2026 14:27:20 +0000</pubDate>
+    </item>
     <item>
       <title>DeadLock Ransomware Uses Polygon Smart Contracts For Proxy Rotation</title>
       <link>https://www.infosecurity-magazine.com/news/deadlock-polygon-smart-contracts/</link>
@@ -16,6 +46,11 @@
       <title>Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware</title>
       <link>https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html</link>
       <pubDate>Wed, 14 Jan 2026 14:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leaked Data Exposes Thousands of Border Patrol, ICE Agents After Renee Good Shooting</title>
+      <link>https://www.techrepublic.com/article/news-leaked-data-exposes-thousands-border-patrol-ice-agents/</link>
+      <pubDate>Wed, 14 Jan 2026 13:55:58 +0000</pubDate>
     </item>
     <item>
       <title>Federal agencies ordered to patch Microsoft Desktop Windows Manager bug</title>
@@ -31,6 +66,11 @@
       <title>Online shoppers at risk as Magecart skimming hits major payment networks</title>
       <link>https://www.malwarebytes.com/blog/news/2026/01/online-shoppers-at-risk-as-magecart-skimming-hits-major-payment-networks</link>
       <pubDate>Wed, 14 Jan 2026 12:03:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Secure Connectivity Principles for Operational Technology (OT)</title>
+      <link>https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot</link>
+      <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution</title>
@@ -128,11 +168,6 @@
       <pubDate>Tue, 13 Jan 2026 21:34:15 +0000</pubDate>
     </item>
     <item>
-      <title>Tennessee man to plead guilty to hacking Supreme Court’s electronic case filing system</title>
-      <link>https://therecord.media/guilty-plea-hacking-supreme-court-case-filing-system</link>
-      <pubDate>Tue, 13 Jan 2026 20:57:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Threat Brief: MongoDB Vulnerability (CVE-2025-14847)</title>
       <link>https://unit42.paloaltonetworks.com/mongobleed-cve-2025-14847/</link>
       <pubDate>Tue, 13 Jan 2026 20:30:02 +0000</pubDate>
@@ -223,8 +258,13 @@
       <pubDate>Tue, 13 Jan 2026 12:09:28 +0000</pubDate>
     </item>
     <item>
-      <title>Rockwell Automation 432ES-IG3 Series A</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-01</link>
+      <title>YoSmart YoLink Smart Hub</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-03</link>
+      <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/01/13/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -233,13 +273,8 @@
       <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>YoSmart YoLink Smart Hub</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-03</link>
-      <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/01/13/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <title>Rockwell Automation 432ES-IG3 Series A</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-01</link>
       <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -271,41 +306,6 @@
       <title>Remote Code Execution With Modern AI/ML Formats and Libraries</title>
       <link>https://unit42.paloaltonetworks.com/rce-vulnerabilities-in-ai-python-libraries/</link>
       <pubDate>Tue, 13 Jan 2026 11:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global Magecart Campaign Targets Six Card Networks</title>
-      <link>https://www.infosecurity-magazine.com/news/global-magecart-campaign-six-card/</link>
-      <pubDate>Tue, 13 Jan 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack</title>
-      <link>https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html</link>
-      <pubDate>Tue, 13 Jan 2026 09:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Betterment Customer Data Exposed in Crypto Scam Hack</title>
-      <link>https://www.techrepublic.com/article/news-betterment-crypto-scam-hack/</link>
-      <pubDate>Tue, 13 Jan 2026 08:51:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution</title>
-      <link>https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html</link>
-      <pubDate>Tue, 13 Jan 2026 07:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>January 2026 Patch Tuesday: 114 CVEs Patched Including 3 Zero-Days</title>
-      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-january-2026/</link>
-      <pubDate>Tue, 13 Jan 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike to Acquire Seraphic to Secure Work in Any Browser</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/</link>
-      <pubDate>Tue, 13 Jan 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, January 13th, 2026 https://isc.sans.edu/podcastdetail/9764, (Tue, Jan 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/32622</link>
-      <pubDate>Tue, 13 Jan 2026 02:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
