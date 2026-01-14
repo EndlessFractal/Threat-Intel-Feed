@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 03:44:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:44:27 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Wednesday, January 14th, 2026 https://isc.sans.edu/podcastdetail/9766, (Wed, Jan 14th)</title>
       <link>https://isc.sans.edu/diary/rss/32626</link>
@@ -61,11 +61,6 @@
       <title>Microsoft Patch Tuesday for January 2026 — Snort rules and prominent vulnerabilities</title>
       <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-january-2026/</link>
       <pubDate>Tue, 13 Jan 2026 18:29:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #83: ChatGPT Health, Victorian LLMs, and the biggest AI bluffers</title>
-      <link>https://grahamcluley.com/the-ai-fix-83/</link>
-      <pubDate>Tue, 13 Jan 2026 18:19:04 +0000</pubDate>
     </item>
     <item>
       <title>Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages</title>
@@ -193,11 +188,6 @@
       <pubDate>Tue, 13 Jan 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hackers get hacked, as BreachForums database is leaked</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-get-hacked-as-breachforums-database-is-leaked</link>
-      <pubDate>Tue, 13 Jan 2026 09:45:11 +0000</pubDate>
-    </item>
-    <item>
       <title>New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack</title>
       <link>https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html</link>
       <pubDate>Tue, 13 Jan 2026 09:08:00 +0000</pubDate>
@@ -306,6 +296,16 @@
       <title>Israeli Cybersecurity Startup Torq Gets $140M Funding to Hit $1.2B Valuation</title>
       <link>https://www.techrepublic.com/article/news-torq-funding/</link>
       <pubDate>Mon, 12 Jan 2026 12:02:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Corrupting LLMs Through Weird Generalizations</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/corrupting-llms-through-weird-generalizations.html</link>
+      <pubDate>Mon, 12 Jan 2026 12:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/01/12/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Mon, 12 Jan 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
