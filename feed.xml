@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 16:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:29:49 +0000</lastBuildDate>
+    <item>
+      <title>Infection repeatedly adds scheduled tasks and increases traffic to the same C2 domain, (Wed, Jan 14th)</title>
+      <link>https://isc.sans.edu/diary/rss/32628</link>
+      <pubDate>Wed, 14 Jan 2026 18:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Speaking Engagements</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html</link>
+      <pubDate>Wed, 14 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/</link>
+      <pubDate>Wed, 14 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Criminal Subscription Service Behind AI-Powered Cyber-Attacks Taken Out By Microsoft</title>
+      <link>https://www.infosecurity-magazine.com/news/criminal-subscription-service/</link>
+      <pubDate>Wed, 14 Jan 2026 16:32:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Use Fake PayPal Notices to Steal Credentials, Deploy RMMs</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-fake-paypal-notices-deploy/</link>
@@ -18,11 +38,6 @@
       <pubDate>Wed, 14 Jan 2026 15:55:12 +0000</pubDate>
     </item>
     <item>
-      <title>Ukraine appoints digital chief as defense minister to drive military reform</title>
-      <link>https://therecord.media/ukraine-digital-chief-transformation</link>
-      <pubDate>Wed, 14 Jan 2026 15:35:17 +0000</pubDate>
-    </item>
-    <item>
       <title>Fortinet fixed two critical flaws in FortiFone and FortiSIEM</title>
       <link>https://securityaffairs.com/186902/uncategorized/fortinet-fixed-two-critical-flaws-in-fortifone-and-fortisiem.html</link>
       <pubDate>Wed, 14 Jan 2026 15:07:44 +0000</pubDate>
@@ -31,6 +46,11 @@
       <title>AI Agents Are Becoming Privilege Escalation Paths</title>
       <link>https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html</link>
       <pubDate>Wed, 14 Jan 2026 15:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/01/14/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/</link>
+      <pubDate>Wed, 14 Jan 2026 15:03:31 +0000</pubDate>
     </item>
     <item>
       <title>UAC-0190 Attack Detection: Fake Charity Lures Used to Deploy the PLUGGYAPE Backdoor Against the Ukrainian Armed Forces</title>
@@ -51,16 +71,6 @@
       <title>Leaked Data Exposes Thousands of Border Patrol, ICE Agents After Renee Good Shooting</title>
       <link>https://www.techrepublic.com/article/news-leaked-data-exposes-thousands-border-patrol-ice-agents/</link>
       <pubDate>Wed, 14 Jan 2026 13:55:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federal agencies ordered to patch Microsoft Desktop Windows Manager bug</title>
-      <link>https://therecord.media/desktop-windows-manager-vulnerability-added-to-cisa-list</link>
-      <pubDate>Wed, 14 Jan 2026 13:27:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattack forces Belgian hospital to transfer critical care patients</title>
-      <link>https://therecord.media/belgium-hospital-cyberattack-antwerp-az-monica</link>
-      <pubDate>Wed, 14 Jan 2026 13:10:48 +0000</pubDate>
     </item>
     <item>
       <title>Online shoppers at risk as Magecart skimming hits major payment networks</title>
@@ -148,24 +158,9 @@
       <pubDate>Wed, 14 Jan 2026 02:30:03 +0000</pubDate>
     </item>
     <item>
-      <title>California privacy agency appoints surveillance expert to board</title>
-      <link>https://therecord.media/ccpa-appoints-new-board-member</link>
-      <pubDate>Wed, 14 Jan 2026 02:21:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch Tuesday, January 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/</link>
-      <pubDate>Wed, 14 Jan 2026 00:47:38 +0000</pubDate>
-    </item>
-    <item>
       <title>AZ Monica hospital in Belgium shuts down servers after cyberattack</title>
       <link>https://securityaffairs.com/186882/cyber-crime/az-monica-hospital-in-belgium-shuts-down-servers-after-cyberattack.html</link>
       <pubDate>Tue, 13 Jan 2026 23:47:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>More than 40 countries impacted by North Korea IT worker scams, crypto thefts</title>
-      <link>https://therecord.media/40-countries-impacted-nk-it-thefts-united-nations</link>
-      <pubDate>Tue, 13 Jan 2026 21:34:15 +0000</pubDate>
     </item>
     <item>
       <title>Threat Brief: MongoDB Vulnerability (CVE-2025-14847)</title>
@@ -191,6 +186,11 @@
       <title>Microsoft Patch Tuesday for January 2026 — Snort rules and prominent vulnerabilities</title>
       <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-january-2026/</link>
       <pubDate>Tue, 13 Jan 2026 18:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #83: ChatGPT Health, Victorian LLMs, and the biggest AI bluffers</title>
+      <link>https://grahamcluley.com/the-ai-fix-83/</link>
+      <pubDate>Tue, 13 Jan 2026 18:19:04 +0000</pubDate>
     </item>
     <item>
       <title>Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages</title>
