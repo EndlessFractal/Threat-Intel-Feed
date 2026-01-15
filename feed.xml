@@ -6,16 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 18:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 20:25:15 +0000</lastBuildDate>
+    <item>
+      <title>Predicting 2026</title>
+      <link>https://blog.talosintelligence.com/predicting-2026/</link>
+      <pubDate>Thu, 15 Jan 2026 19:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>NSA, Cyber Command nominee defends record during Senate hearing</title>
+      <link>https://therecord.media/nsa-cyber-command-nom-joshua-rudd-senate-hearing</link>
+      <pubDate>Thu, 15 Jan 2026 18:33:49 +0000</pubDate>
+    </item>
     <item>
       <title>Google to pay $8.25 million to settle lawsuit alleging children’s privacy violations</title>
       <link>https://therecord.media/google-youtube-lawsuit-settle</link>
       <pubDate>Thu, 15 Jan 2026 17:12:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>WEF: AI overtakes ransomware as fastest-growing cyber risk</title>
-      <link>https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk</link>
-      <pubDate>Thu, 15 Jan 2026 17:05:07 +0000</pubDate>
     </item>
     <item>
       <title>Global Agencies Release New Guidance to Secure Industrial Networks</title>
@@ -66,11 +71,6 @@
       <title>Elon Musk’s X says it will block Grok from making sexual images</title>
       <link>https://therecord.media/musk-x-grok-block-sexual</link>
       <pubDate>Thu, 15 Jan 2026 14:29:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #450: From Instagram panic to Grok gone wild</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-450/</link>
-      <pubDate>Thu, 15 Jan 2026 14:22:53 +0000</pubDate>
     </item>
     <item>
       <title>CISO Role Reaches “Inflexion Point” With Executive-Level Titles</title>
@@ -198,11 +198,6 @@
       <pubDate>Wed, 14 Jan 2026 19:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>California AG to probe Musk’s Grok for nonconsensual deepfakes</title>
-      <link>https://therecord.media/california-grok-deepfakes-investigation</link>
-      <pubDate>Wed, 14 Jan 2026 18:19:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Infection repeatedly adds scheduled tasks and increases traffic to the same C2 domain, (Wed, Jan 14th)</title>
       <link>https://isc.sans.edu/diary/rss/32628</link>
       <pubDate>Wed, 14 Jan 2026 18:17:20 +0000</pubDate>
@@ -223,13 +218,13 @@
       <pubDate>Wed, 14 Jan 2026 17:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html</link>
+      <title>Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/</link>
       <pubDate>Wed, 14 Jan 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/</link>
+      <title>Upcoming Speaking Engagements</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html</link>
       <pubDate>Wed, 14 Jan 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
@@ -305,6 +300,11 @@
     <item>
       <title>Schneider Electric EcoStruxure Power Build Rapsody</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-10</link>
+      <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Industrial Edge Devices</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-08</link>
       <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
