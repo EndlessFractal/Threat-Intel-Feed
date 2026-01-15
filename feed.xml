@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 16:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 18:32:47 +0000</lastBuildDate>
+    <item>
+      <title>Google to pay $8.25 million to settle lawsuit alleging children’s privacy violations</title>
+      <link>https://therecord.media/google-youtube-lawsuit-settle</link>
+      <pubDate>Thu, 15 Jan 2026 17:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>WEF: AI overtakes ransomware as fastest-growing cyber risk</title>
+      <link>https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk</link>
+      <pubDate>Thu, 15 Jan 2026 17:05:07 +0000</pubDate>
+    </item>
     <item>
       <title>Global Agencies Release New Guidance to Secure Industrial Networks</title>
       <link>https://www.infosecurity-magazine.com/news/global-agencies-secure-industrial/</link>
@@ -58,6 +68,11 @@
       <pubDate>Thu, 15 Jan 2026 14:29:56 +0000</pubDate>
     </item>
     <item>
+      <title>Smashing Security podcast #450: From Instagram panic to Grok gone wild</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-450/</link>
+      <pubDate>Thu, 15 Jan 2026 14:22:53 +0000</pubDate>
+    </item>
+    <item>
       <title>CISO Role Reaches “Inflexion Point” With Executive-Level Titles</title>
       <link>https://www.infosecurity-magazine.com/news/ciso-role-inflexion-point/</link>
       <pubDate>Thu, 15 Jan 2026 14:00:00 +0000</pubDate>
@@ -96,6 +111,11 @@
       <title>New Vulnerability in n8n</title>
       <link>https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html</link>
       <pubDate>Thu, 15 Jan 2026 12:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVEVA Process Optimization</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-01</link>
+      <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Model Security Is the Wrong Frame – The Real Risk Is Workflow Security</title>
@@ -188,9 +208,19 @@
       <pubDate>Wed, 14 Jan 2026 18:17:20 +0000</pubDate>
     </item>
     <item>
-      <title>Ugandan officials turn off internet on eve of national elections</title>
-      <link>https://therecord.media/uganda-internet-shutdown-elections</link>
-      <pubDate>Wed, 14 Jan 2026 17:52:03 +0000</pubDate>
+      <title>A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?</title>
+      <link>https://projectzero.google/2026/01/pixel-0-click-part-3.html</link>
+      <pubDate>Wed, 14 Jan 2026 18:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave</title>
+      <link>https://projectzero.google/2026/01/pixel-0-click-part-2.html</link>
+      <pubDate>Wed, 14 Jan 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby</title>
+      <link>https://projectzero.google/2026/01/pixel-0-click-part-1.html</link>
+      <pubDate>Wed, 14 Jan 2026 17:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Upcoming Speaking Engagements</title>
@@ -268,44 +298,14 @@
       <pubDate>Wed, 14 Jan 2026 12:03:45 +0000</pubDate>
     </item>
     <item>
-      <title>Secure Connectivity Principles for Operational Technology (OT)</title>
-      <link>https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot</link>
+      <title>Festo Firmware</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-02</link>
       <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html</link>
-      <pubDate>Wed, 14 Jan 2026 11:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds a flaw in Microsoft Windows to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/186898/security/u-s-cisa-adds-a-flaw-in-microsoft-windows-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 14 Jan 2026 11:45:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>G7 Sets 2034 Deadline for Finance to Adopt Quantum-Safe Systems</title>
-      <link>https://www.infosecurity-magazine.com/news/g7-2034-deadline-finance-pqc/</link>
-      <pubDate>Wed, 14 Jan 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How real software downloads can hide remote backdoors</title>
-      <link>https://www.malwarebytes.com/blog/threat-intel/2026/01/how-real-software-downloads-can-hide-remote-backdoors</link>
-      <pubDate>Wed, 14 Jan 2026 11:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brushstrokes and breaches with Terryn Valikodath</title>
-      <link>https://blog.talosintelligence.com/brushstrokes-and-breaches-with-terryn-valikodath/</link>
-      <pubDate>Wed, 14 Jan 2026 11:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification</title>
-      <link>https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html</link>
-      <pubDate>Wed, 14 Jan 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware: Tactical Evolution Fuels Extortion Epidemic</title>
-      <link>https://www.security.com/threat-intelligence/ransomware-extortion-epidemic</link>
-      <pubDate>Wed, 14 Jan 2026 11:00:00 +0000</pubDate>
+      <title>Schneider Electric EcoStruxure Power Build Rapsody</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-10</link>
+      <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
