@@ -34,6 +34,7 @@ The script retrieves feeds from the following sources:
 - [Kaspersky Securelist Blog](https://securelist.com/feed)
 - [KrebsOnSecurity Blog](https://krebsonsecurity.com/feed)
 - [Malwarebytes Blog](https://blog.malwarebytes.com/feed)
+- [Maryland Coordination and Analysis Center News](https://mcac.maryland.gov/tag/cyber-threats/feed)
 - [Microsoft Security Blog](https://microsoft.com/en-us/security/blog/feed)
 - [Nao-Sec Blog](https://nao-sec.org/feed.xml)
 - [NIST Cybersecurity Insights](https://nist.gov/blogs/cybersecurity-insights/rss.xml)
@@ -53,4 +54,3 @@ The script retrieves feeds from the following sources:
 - [The Record Media Blog](https://therecord.media/feed)
 - [Threatpost Blog](https://threatpost.com/feed)
 - [Troy Hunt's Blog](https://troyhunt.com/rss)
-- [US-DOJ Press Releases](https://www.justice.gov/news/rss?type[1]=press_release&field_component=39901)
