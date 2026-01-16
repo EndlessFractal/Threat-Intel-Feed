@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 12:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 14:20:58 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2026-0227: Palo Alto Networks Fixes GlobalProtect DoS Flaw Allowing Remote Firewall Disruption</title>
+      <link>https://socprime.com/blog/cve-2026-0227-vulnerability/</link>
+      <pubDate>Fri, 16 Jan 2026 14:09:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhisperPair exposes Bluetooth earbuds and headphones to tracking and eavesdropping</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/01/whisperpair-exposes-bluetooth-earbuds-and-headphones-to-tracking-and-eavesdropping</link>
+      <pubDate>Fri, 16 Jan 2026 13:08:45 +0000</pubDate>
+    </item>
     <item>
       <title>TamperedChef Malvertising Campaign Drops Malware via Fake PDF Manuals</title>
       <link>https://www.infosecurity-magazine.com/news/tamperedchef-malvertising-fake-pdf/</link>
@@ -296,16 +306,6 @@
       <title>Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers</title>
       <link>https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html</link>
       <pubDate>Wed, 14 Jan 2026 19:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infection repeatedly adds scheduled tasks and increases traffic to the same C2 domain, (Wed, Jan 14th)</title>
-      <link>https://isc.sans.edu/diary/rss/32628</link>
-      <pubDate>Wed, 14 Jan 2026 18:17:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?</title>
-      <link>https://projectzero.google/2026/01/pixel-0-click-part-3.html</link>
-      <pubDate>Wed, 14 Jan 2026 18:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
