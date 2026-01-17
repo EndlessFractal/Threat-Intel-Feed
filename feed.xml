@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 04:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 06:27:06 +0000</lastBuildDate>
     <item>
       <title>Anatomy of an Attack: The Payroll Pirates and the Power of Social Engineering</title>
       <link>https://unit42.paloaltonetworks.com/social-engineering-payroll-pirates/</link>
@@ -121,6 +121,11 @@
       <title>Actively exploited critical flaw in Modular DS WordPress plugin enables admin takeover</title>
       <link>https://securityaffairs.com/186976/security/actively-exploited-critical-flaw-in-modular-ds-wordpress-plugin-enables-admin-takeover.html</link>
       <pubDate>Fri, 16 Jan 2026 08:26:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Architecture of Agentic Defense: Inside the Falcon Platform</title>
+      <link>https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/</link>
+      <pubDate>Fri, 16 Jan 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions</title>
@@ -301,11 +306,6 @@
       <title>UAT-8837 targets critical infrastructure sectors in North America</title>
       <link>https://blog.talosintelligence.com/uat-8837/</link>
       <pubDate>Thu, 15 Jan 2026 11:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>4 Outdated Habits Destroying Your SOC's MTTR in 2026</title>
-      <link>https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html</link>
-      <pubDate>Thu, 15 Jan 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
