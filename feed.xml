@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 14:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 16:21:07 +0000</lastBuildDate>
     <item>
       <title>Security Affairs newsletter Round 559 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/187019/breaking-news/security-affairs-newsletter-round-559-by-pierluigi-paganini-international-edition.html</link>
@@ -238,6 +238,11 @@
       <pubDate>Thu, 15 Jan 2026 19:00:15 +0000</pubDate>
     </item>
     <item>
+      <title>WEF: AI overtakes ransomware as fastest-growing cyber risk</title>
+      <link>https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk</link>
+      <pubDate>Thu, 15 Jan 2026 17:05:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Global Agencies Release New Guidance to Secure Industrial Networks</title>
       <link>https://www.infosecurity-magazine.com/news/global-agencies-secure-industrial/</link>
       <pubDate>Thu, 15 Jan 2026 16:15:00 +0000</pubDate>
@@ -278,6 +283,11 @@
       <pubDate>Thu, 15 Jan 2026 14:31:21 +0000</pubDate>
     </item>
     <item>
+      <title>Smashing Security podcast #450: From Instagram panic to Grok gone wild</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-450/</link>
+      <pubDate>Thu, 15 Jan 2026 14:22:53 +0000</pubDate>
+    </item>
+    <item>
       <title>CISO Role Reaches “Inflexion Point” With Executive-Level Titles</title>
       <link>https://www.infosecurity-magazine.com/news/ciso-role-inflexion-point/</link>
       <pubDate>Thu, 15 Jan 2026 14:00:00 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>“Reprompt” attack lets attackers steal data from Microsoft Copilot</title>
       <link>https://www.malwarebytes.com/blog/news/2026/01/reprompt-attack-lets-attackers-steal-data-from-microsoft-copilot</link>
       <pubDate>Thu, 15 Jan 2026 13:16:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Hat Europe 2025: Inside the Defenders AI Advantage</title>
-      <link>https://www.security.com/expert-perspectives/inside-defenders-ai-advantage</link>
-      <pubDate>Thu, 15 Jan 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-20805: Microsoft Fixes Actively Exploited Windows Desktop Manager Zero-Day</title>
-      <link>https://socprime.com/blog/cve-2026-20805-vulnerability/</link>
-      <pubDate>Thu, 15 Jan 2026 12:58:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
