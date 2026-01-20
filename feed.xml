@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 16:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 18:32:28 +0000</lastBuildDate>
+    <item>
+      <title>DNS OverDoS: Are Private Endpoints Too Private?</title>
+      <link>https://unit42.paloaltonetworks.com/dos-attacks-and-azure-private-endpoint/</link>
+      <pubDate>Tue, 20 Jan 2026 17:23:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>DLP For An AI-Driven, Encrypted World</title>
+      <link>https://www.security.com/product-insights/dlp-ai-driven-encrypted-world</link>
+      <pubDate>Tue, 20 Jan 2026 17:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four priorities for AI-powered identity and network access security in 2026</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/01/20/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/</link>
+      <pubDate>Tue, 20 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK says it will consider banning social media for children</title>
+      <link>https://therecord.media/uk-says-it-will-consider-social-media-ban-kids</link>
+      <pubDate>Tue, 20 Jan 2026 16:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lawmakers move to extend two cyber programs (again) in funding proposal</title>
+      <link>https://therecord.media/lawmakers-move-to-extend-two-cyber-programs-again</link>
+      <pubDate>Tue, 20 Jan 2026 16:53:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers target Afghan government workers with fake correspondence from senior officials</title>
+      <link>https://therecord.media/hackers-target-afghan-workers</link>
+      <pubDate>Tue, 20 Jan 2026 16:42:12 +0000</pubDate>
+    </item>
     <item>
       <title>Chainlit Security Flaws Highlight Infrastructure Risks in AI Apps</title>
       <link>https://www.infosecurity-magazine.com/news/chainlit-security-flaws-ai-apps/</link>
@@ -93,6 +123,21 @@
       <pubDate>Tue, 20 Jan 2026 12:05:09 +0000</pubDate>
     </item>
     <item>
+      <title>Schneider Electric devices using CODESYS Runtime</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-02</link>
+      <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Verve Asset Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-03</link>
+      <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxure Foxboro DCS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-01</link>
+      <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Hidden Risk of Orphan Accounts</title>
       <link>https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html</link>
       <pubDate>Tue, 20 Jan 2026 11:58:00 +0000</pubDate>
@@ -148,13 +193,13 @@
       <pubDate>Tue, 20 Jan 2026 02:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Sophos Workspace Protection</title>
-      <link>https://www.sophos.com/en-us/blog/introducing-sophos-workspace-protection</link>
+      <title>Synchronized Security and Security Heartbeat: Elevating Cyber Defenses, Automatically</title>
+      <link>https://www.sophos.com/en-us/blog/synchronized-security-and-security-heartbeat-elevating-cyber-defenses-automatically</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Synchronized Security and Security Heartbeat: Elevating Cyber Defenses, Automatically</title>
-      <link>https://www.sophos.com/en-us/blog/synchronized-security-and-security-heartbeat-elevating-cyber-defenses-automatically</link>
+      <title>Introducing Sophos Workspace Protection</title>
+      <link>https://www.sophos.com/en-us/blog/introducing-sophos-workspace-protection</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -191,11 +236,6 @@
       <title>How we mitigated a vulnerability in Cloudflare’s ACME validation logic</title>
       <link>https://blog.cloudflare.com/acme-path-vulnerability/</link>
       <pubDate>Mon, 19 Jan 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian state TV feed reportedly hijacked to air anti-regime messages</title>
-      <link>https://therecord.media/iran-state-television-reported-hack-opposition</link>
-      <pubDate>Mon, 19 Jan 2026 13:45:10 +0000</pubDate>
     </item>
     <item>
       <title>⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack &amp; More</title>
@@ -266,46 +306,6 @@
       <title>How ‘Reprompt’ Attack Let Hackers Steal Data From Microsoft Copilot</title>
       <link>https://www.techrepublic.com/article/news-reprompt-attack-microsoft-copilot/</link>
       <pubDate>Mon, 19 Jan 2026 08:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations</title>
-      <link>https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html</link>
-      <pubDate>Mon, 19 Jan 2026 06:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacktivists hijacked Iran ’s state TV to air anti-regime messages and an appeal to protest from Reza Pahlavi</title>
-      <link>https://securityaffairs.com/187055/hacktivism/hacktivists-hijacked-iran-state-tv-to-broadcast-anti-regime-messages-and-reza-pahlavis-protest-appeal.html</link>
-      <pubDate>Sun, 18 Jan 2026 22:49:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>GootLoader uses malformed ZIP files to bypass security controls</title>
-      <link>https://securityaffairs.com/187037/cyber-crime/gootloader-uses-malformed-zip-files-to-bypass-security-controls.html</link>
-      <pubDate>Sun, 18 Jan 2026 18:22:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 80</title>
-      <link>https://securityaffairs.com/187028/uncategorized/security-affairs-malware-newsletter-round-80.html</link>
-      <pubDate>Sun, 18 Jan 2026 16:58:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>December 2025 APT Group Trends</title>
-      <link>https://asec.ahnlab.com/en/92184/</link>
-      <pubDate>Sun, 18 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proxyware Disguised as Notepad++ Tool</title>
-      <link>https://asec.ahnlab.com/en/92183/</link>
-      <pubDate>Sun, 18 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 559 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/187019/breaking-news/security-affairs-newsletter-round-559-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 18 Jan 2026 13:46:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will 2026 See a ‘ChatGPT Moment’ for Microchip Implants?</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/will-2026-see-a-chatgpt-moment-for-microchip-implants</link>
-      <pubDate>Sun, 18 Jan 2026 10:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
