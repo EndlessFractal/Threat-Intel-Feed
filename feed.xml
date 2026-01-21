@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 04:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 06:32:18 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Wednesday, January 21st, 2026 https://isc.sans.edu/podcastdetail/9774, (Wed, Jan 21st)</title>
       <link>https://isc.sans.edu/diary/rss/32642</link>
@@ -21,6 +21,11 @@
       <title>Access broker caught: Jordanian pleads guilty to hacking 50 companies</title>
       <link>https://securityaffairs.com/187117/cyber-crime/access-broker-caught-jordanian-pleads-guilty-to-hacking-50-companies.html</link>
       <pubDate>Tue, 20 Jan 2026 19:09:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supreme Court to consider whether geofence warrants are constitutional</title>
+      <link>https://therecord.media/supreme-court-geofence-constitutionality</link>
+      <pubDate>Tue, 20 Jan 2026 19:05:21 +0000</pubDate>
     </item>
     <item>
       <title>New iOS and iPadOS Flaws Leave Millions of iPhones at Risk</title>
@@ -53,14 +58,24 @@
       <pubDate>Tue, 20 Jan 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>UK says it will consider banning social media for children</title>
+      <link>https://therecord.media/uk-says-it-will-consider-social-media-ban-kids</link>
+      <pubDate>Tue, 20 Jan 2026 16:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lawmakers move to extend two cyber programs (again) in funding proposal</title>
+      <link>https://therecord.media/lawmakers-move-to-extend-two-cyber-programs-again</link>
+      <pubDate>Tue, 20 Jan 2026 16:53:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers target Afghan government workers with fake correspondence from senior officials</title>
+      <link>https://therecord.media/hackers-target-afghan-workers</link>
+      <pubDate>Tue, 20 Jan 2026 16:42:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Chainlit Security Flaws Highlight Infrastructure Risks in AI Apps</title>
       <link>https://www.infosecurity-magazine.com/news/chainlit-security-flaws-ai-apps/</link>
       <pubDate>Tue, 20 Jan 2026 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #84: A hungry ghost trapped in a jar gains access to the Pentagon’s network</title>
-      <link>https://grahamcluley.com/the-ai-fix-84/</link>
-      <pubDate>Tue, 20 Jan 2026 15:30:36 +0000</pubDate>
     </item>
     <item>
       <title>Critical TP-Link VIGI camera flaw allowed remote takeover of surveillance systems</title>
@@ -111,6 +126,11 @@
       <title>Linkedin Phishing Campaign Exploits Open-Source Pen Testing Tool to Compromise Business Execs</title>
       <link>https://www.infosecurity-magazine.com/news/linkedin-phishing-campaign-targets/</link>
       <pubDate>Tue, 20 Jan 2026 13:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK launches landmark 'Report Fraud' service to tackle cybercrime and fraud</title>
+      <link>https://therecord.media/uk-report-fraud-platform-launch-police-cybercrime</link>
+      <pubDate>Tue, 20 Jan 2026 13:03:43 +0000</pubDate>
     </item>
     <item>
       <title>AI Supercharges Attacks in Cybercrime's New 'Fifth Wave'</title>
@@ -286,26 +306,6 @@
       <title>Cyber Breaches, Compliance and Reputation Top UK Corporate Concerns</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-breaches-compliance/</link>
       <pubDate>Mon, 19 Jan 2026 09:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures</title>
-      <link>https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html</link>
-      <pubDate>Mon, 19 Jan 2026 09:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Exploit Bug in StealC Infostealer to Collect Evidence</title>
-      <link>https://www.infosecurity-magazine.com/news/researchers-exploit-bug-stealc/</link>
-      <pubDate>Mon, 19 Jan 2026 09:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacker pleads guilty to hacking Supreme Court, AmeriCorps, and VA Systems</title>
-      <link>https://securityaffairs.com/187048/security/hacker-pleads-guilty-to-hacking-supreme-court-americorps-and-va-systems.html</link>
-      <pubDate>Mon, 19 Jan 2026 08:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (January 12 – January 18)</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-january-12-january-18</link>
-      <pubDate>Mon, 19 Jan 2026 08:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
