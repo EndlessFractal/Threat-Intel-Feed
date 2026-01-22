@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 01:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 03:45:20 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Thursday, January 22nd, 2026 https://isc.sans.edu/podcastdetail/9776, (Thu, Jan 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/32646</link>
+      <pubDate>Thu, 22 Jan 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #451: I hacked the government, and your headphones are next</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-451/</link>
+      <pubDate>Thu, 22 Jan 2026 00:30:42 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco fixed actively exploited Unified Communications zero day</title>
       <link>https://securityaffairs.com/187177/security/cisco-fixed-actively-exploited-unified-communications-zero-day.html</link>
@@ -33,6 +43,11 @@
       <pubDate>Wed, 21 Jan 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Greek police arrest scammers using fake cell tower hidden in car trunk</title>
+      <link>https://therecord.media/greek-police-arrest-scammers-using-hidden-cell-towers</link>
+      <pubDate>Wed, 21 Jan 2026 15:44:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws</title>
       <link>https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html</link>
       <pubDate>Wed, 21 Jan 2026 15:42:00 +0000</pubDate>
@@ -51,6 +66,11 @@
       <title>A new era of agents, a new era of posture</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/01/21/new-era-of-agents-new-era-of-posture/</link>
       <pubDate>Wed, 21 Jan 2026 14:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU unveils new plans to tackle Huawei, ZTE as China alleges protectionism</title>
+      <link>https://therecord.media/eu-unveils-new-plans-to-tackle-huawei-zte</link>
+      <pubDate>Wed, 21 Jan 2026 14:08:08 +0000</pubDate>
     </item>
     <item>
       <title>Application Control Rollout For Dummies</title>
@@ -96,6 +116,11 @@
       <title>Crooks impersonate LastPass in campaign to harvest master passwords</title>
       <link>https://securityaffairs.com/187145/cyber-crime/crooks-impersonate-lastpass-in-campaign-to-harvest-master-passwords.html</link>
       <pubDate>Wed, 21 Jan 2026 11:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro-Russian denial-of-service attacks target UK, NCSC warns</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/pro-russian-denial-of-service-attacks-target-uk-ncsc-warns</link>
+      <pubDate>Wed, 21 Jan 2026 10:48:52 +0000</pubDate>
     </item>
     <item>
       <title>Exposure Assessment Platforms Signal a Shift in Focus</title>
@@ -173,6 +198,11 @@
       <pubDate>Tue, 20 Jan 2026 19:09:23 +0000</pubDate>
     </item>
     <item>
+      <title>Supreme Court to consider whether geofence warrants are constitutional</title>
+      <link>https://therecord.media/supreme-court-geofence-constitutionality</link>
+      <pubDate>Tue, 20 Jan 2026 19:05:21 +0000</pubDate>
+    </item>
+    <item>
       <title>New iOS and iPadOS Flaws Leave Millions of iPhones at Risk</title>
       <link>https://www.techrepublic.com/article/news-ios-ipad-os-flaws-iphones-at-risk/</link>
       <pubDate>Tue, 20 Jan 2026 19:01:49 +0000</pubDate>
@@ -203,9 +233,24 @@
       <pubDate>Tue, 20 Jan 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>UK says it will consider banning social media for children</title>
+      <link>https://therecord.media/uk-says-it-will-consider-social-media-ban-kids</link>
+      <pubDate>Tue, 20 Jan 2026 16:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lawmakers move to extend two cyber programs (again) in funding proposal</title>
+      <link>https://therecord.media/lawmakers-move-to-extend-two-cyber-programs-again</link>
+      <pubDate>Tue, 20 Jan 2026 16:53:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Chainlit Security Flaws Highlight Infrastructure Risks in AI Apps</title>
       <link>https://www.infosecurity-magazine.com/news/chainlit-security-flaws-ai-apps/</link>
       <pubDate>Tue, 20 Jan 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Fix #84: A hungry ghost trapped in a jar gains access to the Pentagon’s network</title>
+      <link>https://grahamcluley.com/the-ai-fix-84/</link>
+      <pubDate>Tue, 20 Jan 2026 15:30:36 +0000</pubDate>
     </item>
     <item>
       <title>Critical TP-Link VIGI camera flaw allowed remote takeover of surveillance systems</title>
@@ -261,51 +306,6 @@
       <title>AI Supercharges Attacks in Cybercrime's New 'Fifth Wave'</title>
       <link>https://www.infosecurity-magazine.com/news/ai-supercharges-attacks-cybercrime/</link>
       <pubDate>Tue, 20 Jan 2026 12:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Could ChatGPT Convince You to Buy Something?</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/could-chatgpt-convince-you-to-buy-something.html</link>
-      <pubDate>Tue, 20 Jan 2026 12:08:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Warns of Increased Russian Hacktivist Threat to UK Online Services</title>
-      <link>https://www.techrepublic.com/article/news-ncsc-russian-hackers-target-uk/</link>
-      <pubDate>Tue, 20 Jan 2026 12:05:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric devices using CODESYS Runtime</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-02</link>
-      <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Verve Asset Manager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-03</link>
-      <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric EcoStruxure Foxboro DCS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-01</link>
-      <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hidden Risk of Orphan Accounts</title>
-      <link>https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html</link>
-      <pubDate>Tue, 20 Jan 2026 11:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto</title>
-      <link>https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html</link>
-      <pubDate>Tue, 20 Jan 2026 11:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google will pay $8.25m to settle child data-tracking allegations</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/01/google-will-pay-8-25m-to-settle-child-data-tracking-allegations</link>
-      <pubDate>Tue, 20 Jan 2026 11:40:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers</title>
-      <link>https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html</link>
-      <pubDate>Tue, 20 Jan 2026 11:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
