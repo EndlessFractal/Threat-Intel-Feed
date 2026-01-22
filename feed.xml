@@ -6,16 +6,71 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 10:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 12:43:02 +0000</lastBuildDate>
+    <item>
+      <title>Why AI Keeps Falling for Prompt Injection Attacks</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html</link>
+      <pubDate>Thu, 22 Jan 2026 12:35:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>LastPass Warns of Phishing Campaign Attempting to Steal Master Passwords</title>
+      <link>https://www.infosecurity-magazine.com/news/lastpass-phishing-master-passwords/</link>
+      <pubDate>Thu, 22 Jan 2026 12:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Under Armour ransomware breach: data of 72 million customers appears on the dark web</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/01/under-armour-ransomware-breach-data-of-72-million-customers-appears-on-the-dark-web</link>
+      <pubDate>Thu, 22 Jan 2026 12:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom and GitLab Patch RCE, DoS, and 2FA Bypass Vulnerabilities</title>
+      <link>https://www.techrepublic.com/article/news-zoom-gitlab-security-flaws-patched/</link>
+      <pubDate>Thu, 22 Jan 2026 11:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Filling the Most Common Gaps in Google Workspace Security</title>
+      <link>https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html</link>
+      <pubDate>Thu, 22 Jan 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Executives Warn They May Not Survive a Major Cyber-Attack, Vodafone Survey Finds</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-execs-warn-may-not-suruvie/</link>
+      <pubDate>Thu, 22 Jan 2026 11:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arctic Wolf detects surge in automated Fortinet FortiGate firewall configuration attacks</title>
+      <link>https://securityaffairs.com/187194/hacking/arctic-wolf-detects-surge-in-automated-fortinet-fortigate-firewall-configuration-attacks.html</link>
+      <pubDate>Thu, 22 Jan 2026 11:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Next Frontier of Runtime Assembly Attacks: Leveraging LLMs to Generate Phishing JavaScript in Real Time</title>
+      <link>https://unit42.paloaltonetworks.com/real-time-malicious-javascript-through-llms/</link>
+      <pubDate>Thu, 22 Jan 2026 11:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Osiris: New Ransomware, Experienced Attackers?</title>
+      <link>https://www.security.com/threat-intelligence/new-ransomware-osiris</link>
+      <pubDate>Thu, 22 Jan 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 160,000 Companies Notify Regulators of GDPR Breaches</title>
+      <link>https://www.infosecurity-magazine.com/news/160000-companies-regulator-gdpr/</link>
+      <pubDate>Thu, 22 Jan 2026 10:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts</title>
+      <link>https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html</link>
+      <pubDate>Thu, 22 Jan 2026 10:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release</title>
+      <link>https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html</link>
+      <pubDate>Thu, 22 Jan 2026 09:46:00 +0000</pubDate>
+    </item>
     <item>
       <title>LastPass Warns of Phishing Campaign Targeting Its Customers</title>
       <link>https://www.techrepublic.com/article/news-lastpass-phishing-campaign/</link>
       <pubDate>Thu, 22 Jan 2026 09:38:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>European Space Agency’s cybersecurity in freefall as yet another breach exposes spacecraft and mission data</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/european-space-agencys-cybersecurity-in-freefall-as-yet-another-breach-exposes-spacecraft-and-mission-data</link>
-      <pubDate>Thu, 22 Jan 2026 09:18:39 +0000</pubDate>
     </item>
     <item>
       <title>Is AI-Generated Code Secure?, (Thu, Jan 22nd)</title>
@@ -46,11 +101,6 @@
       <title>ISC Stormcast For Thursday, January 22nd, 2026 https://isc.sans.edu/podcastdetail/9776, (Thu, Jan 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/32646</link>
       <pubDate>Thu, 22 Jan 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #451: I hacked the government, and your headphones are next</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-451/</link>
-      <pubDate>Thu, 22 Jan 2026 00:30:42 +0000</pubDate>
     </item>
     <item>
       <title>Cisco fixed actively exploited Unified Communications zero day</title>
@@ -93,13 +143,13 @@
       <pubDate>Wed, 21 Jan 2026 15:10:10 +0000</pubDate>
     </item>
     <item>
-      <title>Peruvian Loan Scam Harvests Cards and PINs via Fake Applications</title>
-      <link>https://www.infosecurity-magazine.com/news/loan-scam-harvests-cards-pins/</link>
+      <title>Ransom &amp; Dark Web  Issues Week 3, January 2026</title>
+      <link>https://asec.ahnlab.com/en/92258/</link>
       <pubDate>Wed, 21 Jan 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web  Issues Week 3, January 2026</title>
-      <link>https://asec.ahnlab.com/en/92258/</link>
+      <title>Peruvian Loan Scam Harvests Cards and PINs via Fake Applications</title>
+      <link>https://www.infosecurity-magazine.com/news/loan-scam-harvests-cards-pins/</link>
       <pubDate>Wed, 21 Jan 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -156,11 +206,6 @@
       <title>Crooks impersonate LastPass in campaign to harvest master passwords</title>
       <link>https://securityaffairs.com/187145/cyber-crime/crooks-impersonate-lastpass-in-campaign-to-harvest-master-passwords.html</link>
       <pubDate>Wed, 21 Jan 2026 11:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pro-Russian denial-of-service attacks target UK, NCSC warns</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/pro-russian-denial-of-service-attacks-target-uk-ncsc-warns</link>
-      <pubDate>Wed, 21 Jan 2026 10:48:52 +0000</pubDate>
     </item>
     <item>
       <title>Exposure Assessment Platforms Signal a Shift in Focus</title>
@@ -261,51 +306,6 @@
       <title>DNS OverDoS: Are Private Endpoints Too Private?</title>
       <link>https://unit42.paloaltonetworks.com/dos-attacks-and-azure-private-endpoint/</link>
       <pubDate>Tue, 20 Jan 2026 17:23:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>DLP For An AI-Driven, Encrypted World</title>
-      <link>https://www.security.com/product-insights/dlp-ai-driven-encrypted-world</link>
-      <pubDate>Tue, 20 Jan 2026 17:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four priorities for AI-powered identity and network access security in 2026</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/01/20/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/</link>
-      <pubDate>Tue, 20 Jan 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK says it will consider banning social media for children</title>
-      <link>https://therecord.media/uk-says-it-will-consider-social-media-ban-kids</link>
-      <pubDate>Tue, 20 Jan 2026 16:59:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lawmakers move to extend two cyber programs (again) in funding proposal</title>
-      <link>https://therecord.media/lawmakers-move-to-extend-two-cyber-programs-again</link>
-      <pubDate>Tue, 20 Jan 2026 16:53:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chainlit Security Flaws Highlight Infrastructure Risks in AI Apps</title>
-      <link>https://www.infosecurity-magazine.com/news/chainlit-security-flaws-ai-apps/</link>
-      <pubDate>Tue, 20 Jan 2026 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Fix #84: A hungry ghost trapped in a jar gains access to the Pentagon’s network</title>
-      <link>https://grahamcluley.com/the-ai-fix-84/</link>
-      <pubDate>Tue, 20 Jan 2026 15:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical TP-Link VIGI camera flaw allowed remote takeover of surveillance systems</title>
-      <link>https://securityaffairs.com/187110/hacking/critical-tp-link-vigi-camera-flaw-allowed-remote-takeover-of-surveillance-systems.html</link>
-      <pubDate>Tue, 20 Jan 2026 15:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prompt Injection Bugs Found in Official Anthropic Git MCP Server</title>
-      <link>https://www.infosecurity-magazine.com/news/prompt-injection-bugs-anthropic/</link>
-      <pubDate>Tue, 20 Jan 2026 15:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>December 2025 Security Issues in Korean &amp; Global Financial Sector</title>
-      <link>https://asec.ahnlab.com/en/92207/</link>
-      <pubDate>Tue, 20 Jan 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
