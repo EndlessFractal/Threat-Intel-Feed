@@ -3,7 +3,7 @@ name: Update Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */4 * * *"
 
 jobs:
   update_feed:

@@ -6,7 +6,7 @@ import time
 import feedparser
 import requests
 
-MAX_LINKS_TO_KEEP = 200
+MAX_LINKS_TO_KEEP = 500
 
 # Read lines from a file into a set
 def read_links(path):

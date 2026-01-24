@@ -36,7 +36,7 @@ def sort_key(entry):
 # Fetch feed entries with retries and timeout
 def fetch_feed(url, max_retries=2, delay=3, timeout=5):
     headers = {
-        'User-Agent': 'EndlessFractalRSSBot/1.0 (Fetch every two hours; +https://github.com/EndlessFractal/Threat-Intel-Feed'
+        'User-Agent': 'EndlessFractalRSSBot/1.0 (Fetch every four hours; +https://github.com/EndlessFractal/Threat-Intel-Feed'
     }
     for attempt in range(max_retries):
         try:
