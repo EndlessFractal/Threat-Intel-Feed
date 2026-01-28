@@ -6,11 +6,61 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 08:23:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 12:34:55 +0000</lastBuildDate>
+    <item>
+      <title>Emojis in PureRAT’s Code Point to AI-Generated Malware Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/emojis-in-purerats-code/</link>
+      <pubDate>Wed, 28 Jan 2026 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Security Threats Loom as Enterprise Usage Jumps 91%</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-security-threats-loom-zscaler/</link>
+      <pubDate>Wed, 28 Jan 2026 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Acting Cyber Chief Allegedly Leaked Data to ChatGPT</title>
+      <link>https://www.techrepublic.com/article/news-cisa-cyber-chief-chatgpt/</link>
+      <pubDate>Wed, 28 Jan 2026 11:31:40 +0000</pubDate>
+    </item>
     <item>
       <title>PureRAT: Attacker Now Using AI to Build Toolset</title>
       <link>https://www.security.com/threat-intelligence/ai-purerat-phishing</link>
-      <pubDate>Wed, 28 Jan 2026 08:03:00 +0000</pubDate>
+      <pubDate>Wed, 28 Jan 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover 454,000+ Malicious Open Source Packages</title>
+      <link>https://www.infosecurity-magazine.com/news/454000-malicious-open-source/</link>
+      <pubDate>Wed, 28 Jan 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Password Reuse in Disguise: An Often-Missed Risky Workaround</title>
+      <link>https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html</link>
+      <pubDate>Wed, 28 Jan 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Money Launderers Drive Global Ecosystem Worth $82bn</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-money-launderers-global/</link>
+      <pubDate>Wed, 28 Jan 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088</title>
+      <link>https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html</link>
+      <pubDate>Wed, 28 Jan 2026 09:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan</title>
+      <link>https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html</link>
+      <pubDate>Wed, 28 Jan 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Phones Get AI-Powered Anti-Theft Features</title>
+      <link>https://www.techrepublic.com/article/news-android-anti-theft-features/</link>
+      <pubDate>Wed, 28 Jan 2026 09:08:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>PackageGate bugs let attackers bypass protections in NPM, PNPM, VLT, and Bun</title>
+      <link>https://securityaffairs.com/187416/hacking/packagegate-bugs-let-attackers-bypass-protections-in-npm-pnpm-vlt-and-bun.html</link>
+      <pubDate>Wed, 28 Jan 2026 08:43:56 +0000</pubDate>
     </item>
     <item>
       <title>Data Protection Day 2026: From Compliance to Resilience</title>
@@ -256,56 +306,6 @@
       <title>Beyond MFA: Building true resilience against identity-based attacks</title>
       <link>https://www.sophos.com/en-us/blog/beyond-mfa-building-true-resilience-against-identity-based-attacks</link>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emergency Microsoft update fixes in-the-wild Office zero-day</title>
-      <link>https://securityaffairs.com/187349/hacking/emergency-microsoft-update-fixes-in-the-wild-office-zero-day.html</link>
-      <pubDate>Mon, 26 Jan 2026 19:03:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware</title>
-      <link>https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html</link>
-      <pubDate>Mon, 26 Jan 2026 17:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security strategies for safeguarding governmental data</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/</link>
-      <pubDate>Mon, 26 Jan 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Shared BitLocker Keys With FBI, Raising Privacy Fears</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-bitlocker-keys-fbi-privacy/</link>
-      <pubDate>Mon, 26 Jan 2026 16:42:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases List of Post-Quantum Cryptography Product Categories</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/</link>
-      <pubDate>Mon, 26 Jan 2026 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code</title>
-      <link>https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html</link>
-      <pubDate>Mon, 26 Jan 2026 15:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShinyHunters claims 2 Million Crunchbase records; company confirms breach</title>
-      <link>https://securityaffairs.com/187340/data-breach/shinyhunters-claims-2-million-crunchbase-records-company-confirms-breach.html</link>
-      <pubDate>Mon, 26 Jan 2026 15:17:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover “Haxor” SEO Poisoning Marketplace</title>
-      <link>https://www.infosecurity-magazine.com/news/researchers-haxor-seo-poisoning/</link>
-      <pubDate>Mon, 26 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get paid to scroll TikTok? The data trade behind Freecash ads</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/01/get-paid-to-scroll-tiktok-the-data-trade-behind-freecash-ads</link>
-      <pubDate>Mon, 26 Jan 2026 14:28:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>One privacy change I made for 2026 (Lock and Code S07E02)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2026/01/one-privacy-change-i-made-for-2026-lock-and-code-s07e02</link>
-      <pubDate>Mon, 26 Jan 2026 13:31:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
