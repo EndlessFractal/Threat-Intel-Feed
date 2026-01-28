@@ -2,7 +2,7 @@ name: RSS Feed Notification
 
 on:
   workflow_run:
-    workflows: ["Update Feed"]
+    workflows: [Feed Update]
     types:
       - completed
 
