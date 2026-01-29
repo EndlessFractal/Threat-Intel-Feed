@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 14:36:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 16:40:03 +0000</lastBuildDate>
+    <item>
+      <title>France Fines National Employment Agency €5m Over 2024 Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/france-finesemployment-agency-5m/</link>
+      <pubDate>Thu, 29 Jan 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New CISA Guidance Targets Insider Threat Risks</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-targets-insider-threat-risks/</link>
+      <pubDate>Thu, 29 Jan 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack on large Russian bread factory disrupts supply deliveries</title>
+      <link>https://therecord.media/cyberattack-russian-bread-factory-supply-disruptions</link>
+      <pubDate>Thu, 29 Jan 2026 15:58:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google targets IPIDEA in crackdown on global residential proxy networks</title>
+      <link>https://securityaffairs.com/187463/security/google-targets-ipidea-in-crackdown-on-global-residential-proxy-networks.html</link>
+      <pubDate>Thu, 29 Jan 2026 15:16:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supply chain attack on eScan antivirus: detecting and remediating malicious updates</title>
+      <link>https://securelist.com/escan-supply-chain-attack/118688/</link>
+      <pubDate>Thu, 29 Jan 2026 15:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feds get second guilty plea in takedown of dark web Empire Market</title>
+      <link>https://therecord.media/feds-second-guilty-plea</link>
+      <pubDate>Thu, 29 Jan 2026 15:02:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office zero-day lets malicious documents slip past security checks</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/01/microsoft-office-zero-day-lets-malicious-documents-slip-past-security-checks</link>
+      <pubDate>Thu, 29 Jan 2026 14:53:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft releases update to address zero-day vulnerability in Microsoft Office</title>
+      <link>https://blog.talosintelligence.com/microsoft-oob-update-january-2026/</link>
+      <pubDate>Thu, 29 Jan 2026 14:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clawdbot’s rename to Moltbot sparks impersonation campaign</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/01/clawdbots-rename-to-moltbot-sparks-impersonation-campaign</link>
+      <pubDate>Thu, 29 Jan 2026 14:26:42 +0000</pubDate>
+    </item>
     <item>
       <title>Latvia says Russia remains its top cyber threat as attacks hit record high</title>
       <link>https://therecord.media/latvia-says-russia-remains-top-cyber-threat-record-attacks</link>
@@ -108,14 +153,19 @@
       <pubDate>Thu, 29 Jan 2026 08:35:01 +0000</pubDate>
     </item>
     <item>
-      <title>LABYRINTH CHOLLIMA Evolves into Three Adversaries</title>
-      <link>https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/</link>
-      <pubDate>Thu, 29 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks</title>
       <link>https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html</link>
       <pubDate>Thu, 29 Jan 2026 07:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #452: The dark web’s worst assassins, and Pegasus in the dock</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-452/</link>
+      <pubDate>Thu, 29 Jan 2026 00:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four arrested in crackdown on Discord-based SWATting and doxing</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/four-arrested-crackdown-discord-swatting-doxing</link>
+      <pubDate>Wed, 28 Jan 2026 20:14:41 +0000</pubDate>
     </item>
     <item>
       <title>$95M Payout: Apple Begins Compensating Users in Siri Eavesdropping Case</title>
@@ -163,11 +213,6 @@
       <pubDate>Wed, 28 Jan 2026 16:02:30 +0000</pubDate>
     </item>
     <item>
-      <title>Teen swatting suspects arrested in Hungary and Romania</title>
-      <link>https://therecord.media/teen-swatting-doxxing-suspects-arrested-hungary-romania</link>
-      <pubDate>Wed, 28 Jan 2026 16:02:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Critical and High Severity n8n Sandbox Flaws Allow RCE</title>
       <link>https://www.infosecurity-magazine.com/news/n8n-sandbox-flaws-allow-rce/</link>
       <pubDate>Wed, 28 Jan 2026 16:00:00 +0000</pubDate>
@@ -206,11 +251,6 @@
       <title>Unveiling the Weaponized Web Shell EncystPHP</title>
       <link>https://feeds.fortinet.com/~/943094408/0/fortinet/blog/threat-research~Unveiling-the-Weaponized-Web-Shell-EncystPHP</link>
       <pubDate>Wed, 28 Jan 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattack on Poland’s power grid hit around 30 facilities, new report says</title>
-      <link>https://therecord.media/poland-electrical-grid-cyberattack-30-facilities-affected</link>
-      <pubDate>Wed, 28 Jan 2026 13:39:46 +0000</pubDate>
     </item>
     <item>
       <title>WhatsApp rolls out new protections against advanced exploits and spyware</title>
@@ -266,46 +306,6 @@
       <title>Researchers Uncover 454,000+ Malicious Open Source Packages</title>
       <link>https://www.infosecurity-magazine.com/news/454000-malicious-open-source/</link>
       <pubDate>Wed, 28 Jan 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Password Reuse in Disguise: An Often-Missed Risky Workaround</title>
-      <link>https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html</link>
-      <pubDate>Wed, 28 Jan 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Money Launderers Drive Global Ecosystem Worth $82bn</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-money-launderers-global/</link>
-      <pubDate>Wed, 28 Jan 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088</title>
-      <link>https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html</link>
-      <pubDate>Wed, 28 Jan 2026 09:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan</title>
-      <link>https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html</link>
-      <pubDate>Wed, 28 Jan 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Phones Get AI-Powered Anti-Theft Features</title>
-      <link>https://www.techrepublic.com/article/news-android-anti-theft-features/</link>
-      <pubDate>Wed, 28 Jan 2026 09:08:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>PackageGate bugs let attackers bypass protections in NPM, PNPM, VLT, and Bun</title>
-      <link>https://securityaffairs.com/187416/hacking/packagegate-bugs-let-attackers-bypass-protections-in-npm-pnpm-vlt-and-bun.html</link>
-      <pubDate>Wed, 28 Jan 2026 08:43:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Protection Day 2026: From Compliance to Resilience</title>
-      <link>https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/</link>
-      <pubDate>Wed, 28 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Named a Customers’ Choice in 2026 Gartner® Voice of the Customer for Endpoint Protection Platforms</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/</link>
-      <pubDate>Wed, 28 Jan 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
