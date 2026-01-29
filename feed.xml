@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 18:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 20:27:04 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2025-15467: OpenSSL Vulnerability Leads to Denial-of-Service, Remote Code Execution</title>
+      <link>https://socprime.com/blog/cve-2025-15467-vulnerability/</link>
+      <pubDate>Thu, 29 Jan 2026 20:25:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Apple feature will block cell networks from capturing precise location data</title>
+      <link>https://therecord.media/new-apple-feature-block-location-data-cell-networks</link>
+      <pubDate>Thu, 29 Jan 2026 20:22:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>SolarWinds addressed four critical Web Help Desk flaws</title>
+      <link>https://securityaffairs.com/187470/security/solarwinds-addressed-four-critical-web-help-desk-flaws.html</link>
+      <pubDate>Thu, 29 Jan 2026 19:17:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>I'm locked in!</title>
+      <link>https://blog.talosintelligence.com/im-locked-in/</link>
+      <pubDate>Thu, 29 Jan 2026 19:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries</title>
+      <link>https://thehackernews.com/2026/01/researchers-find-175000-publicly.html</link>
+      <pubDate>Thu, 29 Jan 2026 18:37:00 +0000</pubDate>
+    </item>
     <item>
       <title>NSA pick champions foreign spying law as nomination advances</title>
       <link>https://therecord.media/nsa-pick-champions-fsa-renewal-nomination-advances</link>
@@ -81,11 +106,6 @@
       <title>Clawdbot’s rename to Moltbot sparks impersonation campaign</title>
       <link>https://www.malwarebytes.com/blog/threat-intel/2026/01/clawdbots-rename-to-moltbot-sparks-impersonation-campaign</link>
       <pubDate>Thu, 29 Jan 2026 14:26:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Latvia says Russia remains its top cyber threat as attacks hit record high</title>
-      <link>https://therecord.media/latvia-says-russia-remains-top-cyber-threat-record-attacks</link>
-      <pubDate>Thu, 29 Jan 2026 14:21:17 +0000</pubDate>
     </item>
     <item>
       <title>Interlock Ransomware: New Techniques, Same Old Tricks</title>
@@ -198,6 +218,16 @@
       <pubDate>Thu, 29 Jan 2026 07:16:00 +0000</pubDate>
     </item>
     <item>
+      <title>Smashing Security podcast #452: The dark web’s worst assassins, and Pegasus in the dock</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-452/</link>
+      <pubDate>Thu, 29 Jan 2026 00:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four arrested in crackdown on Discord-based SWATting and doxing</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/four-arrested-crackdown-discord-swatting-doxing</link>
+      <pubDate>Wed, 28 Jan 2026 20:14:41 +0000</pubDate>
+    </item>
+    <item>
       <title>$95M Payout: Apple Begins Compensating Users in Siri Eavesdropping Case</title>
       <link>https://www.techrepublic.com/article/news-apple-siri-eavesdropping-settlement-payouts/</link>
       <pubDate>Wed, 28 Jan 2026 19:42:41 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>Unveiling the Weaponized Web Shell EncystPHP</title>
       <link>https://feeds.fortinet.com/~/943094408/0/fortinet/blog/threat-research~Unveiling-the-Weaponized-Web-Shell-EncystPHP</link>
       <pubDate>Wed, 28 Jan 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp rolls out new protections against advanced exploits and spyware</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/01/whatsapp-rolls-out-new-protections-against-advanced-exploits-and-spyware</link>
-      <pubDate>Wed, 28 Jan 2026 12:57:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html</link>
-      <pubDate>Wed, 28 Jan 2026 12:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emojis in PureRAT’s Code Point to AI-Generated Malware Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/emojis-in-purerats-code/</link>
-      <pubDate>Wed, 28 Jan 2026 12:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Releases Guidance to Address Ongoing Exploitation of Authentication Bypass Vulnerability CVE-2026-24858</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/01/28/fortinet-releases-guidance-address-ongoing-exploitation-authentication-bypass-vulnerability-cve-2026</link>
-      <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Triage to Threat Hunts: How AI Accelerates SecOps</title>
-      <link>https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html</link>
-      <pubDate>Wed, 28 Jan 2026 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution</title>
-      <link>https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html</link>
-      <pubDate>Wed, 28 Jan 2026 11:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
