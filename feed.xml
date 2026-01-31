@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 01:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 04:03:09 +0000</lastBuildDate>
     <item>
       <title>Privileged File System Vulnerability Present in a SCADA System</title>
       <link>https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/</link>
@@ -28,6 +28,11 @@
       <pubDate>Fri, 30 Jan 2026 18:49:44 +0000</pubDate>
     </item>
     <item>
+      <title>Department of Justice seizes domains for Bulgarian piracy sites</title>
+      <link>https://therecord.media/bulgaria-piracy-sites-streaming-gaming-seized-us</link>
+      <pubDate>Fri, 30 Jan 2026 18:43:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Google Presentations Abused for Phishing, (Fri, Jan 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32668</link>
       <pubDate>Fri, 30 Jan 2026 17:56:10 +0000</pubDate>
@@ -36,6 +41,11 @@
       <title>SoundCloud Data Breach Exposes Nearly 30M User Accounts</title>
       <link>https://www.techrepublic.com/article/news-soundcloud-breach-exposes-nearly-30-million-users/</link>
       <pubDate>Fri, 30 Jan 2026 16:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coupang CEO questioned by police investigating obstruction of probe into data breach</title>
+      <link>https://therecord.media/coupang-acting-CEO-questioned-police-investigating-data-breach</link>
+      <pubDate>Fri, 30 Jan 2026 16:15:21 +0000</pubDate>
     </item>
     <item>
       <title>Apple Adds New iPhone Privacy Setting to Blur Location Data Shared With Carriers</title>
@@ -61,6 +71,11 @@
       <title>Match, Hinge, OkCupid, and Panera Bread breached by ransomware group</title>
       <link>https://www.malwarebytes.com/blog/news/2026/01/match-hinge-okcupid-and-panera-bread-breached-by-ransomware-group</link>
       <pubDate>Fri, 30 Jan 2026 14:23:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dating-app giants investigate incidents after cybercriminals claim to steal data</title>
+      <link>https://therecord.media/bumble-match-dating-apps-data-breaches</link>
+      <pubDate>Fri, 30 Jan 2026 13:55:36 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access</title>
@@ -158,14 +173,14 @@
       <pubDate>Thu, 29 Jan 2026 21:06:35 +0000</pubDate>
     </item>
     <item>
-      <title>Hacking attack leaves Russian car owners locked out of their vehicles</title>
-      <link>https://www.fortra.com/blog/hacking-attack-leaves-russian-car-owners-locked-out-their-vehicles</link>
-      <pubDate>Thu, 29 Jan 2026 20:57:05 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2025-15467: OpenSSL Vulnerability Leads to Denial-of-Service, Remote Code Execution</title>
       <link>https://socprime.com/blog/cve-2025-15467-vulnerability/</link>
       <pubDate>Thu, 29 Jan 2026 20:25:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Apple feature will block cell networks from capturing precise location data</title>
+      <link>https://therecord.media/new-apple-feature-block-location-data-cell-networks</link>
+      <pubDate>Thu, 29 Jan 2026 20:22:37 +0000</pubDate>
     </item>
     <item>
       <title>SolarWinds addressed four critical Web Help Desk flaws</title>
@@ -181,6 +196,11 @@
       <title>Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries</title>
       <link>https://thehackernews.com/2026/01/researchers-find-175000-publicly.html</link>
       <pubDate>Thu, 29 Jan 2026 18:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NSA pick champions foreign spying law as nomination advances</title>
+      <link>https://therecord.media/nsa-pick-champions-fsa-renewal-nomination-advances</link>
+      <pubDate>Thu, 29 Jan 2026 18:05:51 +0000</pubDate>
     </item>
     <item>
       <title>Better Together: Modernizing Access Management with Symantec SiteMinder and VMware vSphere Kubernetes Service</title>
@@ -286,26 +306,6 @@
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2026/01/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation ArmorStart LT</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-02</link>
-      <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KiloView Encoder Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-01</link>
-      <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps</title>
-      <link>https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html</link>
-      <pubDate>Thu, 29 Jan 2026 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dissecting UAT-8099: New persistence mechanisms and regional focus</title>
-      <link>https://blog.talosintelligence.com/uat-8099-new-persistence-mechanisms-and-regional-focus/</link>
-      <pubDate>Thu, 29 Jan 2026 11:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
