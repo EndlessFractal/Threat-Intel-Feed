@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 04:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 08:26:16 +0000</lastBuildDate>
+    <item>
+      <title>CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms</title>
+      <link>https://thehackernews.com/2026/01/poland-attributes-december-cyber.html</link>
+      <pubDate>Sat, 31 Jan 2026 07:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Privileged File System Vulnerability Present in a SCADA System</title>
       <link>https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/</link>
@@ -138,7 +143,7 @@
       <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup</title>
+      <title>Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup</title>
       <link>https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html</link>
       <pubDate>Fri, 30 Jan 2026 07:35:00 +0000</pubDate>
     </item>
@@ -171,6 +176,11 @@
       <title>Meta confirms it’s working on premium subscription for its apps</title>
       <link>https://www.malwarebytes.com/blog/news/2026/01/meta-confirms-its-working-on-premium-subscription-for-its-apps</link>
       <pubDate>Thu, 29 Jan 2026 21:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking attack leaves Russian car owners locked out of their vehicles</title>
+      <link>https://www.fortra.com/blog/hacking-attack-leaves-russian-car-owners-locked-out-their-vehicles</link>
+      <pubDate>Thu, 29 Jan 2026 20:57:05 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-15467: OpenSSL Vulnerability Leads to Denial-of-Service, Remote Code Execution</title>
@@ -296,16 +306,6 @@
       <title>ISC Stormcast For Thursday, January 29th, 2026 https://isc.sans.edu/podcastdetail/9786, (Thu, Jan 29th)</title>
       <link>https://isc.sans.edu/diary/rss/32664</link>
       <pubDate>Thu, 29 Jan 2026 12:40:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation ControlLogix</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-03</link>
-      <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/01/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
