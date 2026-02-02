@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 16:36:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 18:39:00 +0000</lastBuildDate>
+    <item>
+      <title>How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing</title>
+      <link>https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing</link>
+      <pubDate>Mon, 02 Feb 2026 18:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAC-0001 (APT28) Attack Detection: russia-Backed Actor Actively Exploits CVE-2026-21509 Targeting Ukraine and the EU</title>
+      <link>https://socprime.com/blog/detect-uac-0001-attacks-exploiting-cve-2026-21509/</link>
+      <pubDate>Mon, 02 Feb 2026 16:41:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link</title>
+      <link>https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html</link>
+      <pubDate>Mon, 02 Feb 2026 16:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>NSA Publishes New Zero Trust Implementation Guidelines</title>
       <link>https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/</link>
@@ -43,29 +58,9 @@
       <pubDate>Mon, 02 Feb 2026 15:13:10 +0000</pubDate>
     </item>
     <item>
-      <title>Notepad++ hijacked by suspected state-sponsored hackers</title>
-      <link>https://therecord.media/popular-text-editor-hijacked-by-suspected-state-sponsored-hackers</link>
-      <pubDate>Mon, 02 Feb 2026 14:00:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Scam-checking just got easier: Malwarebytes is now in ChatGPT</title>
       <link>https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt</link>
       <pubDate>Mon, 02 Feb 2026 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spyware maker is hijacking diplomatic efforts to limit commercial hacking, civil society warns</title>
-      <link>https://therecord.media/spyware-maker-pall-mall-process-reputation</link>
-      <pubDate>Mon, 02 Feb 2026 13:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drone sightings have doubled near UK military bases, warns British government</title>
-      <link>https://therecord.media/military-drone-sightings-double-uk-government</link>
-      <pubDate>Mon, 02 Feb 2026 13:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers attempt to extort parents after school refuses to pay ransom fee</title>
-      <link>https://therecord.media/hackers-attempt-to-extort-parents-after-school-refuses-ransom-demand</link>
-      <pubDate>Mon, 02 Feb 2026 13:01:59 +0000</pubDate>
     </item>
     <item>
       <title>Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks</title>
@@ -158,6 +153,11 @@
       <pubDate>Sun, 01 Feb 2026 10:46:00 +0000</pubDate>
     </item>
     <item>
+      <title>Autonomous Threat Operations in action: Real results from Recorded Future’s own SOC team | Recorded Future</title>
+      <link>https://www.recordedfuture.com/blog/autonomous-threat-operations-in-action</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>DOJ releases details alleged talented hacker working for Jeffrey Epstein</title>
       <link>https://securityaffairs.com/187515/laws-and-regulations/doj-releases-details-alleged-talented-hacker-working-for-jeffrey-epstein.html</link>
       <pubDate>Sat, 31 Jan 2026 19:02:08 +0000</pubDate>
@@ -206,11 +206,6 @@
       <title>Case study: Securing AI application supply chains</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/01/30/case-study-securing-ai-application-supply-chains/</link>
       <pubDate>Fri, 30 Jan 2026 18:49:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Department of Justice seizes domains for Bulgarian piracy sites</title>
-      <link>https://therecord.media/bulgaria-piracy-sites-streaming-gaming-seized-us</link>
-      <pubDate>Fri, 30 Jan 2026 18:43:18 +0000</pubDate>
     </item>
     <item>
       <title>Google Presentations Abused for Phishing, (Fri, Jan 30th)</title>
@@ -306,6 +301,11 @@
       <title>How Agentic Tool Chain Attacks Threaten AI Agent Security</title>
       <link>https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/</link>
       <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup</title>
+      <link>https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html</link>
+      <pubDate>Fri, 30 Jan 2026 07:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
