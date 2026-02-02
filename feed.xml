@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 06:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 08:39:32 +0000</lastBuildDate>
+    <item>
+      <title>A week in security (January 26 – February 1)</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-january-26-february-1</link>
+      <pubDate>Mon, 02 Feb 2026 08:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware</title>
       <link>https://thehackernews.com/2026/02/escan-antivirus-update-servers.html</link>
@@ -301,11 +306,6 @@
       <title>Google targets IPIDEA in crackdown on global residential proxy networks</title>
       <link>https://securityaffairs.com/187463/security/google-targets-ipidea-in-crackdown-on-global-residential-proxy-networks.html</link>
       <pubDate>Thu, 29 Jan 2026 15:16:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supply chain attack on eScan antivirus: detecting and remediating malicious updates</title>
-      <link>https://securelist.com/escan-supply-chain-attack/118688/</link>
-      <pubDate>Thu, 29 Jan 2026 15:07:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
