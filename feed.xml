@@ -6,11 +6,36 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 18:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 01:54:26 +0000</lastBuildDate>
+    <item>
+      <title>MoltBot Skills exploited to distribute 400+ malware packages in days</title>
+      <link>https://securityaffairs.com/187562/malware/moltbot-skills-exploited-to-distribute-400-malware-packages-in-days.html</link>
+      <pubDate>Mon, 02 Feb 2026 21:29:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infostealers without borders: macOS, Python stealers, and platform abuse</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/02/02/infostealers-without-borders-macos-python-stealers-and-platform-abuse/</link>
+      <pubDate>Mon, 02 Feb 2026 21:04:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panera Bread breach affected 5.1 Million accounts, HIBP Confirms</title>
+      <link>https://securityaffairs.com/187556/data-breach/panera-bread-breach-affected-5-1-million-accounts-hibp-confirms.html</link>
+      <pubDate>Mon, 02 Feb 2026 20:42:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netherlands latest European country to mull social media ban for children</title>
+      <link>https://therecord.media/netherlands-social-media-ban-children</link>
+      <pubDate>Mon, 02 Feb 2026 19:45:28 +0000</pubDate>
+    </item>
     <item>
       <title>How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing</title>
       <link>https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing</link>
       <pubDate>Mon, 02 Feb 2026 18:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users</title>
+      <link>https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html</link>
+      <pubDate>Mon, 02 Feb 2026 17:49:00 +0000</pubDate>
     </item>
     <item>
       <title>UAC-0001 (APT28) Attack Detection: russia-Backed Actor Actively Exploits CVE-2026-21509 Targeting Ukraine and the EU</title>
@@ -21,6 +46,11 @@
       <title>OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link</title>
       <link>https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html</link>
       <pubDate>Mon, 02 Feb 2026 16:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Please Don’t Feed the Scattered Lapsus ShinyHunters</title>
+      <link>https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</link>
+      <pubDate>Mon, 02 Feb 2026 16:15:16 +0000</pubDate>
     </item>
     <item>
       <title>NSA Publishes New Zero Trust Implementation Guidelines</title>
@@ -58,9 +88,29 @@
       <pubDate>Mon, 02 Feb 2026 15:13:10 +0000</pubDate>
     </item>
     <item>
+      <title>Notepad++ hijacked by suspected state-sponsored hackers</title>
+      <link>https://therecord.media/popular-text-editor-hijacked-by-suspected-state-sponsored-hackers</link>
+      <pubDate>Mon, 02 Feb 2026 14:00:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Scam-checking just got easier: Malwarebytes is now in ChatGPT</title>
       <link>https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt</link>
       <pubDate>Mon, 02 Feb 2026 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spyware maker is hijacking diplomatic efforts to limit commercial hacking, civil society warns</title>
+      <link>https://therecord.media/spyware-maker-pall-mall-process-reputation</link>
+      <pubDate>Mon, 02 Feb 2026 13:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drone sightings have doubled near UK military bases, warns British government</title>
+      <link>https://therecord.media/military-drone-sightings-double-uk-government</link>
+      <pubDate>Mon, 02 Feb 2026 13:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers attempt to extort parents after school refuses to pay ransom fee</title>
+      <link>https://therecord.media/hackers-attempt-to-extort-parents-after-school-refuses-ransom-demand</link>
+      <pubDate>Mon, 02 Feb 2026 13:01:59 +0000</pubDate>
     </item>
     <item>
       <title>Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks</title>
@@ -121,6 +171,11 @@
       <title>A week in security (January 26 – February 1)</title>
       <link>https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-january-26-february-1</link>
       <pubDate>Mon, 02 Feb 2026 08:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Three Companies Secure AI with CrowdStrike</title>
+      <link>https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/</link>
+      <pubDate>Mon, 02 Feb 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware</title>
@@ -251,61 +306,6 @@
       <title>China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware</title>
       <link>https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html</link>
       <pubDate>Fri, 30 Jan 2026 12:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New AI-Developed Malware Campaign Targets Iranian Protests</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-malware-redkitten-iranian/</link>
-      <pubDate>Fri, 30 Jan 2026 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SmarterTools patches critical SmarterMail flaw allowing code execution</title>
-      <link>https://securityaffairs.com/187496/security/smartertools-patches-critical-smartermail-flaw-allowing-code-execution.html</link>
-      <pubDate>Fri, 30 Jan 2026 11:53:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>TikTok’s privacy update mentions immigration status. Here’s why.</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/01/tiktoks-privacy-update-mentions-immigration-status-heres-why</link>
-      <pubDate>Fri, 30 Jan 2026 11:48:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Badges, Bytes and Blackmail</title>
-      <link>https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html</link>
-      <pubDate>Fri, 30 Jan 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>National Crime Agency and NatWest Issue Joint Warning Over Invoice Fraud Threat</title>
-      <link>https://www.infosecurity-magazine.com/news/nca-natwest-warning-over-invoice/</link>
-      <pubDate>Fri, 30 Jan 2026 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds a flaw in Ivanti EPMM to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/187488/security/u-s-cisa-adds-a-flaw-in-ivanti-epmm-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Fri, 30 Jan 2026 10:40:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Empire Market co-founder faces 10 years to life after guilty plea</title>
-      <link>https://securityaffairs.com/187478/cyber-crime/empire-market-co-founder-faces-10-years-to-life-after-guilty-plea.html</link>
-      <pubDate>Fri, 30 Jan 2026 09:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comcast to Pay $117M in Security Breach Settlement</title>
-      <link>https://www.techrepublic.com/article/news-comcast-security-breach-settlement/</link>
-      <pubDate>Fri, 30 Jan 2026 08:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529</title>
-      <link>https://projectzero.google/2026/01/sound-barrier-2.html</link>
-      <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Agentic Tool Chain Attacks Threaten AI Agent Security</title>
-      <link>https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/</link>
-      <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup</title>
-      <link>https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html</link>
-      <pubDate>Fri, 30 Jan 2026 07:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
