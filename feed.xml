@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 22:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 01:51:06 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #453: The Epstein Files didn’t hide this hacker very well</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-453/</link>
+      <pubDate>Thu, 05 Feb 2026 00:30:54 +0000</pubDate>
+    </item>
     <item>
       <title>CVE-2025-22225 in VMware ESXi now used in active ransomware attacks</title>
       <link>https://securityaffairs.com/187637/security/cve-2025-22225-in-vmware-esxi-now-used-in-active-ransomware-attacks.html</link>
@@ -136,6 +141,11 @@
       <title>Malicious Script Delivering More Maliciousness, (Wed, Feb 4th)</title>
       <link>https://isc.sans.edu/diary/rss/32682</link>
       <pubDate>Wed, 04 Feb 2026 09:34:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Security Teams Need to Know About OpenClaw, the AI Super Agent</title>
+      <link>https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/</link>
+      <pubDate>Wed, 04 Feb 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers</title>
@@ -296,16 +306,6 @@
       <title>Mitsubishi Electric FREQSHIP-mini for Windows</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-01</link>
       <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Synectix LAN 232 TRIO</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-04</link>
-      <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AT&amp;T breach data resurfaces with new risks for customers</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/02/att-breach-data-resurfaces-with-new-risks-for-customers</link>
-      <pubDate>Tue, 03 Feb 2026 11:48:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
