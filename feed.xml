@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 12:56:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 14:41:09 +0000</lastBuildDate>
+    <item>
+      <title>Malicious Commands in GitHub Codespaces Enable RCE</title>
+      <link>https://www.infosecurity-magazine.com/news/malicious-commands-in-github/</link>
+      <pubDate>Thu, 05 Feb 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers uncover vast cyberespionage operation targeting dozens of governments worldwide</title>
+      <link>https://therecord.media/research-cyber-espionage-targeting-dozens-worldwide</link>
+      <pubDate>Thu, 05 Feb 2026 14:24:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italy blames Russia-linked hackers for cyberattacks ahead of Winter Olympics</title>
+      <link>https://therecord.media/italy-blames-russia-linked-hackers-winter-games-cyberattack</link>
+      <pubDate>Thu, 05 Feb 2026 14:22:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open the wrong “PDF” and attackers gain remote access to your PC</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/02/open-the-wrong-pdf-and-attackers-gain-remote-access-to-your-pc</link>
+      <pubDate>Thu, 05 Feb 2026 13:48:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smartphones Now Involved in Nearly Every Police Investigation</title>
+      <link>https://www.infosecurity-magazine.com/news/smartphones-involved-every-police/</link>
+      <pubDate>Thu, 05 Feb 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️SECURITY.COM The Podcast: AI Code Insecurity</title>
+      <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-ai-code-insecurity</link>
+      <pubDate>Thu, 05 Feb 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions &amp; 15+ Stories</title>
+      <link>https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html</link>
+      <pubDate>Thu, 05 Feb 2026 12:57:00 +0000</pubDate>
+    </item>
     <item>
       <title>Backdoor in Notepad++</title>
       <link>https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html</link>
@@ -66,6 +101,11 @@
       <title>AI-Enabled Voice and Virtual Meeting Fraud Surges 1000%+</title>
       <link>https://www.infosecurity-magazine.com/news/ai-voice-virtual-meeting-fraud/</link>
       <pubDate>Thu, 05 Feb 2026 10:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stan Ghouls targeting Russia and Uzbekistan with NetSupport RAT</title>
+      <link>https://securelist.com/stan-ghouls-in-uzbekistan/118738/</link>
+      <pubDate>Thu, 05 Feb 2026 09:00:11 +0000</pubDate>
     </item>
     <item>
       <title>Broken Phishing URLs, (Thu, Feb 5th)</title>
@@ -158,13 +198,13 @@
       <pubDate>Wed, 04 Feb 2026 15:00:23 +0000</pubDate>
     </item>
     <item>
-      <title>New Technical Markers Reveal Expanding ShadowSyndicate Cybercriminal Infrastructure</title>
-      <link>https://www.infosecurity-magazine.com/news/shadowsyndicate/</link>
+      <title>Ransom &amp; Dark Web Issues Week 1, Fabruary 2026</title>
+      <link>https://asec.ahnlab.com/en/92483/</link>
       <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, Fabruary 2026</title>
-      <link>https://asec.ahnlab.com/en/92483/</link>
+      <title>New Technical Markers Reveal Expanding ShadowSyndicate Cybercriminal Infrastructure</title>
+      <link>https://www.infosecurity-magazine.com/news/shadowsyndicate/</link>
       <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -266,46 +306,6 @@
       <title>Why Smart People Fall For Phishing Attacks</title>
       <link>https://unit42.paloaltonetworks.com/psychology-of-phishing/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rublevka Team: Anatomy of a Russian Crypto Drainer Operation</title>
-      <link>https://www.recordedfuture.com/research/rublevka-team-anatomy-russian-crypto-drainer-operation</link>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious use of virtual machine infrastructure</title>
-      <link>https://www.sophos.com/en-us/blog/malicious-use-of-virtual-machine-infrastructure</link>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA official says CIRCIA cyber reporting update is 'weeks' away</title>
-      <link>https://therecord.media/cisa-pfficial-says-circia-update-weeks-away</link>
-      <pubDate>Tue, 03 Feb 2026 21:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds SolarWinds Web Help Desk, Sangoma FreePBX, and GitLab flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/187592/security/u-s-cisa-adds-solarwinds-web-help-desk-sangoma-freepbx-and-gitlab-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Tue, 03 Feb 2026 21:06:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA orders federal agencies to patch exploited SolarWinds bug by Friday</title>
-      <link>https://therecord.media/cisa-orders-agencies-patch-solarwinds-vuln</link>
-      <pubDate>Tue, 03 Feb 2026 20:57:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Microsoft Update Improves Windows Sign-In Experience</title>
-      <link>https://www.techrepublic.com/article/news-windows-11-stability-patch/</link>
-      <pubDate>Tue, 03 Feb 2026 17:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft SDL: Evolving security practices for an AI-powered world</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/02/03/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/</link>
-      <pubDate>Tue, 03 Feb 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An AI plush toy exposed thousands of private chats with children</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/02/an-ai-plush-toy-exposed-thousands-of-private-chats-with-children</link>
-      <pubDate>Tue, 03 Feb 2026 16:55:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
