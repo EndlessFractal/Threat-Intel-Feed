@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 01:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 04:12:37 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Friday, February 6th, 2026 https://isc.sans.edu/podcastdetail/9798, (Fri, Feb 6th)</title>
+      <link>https://isc.sans.edu/diary/rss/32688</link>
+      <pubDate>Fri, 06 Feb 2026 02:05:02 +0000</pubDate>
+    </item>
     <item>
       <title>Chrome Vulnerabilities Allow Code Execution, Browser Crashes</title>
       <link>https://www.techrepublic.com/article/news-google-chrome-security-update-february-2026/</link>
@@ -231,11 +236,6 @@
       <title>Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows</title>
       <link>https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html</link>
       <pubDate>Thu, 05 Feb 2026 06:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities</title>
-      <link>https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/</link>
-      <pubDate>Thu, 05 Feb 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign</title>
