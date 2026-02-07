@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Feb 2026 01:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 04:06:08 +0000</lastBuildDate>
+    <item>
+      <title>Analysis of active exploitation of SolarWinds Web Help Desk</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/</link>
+      <pubDate>Sat, 07 Feb 2026 01:08:49 +0000</pubDate>
+    </item>
     <item>
       <title>Novel Technique to Detect Cloud Threat Actor Operations</title>
       <link>https://unit42.paloaltonetworks.com/tracking-threat-groups-through-cloud-logging/</link>
@@ -301,11 +306,6 @@
       <title>Knife Cutting the Edge: Disclosing a China-nexus gateway-monitoring AitM framework</title>
       <link>https://blog.talosintelligence.com/knife-cutting-the-edge/</link>
       <pubDate>Thu, 05 Feb 2026 11:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Shadow Campaigns: Uncovering Global Espionage</title>
-      <link>https://unit42.paloaltonetworks.com/shadow-campaigns-uncovering-global-espionage/</link>
-      <pubDate>Thu, 05 Feb 2026 11:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
