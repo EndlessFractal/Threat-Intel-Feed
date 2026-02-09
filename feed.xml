@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 13:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 14:49:18 +0000</lastBuildDate>
+    <item>
+      <title>European Commission probes cyberattack on mobile device management system</title>
+      <link>https://securityaffairs.com/187768/data-breach/european-commission-probes-cyberattack-on-mobile-device-management-system.html</link>
+      <pubDate>Mon, 09 Feb 2026 14:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good News: Symantec DLP 25.1 Achieves Common Criteria EAL2+ Certification</title>
+      <link>https://www.security.com/product-insights/symantec-dlp-cc-eal2-certification</link>
+      <pubDate>Mon, 09 Feb 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More</title>
+      <link>https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html</link>
+      <pubDate>Mon, 09 Feb 2026 12:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers abuse SolarWinds Web Help Desk to install Zoho agents and Velociraptor</title>
+      <link>https://securityaffairs.com/187761/security/attackers-abuse-solarwinds-web-help-desk-to-install-zoho-agents-and-velociraptor.html</link>
+      <pubDate>Mon, 09 Feb 2026 12:28:54 +0000</pubDate>
+    </item>
     <item>
       <title>LLMs are Getting a Lot Better and Faster at Finding and Exploiting Zero-Days</title>
       <link>https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html</link>
@@ -81,6 +101,11 @@
       <title>A week in security (February 2 – February 8)</title>
       <link>https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-2-february-8</link>
       <pubDate>Mon, 09 Feb 2026 08:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Is the Only Vendor to Be Named a Customers’ Choice in 2025 Gartner® Voice of the Customer for External Attack Surface Management</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/</link>
+      <pubDate>Mon, 09 Feb 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Update 490</title>
@@ -233,16 +258,6 @@
       <pubDate>Fri, 06 Feb 2026 10:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nearly 5 Million Web Servers Found Exposing Git Metadata – Study Reveals Widespread Risk of Code and Credential Leaks</title>
-      <link>https://securityaffairs.com/187674/security/nearly-5-million-web-servers-found-exposing-git-metadata-study-reveals-widespread-risk-of-code-and-credential-leaks.html</link>
-      <pubDate>Fri, 06 Feb 2026 09:53:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds SmarterTools SmarterMail and React Native Community CLI flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/187675/security/u-s-cisa-adds-smartertools-smartermail-and-react-native-community-cli-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Fri, 06 Feb 2026 09:22:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware</title>
       <link>https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html</link>
       <pubDate>Fri, 06 Feb 2026 08:40:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Helpful Skills or Hidden Payloads? Bitdefender Labs Dives Deep into the OpenClaw Malicious Skill Trap</title>
       <link>https://www.bitdefender.com/en-us/blog/labs/helpful-skills-or-hidden-payloads-bitdefender-labs-dives-deep-into-the-openclaw-malicious-skill-trap</link>
       <pubDate>Thu, 05 Feb 2026 17:26:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack</title>
-      <link>https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html</link>
-      <pubDate>Thu, 05 Feb 2026 17:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/</link>
-      <pubDate>Thu, 05 Feb 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Commands in GitHub Codespaces Enable RCE</title>
-      <link>https://www.infosecurity-magazine.com/news/malicious-commands-in-github/</link>
-      <pubDate>Thu, 05 Feb 2026 14:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
