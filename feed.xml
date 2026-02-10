@@ -6,11 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 19:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 20:40:38 +0000</lastBuildDate>
     <item>
-      <title>Microsoft Patch Tuesday - January 2026, (Tue, Feb 10th)</title>
+      <title>Microsoft Patch Tuesday - February 2026, (Tue, Feb 10th)</title>
       <link>https://isc.sans.edu/diary/rss/32700</link>
-      <pubDate>Tue, 10 Feb 2026 18:21:13 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 19:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10K Claude Desktop Users Exposed by Zero-Click Vulnerability</title>
+      <link>https://www.techrepublic.com/article/news-claude-desktop-zero-click-vulnerability/</link>
+      <pubDate>Tue, 10 Feb 2026 18:37:45 +0000</pubDate>
     </item>
     <item>
       <title>DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies</title>
@@ -73,11 +78,6 @@
       <pubDate>Tue, 10 Feb 2026 14:18:28 +0000</pubDate>
     </item>
     <item>
-      <title>Deep Dive into New XWorm Campaign Utilizing Multiple-Themed Phishing Emails</title>
-      <link>https://feeds.fortinet.com/~/945702296/0/fortinet/blog/threat-research~Deep-Dive-into-New-XWorm-Campaign-Utilizing-MultipleThemed-Phishing-Emails</link>
-      <pubDate>Tue, 10 Feb 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New Mobile Spyware ZeroDayRAT Targets Android and iOS</title>
       <link>https://www.infosecurity-magazine.com/news/zerodayrat-mobile-spyware-android/</link>
       <pubDate>Tue, 10 Feb 2026 14:00:00 +0000</pubDate>
@@ -85,6 +85,11 @@
     <item>
       <title>“Digital Parasite” Warning as Attackers Favor Stealth for Extortion</title>
       <link>https://www.infosecurity-magazine.com/news/digital-parasite-attackers-stealth/</link>
+      <pubDate>Tue, 10 Feb 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deep Dive into New XWorm Campaign Utilizing Multiple-Themed Phishing Emails</title>
+      <link>https://feeds.fortinet.com/~/945702296/0/fortinet/blog/threat-research~Deep-Dive-into-New-XWorm-Campaign-Utilizing-MultipleThemed-Phishing-Emails</link>
       <pubDate>Tue, 10 Feb 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -128,6 +133,11 @@
       <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>​​Barriers to Secure OT Communication: Why Johnny Can’t Authenticate​</title>
+      <link>https://www.cisa.gov/resources-tools/resources/barriers-secure-ot-communication-why-johnny-cant-authenticate</link>
+      <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps</title>
       <link>https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps</link>
       <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
@@ -135,6 +145,11 @@
     <item>
       <title>ZOLL ePCR IOS Mobile Application</title>
       <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-041-01</link>
+      <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -150,11 +165,6 @@
     <item>
       <title>Yokogawa FAST/TOOLS</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-01</link>
-      <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​​Barriers to Secure OT Communication: Why Johnny Can’t Authenticate​</title>
-      <link>https://www.cisa.gov/resources-tools/resources/barriers-secure-ot-communication-why-johnny-cant-authenticate</link>
       <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -296,16 +306,6 @@
       <title>SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers</title>
       <link>https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html</link>
       <pubDate>Mon, 09 Feb 2026 14:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flickr’s 35M Users Affected by Third-Party Data Exposure</title>
-      <link>https://www.techrepublic.com/article/news-flickr-third-party-email-data-exposure/</link>
-      <pubDate>Mon, 09 Feb 2026 14:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>European Commission probes cyberattack on mobile device management system</title>
-      <link>https://securityaffairs.com/187768/data-breach/european-commission-probes-cyberattack-on-mobile-device-management-system.html</link>
-      <pubDate>Mon, 09 Feb 2026 14:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
