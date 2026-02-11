@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 22:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 02:03:48 +0000</lastBuildDate>
+    <item>
+      <title>New threat actor, UAT-9921, leverages VoidLink framework in campaigns</title>
+      <link>https://blog.talosintelligence.com/voidlink/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday for February 2026 — Snort rules and prominent vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-february-2026/</link>
+      <pubDate>Tue, 10 Feb 2026 23:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Peek Into Muddled Libra’s Operational Playbook</title>
+      <link>https://unit42.paloaltonetworks.com/muddled-libra-ops-playbook/</link>
+      <pubDate>Tue, 10 Feb 2026 23:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday security updates for February 2026 fix six actively exploited zero-days</title>
+      <link>https://securityaffairs.com/187848/uncategorized/microsoft-patch-tuesday-security-updates-for-february-2026-fix-six-actively-exploited-zero-days.html</link>
+      <pubDate>Tue, 10 Feb 2026 22:31:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday, February 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
+      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
+    </item>
     <item>
       <title>Cyber Command, NSA nominee Rudd advances to Senate floor</title>
       <link>https://therecord.media/cyber-command-nsa-nominee-rudd-advances-to-senate</link>
@@ -281,31 +306,6 @@
       <title>A one-prompt attack that breaks LLM safety alignment</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/02/09/prompt-attack-breaks-llm-safety/</link>
       <pubDate>Mon, 09 Feb 2026 17:12:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign</title>
-      <link>https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html</link>
-      <pubDate>Mon, 09 Feb 2026 17:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Connecticut Men Charged In Alleged $3m Gambling Fraud Scheme</title>
-      <link>https://www.infosecurity-magazine.com/news/men-charged-gambling-fraud-scheme/</link>
-      <pubDate>Mon, 09 Feb 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Agents Are Creating Insider Security Threat Blind Spots, Research Finds</title>
-      <link>https://www.techrepublic.com/article/news-ai-agent-security-beyondid-research/</link>
-      <pubDate>Mon, 09 Feb 2026 15:29:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>VoidLink Malware Exhibits Multi-Cloud Capabilities and AI Code</title>
-      <link>https://www.infosecurity-magazine.com/news/voidlink-malware-multi-cloud-ai/</link>
-      <pubDate>Mon, 09 Feb 2026 15:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI chat app leak exposes 300 million messages tied to 25 million users</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/02/ai-chat-app-leak-exposes-300-million-messages-tied-to-25-million-users</link>
-      <pubDate>Mon, 09 Feb 2026 15:17:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
