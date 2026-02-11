@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 05:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 06:57:34 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Wednesday, February 11th, 2026 https://isc.sans.edu/podcastdetail/9804, (Wed, Feb 11th)</title>
       <link>https://isc.sans.edu/diary/rss/32702</link>
@@ -31,6 +31,11 @@
       <title>Microsoft Patch Tuesday security updates for February 2026 fix six actively exploited zero-days</title>
       <link>https://securityaffairs.com/187848/uncategorized/microsoft-patch-tuesday-security-updates-for-february-2026-fix-six-actively-exploited-zero-days.html</link>
       <pubDate>Tue, 10 Feb 2026 22:31:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday, February 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
+      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
     </item>
     <item>
       <title>Cyber Command, NSA nominee Rudd advances to Senate floor</title>
@@ -301,11 +306,6 @@
       <title>New Zero-Click Flaw in Claude Desktop Extensions, Anthropic Declines Fix</title>
       <link>https://www.infosecurity-magazine.com/news/zeroclick-flaw-claude-dxt/</link>
       <pubDate>Mon, 09 Feb 2026 17:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A one-prompt attack that breaks LLM safety alignment</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/02/09/prompt-attack-breaks-llm-safety/</link>
-      <pubDate>Mon, 09 Feb 2026 17:12:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
