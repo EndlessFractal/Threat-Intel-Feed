@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 10:46:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 13:03:00 +0000</lastBuildDate>
+    <item>
+      <title>February 2026 Patch Tuesday includes six actively exploited zero-days</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/02/february-2026-patch-tuesday-includes-six-actively-exploited-zero-days</link>
+      <pubDate>Wed, 11 Feb 2026 12:32:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Court Hands Crypto Scammer 20 Years in $73m Case</title>
+      <link>https://www.infosecurity-magazine.com/news/court-hands-crypto-scammer-20-years/</link>
+      <pubDate>Wed, 11 Feb 2026 12:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prompt Injection Via Road Signs</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html</link>
+      <pubDate>Wed, 11 Feb 2026 12:03:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model Context Protocol: Security Risks &amp; Mitigations</title>
+      <link>https://socprime.com/blog/mcp-security-risks-and-mitigations/</link>
+      <pubDate>Wed, 11 Feb 2026 11:54:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>FIRST Forecasts Record-Breaking 50,000+ CVEs in 2026</title>
+      <link>https://www.infosecurity-magazine.com/news/first-forecasts-record-50000-cve/</link>
+      <pubDate>Wed, 11 Feb 2026 11:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments</title>
+      <link>https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html</link>
+      <pubDate>Wed, 11 Feb 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days</title>
+      <link>https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html</link>
+      <pubDate>Wed, 11 Feb 2026 10:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>Malwarebytes earns PCMag Best Tech Brand spot, scores 100% with MRG Effitas</title>
       <link>https://www.malwarebytes.com/blog/product/2026/02/malwarebytes-earns-pcmag-best-tech-brand-spot-scores-100-with-mrg-effitas</link>
@@ -16,6 +51,11 @@
       <title>Spam and phishing in 2025</title>
       <link>https://securelist.com/spam-and-phishing-report-2025/118785/</link>
       <pubDate>Wed, 11 Feb 2026 10:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits</title>
+      <link>https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html</link>
+      <pubDate>Wed, 11 Feb 2026 09:56:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Fixes Six Zero Day Vulnerability in February Patch Tuesday</title>
@@ -61,11 +101,6 @@
       <title>Microsoft Patch Tuesday security updates for February 2026 fix six actively exploited zero-days</title>
       <link>https://securityaffairs.com/187848/uncategorized/microsoft-patch-tuesday-security-updates-for-february-2026-fix-six-actively-exploited-zero-days.html</link>
       <pubDate>Tue, 10 Feb 2026 22:31:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch Tuesday, February 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
-      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
     </item>
     <item>
       <title>Cyber Command, NSA nominee Rudd advances to Senate floor</title>
@@ -271,41 +306,6 @@
       <title>China-linked APT UNC3886 targets Singapore telcos</title>
       <link>https://securityaffairs.com/187792/apt/china-linked-apt-unc3886-targets-singapore-telcos.html</link>
       <pubDate>Tue, 10 Feb 2026 08:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data</title>
-      <link>https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html</link>
-      <pubDate>Tue, 10 Feb 2026 08:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched</title>
-      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/</link>
-      <pubDate>Tue, 10 Feb 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Human-AI Feedback Loop Powering CrowdStrike’s Agentic Security</title>
-      <link>https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/</link>
-      <pubDate>Tue, 10 Feb 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, February 10th, 2026 https://isc.sans.edu/podcastdetail/9802, (Tue, Feb 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/32698</link>
-      <pubDate>Tue, 10 Feb 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Intelligence Executive Report – Volume 2025, Number 6</title>
-      <link>https://www.sophos.com/en-us/blog/threat-intelligence-executive-report-volume-2025-number-6</link>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Security Operations to Security Leadership: Sophos CISO Advantage</title>
-      <link>https://www.sophos.com/en-us/blog/from-security-operations-to-security-leadership-sophos-ciso-advantage</link>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Workspace Protection Enables Safe GenAI Adoption</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-workspace-protection-enables-safe-genai-adoption</link>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
