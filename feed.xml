@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 04:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 06:57:52 +0000</lastBuildDate>
+    <item>
+      <title>Multiple Endpoint Manager bugs patched by Ivanti, including remote auth bypass</title>
+      <link>https://securityaffairs.com/187882/uncategorized/multiple-endpoint-manager-bugs-patched-by-ivanti-including-remote-auth-bypass.html</link>
+      <pubDate>Thu, 12 Feb 2026 06:13:41 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, February 12th, 2026 https://isc.sans.edu/podcastdetail/9806, (Thu, Feb 12th)</title>
       <link>https://isc.sans.edu/diary/rss/32710</link>
@@ -213,6 +218,11 @@
       <pubDate>Wed, 11 Feb 2026 06:50:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Scale SOC Automation with Falcon Fusion SOAR</title>
+      <link>https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/</link>
+      <pubDate>Wed, 11 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Wednesday, February 11th, 2026 https://isc.sans.edu/podcastdetail/9804, (Wed, Feb 11th)</title>
       <link>https://isc.sans.edu/diary/rss/32702</link>
       <pubDate>Wed, 11 Feb 2026 02:05:02 +0000</pubDate>
@@ -296,16 +306,6 @@
       <title>ZeroDayRAT spyware grants attackers total access to mobile devices</title>
       <link>https://securityaffairs.com/187820/malware/zerodayrat-spyware-grants-attackers-total-access-to-mobile-devices.html</link>
       <pubDate>Tue, 10 Feb 2026 15:19:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manipulating AI memory for profit: The rise of AI Recommendation Poisoning</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/</link>
-      <pubDate>Tue, 10 Feb 2026 14:56:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools</title>
-      <link>https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html</link>
-      <pubDate>Tue, 10 Feb 2026 14:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
