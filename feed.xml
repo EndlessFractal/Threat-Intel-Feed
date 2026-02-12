@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 16:55:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 18:58:53 +0000</lastBuildDate>
+    <item>
+      <title>Dutch mobile phone giant Odido announces data breach</title>
+      <link>https://therecord.media/dutch-telecom-giant-announces-data-breach</link>
+      <pubDate>Thu, 12 Feb 2026 18:27:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>ApolloMD data breach impacts 626,540 people</title>
+      <link>https://securityaffairs.com/187921/data-breach/apollomd-data-breach-impacts-626540-people.html</link>
+      <pubDate>Thu, 12 Feb 2026 17:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support</title>
+      <link>https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html</link>
+      <pubDate>Thu, 12 Feb 2026 17:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A hard truth in Munich: Cyber defense runs through Silicon Valley</title>
+      <link>https://therecord.media/munich-silicon-valley-cyber-defense</link>
+      <pubDate>Thu, 12 Feb 2026 17:09:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your complete guide to Microsoft experiences at RSAC™ 2026 Conference</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/02/12/your-complete-guide-to-microsoft-experiences-at-rsac-2026-conference/</link>
+      <pubDate>Thu, 12 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems</title>
+      <link>https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html</link>
+      <pubDate>Thu, 12 Feb 2026 16:55:00 +0000</pubDate>
+    </item>
     <item>
       <title>Identity is the control plane, and AI just changed the game</title>
       <link>https://www.security.com/product-insights/repatriating-iam-part-1</link>
@@ -43,19 +73,9 @@
       <pubDate>Thu, 12 Feb 2026 14:35:13 +0000</pubDate>
     </item>
     <item>
-      <title>Nation-state hackers ramping up use of Gemini for target reconnaissance, malware coding, Google says</title>
-      <link>https://therecord.media/nation-state-hackers-using-gemini-for-malicious-campaigns</link>
-      <pubDate>Thu, 12 Feb 2026 13:59:32 +0000</pubDate>
-    </item>
-    <item>
       <title>World Leaks Ransomware Group Adds Stealthy, Custom Malware ‘RustyRocket’ to Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/world-leaks-ransomware-rustyrocket/</link>
       <pubDate>Thu, 12 Feb 2026 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp says Russia tried to fully block platform, push users to state app</title>
-      <link>https://therecord.media/whatsapp-russia-blocked-state</link>
-      <pubDate>Thu, 12 Feb 2026 13:25:35 +0000</pubDate>
     </item>
     <item>
       <title>Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds</title>
@@ -71,6 +91,56 @@
       <title>3D Printer Surveillance</title>
       <link>https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html</link>
       <pubDate>Thu, 12 Feb 2026 12:01:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy SuprOS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-09</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens COMOS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-03</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC OS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-06</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Desigo CC Product Family and SENTRON Powermanager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-04</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens NX</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-08</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Airleader Master</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-10</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Polarion</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-02</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Solid Edge</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Siveillance Video Management Servers</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-07</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC NMS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days &amp; 25+ Stories</title>
@@ -118,6 +188,11 @@
       <pubDate>Thu, 12 Feb 2026 08:03:00 +0000</pubDate>
     </item>
     <item>
+      <title>Bypassing Administrator Protection by Abusing UI Access</title>
+      <link>https://projectzero.google/2026/02/windows-administrator-protection.html</link>
+      <pubDate>Thu, 12 Feb 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure</title>
       <link>https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html</link>
       <pubDate>Thu, 12 Feb 2026 07:32:00 +0000</pubDate>
@@ -133,7 +208,7 @@
       <pubDate>Thu, 12 Feb 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices</title>
+      <title>Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices</title>
       <link>https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html</link>
       <pubDate>Thu, 12 Feb 2026 05:39:00 +0000</pubDate>
     </item>
@@ -231,81 +306,6 @@
       <title>Ransom &amp; Dark Web  Issues Week 2, February 2026</title>
       <link>https://asec.ahnlab.com/en/92536/</link>
       <pubDate>Wed, 11 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities</title>
-      <link>https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html</link>
-      <pubDate>Wed, 11 Feb 2026 14:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rewiring Democracy Ebook is on Sale</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html</link>
-      <pubDate>Wed, 11 Feb 2026 14:48:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The game is over: when “free” comes at too high a price. What we know about RenEngine</title>
-      <link>https://securelist.com/renengine-campaign-with-hijackloader-lumma-and-acr-stealer/118891/</link>
-      <pubDate>Wed, 11 Feb 2026 14:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>LummaStealer Is Getting a Second Life Alongside CastleLoader</title>
-      <link>https://www.bitdefender.com/en-us/blog/labs/lummastealer-second-life-castleloader</link>
-      <pubDate>Wed, 11 Feb 2026 14:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>WSL in the Malware Ecosystem, (Wed, Feb 11th)</title>
-      <link>https://isc.sans.edu/diary/rss/32704</link>
-      <pubDate>Wed, 11 Feb 2026 13:28:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms</title>
-      <link>https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html</link>
-      <pubDate>Wed, 11 Feb 2026 13:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don’t Lose Sleep Over These 4 Concerns</title>
-      <link>https://www.security.com/product-insights/dont-lose-sleep-4-concerns</link>
-      <pubDate>Wed, 11 Feb 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>February 2026 Patch Tuesday includes six actively exploited zero-days</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/02/february-2026-patch-tuesday-includes-six-actively-exploited-zero-days</link>
-      <pubDate>Wed, 11 Feb 2026 12:32:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Court Hands Crypto Scammer 20 Years in $73m Case</title>
-      <link>https://www.infosecurity-magazine.com/news/court-hands-crypto-scammer-20-years/</link>
-      <pubDate>Wed, 11 Feb 2026 12:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prompt Injection Via Road Signs</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html</link>
-      <pubDate>Wed, 11 Feb 2026 12:03:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model Context Protocol: Security Risks &amp; Mitigations</title>
-      <link>https://socprime.com/blog/mcp-security-risks-and-mitigations/</link>
-      <pubDate>Wed, 11 Feb 2026 11:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>FIRST Forecasts Record-Breaking 50,000+ CVEs in 2026</title>
-      <link>https://www.infosecurity-magazine.com/news/first-forecasts-record-50000-cve/</link>
-      <pubDate>Wed, 11 Feb 2026 11:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments</title>
-      <link>https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html</link>
-      <pubDate>Wed, 11 Feb 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days</title>
-      <link>https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html</link>
-      <pubDate>Wed, 11 Feb 2026 10:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malwarebytes earns PCMag Best Tech Brand spot, scores 100% with MRG Effitas</title>
-      <link>https://www.malwarebytes.com/blog/product/2026/02/malwarebytes-earns-pcmag-best-tech-brand-spot-scores-100-with-mrg-effitas</link>
-      <pubDate>Wed, 11 Feb 2026 10:09:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
