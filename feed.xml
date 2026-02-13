@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 12:52:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 14:39:02 +0000</lastBuildDate>
+    <item>
+      <title>US needs to impose ‘real costs’ on bad actors, State Department cyber official says</title>
+      <link>https://therecord.media/usa-cyber-actors-consequences</link>
+      <pubDate>Fri, 13 Feb 2026 14:28:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe must adapt to ‘permanent’ cyber and hybrid threats, Sweden warns</title>
+      <link>https://therecord.media/sweden-cyber-threats-europe-permanent</link>
+      <pubDate>Fri, 13 Feb 2026 13:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to find and remove credential-stealing Chrome extensions</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/02/how-to-find-and-remove-credential-stealing-chrome-extensions</link>
+      <pubDate>Fri, 13 Feb 2026 13:27:34 +0000</pubDate>
+    </item>
     <item>
       <title>Munich Security Conference: Cyber Threats Lead G7 Risk Index, Disinformation Ranks Third</title>
       <link>https://www.infosecurity-magazine.com/news/munich-security-index-cyberattacks/</link>
@@ -60,7 +75,7 @@
     <item>
       <title>Critical Apple Flaw Exploited in ‘Sophisticated’ Attacks, Company Urges Rapid Patching</title>
       <link>https://www.techrepublic.com/article/news-apple-zero-day-cve-update-february-2026/</link>
-      <pubDate>Thu, 12 Feb 2026 20:42:15 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 21:42:15 +0000</pubDate>
     </item>
     <item>
       <title>Copilot Studio agent security: Top 10 risks you can detect and prevent</title>
@@ -131,16 +146,6 @@
       <title>CVE-2026-20700: Apple Patches Zero-Day Exploited in Sophisticated Cyber Attacks</title>
       <link>https://socprime.com/blog/cve-2026-20700-vulnerability/</link>
       <pubDate>Thu, 12 Feb 2026 15:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>California fines Disney $2.75 million for data privacy violations</title>
-      <link>https://therecord.media/california-fines-disney-data-privacy</link>
-      <pubDate>Thu, 12 Feb 2026 15:44:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>US wants cyber partnerships to send ‘coordinated, strategic message’ to adversaries</title>
-      <link>https://therecord.media/us-wants-cyber-partnerships-to-send-message-to-adversaries</link>
-      <pubDate>Thu, 12 Feb 2026 15:39:19 +0000</pubDate>
     </item>
     <item>
       <title>LummaStealer activity spikes post-law enforcement disruption</title>
@@ -301,11 +306,6 @@
       <title>ISC Stormcast For Thursday, February 12th, 2026 https://isc.sans.edu/podcastdetail/9806, (Thu, Feb 12th)</title>
       <link>https://isc.sans.edu/diary/rss/32710</link>
       <pubDate>Thu, 12 Feb 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four Seconds to Botnet - Analyzing a Self Propagating SSH Worm with Cryptographically Signed C2 [Guest Diary], (Wed, Feb 11th)</title>
-      <link>https://isc.sans.edu/diary/rss/32708</link>
-      <pubDate>Thu, 12 Feb 2026 01:56:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
