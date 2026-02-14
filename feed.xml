@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 01:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 04:08:04 +0000</lastBuildDate>
     <item>
       <title>Viral AI Caricatures Highlight Shadow AI Dangers</title>
       <link>https://www.techrepublic.com/article/news-ai-caricature-trend-shadow-ai-security-risks/</link>
@@ -91,6 +91,11 @@
       <title>Munich Security Conference: Cyber Threats Lead G7 Risk Index, Disinformation Ranks Third</title>
       <link>https://www.infosecurity-magazine.com/news/munich-security-index-cyberattacks/</link>
       <pubDate>Fri, 13 Feb 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History</title>
@@ -238,6 +243,11 @@
       <pubDate>Thu, 12 Feb 2026 12:01:31 +0000</pubDate>
     </item>
     <item>
+      <title>Siemens SINEC NMS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Hitachi Energy SuprOS</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-09</link>
       <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
@@ -245,11 +255,6 @@
     <item>
       <title>Siemens COMOS</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-03</link>
-      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINEC OS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-06</link>
       <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -273,11 +278,6 @@
       <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens Solid Edge</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05</link>
-      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Siemens Siveillance Video Management Servers</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-07</link>
       <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
@@ -288,8 +288,13 @@
       <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens SINEC NMS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01</link>
+      <title>Siemens Solid Edge</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC OS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-06</link>
       <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Apple patches zero-day flaw that could let attackers take control of devices</title>
       <link>https://www.malwarebytes.com/blog/news/2026/02/apple-patches-zero-day-flaw-that-could-let-attackers-take-control-of-devices</link>
       <pubDate>Thu, 12 Feb 2026 11:40:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ryan Liles, master of technical diplomacy</title>
-      <link>https://blog.talosintelligence.com/ryan-liles-master-of-technical-diplomacy/</link>
-      <pubDate>Thu, 12 Feb 2026 11:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
