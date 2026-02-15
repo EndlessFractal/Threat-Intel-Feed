@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 16:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 18:32:17 +0000</lastBuildDate>
+    <item>
+      <title>Malicious npm and PyPI packages linked to Lazarus APT fake recruiter campaign</title>
+      <link>https://securityaffairs.com/188009/apt/malicious-npm-and-pypi-packages-llinked-to-lazarus-apt-fake-recruiter-campaign.html</link>
+      <pubDate>Sun, 15 Feb 2026 18:13:28 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging</title>
       <link>https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html</link>
@@ -68,34 +73,14 @@
       <pubDate>Fri, 13 Feb 2026 22:08:39 +0000</pubDate>
     </item>
     <item>
-      <title>Space emerges as new front in great power competition, officials warn</title>
-      <link>https://therecord.media/space-cybersecurity-new-front-war</link>
-      <pubDate>Fri, 13 Feb 2026 18:14:47 +0000</pubDate>
-    </item>
-    <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 7</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-7-7/</link>
       <pubDate>Fri, 13 Feb 2026 18:05:27 +0000</pubDate>
     </item>
     <item>
-      <title>Ring ends partnership plans with Flock days after privacy blowback from Super Bowl ad</title>
-      <link>https://therecord.media/ring-ends-partnership-with-flock-superbowl-ad</link>
-      <pubDate>Fri, 13 Feb 2026 17:32:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs</title>
       <link>https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html</link>
       <pubDate>Fri, 13 Feb 2026 17:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU can’t be ‘naive’ about enemies shutting down critical infrastructure, warns tech official</title>
-      <link>https://therecord.media/eu-cyber-critical-infrastructure-tech</link>
-      <pubDate>Fri, 13 Feb 2026 16:55:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>NATO must impose costs on Russia, China over cyber and hybrid attacks, says deputy chief</title>
-      <link>https://therecord.media/nato-must-impost-costs-russia-china-cyber-hybrid-deputy-secretary</link>
-      <pubDate>Fri, 13 Feb 2026 16:25:55 +0000</pubDate>
     </item>
     <item>
       <title>Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations</title>
@@ -106,11 +91,6 @@
       <title>Ransomware Groups Claimed 2,000 Attacks in Just Three Months</title>
       <link>https://www.techrepublic.com/article/news-ransomware-attacks-surge-2025/</link>
       <pubDate>Fri, 13 Feb 2026 16:18:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>China may be rehearsing a digital siege, Taiwan warns</title>
-      <link>https://therecord.media/china-taiwan-digital-siege-munich</link>
-      <pubDate>Fri, 13 Feb 2026 15:41:11 +0000</pubDate>
     </item>
     <item>
       <title>UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors</title>
@@ -201,11 +181,6 @@
       <title>Copilot Studio agent security: Top 10 risks you can detect and prevent</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/</link>
       <pubDate>Thu, 12 Feb 2026 20:38:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Odido confirms massive breach; 6.2 Million customers impacted</title>
-      <link>https://securityaffairs.com/187927/uncategorized/odido-confirms-massive-breach-6-2-million-customers-impacted.html</link>
-      <pubDate>Thu, 12 Feb 2026 20:02:48 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft’s February Patch Tuesday Fixes 6 Zero-Days Under Attack</title>
@@ -306,6 +281,31 @@
       <title>Siemens Polarion</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-02</link>
       <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Siveillance Video Management Servers</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-07</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Solid Edge</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC OS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-06</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days &amp; 25+ Stories</title>
+      <link>https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html</link>
+      <pubDate>Thu, 12 Feb 2026 11:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
