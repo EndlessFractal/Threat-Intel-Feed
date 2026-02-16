@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 12:56:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 14:39:06 +0000</lastBuildDate>
+    <item>
+      <title>ClickFix added nslookup commands to its arsenal for downloading RATs</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/02/clickfix-added-nslookup-commands-to-its-arsenal-for-downloading-rats</link>
+      <pubDate>Mon, 16 Feb 2026 13:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️SECURITY.COM The Podcast: 2026 Threat Predictions</title>
+      <link>https://www.security.com/expert-perspectives/security-com-podcast-2026-threat-predictions</link>
+      <pubDate>Mon, 16 Feb 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet &amp; AI Malware</title>
+      <link>https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html</link>
+      <pubDate>Mon, 16 Feb 2026 12:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft alerts on DNS-based ClickFix variant delivering malware via nslookup</title>
+      <link>https://securityaffairs.com/188039/hacking/microsoft-alerts-on-dns-based-clickfix-variant-delivering-malware-via-nslookup.html</link>
+      <pubDate>Mon, 16 Feb 2026 12:24:39 +0000</pubDate>
+    </item>
     <item>
       <title>The Promptware Kill Chain</title>
       <link>https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html</link>
@@ -183,11 +203,6 @@
       <pubDate>Fri, 13 Feb 2026 15:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>Attackers exploit BeyondTrust CVE-2026-1731 within hours of PoC release</title>
-      <link>https://securityaffairs.com/187962/uncategorized/attackers-exploit-beyondtrust-cve-2026-1731-within-hours-of-poc-release.html</link>
-      <pubDate>Fri, 13 Feb 2026 15:19:09 +0000</pubDate>
-    </item>
-    <item>
       <title>How to find and remove credential-stealing Chrome extensions</title>
       <link>https://www.malwarebytes.com/blog/news/2026/02/how-to-find-and-remove-credential-stealing-chrome-extensions</link>
       <pubDate>Fri, 13 Feb 2026 13:27:34 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Identity is the control plane, and AI just changed the game</title>
       <link>https://www.security.com/product-insights/repatriating-iam-part-1</link>
       <pubDate>Thu, 12 Feb 2026 16:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-20700: Apple Patches Zero-Day Exploited in Sophisticated Cyber Attacks</title>
-      <link>https://socprime.com/blog/cve-2026-20700-vulnerability/</link>
-      <pubDate>Thu, 12 Feb 2026 15:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outlook add-in goes rogue and steals 4,000 credentials and payment data</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/02/outlook-add-in-goes-rogue-and-steals-4000-credentials-and-payment-data</link>
-      <pubDate>Thu, 12 Feb 2026 14:35:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>World Leaks Ransomware Group Adds Stealthy, Custom Malware ‘RustyRocket’ to Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/world-leaks-ransomware-rustyrocket/</link>
-      <pubDate>Thu, 12 Feb 2026 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
