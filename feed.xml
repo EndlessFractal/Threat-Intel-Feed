@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 16:54:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 18:54:04 +0000</lastBuildDate>
+    <item>
+      <title>Chrome “preloading” could be leaking your data and causing problems in Browser Guard</title>
+      <link>https://www.malwarebytes.com/blog/product/2026/02/chrome-preloading-could-be-leaking-your-data-and-causing-problems-in-browser-guard</link>
+      <pubDate>Tue, 17 Feb 2026 18:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies</title>
+      <link>https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html</link>
+      <pubDate>Tue, 17 Feb 2026 18:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada Goose says leaked customer transaction data did not come from company systems</title>
+      <link>https://therecord.media/canada-goose-says-leaked-customer-data-was-not-from-company</link>
+      <pubDate>Tue, 17 Feb 2026 17:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citizen Lab: Kenyan authorities used Cellebrite to break into phone of dissident</title>
+      <link>https://therecord.media/spyware-kenya-cellebrite-activist</link>
+      <pubDate>Tue, 17 Feb 2026 17:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unify now or pay later: New research exposes the operational cost of a fragmented SOC</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/</link>
+      <pubDate>Tue, 17 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates</title>
+      <link>https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html</link>
+      <pubDate>Tue, 17 Feb 2026 16:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>Android 17 Beta Introduces Secure-By-Default Architecture</title>
       <link>https://www.infosecurity-magazine.com/news/android-17-beta-secure-default/</link>
@@ -71,6 +101,26 @@
       <title>Side-Channel Attacks Against LLMs</title>
       <link>https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html</link>
       <pubDate>Tue, 17 Feb 2026 12:01:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Electronics ASDA-Soft</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-02</link>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Honeywell CCTV Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-04</link>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GE Vernova Enervista UR Setup</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-03</link>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Simcenter Femap and Nastran</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-01</link>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster</title>
@@ -143,6 +193,11 @@
       <pubDate>Tue, 17 Feb 2026 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Sophos Workspace Protection Enables Secure SaaS App Control</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-workspace-protection-enables-secure-saas-app-control</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A security flaw at DavaIndia Pharmacy allowed attackers to access customers’ data and more</title>
       <link>https://securityaffairs.com/188056/security/a-security-flaw-at-davaindia-pharmacy-allowed-attackers-to-access-customers-data-and-more.html</link>
       <pubDate>Mon, 16 Feb 2026 19:22:06 +0000</pubDate>
@@ -166,11 +221,6 @@
       <title>Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers</title>
       <link>https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html</link>
       <pubDate>Mon, 16 Feb 2026 18:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Starlink restrictions hit Russian forces as Moscow seeks workarounds</title>
-      <link>https://therecord.media/starlink-restrictions-hit-russian-forces</link>
-      <pubDate>Mon, 16 Feb 2026 17:58:03 +0000</pubDate>
     </item>
     <item>
       <title>Vulnerabilities in Password Managers Allow Hackers to View and Change Passwords</title>
@@ -256,56 +306,6 @@
       <title>Google fixes first actively exploited Chrome zero-day of 2026</title>
       <link>https://securityaffairs.com/188029/security/google-fixes-first-actively-exploited-chrome-zero-day-of-2026.html</link>
       <pubDate>Mon, 16 Feb 2026 10:10:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Odido Breach Impacts Millions of Dutch Telco Users</title>
-      <link>https://www.infosecurity-magazine.com/news/odido-breach-millions-dutch-telco/</link>
-      <pubDate>Mon, 16 Feb 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (February 9 – February 15)</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-9-february-15</link>
-      <pubDate>Mon, 16 Feb 2026 08:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 64-Bits Malware Trend, (Mon, Feb 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/32718</link>
-      <pubDate>Mon, 16 Feb 2026 07:46:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released</title>
-      <link>https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html</link>
-      <pubDate>Mon, 16 Feb 2026 06:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, February 16th, 2026 https://isc.sans.edu/podcastdetail/9810, (Mon, Feb 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/32716</link>
-      <pubDate>Mon, 16 Feb 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Network Intelligence: Your Questions, Global Answers</title>
-      <link>https://www.recordedfuture.com/blog/network-intelligence-questions-answered</link>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging</title>
-      <link>https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html</link>
-      <pubDate>Sun, 15 Feb 2026 14:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Smart Home Is Watching You: Privacy in the Age of AI Robots</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/your-smart-home-is-watching-you-privacy-in-the-age-of-ai-robots</link>
-      <pubDate>Sun, 15 Feb 2026 10:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html</link>
-      <pubDate>Sat, 14 Feb 2026 17:04:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Viral AI Caricatures Highlight Shadow AI Dangers</title>
-      <link>https://www.techrepublic.com/article/news-ai-caricature-trend-shadow-ai-security-risks/</link>
-      <pubDate>Fri, 13 Feb 2026 23:43:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
