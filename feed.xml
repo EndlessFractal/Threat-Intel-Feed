@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 10:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 12:58:55 +0000</lastBuildDate>
+    <item>
+      <title>Malicious AI</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/malicious-ai.html</link>
+      <pubDate>Thu, 19 Feb 2026 12:05:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starkiller: New ‘Commercial-Grade’ Phishing Kit Bypasses MFA</title>
+      <link>https://www.infosecurity-magazine.com/news/starkiller-phishing-kit-bypasses/</link>
+      <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Exposure to Exploitation: How AI Collapses Your Response Window</title>
+      <link>https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html</link>
+      <pubDate>Thu, 19 Feb 2026 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA alerts to critical auth bypass CVE-2026-1670 in Honeywell CCTVs</title>
+      <link>https://securityaffairs.com/188234/security/cisa-alerts-to-critical-auth-bypass-cve-2026-1670-in-honeywell-cctvs.html</link>
+      <pubDate>Thu, 19 Feb 2026 11:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intimate products producer Tenga spilled customer data</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data</link>
+      <pubDate>Thu, 19 Feb 2026 11:48:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta patents AI that could keep you posting from beyond the grave</title>
+      <link>https://www.malwarebytes.com/blog/ai/2026/02/meta-patents-ai-that-could-keep-you-posting-from-beyond-the-grave</link>
+      <pubDate>Thu, 19 Feb 2026 11:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arkanix Stealer: a C++ &amp; Python infostealer</title>
+      <link>https://securelist.com/arkanix-stealer/119006/</link>
+      <pubDate>Thu, 19 Feb 2026 11:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flaws in Popular Software Development App Extensions Allow Data Exfiltration</title>
+      <link>https://www.infosecurity-magazine.com/news/vulnerabilities-vs-code-cursor/</link>
+      <pubDate>Thu, 19 Feb 2026 10:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users</title>
       <link>https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html</link>
@@ -266,46 +306,6 @@
       <title>Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster</title>
       <link>https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html</link>
       <pubDate>Tue, 17 Feb 2026 19:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SmartLoader hackers clone Oura MCP project to spread StealC malware</title>
-      <link>https://securityaffairs.com/188135/ai/smartloader-hackers-clone-oura-mcp-project-to-spread-stealc-malware.html</link>
-      <pubDate>Tue, 17 Feb 2026 18:54:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome “preloading” could be leaking your data and causing problems in Browser Guard</title>
-      <link>https://www.malwarebytes.com/blog/product/2026/02/chrome-preloading-could-be-leaking-your-data-and-causing-problems-in-browser-guard</link>
-      <pubDate>Tue, 17 Feb 2026 18:25:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies</title>
-      <link>https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html</link>
-      <pubDate>Tue, 17 Feb 2026 18:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unify now or pay later: New research exposes the operational cost of a fragmented SOC</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/</link>
-      <pubDate>Tue, 17 Feb 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates</title>
-      <link>https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html</link>
-      <pubDate>Tue, 17 Feb 2026 16:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android 17 Beta Introduces Secure-By-Default Architecture</title>
-      <link>https://www.infosecurity-magazine.com/news/android-17-beta-secure-default/</link>
-      <pubDate>Tue, 17 Feb 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Polish cybercrime Police arrest man linked to Phobos ransomware operation</title>
-      <link>https://securityaffairs.com/188128/cyber-crime/polish-cybercrime-police-arrest-man-linked-to-phobos-ransomware-operation.html</link>
-      <pubDate>Tue, 17 Feb 2026 15:16:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Expands RCS Encryption and Memory Protections in iOS 26.4</title>
-      <link>https://www.infosecurity-magazine.com/news/apple-rcs-encryption-memory/</link>
-      <pubDate>Tue, 17 Feb 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
