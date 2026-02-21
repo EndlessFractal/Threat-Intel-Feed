@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 08:27:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 10:22:23 +0000</lastBuildDate>
     <item>
       <title>Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning</title>
       <link>https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html</link>
@@ -21,6 +21,11 @@
       <title>Japanese-Language Phishing Emails, (Sat, Feb 21st)</title>
       <link>https://isc.sans.edu/diary/rss/32734</link>
       <pubDate>Sat, 21 Feb 2026 06:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security</title>
+      <link>https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html</link>
+      <pubDate>Sat, 21 Feb 2026 04:30:00 +0000</pubDate>
     </item>
     <item>
       <title>PayPal Flaw Exposed Email Addresses, Social Security Numbers for 6 Months</title>
@@ -41,6 +46,11 @@
       <title>PayPal discloses extended data leak linked to Loan App glitch</title>
       <link>https://securityaffairs.com/188309/data-breach/paypal-discloses-extended-data-leak-linked-to-loan-app-glitch.html</link>
       <pubDate>Fri, 20 Feb 2026 22:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
+      <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
+      <pubDate>Fri, 20 Feb 2026 20:00:30 +0000</pubDate>
     </item>
     <item>
       <title>Romanian hacker faces up to 7 years for breaching Oregon emergency management department</title>
@@ -295,16 +305,6 @@
     <item>
       <title>EnOcean SmartServer IoT</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-01</link>
-      <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jinan USR IOT Technology Limited (PUSR) USR-W610</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03</link>
-      <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Valmet DNA Engineering Web Tools</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-02</link>
       <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
