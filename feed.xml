@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 12:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 14:43:34 +0000</lastBuildDate>
+    <item>
+      <title>Another day, another malicious JPEG, (Mon, Feb 23rd)</title>
+      <link>https://isc.sans.edu/diary/rss/32738</link>
+      <pubDate>Mon, 23 Feb 2026 14:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware &amp; More</title>
+      <link>https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html</link>
+      <pubDate>Mon, 23 Feb 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Password managers keep your passwords safe, unless…</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/02/password-managers-keep-your-passwords-safe-unless</link>
+      <pubDate>Mon, 23 Feb 2026 12:45:21 +0000</pubDate>
+    </item>
     <item>
       <title>Russian Cyber Threat Actor Uses GenAI to Compromise Fortinet Firewalls</title>
       <link>https://www.infosecurity-magazine.com/news/russian-threat-actor-genai/</link>
@@ -36,6 +51,16 @@
       <title>Leading Semiconductor Supplier Advantest Hit by Ransomware Attack</title>
       <link>https://www.infosecurity-magazine.com/news/advantest-ransomware-attack/</link>
       <pubDate>Mon, 23 Feb 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine says cyberattacks on energy grid now used to guide missile strikes</title>
+      <link>https://therecord.media/ukraine-cyberattacks-guiding-russian-missile-strikes</link>
+      <pubDate>Mon, 23 Feb 2026 11:05:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware gangs advancing Moscow’s geopolitical aims, Romanian cyber chief warns</title>
+      <link>https://therecord.media/ransomware-gangs-advancing-moscow-geopolitical-interests-warns-romania</link>
+      <pubDate>Mon, 23 Feb 2026 10:58:03 +0000</pubDate>
     </item>
     <item>
       <title>AI-powered campaign compromises 600 FortiGate systems worldwide</title>
@@ -158,14 +183,19 @@
       <pubDate>Fri, 20 Feb 2026 22:03:21 +0000</pubDate>
     </item>
     <item>
-      <title>‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
-      <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
-      <pubDate>Fri, 20 Feb 2026 20:00:30 +0000</pubDate>
+      <title>Romanian hacker faces up to 7 years for breaching Oregon emergency management department</title>
+      <link>https://therecord.media/romanian-hacker-faces-7-years-oregon-breach</link>
+      <pubDate>Fri, 20 Feb 2026 19:26:35 +0000</pubDate>
     </item>
     <item>
       <title>Google Blocked 1.75M Harmful Apps From Play Store in 2025</title>
       <link>https://www.techrepublic.com/article/news-google-ai-blocked-1-75-million-apps-2025/</link>
       <pubDate>Fri, 20 Feb 2026 18:29:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian national gets 5-year sentence for involvement in North Korea IT worker scheme</title>
+      <link>https://therecord.media/north-korea-laptop-farm-ukraine</link>
+      <pubDate>Fri, 20 Feb 2026 17:38:53 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 8</title>
@@ -196,6 +226,11 @@
       <title>Age verification vendor Persona left frontend exposed, researchers say</title>
       <link>https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed</link>
       <pubDate>Fri, 20 Feb 2026 14:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Musk and X launch legal appeal against EU’s record €120 million fine</title>
+      <link>https://therecord.media/musk-x-appeal-europe-fine</link>
+      <pubDate>Fri, 20 Feb 2026 14:06:49 +0000</pubDate>
     </item>
     <item>
       <title>Massive Winos 4.0 Campaigns Target Taiwan</title>
@@ -271,41 +306,6 @@
       <title>ISC Stormcast For Friday, February 20th, 2026 https://isc.sans.edu/podcastdetail/9818, (Fri, Feb 20th)</title>
       <link>https://isc.sans.edu/diary/rss/32732</link>
       <pubDate>Fri, 20 Feb 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>VShell and SparkRAT Observed in Exploitation of BeyondTrust Critical Vulnerability (CVE-2026-1731)</title>
-      <link>https://unit42.paloaltonetworks.com/beyondtrust-cve-2026-1731/</link>
-      <pubDate>Thu, 19 Feb 2026 23:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Agents Are Quietly Redefining Enterprise Security Risk</title>
-      <link>https://www.techrepublic.com/article/news-ai-agents-enterprise-security-zero-trust-moltbook-risk/</link>
-      <pubDate>Thu, 19 Feb 2026 20:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Under the Hood of DynoWiper, (Thu, Feb 19th)</title>
-      <link>https://isc.sans.edu/diary/rss/32730</link>
-      <pubDate>Thu, 19 Feb 2026 19:43:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using AI to defeat AI</title>
-      <link>https://blog.talosintelligence.com/using-ai-to-defeat-ai/</link>
-      <pubDate>Thu, 19 Feb 2026 19:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence</title>
-      <link>https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html</link>
-      <pubDate>Thu, 19 Feb 2026 17:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown</title>
-      <link>https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html</link>
-      <pubDate>Thu, 19 Feb 2026 17:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center</title>
-      <link>https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html</link>
-      <pubDate>Thu, 19 Feb 2026 17:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
