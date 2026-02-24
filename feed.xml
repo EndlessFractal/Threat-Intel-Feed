@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Feb 2026 12:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 14:46:14 +0000</lastBuildDate>
+    <item>
+      <title>North Korean Lazarus Group Expands Ransomware Activity With Medusa</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korean-lazarus-group-medusa/</link>
+      <pubDate>Tue, 24 Feb 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bring the Fight to the Edge: Turning Time Into an Advantage in OT Security</title>
+      <link>https://unit42.paloaltonetworks.com/ot-edge-security/</link>
+      <pubDate>Tue, 24 Feb 2026 14:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAE claims it stopped ‘terrorist’ ransomware attack</title>
+      <link>https://therecord.media/uae-claims-it-stopped-terrorist-ransomware-attack</link>
+      <pubDate>Tue, 24 Feb 2026 13:56:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine pushes tighter Telegram regulation, citing Russian recruitment of locals</title>
+      <link>https://therecord.media/ukraine-telegram-regulation-russia-sabotage-recruitment</link>
+      <pubDate>Tue, 24 Feb 2026 13:51:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling security operations with Microsoft Defender autonomous defense and expert-led services</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/02/24/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/</link>
+      <pubDate>Tue, 24 Feb 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Accelerates Attacker Breakout Time to Just Four Minutes</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-accelerates-attack-breakout/</link>
+      <pubDate>Tue, 24 Feb 2026 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Is AI Good for Democracy?</title>
       <link>https://www.schneier.com/blog/archives/2026/02/is-ai-good-for-democracy.html</link>
       <pubDate>Tue, 24 Feb 2026 12:06:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating Two Years of CSF 2.0!</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/celebrating-two-years-csf-20</link>
+      <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem</title>
@@ -93,6 +128,11 @@
       <pubDate>Tue, 24 Feb 2026 00:38:59 +0000</pubDate>
     </item>
     <item>
+      <title>Preparing for Russia’s New Generation Warfare in Europe</title>
+      <link>https://www.recordedfuture.com/research/preparing-for-russias-new-generation-warfare-in-europe</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenClaw: What is it and can you use it safely?</title>
       <link>https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely</link>
       <pubDate>Mon, 23 Feb 2026 21:10:50 +0000</pubDate>
@@ -131,16 +171,6 @@
       <title>Russian-speaking hackers used gen AI tools to compromise 600 firewalls, Amazon says</title>
       <link>https://therecord.media/gen-ai-fortigate-hackers-russia</link>
       <pubDate>Mon, 23 Feb 2026 17:22:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Air Côte d'Ivoire confirms cyberattack following ransomware claims</title>
-      <link>https://therecord.media/air-cote-divoire-confirms-cyberattack</link>
-      <pubDate>Mon, 23 Feb 2026 16:56:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global data protection authorities warn generative AI companies against replicating real people</title>
-      <link>https://therecord.media/data-protection-authorities-warn-ai-companies-of-sharing-images</link>
-      <pubDate>Mon, 23 Feb 2026 16:52:11 +0000</pubDate>
     </item>
     <item>
       <title>Over 200K Australian Driver’s Licences Exposed in youX Cyber Breach</title>
@@ -276,36 +306,6 @@
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 85</title>
       <link>https://securityaffairs.com/188337/malware/security-affairs-malware-newsletter-round-85.html</link>
       <pubDate>Sun, 22 Feb 2026 14:29:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defending Your Castle: Best Practices for Smart Home Security</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/defending-your-castle-best-practices-for-smart-home-security</link>
-      <pubDate>Sun, 22 Feb 2026 10:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries</title>
-      <link>https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html</link>
-      <pubDate>Sat, 21 Feb 2026 14:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning</title>
-      <link>https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html</link>
-      <pubDate>Sat, 21 Feb 2026 07:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog</title>
-      <link>https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html</link>
-      <pubDate>Sat, 21 Feb 2026 07:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japanese-Language Phishing Emails, (Sat, Feb 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/32734</link>
-      <pubDate>Sat, 21 Feb 2026 06:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security</title>
-      <link>https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html</link>
-      <pubDate>Sat, 21 Feb 2026 04:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
