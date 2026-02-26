@@ -6,11 +6,66 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 10:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 12:59:05 +0000</lastBuildDate>
+    <item>
+      <title>Finding Signal in the Noise: Lessons Learned Running a Honeypot with AI Assistance [Guest Diary], (Tue, Feb 24th)</title>
+      <link>https://isc.sans.edu/diary/rss/32744</link>
+      <pubDate>Thu, 26 Feb 2026 12:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The CLAIR Model: A Synthesized Conceptual Framework for Mapping Critical Infrastructure Interdependencies [Guest Diary], (Wed, Feb 25th)</title>
+      <link>https://isc.sans.edu/diary/rss/32748</link>
+      <pubDate>Thu, 26 Feb 2026 12:21:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Disrupts ‘Prolific’ and ‘Elusive’ China-Linked Global Hacking Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/google-prolific-china-hacking/</link>
+      <pubDate>Thu, 26 Feb 2026 12:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMs Generate Predictable Passwords</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html</link>
+      <pubDate>Thu, 26 Feb 2026 12:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-20127: Cisco SD-WAN Zero-Day Exploited Since 2023</title>
+      <link>https://socprime.com/blog/cve-2026-20127-vulnerability/</link>
+      <pubDate>Thu, 26 Feb 2026 11:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers abused Cisco SD-WAN zero-day since 2023 to gain full admin control</title>
+      <link>https://securityaffairs.com/188540/security/hackers-abused-cisco-sd-wan-zero-day-since-2023-to-gain-full-admin-control.html</link>
+      <pubDate>Thu, 26 Feb 2026 11:40:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Conduent breach; from 10 million to 25 million (and counting)</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/02/the-conduent-breach-from-10-million-to-25-million-and-counting</link>
+      <pubDate>Thu, 26 Feb 2026 11:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Dohdoor malware campaign targets education and health care</title>
+      <link>https://blog.talosintelligence.com/new-dohdoor-malware-campaign/</link>
+      <pubDate>Thu, 26 Feb 2026 11:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>RSAC 2026 Conference Forecasts the Next 12 Months</title>
+      <link>https://www.security.com/expert-perspectives/rsac-2026-forecasts</link>
+      <pubDate>Thu, 26 Feb 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware</title>
+      <link>https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html</link>
+      <pubDate>Thu, 26 Feb 2026 10:35:00 +0000</pubDate>
+    </item>
     <item>
       <title>Instagram flagged explicit messages to minors in 2018. Image-blurring arrived six years later</title>
       <link>https://www.malwarebytes.com/blog/family-and-parenting/2026/02/instagram-flagged-explicit-messages-to-minors-in-2018-image-blurring-arrived-six-years-later</link>
       <pubDate>Thu, 26 Feb 2026 10:34:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens</title>
+      <link>https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html</link>
+      <pubDate>Thu, 26 Feb 2026 10:09:00 +0000</pubDate>
     </item>
     <item>
       <title>Global Cyber Agencies Urge Immediate Patching of Cisco SD-WAN Zero Day</title>
@@ -26,11 +81,6 @@
       <title>Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access</title>
       <link>https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html</link>
       <pubDate>Thu, 26 Feb 2026 06:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Finding Signal in the Noise: Lessons Learned Running a Honeypot with AI Assistance [Guest Diary], (Tue, Feb 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/32744</link>
-      <pubDate>Thu, 26 Feb 2026 02:11:08 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, February 26th, 2026 https://isc.sans.edu/podcastdetail/9826, (Thu, Feb 26th)</title>
@@ -51,11 +101,6 @@
       <title>Untrusted repositories turn Claude code into an attack vector</title>
       <link>https://securityaffairs.com/188508/security/untrusted-repositories-turn-claude-code-into-an-attack-vector.html</link>
       <pubDate>Wed, 25 Feb 2026 21:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>The CLAIR Model: A Synthesized Conceptual Framework for Mapping Critical Infrastructure Interdependencies [Guest Diary], (Wed, Feb 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/32748</link>
-      <pubDate>Wed, 25 Feb 2026 21:09:28 +0000</pubDate>
     </item>
     <item>
       <title>Critical Zyxel router flaw exposed devices to remote attacks</title>
@@ -261,51 +306,6 @@
       <title>Developer-targeting campaign using malicious Next.js repositories</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/</link>
       <pubDate>Tue, 24 Feb 2026 17:28:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cost of Insider Incidents Surges 20% to Nearly $20m</title>
-      <link>https://www.infosecurity-magazine.com/news/cost-of-insider-incidents-surges/</link>
-      <pubDate>Tue, 24 Feb 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is a Security Data Pipeline Platform: Key Benefits for Modern SOC</title>
-      <link>https://socprime.com/blog/what-is-a-security-data-pipeline-platform/</link>
-      <pubDate>Tue, 24 Feb 2026 16:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multifaceted Phishing Scheme Deceives Bitpanda Customers</title>
-      <link>https://www.infosecurity-magazine.com/news/bitpanda-mfa-phishing-scheme/</link>
-      <pubDate>Tue, 24 Feb 2026 16:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reddit, porn sites fined by UK regulators over children’s safety and privacy</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/02/reddit-porn-sites-fined-by-uk-regulators-over-childrens-safety-and-privacy</link>
-      <pubDate>Tue, 24 Feb 2026 15:48:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roblox gives predators “powerful tools” to target children, says LA County</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/02/roblox-gives-predators-powerful-tools-to-target-children-says-la-county</link>
-      <pubDate>Tue, 24 Feb 2026 15:22:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware Aria Operations flaws could enable remote attacks</title>
-      <link>https://securityaffairs.com/188445/security/vmware-aria-operations-flaws-could-enable-remote-attacks.html</link>
-      <pubDate>Tue, 24 Feb 2026 15:02:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Lazarus Group Expands Ransomware Activity With Medusa</title>
-      <link>https://www.infosecurity-magazine.com/news/north-korean-lazarus-group-medusa/</link>
-      <pubDate>Tue, 24 Feb 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware</title>
-      <link>https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html</link>
-      <pubDate>Tue, 24 Feb 2026 14:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bring the Fight to the Edge: Turning Time Into an Advantage in OT Security</title>
-      <link>https://unit42.paloaltonetworks.com/ot-edge-security/</link>
-      <pubDate>Tue, 24 Feb 2026 14:00:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
