@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 14:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 16:55:12 +0000</lastBuildDate>
+    <item>
+      <title>Google disrupts Сhina-linked cyberespionage campaign spanning dozens of countries</title>
+      <link>https://therecord.media/china-cyber-espionage-google-disrupt</link>
+      <pubDate>Thu, 26 Feb 2026 16:19:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aeternum Botnet Shifts Command Control to Polygon Blockchain</title>
+      <link>https://www.infosecurity-magazine.com/news/aeternum-botnet-c2-polygon/</link>
+      <pubDate>Thu, 26 Feb 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor</title>
+      <link>https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html</link>
+      <pubDate>Thu, 26 Feb 2026 15:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Cisco SD-WAN flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/188548/hacking/u-s-cisa-adds-cisco-sd-wan-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 26 Feb 2026 15:04:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks Intensify</title>
+      <link>https://www.infosecurity-magazine.com/news/32m-phishing-emails-detected-2025/</link>
+      <pubDate>Thu, 26 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit &amp; 15+ Stories</title>
+      <link>https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html</link>
+      <pubDate>Thu, 26 Feb 2026 14:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>After years of government cyber trouble, UK turns to automated scanning to speed fixes</title>
       <link>https://therecord.media/united-kingdom-vulnerability-scanning-cyber</link>
@@ -118,6 +148,11 @@
       <pubDate>Thu, 26 Feb 2026 06:13:00 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security</title>
+      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/</link>
+      <pubDate>Thu, 26 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Thursday, February 26th, 2026 https://isc.sans.edu/podcastdetail/9826, (Thu, Feb 26th)</title>
       <link>https://isc.sans.edu/diary/rss/32750</link>
       <pubDate>Thu, 26 Feb 2026 02:00:03 +0000</pubDate>
@@ -161,11 +196,6 @@
       <title>Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries</title>
       <link>https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html</link>
       <pubDate>Wed, 25 Feb 2026 17:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discord puts global age verification policy on hold after backlash</title>
-      <link>https://therecord.media/discord-age-verification-policy-on-hold-after-backlash</link>
-      <pubDate>Wed, 25 Feb 2026 17:44:52 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration</title>
@@ -276,36 +306,6 @@
       <title>$10,000 bounty offered if you can hack Ring cameras to stop them sharing your data with Amazon</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/10-000-bounty-hack-ring-cameras</link>
       <pubDate>Wed, 25 Feb 2026 09:38:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds a flaw in Soliton Systems K.K FileZen to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/188473/hacking/u-s-cisa-adds-a-flaw-in-soliton-systems-k-k-filezen-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 25 Feb 2026 09:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker</title>
-      <link>https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html</link>
-      <pubDate>Wed, 25 Feb 2026 08:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lazarus APT group deployed Medusa Ransomware against Middle East target</title>
-      <link>https://securityaffairs.com/188460/apt/lazarus-apt-group-deployed-medusa-ransomware-against-middle-east-target.html</link>
-      <pubDate>Wed, 25 Feb 2026 08:18:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution</title>
-      <link>https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html</link>
-      <pubDate>Wed, 25 Feb 2026 07:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability</title>
-      <link>https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html</link>
-      <pubDate>Wed, 25 Feb 2026 05:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, February 25th, 2026 https://isc.sans.edu/podcastdetail/9824, (Wed, Feb 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/32746</link>
-      <pubDate>Wed, 25 Feb 2026 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
