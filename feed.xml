@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 04:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 08:37:32 +0000</lastBuildDate>
+    <item>
+      <title>12 Million exposed .env files reveal widespread security failures</title>
+      <link>https://securityaffairs.com/188590/hacking/12-million-exposed-env-files-reveal-widespread-security-failures.html</link>
+      <pubDate>Fri, 27 Feb 2026 08:02:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams</title>
+      <link>https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html</link>
+      <pubDate>Fri, 27 Feb 2026 07:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ManoMano data breach impacted 38 Million customer accounts</title>
+      <link>https://securityaffairs.com/188582/data-breach/manomano-data-breach-impacted-38-million-customer-accounts.html</link>
+      <pubDate>Fri, 27 Feb 2026 07:41:50 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Friday, February 27th, 2026 https://isc.sans.edu/podcastdetail/9828, (Fri, Feb 27th)</title>
       <link>https://isc.sans.edu/diary/rss/32752</link>
@@ -291,21 +306,6 @@
       <title>Critical Zyxel router flaw exposed devices to remote attacks</title>
       <link>https://securityaffairs.com/188501/security/critical-zyxel-router-flaw-exposed-devices-to-remote-attacks.html</link>
       <pubDate>Wed, 25 Feb 2026 20:28:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShinyHunters Leak 12.4 Million CarGurus Records in Massive Data Dump</title>
-      <link>https://www.techrepublic.com/article/news-shinyhunters-cargurus-data-leak-12-million-records/</link>
-      <pubDate>Wed, 25 Feb 2026 20:05:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries</title>
-      <link>https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html</link>
-      <pubDate>Wed, 25 Feb 2026 17:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration</title>
-      <link>https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html</link>
-      <pubDate>Wed, 25 Feb 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
