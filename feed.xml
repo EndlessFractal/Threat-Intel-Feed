@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 04:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 08:40:06 +0000</lastBuildDate>
+    <item>
+      <title>A week in security (February 23 – March 1)</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-february-23-march-1</link>
+      <pubDate>Mon, 02 Mar 2026 08:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Update 493</title>
+      <link>https://www.troyhunt.com/weekly-update-493/</link>
+      <pubDate>Mon, 02 Mar 2026 07:51:14 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Monday, March 2nd, 2026 https://isc.sans.edu/podcastdetail/9830, (Mon, Mar 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/32756</link>
@@ -203,6 +213,11 @@
       <pubDate>Fri, 27 Feb 2026 07:56:00 +0000</pubDate>
     </item>
     <item>
+      <title>Bringing more transparency to post-quantum usage, encrypted messaging, and routing security</title>
+      <link>https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/</link>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Friday, February 27th, 2026 https://isc.sans.edu/podcastdetail/9828, (Fri, Feb 27th)</title>
       <link>https://isc.sans.edu/diary/rss/32752</link>
       <pubDate>Fri, 27 Feb 2026 02:00:02 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Finding Signal in the Noise: Lessons Learned Running a Honeypot with AI Assistance [Guest Diary], (Tue, Feb 24th)</title>
       <link>https://isc.sans.edu/diary/rss/32744</link>
       <pubDate>Thu, 26 Feb 2026 12:21:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>The CLAIR Model: A Synthesized Conceptual Framework for Mapping Critical Infrastructure Interdependencies [Guest Diary], (Wed, Feb 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/32748</link>
-      <pubDate>Thu, 26 Feb 2026 12:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Disrupts ‘Prolific’ and ‘Elusive’ China-Linked Global Hacking Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/google-prolific-china-hacking/</link>
-      <pubDate>Thu, 26 Feb 2026 12:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLMs Generate Predictable Passwords</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html</link>
-      <pubDate>Thu, 26 Feb 2026 12:07:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
