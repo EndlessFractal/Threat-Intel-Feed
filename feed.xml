@@ -6,7 +6,57 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 10:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 12:52:52 +0000</lastBuildDate>
+    <item>
+      <title>LLM-Assisted Deanonymization</title>
+      <link>https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html</link>
+      <pubDate>Mon, 02 Mar 2026 12:05:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Protect Your SaaS from Bot Attacks with SafeLine WAF</title>
+      <link>https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html</link>
+      <pubDate>Mon, 02 Mar 2026 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClawJacked Bug Enables Covert AI Agent Hijacking</title>
+      <link>https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/</link>
+      <pubDate>Mon, 02 Mar 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quick Howto: ZIP Files Inside RTF, (Mon, Mar 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/32696</link>
+      <pubDate>Mon, 02 Mar 2026 11:13:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wireshark 4.6.4 Released, (Mon, Mar 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/32758</link>
+      <pubDate>Mon, 02 Mar 2026 11:11:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taming Agentic Browsers: Vulnerability in Chrome Allowed Extensions to Hijack New Gemini Panel</title>
+      <link>https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/</link>
+      <pubDate>Mon, 02 Mar 2026 11:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your AI Is A Security Risk</title>
+      <link>https://www.security.com/expert-perspectives/your-ai-security-risk-part-1</link>
+      <pubDate>Mon, 02 Mar 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack briefly disrupts Russian internet regulator and defense ministry websites</title>
+      <link>https://therecord.media/cyberattack-briefly-takes-down-russian-government-websites</link>
+      <pubDate>Mon, 02 Mar 2026 10:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Payments Decline 8% as Attacks Surge 50%</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-payments-decline-1/</link>
+      <pubDate>Mon, 02 Mar 2026 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday</title>
+      <link>https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html</link>
+      <pubDate>Mon, 02 Mar 2026 10:36:00 +0000</pubDate>
+    </item>
     <item>
       <title>Europol’s Project Compass nets 30 arrests in crackdown on “The Com”</title>
       <link>https://securityaffairs.com/188708/cyber-crime/europols-project-compass-nets-30-arrests-in-crackdown-on-the-com.html</link>
@@ -76,6 +126,11 @@
       <title>Security Affairs newsletter Round 565 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/188669/security/security-affairs-newsletter-round-565-by-pierluigi-paganini-international-edition.html</link>
       <pubDate>Sun, 01 Mar 2026 00:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Advisory: Increased Cyber Risk Amid U.S.–Israel–Iran Escalation</title>
+      <link>https://www.sophos.com/en-us/blog/cyber-advisory-increased-cyber-risk-amid-u-s-israel-iran-escalation</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SentinelOne Intelligence Brief: Iranian Cyber Activity Outlook</title>
@@ -223,11 +278,6 @@
       <pubDate>Fri, 27 Feb 2026 07:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bringing more transparency to post-quantum usage, encrypted messaging, and routing security</title>
-      <link>https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/</link>
-      <pubDate>Fri, 27 Feb 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ISC Stormcast For Friday, February 27th, 2026 https://isc.sans.edu/podcastdetail/9828, (Fri, Feb 27th)</title>
       <link>https://isc.sans.edu/diary/rss/32752</link>
       <pubDate>Fri, 27 Feb 2026 02:00:02 +0000</pubDate>
@@ -248,11 +298,6 @@
       <pubDate>Thu, 26 Feb 2026 21:21:23 +0000</pubDate>
     </item>
     <item>
-      <title>Wyden blocks Rudd confirmation to lead Cyber Command, NSA</title>
-      <link>https://therecord.media/wyden-blocks-rudd-confirmation-nsa-cyber-command</link>
-      <pubDate>Thu, 26 Feb 2026 21:06:28 +0000</pubDate>
-    </item>
-    <item>
       <title>Henry IV, Hotspur, Hal, and hallucinations</title>
       <link>https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/</link>
       <pubDate>Thu, 26 Feb 2026 19:00:39 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>How to understand and avoid Advanced Persistent Threats</title>
       <link>https://www.malwarebytes.com/blog/how-to/2026/02/how-to-understand-and-avoid-advanced-persistent-threats</link>
       <pubDate>Thu, 26 Feb 2026 18:52:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown</title>
-      <link>https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html</link>
-      <pubDate>Thu, 26 Feb 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat modeling AI applications</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/02/26/threat-modeling-ai-applications/</link>
-      <pubDate>Thu, 26 Feb 2026 17:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aeternum Botnet Shifts Command Control to Polygon Blockchain</title>
-      <link>https://www.infosecurity-magazine.com/news/aeternum-botnet-c2-polygon/</link>
-      <pubDate>Thu, 26 Feb 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor</title>
-      <link>https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html</link>
-      <pubDate>Thu, 26 Feb 2026 15:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks Intensify</title>
-      <link>https://www.infosecurity-magazine.com/news/32m-phishing-emails-detected-2025/</link>
-      <pubDate>Thu, 26 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit &amp; 15+ Stories</title>
-      <link>https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html</link>
-      <pubDate>Thu, 26 Feb 2026 14:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK's Data Watchdog Gets a Makeover to Match Growing Demands</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-data-watchdog-ico-makeover/</link>
-      <pubDate>Thu, 26 Feb 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploitable Vulnerabilities Present in 87% of Organizations</title>
-      <link>https://www.infosecurity-magazine.com/news/exploitable-vulnerabilities-in-87/</link>
-      <pubDate>Thu, 26 Feb 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Global Fight Over Who Controls Your Data Just Escalated — Here’s What the Numbers Say</title>
-      <link>https://www.techrepublic.com/article/news-data-sovereignty-cloud-security-report/</link>
-      <pubDate>Thu, 26 Feb 2026 13:58:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
