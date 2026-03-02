@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 18:41:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 20:34:14 +0000</lastBuildDate>
+    <item>
+      <title>OAuth redirection abuse enables phishing and malware delivery</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/03/02/oauth-redirection-abuse-enables-phishing-malware-delivery/</link>
+      <pubDate>Mon, 02 Mar 2026 19:29:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>University of Hawaiʻi Cancer Center confirms data leak following ransomware attack</title>
+      <link>https://therecord.media/university-of-hawaii-ransomware-data-breach</link>
+      <pubDate>Mon, 02 Mar 2026 19:13:21 +0000</pubDate>
+    </item>
     <item>
       <title>New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel</title>
       <link>https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html</link>
@@ -243,11 +253,6 @@
       <pubDate>Fri, 27 Feb 2026 17:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>Samsung updates ACR privacy practices after Texas sues TV manufacturers</title>
-      <link>https://therecord.media/samsung-updates-acr-privacy-practices-texas</link>
-      <pubDate>Fri, 27 Feb 2026 17:45:34 +0000</pubDate>
-    </item>
-    <item>
       <title>5 Nations Alert: Critical Cisco Bug Used in Global Espionage Campaign</title>
       <link>https://www.techrepublic.com/article/news-cisco-sdwan-flaw-five-eyes-joint-warning/</link>
       <pubDate>Fri, 27 Feb 2026 16:25:07 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>UK Vulnerability Monitoring Service Cuts Unresolved Security Flaws by 75%</title>
       <link>https://www.infosecurity-magazine.com/news/uk-vuln-monitoring-service-cuts/</link>
       <pubDate>Fri, 27 Feb 2026 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside a fake Google security check that becomes a browser RAT</title>
-      <link>https://www.malwarebytes.com/blog/privacy/2026/02/inside-a-fake-google-security-check-that-becomes-a-browser-rat</link>
-      <pubDate>Fri, 27 Feb 2026 11:29:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
