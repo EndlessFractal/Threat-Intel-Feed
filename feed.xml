@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 06:47:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 08:37:14 +0000</lastBuildDate>
+    <item>
+      <title>SIEM vs Log Management: Observability, Telemetry, and Detection</title>
+      <link>https://socprime.com/blog/siem-vs-log-management/</link>
+      <pubDate>Thu, 05 Mar 2026 08:34:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks</title>
+      <link>https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html</link>
+      <pubDate>Thu, 05 Mar 2026 06:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials</title>
+      <link>https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html</link>
+      <pubDate>Thu, 05 Mar 2026 06:34:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google uncovers Coruna iOS Exploit Kit targeting iOS 13–17.2.1</title>
       <link>https://securityaffairs.com/188928/security/google-uncovers-coruna-ios-exploit-kit-targeting-ios-13-17-2-1.html</link>
@@ -80,6 +95,11 @@
     <item>
       <title>Surge in Attacks on Surveillance Cameras Linked to Iranian Hackers</title>
       <link>https://www.infosecurity-magazine.com/news/iran-attacks-surveillance-cameras/</link>
+      <pubDate>Wed, 04 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, March 2026</title>
+      <link>https://asec.ahnlab.com/en/92815/</link>
       <pubDate>Wed, 04 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Leaked Database Sheds Light on Iranian Crypto Sanctions Evasion</title>
       <link>https://www.infosecurity-magazine.com/news/iranian-crypto-leaked-database/</link>
       <pubDate>Tue, 03 Mar 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries</title>
-      <link>https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html</link>
-      <pubDate>Tue, 03 Mar 2026 14:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Half of US CISOs Work the Equivalent of a Six-Day Week</title>
-      <link>https://www.infosecurity-magazine.com/news/half-us-cisos-work-equivalent/</link>
-      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0252 Attack Detection: SHADOWSNIFF and SALATSTEALER Fuel Phishing Campaigns in Ukraine</title>
-      <link>https://socprime.com/blog/uac-0252-attacks-using-shadowsniff-salatstealer/</link>
-      <pubDate>Tue, 03 Mar 2026 13:46:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome flaw let extensions hijack Gemini’s camera, mic, and file access</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/03/chrome-flaw-let-extensions-hijack-geminis-camera-mic-and-file-access</link>
-      <pubDate>Tue, 03 Mar 2026 12:10:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
