@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 14:42:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 18:01:10 +0000</lastBuildDate>
+    <item>
+      <title>Israel Hacked Traffic Cameras in Iran</title>
+      <link>https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html</link>
+      <pubDate>Thu, 05 Mar 2026 17:31:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic CEO Calls OpenAI’s Military Messaging ‘Straight Up Lies’</title>
+      <link>https://www.techrepublic.com/article/news-anthropic-ceo-openai-military-messaging-lies/</link>
+      <pubDate>Thu, 05 Mar 2026 16:19:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious AI Assistant Extensions Harvest LLM Chat Histories</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/03/05/malicious-ai-assistant-extensions-harvest-llm-chat-histories/</link>
+      <pubDate>Thu, 05 Mar 2026 16:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Data Sovereignty Paradox</title>
+      <link>https://www.security.com/product-insights/data-sovereignty-paradox</link>
+      <pubDate>Thu, 05 Mar 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Driven Insider Risk Now a “Critical Business Threat,” Report Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-insider-risk-critical-business/</link>
+      <pubDate>Thu, 05 Mar 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities</title>
+      <link>https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html</link>
+      <pubDate>Thu, 05 Mar 2026 15:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders</title>
+      <link>https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html</link>
+      <pubDate>Thu, 05 Mar 2026 15:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian APT targets Ukraine with BadPaw and MeowMeow malware</title>
+      <link>https://securityaffairs.com/188974/apt/russian-apt-targets-ukraine-with-badpaw-and-meowmeow-malware.html</link>
+      <pubDate>Thu, 05 Mar 2026 14:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google says 90 zero-days exploited in 2025 as commercial vendor activity grows</title>
+      <link>https://therecord.media/google-says-90-zero-days-exploited-apt-spyware-vendors</link>
+      <pubDate>Thu, 05 Mar 2026 14:48:01 +0000</pubDate>
+    </item>
     <item>
       <title>‘We’re not trying to remake the economy’: FTC’s Mufarrige charts new course on tech enforcement</title>
       <link>https://therecord.media/ftc-mufarrige-interview-chart-new-course-on-tech-enforcement</link>
@@ -21,11 +66,6 @@
       <title>ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine &amp; More</title>
       <link>https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html</link>
       <pubDate>Thu, 05 Mar 2026 13:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders</title>
-      <link>https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html</link>
-      <pubDate>Thu, 05 Mar 2026 13:13:00 +0000</pubDate>
     </item>
     <item>
       <title>LastPass Review: Features, Pricing, Security, and Who It’s Best For</title>
@@ -46,6 +86,11 @@
       <title>Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware</title>
       <link>https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html</link>
       <pubDate>Thu, 05 Mar 2026 12:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Electronics CNCSoft-G2</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-064-01</link>
+      <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, March 5th, 2026 https://isc.sans.edu/podcastdetail/9836, (Thu, Mar 5th)</title>
@@ -116,6 +161,11 @@
       <title>SIEM vs Log Management: Observability, Telemetry, and Detection</title>
       <link>https://socprime.com/blog/siem-vs-log-management/</link>
       <pubDate>Thu, 05 Mar 2026 08:34:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>On the Effectiveness of Mutational Grammar Fuzzing</title>
+      <link>https://projectzero.google/2026/03/mutational-grammar-fuzzing.html</link>
+      <pubDate>Thu, 05 Mar 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks</title>
@@ -218,11 +268,6 @@
       <pubDate>Wed, 04 Mar 2026 14:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Russian hackers deploy new malware in phishing campaign targeting Ukraine</title>
-      <link>https://therecord.media/russian-ukraine-hackers-malware</link>
-      <pubDate>Wed, 04 Mar 2026 14:29:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Europe's Security Capital Deserved Better. So We Got to Work.</title>
       <link>https://blog.eclecticiq.com/europes-security-capital-deserved-better-so-we-got-to-work</link>
       <pubDate>Wed, 04 Mar 2026 14:14:09 +0000</pubDate>
@@ -261,51 +306,6 @@
       <title>New RFP Template for AI Usage Control and AI Governance</title>
       <link>https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html</link>
       <pubDate>Wed, 04 Mar 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Unseen Wall: How Billions of Attacks Were Blocked in 2025</title>
-      <link>https://www.security.com/product-insights/billions-attacks-blocked-2025</link>
-      <pubDate>Wed, 04 Mar 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Calls for Global Digital Estate Standard as Posthumous Deepfake Fraud Risk Grows</title>
-      <link>https://www.infosecurity-magazine.com/news/digital-estate-post-death-deepfake/</link>
-      <pubDate>Wed, 04 Mar 2026 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile malware evolution in 2025</title>
-      <link>https://securelist.com/mobile-threat-report-2025/119076/</link>
-      <pubDate>Wed, 04 Mar 2026 10:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Want More XWorm?, (Wed, Mar 4th)</title>
-      <link>https://isc.sans.edu/diary/rss/32766</link>
-      <pubDate>Wed, 04 Mar 2026 09:48:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux</title>
-      <link>https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html</link>
-      <pubDate>Wed, 04 Mar 2026 09:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Qualcomm and Broadcom VMware Aria Operations flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/188887/security/u-s-cisa-adds-qualcomm-and-broadcom-vmware-aria-operations-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 04 Mar 2026 08:56:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data breach at University of Hawaiʻi Cancer Center impacts 1.2 Million individuals</title>
-      <link>https://securityaffairs.com/188876/data-breach/data-breach-at-university-of-hawai%ca%bbi-cancer-center-impacts-1-2-million-individuals.html</link>
-      <pubDate>Wed, 04 Mar 2026 08:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2</title>
-      <link>https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html</link>
-      <pubDate>Wed, 04 Mar 2026 08:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog</title>
-      <link>https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html</link>
-      <pubDate>Wed, 04 Mar 2026 04:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
