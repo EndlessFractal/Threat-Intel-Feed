@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 04:09:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 08:27:42 +0000</lastBuildDate>
     <item>
       <title>FBI probing intrusion into a system managing sensitive surveillance information</title>
       <link>https://securityaffairs.com/189087/hacking/fbi-probing-intrusion-into-system-managing-sensitive-surveillance-information.html</link>
@@ -16,6 +16,16 @@
       <title>Reading White House President Trump’s Cyber Strategy for America (March 2026)</title>
       <link>https://securityaffairs.com/189083/security/reading-white-house-president-trumps-cyber-strategy-for-america-march-2026.html</link>
       <pubDate>Sat, 07 Mar 2026 17:13:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues</title>
+      <link>https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html</link>
+      <pubDate>Sat, 07 Mar 2026 16:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model</title>
+      <link>https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html</link>
+      <pubDate>Sat, 07 Mar 2026 11:21:00 +0000</pubDate>
     </item>
     <item>
       <title>Iran-linked hackers target IP cameras across Israel and Gulf states for military intelligence</title>
@@ -78,9 +88,19 @@
       <pubDate>Fri, 06 Mar 2026 15:14:43 +0000</pubDate>
     </item>
     <item>
+      <title>Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India</title>
+      <link>https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html</link>
+      <pubDate>Fri, 06 Mar 2026 15:11:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Bitwarden Brings Passkey Logins to Windows 11, Expanding Passwordless Sign-Ins</title>
       <link>https://www.techrepublic.com/article/news-bitwarden-passkey-windows-11-sign-in/</link>
       <pubDate>Fri, 06 Mar 2026 14:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT</title>
+      <link>https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html</link>
+      <pubDate>Fri, 06 Mar 2026 14:33:00 +0000</pubDate>
     </item>
     <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 10</title>
@@ -113,6 +133,16 @@
       <pubDate>Fri, 06 Mar 2026 11:00:35 +0000</pubDate>
     </item>
     <item>
+      <title>The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity</title>
+      <link>https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html</link>
+      <pubDate>Fri, 06 Mar 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor</title>
+      <link>https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html</link>
+      <pubDate>Fri, 06 Mar 2026 10:23:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Exploits and vulnerabilities in Q4 2025</title>
       <link>https://securelist.com/vulnerabilities-and-exploits-in-q4-2025/119105/</link>
       <pubDate>Fri, 06 Mar 2026 10:00:22 +0000</pubDate>
@@ -133,9 +163,24 @@
       <pubDate>Fri, 06 Mar 2026 08:42:09 +0000</pubDate>
     </item>
     <item>
+      <title>China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks</title>
+      <link>https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html</link>
+      <pubDate>Fri, 06 Mar 2026 08:22:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Google GTIG: 90 zero-day flaws exploited in 2025 as enterprise targets grow</title>
       <link>https://securityaffairs.com/188993/security/google-gtig-90-zero-day-flaws-exploited-in-2025-as-enterprise-targets-grow.html</link>
       <pubDate>Fri, 06 Mar 2026 07:58:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer</title>
+      <link>https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html</link>
+      <pubDate>Fri, 06 Mar 2026 06:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog</title>
+      <link>https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html</link>
+      <pubDate>Fri, 06 Mar 2026 06:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection</title>
@@ -198,9 +243,24 @@
       <pubDate>Thu, 05 Mar 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders</title>
+      <link>https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html</link>
+      <pubDate>Thu, 05 Mar 2026 15:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities</title>
+      <link>https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html</link>
+      <pubDate>Thu, 05 Mar 2026 15:22:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ContextCrush Flaw Exposes AI Development Tools to Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/contextcrush-ai-development-tools/</link>
       <pubDate>Thu, 05 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine &amp; More</title>
+      <link>https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html</link>
+      <pubDate>Thu, 05 Mar 2026 13:44:00 +0000</pubDate>
     </item>
     <item>
       <title>LastPass Review: Features, Pricing, Security, and Who It’s Best For</title>
@@ -211,6 +271,11 @@
       <title>Coruna Exploit Kit Targets Older iPhones in Multi-Stage Campaigns</title>
       <link>https://www.infosecurity-magazine.com/news/coruna-exploit-older-iphones/</link>
       <pubDate>Thu, 05 Mar 2026 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware</title>
+      <link>https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html</link>
+      <pubDate>Thu, 05 Mar 2026 12:01:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds Five Known Exploited Vulnerabilities to Catalog</title>
@@ -241,71 +306,6 @@
       <title>Windows File Shredder: When deleting a file isn’t enough</title>
       <link>https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough</link>
       <pubDate>Thu, 05 Mar 2026 11:07:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAT-9244 targets South American telecommunication providers with three new malware implants</title>
-      <link>https://blog.talosintelligence.com/uat-9244/</link>
-      <pubDate>Thu, 05 Mar 2026 11:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-Click FreeScout Bug Enables Remote Code Execution</title>
-      <link>https://www.infosecurity-magazine.com/news/zeroclick-freescout-bug-remote/</link>
-      <pubDate>Thu, 05 Mar 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supreme Court to decide whether geofence warrants are constitutional</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional</link>
-      <pubDate>Thu, 05 Mar 2026 10:54:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Issues Patches for 48 Vulnerabilities in Enterprise Networking Products</title>
-      <link>https://www.infosecurity-magazine.com/news/cisco-issues-patches-48/</link>
-      <pubDate>Thu, 05 Mar 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol Operation Seizes LeakBase Data Breach Site</title>
-      <link>https://www.infosecurity-magazine.com/news/europol-seizes-leakbase-data/</link>
-      <pubDate>Thu, 05 Mar 2026 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SIEM vs Log Management: Observability, Telemetry, and Detection</title>
-      <link>https://socprime.com/blog/siem-vs-log-management/</link>
-      <pubDate>Thu, 05 Mar 2026 08:34:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the Effectiveness of Mutational Grammar Fuzzing</title>
-      <link>https://projectzero.google/2026/03/mutational-grammar-fuzzing.html</link>
-      <pubDate>Thu, 05 Mar 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Differentiating Between a Targeted Intrusion and an Automated Opportunistic Scanning [Guest Diary], (Wed, Mar 4th)</title>
-      <link>https://isc.sans.edu/diary/rss/32768</link>
-      <pubDate>Thu, 05 Mar 2026 02:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #457: How a cybersecurity boss framed his own employee</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-457/</link>
-      <pubDate>Thu, 05 Mar 2026 00:33:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Optimize Your Sophos Firewall Security</title>
-      <link>https://www.sophos.com/en-us/blog/optimize-your-sophos-firewall-security</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perplexity AI Browser Flaw Could Let Calendar Invites Access Local Files</title>
-      <link>https://www.techrepublic.com/article/news-perplexity-comet-browser-vulnerability-local-files/</link>
-      <pubDate>Wed, 04 Mar 2026 17:55:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Fallout After the Strikes: Signal, Noise, and What Comes Next</title>
-      <link>https://feeds.fortinet.com/~/949515869/0/fortinet/blog/threat-research~Cyber-Fallout-After-the-Strikes-Signal-Noise-and-What-Comes-Next</link>
-      <pubDate>Wed, 04 Mar 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coalition of Western Countries Launches 6G Cybersecurity Guidelines</title>
-      <link>https://www.infosecurity-magazine.com/news/gcot-6g-cybersecurity-guidelines/</link>
-      <pubDate>Wed, 04 Mar 2026 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
