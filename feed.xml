@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 12:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 14:43:16 +0000</lastBuildDate>
+    <item>
+      <title>BlackSanta EDR-Killer Targets HR Teams in CV-Themed Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/blacksanta-edr-killer-targets-hr/</link>
+      <pubDate>Wed, 11 Mar 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Discover Major Security Gaps in LLM Guardrails</title>
+      <link>https://www.infosecurity-magazine.com/news/major-security-gaps-llm-guardrails/</link>
+      <pubDate>Wed, 11 Mar 2026 13:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watch out for tax-season robocalls pushing fake “relief programs”</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/03/watch-out-for-tax-season-robocalls-pushing-fake-relief-programs</link>
+      <pubDate>Wed, 11 Mar 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown</title>
+      <link>https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html</link>
+      <pubDate>Wed, 11 Mar 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>235,000 affected by cyberattack on largest ambulance provider in Wisconsin</title>
+      <link>https://therecord.media/235000-affected-cyberattack-ambulance-provider</link>
+      <pubDate>Wed, 11 Mar 2026 13:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows and macOS Malware Spreads via Fake “Claude Code” Google Ads</title>
+      <link>https://www.bitdefender.com/en-us/blog/labs/fake-claude-code-google-ads-malware</link>
+      <pubDate>Wed, 11 Mar 2026 13:04:49 +0000</pubDate>
+    </item>
     <item>
       <title>Iranian influence operation using fake personas to deceive US Instagram users disrupted, Meta says</title>
       <link>https://therecord.media/iran-instagram-influence-operation-disrupted</link>
@@ -213,11 +243,6 @@
       <pubDate>Tue, 10 Mar 2026 14:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA shortens patch deadline for critical Ivanti, SolarWinds bugs</title>
-      <link>https://therecord.media/cisa-shortens-patch-deadline-ivanti-solarwinds</link>
-      <pubDate>Tue, 10 Mar 2026 13:50:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries</title>
       <link>https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html</link>
       <pubDate>Tue, 10 Mar 2026 13:20:00 +0000</pubDate>
@@ -226,6 +251,11 @@
       <title>FortiGate Edge Intrusions | Stolen Service Accounts Lead to Rogue Workstations and Deep AD Compromise</title>
       <link>https://www.sentinelone.com/blog/fortigate-edge-intrusions/</link>
       <pubDate>Tue, 10 Mar 2026 13:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating multi-vector attacks in Log Explorer</title>
+      <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
+      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat actors use custom AuraInspector to harvest data from Salesforce systems</title>
@@ -276,36 +306,6 @@
       <title>Hackers may have breached FBI wiretap network via supply chain</title>
       <link>https://www.malwarebytes.com/blog/data-breaches/2026/03/hackers-may-have-breached-fbi-wiretap-network-via-supply-chain</link>
       <pubDate>Tue, 10 Mar 2026 10:38:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>BeatBanker: A dual‑mode Android Trojan</title>
-      <link>https://securelist.com/beatbanker-miner-and-banker/119121/</link>
-      <pubDate>Tue, 10 Mar 2026 10:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auditing the Gatekeepers: Fuzzing "AI Judges" to Bypass Security Controls</title>
-      <link>https://unit42.paloaltonetworks.com/fuzzing-ai-judges-security-bypass/</link>
-      <pubDate>Tue, 10 Mar 2026 10:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Public Sector Case for Repatriating IAM in the Age of AI</title>
-      <link>https://www.security.com/product-insights/repatriating-iam-part-3</link>
-      <pubDate>Tue, 10 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShinyHunters Targets Hundreds of Websites in New Salesforce Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/shinyhunters-hundreds-websites/</link>
-      <pubDate>Tue, 10 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Ivanti EPM, SolarWinds, and Omnissa Workspace One flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/189172/security/u-s-cisa-adds-ivanti-epm-solarwinds-and-omnissa-workspace-one-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Tue, 10 Mar 2026 09:52:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jailbreaking the F-35 Fighter Jet</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html</link>
-      <pubDate>Tue, 10 Mar 2026 09:50:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
