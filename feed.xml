@@ -6,11 +6,31 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 20:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 22:24:03 +0000</lastBuildDate>
+    <item>
+      <title>Patch Alert: Microsoft Fixes Nearly 80 Bugs, Including Critical Office Flaws</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-march-patch-tuesday-78-vulnerabilities/</link>
+      <pubDate>Wed, 11 Mar 2026 21:19:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contagious Interview: Malware delivered through fake developer job interviews</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/</link>
+      <pubDate>Wed, 11 Mar 2026 21:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Agents of Chaos’: New Study Shows AI Agents Can Leak Data, Be Easily Manipulated</title>
+      <link>https://www.techrepublic.com/article/news-ai-agents-security-risks-governance/</link>
+      <pubDate>Wed, 11 Mar 2026 20:59:53 +0000</pubDate>
+    </item>
     <item>
       <title>DirectX, OpenFOAM, Libbiosig vulnerabilities</title>
       <link>https://blog.talosintelligence.com/directx-openfoam-libbiosig-vulnerabilities/</link>
       <pubDate>Wed, 11 Mar 2026 20:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro-Palestinian hacktivist group Handala targets Stryker in global disruption</title>
+      <link>https://securityaffairs.com/189304/hacktivism/pro-palestinian-hacktivist-group-handala-targets-stryker-in-global-disruption.html</link>
+      <pubDate>Wed, 11 Mar 2026 19:51:23 +0000</pubDate>
     </item>
     <item>
       <title>BeatBanker malware targets Android users with banking Trojan and crypto miner</title>
@@ -286,26 +306,6 @@
       <title>Cloud Attackers Now Prefer Vulnerability Exploits Over Credentials, Google Cloud Finds</title>
       <link>https://www.infosecurity-magazine.com/news/cloud-attackers-prefer-exploits/</link>
       <pubDate>Tue, 10 Mar 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT28 conducts long-term espionage on Ukrainian forces using custom malware</title>
-      <link>https://securityaffairs.com/189230/apt/apt28-conducts-long-term-espionage-on-ukrainian-forces-using-custom-malware.html</link>
-      <pubDate>Tue, 10 Mar 2026 15:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Claude Code Spreads Malware to Windows, macOS Users</title>
-      <link>https://www.techrepublic.com/article/news-fake-claude-code-install-pages-malware-windows-macos/</link>
-      <pubDate>Tue, 10 Mar 2026 15:02:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ericsson Breach Exposes Data of 15k Employees and Customers</title>
-      <link>https://www.infosecurity-magazine.com/news/ericsson-breach-exposes-data-15k/</link>
-      <pubDate>Tue, 10 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries</title>
-      <link>https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html</link>
-      <pubDate>Tue, 10 Mar 2026 13:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
