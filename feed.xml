@@ -6,7 +6,52 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 08:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 10:35:58 +0000</lastBuildDate>
+    <item>
+      <title>Cyber-Attacks on UK Firms Increase at Four Times Global Rate</title>
+      <link>https://www.infosecurity-magazine.com/news/cyberattacks-uk-firms-increase/</link>
+      <pubDate>Wed, 11 Mar 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic AI security: Why you need to know about autonomous agents now</title>
+      <link>https://blog.talosintelligence.com/agentic-ai-security-why-you-need-to-know-about-autonomous-agents-now/</link>
+      <pubDate>Wed, 11 Mar 2026 10:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spinning complex ideas into clear docs with Kri Dontje</title>
+      <link>https://blog.talosintelligence.com/spinning-complex-ideas-into-clear-docs-with-kri-dontje/</link>
+      <pubDate>Wed, 11 Mar 2026 10:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Real Talk About RSAC 2026 Conference</title>
+      <link>https://www.security.com/feature-stories/real-talk-rsac-2026</link>
+      <pubDate>Wed, 11 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyzing "Zombie Zip" Files (CVE-2026-0866), (Wed, Mar 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/32786</link>
+      <pubDate>Wed, 11 Mar 2026 09:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission-ready threat intelligence: Aligning with doctrine through Defense TIP</title>
+      <link>https://blog.eclecticiq.com/defense-tip</link>
+      <pubDate>Wed, 11 Mar 2026 09:29:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Fixes Two Publicly Disclosed Zero-Days</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-fixes-two-publicly/</link>
+      <pubDate>Wed, 11 Mar 2026 09:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days</title>
+      <link>https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html</link>
+      <pubDate>Wed, 11 Mar 2026 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KadNap bot compromises 14,000+ devices to route malicious traffic</title>
+      <link>https://securityaffairs.com/189251/malware/kadnap-bot-compromises-14000-devices-to-route-malicious-traffic.html</link>
+      <pubDate>Wed, 11 Mar 2026 09:03:38 +0000</pubDate>
+    </item>
     <item>
       <title>UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours</title>
       <link>https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html</link>
@@ -143,11 +188,6 @@
       <pubDate>Tue, 10 Mar 2026 13:00:32 +0000</pubDate>
     </item>
     <item>
-      <title>Investigating multi-vector attacks in Log Explorer</title>
-      <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
-      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Threat actors use custom AuraInspector to harvest data from Salesforce systems</title>
       <link>https://securityaffairs.com/189214/security/threat-actors-use-custom-aurainspector-to-harvest-data-from-salesforce-systems.html</link>
       <pubDate>Tue, 10 Mar 2026 12:29:52 +0000</pubDate>
@@ -266,46 +306,6 @@
       <title>ISC Stormcast For Tuesday, March 10th, 2026 https://isc.sans.edu/podcastdetail/9842, (Tue, Mar 10th)</title>
       <link>https://isc.sans.edu/diary/rss/32780</link>
       <pubDate>Tue, 10 Mar 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 494</title>
-      <link>https://www.troyhunt.com/weekly-update-494/</link>
-      <pubDate>Tue, 10 Mar 2026 01:29:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI alert: scammers target zoning permit applicants</title>
-      <link>https://securityaffairs.com/189165/cyber-crime/fbi-alert-scammers-target-zoning-permit-applicants.html</link>
-      <pubDate>Mon, 09 Mar 2026 20:55:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veeam’s ‘Agent Commander’: Bringing Guardrails and Resilience to the Wild West of AI</title>
-      <link>https://www.techrepublic.com/article/news-veeam-agent-commander-ai-resilience/</link>
-      <pubDate>Mon, 09 Mar 2026 18:35:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials</title>
-      <link>https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html</link>
-      <pubDate>Mon, 09 Mar 2026 18:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actor Exploits Flaws and Uses Elastic Cloud SIEM to Manage Stolen Data</title>
-      <link>https://www.infosecurity-magazine.com/news/elastic-cloud-siem-manage-stolen/</link>
-      <pubDate>Mon, 09 Mar 2026 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Encrypted Client Hello: Ready for Prime Time?, (Mon, Mar 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32778</link>
-      <pubDate>Mon, 09 Mar 2026 15:03:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Administration Unveils New Cyber Strategy for America</title>
-      <link>https://www.infosecurity-magazine.com/news/usa-unveils-new-cyber-strategy/</link>
-      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-linked hackers target Signal, WhatsApp of officials globally</title>
-      <link>https://securityaffairs.com/189156/intelligence/russia-linked-hackers-target-signal-whatsapp-of-officials-globally.html</link>
-      <pubDate>Mon, 09 Mar 2026 14:54:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
