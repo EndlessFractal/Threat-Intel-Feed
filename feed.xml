@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 06:49:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 08:37:22 +0000</lastBuildDate>
+    <item>
+      <title>UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours</title>
+      <link>https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html</link>
+      <pubDate>Wed, 11 Mar 2026 07:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets</title>
       <link>https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html</link>
@@ -138,6 +143,11 @@
       <pubDate>Tue, 10 Mar 2026 13:00:32 +0000</pubDate>
     </item>
     <item>
+      <title>Investigating multi-vector attacks in Log Explorer</title>
+      <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
+      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Threat actors use custom AuraInspector to harvest data from Salesforce systems</title>
       <link>https://securityaffairs.com/189214/security/threat-actors-use-custom-aurainspector-to-harvest-data-from-salesforce-systems.html</link>
       <pubDate>Tue, 10 Mar 2026 12:29:52 +0000</pubDate>
@@ -238,6 +248,11 @@
       <pubDate>Tue, 10 Mar 2026 06:17:00 +0000</pubDate>
     </item>
     <item>
+      <title>March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched</title>
+      <link>https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/</link>
+      <pubDate>Tue, 10 Mar 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>UK plans to shift fraud fight onto telecoms, tech companies</title>
       <link>https://therecord.media/uk-plans-to-shift-fraud-fight-to-telecoms-tech</link>
       <pubDate>Tue, 10 Mar 2026 04:00:00 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Russia-linked hackers target Signal, WhatsApp of officials globally</title>
       <link>https://securityaffairs.com/189156/intelligence/russia-linked-hackers-target-signal-whatsapp-of-officials-globally.html</link>
       <pubDate>Mon, 09 Mar 2026 14:54:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device</title>
-      <link>https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html</link>
-      <pubDate>Mon, 09 Mar 2026 14:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Launches New Crackdown Unit to Tackle Cyber-Fraud at the Source</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-new-crackdown-unit-cyber-fraud/</link>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Active defense: introducing a stateful vulnerability scanner for APIs</title>
-      <link>https://blog.cloudflare.com/vulnerability-scanner/</link>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
