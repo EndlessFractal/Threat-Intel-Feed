@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 16:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 18:40:11 +0000</lastBuildDate>
+    <item>
+      <title>New York cyber regulations for water organizations to take effect in 2027</title>
+      <link>https://therecord.media/new-york-water-cyber-regulations</link>
+      <pubDate>Fri, 13 Mar 2026 18:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware</title>
+      <link>https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html</link>
+      <pubDate>Fri, 13 Mar 2026 17:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Authenticator Flaw on Android, iOS Could Leak Login Codes for Millions</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-authenticator-vulnerability-android-ios-login-codes/</link>
+      <pubDate>Fri, 13 Mar 2026 17:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026</title>
+      <link>https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html</link>
+      <pubDate>Fri, 13 Mar 2026 17:09:00 +0000</pubDate>
+    </item>
     <item>
       <title>European Council includes ban on nudification tools in its proposal for amending AI Act</title>
       <link>https://therecord.media/european-council-includes-nudification-ban-ai-act</link>
@@ -63,6 +83,11 @@
       <pubDate>Fri, 13 Mar 2026 12:58:37 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AI-assisted Slopoly malware powers Hive0163’s ransomware campaigns</title>
       <link>https://securityaffairs.com/189378/malware/ai-assisted-slopoly-malware-powers-hive0163s-ransomware-campaigns.html</link>
       <pubDate>Fri, 13 Mar 2026 11:36:29 +0000</pubDate>
@@ -88,7 +113,7 @@
       <pubDate>Fri, 13 Mar 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Fake Temu Coin airdrop uses ClickFix trick to install stealthy malware</title>
+      <title>Attackers impersonate Temu in ClickFix $Temu airdrop scam</title>
       <link>https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-temu-coin-airdrop-uses-clickfix-trick-to-install-stealthy-malware</link>
       <pubDate>Fri, 13 Mar 2026 09:30:43 +0000</pubDate>
     </item>
@@ -126,6 +151,11 @@
       <title>ISC Stormcast For Friday, March 13th, 2026 https://isc.sans.edu/podcastdetail/9848, (Fri, Mar 13th)</title>
       <link>https://isc.sans.edu/diary/rss/32792</link>
       <pubDate>Fri, 13 Mar 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Initial access techniques used by Iran-based threat actors</title>
+      <link>https://www.sophos.com/en-us/blog/initial-access-techniques-used-by-iran-based-threat-actors</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Insights: Increased Risk of Wiper Attacks</title>
@@ -181,11 +211,6 @@
       <title>Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/</link>
       <pubDate>Thu, 12 Mar 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK regulators demand social media platforms make it harder for kids under 13 to access sites</title>
-      <link>https://therecord.media/uk-regulators-demand-social-media-platforms-restrict-kids-access</link>
-      <pubDate>Thu, 12 Mar 2026 16:40:00 +0000</pubDate>
     </item>
     <item>
       <title>From transparency to action: What the latest Microsoft email security benchmark reveals</title>
@@ -263,13 +288,13 @@
       <pubDate>Thu, 12 Mar 2026 12:04:42 +0000</pubDate>
     </item>
     <item>
-      <title>Inductive Automation Ignition Software</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06</link>
+      <title>Siemens Heliox EV Chargers</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-05</link>
       <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens Heliox EV Chargers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-05</link>
+      <title>Inductive Automation Ignition Software</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06</link>
       <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>Siemens SIMATIC</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-04</link>
       <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM APE1808 Devices</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-02</link>
-      <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIDIS Prime</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-03</link>
-      <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload</title>
-      <link>https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html</link>
-      <pubDate>Thu, 12 Mar 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police Scotland Fined After Sharing Victim’s Phone Data</title>
-      <link>https://www.infosecurity-magazine.com/news/police-scotland-fined-sharing/</link>
-      <pubDate>Thu, 12 Mar 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Authenticator could leak login codes—update your app now</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/03/microsoft-authenticator-could-leak-login-codes-update-your-app-now</link>
-      <pubDate>Thu, 12 Mar 2026 10:24:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
