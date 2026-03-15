@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Mar 2026 18:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:26:26 +0000</lastBuildDate>
     <item>
       <title>Starbucks data breach impacts 889 employees</title>
       <link>https://securityaffairs.com/189438/security/starbucks-data-breach-impacts-889-employees.html</link>
@@ -218,6 +218,11 @@
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>March Patch Tuesday visits 15 product families</title>
+      <link>https://www.sophos.com/en-us/blog/march-patch-tuesday-visits-15-product-families</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Insights: Increased Risk of Wiper Attacks</title>
       <link>https://unit42.paloaltonetworks.com/handala-hack-wiper-attacks/</link>
       <pubDate>Thu, 12 Mar 2026 22:10:00 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Meta Rolls Out New Scam Alerts Across Facebook, WhatsApp, and Messenger</title>
       <link>https://www.techrepublic.com/article/news-meta-ai-scam-detection-facebook-messenger-whatsapp/</link>
       <pubDate>Thu, 12 Mar 2026 14:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detecting and analyzing prompt abuse in AI tools</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/03/12/detecting-analyzing-prompt-abuse-in-ai-tools/</link>
-      <pubDate>Thu, 12 Mar 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
