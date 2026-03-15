@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 05:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 06:53:02 +0000</lastBuildDate>
     <item>
       <title>Starbucks data breach impacts 889 employees</title>
       <link>https://securityaffairs.com/189438/security/starbucks-data-breach-impacts-889-employees.html</link>
@@ -63,11 +63,6 @@
       <pubDate>Fri, 13 Mar 2026 19:06:16 +0000</pubDate>
     </item>
     <item>
-      <title>New York cyber regulations for water organizations to take effect in 2027</title>
-      <link>https://therecord.media/new-york-water-cyber-regulations</link>
-      <pubDate>Fri, 13 Mar 2026 18:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware</title>
       <link>https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html</link>
       <pubDate>Fri, 13 Mar 2026 17:33:00 +0000</pubDate>
@@ -83,11 +78,6 @@
       <pubDate>Fri, 13 Mar 2026 17:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>European Council includes ban on nudification tools in its proposal for amending AI Act</title>
-      <link>https://therecord.media/european-council-includes-nudification-ban-ai-act</link>
-      <pubDate>Fri, 13 Mar 2026 16:32:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Interpol's 'Operation Synergia III' Nets 94 Arrests in Major Cybercrime Sweep</title>
       <link>https://www.infosecurity-magazine.com/news/interpol-operation-synergia3-94/</link>
       <pubDate>Fri, 13 Mar 2026 16:15:00 +0000</pubDate>
@@ -96,11 +86,6 @@
       <title>Watch out for fake Malwarebytes renewal notices in your calendar</title>
       <link>https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-malwarebytes-renewal-notices-in-your-calendar</link>
       <pubDate>Fri, 13 Mar 2026 15:48:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware incident responder gave info to BlackCat cybercriminals during negotiations, DOJ alleges</title>
-      <link>https://therecord.media/ransomware-blackcat-doj-incident-responder</link>
-      <pubDate>Fri, 13 Mar 2026 15:45:00 +0000</pubDate>
     </item>
     <item>
       <title>INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime</title>
@@ -233,19 +218,9 @@
       <pubDate>Thu, 12 Mar 2026 22:00:57 +0000</pubDate>
     </item>
     <item>
-      <title>US, Europol disrupt SocksEscort network that exploited thousands of residential routers</title>
-      <link>https://therecord.media/us-europol-disrupt-socksescort-network</link>
-      <pubDate>Thu, 12 Mar 2026 21:19:00 +0000</pubDate>
-    </item>
-    <item>
       <title>iPhones and iPads Approved for NATO Classified Data</title>
       <link>https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html</link>
       <pubDate>Thu, 12 Mar 2026 19:59:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exclusive: New data shows increase in FBI searches of Americans’ data last year</title>
-      <link>https://therecord.media/new-data-shows-increase-fbi-searches-on-americans</link>
-      <pubDate>Thu, 12 Mar 2026 19:56:00 +0000</pubDate>
     </item>
     <item>
       <title>Security Flaw in WordPress Plugin Puts 400,000 Websites at Risk</title>
@@ -306,6 +281,31 @@
       <title>Meta Rolls Out New Scam Alerts Across Facebook, WhatsApp, and Messenger</title>
       <link>https://www.techrepublic.com/article/news-meta-ai-scam-detection-facebook-messenger-whatsapp/</link>
       <pubDate>Thu, 12 Mar 2026 14:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting and analyzing prompt abuse in AI tools</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/03/12/detecting-analyzing-prompt-abuse-in-ai-tools/</link>
+      <pubDate>Thu, 12 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-21262: SQL Server Zero-Day Fixed in Microsoft’s March Patch Tuesday Release</title>
+      <link>https://socprime.com/blog/cve-2026-21262-vulnerability/</link>
+      <pubDate>Thu, 12 Mar 2026 13:46:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs</title>
+      <link>https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html</link>
+      <pubDate>Thu, 12 Mar 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack &amp; More</title>
+      <link>https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html</link>
+      <pubDate>Thu, 12 Mar 2026 13:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Android vulnerability can break your lock screen in under 60 seconds</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/03/this-android-vulnerability-can-break-your-lock-screen-in-under-60-seconds</link>
+      <pubDate>Thu, 12 Mar 2026 13:13:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
