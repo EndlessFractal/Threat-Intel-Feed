@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 14:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 16:58:56 +0000</lastBuildDate>
+    <item>
+      <title>Cyberattack disrupts parking payments in Russian city</title>
+      <link>https://therecord.media/cyberattack-russia-parking-system</link>
+      <pubDate>Mon, 16 Mar 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zombie ZIP method can fool antivirus during the first scan</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/03/zombie-zip-method-can-fool-antivirus-during-the-first-scan</link>
+      <pubDate>Mon, 16 Mar 2026 16:09:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI launches inquiry into Steam games spreading malware</title>
+      <link>https://securityaffairs.com/189515/cyber-crime/fbi-launches-inquiry-into-steam-games-spreading-malware.html</link>
+      <pubDate>Mon, 16 Mar 2026 15:16:09 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Warn of Global Surge in Fake Shipment Tracking Scams</title>
       <link>https://www.infosecurity-magazine.com/news/global-surge-fake-shipment/</link>
@@ -21,6 +36,11 @@
       <title>Delete doesn’t mean gone. Here’s how File Shredder fixes that</title>
       <link>https://www.malwarebytes.com/blog/inside-malwarebytes/2026/03/delete-doesnt-mean-gone-heres-how-file-shredder-fixes-that</link>
       <pubDate>Mon, 16 Mar 2026 14:22:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents &amp; More</title>
+      <link>https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html</link>
+      <pubDate>Mon, 16 Mar 2026 14:17:00 +0000</pubDate>
     </item>
     <item>
       <title>CrackArmor Flaws Expose Linux Systems to Privilege Escalation</title>
@@ -113,6 +133,11 @@
       <pubDate>Mon, 16 Mar 2026 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>2025 Identity Threat Landscape Report: Inside the Infostealer Economy: Credential Threats in 2025</title>
+      <link>https://www.recordedfuture.com/blog/identity-trend-report-march-blog</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Payload Ransomware claims the hack of Royal Bahrain Hospital</title>
       <link>https://securityaffairs.com/189467/cyber-crime/payload-ransomware-claims-the-hack-of-royal-bahrain-hospital.html</link>
       <pubDate>Sun, 15 Mar 2026 14:55:46 +0000</pubDate>
@@ -166,11 +191,6 @@
       <title>SmartApeSG campaign uses ClickFix page to push Remcos RAT, (Sat, Mar 14th)</title>
       <link>https://isc.sans.edu/diary/rss/32796</link>
       <pubDate>Sat, 14 Mar 2026 01:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Google Chrome flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/189411/security/u-s-cisa-adds-google-chrome-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Fri, 13 Mar 2026 22:05:39 +0000</pubDate>
     </item>
     <item>
       <title>Friday Squid Blogging: Increased Squid Population in the Falklands</title>
@@ -286,26 +306,6 @@
       <title>Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation</title>
       <link>https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html</link>
       <pubDate>Fri, 13 Mar 2026 08:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A React-based phishing page with credential exfiltration via EmailJS, (Fri, Mar 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/32794</link>
-      <pubDate>Fri, 13 Mar 2026 07:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries</title>
-      <link>https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html</link>
-      <pubDate>Fri, 13 Mar 2026 05:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veeam Patches 7 Critical Backup &amp; Replication Flaws Allowing Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html</link>
-      <pubDate>Fri, 13 Mar 2026 04:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, March 13th, 2026 https://isc.sans.edu/podcastdetail/9848, (Fri, Mar 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/32792</link>
-      <pubDate>Fri, 13 Mar 2026 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
