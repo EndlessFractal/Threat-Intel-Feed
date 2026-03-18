@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 20:32:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 22:29:05 +0000</lastBuildDate>
+    <item>
+      <title>U.S. CISA adds Microsoft SharePoint and Zimbra  flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/189628/security/u-s-cisa-adds-microsoft-sharepoint-and-zimbra-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 18 Mar 2026 21:11:38 +0000</pubDate>
+    </item>
     <item>
       <title>Russia-linked hackers use advanced iPhone exploit to target Ukrainians</title>
       <link>https://therecord.media/russia-linked-hackers-use-iphone-exploit-ukraine</link>
@@ -99,12 +104,17 @@
     </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <link>https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0</link>
+      <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization</link>
       <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0</link>
+      <link>https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -273,11 +283,6 @@
       <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens SICAM SIAPP SDK</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04</link>
-      <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Schneider Electric EcoStruxure Data Center Expert</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-03</link>
       <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
@@ -293,19 +298,14 @@
       <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Siemens SICAM SIAPP SDK</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04</link>
+      <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>IPv4 Mapped IPv6 Addresses, (Tue, Mar 17th)</title>
       <link>https://isc.sans.edu/diary/rss/32804</link>
       <pubDate>Tue, 17 Mar 2026 11:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>How searching for a VPN could mean handing over your work login details</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/03/how-searching-for-a-vpn-could-mean-handing-over-your-work-login-details</link>
-      <pubDate>Tue, 17 Mar 2026 11:36:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds</title>
-      <link>https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html</link>
-      <pubDate>Tue, 17 Mar 2026 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
