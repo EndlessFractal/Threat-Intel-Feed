@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 16:56:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 18:55:20 +0000</lastBuildDate>
+    <item>
+      <title>DHS nominee Mullin pressed on restoring CISA staffing</title>
+      <link>https://therecord.media/dhs-mullin-pressed-on-restoring-cisa-staffing</link>
+      <pubDate>Wed, 18 Mar 2026 18:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US intelligence chief grilled on absence of election threats in security assessment</title>
+      <link>https://therecord.media/us-intel-chief-senate-election-security-threat-assessment</link>
+      <pubDate>Wed, 18 Mar 2026 18:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs</title>
+      <link>https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html</link>
+      <pubDate>Wed, 18 Mar 2026 17:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers found font-rendering trick to hide malicious commands</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/03/researchers-found-font-rendering-trick-to-hide-malicious-commands</link>
+      <pubDate>Wed, 18 Mar 2026 17:16:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bank software vendor Marquis says more than 670,000 impacted by August breach</title>
+      <link>https://therecord.media/marquis-bank-vendor-data-breach</link>
+      <pubDate>Wed, 18 Mar 2026 16:51:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apple Rolls Out Real-Time Security Fixes Across iPhone, iPad, and Mac</title>
       <link>https://www.techrepublic.com/article/news-apple-background-security-improvements-webkit-fix/</link>
@@ -15,6 +40,11 @@
     <item>
       <title>Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access</title>
       <link>https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html</link>
+      <pubDate>Wed, 18 Mar 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observability for AI Systems: Strengthening visibility for proactive risk detection</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/</link>
       <pubDate>Wed, 18 Mar 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -66,6 +96,11 @@
       <title>Moscow seeks to limit internet to state-approved websites amid ongoing outages</title>
       <link>https://therecord.media/moscow-seeks-to-limit-internet-to-state-approved-sites</link>
       <pubDate>Wed, 18 Mar 2026 12:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Security and Magecart: Getting the Threat Model Right</title>
@@ -163,19 +198,9 @@
       <pubDate>Wed, 18 Mar 2026 05:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Crypto e-commerce platform Bitrefill accuses North Korea of stealing 18,500 purchase records</title>
-      <link>https://therecord.media/crypto-platform-accuses-north-korea-hack</link>
-      <pubDate>Wed, 18 Mar 2026 01:54:00 +0000</pubDate>
-    </item>
-    <item>
       <title>EU sanctions Chinese and Iranian actors over cyberattacks on critical infrastructure</title>
       <link>https://securityaffairs.com/189585/security/eu-sanctions-chinese-and-iranian-actors-over-cyberattacks-on-critical-infrastructure.html</link>
       <pubDate>Tue, 17 Mar 2026 22:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medusa ransomware gang claims attacks on prominent Mississippi hospital, New Jersey county</title>
-      <link>https://therecord.media/medusa-ransomware-mississippi-cyber</link>
-      <pubDate>Tue, 17 Mar 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover New Phishing Risk Hidden Inside Microsoft Copilot</title>
@@ -186,11 +211,6 @@
       <title>OpenClaw, the Fastest-Adopted Software Ever, Is Also a Security Blind Spot</title>
       <link>https://www.techrepublic.com/article/news-openclaw-shadow-ai-agents-enterprise-security-risks/</link>
       <pubDate>Tue, 17 Mar 2026 18:46:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Georgia man charged for robbing NBA, NFL players through stolen Apple account details</title>
-      <link>https://therecord.media/phishing-nba-nfl-scammer-arrested</link>
-      <pubDate>Tue, 17 Mar 2026 17:15:00 +0000</pubDate>
     </item>
     <item>
       <title>AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE</title>
@@ -248,8 +268,8 @@
       <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CODESYS in Festo Automation Suite</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-01</link>
+      <title>Schneider Electric EcoStruxure Data Center Expert</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-03</link>
       <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -258,13 +278,13 @@
       <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Schneider Electric EcoStruxure Data Center Expert</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-03</link>
+      <title>Siemens SICAM SIAPP SDK</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04</link>
       <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens SICAM SIAPP SDK</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04</link>
+      <title>CODESYS in Festo Automation Suite</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-01</link>
       <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,26 +306,6 @@
       <title>Average Number of Daily API Attacks Up 113% Annually</title>
       <link>https://www.infosecurity-magazine.com/news/average-number-daily-api-attacks/</link>
       <pubDate>Tue, 17 Mar 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Cyber Monitoring Centre Sets Its Sights on US Expansion One Year After Launch</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-cyber-monitoring-centre-us/</link>
-      <pubDate>Tue, 17 Mar 2026 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korean Police Accidentally Post Cryptocurrency Wallet Password</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html</link>
-      <pubDate>Tue, 17 Mar 2026 10:01:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models</title>
-      <link>https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/</link>
-      <pubDate>Tue, 17 Mar 2026 10:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Identity Takes Control, Telecom Needs Repatriated IAM Capable of Keeping Up</title>
-      <link>https://www.security.com/product-insights/repatriating-iam-part-4</link>
-      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
