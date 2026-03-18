@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 06:58:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 08:43:44 +0000</lastBuildDate>
+    <item>
+      <title>Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS</title>
+      <link>https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html</link>
+      <pubDate>Wed, 18 Mar 2026 06:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23</title>
       <link>https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html</link>
@@ -301,11 +306,6 @@
       <title>CrackArmor Flaws Expose Linux Systems to Privilege Escalation</title>
       <link>https://www.infosecurity-magazine.com/news/crackarmor-linux-privilege/</link>
       <pubDate>Mon, 16 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>/proxy/ URL scans with IP addresses, (Mon, Mar 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/32800</link>
-      <pubDate>Mon, 16 Mar 2026 13:48:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
