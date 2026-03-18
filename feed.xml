@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 04:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 06:58:13 +0000</lastBuildDate>
+    <item>
+      <title>Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23</title>
+      <link>https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html</link>
+      <pubDate>Wed, 18 Mar 2026 05:06:00 +0000</pubDate>
+    </item>
     <item>
       <title>Crypto e-commerce platform Bitrefill accuses North Korea of stealing 18,500 purchase records</title>
       <link>https://therecord.media/crypto-platform-accuses-north-korea-hack</link>
@@ -301,11 +306,6 @@
       <title>/proxy/ URL scans with IP addresses, (Mon, Mar 16th)</title>
       <link>https://isc.sans.edu/diary/rss/32800</link>
       <pubDate>Mon, 16 Mar 2026 13:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>875 Million Android Phones Face Risk Due to Hidden Chip Flaw</title>
-      <link>https://www.techrepublic.com/article/news-android-chip-flaw-875m/</link>
-      <pubDate>Mon, 16 Mar 2026 13:10:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
