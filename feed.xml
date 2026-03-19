@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 20:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 22:25:07 +0000</lastBuildDate>
+    <item>
+      <title>Critical Ubiquiti UniFi UniFi security flaw allows potential account hijacking</title>
+      <link>https://securityaffairs.com/189689/security/critical-ubiquiti-unifi-unifi-security-flaw-allows-potential-account-hijacking.html</link>
+      <pubDate>Thu, 19 Mar 2026 21:21:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers</title>
+      <link>https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html</link>
+      <pubDate>Thu, 19 Mar 2026 19:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>New tools and guidance: Announcing Zero Trust for AI</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/</link>
@@ -233,6 +243,11 @@
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Android devices ship with firmware-level malware</title>
+      <link>https://www.sophos.com/en-us/blog/android-devices-ship-with-firmware-level-malware</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Navigating Security Tradeoffs of AI Agents</title>
       <link>https://unit42.paloaltonetworks.com/navigating-security-tradeoffs-ai-agents/</link>
       <pubDate>Wed, 18 Mar 2026 23:00:28 +0000</pubDate>
@@ -291,21 +306,6 @@
       <title>Crypto Scam "ShieldGuard" Dismantled After Malware Discovery</title>
       <link>https://www.infosecurity-magazine.com/news/crypto-scam-shieldguard-dismantled/</link>
       <pubDate>Wed, 18 Mar 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scans for "adminer", (Wed, Mar 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/32808</link>
-      <pubDate>Wed, 18 Mar 2026 13:18:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf IDE Extension Drops Malware via Solana Blockchain</title>
-      <link>https://www.bitdefender.com/en-us/blog/labs/windsurf-extension-malware-solana</link>
-      <pubDate>Wed, 18 Mar 2026 13:03:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-20643: Vulnerability in WebKit Navigation API May Bypass Same Origin Policy</title>
-      <link>https://socprime.com/blog/cve-2026-20643-vulnerability/</link>
-      <pubDate>Wed, 18 Mar 2026 13:01:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
