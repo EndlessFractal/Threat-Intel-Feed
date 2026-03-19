@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 06:54:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 08:38:31 +0000</lastBuildDate>
     <item>
       <title>CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks</title>
       <link>https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html</link>
@@ -91,6 +91,11 @@
       <title>Researchers warn of unpatched, critical Telnetd flaw affecting all versions</title>
       <link>https://securityaffairs.com/189620/hacking/researchers-warn-of-unpatched-critical-telnetd-flaw-affecting-all-versions.html</link>
       <pubDate>Wed, 18 Mar 2026 15:06:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, March 2026</title>
+      <link>https://asec.ahnlab.com/en/92978/</link>
+      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>February 2026 APT Attack Trends Report (South Korea)</title>
@@ -301,11 +306,6 @@
       <title>90% of people don’t trust AI with their data</title>
       <link>https://www.malwarebytes.com/blog/privacy/2026/03/90-of-people-dont-trust-ai-with-their-data</link>
       <pubDate>Tue, 17 Mar 2026 12:26:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>CL-STA-1087 targets military capabilities since 2020</title>
-      <link>https://securityaffairs.com/189553/apt/cl-sta-1087-targets-military-capabilities-since-2020.html</link>
-      <pubDate>Tue, 17 Mar 2026 12:01:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
