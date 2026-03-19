@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 18:54:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:33:45 +0000</lastBuildDate>
+    <item>
+      <title>New tools and guidance: Announcing Zero Trust for AI</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/</link>
+      <pubDate>Thu, 19 Mar 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security</title>
+      <link>https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html</link>
+      <pubDate>Thu, 19 Mar 2026 18:52:00 +0000</pubDate>
+    </item>
     <item>
       <title>You have to invite them in</title>
       <link>https://blog.talosintelligence.com/you-have-to-invite-them-in/</link>
@@ -296,16 +306,6 @@
       <title>CVE-2026-20643: Vulnerability in WebKit Navigation API May Bypass Same Origin Policy</title>
       <link>https://socprime.com/blog/cve-2026-20643-vulnerability/</link>
       <pubDate>Wed, 18 Mar 2026 13:01:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Enabled Adversaries Compress Time-to-Exploit Following Vulnerability Disclosure</title>
-      <link>https://www.infosecurity-magazine.com/news/exploitation-accelerates-in-2025/</link>
-      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE</title>
-      <link>https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html</link>
-      <pubDate>Wed, 18 Mar 2026 12:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
