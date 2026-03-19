@@ -6,16 +6,16 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 04:27:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 06:54:37 +0000</lastBuildDate>
+    <item>
+      <title>CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks</title>
+      <link>https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html</link>
+      <pubDate>Thu, 19 Mar 2026 06:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, March 19th, 2026 https://isc.sans.edu/podcastdetail/9856, (Thu, Mar 19th)</title>
       <link>https://isc.sans.edu/diary/rss/32812</link>
       <pubDate>Thu, 19 Mar 2026 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>February 2026 APT Attack Trends Report (Domestic)</title>
-      <link>https://asec.ahnlab.com/en/92972/</link>
-      <pubDate>Thu, 19 Mar 2026 01:25:33 +0000</pubDate>
     </item>
     <item>
       <title>Interesting Message Stored in Cowrie Logs, (Wed, Mar 18th)</title>
@@ -91,6 +91,11 @@
       <title>Researchers warn of unpatched, critical Telnetd flaw affecting all versions</title>
       <link>https://securityaffairs.com/189620/hacking/researchers-warn-of-unpatched-critical-telnetd-flaw-affecting-all-versions.html</link>
       <pubDate>Wed, 18 Mar 2026 15:06:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2026 APT Attack Trends Report (South Korea)</title>
+      <link>https://asec.ahnlab.com/en/92972/</link>
+      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA official says agency has not seen uptick in cyber threats amid Iran war</title>
@@ -301,11 +306,6 @@
       <title>CL-STA-1087 targets military capabilities since 2020</title>
       <link>https://securityaffairs.com/189553/apt/cl-sta-1087-targets-military-capabilities-since-2020.html</link>
       <pubDate>Tue, 17 Mar 2026 12:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric EcoStruxure Data Center Expert</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-03</link>
-      <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
