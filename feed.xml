@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 04:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 06:51:00 +0000</lastBuildDate>
+    <item>
+      <title>DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks</title>
+      <link>https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html</link>
+      <pubDate>Fri, 20 Mar 2026 06:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks</title>
+      <link>https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html</link>
+      <pubDate>Fri, 20 Mar 2026 05:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack case against MS-SQL server installing ICE Cloud scanner (Larva-26002)</title>
+      <link>https://asec.ahnlab.com/en/92988/</link>
+      <pubDate>Fri, 20 Mar 2026 05:02:46 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Friday, March 20th, 2026 https://isc.sans.edu/podcastdetail/9858, (Fri, Mar 20th)</title>
       <link>https://isc.sans.edu/diary/rss/32814</link>
@@ -38,7 +53,7 @@
       <pubDate>Thu, 19 Mar 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security</title>
+      <title>54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security</title>
       <link>https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html</link>
       <pubDate>Thu, 19 Mar 2026 18:52:00 +0000</pubDate>
     </item>
@@ -238,6 +253,11 @@
       <pubDate>Thu, 19 Mar 2026 06:05:00 +0000</pubDate>
     </item>
     <item>
+      <title>Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails</title>
+      <link>https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/</link>
+      <pubDate>Thu, 19 Mar 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Thursday, March 19th, 2026 https://isc.sans.edu/podcastdetail/9856, (Thu, Mar 19th)</title>
       <link>https://isc.sans.edu/diary/rss/32812</link>
       <pubDate>Thu, 19 Mar 2026 02:00:03 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Apple Rolls Out Real-Time Security Fixes Across iPhone, iPad, and Mac</title>
       <link>https://www.techrepublic.com/article/news-apple-background-security-improvements-webkit-fix/</link>
       <pubDate>Wed, 18 Mar 2026 16:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access</title>
-      <link>https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html</link>
-      <pubDate>Wed, 18 Mar 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Observability for AI Systems: Strengthening visibility for proactive risk detection</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/</link>
-      <pubDate>Wed, 18 Mar 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Ubuntu Flaw Enables Local Attackers to Gain Root Access</title>
-      <link>https://www.infosecurity-magazine.com/news/ubuntu-flaw-enables-root-access/</link>
-      <pubDate>Wed, 18 Mar 2026 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers warn of unpatched, critical Telnetd flaw affecting all versions</title>
-      <link>https://securityaffairs.com/189620/hacking/researchers-warn-of-unpatched-critical-telnetd-flaw-affecting-all-versions.html</link>
-      <pubDate>Wed, 18 Mar 2026 15:06:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
