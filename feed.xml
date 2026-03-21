@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 10:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 12:41:12 +0000</lastBuildDate>
+    <item>
+      <title>Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager</title>
+      <link>https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html</link>
+      <pubDate>Sat, 21 Mar 2026 10:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PolyShell flaw exposes Magento and Adobe Commerce to file upload attacks</title>
+      <link>https://securityaffairs.com/189744/security/polyshell-flaw-exposes-magento-and-adobe-commerce-to-file-upload-attacks.html</link>
+      <pubDate>Sat, 21 Mar 2026 10:09:50 +0000</pubDate>
+    </item>
     <item>
       <title>CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026</title>
       <link>https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html</link>
@@ -296,16 +306,6 @@
       <title>New Apple Hack: Up to 270M iPhones Vulnerable to ‘DarkSword’ Exploit</title>
       <link>https://www.techrepublic.com/article/news-darksword-iphone-exploit-ios-vulnerability/</link>
       <pubDate>Thu, 19 Mar 2026 13:29:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data</title>
-      <link>https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html</link>
-      <pubDate>Thu, 19 Mar 2026 12:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A DarkSword hangs over unpatched iPhones</title>
-      <link>https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones</link>
-      <pubDate>Thu, 19 Mar 2026 12:27:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
