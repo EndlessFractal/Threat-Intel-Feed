@@ -18,13 +18,11 @@ Just import the following link into your favorite RSS reader!
 The script retrieves feeds from the following sources:
 
 - [AhnLab ASEC Feed](https://asec.ahnlab.com/en/feed)
-- [AT&T Cybersecurity Blog](https://cybersecurity.att.com/site/blog-all-rss)
 - [Bitdefender Labs Blog](https://bitdefender.com/blog/api/rss/labs)
 - [Broadcom SED Blog](https://sed-cms.broadcom.com/rss/v1/blogs/rss.xml)
 - [CISA Cybersecurity Alerts](https://cisa.gov/cybersecurity-advisories/all.xml)
 - [Cloudflare Security Blog](https://blog.cloudflare.com/tag/security/rss)
 - [CrowdStrike Blog](https://crowdstrike.com/blog/feed)
-- [Darknet Blog](https://www.darknet.org.uk/feed)
 - [EclecticIQ Blog](https://blog.eclecticiq.com/rss.xml)
 - [Fortinet Threat Research Blog](https://feeds.fortinet.com/fortinet/blog/threat-research)
 - [Google Project Zero Blog](https://googleprojectzero.blogspot.com/feeds/posts/default)
