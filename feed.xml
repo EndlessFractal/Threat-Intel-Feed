@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 01:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 04:02:47 +0000</lastBuildDate>
     <item>
       <title>Who’s Really Shopping? Retail Fraud in the Age of Agentic AI</title>
       <link>https://unit42.paloaltonetworks.com/retail-fraud-agentic-ai/</link>
@@ -173,11 +173,6 @@
       <pubDate>Fri, 20 Mar 2026 09:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>GSocket Backdoor Delivered Through Bash Script, (Fri, Mar 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/32816</link>
-      <pubDate>Fri, 20 Mar 2026 08:40:15 +0000</pubDate>
-    </item>
-    <item>
       <title>DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks</title>
       <link>https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html</link>
       <pubDate>Fri, 20 Mar 2026 06:25:00 +0000</pubDate>
@@ -193,19 +188,9 @@
       <pubDate>Fri, 20 Mar 2026 05:02:46 +0000</pubDate>
     </item>
     <item>
-      <title>From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise</title>
-      <link>https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/</link>
-      <pubDate>Fri, 20 Mar 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown</title>
       <link>https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/</link>
       <pubDate>Fri, 20 Mar 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, March 20th, 2026 https://isc.sans.edu/podcastdetail/9858, (Fri, Mar 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/32814</link>
-      <pubDate>Fri, 20 Mar 2026 02:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
@@ -305,6 +290,21 @@
     <item>
       <title>Schneider Electric EcoStruxure PME and EPO</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-04</link>
+      <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated Logic WebCTRL Premium Server</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-08</link>
+      <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric Modicon M241, M251, and M262</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-01</link>
+      <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CTEK Chargeportal</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-06</link>
       <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
