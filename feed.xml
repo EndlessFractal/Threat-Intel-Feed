@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 20:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 22:28:57 +0000</lastBuildDate>
+    <item>
+      <title>Google Authenticator: The Hidden Mechanisms of Passwordless Authentication</title>
+      <link>https://unit42.paloaltonetworks.com/passwordless-authentication/</link>
+      <pubDate>Mon, 23 Mar 2026 22:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>QNAP fixed four vulnerabilities demonstrated at Pwn2Own Ireland 2025</title>
+      <link>https://securityaffairs.com/189871/security/qnap-fixed-four-vulnerabilities-demonstrated-at-pwn2own-ireland-2025.html</link>
+      <pubDate>Mon, 23 Mar 2026 20:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tool updates: lots of security and logic fixes, (Mon, Mar 23rd)</title>
+      <link>https://isc.sans.edu/diary/rss/32820</link>
+      <pubDate>Mon, 23 Mar 2026 20:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI warns of Russian, Iranian cyber activity involving messaging platforms</title>
+      <link>https://therecord.media/russia-iran-cyber-fbi-hacks</link>
+      <pubDate>Mon, 23 Mar 2026 20:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Navia Data Breach Hits 2.7 Million People, Exposing Sensitive Personal Data</title>
       <link>https://www.techrepublic.com/article/news-navia-benefits-data-breach-2-7-million-exposed/</link>
@@ -18,6 +38,11 @@
       <pubDate>Mon, 23 Mar 2026 19:04:47 +0000</pubDate>
     </item>
     <item>
+      <title>Education company Kaplan reports data breach impacting more than 230,000</title>
+      <link>https://therecord.media/kaplan-data-breach-hack-notification</link>
+      <pubDate>Mon, 23 Mar 2026 18:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware</title>
       <link>https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html</link>
       <pubDate>Mon, 23 Mar 2026 18:09:00 +0000</pubDate>
@@ -26,6 +51,11 @@
       <title>Most Cybersecurity Staff Don’t Know How Fast They Could Stop a Cyber-Attack on AI Systems</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-staff-unsure-on-preventing/</link>
       <pubDate>Mon, 23 Mar 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US sentences Nigerian national to 7 years in $6 million email fraud scheme</title>
+      <link>https://therecord.media/us-sentences-nigerian-national-to-7-years-fraud</link>
+      <pubDate>Mon, 23 Mar 2026 16:24:00 +0000</pubDate>
     </item>
     <item>
       <title>Tycoon2FA Phishing Service Resumes Activity Post-Takedown</title>
@@ -53,6 +83,11 @@
       <pubDate>Mon, 23 Mar 2026 15:35:00 +0000</pubDate>
     </item>
     <item>
+      <title>California-based semiconductor testing company reports ransomware attack to SEC</title>
+      <link>https://therecord.media/ransomware-trio-tech-semiconductor-sec</link>
+      <pubDate>Mon, 23 Mar 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The March Madness scam playbook</title>
       <link>https://www.malwarebytes.com/blog/news/2026/03/the-march-madness-scam-playbook</link>
       <pubDate>Mon, 23 Mar 2026 15:19:40 +0000</pubDate>
@@ -71,6 +106,11 @@
       <title>44 Aqua Security repositories defaced after Trivy supply chain breach</title>
       <link>https://securityaffairs.com/189856/uncategorized/44-aqua-security-repositories-defaced-after-trivy-supply-chain-breach.html</link>
       <pubDate>Mon, 23 Mar 2026 14:24:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-linked malware operation collapses after security failures, developer’s arrest</title>
+      <link>https://therecord.media/russia-malware-arrest-clayrat</link>
+      <pubDate>Mon, 23 Mar 2026 14:15:00 +0000</pubDate>
     </item>
     <item>
       <title>Windows 11 Patch Triggers Sign-In Failures Across Microsoft Apps</title>
@@ -228,11 +268,6 @@
       <pubDate>Sun, 22 Mar 2026 00:48:41 +0000</pubDate>
     </item>
     <item>
-      <title>WorldLeaks ransomware group breached the City of Los Angels</title>
-      <link>https://securityaffairs.com/189753/data-breach/worldleaks-group-breached-the-city-of-los-angels.html</link>
-      <pubDate>Sat, 21 Mar 2026 17:34:26 +0000</pubDate>
-    </item>
-    <item>
       <title>FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks</title>
       <link>https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html</link>
       <pubDate>Sat, 21 Mar 2026 13:17:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Fake ‘Trusted Sender’ Labels Misused in New Apple Mail Phishing Scheme</title>
       <link>https://www.techrepublic.com/article/news-apple-mail-trusted-sender-phishing-scam/</link>
       <pubDate>Fri, 20 Mar 2026 17:29:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/03/20/cti-realm-a-new-benchmark-for-end-to-end-detection-rule-generation-with-ai-agents/</link>
-      <pubDate>Fri, 20 Mar 2026 16:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure agentic AI end-to-end</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/03/20/secure-agentic-ai-end-to-end/</link>
-      <pubDate>Fri, 20 Mar 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Denver’s crosswalks hacked to broadcast anti-Trump messages</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/denvers-crosswalks-hacked-broadcast-anti-trump-messages</link>
-      <pubDate>Fri, 20 Mar 2026 15:24:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure</title>
-      <link>https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html</link>
-      <pubDate>Fri, 20 Mar 2026 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Factories, Security Flaws, and Workforce Shifts Define This Week in Tech</title>
-      <link>https://www.techrepublic.com/article/ai-factories-security-flaws-and-workforce-shifts-define-this-week-in-tech/</link>
-      <pubDate>Fri, 20 Mar 2026 14:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Could your face change what you pay? NYC wants limits on biometric tracking</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/03/could-your-face-change-what-you-pay-nyc-wants-limits-on-biometric-tracking</link>
-      <pubDate>Fri, 20 Mar 2026 13:39:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 12</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-12-7/</link>
-      <pubDate>Fri, 20 Mar 2026 13:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
