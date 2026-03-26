@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 13:07:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:00:55 +0000</lastBuildDate>
+    <item>
+      <title>EtherRAT Techniques Bypass Security Via Ethereum Smart Contracts</title>
+      <link>https://www.infosecurity-magazine.com/news/etherrat-bypass-security-ethereum/</link>
+      <pubDate>Thu, 26 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Becomes the Top Cybersecurity Priority for Defenders as Criminals Exploit It, PwC Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-top-cyber-priority-defenders-pwc/</link>
+      <pubDate>Thu, 26 Mar 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks</title>
+      <link>https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html</link>
+      <pubDate>Thu, 26 Mar 2026 13:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website</title>
+      <link>https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html</link>
+      <pubDate>Thu, 26 Mar 2026 13:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GlassWorm attack installs fake browser extension for surveillance</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/03/glassworm-attack-installs-fake-browser-extension-for-surveillance</link>
+      <pubDate>Thu, 26 Mar 2026 13:00:39 +0000</pubDate>
+    </item>
     <item>
       <title>The Next Identity Shift</title>
       <link>https://www.security.com/expert-perspectives/next-identity-shift</link>
@@ -38,6 +63,16 @@
       <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception</title>
+      <link>https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html</link>
+      <pubDate>Thu, 26 Mar 2026 11:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits &amp; 20 More Stories</title>
+      <link>https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html</link>
+      <pubDate>Thu, 26 Mar 2026 11:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Researchers uncover WebRTC skimmer bypassing traditional defenses</title>
       <link>https://securityaffairs.com/190002/malware/researchers-uncover-webrtc-skimmer-bypassing-traditional-defenses.html</link>
       <pubDate>Thu, 26 Mar 2026 11:30:40 +0000</pubDate>
@@ -50,11 +85,6 @@
     <item>
       <title>Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks</title>
       <link>https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html</link>
-      <pubDate>Thu, 26 Mar 2026 11:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks</title>
-      <link>https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html</link>
       <pubDate>Thu, 26 Mar 2026 11:07:00 +0000</pubDate>
     </item>
     <item>
@@ -218,6 +248,11 @@
       <pubDate>Wed, 25 Mar 2026 12:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>TeamPCP Expands Supply Chain Campaign With LiteLLM PyPI Compromise</title>
+      <link>https://www.infosecurity-magazine.com/news/teampcp-litellm-pypi-supply-chain/</link>
+      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cyber Legends: Behinds the Scenes of CBX</title>
       <link>https://www.security.com/expert-perspectives/cyber-legends-bts-cbx</link>
       <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
@@ -225,11 +260,6 @@
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TeamPCP Expands Supply Chain Campaign With LiteLLM PyPI Compromise</title>
-      <link>https://www.infosecurity-magazine.com/news/teampcp-litellm-pypi-supply-chain/</link>
       <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -276,36 +306,6 @@
       <title>How one man used 10,000 bots to steal $8,000,000 from music artists</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/10k-bots-steal-8-million-from-music-artists</link>
       <pubDate>Wed, 25 Mar 2026 10:22:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercrime group Lapsus$ claims the hack of pharma giant AstraZeneca</title>
-      <link>https://securityaffairs.com/189936/data-breach/cybercrime-group-lapsus-claims-the-hack-of-pharma-giant-astrazeneca.html</link>
-      <pubDate>Wed, 25 Mar 2026 10:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet Khaled Mohamed: the bug hunter who found a Microsoft flaw</title>
-      <link>https://www.malwarebytes.com/blog/bugs/2026/03/meet-khaled-mohamed-the-bug-hunter-who-found-a-microsoft-flaw</link>
-      <pubDate>Wed, 25 Mar 2026 09:57:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Henhouse Nets Over 500 Arrests in UK Fraud Crackdown</title>
-      <link>https://www.infosecurity-magazine.com/news/police-fraud-crackdown-leads-to/</link>
-      <pubDate>Wed, 25 Mar 2026 09:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious LiteLLM versions linked to TeamPCP supply chain attack</title>
-      <link>https://securityaffairs.com/189948/hacking/malicious-litellm-versions-linked-to-teampcp-supply-chain-attack.html</link>
-      <pubDate>Wed, 25 Mar 2026 08:50:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns</title>
-      <link>https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html</link>
-      <pubDate>Wed, 25 Mar 2026 07:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>4 Best Free VPNs in 2026</title>
-      <link>https://www.techrepublic.com/article/best-free-vpns/</link>
-      <pubDate>Wed, 25 Mar 2026 05:01:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
