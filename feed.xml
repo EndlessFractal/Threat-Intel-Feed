@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 18:56:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 20:41:46 +0000</lastBuildDate>
     <item>
       <title>DShield (Cowrie) Honeypot Stats and When Sessions Disconnect, (Mon, Mar 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32840</link>
@@ -21,6 +21,11 @@
       <title>China-Linked groups target Southeast Asian government with advanced malware in 2025</title>
       <link>https://securityaffairs.com/190174/apt/china-linked-groups-target-southeast-asian-government-with-advanced-malware-in-2025.html</link>
       <pubDate>Mon, 30 Mar 2026 18:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability</title>
+      <link>https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html</link>
+      <pubDate>Mon, 30 Mar 2026 18:05:00 +0000</pubDate>
     </item>
     <item>
       <title>Italian regulator fines financial giant $36 million for data protection failures</title>
@@ -73,6 +78,11 @@
       <pubDate>Mon, 30 Mar 2026 13:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>DeepSeek Outage Shakes AI Service Used by 355M Worldwide</title>
+      <link>https://www.techrepublic.com/article/news-deepseek-12-hour-outage-millions-users-cut-off/</link>
+      <pubDate>Mon, 30 Mar 2026 13:02:13 +0000</pubDate>
+    </item>
+    <item>
       <title>3 SOC Process Fixes That Unlock Tier 1 Productivity</title>
       <link>https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html</link>
       <pubDate>Mon, 30 Mar 2026 13:00:00 +0000</pubDate>
@@ -95,6 +105,11 @@
     <item>
       <title>DeepLoad Malware Combines ClickFix With AI-Generated Code to Avoid Detection</title>
       <link>https://www.infosecurity-magazine.com/news/deepload-malware-clickfix-ai-code/</link>
+      <pubDate>Mon, 30 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Mon, 30 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -151,6 +166,11 @@
       <title>ISC Stormcast For Monday, March 30th, 2026 https://isc.sans.edu/podcastdetail/9870, (Mon, Mar 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32844</link>
       <pubDate>Mon, 30 Mar 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incident responders, s'il vous plait: Invites lead to odd malware events</title>
+      <link>https://www.sophos.com/en-us/blog/incident-responders-s-il-vous-plait</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Urgent Alert: NetScaler bug CVE-2026-3055 probed by attackers could leak sensitive data</title>
@@ -283,29 +303,9 @@
       <pubDate>Fri, 27 Mar 2026 12:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>UK Cracks Down on Chinese Crypto Marketplace for Funding Southeast Asia Scam Hubs</title>
       <link>https://www.infosecurity-magazine.com/news/uk-sanction-chinese-crypto/</link>
       <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Almost half a million Lloyds customers had personal data exposed in IT glitch</title>
-      <link>https://www.theguardian.com/business/2026/mar/27/almost-half-a-million-lloyds-customers-had-personal-data-exposed-in-it-glitch</link>
-      <pubDate>Fri, 27 Mar 2026 11:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>We Are At War</title>
-      <link>https://thehackernews.com/2026/03/we-are-at-war.html</link>
-      <pubDate>Fri, 27 Mar 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bogus Avast website fakes virus scan, installs Venom Stealer instead</title>
-      <link>https://www.malwarebytes.com/blog/threat-intel/2026/03/bogus-avast-website-fakes-virus-scan-installs-venom-stealer-instead</link>
-      <pubDate>Fri, 27 Mar 2026 10:49:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
