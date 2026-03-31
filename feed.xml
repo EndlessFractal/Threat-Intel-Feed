@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 14:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 16:54:02 +0000</lastBuildDate>
+    <item>
+      <title>TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks</title>
+      <link>https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html</link>
+      <pubDate>Tue, 31 Mar 2026 16:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Applying security fundamentals to AI: Practical advice for CISOs</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/03/31/applying-security-fundamentals-to-ai-practical-advice-for-cisos/</link>
+      <pubDate>Tue, 31 Mar 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Axios supply chain attack chops away at npm trust</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/03/axios-supply-chain-attack-chops-away-at-npm-trust</link>
+      <pubDate>Tue, 31 Mar 2026 14:53:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>New criminal service plans to monetize data stolen by ransomware gangs</title>
+      <link>https://therecord.media/new-criminal-service-plans-to-monetize-ransomware-data</link>
+      <pubDate>Tue, 31 Mar 2026 14:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Modern Threat Landscape and The Partner’s New Burden</title>
       <link>https://www.security.com/expert-perspectives/resilient-channel-series-part-1</link>
@@ -28,6 +48,11 @@
       <pubDate>Tue, 31 Mar 2026 13:09:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA tells federal agencies to patch Citrix NetScaler bug by Thursday</title>
+      <link>https://therecord.media/cisa-tells-federal-agencies-to-patch-citrix-netscaler-bug</link>
+      <pubDate>Tue, 31 Mar 2026 13:04:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ChatGPT Security Issue Enabled Data Theft via Single Prompt</title>
       <link>https://www.infosecurity-magazine.com/news/chatgpt-security-issue-steal-data/</link>
       <pubDate>Tue, 31 Mar 2026 13:01:00 +0000</pubDate>
@@ -36,6 +61,16 @@
       <title>TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets</title>
       <link>https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/</link>
       <pubDate>Tue, 31 Mar 2026 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PX4 Autopilot</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02</link>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anritsu Remote Spectrum Monitor</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01</link>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority</title>
@@ -128,6 +163,11 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Pro-Russian hackers pose as Ukraine's cyber agency to target government, businesses</title>
+      <link>https://therecord.media/pro-russian-hackers-posing-as-ukrainian-cyber-agency</link>
+      <pubDate>Mon, 30 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>DShield (Cowrie) Honeypot Stats and When Sessions Disconnect, (Mon, Mar 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32840</link>
       <pubDate>Mon, 30 Mar 2026 18:53:05 +0000</pubDate>
@@ -146,6 +186,11 @@
       <title>OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability</title>
       <link>https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html</link>
       <pubDate>Mon, 30 Mar 2026 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italian regulator fines financial giant $36 million for data protection failures</title>
+      <link>https://therecord.media/italian-regulator-fines-financial-giant-36-million</link>
+      <pubDate>Mon, 30 Mar 2026 17:46:00 +0000</pubDate>
     </item>
     <item>
       <title>Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</title>
@@ -181,6 +226,11 @@
       <title>Lloyds IT Glitch Exposed Data of Nearly 500,000 Banking Customers</title>
       <link>https://www.infosecurity-magazine.com/news/lloyds-glitch-exposed-500000/</link>
       <pubDate>Mon, 30 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>European Commission downplays ShinyHunters cyberattack impact</title>
+      <link>https://therecord.media/european-commission-downplays-shinyhunters-cyber-claim</link>
+      <pubDate>Mon, 30 Mar 2026 13:57:00 +0000</pubDate>
     </item>
     <item>
       <title>⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More</title>
@@ -256,56 +306,6 @@
       <title>A week in security (March 23 – March 29)</title>
       <link>https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-23-march-29</link>
       <pubDate>Mon, 30 Mar 2026 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign</title>
-      <link>https://thehackernews.com/2026/03/three-china-linked-clusters-target.html</link>
-      <pubDate>Mon, 30 Mar 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare Client-Side Security: smarter detection, now open to everyone</title>
-      <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
-      <pubDate>Mon, 30 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, March 30th, 2026 https://isc.sans.edu/podcastdetail/9870, (Mon, Mar 30th)</title>
-      <link>https://isc.sans.edu/diary/rss/32844</link>
-      <pubDate>Mon, 30 Mar 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where AI in the SOC is actually delivering — and where it isn’t</title>
-      <link>https://www.sophos.com/en-us/blog/where-ai-in-the-soc-is-actually-delivering</link>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incident responders, s'il vous plait: Invites lead to odd malware events</title>
-      <link>https://www.sophos.com/en-us/blog/incident-responders-s-il-vous-plait</link>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Urgent Alert: NetScaler bug CVE-2026-3055 probed by attackers could leak sensitive data</title>
-      <link>https://securityaffairs.com/190131/hacking/urgent-alert-netscaler-bug-cve-2026-3055-probed-by-attackers-could-leak-sensitive-data.html</link>
-      <pubDate>Sun, 29 Mar 2026 13:33:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>RSAC 2026 Highlights: From Agentic AI to Active Defense</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/rsac-2026-highlights-from-agentic-ai-to-active-defense</link>
-      <pubDate>Sun, 29 Mar 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack</title>
-      <link>https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</link>
-      <pubDate>Sat, 28 Mar 2026 15:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TeamPCP Supply Chain Campaign: Update 003 - Operational Tempo Shift as Campaign Enters Monetization Phase With No New Compromises in 48 Hours, (Sat, Mar 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/32842</link>
-      <pubDate>Sat, 28 Mar 2026 15:09:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug</title>
-      <link>https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</link>
-      <pubDate>Sat, 28 Mar 2026 09:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
