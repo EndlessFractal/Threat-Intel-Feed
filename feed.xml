@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 13:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 14:59:00 +0000</lastBuildDate>
     <item>
-      <title>CISA tells federal agencies to patch Citrix NetScaler bug by Thursday</title>
-      <link>https://therecord.media/cisa-tells-federal-agencies-to-patch-citrix-netscaler-bug</link>
-      <pubDate>Tue, 31 Mar 2026 13:04:00 +0000</pubDate>
+      <title>The Modern Threat Landscape and The Partner’s New Burden</title>
+      <link>https://www.security.com/expert-perspectives/resilient-channel-series-part-1</link>
+      <pubDate>Tue, 31 Mar 2026 14:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nearly half a Million mobile customers of Lloyds Banking Group affected by security incident</title>
+      <link>https://securityaffairs.com/190213/data-breach/nearly-half-a-million-mobile-customers-of-lloyds-banking-group-affected-by-a-security-incident.html</link>
+      <pubDate>Tue, 31 Mar 2026 13:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp malware campaign delivers VBS payloads and MSI backdoors</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/03/31/whatsapp-malware-campaign-delivers-vbs-payloads-msi-backdoors/</link>
+      <pubDate>Tue, 31 Mar 2026 13:43:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts</title>
+      <link>https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html</link>
+      <pubDate>Tue, 31 Mar 2026 13:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Security Issue Enabled Data Theft via Single Prompt</title>
+      <link>https://www.infosecurity-magazine.com/news/chatgpt-security-issue-steal-data/</link>
+      <pubDate>Tue, 31 Mar 2026 13:01:00 +0000</pubDate>
     </item>
     <item>
       <title>TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets</title>
       <link>https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/</link>
       <pubDate>Tue, 31 Mar 2026 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority</title>
+      <link>https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</link>
+      <pubDate>Tue, 31 Mar 2026 11:50:00 +0000</pubDate>
     </item>
     <item>
       <title>Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains</title>
@@ -26,11 +51,6 @@
       <title>Dutch Ministry of Finance takes treasury systems offline amid cyber incident investigation</title>
       <link>https://securityaffairs.com/190204/hacking/dutch-ministry-of-finance-takes-treasury-systems-offline-amid-cyber-incident-investigation.html</link>
       <pubDate>Tue, 31 Mar 2026 11:34:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority</title>
-      <link>https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</link>
-      <pubDate>Tue, 31 Mar 2026 11:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Inventors of Quantum Cryptography Win Turing Award</title>
@@ -128,11 +148,6 @@
       <pubDate>Mon, 30 Mar 2026 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>Italian regulator fines financial giant $36 million for data protection failures</title>
-      <link>https://therecord.media/italian-regulator-fines-financial-giant-36-million</link>
-      <pubDate>Mon, 30 Mar 2026 17:46:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/</link>
       <pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate>
@@ -168,19 +183,9 @@
       <pubDate>Mon, 30 Mar 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>European Commission downplays ShinyHunters cyberattack impact</title>
-      <link>https://therecord.media/european-commission-downplays-shinyhunters-cyber-claim</link>
-      <pubDate>Mon, 30 Mar 2026 13:57:00 +0000</pubDate>
-    </item>
-    <item>
       <title>⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More</title>
       <link>https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html</link>
       <pubDate>Mon, 30 Mar 2026 13:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian court sentences notorious card fraud ringleader ‘Flint’ and 25 associates</title>
-      <link>https://therecord.media/russia-flint-conviction-payment-fraud</link>
-      <pubDate>Mon, 30 Mar 2026 13:15:00 +0000</pubDate>
     </item>
     <item>
       <title>DeepSeek Outage Shakes AI Service Used by 355M Worldwide</title>
@@ -191,11 +196,6 @@
       <title>3 SOC Process Fixes That Unlock Tier 1 Productivity</title>
       <link>https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html</link>
       <pubDate>Mon, 30 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Healthcare software firm CareCloud informs SEC of potential patient data leak</title>
-      <link>https://therecord.media/carecloud-hack-data-breach-sec</link>
-      <pubDate>Mon, 30 Mar 2026 12:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels</title>
@@ -263,6 +263,11 @@
       <pubDate>Mon, 30 Mar 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cloudflare Client-Side Security: smarter detection, now open to everyone</title>
+      <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Monday, March 30th, 2026 https://isc.sans.edu/podcastdetail/9870, (Mon, Mar 30th)</title>
       <link>https://isc.sans.edu/diary/rss/32844</link>
       <pubDate>Mon, 30 Mar 2026 02:00:02 +0000</pubDate>
@@ -281,11 +286,6 @@
       <title>Urgent Alert: NetScaler bug CVE-2026-3055 probed by attackers could leak sensitive data</title>
       <link>https://securityaffairs.com/190131/hacking/urgent-alert-netscaler-bug-cve-2026-3055-probed-by-attackers-could-leak-sensitive-data.html</link>
       <pubDate>Sun, 29 Mar 2026 13:33:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 90</title>
-      <link>https://securityaffairs.com/190123/malware/security-affairs-malware-newsletter-round-90.html</link>
-      <pubDate>Sun, 29 Mar 2026 11:58:56 +0000</pubDate>
     </item>
     <item>
       <title>RSAC 2026 Highlights: From Agentic AI to Active Defense</title>
