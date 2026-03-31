@@ -6,7 +6,42 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 10:50:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:11:06 +0000</lastBuildDate>
+    <item>
+      <title>CISA tells federal agencies to patch Citrix NetScaler bug by Thursday</title>
+      <link>https://therecord.media/cisa-tells-federal-agencies-to-patch-citrix-netscaler-bug</link>
+      <pubDate>Tue, 31 Mar 2026 13:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets</title>
+      <link>https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/</link>
+      <pubDate>Tue, 31 Mar 2026 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains</title>
+      <link>https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html</link>
+      <pubDate>Tue, 31 Mar 2026 11:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dutch Ministry of Finance takes treasury systems offline amid cyber incident investigation</title>
+      <link>https://securityaffairs.com/190204/hacking/dutch-ministry-of-finance-takes-treasury-systems-offline-amid-cyber-incident-investigation.html</link>
+      <pubDate>Tue, 31 Mar 2026 11:34:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority</title>
+      <link>https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</link>
+      <pubDate>Tue, 31 Mar 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inventors of Quantum Cryptography Win Turing Award</title>
+      <link>https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html</link>
+      <pubDate>Tue, 31 Mar 2026 11:05:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Employee Data Breaches Surge to Seven-Year High</title>
+      <link>https://www.infosecurity-magazine.com/news/employee-data-breaches-surge/</link>
+      <pubDate>Tue, 31 Mar 2026 10:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>Double Agents: Exposing Security Blind Spots in GCP Vertex AI</title>
       <link>https://unit42.paloaltonetworks.com/double-agents-vertex-ai/</link>
@@ -61,6 +96,16 @@
       <title>Weekly Update 497</title>
       <link>https://www.troyhunt.com/weekly-update-497/</link>
       <pubDate>Tue, 31 Mar 2026 00:41:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>The High Cost of Low Trust: Our Commitment to Radical Transparency</title>
+      <link>https://www.sophos.com/en-us/blog/the-high-cost-of-low-trust-our-commitment-to-radical-transparency</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Cybersecurity Trust Reality in 2026</title>
+      <link>https://www.sophos.com/en-us/blog/the-cybersecurity-trust-reality-in-2026</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DShield (Cowrie) Honeypot Stats and When Sessions Disconnect, (Mon, Mar 30th)</title>
@@ -158,11 +203,6 @@
       <pubDate>Mon, 30 Mar 2026 12:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>State Department reissues $10 million reward for info on Iranian hackers</title>
-      <link>https://therecord.media/iran-hackers-state-department-reward</link>
-      <pubDate>Mon, 30 Mar 2026 12:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>DeepLoad Malware Combines ClickFix With AI-Generated Code to Avoid Detection</title>
       <link>https://www.infosecurity-magazine.com/news/deepload-malware-clickfix-ai-code/</link>
       <pubDate>Mon, 30 Mar 2026 12:00:00 +0000</pubDate>
@@ -253,11 +293,6 @@
       <pubDate>Sun, 29 Mar 2026 09:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Security Affairs newsletter Round 569 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/190104/uncategorized/security-affairs-newsletter-round-569-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 29 Mar 2026 09:24:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack</title>
       <link>https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</link>
       <pubDate>Sat, 28 Mar 2026 15:40:00 +0000</pubDate>
@@ -271,41 +306,6 @@
       <title>Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug</title>
       <link>https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</link>
       <pubDate>Sat, 28 Mar 2026 09:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation</title>
-      <link>https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</link>
-      <pubDate>Sat, 28 Mar 2026 07:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign</title>
-      <link>https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</link>
-      <pubDate>Sat, 28 Mar 2026 07:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Bioluminescent Bacteria in Squid</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html</link>
-      <pubDate>Fri, 27 Mar 2026 20:18:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Microsoft Defender protects high-value assets in real-world attack scenarios</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/03/27/microsoft-defender-protects-high-value-assets/</link>
-      <pubDate>Fri, 27 Mar 2026 19:53:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits</title>
-      <link>https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html</link>
-      <pubDate>Fri, 27 Mar 2026 17:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Symantec CBX Rocked RSAC 2026 Conference</title>
-      <link>https://www.security.com/expert-perspectives/symantec-cbx-rsac-2026</link>
-      <pubDate>Fri, 27 Mar 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files</title>
-      <link>https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html</link>
-      <pubDate>Fri, 27 Mar 2026 16:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
