@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 02:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 05:42:39 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Tuesday, March 31st, 2026 https://isc.sans.edu/podcastdetail/9872, (Tue, Mar 31st)</title>
       <link>https://isc.sans.edu/diary/rss/32848</link>
@@ -188,6 +188,11 @@
       <pubDate>Mon, 30 Mar 2026 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Incident responders, s'il vous plait: Invites lead to odd malware events</title>
+      <link>https://www.sophos.com/en-us/blog/incident-responders-s-il-vous-plait</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Urgent Alert: NetScaler bug CVE-2026-3055 probed by attackers could leak sensitive data</title>
       <link>https://securityaffairs.com/190131/hacking/urgent-alert-netscaler-bug-cve-2026-3055-probed-by-attackers-could-leak-sensitive-data.html</link>
       <pubDate>Sun, 29 Mar 2026 13:33:57 +0000</pubDate>
@@ -301,11 +306,6 @@
       <title>Google Issues High-Risk Security Patch for 3.5 Billion Chrome Users: What You Need to Know</title>
       <link>https://www.techrepublic.com/article/news-chrome-update-8-vulnerabilities-3-5-billion-users/</link>
       <pubDate>Fri, 27 Mar 2026 13:13:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 13</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-13-7/</link>
-      <pubDate>Fri, 27 Mar 2026 13:00:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
