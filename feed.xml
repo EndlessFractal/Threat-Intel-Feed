@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 13:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 15:01:25 +0000</lastBuildDate>
+    <item>
+      <title>WhatsApp on Windows users targeted in new campaign, warns Microsoft</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/04/whatsapp-on-windows-users-targeted-in-new-campaign-warns-microsoft</link>
+      <pubDate>Wed, 01 Apr 2026 14:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass</title>
+      <link>https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html</link>
+      <pubDate>Wed, 01 Apr 2026 14:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Warns Quantum Computers Could Crack Crypto Sooner Than Expected</title>
+      <link>https://www.techrepublic.com/article/news-google-quantum-computing-crypto-security-risk/</link>
+      <pubDate>Wed, 01 Apr 2026 14:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google links Axios npm supply chain attack to North Korea-linked APT UNC1069</title>
+      <link>https://securityaffairs.com/190256/security/google-links-axios-npm-supply-chain-attack-to-north-korea-linked-apt-unc1069.html</link>
+      <pubDate>Wed, 01 Apr 2026 13:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Venom Stealer MaaS Platform Automates Continuous Data Theft</title>
+      <link>https://www.infosecurity-magazine.com/news/venom-stealer-maas-automates-data/</link>
+      <pubDate>Wed, 01 Apr 2026 13:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>TeamPCP Supply Chain Campaign: Update 005 - First Confirmed Victim Disclosure, Post-Compromise Cloud Enumeration Documented, and Axios Attribution Narrows, (Wed, Apr 1st)</title>
       <link>https://isc.sans.edu/diary/rss/32856</link>
@@ -23,9 +48,24 @@
       <pubDate>Wed, 01 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Gmail Finally Lets You Change Your Email Address Without Losing Anything</title>
+      <link>https://www.techrepublic.com/article/news-gmail-username-change-feature-us/</link>
+      <pubDate>Wed, 01 Apr 2026 12:53:01 +0000</pubDate>
+    </item>
+    <item>
       <title>UAC-0255 Attack Detection: Threat Actors Impersonate CERT-UA to Infect Ukrainian Public and Private Sector Organizations With AGEWHEEZE RAT</title>
       <link>https://socprime.com/blog/uac-0255-distributing-agewheeze-rat/</link>
       <pubDate>Wed, 01 Apr 2026 12:50:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Block the Prompt, Not the Work: The End of "Doctor No"</title>
+      <link>https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html</link>
+      <pubDate>Wed, 01 Apr 2026 12:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures</title>
+      <link>https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html</link>
+      <pubDate>Wed, 01 Apr 2026 12:36:00 +0000</pubDate>
     </item>
     <item>
       <title>Romania under daily barrage of cyberattacks, defense minister says</title>
@@ -36,6 +76,11 @@
       <title>Chinese Hackers Target European Governments in Espionage Campaigns</title>
       <link>https://www.infosecurity-magazine.com/news/china-hackers-ta416-europe/</link>
       <pubDate>Wed, 01 Apr 2026 12:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released</title>
+      <link>https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html</link>
+      <pubDate>Wed, 01 Apr 2026 11:42:00 +0000</pubDate>
     </item>
     <item>
       <title>3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)</title>
@@ -261,51 +306,6 @@
       <title>Inventors of Quantum Cryptography Win Turing Award</title>
       <link>https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html</link>
       <pubDate>Tue, 31 Mar 2026 11:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Employee Data Breaches Surge to Seven-Year High</title>
-      <link>https://www.infosecurity-magazine.com/news/employee-data-breaches-surge/</link>
-      <pubDate>Tue, 31 Mar 2026 10:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Double Agents: Exposing Security Blind Spots in GCP Vertex AI</title>
-      <link>https://unit42.paloaltonetworks.com/double-agents-vertex-ai/</link>
-      <pubDate>Tue, 31 Mar 2026 10:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware in 2025: Blending in is the strategy</title>
-      <link>https://blog.talosintelligence.com/ransomware-in-2025-blending-in-is-the-strategy/</link>
-      <pubDate>Tue, 31 Mar 2026 10:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds a flaw in Citrix NetScaler to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/190197/security/u-s-cisa-adds-a-flaw-in-citrix-netscaler-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Tue, 31 Mar 2026 09:31:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Urges Immediate Patching of F5 BIG-IP Bug</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-urges-immediate-patching-f5/</link>
-      <pubDate>Tue, 31 Mar 2026 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian hackers breach FBI director’s personal email, and post his CV and photos online</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-breach-fbi-directors-personal-email-post-cv-and-photos-online</link>
-      <pubDate>Tue, 31 Mar 2026 07:37:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Application Control Bypass for Data Exfiltration, (Tue, Mar 31st)</title>
-      <link>https://isc.sans.edu/diary/rss/32850</link>
-      <pubDate>Tue, 31 Mar 2026 07:31:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Ransomware allegedly breached chemical manufacturer giant Dow Inc</title>
-      <link>https://securityaffairs.com/190186/cyber-crime/qilin-ransomware-allegedly-breached-chemical-manufacturer-giant-dow-inc.html</link>
-      <pubDate>Tue, 31 Mar 2026 07:21:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account</title>
-      <link>https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html</link>
-      <pubDate>Tue, 31 Mar 2026 06:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
