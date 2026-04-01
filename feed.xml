@@ -6,11 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 09:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 10:51:52 +0000</lastBuildDate>
+    <item>
+      <title>Malicious Script That Gets Rid of ADS, (Wed, Apr 1st)</title>
+      <link>https://isc.sans.edu/diary/rss/32854</link>
+      <pubDate>Wed, 01 Apr 2026 10:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>A malicious LNK that spreads a Python-based backdoor and how it’s spreading (Kimsuky group)</title>
+      <link>https://asec.ahnlab.com/en/93151/</link>
+      <pubDate>Wed, 01 Apr 2026 10:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>The U.S. Navy’s Playbook for Cost-Controlled, Reliable Cybersecurity</title>
+      <link>https://www.security.com/feature-stories/us-navy-case-study</link>
+      <pubDate>Wed, 01 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Taxonomy of Cognitive Security</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html</link>
+      <pubDate>Wed, 01 Apr 2026 09:59:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eight in 10 UK Manufacturers Hit by Cyber Incident in a Year</title>
+      <link>https://www.infosecurity-magazine.com/news/eight-10-uk-manufacturers-hit/</link>
+      <pubDate>Wed, 01 Apr 2026 09:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Alleged RedLine malware developer extradited to United States</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/redline-malware-developer-extradited</link>
       <pubDate>Wed, 01 Apr 2026 09:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Hijack Axios npm Package to Spread RATs</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-hijack-axios-npm-package/</link>
+      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SentinelOne autonomous detection blocks trojaned LiteLLM triggered by Claude Code</title>
+      <link>https://securityaffairs.com/190248/security/sentinelone-autonomous-detection-blocks-trojaned-litellm-triggered-by-claude-code.html</link>
+      <pubDate>Wed, 01 Apr 2026 08:58:59 +0000</pubDate>
     </item>
     <item>
       <title>Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069</title>
@@ -271,41 +306,6 @@
       <title>Axios npm package compromised to deploy malware</title>
       <link>https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pro-Russian hackers pose as Ukraine's cyber agency to target government, businesses</title>
-      <link>https://therecord.media/pro-russian-hackers-posing-as-ukrainian-cyber-agency</link>
-      <pubDate>Mon, 30 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DShield (Cowrie) Honeypot Stats and When Sessions Disconnect, (Mon, Mar 30th)</title>
-      <link>https://isc.sans.edu/diary/rss/32840</link>
-      <pubDate>Mon, 30 Mar 2026 18:53:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API</title>
-      <link>https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/</link>
-      <pubDate>Mon, 30 Mar 2026 18:42:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked groups target Southeast Asian government with advanced malware in 2025</title>
-      <link>https://securityaffairs.com/190174/apt/china-linked-groups-target-southeast-asian-government-with-advanced-malware-in-2025.html</link>
-      <pubDate>Mon, 30 Mar 2026 18:05:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability</title>
-      <link>https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html</link>
-      <pubDate>Mon, 30 Mar 2026 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/</link>
-      <pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials</title>
-      <link>https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html</link>
-      <pubDate>Mon, 30 Mar 2026 15:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
