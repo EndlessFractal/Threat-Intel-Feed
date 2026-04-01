@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 18:57:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 20:40:17 +0000</lastBuildDate>
+    <item>
+      <title>Malicious Script That Gets Rid of ADS, (Wed, Apr 1st)</title>
+      <link>https://isc.sans.edu/diary/rss/32854</link>
+      <pubDate>Wed, 01 Apr 2026 20:09:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nissan says stolen data came from third-party vendor after hacking group claims breach</title>
+      <link>https://therecord.media/nissan-hackers-data-breach</link>
+      <pubDate>Wed, 01 Apr 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mercor confirms security incident tied to LiteLLM supply chain attack</title>
+      <link>https://therecord.media/mercor-confirms-security-incident-tied-to-litellm</link>
+      <pubDate>Wed, 01 Apr 2026 18:58:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Brief: Widespread Impact of the Axios Supply Chain Attack</title>
       <link>https://unit42.paloaltonetworks.com/axios-supply-chain-attack/</link>
@@ -108,14 +123,14 @@
       <pubDate>Wed, 01 Apr 2026 12:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>Romania under daily barrage of cyberattacks, defense minister says</title>
-      <link>https://therecord.media/romania-cyberattacks-russia-defense-minister</link>
-      <pubDate>Wed, 01 Apr 2026 12:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Chinese Hackers Target European Governments in Espionage Campaigns</title>
       <link>https://www.infosecurity-magazine.com/news/china-hackers-ta416-europe/</link>
       <pubDate>Wed, 01 Apr 2026 12:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released</title>
@@ -126,11 +141,6 @@
       <title>3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)</title>
       <link>https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html</link>
       <pubDate>Wed, 01 Apr 2026 10:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Script That Gets Rid of ADS, (Wed, Apr 1st)</title>
-      <link>https://isc.sans.edu/diary/rss/32854</link>
-      <pubDate>Wed, 01 Apr 2026 10:44:42 +0000</pubDate>
     </item>
     <item>
       <title>A malicious LNK that spreads a Python-based backdoor and how it’s spreading (Kimsuky group)</title>
@@ -211,11 +221,6 @@
       <title>Weaponizing the Protectors: TeamPCP’s Multi-Stage Supply Chain Attack on Security Infrastructure</title>
       <link>https://unit42.paloaltonetworks.com/teampcp-supply-chain-attacks/</link>
       <pubDate>Tue, 31 Mar 2026 21:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google links axios supply chain attack to North Korean group</title>
-      <link>https://therecord.media/google-links-axios-supply-chain-attack-north-korea</link>
-      <pubDate>Tue, 31 Mar 2026 20:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Asking AI for personal advice is a bad idea, Stanford study shows</title>
@@ -301,11 +306,6 @@
       <title>ChatGPT Security Issue Enabled Data Theft via Single Prompt</title>
       <link>https://www.infosecurity-magazine.com/news/chatgpt-security-issue-steal-data/</link>
       <pubDate>Tue, 31 Mar 2026 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets</title>
-      <link>https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/</link>
-      <pubDate>Tue, 31 Mar 2026 12:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
