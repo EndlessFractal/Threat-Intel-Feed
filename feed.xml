@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 14:52:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 16:53:48 +0000</lastBuildDate>
+    <item>
+      <title>Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise</title>
+      <link>https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html</link>
+      <pubDate>Thu, 02 Apr 2026 15:21:00 +0000</pubDate>
+    </item>
     <item>
       <title>Attempts to Exploit Exposed "Vite" Installs (CVE-2025-30208), (Thu, Apr 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/32860</link>
@@ -15,6 +20,11 @@
     <item>
       <title>NCSC Issues Security Alert Over Hackers Targeting WhatsApp and Signal Accounts</title>
       <link>https://www.infosecurity-magazine.com/news/ncsc-alert-hackers-whatsapp-signal/</link>
+      <pubDate>Thu, 02 Apr 2026 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New 'Storm' Infostealer Remotely Decrypts Stolen Credentials</title>
+      <link>https://www.infosecurity-magazine.com/news/storm-infostealer-remotely/</link>
       <pubDate>Thu, 02 Apr 2026 14:15:00 +0000</pubDate>
     </item>
     <item>
@@ -66,6 +76,21 @@
       <title>ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion &amp; 10 More Stories</title>
       <link>https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html</link>
       <pubDate>Thu, 02 Apr 2026 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SICAM 8 Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01</link>
+      <pubDate>Thu, 02 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Ellipse</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03</link>
+      <pubDate>Thu, 02 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yokogawa CENTUM VP</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02</link>
+      <pubDate>Thu, 02 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners</title>
@@ -281,31 +306,6 @@
       <title>Block the Prompt, Not the Work: The End of "Doctor No"</title>
       <link>https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html</link>
       <pubDate>Wed, 01 Apr 2026 12:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures</title>
-      <link>https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html</link>
-      <pubDate>Wed, 01 Apr 2026 12:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Target European Governments in Espionage Campaigns</title>
-      <link>https://www.infosecurity-magazine.com/news/china-hackers-ta416-europe/</link>
-      <pubDate>Wed, 01 Apr 2026 12:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released</title>
-      <link>https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html</link>
-      <pubDate>Wed, 01 Apr 2026 11:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)</title>
-      <link>https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html</link>
-      <pubDate>Wed, 01 Apr 2026 10:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
