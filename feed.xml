@@ -6,11 +6,66 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 13:05:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 14:52:39 +0000</lastBuildDate>
+    <item>
+      <title>Attempts to Exploit Exposed "Vite" Installs (CVE-2025-30208), (Thu, Apr 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/32860</link>
+      <pubDate>Thu, 02 Apr 2026 14:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Issues Security Alert Over Hackers Targeting WhatsApp and Signal Accounts</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-alert-hackers-whatsapp-signal/</link>
+      <pubDate>Thu, 02 Apr 2026 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple expands “DarkSword” patches to iOS 18.7.7</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7</link>
+      <pubDate>Thu, 02 Apr 2026 14:13:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat actor UAC-0255 impersonate CERT-UA to spread AGEWHEEZE malware via phishing</title>
+      <link>https://securityaffairs.com/190287/hacking/threat-actor-uac-0255-impersonate-cert-ua-to-spread-agewheeze-malware-via-phishing.html</link>
+      <pubDate>Thu, 02 Apr 2026 14:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Expands iOS 18 Security Updates Amid DarkSword Threat</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-ios-18-updates-darksword/</link>
+      <pubDate>Thu, 02 Apr 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Video] The TTP Ep 21: When Attackers Become Trusted Users</title>
+      <link>https://blog.talosintelligence.com/video-the-ttp-ep-21-when-attackers-become-trusted-users/</link>
+      <pubDate>Thu, 02 Apr 2026 13:06:45 +0000</pubDate>
+    </item>
     <item>
       <title>The Identity Paradox: The Hidden Risks in Your Valid Credentials</title>
       <link>https://www.sentinelone.com/blog/the-identity-paradox-the-hidden-risks-in-your-valid-credentials/</link>
       <pubDate>Thu, 02 Apr 2026 13:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Used as Covert Channel in Multi-Stage Malware Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/github-covert-multi-stage-malware/</link>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Observe Sub-One-Hour Ransomware Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-subonehour-ransomware/</link>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malwarebytes Privacy VPN receives full third-party audit</title>
+      <link>https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit</link>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DPRK-Related Campaigns with LNK and GitHub C2</title>
+      <link>https://feeds.fortinet.com/~/953053052/0/fortinet/blog/threat-research~DPRKRelated-Campaigns-with-LNK-and-GitHub-C</link>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion &amp; 10 More Stories</title>
+      <link>https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html</link>
+      <pubDate>Thu, 02 Apr 2026 12:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners</title>
@@ -71,6 +126,16 @@
       <title>ISC Stormcast For Thursday, April 2nd, 2026 https://isc.sans.edu/podcastdetail/9876, (Thu, Apr 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/32858</link>
       <pubDate>Thu, 02 Apr 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Latin America and the Caribbean Cybercrime Landscape</title>
+      <link>https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon GuardDuty enhances detection efficacy with Sophos threat intelligence</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-amazon-guardduty</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WhatsApp warns users of fake app used to distribute spyware</title>
@@ -241,71 +306,6 @@
       <title>3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)</title>
       <link>https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html</link>
       <pubDate>Wed, 01 Apr 2026 10:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A malicious LNK that spreads a Python-based backdoor and how it’s spreading (Kimsuky group)</title>
-      <link>https://asec.ahnlab.com/en/93151/</link>
-      <pubDate>Wed, 01 Apr 2026 10:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The U.S. Navy’s Playbook for Cost-Controlled, Reliable Cybersecurity</title>
-      <link>https://www.security.com/feature-stories/us-navy-case-study</link>
-      <pubDate>Wed, 01 Apr 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Taxonomy of Cognitive Security</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html</link>
-      <pubDate>Wed, 01 Apr 2026 09:59:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eight in 10 UK Manufacturers Hit by Cyber Incident in a Year</title>
-      <link>https://www.infosecurity-magazine.com/news/eight-10-uk-manufacturers-hit/</link>
-      <pubDate>Wed, 01 Apr 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alleged RedLine malware developer extradited to United States</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/redline-malware-developer-extradited</link>
-      <pubDate>Wed, 01 Apr 2026 09:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Hijack Axios npm Package to Spread RATs</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-hijack-axios-npm-package/</link>
-      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SentinelOne autonomous detection blocks trojaned LiteLLM triggered by Claude Code</title>
-      <link>https://securityaffairs.com/190248/security/sentinelone-autonomous-detection-blocks-trojaned-litellm-triggered-by-claude-code.html</link>
-      <pubDate>Wed, 01 Apr 2026 08:58:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069</title>
-      <link>https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html</link>
-      <pubDate>Wed, 01 Apr 2026 07:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free VPNs leak your data while claiming privacy</title>
-      <link>https://securityaffairs.com/190239/security/free-vpns-leak-your-data-while-claiming-privacy.html</link>
-      <pubDate>Wed, 01 Apr 2026 07:38:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms</title>
-      <link>https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html</link>
-      <pubDate>Wed, 01 Apr 2026 06:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A laughing RAT: CrystalX combines spyware, stealer, and prankware features</title>
-      <link>https://securelist.com/crystalx-rat-with-prankware-features/119283/</link>
-      <pubDate>Wed, 01 Apr 2026 06:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management</title>
-      <link>https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/</link>
-      <pubDate>Wed, 01 Apr 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>STARDUST CHOLLIMA Likely Compromises Axios npm Package</title>
-      <link>https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/</link>
-      <pubDate>Wed, 01 Apr 2026 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
