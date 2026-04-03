@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 02:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 05:40:44 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Friday, April 3rd, 2026 https://isc.sans.edu/podcastdetail/9878, (Fri, Apr 3rd)</title>
       <link>https://isc.sans.edu/diary/rss/32862</link>
@@ -85,6 +85,11 @@
     <item>
       <title>New 'Storm' Infostealer Remotely Decrypts Stolen Credentials</title>
       <link>https://www.infosecurity-magazine.com/news/storm-infostealer-remotely/</link>
+      <pubDate>Thu, 02 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BreachForums analyzes data breach incident (“Doomsday The Story of James”)</title>
+      <link>https://asec.ahnlab.com/en/93168/</link>
       <pubDate>Thu, 02 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Iran Threatens to Attack Apple, Google, and Other US Tech Firms in Middle East</title>
       <link>https://www.techrepublic.com/article/news-iran-threatens-us-tech-firms-middle-east/</link>
       <pubDate>Wed, 01 Apr 2026 15:31:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Hackers Are Using WhatsApp to Deliver Malware to Windows PCs</title>
-      <link>https://www.techrepublic.com/article/news-whatsapp-malware-windows-attack/</link>
-      <pubDate>Wed, 01 Apr 2026 15:17:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
