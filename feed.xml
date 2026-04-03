@@ -6,7 +6,37 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 12:57:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 14:39:58 +0000</lastBuildDate>
+    <item>
+      <title>Massachusetts emergency communications system impacted by cyberattack</title>
+      <link>https://therecord.media/massachusetts-emergency-alert-cyberattack</link>
+      <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrystalX RAT: new MaaS malware combines spyware, stealer, and remote access</title>
+      <link>https://securityaffairs.com/190310/cyber-crime/crystalx-rat-new-maas-malware-combines-spyware-stealer-and-remote-access.html</link>
+      <pubDate>Fri, 03 Apr 2026 13:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine warns Russian hackers are revisiting past breaches to prepare new attacks</title>
+      <link>https://therecord.media/ukraine-warns-russian-hackers-revisiting-old-attacks</link>
+      <pubDate>Fri, 03 Apr 2026 13:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TeamPCP Supply Chain Campaign: Update 006 - CERT-EU Confirms European Commission Cloud Breach, Sportradar Details Emerge, and Mandiant Quantifies Campaign at 1,000+ SaaS Environments, (Fri, Apr 3rd)</title>
+      <link>https://isc.sans.edu/diary/rss/32864</link>
+      <pubDate>Fri, 03 Apr 2026 13:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 14</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-14-6/</link>
+      <pubDate>Fri, 03 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Symantec CBX Through the Paparazzi Lens</title>
+      <link>https://www.security.com/expert-perspectives/symantec-cbx-media-recap</link>
+      <pubDate>Fri, 03 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Company that Secretly Records and Publishes Zoom Meetings</title>
       <link>https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html</link>
@@ -38,6 +68,11 @@
       <pubDate>Fri, 03 Apr 2026 08:35:00 +0000</pubDate>
     </item>
     <item>
+      <title>New Phishing Platform Used in Credential Theft Campaigns Against C-Suite Execs</title>
+      <link>https://www.infosecurity-magazine.com/news/new-phishing-platform-credential/</link>
+      <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pro-Iran Handala group breached Israeli defence contractor PSK Wind Technologies</title>
       <link>https://securityaffairs.com/190319/data-breach/pro-iran-handala-group-breached-israeli-defence-contractor-psk-wind-technologies.html</link>
       <pubDate>Fri, 03 Apr 2026 07:52:52 +0000</pubDate>
@@ -46,6 +81,11 @@
       <title>ISC Stormcast For Friday, April 3rd, 2026 https://isc.sans.edu/podcastdetail/9878, (Fri, Apr 3rd)</title>
       <link>https://isc.sans.edu/diary/rss/32862</link>
       <pubDate>Fri, 03 Apr 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos named a 2026 Gartner® Peer Insights™ Customers' Choice for Managed Detection and Response</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-gartner-peer-insights-mdr</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously</title>
@@ -118,13 +158,13 @@
       <pubDate>Thu, 02 Apr 2026 15:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>New 'Storm' Infostealer Remotely Decrypts Stolen Credentials</title>
-      <link>https://www.infosecurity-magazine.com/news/storm-infostealer-remotely/</link>
+      <title>BreachForums analyzes data breach incident (“Doomsday The Story of James”)</title>
+      <link>https://asec.ahnlab.com/en/93168/</link>
       <pubDate>Thu, 02 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>BreachForums analyzes data breach incident (“Doomsday The Story of James”)</title>
-      <link>https://asec.ahnlab.com/en/93168/</link>
+      <title>New 'Storm' Infostealer Remotely Decrypts Stolen Credentials</title>
+      <link>https://www.infosecurity-magazine.com/news/storm-infostealer-remotely/</link>
       <pubDate>Thu, 02 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -266,46 +306,6 @@
       <title>ISC Stormcast For Thursday, April 2nd, 2026 https://isc.sans.edu/podcastdetail/9876, (Thu, Apr 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/32858</link>
       <pubDate>Thu, 02 Apr 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Latin America and the Caribbean Cybercrime Landscape</title>
-      <link>https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape</link>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon GuardDuty enhances detection efficacy with Sophos threat intelligence</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-amazon-guardduty</link>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp warns users of fake app used to distribute spyware</title>
-      <link>https://therecord.media/whatsapp-warns-users-of-fake-app-used-for-spyware</link>
-      <pubDate>Wed, 01 Apr 2026 23:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds a flaw in Google Dawn to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/190282/security/u-s-cisa-adds-a-flaw-in-google-dawn-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 01 Apr 2026 23:30:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #461: This man hid $400 million in a fishing rod. Then it vanished</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-461/</link>
-      <pubDate>Wed, 01 Apr 2026 23:26:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wikipedia’s AI agent row likely just the beginning of the bot-ocalypse</title>
-      <link>https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse</link>
-      <pubDate>Wed, 01 Apr 2026 21:49:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitigating the Axios npm supply chain compromise</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/</link>
-      <pubDate>Wed, 01 Apr 2026 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crypto platform Drift suspends services after millions stolen in security incident</title>
-      <link>https://therecord.media/drift-crypto-heist-solana-hacker</link>
-      <pubDate>Wed, 01 Apr 2026 20:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
