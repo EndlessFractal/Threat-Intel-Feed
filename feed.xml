@@ -6,7 +6,27 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 14:42:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 16:42:20 +0000</lastBuildDate>
+    <item>
+      <title>Singapore, US warn of latest Fortinet bug being exploited in wild</title>
+      <link>https://therecord.media/singapore-us-warn-of-fortinet-bug-exploited</link>
+      <pubDate>Mon, 06 Apr 2026 16:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/</link>
+      <pubDate>Mon, 06 Apr 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Fortinet Flaw Allows Unauthorized Access to Enterprise Systems</title>
+      <link>https://www.techrepublic.com/article/news-fortinet-forticlient-ems-zero-day-active-exploitation/</link>
+      <pubDate>Mon, 06 Apr 2026 15:35:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>BKA unmasks two REvil Ransomware operators behind 130+ German attacks</title>
+      <link>https://securityaffairs.com/190401/cyber-crime/bka-unmasks-two-revil-ransomware-operators-behind-130-german-attacks.html</link>
+      <pubDate>Mon, 06 Apr 2026 14:48:09 +0000</pubDate>
+    </item>
     <item>
       <title>Apple Rolls Out Fix: New macOS Update Could Protect 100M Mac Users</title>
       <link>https://www.techrepublic.com/article/news-apple-macos-update-terminal-malware-warning-clickfix/</link>
@@ -41,6 +61,11 @@
       <title>Hackers threaten to leak data after cyberattack on German party Die Linke</title>
       <link>https://therecord.media/hackers-threaten-to-leak-german-political-party-data</link>
       <pubDate>Mon, 06 Apr 2026 12:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Mon, 06 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers</title>
@@ -168,11 +193,6 @@
       <pubDate>Fri, 03 Apr 2026 19:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>EU cyber agency attributes major data breach to TeamPCP hacking group</title>
-      <link>https://therecord.media/european-commission-cyberattack-teampcp</link>
-      <pubDate>Fri, 03 Apr 2026 18:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing</title>
       <link>https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html</link>
       <pubDate>Fri, 03 Apr 2026 17:34:00 +0000</pubDate>
@@ -216,11 +236,6 @@
       <title>North Korea–linked hackers drain $285M from Drift in sophisticated attack</title>
       <link>https://securityaffairs.com/190330/hacking/north-korea-linked-hackers-drain-285m-from-drift-in-sophisticated-attack.html</link>
       <pubDate>Fri, 03 Apr 2026 13:57:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrystalX RAT: new MaaS malware combines spyware, stealer, and remote access</title>
-      <link>https://securityaffairs.com/190310/cyber-crime/crystalx-rat-new-maas-malware-combines-spyware-stealer-and-remote-access.html</link>
-      <pubDate>Fri, 03 Apr 2026 13:23:57 +0000</pubDate>
     </item>
     <item>
       <title>TeamPCP Supply Chain Campaign: Update 006 - CERT-EU Confirms European Commission Cloud Breach, Sportradar Details Emerge, and Mandiant Quantifies Campaign at 1,000+ SaaS Environments, (Fri, Apr 3rd)</title>
@@ -278,6 +293,11 @@
       <pubDate>Fri, 03 Apr 2026 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Day in the Life: Product Manager at Recorded Future</title>
+      <link>https://www.recordedfuture.com/blog/kyle-kohler-product-manager</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Iran War: What You Need to Know</title>
       <link>https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know</link>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>Sophos named a 2026 Gartner® Peer Insights™ Customers' Choice for Managed Detection and Response</title>
       <link>https://www.sophos.com/en-us/blog/sophos-gartner-peer-insights-mdr</link>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously</title>
-      <link>https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/</link>
-      <pubDate>Thu, 02 Apr 2026 19:50:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials</title>
-      <link>https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html</link>
-      <pubDate>Thu, 02 Apr 2026 19:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch Now: Chrome Flaw Under Active Attack, Google Confirms</title>
-      <link>https://www.techrepublic.com/article/news-chrome-zero-day-cve-2026-5281-active-exploit/</link>
-      <pubDate>Thu, 02 Apr 2026 19:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>The democratisation of business email compromise fraud</title>
-      <link>https://blog.talosintelligence.com/the-democratisation-of-business-email-compromise-fraud/</link>
-      <pubDate>Thu, 02 Apr 2026 18:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
