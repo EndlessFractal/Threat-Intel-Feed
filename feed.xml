@@ -6,11 +6,21 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 20:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 22:35:33 +0000</lastBuildDate>
+    <item>
+      <title>Cracks in the Bedrock: Escaping the AWS AgentCore Sandbox</title>
+      <link>https://unit42.paloaltonetworks.com/bypass-of-aws-sandbox-network-isolation-mode/</link>
+      <pubDate>Tue, 07 Apr 2026 22:00:11 +0000</pubDate>
+    </item>
     <item>
       <title>FBI, Pentagon warn of Iran hacking groups targeting operational technology</title>
       <link>https://therecord.media/fbi-pentagon-warn-iran-hacking-groups-target-ot</link>
       <pubDate>Tue, 07 Apr 2026 20:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers exploit critical Flowise flaw CVE-2025-59528 for remote code execution</title>
+      <link>https://securityaffairs.com/190471/security/attackers-exploit-critical-flowise-flaw-cve-2025-59528-for-remote-code-execution.html</link>
+      <pubDate>Tue, 07 Apr 2026 20:16:05 +0000</pubDate>
     </item>
     <item>
       <title>A Little Bit Pivoting: What Web Shells are Attackers Looking for?, (Tue, Apr 7th)</title>
@@ -85,11 +95,6 @@
     <item>
       <title>UK exposes Russian cyber unit hacking home routers to hijack internet traffic</title>
       <link>https://therecord.media/uk-exposes-russian-cyber-unit-hacking-home-routers</link>
-      <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/</link>
       <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -213,11 +218,6 @@
       <pubDate>Tue, 07 Apr 2026 05:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs</title>
-      <link>https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/</link>
-      <pubDate>Tue, 07 Apr 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ISC Stormcast For Tuesday, April 7th, 2026 https://isc.sans.edu/podcastdetail/9882, (Tue, Apr 7th)</title>
       <link>https://isc.sans.edu/diary/rss/32872</link>
       <pubDate>Tue, 07 Apr 2026 02:00:02 +0000</pubDate>
@@ -248,19 +248,9 @@
       <pubDate>Mon, 06 Apr 2026 18:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>Inside an AI‑enabled device code phishing campaign</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/</link>
-      <pubDate>Mon, 06 Apr 2026 16:34:17 +0000</pubDate>
-    </item>
-    <item>
       <title>DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea</title>
       <link>https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html</link>
       <pubDate>Mon, 06 Apr 2026 16:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/</link>
-      <pubDate>Mon, 06 Apr 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New Fortinet Flaw Allows Unauthorized Access to Enterprise Systems</title>
@@ -306,6 +296,16 @@
       <title>How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers</title>
       <link>https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html</link>
       <pubDate>Mon, 06 Apr 2026 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Wants to Transition to Post-Quantum Cryptography by 2029</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html</link>
+      <pubDate>Mon, 06 Apr 2026 10:52:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools</title>
+      <link>https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html</link>
+      <pubDate>Mon, 06 Apr 2026 10:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
