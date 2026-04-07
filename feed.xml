@@ -6,16 +6,41 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 16:54:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 18:59:44 +0000</lastBuildDate>
     <item>
-      <title>Cloudflare targets 2029 for full post-quantum security</title>
-      <link>https://blog.cloudflare.com/post-quantum-roadmap/</link>
-      <pubDate>Tue, 07 Apr 2026 21:00:00 +0000</pubDate>
+      <title>A Little Bit Pivoting: What Web Shells are Attackers Looking for?, (Tue, Apr 7th)</title>
+      <link>https://isc.sans.edu/diary/rss/32874</link>
+      <pubDate>Tue, 07 Apr 2026 18:28:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity in the Age of Instant Software</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html</link>
+      <pubDate>Tue, 07 Apr 2026 17:07:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia Hacked Routers to Steal Microsoft Office Tokens</title>
+      <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
+      <pubDate>Tue, 07 Apr 2026 17:02:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign</title>
+      <link>https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html</link>
+      <pubDate>Tue, 07 Apr 2026 16:48:00 +0000</pubDate>
     </item>
     <item>
       <title>National security veterans warn against delays in FISA 702 reauthorization</title>
       <link>https://therecord.media/national-security-vets-warn-section-702-authorization-delay</link>
       <pubDate>Tue, 07 Apr 2026 16:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk</title>
+      <link>https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html</link>
+      <pubDate>Tue, 07 Apr 2026 16:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New FBI Warning: Chinese Apps Could Expose User Data</title>
+      <link>https://www.techrepublic.com/article/news-fbi-warns-foreign-apps-data-security-risks/</link>
+      <pubDate>Tue, 07 Apr 2026 16:25:04 +0000</pubDate>
     </item>
     <item>
       <title>🎙️SECURITY.COM The Podcast: A Brief History of Data Loss Prevention</title>
@@ -53,13 +78,13 @@
       <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GrafanaGhost Exploit Bypasses AI Guardrails for Silent Data Exfiltration</title>
-      <link>https://www.infosecurity-magazine.com/news/grafanaghost-silent-data/</link>
+      <title>SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/</link>
       <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/</link>
+      <title>GrafanaGhost Exploit Bypasses AI Guardrails for Silent Data Exfiltration</title>
+      <link>https://www.infosecurity-magazine.com/news/grafanaghost-silent-data/</link>
       <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -78,11 +103,6 @@
       <pubDate>Tue, 07 Apr 2026 12:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk</title>
-      <link>https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html</link>
-      <pubDate>Tue, 07 Apr 2026 12:17:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cyberattack hits Northern Ireland’s centralized school network, disrupting access for thousands</title>
       <link>https://therecord.media/cyberattack-hits-northern-ireland-schools</link>
       <pubDate>Tue, 07 Apr 2026 12:04:00 +0000</pubDate>
@@ -93,13 +113,18 @@
       <pubDate>Tue, 07 Apr 2026 12:03:13 +0000</pubDate>
     </item>
     <item>
-      <title>Over $17bn Lost to Cyber Fraud in the Last Year, Warns FBI</title>
-      <link>https://www.infosecurity-magazine.com/news/17bn-lost-to-cyber-fraud-warns-fbi/</link>
+      <title>Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a</link>
       <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mitsubishi Electric GENESIS64 and ICONICS Suite products</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-097-01</link>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over $17bn Lost to Cyber Fraud in the Last Year, Warns FBI</title>
+      <link>https://www.infosecurity-magazine.com/news/17bn-lost-to-cyber-fraud-warns-fbi/</link>
       <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -281,31 +306,6 @@
       <title>Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools</title>
       <link>https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html</link>
       <pubDate>Mon, 06 Apr 2026 10:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How often are redirects used in phishing in 2026?, (Mon, Apr 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/32870</link>
-      <pubDate>Mon, 06 Apr 2026 08:50:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (March 30 – April 5)</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2</link>
-      <pubDate>Mon, 06 Apr 2026 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks</title>
-      <link>https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html</link>
-      <pubDate>Mon, 06 Apr 2026 06:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-35616: Fortinet fixes actively exploited high-severity flaw</title>
-      <link>https://securityaffairs.com/190392/hacking/cve-2026-35616-fortinet-fixes-actively-exploited-high-severity-flaw.html</link>
-      <pubDate>Mon, 06 Apr 2026 05:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed</title>
-      <link>https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/</link>
-      <pubDate>Mon, 06 Apr 2026 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
