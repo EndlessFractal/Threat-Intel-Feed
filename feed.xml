@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 15:04:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:54:09 +0000</lastBuildDate>
+    <item>
+      <title>Cloudflare targets 2029 for full post-quantum security</title>
+      <link>https://blog.cloudflare.com/post-quantum-roadmap/</link>
+      <pubDate>Tue, 07 Apr 2026 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>National security veterans warn against delays in FISA 702 reauthorization</title>
+      <link>https://therecord.media/national-security-vets-warn-section-702-authorization-delay</link>
+      <pubDate>Tue, 07 Apr 2026 16:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️SECURITY.COM The Podcast: A Brief History of Data Loss Prevention</title>
+      <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-history-dlp</link>
+      <pubDate>Tue, 07 Apr 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massachusetts hospital turning ambulances away after cyberattack</title>
+      <link>https://therecord.media/massachusetts-hospital-turning-ambulances-away-cyberattack</link>
+      <pubDate>Tue, 07 Apr 2026 15:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian APT28 Hackers Hijack Routers to Steal Credentials, UK Security Agency Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/russia-apt28-hijack-routers-uk-ncsc/</link>
+      <pubDate>Tue, 07 Apr 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Stop Texting’: FBI Warning Drives Apple’s iPhone Messaging Update</title>
+      <link>https://www.techrepublic.com/article/news-apple-rcs-messaging-fbi-warning-sms-security/</link>
+      <pubDate>Tue, 07 Apr 2026 15:19:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access</title>
+      <link>https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html</link>
+      <pubDate>Tue, 07 Apr 2026 15:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPU Rowhammer Attack Enables Privilege Escalation and Full System Compromise</title>
+      <link>https://www.infosecurity-magazine.com/news/gpu-based-rowhammer-attack/</link>
+      <pubDate>Tue, 07 Apr 2026 15:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>UK exposes Russian cyber unit hacking home routers to hijack internet traffic</title>
       <link>https://therecord.media/uk-exposes-russian-cyber-unit-hacking-home-routers</link>
@@ -15,6 +55,11 @@
     <item>
       <title>GrafanaGhost Exploit Bypasses AI Guardrails for Silent Data Exfiltration</title>
       <link>https://www.infosecurity-magazine.com/news/grafanaghost-silent-data/</link>
+      <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/</link>
       <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -50,6 +95,11 @@
     <item>
       <title>Over $17bn Lost to Cyber Fraud in the Last Year, Warns FBI</title>
       <link>https://www.infosecurity-magazine.com/news/17bn-lost-to-cyber-fraud-warns-fbi/</link>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric GENESIS64 and ICONICS Suite products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-097-01</link>
       <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -146,16 +196,6 @@
       <title>Understanding Current Threats to Kubernetes Environments</title>
       <link>https://unit42.paloaltonetworks.com/modern-kubernetes-threats/</link>
       <pubDate>Mon, 06 Apr 2026 22:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI: Cyber fraud surges to $17.6 billion in losses as scams, crypto theft soar</title>
-      <link>https://therecord.media/cyber-fraud-surges-to-17-billion-fbi-ic3</link>
-      <pubDate>Mon, 06 Apr 2026 20:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medusa ransomware group using zero-days to launch attacks within 24 hours of breach, Microsoft says</title>
-      <link>https://therecord.media/medusa-ransomware-group-zero-days-microsoft</link>
-      <pubDate>Mon, 06 Apr 2026 20:08:00 +0000</pubDate>
     </item>
     <item>
       <title>Phishing LNK files and GitHub C2 power new DPRK cyber attacks</title>
@@ -266,46 +306,6 @@
       <title>How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed</title>
       <link>https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/</link>
       <pubDate>Mon, 06 Apr 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
-      <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
-      <pubDate>Mon, 06 Apr 2026 02:07:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, April 6th, 2026 https://isc.sans.edu/podcastdetail/9880, (Mon, Apr 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/32868</link>
-      <pubDate>Mon, 06 Apr 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Killer robots are here. Now what? (Lock and Code S07E07)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07</link>
-      <pubDate>Sun, 05 Apr 2026 23:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation</title>
-      <link>https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html</link>
-      <pubDate>Sun, 05 Apr 2026 18:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 91</title>
-      <link>https://securityaffairs.com/190379/malware/security-affairs-malware-newsletter-round-91.html</link>
-      <pubDate>Sun, 05 Apr 2026 14:34:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post-Quantum Cryptography: Moving From Awareness to Execution</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/post-quantum-cryptography-moving-from-awareness-to-execution</link>
-      <pubDate>Sun, 05 Apr 2026 09:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants</title>
-      <link>https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html</link>
-      <pubDate>Sun, 05 Apr 2026 05:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS</title>
-      <link>https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html</link>
-      <pubDate>Sun, 05 Apr 2026 04:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
