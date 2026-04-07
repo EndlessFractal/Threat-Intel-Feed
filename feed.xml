@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 10:52:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 13:12:48 +0000</lastBuildDate>
+    <item>
+      <title>[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk</title>
+      <link>https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html</link>
+      <pubDate>Tue, 07 Apr 2026 12:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack hits Northern Ireland’s centralized school network, disrupting access for thousands</title>
+      <link>https://therecord.media/cyberattack-hits-northern-ireland-schools</link>
+      <pubDate>Tue, 07 Apr 2026 12:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Talos Takes: 2025's ransomware trends and zombie vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/talos-takes-2025s-ransomware-trends-and-zombie-vulnerabilities/</link>
+      <pubDate>Tue, 07 Apr 2026 12:03:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over $17bn Lost to Cyber Fraud in the Last Year, Warns FBI</title>
+      <link>https://www.infosecurity-magazine.com/news/17bn-lost-to-cyber-fraud-warns-fbi/</link>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traffic violation scams swap links for QR codes to steal your card details</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/04/traffic-violation-scams-swap-links-for-qr-codes-to-steal-your-card-details</link>
+      <pubDate>Tue, 07 Apr 2026 11:57:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hidden Cost of Recurring Credential Incidents</title>
+      <link>https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html</link>
+      <pubDate>Tue, 07 Apr 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPUBreach exploit uses GPU memory bit-flips to achieve full system takeover</title>
+      <link>https://securityaffairs.com/190455/security/gpubreach-exploit-uses-gpu-memory-bit-flips-to-achieve-full-system-takeover.html</link>
+      <pubDate>Tue, 07 Apr 2026 11:26:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Support platform breach exposes Hims &amp; Hers customer data</title>
+      <link>https://www.malwarebytes.com/blog/data-breaches/2026/04/support-platform-breach-exposes-hims-hers-customer-data</link>
+      <pubDate>Tue, 07 Apr 2026 10:45:50 +0000</pubDate>
+    </item>
     <item>
       <title>Storm-1175 Exploits Flaws in High-Velocity Medusa Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/storm1175-medusa-attacks/</link>
@@ -73,6 +113,11 @@
       <pubDate>Tue, 07 Apr 2026 01:53:05 +0000</pubDate>
     </item>
     <item>
+      <title>Cyberattack on telecom giant Rostelecom disrupts internet services across Russia</title>
+      <link>https://therecord.media/rostelecom-cyberattack-disrupts-russian-internet-access</link>
+      <pubDate>Mon, 06 Apr 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Understanding Current Threats to Kubernetes Environments</title>
       <link>https://unit42.paloaltonetworks.com/modern-kubernetes-threats/</link>
       <pubDate>Mon, 06 Apr 2026 22:00:08 +0000</pubDate>
@@ -106,16 +151,6 @@
       <title>Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations</title>
       <link>https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html</link>
       <pubDate>Mon, 06 Apr 2026 18:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>German police unmask two suspects linked to REvil ransomware gang</title>
-      <link>https://therecord.media/german-police-unmask-suspects-linked-revil-gandcrab</link>
-      <pubDate>Mon, 06 Apr 2026 18:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>First stalkerware maker prosecuted since 2014 receives no jail time</title>
-      <link>https://therecord.media/stalkerware-maker-receives-no-jail-time</link>
-      <pubDate>Mon, 06 Apr 2026 17:33:00 +0000</pubDate>
     </item>
     <item>
       <title>Inside an AI‑enabled device code phishing campaign</title>
@@ -263,11 +298,6 @@
       <pubDate>Sun, 05 Apr 2026 04:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>Qilin ransomware group claims the hack of German political party Die Linke</title>
-      <link>https://securityaffairs.com/190348/cyber-crime/qilin-ransomware-group-claims-the-hack-of-german-political-party-die-linke.html</link>
-      <pubDate>Sat, 04 Apr 2026 17:37:56 +0000</pubDate>
-    </item>
-    <item>
       <title>That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords</title>
       <link>https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords</link>
       <pubDate>Fri, 03 Apr 2026 23:13:58 +0000</pubDate>
@@ -276,36 +306,6 @@
       <title>When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications</title>
       <link>https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/</link>
       <pubDate>Fri, 03 Apr 2026 22:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Jurassic Fish Chokes on Squid</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html</link>
-      <pubDate>Fri, 03 Apr 2026 21:07:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing</title>
-      <link>https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html</link>
-      <pubDate>Fri, 03 Apr 2026 17:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do not get high(jacked) off your own supply (chain)</title>
-      <link>https://blog.talosintelligence.com/protecting-supply-chain-2026/</link>
-      <pubDate>Fri, 03 Apr 2026 17:31:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Axios NPM supply chain incident</title>
-      <link>https://blog.talosintelligence.com/axois-npm-supply-chain-incident/</link>
-      <pubDate>Fri, 03 Apr 2026 17:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Alert: 50 Google Play Apps Linked to ‘NoVoice’ Malware Reached 2.3M Downloads</title>
-      <link>https://www.techrepublic.com/article/news-novoice-malware-android-google-play-50-apps/</link>
-      <pubDate>Fri, 03 Apr 2026 16:01:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Declares Surveillance System Breach a ‘Major Incident’</title>
-      <link>https://www.techrepublic.com/article/news-china-linked-fbi-surveillance-breach-major-incident/</link>
-      <pubDate>Fri, 03 Apr 2026 15:35:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
