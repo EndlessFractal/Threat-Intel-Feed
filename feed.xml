@@ -6,7 +6,22 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 10:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:14:45 +0000</lastBuildDate>
+    <item>
+      <title>Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)</title>
+      <link>https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html</link>
+      <pubDate>Wed, 08 Apr 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/</link>
+      <pubDate>Wed, 08 Apr 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Project Glasswing powered by Claude Mythos: defending software before hackers do</title>
+      <link>https://securityaffairs.com/190496/ai/project-glasswing-powered-by-claude-mythos-defending-software-before-hackers-do.html</link>
+      <pubDate>Wed, 08 Apr 2026 11:18:26 +0000</pubDate>
+    </item>
     <item>
       <title>Python Supply-Chain Compromise</title>
       <link>https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html</link>
@@ -73,14 +88,14 @@
       <pubDate>Wed, 08 Apr 2026 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>Is compliance complexity outpacing IT capacity?</title>
+      <link>https://www.sophos.com/en-us/blog/is-compliance-complexity-outpacing-IT-capacity-survey</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cracks in the Bedrock: Escaping the AWS AgentCore Sandbox</title>
       <link>https://unit42.paloaltonetworks.com/bypass-of-aws-sandbox-network-isolation-mode/</link>
       <pubDate>Tue, 07 Apr 2026 22:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI, Pentagon warn of Iran hacking groups targeting operational technology</title>
-      <link>https://therecord.media/fbi-pentagon-warn-iran-hacking-groups-target-ot</link>
-      <pubDate>Tue, 07 Apr 2026 20:26:00 +0000</pubDate>
     </item>
     <item>
       <title>Attackers exploit critical Flowise flaw CVE-2025-59528 for remote code execution</title>
@@ -118,11 +133,6 @@
       <pubDate>Tue, 07 Apr 2026 16:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>National security veterans warn against delays in FISA 702 reauthorization</title>
-      <link>https://therecord.media/national-security-vets-warn-section-702-authorization-delay</link>
-      <pubDate>Tue, 07 Apr 2026 16:29:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New FBI Warning: Chinese Apps Could Expose User Data</title>
       <link>https://www.techrepublic.com/article/news-fbi-warns-foreign-apps-data-security-risks/</link>
       <pubDate>Tue, 07 Apr 2026 16:25:04 +0000</pubDate>
@@ -131,11 +141,6 @@
       <title>🎙️SECURITY.COM The Podcast: A Brief History of Data Loss Prevention</title>
       <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-history-dlp</link>
       <pubDate>Tue, 07 Apr 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massachusetts hospital turning ambulances away after cyberattack</title>
-      <link>https://therecord.media/massachusetts-hospital-turning-ambulances-away-cyberattack</link>
-      <pubDate>Tue, 07 Apr 2026 15:52:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian APT28 Hackers Hijack Routers to Steal Credentials, UK Security Agency Warns</title>
@@ -156,11 +161,6 @@
       <title>GPU Rowhammer Attack Enables Privilege Escalation and Full System Compromise</title>
       <link>https://www.infosecurity-magazine.com/news/gpu-based-rowhammer-attack/</link>
       <pubDate>Tue, 07 Apr 2026 15:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK exposes Russian cyber unit hacking home routers to hijack internet traffic</title>
-      <link>https://therecord.media/uk-exposes-russian-cyber-unit-hacking-home-routers</link>
-      <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</title>
@@ -186,11 +186,6 @@
       <title>Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign</title>
       <link>https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html</link>
       <pubDate>Tue, 07 Apr 2026 12:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattack hits Northern Ireland’s centralized school network, disrupting access for thousands</title>
-      <link>https://therecord.media/cyberattack-hits-northern-ireland-schools</link>
-      <pubDate>Tue, 07 Apr 2026 12:04:00 +0000</pubDate>
     </item>
     <item>
       <title>Talos Takes: 2025's ransomware trends and zombie vulnerabilities</title>
@@ -306,6 +301,11 @@
       <title>Understanding Current Threats to Kubernetes Environments</title>
       <link>https://unit42.paloaltonetworks.com/modern-kubernetes-threats/</link>
       <pubDate>Mon, 06 Apr 2026 22:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing LNK files and GitHub C2 power new DPRK cyber attacks</title>
+      <link>https://securityaffairs.com/190413/uncategorized/phishing-lnk-files-and-github-c2-power-new-dprk-cyber-attacks.html</link>
+      <pubDate>Mon, 06 Apr 2026 19:34:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
