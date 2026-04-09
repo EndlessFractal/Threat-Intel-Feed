@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 01:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 04:38:14 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Thursday, April 9th, 2026 https://isc.sans.edu/podcastdetail/9886, (Thu, Apr 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/32882</link>
+      <pubDate>Thu, 09 Apr 2026 02:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>Number Usage in Passwords: Take Two, (Thu, Apr 9th)</title>
       <link>https://isc.sans.edu/diary/rss/32866</link>
@@ -81,6 +86,16 @@
       <title>Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices</title>
       <link>https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html</link>
       <pubDate>Wed, 08 Apr 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google API Keys Quietly Gain Access to Gemini on Android Devices</title>
+      <link>https://www.infosecurity-magazine.com/news/google-api-keys-access-gemini/</link>
+      <pubDate>Wed, 08 Apr 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerability in Ninja Forms Exposes WordPress Sites</title>
+      <link>https://www.infosecurity-magazine.com/news/flaw-ninja-forms-wordpress/</link>
+      <pubDate>Wed, 08 Apr 2026 15:10:00 +0000</pubDate>
     </item>
     <item>
       <title>Your extensions leak clues about you, so we made sure Browser Guard doesn’t</title>
@@ -218,6 +233,11 @@
       <pubDate>Tue, 07 Apr 2026 22:00:11 +0000</pubDate>
     </item>
     <item>
+      <title>Cloudflare targets 2029 for full post-quantum security</title>
+      <link>https://blog.cloudflare.com/post-quantum-roadmap/</link>
+      <pubDate>Tue, 07 Apr 2026 21:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Attackers exploit critical Flowise flaw CVE-2025-59528 for remote code execution</title>
       <link>https://securityaffairs.com/190471/security/attackers-exploit-critical-flowise-flaw-cve-2025-59528-for-remote-code-execution.html</link>
       <pubDate>Tue, 07 Apr 2026 20:16:05 +0000</pubDate>
@@ -286,26 +306,6 @@
       <title>SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/</link>
       <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GrafanaGhost Exploit Bypasses AI Guardrails for Silent Data Exfiltration</title>
-      <link>https://www.infosecurity-magazine.com/news/grafanaghost-silent-data/</link>
-      <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major outage cripples Russian banking apps and metro payments nationwide</title>
-      <link>https://securityaffairs.com/190464/security/major-outage-cripples-russian-banking-apps-and-metro-payments-nationwide.html</link>
-      <pubDate>Tue, 07 Apr 2026 13:57:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fast-moving Storm-1175 uses new exploits to breach networks and drop Medusa</title>
-      <link>https://securityaffairs.com/190440/cyber-crime/fast-moving-storm-1175-uses-new-exploits-to-breach-networks-and-drop-medusa.html</link>
-      <pubDate>Tue, 07 Apr 2026 13:20:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign</title>
-      <link>https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html</link>
-      <pubDate>Tue, 07 Apr 2026 12:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
