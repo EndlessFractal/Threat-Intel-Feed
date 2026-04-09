@@ -6,7 +6,17 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 17:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 19:00:48 +0000</lastBuildDate>
+    <item>
+      <title>The threat hunter’s gambit</title>
+      <link>https://blog.talosintelligence.com/the-threat-hunters-gambit/</link>
+      <pubDate>Thu, 09 Apr 2026 18:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Treasury Department announces crypto industry cyber threat sharing initiative</title>
+      <link>https://therecord.media/treasury-department-announces-crypto-info-sharing</link>
+      <pubDate>Thu, 09 Apr 2026 17:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns</title>
       <link>https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html</link>
@@ -158,16 +168,6 @@
       <pubDate>Thu, 09 Apr 2026 07:20:08 +0000</pubDate>
     </item>
     <item>
-      <title>ISC Stormcast For Thursday, April 9th, 2026 https://isc.sans.edu/podcastdetail/9886, (Thu, Apr 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32882</link>
-      <pubDate>Thu, 09 Apr 2026 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Number Usage in Passwords: Take Two, (Thu, Apr 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32866</link>
-      <pubDate>Thu, 09 Apr 2026 00:58:14 +0000</pubDate>
-    </item>
-    <item>
       <title>Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.</title>
       <link>https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
@@ -176,6 +176,11 @@
       <title>We let OpenClaw loose on an internal network. Here’s what it found</title>
       <link>https://www.sophos.com/en-us/blog/we-let-openclaw-loose-on-an-internal-network-here-s-what-it-found</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #462: LinkedIn is spying on you, and you agreed to nothing</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-462/</link>
+      <pubDate>Wed, 08 Apr 2026 23:27:17 +0000</pubDate>
     </item>
     <item>
       <title>Cybercriminals target accountants to drain Russian firms’ bank accounts</title>
@@ -213,19 +218,9 @@
       <pubDate>Wed, 08 Apr 2026 17:50:11 +0000</pubDate>
     </item>
     <item>
-      <title>Passport numbers for more than 300,000 leaked during December Eurail data breach</title>
-      <link>https://therecord.media/eurail-reports-data-breach-impacting-over-300000</link>
-      <pubDate>Wed, 08 Apr 2026 17:46:00 +0000</pubDate>
-    </item>
-    <item>
       <title>10 ChatGPT AI Prompts L1 SOC Analysts Can Use in Their Daily Work</title>
       <link>https://www.techrepublic.com/article/news-chatgpt-prompts-soc-analysts-incident-response/</link>
       <pubDate>Wed, 08 Apr 2026 17:34:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>TeamPCP Supply Chain Campaign: Update 007 - Cisco Source Code Stolen via Trivy-Linked Breach, Google GTIG Tracks TeamPCP as UNC6780, and CISA KEV Deadline Arrives with No Standalone Advisory, (Wed, Apr 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/32880</link>
-      <pubDate>Wed, 08 Apr 2026 17:15:05 +0000</pubDate>
     </item>
     <item>
       <title>Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices</title>
@@ -256,11 +251,6 @@
       <title>Signature Healthcare hit by cyberattack, services and pharmacies impacted</title>
       <link>https://securityaffairs.com/190504/security/signature-healthcare-hit-by-cyberattack-services-and-pharmacies-impacted.html</link>
       <pubDate>Wed, 08 Apr 2026 14:28:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>More Honeypot Fingerprinting Scans, (Wed, Apr 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/32878</link>
-      <pubDate>Wed, 08 Apr 2026 14:23:28 +0000</pubDate>
     </item>
     <item>
       <title>APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies</title>
@@ -306,6 +296,16 @@
       <title>Python Supply-Chain Compromise</title>
       <link>https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html</link>
       <pubDate>Wed, 08 Apr 2026 10:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Timeshare owners warned to watch out for cartel-linked scams</title>
+      <link>https://www.malwarebytes.com/blog/scams/2026/04/timeshare-owners-warned-to-watch-out-for-cartel-linked-scams</link>
+      <pubDate>Wed, 08 Apr 2026 10:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Thwarts DNS Hijacking Network Controlled by Russian APT28 Hackers</title>
+      <link>https://www.infosecurity-magazine.com/news/us-thwarts-dns-hijacking-network/</link>
+      <pubDate>Wed, 08 Apr 2026 10:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
