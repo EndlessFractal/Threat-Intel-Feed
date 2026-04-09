@@ -6,7 +6,12 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 07:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:03:31 +0000</lastBuildDate>
+    <item>
+      <title>Internet-Exposed ICS Devices Raise Alarm for Critical Sectors</title>
+      <link>https://securityaffairs.com/190525/ics-scada/internet-exposed-ics-devices-raise-alarm-for-critical-sectors.html</link>
+      <pubDate>Thu, 09 Apr 2026 07:20:08 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, April 9th, 2026 https://isc.sans.edu/podcastdetail/9886, (Thu, Apr 9th)</title>
       <link>https://isc.sans.edu/diary/rss/32882</link>
@@ -96,6 +101,11 @@
       <title>Critical Vulnerability in Ninja Forms Exposes WordPress Sites</title>
       <link>https://www.infosecurity-magazine.com/news/flaw-ninja-forms-wordpress/</link>
       <pubDate>Wed, 08 Apr 2026 15:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 2, April 2026</title>
+      <link>https://asec.ahnlab.com/en/93259/</link>
+      <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Your extensions leak clues about you, so we made sure Browser Guard doesn’t</title>
@@ -296,16 +306,6 @@
       <title>GPU Rowhammer Attack Enables Privilege Escalation and Full System Compromise</title>
       <link>https://www.infosecurity-magazine.com/news/gpu-based-rowhammer-attack/</link>
       <pubDate>Tue, 07 Apr 2026 15:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/</link>
-      <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GrafanaGhost Exploit Bypasses AI Guardrails for Silent Data Exfiltration</title>
-      <link>https://www.infosecurity-magazine.com/news/grafanaghost-silent-data/</link>
-      <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
