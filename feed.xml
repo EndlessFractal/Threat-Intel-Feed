@@ -6,7 +6,47 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 09:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 10:55:45 +0000</lastBuildDate>
+    <item>
+      <title>On Microsoft’s Lousy Cloud Security</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html</link>
+      <pubDate>Thu, 09 Apr 2026 10:51:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>30,000 private Facebook images allegedly downloaded by Meta employee</title>
+      <link>https://www.malwarebytes.com/blog/data-breaches/2026/04/30000-private-facebook-images-allegedly-downloaded-by-meta-employee</link>
+      <pubDate>Thu, 09 Apr 2026 10:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>From the field to the report and back again: How incident responders can use the Year in Review</title>
+      <link>https://blog.talosintelligence.com/from-the-field-to-the-report-and-back-again-how-incident-responders-can-use-the-year-in-review/</link>
+      <pubDate>Thu, 09 Apr 2026 10:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Governance Gaps Emerge as AI Agents Drive 76% Increase in NHIs</title>
+      <link>https://www.infosecurity-magazine.com/news/governance-gaps-agents-76-increase/</link>
+      <pubDate>Thu, 09 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This fake Windows support website delivers password-stealing malware</title>
+      <link>https://www.malwarebytes.com/blog/scams/2026/04/this-fake-windows-support-website-delivers-password-stealing-malware</link>
+      <pubDate>Thu, 09 Apr 2026 09:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>The long road to your crypto: ClipBanker and its marathon infection chain</title>
+      <link>https://securelist.com/clipbanker-malware-distributed-via-trojanized-proxifier/119341/</link>
+      <pubDate>Thu, 09 Apr 2026 09:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>The alleged breach of China’s National Supercomputing Center can have serious geopolitical consequences</title>
+      <link>https://securityaffairs.com/190536/hacking/the-alleged-breach-of-chinas-national-supercomputing-center-can-have-serious-geopolitical-consequences.html</link>
+      <pubDate>Thu, 09 Apr 2026 09:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Warns of New Threat Group Targeting BPOs and Helpdesks</title>
+      <link>https://www.infosecurity-magazine.com/news/google-warns-group-targeting-bpos/</link>
+      <pubDate>Thu, 09 Apr 2026 08:35:00 +0000</pubDate>
+    </item>
     <item>
       <title>Internet-Exposed ICS Devices Raise Alarm for Critical Sectors</title>
       <link>https://securityaffairs.com/190525/ics-scada/internet-exposed-ics-devices-raise-alarm-for-critical-sectors.html</link>
@@ -26,6 +66,11 @@
       <title>Smashing Security podcast #462: LinkedIn is spying on you, and you agreed to nothing</title>
       <link>https://grahamcluley.com/smashing-security-podcast-462/</link>
       <pubDate>Wed, 08 Apr 2026 23:27:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals target accountants to drain Russian firms’ bank accounts</title>
+      <link>https://therecord.media/cybercriminals-hack-russian-accountants-to-steal-millions</link>
+      <pubDate>Wed, 08 Apr 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cracks in the Bedrock: Agent God Mode</title>
@@ -81,11 +126,6 @@
       <title>Minnesota governor sends national guard to county after cyberattack</title>
       <link>https://therecord.media/minnesota-sends-national-guard-after-local-cyberattack</link>
       <pubDate>Wed, 08 Apr 2026 17:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two prominent Egyptian journalists targeted with elaborate spearphishing campaign</title>
-      <link>https://therecord.media/two-egyptian-journalists-targeted-spearphishing-campaign</link>
-      <pubDate>Wed, 08 Apr 2026 16:44:00 +0000</pubDate>
     </item>
     <item>
       <title>Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices</title>
@@ -266,46 +306,6 @@
       <title>Russia Hacked Routers to Steal Microsoft Office Tokens</title>
       <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
       <pubDate>Tue, 07 Apr 2026 17:02:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign</title>
-      <link>https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html</link>
-      <pubDate>Tue, 07 Apr 2026 16:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk</title>
-      <link>https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html</link>
-      <pubDate>Tue, 07 Apr 2026 16:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New FBI Warning: Chinese Apps Could Expose User Data</title>
-      <link>https://www.techrepublic.com/article/news-fbi-warns-foreign-apps-data-security-risks/</link>
-      <pubDate>Tue, 07 Apr 2026 16:25:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎙️SECURITY.COM The Podcast: A Brief History of Data Loss Prevention</title>
-      <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-history-dlp</link>
-      <pubDate>Tue, 07 Apr 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian APT28 Hackers Hijack Routers to Steal Credentials, UK Security Agency Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/russia-apt28-hijack-routers-uk-ncsc/</link>
-      <pubDate>Tue, 07 Apr 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Stop Texting’: FBI Warning Drives Apple’s iPhone Messaging Update</title>
-      <link>https://www.techrepublic.com/article/news-apple-rcs-messaging-fbi-warning-sms-security/</link>
-      <pubDate>Tue, 07 Apr 2026 15:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access</title>
-      <link>https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html</link>
-      <pubDate>Tue, 07 Apr 2026 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPU Rowhammer Attack Enables Privilege Escalation and Full System Compromise</title>
-      <link>https://www.infosecurity-magazine.com/news/gpu-based-rowhammer-attack/</link>
-      <pubDate>Tue, 07 Apr 2026 15:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
