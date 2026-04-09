@@ -6,16 +6,46 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 15:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:04:17 +0000</lastBuildDate>
+    <item>
+      <title>UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns</title>
+      <link>https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html</link>
+      <pubDate>Thu, 09 Apr 2026 16:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Apple Scam Hits Millions of iPhone Users Worldwide, Draining Bank Accounts</title>
+      <link>https://www.techrepublic.com/article/news-apple-iphone-scam-targeting-millions-2026/</link>
+      <pubDate>Thu, 09 Apr 2026 15:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massive Data Breach Exposes 337K LAPD-Linked Records</title>
+      <link>https://www.techrepublic.com/article/news-lapd-data-breach-337k-files-exposed/</link>
+      <pubDate>Thu, 09 Apr 2026 15:24:43 +0000</pubDate>
+    </item>
     <item>
       <title>Russia accuses former Radio Free Europe journalist of aiding cyberattacks for Ukraine</title>
       <link>https://therecord.media/russia-accuses-radio-free-europe-journalist-aiding-ukraine-cyberattack</link>
       <pubDate>Thu, 09 Apr 2026 15:02:00 +0000</pubDate>
     </item>
     <item>
+      <title>Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/</link>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>STX RAT Targets Finance Sector With Advanced Stealth Tactics</title>
+      <link>https://www.infosecurity-magazine.com/news/stx-rat-targets-finance-sector/</link>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Masjesu botnet targets IoT devices while evading high-profile networks</title>
       <link>https://securityaffairs.com/190548/malware/masjesu-botnet-targets-iot-devices-while-evading-high-profile-networks.html</link>
       <pubDate>Thu, 09 Apr 2026 14:06:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitcoin Depot Reports $3.6m Crypto Theft After System Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/bitcoin-depot-dollar36m-crypto/</link>
+      <pubDate>Thu, 09 Apr 2026 14:01:00 +0000</pubDate>
     </item>
     <item>
       <title>Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk</title>
@@ -41,6 +71,16 @@
       <title>Cryptocurrency ATM giant Bitcoin Depot reports $3.6 million stolen in cyberattack</title>
       <link>https://therecord.media/crypto-atm-bitcoin-depot-reports-cyberattack</link>
       <pubDate>Thu, 09 Apr 2026 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPL Odorizers GPL750</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02</link>
+      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contemporary Controls BASC 20T</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01</link>
+      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Hidden Security Risks of Shadow AI in Enterprises</title>
@@ -266,46 +306,6 @@
       <title>Python Supply-Chain Compromise</title>
       <link>https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html</link>
       <pubDate>Wed, 08 Apr 2026 10:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Timeshare owners warned to watch out for cartel-linked scams</title>
-      <link>https://www.malwarebytes.com/blog/scams/2026/04/timeshare-owners-warned-to-watch-out-for-cartel-linked-scams</link>
-      <pubDate>Wed, 08 Apr 2026 10:25:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Thwarts DNS Hijacking Network Controlled by Russian APT28 Hackers</title>
-      <link>https://www.infosecurity-magazine.com/news/us-thwarts-dns-hijacking-network/</link>
-      <pubDate>Wed, 08 Apr 2026 10:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Lua-based malware “LucidRook” observed in targeted attacks against Taiwanese organizations</title>
-      <link>https://blog.talosintelligence.com/new-lua-based-malware-lucidrook/</link>
-      <pubDate>Wed, 08 Apr 2026 10:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Architecting for Margin Beyond the Initial Sale</title>
-      <link>https://www.security.com/expert-perspectives/resilient-channel-series-part-2</link>
-      <pubDate>Wed, 08 Apr 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems</title>
-      <link>https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html</link>
-      <pubDate>Wed, 08 Apr 2026 09:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Discovers Apache ActiveMQ Bug Hidden for 13 Years</title>
-      <link>https://www.infosecurity-magazine.com/news/claude-apache-activemq-bug-hidden/</link>
-      <pubDate>Wed, 08 Apr 2026 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Financial cyberthreats in 2025 and the outlook for 2026</title>
-      <link>https://securelist.com/financial-threat-report-2025/119304/</link>
-      <pubDate>Wed, 08 Apr 2026 09:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran‑Backed Threat Actors Hit US CNI Providers via Internet‑Facing OT Assets</title>
-      <link>https://www.infosecurity-magazine.com/news/iranbacked-hackers-cni-ot-assets/</link>
-      <pubDate>Wed, 08 Apr 2026 08:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
