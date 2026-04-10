@@ -6,7 +6,32 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 10:50:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 13:02:56 +0000</lastBuildDate>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 15</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-15-7/</link>
+      <pubDate>Fri, 10 Apr 2026 13:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month</title>
+      <link>https://www.infosecurity-magazine.com/news/three-ransomware-gangs-40-percent/</link>
+      <pubDate>Fri, 10 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAT-10362 linked to LucidRook attacks targeting Taiwan-based institutions</title>
+      <link>https://securityaffairs.com/190598/security/uat-10362-linked-to-lucidrook-attacks-targeting-taiwan-based-institutions.html</link>
+      <pubDate>Fri, 10 Apr 2026 11:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome Rolls Out Protection Against Infostealers Targeting Session Cookies</title>
+      <link>https://www.infosecurity-magazine.com/news/google-chrome-protection/</link>
+      <pubDate>Fri, 10 Apr 2026 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Browser Extensions Are the New AI Consumption Channel That No One Is Talking About</title>
+      <link>https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html</link>
+      <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sen. Sanders Talks to Claude About AI and Privacy</title>
       <link>https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html</link>
@@ -23,19 +48,24 @@
       <pubDate>Fri, 10 Apr 2026 07:58:00 +0000</pubDate>
     </item>
     <item>
+      <title>Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure</title>
+      <link>https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html</link>
+      <pubDate>Fri, 10 Apr 2026 07:37:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Bitcoin Depot hack leads to $3.6M Bitcoin theft via stolen credentials</title>
       <link>https://securityaffairs.com/190578/cyber-crime/bitcoin-depot-hack-leads-to-3-6m-bitcoin-theft-via-stolen-credentials.html</link>
       <pubDate>Fri, 10 Apr 2026 07:14:24 +0000</pubDate>
     </item>
     <item>
-      <title>Obfuscated JavaScript or Nothing, (Thu, Apr 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32884</link>
-      <pubDate>Fri, 10 Apr 2026 06:40:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers</title>
       <link>https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html</link>
       <pubDate>Fri, 10 Apr 2026 06:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dutch hospitals face disruptions after ransomware attack on software provider ChipSoft</title>
+      <link>https://therecord.media/chipsoft-ransomware-attack-disrupts-dutch-hospitals</link>
+      <pubDate>Thu, 09 Apr 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Eurail data breach impacted 308,777 people</title>
@@ -98,13 +128,18 @@
       <pubDate>Thu, 09 Apr 2026 15:02:00 +0000</pubDate>
     </item>
     <item>
+      <title>Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/</link>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>STX RAT Targets Finance Sector With Advanced Stealth Tactics</title>
       <link>https://www.infosecurity-magazine.com/news/stx-rat-targets-finance-sector/</link>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/</link>
+      <title>LOLBins – Analyzing attack techniques with MSBuild</title>
+      <link>https://asec.ahnlab.com/en/93290/</link>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -233,16 +268,6 @@
       <pubDate>Thu, 09 Apr 2026 07:20:08 +0000</pubDate>
     </item>
     <item>
-      <title>ISC Stormcast For Thursday, April 9th, 2026 https://isc.sans.edu/podcastdetail/9886, (Thu, Apr 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32882</link>
-      <pubDate>Thu, 09 Apr 2026 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Number Usage in Passwords: Take Two, (Thu, Apr 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32866</link>
-      <pubDate>Thu, 09 Apr 2026 00:58:14 +0000</pubDate>
-    </item>
-    <item>
       <title>Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.</title>
       <link>https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
@@ -256,11 +281,6 @@
       <title>Smashing Security podcast #462: LinkedIn is spying on you, and you agreed to nothing</title>
       <link>https://grahamcluley.com/smashing-security-podcast-462/</link>
       <pubDate>Wed, 08 Apr 2026 23:27:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals target accountants to drain Russian firms’ bank accounts</title>
-      <link>https://therecord.media/cybercriminals-hack-russian-accountants-to-steal-millions</link>
-      <pubDate>Wed, 08 Apr 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cracks in the Bedrock: Agent God Mode</title>
@@ -286,26 +306,6 @@
       <title>Why Operationalizing AI Security Is the Next Great Enterprise Hurdle</title>
       <link>https://www.techrepublic.com/article/news-nwn-ai-security-platform-tool-sprawl-alert-fatigue/</link>
       <pubDate>Wed, 08 Apr 2026 17:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 ChatGPT AI Prompts L1 SOC Analysts Can Use in Their Daily Work</title>
-      <link>https://www.techrepublic.com/article/news-chatgpt-prompts-soc-analysts-incident-response/</link>
-      <pubDate>Wed, 08 Apr 2026 17:34:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>TeamPCP Supply Chain Campaign: Update 007 - Cisco Source Code Stolen via Trivy-Linked Breach, Google GTIG Tracks TeamPCP as UNC6780, and CISA KEV Deadline Arrives with No Standalone Advisory, (Wed, Apr 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/32880</link>
-      <pubDate>Wed, 08 Apr 2026 17:15:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices</title>
-      <link>https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html</link>
-      <pubDate>Wed, 08 Apr 2026 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google API Keys Quietly Gain Access to Gemini on Android Devices</title>
-      <link>https://www.infosecurity-magazine.com/news/google-api-keys-access-gemini/</link>
-      <pubDate>Wed, 08 Apr 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
