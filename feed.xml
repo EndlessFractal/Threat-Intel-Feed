@@ -6,7 +6,7 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 10:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 14:33:56 +0000</lastBuildDate>
     <item>
       <title>CVE-2026-39987: Marimo RCE exploited in hours after disclosure</title>
       <link>https://securityaffairs.com/190623/hacking/cve-2026-39987-marimo-rce-exploited-in-hours-after-disclosure.html</link>
@@ -46,6 +46,11 @@
       <title>Fake Claude site installs malware that gives attackers access to your computer</title>
       <link>https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer</link>
       <pubDate>Fri, 10 Apr 2026 16:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI and cryptocurrency scams are costing Americans billions, FBI reports</title>
+      <link>https://www.fortra.com/blog/ai-and-cryptocurrency-scams-are-costing-americans-billions-fbi-reports</link>
+      <pubDate>Fri, 10 Apr 2026 15:36:41 +0000</pubDate>
     </item>
     <item>
       <title>[Video] The TTP Ep. 22: The Collapse of the Patch Window</title>
@@ -188,13 +193,13 @@
       <pubDate>Thu, 09 Apr 2026 15:24:43 +0000</pubDate>
     </item>
     <item>
-      <title>Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/</link>
+      <title>STX RAT Targets Finance Sector With Advanced Stealth Tactics</title>
+      <link>https://www.infosecurity-magazine.com/news/stx-rat-targets-finance-sector/</link>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>STX RAT Targets Finance Sector With Advanced Stealth Tactics</title>
-      <link>https://www.infosecurity-magazine.com/news/stx-rat-targets-finance-sector/</link>
+      <title>Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/</link>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -301,11 +306,6 @@
       <title>Governance Gaps Emerge as AI Agents Drive 76% Increase in NHIs</title>
       <link>https://www.infosecurity-magazine.com/news/governance-gaps-agents-76-increase/</link>
       <pubDate>Thu, 09 Apr 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This fake Windows support website delivers password-stealing malware</title>
-      <link>https://www.malwarebytes.com/blog/scams/2026/04/this-fake-windows-support-website-delivers-password-stealing-malware</link>
-      <pubDate>Thu, 09 Apr 2026 09:40:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
