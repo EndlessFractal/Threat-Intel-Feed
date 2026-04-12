@@ -1,245 +1,72 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version="1.0" ?>
+<rss version="2.0">
   <channel>
     <title>EndlessFractal's Threat Intel Feed</title>
-    <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
-    <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 10:35:47 +0000</lastBuildDate>
+    <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Why Anthropic’s Mythos Is a Systemic Shift for Global Cybersecurity</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/why-anthropics-mythos-is-a-systemic-shift-for-global-cybersecurity</link>
-      <pubDate>Sun, 12 Apr 2026 09:12:00 +0000</pubDate>
+      <title>On Microsoft’s Lousy Cloud Security</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html</link>
+      <pubDate>Thu, 09 Apr 2026 10:51:36 +0000</pubDate>
     </item>
     <item>
-      <title>Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/190662/security/security-affairs-newsletter-round-572-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 12 Apr 2026 08:34:05 +0000</pubDate>
+      <title>NSFW app leak exposes 70,000 prompts linked to individual users</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/04/nsfw-app-leak-exposes-70000-prompts-linked-to-individual-users</link>
+      <pubDate>Thu, 09 Apr 2026 11:02:51 +0000</pubDate>
     </item>
     <item>
-      <title>CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads</title>
-      <link>https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html</link>
-      <pubDate>Sun, 12 Apr 2026 05:54:00 +0000</pubDate>
+      <title>Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025</title>
+      <link>https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html</link>
+      <pubDate>Thu, 09 Apr 2026 11:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621</title>
-      <link>https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html</link>
-      <pubDate>Sun, 12 Apr 2026 04:25:00 +0000</pubDate>
+      <title>Atomic Stealer MacOS ClickFix Attack Bypasses Apple Security Warnings</title>
+      <link>https://www.infosecurity-magazine.com/news/atomic-stealer-macos-clickfix/</link>
+      <pubDate>Thu, 09 Apr 2026 11:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S.</title>
-      <link>https://securityaffairs.com/190646/ics-scada/censys-finds-5219-devices-exposed-to-attacks-by-iranian-apts-majority-in-u-s.html</link>
-      <pubDate>Sat, 11 Apr 2026 20:39:37 +0000</pubDate>
+      <title>The Hidden Security Risks of Shadow AI in Enterprises</title>
+      <link>https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html</link>
+      <pubDate>Thu, 09 Apr 2026 11:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>GlassWorm evolves with Zig dropper to infect multiple developer tools</title>
-      <link>https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html</link>
-      <pubDate>Sat, 11 Apr 2026 16:27:02 +0000</pubDate>
+      <title>Contemporary Controls BASC 20T</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01</link>
+      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CVE-2026-39987: Marimo RCE exploited in hours after disclosure</title>
-      <link>https://securityaffairs.com/190623/hacking/cve-2026-39987-marimo-rce-exploited-in-hours-after-disclosure.html</link>
-      <pubDate>Sat, 11 Apr 2026 09:44:44 +0000</pubDate>
+      <title>GPL Odorizers GPL750</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02</link>
+      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data</title>
-      <link>https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html</link>
-      <pubDate>Sat, 11 Apr 2026 06:02:00 +0000</pubDate>
+      <title>ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories</title>
+      <link>https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html</link>
+      <pubDate>Thu, 09 Apr 2026 12:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>Friday Squid Blogging: Squid Overfishing in the South Pacific</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html</link>
-      <pubDate>Fri, 10 Apr 2026 21:03:27 +0000</pubDate>
+      <title>Edge Decay: How a Failing Perimeter Is Fueling Modern Intrusions</title>
+      <link>https://www.sentinelone.com/blog/edge-decay-how-a-failing-perimeter-is-fueling-modern-intrusions/</link>
+      <pubDate>Thu, 09 Apr 2026 13:00:49 +0000</pubDate>
     </item>
     <item>
-      <title>Senator launches inquiry into 8 tech giants for failures to adequately report CSAM</title>
-      <link>https://therecord.media/senator-launches-inquiry-into-tech-giants-csam</link>
-      <pubDate>Fri, 10 Apr 2026 18:05:00 +0000</pubDate>
+      <title>Scammers pose as Amazon support to steal your account</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/04/scammers-pose-as-amazon-support-to-steal-your-account</link>
+      <pubDate>Thu, 09 Apr 2026 13:05:44 +0000</pubDate>
     </item>
     <item>
-      <title>UK government threatens tech bosses with jail time if they do not adequately fight nudification tools</title>
-      <link>https://therecord.media/uk-threatens-tech-bosses-with-jail-ai-nudification</link>
-      <pubDate>Fri, 10 Apr 2026 17:35:00 +0000</pubDate>
+      <title>Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/</link>
+      <pubDate>Thu, 09 Apr 2026 13:21:18 +0000</pubDate>
     </item>
     <item>
-      <title>‘It reads like a spy novel’: $280 million theft from Drift involved North Korean fake companies, cutouts</title>
-      <link>https://therecord.media/drift-crypto-theft-post-mortem-north-korea</link>
-      <pubDate>Fri, 10 Apr 2026 17:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Third-Party Android Vulnerability Leaves Over 50M Users Exposed</title>
-      <link>https://www.techrepublic.com/article/news-engagelab-sdk-android-vulnerability-malware-bridge/</link>
-      <pubDate>Fri, 10 Apr 2026 17:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Claude site installs malware that gives attackers access to your computer</title>
-      <link>https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer</link>
-      <pubDate>Fri, 10 Apr 2026 16:16:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI and cryptocurrency scams are costing Americans billions, FBI reports</title>
-      <link>https://www.fortra.com/blog/ai-and-cryptocurrency-scams-are-costing-americans-billions-fbi-reports</link>
-      <pubDate>Fri, 10 Apr 2026 15:36:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Video] The TTP Ep. 22: The Collapse of the Patch Window</title>
-      <link>https://blog.talosintelligence.com/video-the-ttp-ep-22-the-collapse-of-the-patch-window/</link>
-      <pubDate>Fri, 10 Apr 2026 15:29:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClickFix finds a new way to infect Macs</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/04/clickfix-finds-new-way-to-infect-macs</link>
-      <pubDate>Fri, 10 Apr 2026 15:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware attack on ChipSoft knocks EHR services offline across hospitals in the Netherlands and Belgium</title>
-      <link>https://securityaffairs.com/190615/cyber-crime/ransomware-attack-on-chipsoft-knocks-ehr-services-offline-across-hospitals-in-the-netherlands-and-belgium.html</link>
-      <pubDate>Fri, 10 Apr 2026 14:12:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Florida investigates OpenAI for role ChatGPT may have played in deadly shooting</title>
-      <link>https://therecord.media/florida-investigates-openai-chatgpt-deadly-shooting</link>
-      <pubDate>Fri, 10 Apr 2026 14:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Expansion, Security Crises, and Workforce Upheaval Define This Week in Tech</title>
-      <link>https://www.techrepublic.com/article/ai-expansion-security-crises-and-workforce-upheaval-define-this-week-in-tech/</link>
-      <pubDate>Fri, 10 Apr 2026 14:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs</title>
-      <link>https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html</link>
-      <pubDate>Fri, 10 Apr 2026 13:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK says it exposed Russian submarine activity near undersea cables</title>
-      <link>https://therecord.media/uk-says-it-exposed-russian-submarine-activity</link>
-      <pubDate>Fri, 10 Apr 2026 13:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 15</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-15-7/</link>
-      <pubDate>Fri, 10 Apr 2026 13:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month</title>
-      <link>https://www.infosecurity-magazine.com/news/three-ransomware-gangs-40-percent/</link>
-      <pubDate>Fri, 10 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAT-10362 linked to LucidRook attacks targeting Taiwan-based institutions</title>
-      <link>https://securityaffairs.com/190598/security/uat-10362-linked-to-lucidrook-attacks-targeting-taiwan-based-institutions.html</link>
-      <pubDate>Fri, 10 Apr 2026 11:27:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Rolls Out Protection Against Infostealers Targeting Session Cookies</title>
-      <link>https://www.infosecurity-magazine.com/news/google-chrome-protection/</link>
-      <pubDate>Fri, 10 Apr 2026 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Browser Extensions Are the New AI Consumption Channel That No One Is Talking About</title>
-      <link>https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html</link>
-      <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sen. Sanders Talks to Claude About AI and Privacy</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html</link>
-      <pubDate>Fri, 10 Apr 2026 10:41:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>EngageLab SDK flaw opens door to private data on 50M Android devices</title>
-      <link>https://securityaffairs.com/190586/hacking/engagelab-sdk-flaw-opens-door-to-private-data-on-50m-android-devices.html</link>
-      <pubDate>Fri, 10 Apr 2026 08:41:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows</title>
-      <link>https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html</link>
-      <pubDate>Fri, 10 Apr 2026 07:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure</title>
-      <link>https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html</link>
-      <pubDate>Fri, 10 Apr 2026 07:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin Depot hack leads to $3.6M Bitcoin theft via stolen credentials</title>
-      <link>https://securityaffairs.com/190578/cyber-crime/bitcoin-depot-hack-leads-to-3-6m-bitcoin-theft-via-stolen-credentials.html</link>
-      <pubDate>Fri, 10 Apr 2026 07:14:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Obfuscated JavaScript or Nothing, (Thu, Apr 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/32884</link>
-      <pubDate>Fri, 10 Apr 2026 06:40:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers</title>
-      <link>https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html</link>
-      <pubDate>Fri, 10 Apr 2026 06:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eurail data breach impacted 308,777 people</title>
-      <link>https://securityaffairs.com/190570/data-breach/eurail-data-breach-impacted-308777-people.html</link>
-      <pubDate>Thu, 09 Apr 2026 20:42:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious PDF reveals active Adobe Reader zero-day in the wild</title>
-      <link>https://securityaffairs.com/190558/hacking/malicious-pdf-reveals-active-adobe-reader-zero-day-in-the-wild.html</link>
-      <pubDate>Thu, 09 Apr 2026 19:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>The agentic SOC—Rethinking SecOps for the next decade</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/</link>
-      <pubDate>Thu, 09 Apr 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Adobe PDF Flaw for Months to Steal Data, No Fix Yet</title>
-      <link>https://www.techrepublic.com/article/news-adobe-acrobat-zero-day-pdf-exploit-months/</link>
-      <pubDate>Thu, 09 Apr 2026 18:33:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>The threat hunter’s gambit</title>
-      <link>https://blog.talosintelligence.com/the-threat-hunters-gambit/</link>
-      <pubDate>Thu, 09 Apr 2026 18:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs</title>
-      <link>https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html</link>
-      <pubDate>Thu, 09 Apr 2026 17:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns</title>
-      <link>https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html</link>
-      <pubDate>Thu, 09 Apr 2026 16:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Apple Scam Hits Millions of iPhone Users Worldwide, Draining Bank Accounts</title>
-      <link>https://www.techrepublic.com/article/news-apple-iphone-scam-targeting-millions-2026/</link>
-      <pubDate>Thu, 09 Apr 2026 15:42:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Data Breach Exposes 337K LAPD-Linked Records</title>
-      <link>https://www.techrepublic.com/article/news-lapd-data-breach-337k-files-exposed/</link>
-      <pubDate>Thu, 09 Apr 2026 15:24:43 +0000</pubDate>
+      <title>Bitcoin Depot Reports $3.6m Crypto Theft After System Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/bitcoin-depot-dollar36m-crypto/</link>
+      <pubDate>Thu, 09 Apr 2026 14:01:00 +0000</pubDate>
     </item>
     <item>
       <title>Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/</link>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>STX RAT Targets Finance Sector With Advanced Stealth Tactics</title>
-      <link>https://www.infosecurity-magazine.com/news/stx-rat-targets-finance-sector/</link>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/93293/</link>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LOLBins – Analyzing attack techniques with MSBuild</title>
-      <link>https://asec.ahnlab.com/en/93290/</link>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -248,64 +75,234 @@
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bitcoin Depot Reports $3.6m Crypto Theft After System Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/bitcoin-depot-dollar36m-crypto/</link>
-      <pubDate>Thu, 09 Apr 2026 14:01:00 +0000</pubDate>
+      <title>LOLBins – Analyzing attack techniques with MSBuild</title>
+      <link>https://asec.ahnlab.com/en/93290/</link>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/</link>
-      <pubDate>Thu, 09 Apr 2026 13:21:18 +0000</pubDate>
+      <title>March 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/93293/</link>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Scammers pose as Amazon support to steal your account</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/04/scammers-pose-as-amazon-support-to-steal-your-account</link>
-      <pubDate>Thu, 09 Apr 2026 13:05:44 +0000</pubDate>
+      <title>STX RAT Targets Finance Sector With Advanced Stealth Tactics</title>
+      <link>https://www.infosecurity-magazine.com/news/stx-rat-targets-finance-sector/</link>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Edge Decay: How a Failing Perimeter Is Fueling Modern Intrusions</title>
-      <link>https://www.sentinelone.com/blog/edge-decay-how-a-failing-perimeter-is-fueling-modern-intrusions/</link>
-      <pubDate>Thu, 09 Apr 2026 13:00:49 +0000</pubDate>
+      <title>Massive Data Breach Exposes 337K LAPD-Linked Records</title>
+      <link>https://www.techrepublic.com/article/news-lapd-data-breach-337k-files-exposed/</link>
+      <pubDate>Thu, 09 Apr 2026 15:24:43 +0000</pubDate>
     </item>
     <item>
-      <title>ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories</title>
-      <link>https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html</link>
-      <pubDate>Thu, 09 Apr 2026 12:57:00 +0000</pubDate>
+      <title>New Apple Scam Hits Millions of iPhone Users Worldwide, Draining Bank Accounts</title>
+      <link>https://www.techrepublic.com/article/news-apple-iphone-scam-targeting-millions-2026/</link>
+      <pubDate>Thu, 09 Apr 2026 15:42:25 +0000</pubDate>
     </item>
     <item>
-      <title>GPL Odorizers GPL750</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02</link>
-      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+      <title>UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns</title>
+      <link>https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html</link>
+      <pubDate>Thu, 09 Apr 2026 16:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>Contemporary Controls BASC 20T</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01</link>
-      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+      <title>EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs</title>
+      <link>https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html</link>
+      <pubDate>Thu, 09 Apr 2026 17:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Hidden Security Risks of Shadow AI in Enterprises</title>
-      <link>https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html</link>
-      <pubDate>Thu, 09 Apr 2026 11:31:00 +0000</pubDate>
+      <title>The threat hunter’s gambit</title>
+      <link>https://blog.talosintelligence.com/the-threat-hunters-gambit/</link>
+      <pubDate>Thu, 09 Apr 2026 18:00:20 +0000</pubDate>
     </item>
     <item>
-      <title>Atomic Stealer MacOS ClickFix Attack Bypasses Apple Security Warnings</title>
-      <link>https://www.infosecurity-magazine.com/news/atomic-stealer-macos-clickfix/</link>
-      <pubDate>Thu, 09 Apr 2026 11:20:00 +0000</pubDate>
+      <title>Hackers Exploit Adobe PDF Flaw for Months to Steal Data, No Fix Yet</title>
+      <link>https://www.techrepublic.com/article/news-adobe-acrobat-zero-day-pdf-exploit-months/</link>
+      <pubDate>Thu, 09 Apr 2026 18:33:04 +0000</pubDate>
     </item>
     <item>
-      <title>Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025</title>
-      <link>https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html</link>
-      <pubDate>Thu, 09 Apr 2026 11:15:00 +0000</pubDate>
+      <title>The agentic SOC—Rethinking SecOps for the next decade</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/</link>
+      <pubDate>Thu, 09 Apr 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NSFW app leak exposes 70,000 prompts linked to individual users</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/04/nsfw-app-leak-exposes-70000-prompts-linked-to-individual-users</link>
-      <pubDate>Thu, 09 Apr 2026 11:02:51 +0000</pubDate>
+      <title>Malicious PDF reveals active Adobe Reader zero-day in the wild</title>
+      <link>https://securityaffairs.com/190558/hacking/malicious-pdf-reveals-active-adobe-reader-zero-day-in-the-wild.html</link>
+      <pubDate>Thu, 09 Apr 2026 19:14:16 +0000</pubDate>
     </item>
     <item>
-      <title>On Microsoft’s Lousy Cloud Security</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html</link>
-      <pubDate>Thu, 09 Apr 2026 10:51:36 +0000</pubDate>
+      <title>Eurail data breach impacted 308,777 people</title>
+      <link>https://securityaffairs.com/190570/data-breach/eurail-data-breach-impacted-308777-people.html</link>
+      <pubDate>Thu, 09 Apr 2026 20:42:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers</title>
+      <link>https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html</link>
+      <pubDate>Fri, 10 Apr 2026 06:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obfuscated JavaScript or Nothing, (Thu, Apr 9th)</title>
+      <link>https://isc.sans.edu/diary/rss/32884</link>
+      <pubDate>Fri, 10 Apr 2026 06:40:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitcoin Depot hack leads to $3.6M Bitcoin theft via stolen credentials</title>
+      <link>https://securityaffairs.com/190578/cyber-crime/bitcoin-depot-hack-leads-to-3-6m-bitcoin-theft-via-stolen-credentials.html</link>
+      <pubDate>Fri, 10 Apr 2026 07:14:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure</title>
+      <link>https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html</link>
+      <pubDate>Fri, 10 Apr 2026 07:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows</title>
+      <link>https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html</link>
+      <pubDate>Fri, 10 Apr 2026 07:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EngageLab SDK flaw opens door to private data on 50M Android devices</title>
+      <link>https://securityaffairs.com/190586/hacking/engagelab-sdk-flaw-opens-door-to-private-data-on-50m-android-devices.html</link>
+      <pubDate>Fri, 10 Apr 2026 08:41:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sen. Sanders Talks to Claude About AI and Privacy</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html</link>
+      <pubDate>Fri, 10 Apr 2026 10:41:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Browser Extensions Are the New AI Consumption Channel That No One Is Talking About</title>
+      <link>https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html</link>
+      <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome Rolls Out Protection Against Infostealers Targeting Session Cookies</title>
+      <link>https://www.infosecurity-magazine.com/news/google-chrome-protection/</link>
+      <pubDate>Fri, 10 Apr 2026 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAT-10362 linked to LucidRook attacks targeting Taiwan-based institutions</title>
+      <link>https://securityaffairs.com/190598/security/uat-10362-linked-to-lucidrook-attacks-targeting-taiwan-based-institutions.html</link>
+      <pubDate>Fri, 10 Apr 2026 11:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month</title>
+      <link>https://www.infosecurity-magazine.com/news/three-ransomware-gangs-40-percent/</link>
+      <pubDate>Fri, 10 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 15</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-15-7/</link>
+      <pubDate>Fri, 10 Apr 2026 13:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK says it exposed Russian submarine activity near undersea cables</title>
+      <link>https://therecord.media/uk-says-it-exposed-russian-submarine-activity</link>
+      <pubDate>Fri, 10 Apr 2026 13:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs</title>
+      <link>https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html</link>
+      <pubDate>Fri, 10 Apr 2026 13:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Expansion, Security Crises, and Workforce Upheaval Define This Week in Tech</title>
+      <link>https://www.techrepublic.com/article/ai-expansion-security-crises-and-workforce-upheaval-define-this-week-in-tech/</link>
+      <pubDate>Fri, 10 Apr 2026 14:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Florida investigates OpenAI for role ChatGPT may have played in deadly shooting</title>
+      <link>https://therecord.media/florida-investigates-openai-chatgpt-deadly-shooting</link>
+      <pubDate>Fri, 10 Apr 2026 14:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attack on ChipSoft knocks EHR services offline across hospitals in the Netherlands and Belgium</title>
+      <link>https://securityaffairs.com/190615/cyber-crime/ransomware-attack-on-chipsoft-knocks-ehr-services-offline-across-hospitals-in-the-netherlands-and-belgium.html</link>
+      <pubDate>Fri, 10 Apr 2026 14:12:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickFix finds a new way to infect Macs</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/04/clickfix-finds-new-way-to-infect-macs</link>
+      <pubDate>Fri, 10 Apr 2026 15:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Video] The TTP Ep. 22: The Collapse of the Patch Window</title>
+      <link>https://blog.talosintelligence.com/video-the-ttp-ep-22-the-collapse-of-the-patch-window/</link>
+      <pubDate>Fri, 10 Apr 2026 15:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI and cryptocurrency scams are costing Americans billions, FBI reports</title>
+      <link>https://www.fortra.com/blog/ai-and-cryptocurrency-scams-are-costing-americans-billions-fbi-reports</link>
+      <pubDate>Fri, 10 Apr 2026 15:36:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Claude site installs malware that gives attackers access to your computer</title>
+      <link>https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer</link>
+      <pubDate>Fri, 10 Apr 2026 16:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: Third-Party Android Vulnerability Leaves Over 50M Users Exposed</title>
+      <link>https://www.techrepublic.com/article/news-engagelab-sdk-android-vulnerability-malware-bridge/</link>
+      <pubDate>Fri, 10 Apr 2026 17:02:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘It reads like a spy novel’: $280 million theft from Drift involved North Korean fake companies, cutouts</title>
+      <link>https://therecord.media/drift-crypto-theft-post-mortem-north-korea</link>
+      <pubDate>Fri, 10 Apr 2026 17:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK government threatens tech bosses with jail time if they do not adequately fight nudification tools</title>
+      <link>https://therecord.media/uk-threatens-tech-bosses-with-jail-ai-nudification</link>
+      <pubDate>Fri, 10 Apr 2026 17:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Senator launches inquiry into 8 tech giants for failures to adequately report CSAM</title>
+      <link>https://therecord.media/senator-launches-inquiry-into-tech-giants-csam</link>
+      <pubDate>Fri, 10 Apr 2026 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: Squid Overfishing in the South Pacific</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html</link>
+      <pubDate>Fri, 10 Apr 2026 21:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data</title>
+      <link>https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html</link>
+      <pubDate>Sat, 11 Apr 2026 06:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-39987: Marimo RCE exploited in hours after disclosure</title>
+      <link>https://securityaffairs.com/190623/hacking/cve-2026-39987-marimo-rce-exploited-in-hours-after-disclosure.html</link>
+      <pubDate>Sat, 11 Apr 2026 09:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>GlassWorm evolves with Zig dropper to infect multiple developer tools</title>
+      <link>https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html</link>
+      <pubDate>Sat, 11 Apr 2026 16:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S.</title>
+      <link>https://securityaffairs.com/190646/ics-scada/censys-finds-5219-devices-exposed-to-attacks-by-iranian-apts-majority-in-u-s.html</link>
+      <pubDate>Sat, 11 Apr 2026 20:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621</title>
+      <link>https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html</link>
+      <pubDate>Sun, 12 Apr 2026 04:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads</title>
+      <link>https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html</link>
+      <pubDate>Sun, 12 Apr 2026 05:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
+      <link>https://securityaffairs.com/190662/security/security-affairs-newsletter-round-572-by-pierluigi-paganini-international-edition.html</link>
+      <pubDate>Sun, 12 Apr 2026 08:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Anthropic’s Mythos Is a Systemic Shift for Global Cybersecurity</title>
+      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/why-anthropics-mythos-is-a-systemic-shift-for-global-cybersecurity</link>
+      <pubDate>Sun, 12 Apr 2026 09:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
