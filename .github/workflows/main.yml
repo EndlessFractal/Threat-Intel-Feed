@@ -1,5 +1,4 @@
 name: Update Feed
-
 on:
   workflow_dispatch:
   schedule:
@@ -8,6 +7,8 @@ on:
 jobs:
   update_feed:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout code
@@ -17,36 +18,33 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: '3.14'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
-      - name: Run Parser
+      - name: Run parser
         run: python FeedMerger.py
 
-      - name: Set git config
+      - name: Send notification
+        env:
+          SECRET_WEBHOOK_URL: ${{ secrets.SECRET_WEBHOOK_URL }}
+          SECRET_WEBHOOK_URL2: ${{ secrets.SECRET_WEBHOOK_URL2 }}
+        run: |
+          python RSSparser.py $SECRET_WEBHOOK_URL $SECRET_WEBHOOK_URL2
+
+      - name: Commit and push changes (if any)
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@github.com"
-
-      - name: Check for feed updates
-        id: check_changes
-        run: |
-          if diff -q --ignore-all-space \
-            <(git show HEAD:feed.xml | grep -v -E '<(pubDate|lastBuildDate)>') \
-            <(cat feed.xml | grep -v -E '<(pubDate|lastBuildDate)>') > /dev/null; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "No meaningful changes to commit."
+          
+          git add feed.xml posted_links.txt
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
           else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "Meaningful changes detected in feed.xml"
+            git commit -m "RSS Feed Update"
+            git push
           fi
-
-      - name: Commit changes
-        if: steps.check_changes.outputs.has_changes == 'true'
-        run: |
-          git add feed.xml
-          git commit -m "Update RSS feed"
-          git push
