@@ -5,21 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Sen. Sanders Talks to Claude About AI and Privacy</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html</link>
-      <pubDate>Fri, 10 Apr 2026 10:41:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Browser Extensions Are the New AI Consumption Channel That No One Is Talking About</title>
-      <link>https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html</link>
-      <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Rolls Out Protection Against Infostealers Targeting Session Cookies</title>
-      <link>https://www.infosecurity-magazine.com/news/google-chrome-protection/</link>
-      <pubDate>Fri, 10 Apr 2026 11:25:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month</title>
       <link>https://www.infosecurity-magazine.com/news/three-ransomware-gangs-40-percent/</link>
       <pubDate>Fri, 10 Apr 2026 12:00:00 +0000</pubDate>
@@ -65,11 +50,6 @@
       <pubDate>Fri, 10 Apr 2026 17:02:52 +0000</pubDate>
     </item>
     <item>
-      <title>UK government threatens tech bosses with jail time if they do not adequately fight nudification tools</title>
-      <link>https://therecord.media/uk-threatens-tech-bosses-with-jail-ai-nudification</link>
-      <pubDate>Fri, 10 Apr 2026 17:35:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Senator launches inquiry into 8 tech giants for failures to adequately report CSAM</title>
       <link>https://therecord.media/senator-launches-inquiry-into-tech-giants-csam</link>
       <pubDate>Fri, 10 Apr 2026 18:05:00 +0000</pubDate>
@@ -83,11 +63,6 @@
       <title>Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data</title>
       <link>https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html</link>
       <pubDate>Sat, 11 Apr 2026 06:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GlassWorm evolves with Zig dropper to infect multiple developer tools</title>
-      <link>https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html</link>
-      <pubDate>Sat, 11 Apr 2026 16:27:02 +0000</pubDate>
     </item>
     <item>
       <title>Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S.</title>
@@ -167,6 +142,11 @@
     <item>
       <title>March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day</title>
       <link>https://www.recordedfuture.com/blog/march-2026-cve-landscape</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Iran War: What You Need to Know</title>
+      <link>https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know</link>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -295,6 +275,11 @@
       <pubDate>Mon, 13 Apr 2026 16:52:57 +0000</pubDate>
     </item>
     <item>
+      <title>JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025</title>
+      <link>https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html</link>
+      <pubDate>Mon, 13 Apr 2026 17:15:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Google Rolls Out End-to-End Encryption to Eligible Gmail Users on Mobile</title>
       <link>https://www.techrepublic.com/article/news-gmail-end-to-end-encryption-mobile/</link>
       <pubDate>Mon, 13 Apr 2026 17:20:13 +0000</pubDate>
@@ -303,6 +288,21 @@
       <title>Booking.com Hack Exposes Customer Data, Sparks Travel Scam Fears</title>
       <link>https://www.techrepublic.com/article/news-booking-com-data-breach-traveler-scam-risk/</link>
       <pubDate>Mon, 13 Apr 2026 17:36:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers access Booking.com user data, company secures systems</title>
+      <link>https://securityaffairs.com/190757/data-breach/hackers-access-booking-com-user-data-company-secures-systems.html</link>
+      <pubDate>Mon, 13 Apr 2026 19:13:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Majority of Australian youth still use social media despite ban, researchers find</title>
+      <link>https://therecord.media/social-media-ban-australia-research</link>
+      <pubDate>Mon, 13 Apr 2026 20:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>GrafanaGhost: The AI That Leaked Everything Without Being Hacked</title>
+      <link>https://www.techrepublic.com/article/news-grafanaghost-ai-data-exfiltration-security-risk/</link>
+      <pubDate>Mon, 13 Apr 2026 20:28:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
