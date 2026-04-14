@@ -5,41 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads</title>
-      <link>https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html</link>
-      <pubDate>Sun, 12 Apr 2026 05:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Anthropic’s Mythos Is a Systemic Shift for Global Cybersecurity</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/why-anthropics-mythos-is-a-systemic-shift-for-global-cybersecurity</link>
-      <pubDate>Sun, 12 Apr 2026 09:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Dark Web Issue Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93323/</link>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Dark Web Threat Actor Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93324/</link>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Dark Web Breach Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93325/</link>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Q1 2026 Malware Statistics Report for Windows Database Servers</title>
-      <link>https://asec.ahnlab.com/en/93333/</link>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Q1 2026 malware statistics report for Windows web servers</title>
-      <link>https://asec.ahnlab.com/en/93335/</link>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Q1 2026 Malware Statistics Report for Linux SSH Servers</title>
       <link>https://asec.ahnlab.com/en/93336/</link>
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
@@ -48,11 +13,6 @@
       <title>March 2026 Ransomware Trends Report</title>
       <link>https://asec.ahnlab.com/en/93359/</link>
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe fixes actively exploited Acrobat Reader flaw CVE-2026-34621</title>
-      <link>https://securityaffairs.com/190697/security/adobe-fixes-actively-exploited-acrobat-reader-flaw-cve-2026-34621.html</link>
-      <pubDate>Sun, 12 Apr 2026 17:47:08 +0000</pubDate>
     </item>
     <item>
       <title>Hack at Dutch gym chain Basic-Fit exposes customer data in several EU countries</title>
@@ -303,6 +263,46 @@
       <title>Omnistealer uses the blockchain to steal everything it can</title>
       <link>https://www.malwarebytes.com/blog/news/2026/04/omnistealer-uses-the-blockchain-to-steal-everything-it-can</link>
       <pubDate>Tue, 14 Apr 2026 11:52:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing non-human identities: automated revocation, OAuth, and scoped permissions</title>
+      <link>https://blog.cloudflare.com/improved-developer-security/</link>
+      <pubDate>Tue, 14 Apr 2026 13:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling MCP adoption: Our reference architecture for simpler, safer and cheaper enterprise deployments of MCP</title>
+      <link>https://blog.cloudflare.com/enterprise-mcp/</link>
+      <pubDate>Tue, 14 Apr 2026 13:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Managed OAuth for Access: make internal apps agent-ready in one click</title>
+      <link>https://blog.cloudflare.com/managed-oauth-for-access/</link>
+      <pubDate>Tue, 14 Apr 2026 13:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>State-sponsored threats: Different objectives, similar access paths</title>
+      <link>https://blog.talosintelligence.com/state-sponsored-threats-different-objectives-similar-access-paths/</link>
+      <pubDate>Tue, 14 Apr 2026 13:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>US, UK and Canada disrupt $45M crypto theft in Operation Atlantic</title>
+      <link>https://securityaffairs.com/190805/cyber-crime/us-uk-and-canada-disrupt-45m-crypto-theft-in-operation-atlantic.html</link>
+      <pubDate>Tue, 14 Apr 2026 13:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia appears to block social media platform Bluesky amid wider internet restrictions</title>
+      <link>https://therecord.media/russia-cracks-down-bluesky-internet</link>
+      <pubDate>Tue, 14 Apr 2026 13:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security</title>
+      <link>https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html</link>
+      <pubDate>Tue, 14 Apr 2026 13:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google $135M Settlement: Millions of Android Users May Qualify for Payout</title>
+      <link>https://www.techrepublic.com/article/news-google-135m-android-data-settlement-payout/</link>
+      <pubDate>Tue, 14 Apr 2026 14:22:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
