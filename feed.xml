@@ -5,51 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More</title>
-      <link>https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html</link>
-      <pubDate>Mon, 13 Apr 2026 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scans for EncystPHP Webshell, (Mon, Apr 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/32892</link>
-      <pubDate>Mon, 13 Apr 2026 13:02:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mirax Android Trojan Turns Devices Into Residential Proxy Nodes</title>
-      <link>https://www.infosecurity-magazine.com/news/mirax-trojan-devices-proxy-nodes/</link>
-      <pubDate>Mon, 13 Apr 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts</title>
-      <link>https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html</link>
-      <pubDate>Mon, 13 Apr 2026 14:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mailbox Rule Abuse Emerges as Stealthy Post-Compromise Threat</title>
-      <link>https://www.infosecurity-magazine.com/news/mailbox-rule-abuse-stealthy-post/</link>
-      <pubDate>Mon, 13 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On Anthropic’s Mythos Preview and Project Glasswing</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html</link>
-      <pubDate>Mon, 13 Apr 2026 16:52:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025</title>
-      <link>https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html</link>
-      <pubDate>Mon, 13 Apr 2026 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Rolls Out End-to-End Encryption to Eligible Gmail Users on Mobile</title>
-      <link>https://www.techrepublic.com/article/news-gmail-end-to-end-encryption-mobile/</link>
-      <pubDate>Mon, 13 Apr 2026 17:20:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Booking.com Hack Exposes Customer Data, Sparks Travel Scam Fears</title>
-      <link>https://www.techrepublic.com/article/news-booking-com-data-breach-traveler-scam-risk/</link>
-      <pubDate>Mon, 13 Apr 2026 17:36:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Hackers access Booking.com user data, company secures systems</title>
       <link>https://securityaffairs.com/190757/data-breach/hackers-access-booking-com-user-data-company-secures-systems.html</link>
       <pubDate>Mon, 13 Apr 2026 19:13:18 +0000</pubDate>
@@ -298,6 +253,51 @@
       <title>Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities</title>
       <link>https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html</link>
       <pubDate>Wed, 15 Apr 2026 08:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Credit Resources Vault: Why this credit email set off our scam alarms</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/04/credit-resources-vault-why-this-credit-email-set-off-our-scam-alarms</link>
+      <pubDate>Wed, 15 Apr 2026 09:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Fixes Two Zero-Days in April Patch Tuesday</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-two-zerodays-april-patch/</link>
+      <pubDate>Wed, 15 Apr 2026 09:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Spot Surge in Brute-Force Attacks from Middle East</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-surge-bruteforce/</link>
+      <pubDate>Wed, 15 Apr 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April Patch Tuesday fixes two zero-days, including one under active attack</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/04/april-patch-tuesday-fixes-two-zero-days-including-one-under-active-attack</link>
+      <pubDate>Wed, 15 Apr 2026 09:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Technical Enablement vs. Marketing Noise</title>
+      <link>https://www.security.com/expert-perspectives/resilient-channel-series-part-3</link>
+      <pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The n8n n8mare: How threat actors are misusing AI workflow automation</title>
+      <link>https://blog.talosintelligence.com/the-n8n-n8mare/</link>
+      <pubDate>Wed, 15 Apr 2026 10:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Companies To Play Bigger Role in CVE Program, Says CISA</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-companies-to-play-bigger-role/</link>
+      <pubDate>Wed, 15 Apr 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From fake Proton VPN sites to gaming mods, this Windows infostealer is everywhere</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/04/from-fake-proton-vpn-sites-to-gaming-mods-this-windows-infostealer-is-everywhere</link>
+      <pubDate>Wed, 15 Apr 2026 10:37:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defense in Depth, Medieval Style</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html</link>
+      <pubDate>Wed, 15 Apr 2026 10:47:55 +0000</pubDate>
     </item>
     <item>
       <title>Big tech fails to opt-out users requesting not to be tracked much of the time, new research says</title>
