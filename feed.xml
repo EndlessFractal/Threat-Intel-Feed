@@ -5,16 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Signed Adware Operation Disables Antivirus Across 23,000 Hosts</title>
-      <link>https://www.infosecurity-magazine.com/news/dragon-boss-adware-disables/</link>
-      <pubDate>Wed, 15 Apr 2026 14:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, April 2026</title>
-      <link>https://asec.ahnlab.com/en/93410/</link>
-      <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>European Cybersecurity Agency ENISA Seeks Top-Tier Status in CVE Program</title>
       <link>https://www.infosecurity-magazine.com/news/enisa-europe-seeks-top-level-root/</link>
       <pubDate>Wed, 15 Apr 2026 15:31:00 +0000</pubDate>
@@ -165,13 +155,18 @@
       <pubDate>Thu, 16 Apr 2026 11:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>Horner Automation Cscape and XL4, XL7 PLC</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02</link>
+      <title>AVEVA Pipeline Simulation</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04</link>
       <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anviz Multiple Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03</link>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horner Automation Cscape and XL4, XL7 PLC</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02</link>
       <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -180,8 +175,8 @@
       <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AVEVA Pipeline Simulation</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04</link>
+      <title>Anviz Multiple Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03</link>
       <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -303,6 +298,11 @@
       <title>Frontier AI Reinforces the Future of Modern Cyber Defense</title>
       <link>https://www.sentinelone.com/blog/frontier-ai-reinforces-the-future-of-modern-cyber-defense/</link>
       <pubDate>Thu, 16 Apr 2026 19:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Deep Dive Into Attempted Exploitation of CVE-2023-33538</title>
+      <link>https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/</link>
+      <pubDate>Thu, 16 Apr 2026 22:00:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
