@@ -5,26 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>PHP Composer flaws enable remote command execution via Perforce VCS</title>
-      <link>https://securityaffairs.com/190824/security/php-composer-flaws-enable-remote-command-execution-via-perforce-vcs.html</link>
-      <pubDate>Wed, 15 Apr 2026 08:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities</title>
-      <link>https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html</link>
-      <pubDate>Wed, 15 Apr 2026 08:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Credit Resources Vault: Why this credit email set off our scam alarms</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/04/credit-resources-vault-why-this-credit-email-set-off-our-scam-alarms</link>
-      <pubDate>Wed, 15 Apr 2026 09:08:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes Two Zero-Days in April Patch Tuesday</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-two-zerodays-april-patch/</link>
-      <pubDate>Wed, 15 Apr 2026 09:10:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Researchers Spot Surge in Brute-Force Attacks from Middle East</title>
       <link>https://www.infosecurity-magazine.com/news/researchers-surge-bruteforce/</link>
       <pubDate>Wed, 15 Apr 2026 09:45:00 +0000</pubDate>
@@ -140,11 +120,6 @@
       <pubDate>Wed, 15 Apr 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>UK warns businesses to address cyber risks amid Anthropic AI panic</title>
-      <link>https://therecord.media/anthropic-mythos-uk-cyber-risk</link>
-      <pubDate>Wed, 15 Apr 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Incident response for AI: Same fire, different fuel</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/</link>
       <pubDate>Wed, 15 Apr 2026 16:00:45 +0000</pubDate>
@@ -183,11 +158,6 @@
       <title>NIST to limit work on CVE entries as submissions surge</title>
       <link>https://therecord.media/nist-to-limit-work-on-cve-entries-surge</link>
       <pubDate>Wed, 15 Apr 2026 20:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian emergency services and hospitals hit by espionage campaign using new AgingFly malware</title>
-      <link>https://therecord.media/aging-fly-espionage-campaign-targets-ukraine-emergency-services</link>
-      <pubDate>Wed, 15 Apr 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Smashing Security podcast #463: This AI company leaked its own code. It’s also built something terrifying</title>
@@ -265,14 +235,14 @@
       <pubDate>Thu, 16 Apr 2026 10:00:33 +0000</pubDate>
     </item>
     <item>
+      <title>Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks</title>
+      <link>https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html</link>
+      <pubDate>Thu, 16 Apr 2026 10:20:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu</title>
       <link>https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html</link>
       <pubDate>Thu, 16 Apr 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks</title>
-      <link>https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html</link>
-      <pubDate>Thu, 16 Apr 2026 11:02:00 +0000</pubDate>
     </item>
     <item>
       <title>Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution</title>
@@ -283,6 +253,11 @@
       <title>[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment</title>
       <link>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</link>
       <pubDate>Thu, 16 Apr 2026 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian emergency services and hospitals hit by espionage campaign using new AgingFly malware</title>
+      <link>https://therecord.media/aging-fly-espionage-campaign-targets-ukraine-emergency-services</link>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>“iCloud storage is full” scam is back, and now it wants your payment details</title>
@@ -303,6 +278,31 @@
       <title>NIST Drops NVD Enrichment for Pre-March 2026 Vulnerabilities</title>
       <link>https://www.infosecurity-magazine.com/news/nvd-enrichment-premarch-2026/</link>
       <pubDate>Thu, 16 Apr 2026 12:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories</title>
+      <link>https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html</link>
+      <pubDate>Thu, 16 Apr 2026 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cargo thieving hackers running sophisticated remote access campaigns, researchers find</title>
+      <link>https://therecord.media/cargo-thieving-hackers-running-sophisticated-campaigns</link>
+      <pubDate>Thu, 16 Apr 2026 13:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI platform n8n abused for stealthy phishing and malware delivery</title>
+      <link>https://securityaffairs.com/190887/hacking/ai-platform-n8n-abused-for-stealthy-phishing-and-malware-delivery.html</link>
+      <pubDate>Thu, 16 Apr 2026 13:57:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dissecting Sapphire Sleet’s macOS intrusion from lure to compromise</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/</link>
+      <pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cookeville Medical Center Notifies Patients After July 2025 Ransomware Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/cookeville-medical-center-data/</link>
+      <pubDate>Thu, 16 Apr 2026 15:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
