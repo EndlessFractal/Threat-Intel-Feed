@@ -5,11 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>March 2026 Threat Trend Report on APT Groups</title>
-      <link>https://asec.ahnlab.com/en/93416/</link>
-      <pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>March 2026 Security Issues in the Korean &amp; Global Financial Sector</title>
       <link>https://asec.ahnlab.com/en/93421/</link>
       <pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
@@ -303,6 +298,11 @@
       <title>Nexcorium Mirai variant exploits TBK DVR flaw to launch DDoS attacks</title>
       <link>https://securityaffairs.com/190974/malware/nexcorium-mirai-variant-exploits-tbk-dvr-flaw-to-launch-ddos-attacks.html</link>
       <pubDate>Sat, 18 Apr 2026 10:05:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/</link>
+      <pubDate>Sat, 18 Apr 2026 12:55:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
