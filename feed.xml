@@ -5,16 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Containing a domain compromise: How predictive shielding shut down lateral movement</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/</link>
-      <pubDate>Fri, 17 Apr 2026 14:51:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clothing Retailer Patches Website Flaw Exposing Customer Data</title>
-      <link>https://www.techrepublic.com/article/news-clothing-retailer-data-exposure-order-link-flaw/</link>
-      <pubDate>Fri, 17 Apr 2026 18:35:35 +0000</pubDate>
-    </item>
-    <item>
       <title>Anthropic Releases Opus 4.7, Not as ‘Broadly Capable’ as Mythos AI</title>
       <link>https://www.techrepublic.com/article/news-anthropic-opus-4-7-mythos-ai/</link>
       <pubDate>Fri, 17 Apr 2026 18:44:00 +0000</pubDate>
@@ -43,11 +33,6 @@
       <title>[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data</title>
       <link>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</link>
       <pubDate>Sat, 18 Apr 2026 08:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nexcorium Mirai variant exploits TBK DVR flaw to launch DDoS attacks</title>
-      <link>https://securityaffairs.com/190974/malware/nexcorium-mirai-variant-exploits-tbk-dvr-flaw-to-launch-ddos-attacks.html</link>
-      <pubDate>Sat, 18 Apr 2026 10:05:16 +0000</pubDate>
     </item>
     <item>
       <title>Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook</title>
@@ -220,13 +205,13 @@
       <pubDate>Mon, 20 Apr 2026 15:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>ZionSiphon Malware Targets Water Infrastructure Systems</title>
-      <link>https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/</link>
+      <title>Making opportunistic cyberattacks harder by design</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/20/making-opportunistic-cyberattacks-harder-by-design/</link>
       <pubDate>Mon, 20 Apr 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Making opportunistic cyberattacks harder by design</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/20/making-opportunistic-cyberattacks-harder-by-design/</link>
+      <title>ZionSiphon Malware Targets Water Infrastructure Systems</title>
+      <link>https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/</link>
       <pubDate>Mon, 20 Apr 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -303,6 +288,21 @@
       <title>ISC Stormcast For Tuesday, April 21st, 2026 https://isc.sans.edu/podcastdetail/9900, (Tue, Apr 21st)</title>
       <link>https://isc.sans.edu/diary/rss/32916</link>
       <pubDate>Tue, 21 Apr 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines</title>
+      <link>https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html</link>
+      <pubDate>Tue, 21 Apr 2026 06:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A .WAV With A Payload, (Tue, Apr 21st)</title>
+      <link>https://isc.sans.edu/diary/rss/32910</link>
+      <pubDate>Tue, 21 Apr 2026 07:14:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bluesky hit by 24-hour DDoS attack as pro-Iran group claims responsibility</title>
+      <link>https://securityaffairs.com/191059/security/bluesky-hit-by-24-hour-ddos-attack-as-pro-iran-group-claims-responsibility.html</link>
+      <pubDate>Tue, 21 Apr 2026 07:45:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
