@@ -5,31 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Anthropic Releases Opus 4.7, Not as ‘Broadly Capable’ as Mythos AI</title>
-      <link>https://www.techrepublic.com/article/news-anthropic-opus-4-7-mythos-ai/</link>
-      <pubDate>Fri, 17 Apr 2026 18:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: New Giant Squid Video</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html</link>
-      <pubDate>Fri, 17 Apr 2026 21:05:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Brief: Escalation of Cyber Risk Related to Iran (Updated April 17)</title>
-      <link>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/</link>
-      <pubDate>Fri, 17 Apr 2026 22:35:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet</title>
-      <link>https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html</link>
-      <pubDate>Sat, 18 Apr 2026 06:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims</title>
-      <link>https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html</link>
-      <pubDate>Sat, 18 Apr 2026 07:59:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data</title>
       <link>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</link>
       <pubDate>Sat, 18 Apr 2026 08:07:00 +0000</pubDate>
@@ -38,16 +13,6 @@
       <title>Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/</link>
       <pubDate>Sat, 18 Apr 2026 12:55:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hidden VMs: how hackers leverage QEMU to stealthily steal data and spread malware</title>
-      <link>https://securityaffairs.com/190982/security/hidden-vms-how-hackers-leverage-qemu-to-stealthily-steal-data-and-spread-malware.html</link>
-      <pubDate>Sat, 18 Apr 2026 15:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 573 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/190994/breaking-news/security-affairs-newsletter-round-573-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 19 Apr 2026 09:32:00 +0000</pubDate>
     </item>
     <item>
       <title>A History of Global Hacking — and Where It’s Going Next</title>
@@ -303,6 +268,41 @@
       <title>Bluesky hit by 24-hour DDoS attack as pro-Iran group claims responsibility</title>
       <link>https://securityaffairs.com/191059/security/bluesky-hit-by-24-hour-ddos-attack-as-pro-iran-group-claims-responsibility.html</link>
       <pubDate>Tue, 21 Apr 2026 07:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Blamed for $290m KelpDAO Crypto Heist</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korean-blamed-290m-kelpdao/</link>
+      <pubDate>Tue, 21 Apr 2026 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vercel Confirms Cyber Incident After Sophisticated Attacker Exploits Third‑Party Tool</title>
+      <link>https://www.infosecurity-magazine.com/news/vercel-cyber-incident-threat-actor/</link>
+      <pubDate>Tue, 21 Apr 2026 09:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Cisco Catalyst, Kentico Xperience, PaperCut NG/MF, Synacor ZCS, Quest KACE SMA, and JetBrains TeamCity flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/191080/hacking/u-s-cisa-adds-cisco-catalyst-kentico-xperience-papercut-ng-mf-synacor-zcs-quest-kace-sma-and-jetbrains-teamcity-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Tue, 21 Apr 2026 09:21:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI Increases the Load on Security Teams</title>
+      <link>https://www.security.com/expert-perspectives/ai-increases-load</link>
+      <pubDate>Tue, 21 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bad Apples: Weaponizing native macOS primitives for movement and execution</title>
+      <link>https://blog.talosintelligence.com/bad-apples-weaponizing-native-macos-primitives-for-movement-and-execution/</link>
+      <pubDate>Tue, 21 Apr 2026 10:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android 17 ends all-or-nothing access to your contacts</title>
+      <link>https://www.malwarebytes.com/blog/mobile/2026/04/android-17-ends-all-or-nothing-access-to-your-contacts</link>
+      <pubDate>Tue, 21 Apr 2026 10:12:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>The US NSA is using Anthropic’s Claude Mythos despite supply chain risk</title>
+      <link>https://securityaffairs.com/191087/ai/the-us-nsa-is-using-anthropics-claude-mythos-despite-supply-chain-risk.html</link>
+      <pubDate>Tue, 21 Apr 2026 10:26:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
