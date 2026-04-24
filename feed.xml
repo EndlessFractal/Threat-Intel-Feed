@@ -5,21 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>CVE-2026-40372: Critical ASP.NET Core Flaw May Let Attackers Gain SYSTEM Privileges</title>
-      <link>https://socprime.com/blog/cve-2026-40372-detection/</link>
-      <pubDate>Thu, 23 Apr 2026 10:55:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Extracts Deleted Signal Messages from iPhone Notification Database</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html</link>
-      <pubDate>Thu, 23 Apr 2026 11:05:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?</title>
-      <link>https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html</link>
-      <pubDate>Thu, 23 Apr 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Carlson Software VASCO-B GNSS Receiver</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-02</link>
       <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
@@ -153,6 +138,11 @@
       <title>Frontier AI and the Future of Defense: Your Top Questions Answered</title>
       <link>https://unit42.paloaltonetworks.com/frontier-ai-top-questions-answered/</link>
       <pubDate>Thu, 23 Apr 2026 20:45:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supply chain attacks hit Checkmarx and Bitwarden developer tools</title>
+      <link>https://www.sophos.com/en-us/blog/supply-chain-attacks-hit-checkmarx-and-bitwarden-developer-tools</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Iran War: What You Need to Know</title>
@@ -303,6 +293,16 @@
       <title>TGR-STA-1030: New Activity in Central and South America</title>
       <link>https://unit42.paloaltonetworks.com/new-activity-central-south-america/</link>
       <pubDate>Fri, 24 Apr 2026 20:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: How Squid Survived Extinction Events</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html</link>
+      <pubDate>Fri, 24 Apr 2026 21:03:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>The npm Threat Landscape: Attack Surface and Mitigations</title>
+      <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
+      <pubDate>Fri, 24 Apr 2026 21:40:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
