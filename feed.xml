@@ -5,36 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>CVE-2026-28950: Apple Fixes iOS Flaw That Retained Deleted Notification Data</title>
-      <link>https://socprime.com/blog/cve-2026-28950-detection/</link>
-      <pubDate>Thu, 23 Apr 2026 14:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s Pixel Update Sparks ‘Severe’ Battery Drain Across Multiple Models</title>
-      <link>https://www.techrepublic.com/article/news-google-pixel-update-battery-drain-crisis/</link>
-      <pubDate>Thu, 23 Apr 2026 14:58:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAT-4356's Targeting of Cisco Firepower Devices</title>
-      <link>https://blog.talosintelligence.com/uat-4356-firestarter/</link>
-      <pubDate>Thu, 23 Apr 2026 15:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Fixes iPhone Bug After FBI Retrieved Signal Messages</title>
-      <link>https://www.techrepublic.com/article/news-apple-fixes-iphone-notification-bug-fbi-signal-messages/</link>
-      <pubDate>Thu, 23 Apr 2026 15:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>How cyberattacks on companies affect everyone</title>
-      <link>https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone</link>
-      <pubDate>Thu, 23 Apr 2026 15:34:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Favors General-Purpose Gemini Models Over Cybersecurity‑Specific AI</title>
-      <link>https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/</link>
-      <pubDate>Thu, 23 Apr 2026 16:40:00 +0000</pubDate>
-    </item>
-    <item>
       <title>White House Says China-Linked Actors Tried to ‘Steal American AI’</title>
       <link>https://www.techrepublic.com/article/news-white-house-china-ai-theft-apac/</link>
       <pubDate>Thu, 23 Apr 2026 17:11:21 +0000</pubDate>
@@ -155,11 +125,6 @@
       <pubDate>Fri, 24 Apr 2026 13:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>Toronto police arrest three in Canada’s first mobile SMS blaster case</title>
-      <link>https://therecord.media/canada-sms-blaster-cybercriminals</link>
-      <pubDate>Fri, 24 Apr 2026 13:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software</title>
       <link>https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html</link>
       <pubDate>Fri, 24 Apr 2026 14:13:00 +0000</pubDate>
@@ -223,11 +188,6 @@
       <title>Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software</title>
       <link>https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html</link>
       <pubDate>Sat, 25 Apr 2026 09:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 400,000 sites at risk as hackers exploit Breeze Cache plugin flaw (CVE-2026-3844)</title>
-      <link>https://securityaffairs.com/191267/uncategorized/over-400000-sites-at-risk-as-hackers-exploit-breeze-cache-plugin-flaw-cve-2026-3844.html</link>
-      <pubDate>Sat, 25 Apr 2026 14:22:33 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds SimpleHelp, Samsung, and D-Link flaws to its Known Exploited Vulnerabilities catalog</title>
@@ -303,6 +263,46 @@
       <title>The EU Digital Wallet: Why Waiting is Not an Option</title>
       <link>https://www.security.com/expert-perspectives/eu-digital-wallet</link>
       <pubDate>Mon, 27 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firefox bug CVE-2026-6770 enabled cross-site tracking and Tor fingerprinting</title>
+      <link>https://securityaffairs.com/191374/security/firefox-bug-cve-2026-6770-enabled-cross-site-tracking-and-tor-fingerprinting.html</link>
+      <pubDate>Mon, 27 Apr 2026 10:49:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medieval Encrypted Letter Decoded</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html</link>
+      <pubDate>Mon, 27 Apr 2026 11:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware</title>
+      <link>https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html</link>
+      <pubDate>Mon, 27 Apr 2026 11:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Most Cybersecurity  Professionals Feel Undervalued and Underpaid</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-pros-feel/</link>
+      <pubDate>Mon, 27 Apr 2026 11:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks</title>
+      <link>https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html</link>
+      <pubDate>Mon, 27 Apr 2026 11:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side</title>
+      <link>https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html</link>
+      <pubDate>Mon, 27 Apr 2026 11:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Widely Used Browser Extensions Selling User Data</title>
+      <link>https://www.infosecurity-magazine.com/news/browser-extensions-sell-user-data/</link>
+      <pubDate>Mon, 27 Apr 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers impersonate Microsoft Teams help desk to breach corporate networks</title>
+      <link>https://therecord.media/microsoft-teams-hackers-mandiant</link>
+      <pubDate>Mon, 27 Apr 2026 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
