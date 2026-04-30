@@ -5,54 +5,9 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Simplifying AWS defense with Microsoft Sentinel UEBA</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/</link>
-      <pubDate>Tue, 28 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Turf War as 0APT and KryBit Groups Trade Blows</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-turf-war-0apt-krybit/</link>
-      <pubDate>Tue, 28 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five defender priorities from the Talos Year in Review</title>
-      <link>https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/</link>
-      <pubDate>Tue, 28 Apr 2026 13:23:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>HTTP Requests with X-Vercel-Set-Bypass-Cookie Header, (Tue, Apr 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/32930</link>
-      <pubDate>Tue, 28 Apr 2026 13:28:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signal Phishing Campaign Targets German Officials in Suspected Russian Operation</title>
-      <link>https://securityaffairs.com/191425/intelligence/signal-phishing-campaign-targets-german-officials-in-suspected-russian-operation.html</link>
-      <pubDate>Tue, 28 Apr 2026 13:56:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi</title>
-      <link>https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html</link>
-      <pubDate>Tue, 28 Apr 2026 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 5, April 2026</title>
-      <link>https://asec.ahnlab.com/en/93530/</link>
-      <pubDate>Tue, 28 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medtronic Confirms Data Breach After ShinyHunters Claims</title>
-      <link>https://www.infosecurity-magazine.com/news/medtronic-data-breach-shinyhunters/</link>
-      <pubDate>Tue, 28 Apr 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ADT Confirms Major Data Breach Exposing Millions of Names, Partial SSNs</title>
       <link>https://www.techrepublic.com/article/news-adt-data-breach-millions-customer-records/</link>
       <pubDate>Tue, 28 Apr 2026 16:49:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Command, NSA chief warns foreign adversaries likely to target midterms</title>
-      <link>https://therecord.media/cyber-command-nsa-chief-midterm-election-threat</link>
-      <pubDate>Tue, 28 Apr 2026 17:26:00 +0000</pubDate>
     </item>
     <item>
       <title>Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign</title>
@@ -73,6 +28,11 @@
       <title>ClickUp Data Leak Exposes Enterprise Emails for Over a Year</title>
       <link>https://www.techrepublic.com/article/news-clickup-api-key-email-exposure/</link>
       <pubDate>Tue, 28 Apr 2026 21:22:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Mini Shai-Hulud' supply chain attack targets SAP npm packages</title>
+      <link>https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, April 29th, 2026 https://isc.sans.edu/podcastdetail/9910, (Wed, Apr 29th)</title>
@@ -303,6 +263,46 @@
       <title>Europol Busts Albanian Scam Call Centers in Major Online Fraud Case</title>
       <link>https://www.infosecurity-magazine.com/news/europol-albanian-scam-call-centers/</link>
       <pubDate>Thu, 30 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Partner-Vendor Relationship</title>
+      <link>https://www.security.com/expert-perspectives/resilient-channel-series-part-4</link>
+      <pubDate>Thu, 30 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fast16 Malware</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/fast16-malware.html</link>
+      <pubDate>Thu, 30 Apr 2026 10:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades</title>
+      <link>https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html</link>
+      <pubDate>Thu, 30 Apr 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials</title>
+      <link>https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html</link>
+      <pubDate>Thu, 30 Apr 2026 12:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-41940: Critical cPanel &amp; WHM Authentication Bypass Exposes Hosting Servers to Admin Takeover</title>
+      <link>https://socprime.com/blog/cve-2026-41940-critical-cpanel-whm-authentication-bypass-exposes-hosting-servers-to-admin-takeover/</link>
+      <pubDate>Thu, 30 Apr 2026 12:47:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK: Education Sector Faces Surge in Cyber Breaches Despite Stable National Threat Levels</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-education-sector-faces-surge-in/</link>
+      <pubDate>Thu, 30 Apr 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moldova’s health insurance agency reports possible data leak after cyberattack</title>
+      <link>https://therecord.media/moldova-health-insurance-agency-reports-possible-data-leak-cyberattack</link>
+      <pubDate>Thu, 30 Apr 2026 13:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post-quantum encryption for Cloudflare IPsec is generally available</title>
+      <link>https://blog.cloudflare.com/post-quantum-ipsec/</link>
+      <pubDate>Thu, 30 Apr 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
