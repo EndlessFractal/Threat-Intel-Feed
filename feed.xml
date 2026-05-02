@@ -5,16 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>ABB Ability OPTIMAX</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04</link>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ABB PCM600</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02</link>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ABB Edgenius Management Portal</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03</link>
       <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
@@ -303,6 +293,16 @@
       <title>CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/</link>
       <pubDate>Sat, 02 May 2026 03:06:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trellix Confirms Source Code Breach With Unauthorized Repository Access</title>
+      <link>https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html</link>
+      <pubDate>Sat, 02 May 2026 06:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Deep#Door RAT uses stealth and persistence to target Windows</title>
+      <link>https://securityaffairs.com/191567/malware/new-deepdoor-rat-uses-stealth-and-persistence-to-target-windows.html</link>
+      <pubDate>Sat, 02 May 2026 08:22:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
