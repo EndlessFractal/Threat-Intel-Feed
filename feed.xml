@@ -5,16 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Fast16 Malware</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/fast16-malware.html</link>
-      <pubDate>Thu, 30 Apr 2026 10:22:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades</title>
-      <link>https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html</link>
-      <pubDate>Thu, 30 Apr 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ABB AWIN Gateways</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05</link>
       <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
@@ -303,6 +293,16 @@
       <title>Malicious Ad for Homebrew Leads to MacSync Stealer, (Fri, May 1st)</title>
       <link>https://isc.sans.edu/diary/rss/32942</link>
       <pubDate>Fri, 01 May 2026 19:01:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Essential Data Sources for Detection Beyond the Endpoint</title>
+      <link>https://unit42.paloaltonetworks.com/detection-beyond-the-endpoint/</link>
+      <pubDate>Fri, 01 May 2026 23:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>The npm Threat Landscape: Attack Surface and Mitigations (Updated May 1)</title>
+      <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
+      <pubDate>Sat, 02 May 2026 00:10:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
