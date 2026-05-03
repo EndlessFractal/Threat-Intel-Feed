@@ -10,7 +10,7 @@ MAX_LINKS_TO_KEEP = 200
 MAX_PAYLOAD_CHARS = 2000
 DELAY_BETWEEN_PAYLOADS = 5
 
-RSS_URL = "https://raw.githubusercontent.com/EndlessFractal/Threat-Intel-Feed/main/feed.xml"
+RSS_URL = "feed.xml"
 LINKS_PATH = Path("posted_links.txt")
 
 # Read lines from a file into a set
