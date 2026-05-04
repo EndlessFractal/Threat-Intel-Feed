@@ -5,26 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>CISA and Partners Publish Zero Trust Guidance For OT Security</title>
-      <link>https://www.infosecurity-magazine.com/news/zero-trust-guidance-operational/</link>
-      <pubDate>Thu, 30 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-DDoS Firm Heaped Attacks on Brazilian ISPs</title>
-      <link>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</link>
-      <pubDate>Thu, 30 Apr 2026 14:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deep#Door Python Backdoor Evades Detection On Windows</title>
-      <link>https://www.infosecurity-magazine.com/news/deepdoor-python-backdoor-windows/</link>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Email threat landscape: Q1 2026 trends and insights</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/</link>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Hackers stole hundreds of thousands of Roblox accounts: Here’s what to do</title>
       <link>https://www.malwarebytes.com/blog/news/2026/04/hackers-stole-hundreds-of-thousands-of-roblox-accounts-heres-what-to-do</link>
       <pubDate>Thu, 30 Apr 2026 15:48:50 +0000</pubDate>
@@ -73,6 +53,11 @@
       <title>That AI Extension Helping You Write Emails? It’s Reading Them First</title>
       <link>https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/</link>
       <pubDate>Thu, 30 Apr 2026 22:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)</title>
+      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Iran War: What You Need to Know</title>
@@ -150,11 +135,6 @@
       <pubDate>Fri, 01 May 2026 13:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>Carding service Jerry’s Store leak exposes 345,000 stolen payment cards</title>
-      <link>https://securityaffairs.com/191536/cyber-crime/carding-service-jerrys-store-leak-exposes-345000-stolen-payment-cards.html</link>
-      <pubDate>Fri, 01 May 2026 13:09:03 +0000</pubDate>
-    </item>
-    <item>
       <title>British cyber agency warns of looming ‘patch wave’ as AI speeds flaw discovery</title>
       <link>https://therecord.media/british-cyber-ai-patch-wave</link>
       <pubDate>Fri, 01 May 2026 13:30:00 +0000</pubDate>
@@ -183,11 +163,6 @@
       <title>Microsoft Flagged 8.3B Phishing Emails in Q1 as QR Codes, CAPTCHAs Rise</title>
       <link>https://www.techrepublic.com/article/news-microsoft-phishing-emails-qr-codes-captcha-phaas/</link>
       <pubDate>Fri, 01 May 2026 15:10:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Digital attacks drive a new wave of cargo theft, FBI says</title>
-      <link>https://securityaffairs.com/191556/cyber-crime/digital-attacks-drive-a-new-wave-of-cargo-theft-fbi-says.html</link>
-      <pubDate>Fri, 01 May 2026 15:14:21 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI Introduces Password-Free Login for Millions of ChatGPT Users</title>
@@ -303,6 +278,31 @@
       <title>Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M</title>
       <link>https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html</link>
       <pubDate>Mon, 04 May 2026 05:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bluekit phishing kit enables automated phishing with 40+ templates and AI tools</title>
+      <link>https://securityaffairs.com/191646/cyber-crime/bluekit-phishing-kit-enables-automated-phishing-with-40-templates-and-ai-tools.html</link>
+      <pubDate>Mon, 04 May 2026 06:46:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (April 27 – May 3)</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3</link>
+      <pubDate>Mon, 04 May 2026 07:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI speeds flaw discovery, forcing rapid updates, UK NCSC warns</title>
+      <link>https://securityaffairs.com/191657/security/ai-speeds-flaw-discovery-forcing-rapid-updates-uk-ncsc-warns.html</link>
+      <pubDate>Mon, 04 May 2026 09:18:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking Polymarket</title>
+      <link>https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html</link>
+      <pubDate>Mon, 04 May 2026 09:46:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Legitimate” phishing: how attackers weaponize Amazon SES to bypass email security</title>
+      <link>https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/</link>
+      <pubDate>Mon, 04 May 2026 10:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
