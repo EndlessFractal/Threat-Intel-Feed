@@ -5,11 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Nine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher</title>
-      <link>https://www.infosecurity-magazine.com/news/zero-day-2017-linux-kernel/</link>
-      <pubDate>Fri, 01 May 2026 10:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Actively exploited cPanel bug exposes millions of websites to takeover</title>
       <link>https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover</link>
       <pubDate>Fri, 01 May 2026 10:48:19 +0000</pubDate>
@@ -113,11 +108,6 @@
       <title>Trellix Confirms Source Code Breach With Unauthorized Repository Access</title>
       <link>https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html</link>
       <pubDate>Sat, 02 May 2026 06:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trellix discloses the breach of a code repository</title>
-      <link>https://securityaffairs.com/191584/data-breach/trellix-discloses-the-breach-of-a-code-repository.html</link>
-      <pubDate>Sat, 02 May 2026 12:55:38 +0000</pubDate>
     </item>
     <item>
       <title>Two US cybersecurity experts sentenced in ransomware case, third awaits July ruling</title>
@@ -300,9 +290,19 @@
       <pubDate>Mon, 04 May 2026 17:19:00 +0000</pubDate>
     </item>
     <item>
+      <title>Indirect Prompt Injection Is Now a Real-World AI Security Threat</title>
+      <link>https://www.techrepublic.com/article/news-ai-agents-prompt-injection-data-security/</link>
+      <pubDate>Mon, 04 May 2026 18:01:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools</title>
       <link>https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html</link>
       <pubDate>Mon, 04 May 2026 18:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers target governments and MSPs via critical cPanel flaw CVE-2026-41940</title>
+      <link>https://securityaffairs.com/191666/breaking-news/hackers-target-governments-and-msps-via-critical-cpanel-flaw-cve-2026-41940.html</link>
+      <pubDate>Mon, 04 May 2026 19:10:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
