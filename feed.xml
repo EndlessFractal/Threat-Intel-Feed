@@ -5,61 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Essential Data Sources for Detection Beyond the Endpoint</title>
-      <link>https://unit42.paloaltonetworks.com/detection-beyond-the-endpoint/</link>
-      <pubDate>Fri, 01 May 2026 23:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The npm Threat Landscape: Attack Surface and Mitigations (Updated May 1)</title>
-      <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
-      <pubDate>Sat, 02 May 2026 00:10:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/</link>
-      <pubDate>Sat, 02 May 2026 03:06:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trellix Confirms Source Code Breach With Unauthorized Repository Access</title>
-      <link>https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html</link>
-      <pubDate>Sat, 02 May 2026 06:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV</title>
-      <link>https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html</link>
-      <pubDate>Sun, 03 May 2026 06:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Tale of Two States: The 2026 Cybersecurity Paradox</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/a-tale-of-two-states-the-2026-cybersecurity-paradox</link>
-      <pubDate>Sun, 03 May 2026 09:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 easy-to-miss cybersecurity risks for small businesses</title>
-      <link>https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses</link>
-      <pubDate>Sun, 03 May 2026 10:33:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds a flaw in WebPros cPanel to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/191613/hacking/u-s-cisa-adds-a-flaw-in-webpros-cpanel-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Sun, 03 May 2026 14:39:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 95</title>
-      <link>https://securityaffairs.com/191623/malware/security-affairs-malware-newsletter-round-95.html</link>
-      <pubDate>Sun, 03 May 2026 15:38:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wireshark 4.6.5 Released, (Sun, May 3rd)</title>
-      <link>https://isc.sans.edu/diary/rss/32944</link>
-      <pubDate>Sun, 03 May 2026 16:49:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salt Typhoon breach IBM subsidiary in Italy: a warning for Europe’s digital defenses</title>
-      <link>https://securityaffairs.com/191638/apt/salt-typhoon-breach-ibm-subsidiary-in-italy-a-warning-for-europes-digital-defenses.html</link>
-      <pubDate>Sun, 03 May 2026 20:56:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Working in London at the World’s Largest Intelligence Company</title>
       <link>https://www.recordedfuture.com/blog/working-for-recorded-future-london</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
@@ -170,13 +115,13 @@
       <pubDate>Mon, 04 May 2026 14:59:06 +0000</pubDate>
     </item>
     <item>
-      <title>Is SIEM Trying to Do Too Much?</title>
-      <link>https://www.security.com/feature-stories/siem-trying-too-hard</link>
+      <title>Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/</link>
       <pubDate>Mon, 04 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/</link>
+      <title>Is SIEM Trying to Do Too Much?</title>
+      <link>https://www.security.com/feature-stories/siem-trying-too-hard</link>
       <pubDate>Mon, 04 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -200,7 +145,7 @@
       <pubDate>Mon, 04 May 2026 17:12:18 +0000</pubDate>
     </item>
     <item>
-      <title>Educational company Infrastructure reports cyber incident</title>
+      <title>Educational company Instructure reports cyber incident</title>
       <link>https://therecord.media/infrastructure-education-company-canvas-incident</link>
       <pubDate>Mon, 04 May 2026 17:19:00 +0000</pubDate>
     </item>
@@ -238,6 +183,11 @@
       <title>MOVEit automation flaws could enable full system compromise</title>
       <link>https://securityaffairs.com/191681/security/moveit-automation-flaws-could-enable-full-system-compromise.html</link>
       <pubDate>Mon, 04 May 2026 21:32:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Sophos Security Services Retainer</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-security-services-retainer</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, May 5th, 2026 https://isc.sans.edu/podcastdetail/9918, (Tue, May 5th)</title>
@@ -303,6 +253,56 @@
       <title>AI Adoption Outpaces Safety Policies, Leaving Organizations Exposed to Cyber Risk</title>
       <link>https://www.infosecurity-magazine.com/news/ai-adoption-outpaces-safety-policy/</link>
       <pubDate>Tue, 05 May 2026 11:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update WhatsApp now: Two new flaws could expose you to malicious files</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/05/update-whatsapp-now-two-new-flaws-could-expose-you-to-malicious-files</link>
+      <pubDate>Tue, 05 May 2026 11:39:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>SSL.com rotates their root certificate today, (Tue, May 5th)</title>
+      <link>https://isc.sans.edu/diary/rss/32956</link>
+      <pubDate>Tue, 05 May 2026 11:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks</title>
+      <link>https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html</link>
+      <pubDate>Tue, 05 May 2026 11:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed</title>
+      <link>https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html</link>
+      <pubDate>Tue, 05 May 2026 11:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australia launches cyber review board modeled on version disbanded in US</title>
+      <link>https://therecord.media/australia-launches-cyber-review-board</link>
+      <pubDate>Tue, 05 May 2026 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake SSA Emails Drive Venomous#Helper Phishing Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/ssa-emails-venomous-helper-phishing/</link>
+      <pubDate>Tue, 05 May 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Android vulnerability CVE-2026-0073 fixed by Google</title>
+      <link>https://securityaffairs.com/191710/breaking-news/critical-android-vulnerability-cve-2026-0073-fixed-by-google.html</link>
+      <pubDate>Tue, 05 May 2026 14:06:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions</title>
+      <link>https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html</link>
+      <pubDate>Tue, 05 May 2026 14:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cleartext Passwords in MS Edge? In 2026?, (Mon, May 4th)</title>
+      <link>https://isc.sans.edu/diary/rss/32954</link>
+      <pubDate>Tue, 05 May 2026 14:37:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean APT Targets Yanbian Gamers via Trojanized Platform</title>
+      <link>https://www.infosecurity-magazine.com/news/scarcruft-birdcall-android-yanbian/</link>
+      <pubDate>Tue, 05 May 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
