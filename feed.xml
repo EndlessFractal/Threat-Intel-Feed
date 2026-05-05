@@ -5,31 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>OpenAI Introduces Password-Free Login for Millions of ChatGPT Users</title>
-      <link>https://www.techrepublic.com/article/news-openai-chatgpt-advanced-account-security-passkeys/</link>
-      <pubDate>Fri, 01 May 2026 15:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federal agencies must patch cPanel bug by Sunday, CISA says</title>
-      <link>https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug</link>
-      <pubDate>Fri, 01 May 2026 16:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senate Judiciary advances bill that would bar minors from interacting with AI companions</title>
-      <link>https://therecord.media/senate-judiciary-advances-bill-barring-children-ai-chatbots</link>
-      <pubDate>Fri, 01 May 2026 16:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign</title>
-      <link>https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html</link>
-      <pubDate>Fri, 01 May 2026 18:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Ad for Homebrew Leads to MacSync Stealer, (Fri, May 1st)</title>
-      <link>https://isc.sans.edu/diary/rss/32942</link>
-      <pubDate>Fri, 01 May 2026 19:01:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Essential Data Sources for Detection Beyond the Endpoint</title>
       <link>https://unit42.paloaltonetworks.com/detection-beyond-the-endpoint/</link>
       <pubDate>Fri, 01 May 2026 23:00:13 +0000</pubDate>
@@ -63,11 +38,6 @@
       <title>3 easy-to-miss cybersecurity risks for small businesses</title>
       <link>https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses</link>
       <pubDate>Sun, 03 May 2026 10:33:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 575 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/191607/breaking-news/security-affairs-newsletter-round-575-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 03 May 2026 13:49:09 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds a flaw in WebPros cPanel to its Known Exploited Vulnerabilities catalog</title>
@@ -300,9 +270,39 @@
       <pubDate>Tue, 05 May 2026 09:07:00 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft warns of global campaign stealing auth tokens from 35K users</title>
+      <link>https://securityaffairs.com/191695/security/microsoft-warns-of-global-campaign-stealing-auth-tokens-from-35k-users.html</link>
+      <pubDate>Tue, 05 May 2026 09:10:53 +0000</pubDate>
+    </item>
+    <item>
       <title>NCSC Warns of an AI-Fuelled “Vulnerability Patch Wave”</title>
       <link>https://www.infosecurity-magazine.com/news/ncsc-warns-aifuelled-vulnerability/</link>
       <pubDate>Tue, 05 May 2026 09:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CloudZ RAT potentially steals OTP messages using Pheno plugin</title>
+      <link>https://blog.talosintelligence.com/cloudz-pheno-infostealer/</link>
+      <pubDate>Tue, 05 May 2026 10:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAT-8302 and its box full of malware</title>
+      <link>https://blog.talosintelligence.com/uat-8302/</link>
+      <pubDate>Tue, 05 May 2026 10:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is</title>
+      <link>https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html</link>
+      <pubDate>Tue, 05 May 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DarkSword Malware</title>
+      <link>https://www.schneier.com/blog/archives/2026/05/darksword-malware.html</link>
+      <pubDate>Tue, 05 May 2026 10:42:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Adoption Outpaces Safety Policies, Leaving Organizations Exposed to Cyber Risk</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-adoption-outpaces-safety-policy/</link>
+      <pubDate>Tue, 05 May 2026 11:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
