@@ -5,56 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE</title>
-      <link>https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html</link>
-      <pubDate>Tue, 05 May 2026 16:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Update: Android Flaw Could Put Billions of Devices at Risk</title>
-      <link>https://www.techrepublic.com/article/news-google-android-zero-click-rce-patch/</link>
-      <pubDate>Tue, 05 May 2026 16:29:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google AppSheet Abuse Helped Phish 30,000 Facebook Accounts</title>
-      <link>https://www.techrepublic.com/article/news-google-appsheet-facebook-phishing-accountdumpling/</link>
-      <pubDate>Tue, 05 May 2026 16:46:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>New WhatsApp Flaws Could Affect Billions of Users After Meta Security Patch</title>
-      <link>https://www.techrepublic.com/article/news-whatsapp-users-update-meta-security-flaws/</link>
-      <pubDate>Tue, 05 May 2026 17:38:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>FTC bans data broker Kochava from selling sensitive location info</title>
-      <link>https://therecord.media/ftc-bans-kochava-location-data-sales</link>
-      <pubDate>Tue, 05 May 2026 18:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vimeo confirms breach via third-party vendor impacts 119K users</title>
-      <link>https://securityaffairs.com/191715/data-breach/vimeo-confirms-breach-via-third-party-vendor-impacts-119k-users.html</link>
-      <pubDate>Tue, 05 May 2026 18:14:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Every Defender Deserves Frontier AI</title>
-      <link>https://www.security.com/feature-stories/every-defender-deserves-frontier-ai</link>
-      <pubDate>Tue, 05 May 2026 18:55:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. court sentences Karakurt ransomware negotiator to 8.5 years</title>
-      <link>https://securityaffairs.com/191722/cyber-crime/u-s-court-sentences-karakurt-ransomware-negotiator-to-8-5-years.html</link>
-      <pubDate>Tue, 05 May 2026 20:06:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copy Fail: What You Need to Know About the Most Severe Linux Threat in Years</title>
-      <link>https://unit42.paloaltonetworks.com/cve-2026-31431-copy-fail/</link>
-      <pubDate>Tue, 05 May 2026 23:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.</title>
-      <link>https://www.recordedfuture.com/blog/recorded-future-named-a-leader</link>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Threat Activity Enablers: The Backbone of Today’s Threat Landscape</title>
       <link>https://www.recordedfuture.com/blog/threat-activity-enablers</link>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
@@ -190,13 +140,13 @@
       <pubDate>Wed, 06 May 2026 14:19:46 +0000</pubDate>
     </item>
     <item>
-      <title>CloudZ Malware Abuses Phone Link to Steal SMS OTPs</title>
-      <link>https://www.infosecurity-magazine.com/news/cloudz-rat-pheno-phone-link-otp/</link>
+      <title>Ransom &amp; Dark Web Issues Week 1, May 2026</title>
+      <link>https://asec.ahnlab.com/en/93616/</link>
       <pubDate>Wed, 06 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, May 2026</title>
-      <link>https://asec.ahnlab.com/en/93616/</link>
+      <title>CloudZ Malware Abuses Phone Link to Steal SMS OTPs</title>
+      <link>https://www.infosecurity-magazine.com/news/cloudz-rat-pheno-phone-link-otp/</link>
       <pubDate>Wed, 06 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -248,6 +198,16 @@
       <title>Smashing Security podcast #466: Meta sees everything, Copy Fail, and a deepfake gets hired</title>
       <link>https://grahamcluley.com/smashing-security-podcast-466/</link>
       <pubDate>Wed, 06 May 2026 23:30:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI-accelerated threat discovery is reshaping network security</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-ai-network-security</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donuts and Beagles: Fake Claude site spreads backdoor</title>
+      <link>https://www.sophos.com/en-us/blog/donuts-and-beagles-fake-claude-site-spreads-backdoor</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Brief: Exploitation of PAN-OS Captive Portal Zero-Day for Unauthenticated Remote Code Execution</title>
@@ -303,6 +263,46 @@
       <title>Exploits and vulnerabilities in Q1 2026</title>
       <link>https://securelist.com/vulnerabilities-and-exploits-in-q1-2026/119733/</link>
       <pubDate>Thu, 07 May 2026 10:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Android TVs to routers: the xlabs_v1 Mirai-based botnet built for DDoS attacks</title>
+      <link>https://securityaffairs.com/191796/malware/from-android-tvs-to-routers-the-xlabs_v1-mirai-based-botnet-built-for-ddos-attacks.html</link>
+      <pubDate>Thu, 07 May 2026 10:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>If a fake moustache can fool age checks, is the Online Safety Act working?</title>
+      <link>https://www.malwarebytes.com/blog/family-and-parenting/2026/05/if-a-fake-moustache-can-fool-age-checks-is-the-online-safety-act-working</link>
+      <pubDate>Thu, 07 May 2026 10:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Day Zero Readiness: The Operational Gaps That Break Incident Response</title>
+      <link>https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html</link>
+      <pubDate>Thu, 07 May 2026 10:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smart Glasses for the Authorities</title>
+      <link>https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html</link>
+      <pubDate>Thu, 07 May 2026 11:07:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories</title>
+      <link>https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html</link>
+      <pubDate>Thu, 07 May 2026 11:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polish intelligence warns hackers attacked water treatment control systems</title>
+      <link>https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment</link>
+      <pubDate>Thu, 07 May 2026 12:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Claude AI Site Drops Beagle Backdoor on Windows Users</title>
+      <link>https://www.infosecurity-magazine.com/news/fake-claude-site-beagle-backdoor/</link>
+      <pubDate>Thu, 07 May 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage</title>
+      <link>https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html</link>
+      <pubDate>Thu, 07 May 2026 13:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
