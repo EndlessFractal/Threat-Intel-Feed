@@ -5,41 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Palo Alto Networks PAN-OS flaw exploited for remote code execution</title>
-      <link>https://securityaffairs.com/191748/security/palo-alto-networks-pan-os-flaw-exploited-for-remote-code-execution.html</link>
-      <pubDate>Wed, 06 May 2026 08:52:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google's Android Apps Get Public Verification to Stop Supply Chain Attacks</title>
-      <link>https://thehackernews.com/2026/05/android-apps-get-public-verification.html</link>
-      <pubDate>Wed, 06 May 2026 09:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Websites with an undefined trust level: avoiding the trap</title>
-      <link>https://securelist.com/suspicious-websites-undefined-trust-level/119675/</link>
-      <pubDate>Wed, 06 May 2026 09:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navigating Compliance and Insurance as a Competitive Edge</title>
-      <link>https://www.security.com/expert-perspectives/resilient-channel-series-part-5</link>
-      <pubDate>Wed, 06 May 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insights into the clustering and reuse of phone numbers in scam emails</title>
-      <link>https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/</link>
-      <pubDate>Wed, 06 May 2026 10:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rowhammer Attack Against NVIDIA Chips</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html</link>
-      <pubDate>Wed, 06 May 2026 10:36:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?</title>
-      <link>https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html</link>
-      <pubDate>Wed, 06 May 2026 10:57:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Apache fixes critical HTTP/2 double-free flaw CVE-2026-23918 enabling RCE</title>
       <link>https://securityaffairs.com/191759/security/apache-fixes-critical-http-2-double-free-flaw-cve-2026-23918-enabling-rce.html</link>
       <pubDate>Wed, 06 May 2026 11:00:06 +0000</pubDate>
@@ -255,6 +220,16 @@
       <pubDate>Thu, 07 May 2026 11:33:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAXHUB Pivot Client Application</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-127-01</link>
+      <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Polish intelligence warns hackers attacked water treatment control systems</title>
       <link>https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment</link>
       <pubDate>Thu, 07 May 2026 12:38:00 +0000</pubDate>
@@ -303,6 +278,31 @@
       <title>North Carolina man pleads guilty to doxxing Supreme Court justices</title>
       <link>https://therecord.media/north-carolina-man-pleads-guilty-to-doxxing</link>
       <pubDate>Thu, 07 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>World Passkey Day: Advancing passwordless authentication</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/</link>
+      <pubDate>Thu, 07 May 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems</title>
+      <link>https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html</link>
+      <pubDate>Thu, 07 May 2026 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access</title>
+      <link>https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html</link>
+      <pubDate>Thu, 07 May 2026 17:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unplug your way to better code</title>
+      <link>https://blog.talosintelligence.com/unplug-your-way-to-better-code/</link>
+      <pubDate>Thu, 07 May 2026 18:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds a flaw in Ivanti Endpoint Manager Mobile (EPMM) to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/191822/security/u-s-cisa-adds-a-flaw-in-ivanti-endpoint-manager-mobile-epmm-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 07 May 2026 18:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
