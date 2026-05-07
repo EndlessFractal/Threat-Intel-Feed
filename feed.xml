@@ -5,46 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>What If Your Digital Footprint Could Shrink?</title>
-      <link>https://www.techrepublic.com/article/surfshark-one-incogni-2-year-plan/</link>
-      <pubDate>Tue, 05 May 2026 13:23:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake SSA Emails Drive Venomous#Helper Phishing Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/ssa-emails-venomous-helper-phishing/</link>
-      <pubDate>Tue, 05 May 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Android vulnerability CVE-2026-0073 fixed by Google</title>
-      <link>https://securityaffairs.com/191710/breaking-news/critical-android-vulnerability-cve-2026-0073-fixed-by-google.html</link>
-      <pubDate>Tue, 05 May 2026 14:06:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions</title>
-      <link>https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html</link>
-      <pubDate>Tue, 05 May 2026 14:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cleartext Passwords in MS Edge? In 2026?, (Mon, May 4th)</title>
-      <link>https://isc.sans.edu/diary/rss/32954</link>
-      <pubDate>Tue, 05 May 2026 14:37:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean APT Targets Yanbian Gamers via Trojanized Platform</title>
-      <link>https://www.infosecurity-magazine.com/news/scarcruft-birdcall-android-yanbian/</link>
-      <pubDate>Tue, 05 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Flags Mass Phishing Campaign Using Fake Compliance Emails</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-phishing-fake-compliance/</link>
-      <pubDate>Tue, 05 May 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware</title>
-      <link>https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html</link>
-      <pubDate>Tue, 05 May 2026 16:07:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE</title>
       <link>https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html</link>
       <pubDate>Tue, 05 May 2026 16:19:00 +0000</pubDate>
@@ -181,7 +141,7 @@
     </item>
     <item>
       <title>CVE-2026-0300: Palo Alto PAN-OS Zero-Day Enables Root RCE on Exposed Firewalls</title>
-      <link>https://socprime.com/blog/latest-threats/cve-2026-0300-analysis/</link>
+      <link>https://socprime.com/blog/cve-2026-0300-analysis/</link>
       <pubDate>Wed, 06 May 2026 12:12:38 +0000</pubDate>
     </item>
     <item>
@@ -221,7 +181,7 @@
     </item>
     <item>
       <title>CVE-2026-23918: Critical Apache HTTP/2 Flaw Can Trigger DoS and Possible RCE</title>
-      <link>https://socprime.com/blog/latest-threats/cve-2026-23918-analysis/</link>
+      <link>https://socprime.com/blog/cve-2026-23918-analysis/</link>
       <pubDate>Wed, 06 May 2026 14:13:26 +0000</pubDate>
     </item>
     <item>
@@ -232,6 +192,11 @@
     <item>
       <title>CloudZ Malware Abuses Phone Link to Steal SMS OTPs</title>
       <link>https://www.infosecurity-magazine.com/news/cloudz-rat-pheno-phone-link-otp/</link>
+      <pubDate>Wed, 06 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, May 2026</title>
+      <link>https://asec.ahnlab.com/en/93616/</link>
       <pubDate>Wed, 06 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -248,6 +213,11 @@
       <title>Google Chrome’s silent 4GB AI download problem</title>
       <link>https://www.malwarebytes.com/blog/news/2026/05/google-chromes-silent-4gb-ai-download-problem</link>
       <pubDate>Wed, 06 May 2026 16:17:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warning: High-Severity Linux Flaw Puts Unpatched Systems at Risk</title>
+      <link>https://www.techrepublic.com/article/news-linux-kernel-vulnerability-root-access-cisa-warning/</link>
+      <pubDate>Wed, 06 May 2026 17:02:57 +0000</pubDate>
     </item>
     <item>
       <title>New CISA initiative aims for critical infrastructure to operate offline during cyberattacks</title>
@@ -303,6 +273,36 @@
       <title>vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution</title>
       <link>https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html</link>
       <pubDate>Thu, 07 May 2026 04:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds a flaw in Palo Alto Networks PAN-OS to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/191780/security/u-s-cisa-adds-a-flaw-in-palo-alto-networks-pan-os-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 07 May 2026 06:51:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Spot Uptick in Use of Vercel for Phishing Campaigns</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-spot-uptick-vercel/</link>
+      <pubDate>Thu, 07 May 2026 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux</title>
+      <link>https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html</link>
+      <pubDate>Thu, 07 May 2026 09:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daemon Tools Developer Confirms Software Was Trojanized</title>
+      <link>https://www.infosecurity-magazine.com/news/daemon-tools-confirms-software/</link>
+      <pubDate>Thu, 07 May 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doing More with Less: How Government Agencies are Rethinking Cybersecurity</title>
+      <link>https://www.security.com/expert-perspectives/government-agencies-rethinking-cybersecurity</link>
+      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploits and vulnerabilities in Q1 2026</title>
+      <link>https://securelist.com/vulnerabilities-and-exploits-in-q1-2026/119733/</link>
+      <pubDate>Thu, 07 May 2026 10:00:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
