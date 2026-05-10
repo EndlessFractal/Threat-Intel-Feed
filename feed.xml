@@ -5,11 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>OpenAI and Anthropic LLMs Used in Critical Infrastructure Cyber-Attack, Warns Dragos</title>
-      <link>https://www.infosecurity-magazine.com/news/llm-critical-infrastructure/</link>
-      <pubDate>Thu, 07 May 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cline Kanban Flaw Lets Websites Hijack AI Coding Agents</title>
       <link>https://www.infosecurity-magazine.com/news/cline-kanban-websocket-hijack-ai/</link>
       <pubDate>Thu, 07 May 2026 14:30:00 +0000</pubDate>
@@ -45,19 +40,9 @@
       <pubDate>Thu, 07 May 2026 18:00:40 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. CISA adds a flaw in Ivanti Endpoint Manager Mobile (EPMM) to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/191822/security/u-s-cisa-adds-a-flaw-in-ivanti-endpoint-manager-mobile-epmm-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 07 May 2026 18:03:00 +0000</pubDate>
-    </item>
-    <item>
       <title>When prompts become shells: RCE vulnerabilities in AI agent frameworks</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/</link>
       <pubDate>Thu, 07 May 2026 20:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nation-state actors exploit Palo Alto PAN-OS zero-day for weeks</title>
-      <link>https://securityaffairs.com/191831/security/nation-state-actors-exploit-palo-alto-pan-os-zero-day-for-weeks.html</link>
-      <pubDate>Thu, 07 May 2026 20:44:22 +0000</pubDate>
     </item>
     <item>
       <title>Sophos named a Leader in the KuppingerCole Analysts Leadership Compass for Managed Detection and Response 2026</title>
@@ -303,6 +288,21 @@
       <title>‘CI Fortify’ Is the New Road Map for State and Local Resilience</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/ci-fortify-is-the-new-road-map-for-state-and-local-resilience</link>
       <pubDate>Sun, 10 May 2026 09:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 96</title>
+      <link>https://securityaffairs.com/191911/malware/security-affairs-malware-newsletter-round-96.html</link>
+      <pubDate>Sun, 10 May 2026 11:49:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Official JDownloader site served malware to Windows and Linux users between May 6 and May 7</title>
+      <link>https://securityaffairs.com/191920/malware/official-jdownloader-site-served-malware-to-windows-and-linux-users.html</link>
+      <pubDate>Sun, 10 May 2026 12:33:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak</title>
+      <link>https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html</link>
+      <pubDate>Sun, 10 May 2026 12:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
