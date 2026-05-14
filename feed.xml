@@ -5,41 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 2, May 2026</title>
-      <link>https://asec.ahnlab.com/en/93712/</link>
-      <pubDate>Wed, 13 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>European Commission head pushes creation of new law delaying teens’ social media access</title>
-      <link>https://therecord.media/european-commission-head-pushes-restriction-teen-social-media</link>
-      <pubDate>Wed, 13 May 2026 17:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Launches New Android Security Features to Fight Scams, Theft</title>
-      <link>https://www.techrepublic.com/article/news-google-android-security-scam-calls-theft-spyware/</link>
-      <pubDate>Wed, 13 May 2026 17:40:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft’s Patch Tuesday Update Targets 120 Security Flaws</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-may-patch-tuesday-120-flaws/</link>
-      <pubDate>Wed, 13 May 2026 17:52:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Convergence of Cloud Secrets &amp; AI Risk</title>
-      <link>https://www.sentinelone.com/blog/the-convergence-of-cloud-secrets-and-ai-risk/</link>
-      <pubDate>Wed, 13 May 2026 18:11:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenLoop Health confirms January 2026 Data breach affecting 716,000</title>
-      <link>https://securityaffairs.com/192066/uncategorized/openloop-health-confirms-january-2026-data-breach-affecting-716000.html</link>
-      <pubDate>Wed, 13 May 2026 18:45:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday for May 2026 fix 138 bugs, some of them are alarming</title>
-      <link>https://securityaffairs.com/192086/uncategorized/microsoft-patch-tuesday-for-may-2026-fix-138-bugs-some-of-them-are-alarming.html</link>
-      <pubDate>Wed, 13 May 2026 19:28:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Alleged Dream Market admin arrested in Germany after US indictment</title>
       <link>https://therecord.media/dream-market-admin-arrested-in-germany</link>
       <pubDate>Wed, 13 May 2026 19:54:00 +0000</pubDate>
@@ -215,8 +180,8 @@
       <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens Industrial Devices</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-06</link>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -227,6 +192,11 @@
     <item>
       <title>Siemens SIPROTEC 5</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-13</link>
+      <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Industrial Devices</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-06</link>
       <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -303,6 +273,36 @@
       <title>ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories</title>
       <link>https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html</link>
       <pubDate>Thu, 14 May 2026 16:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets</title>
+      <link>https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html</link>
+      <pubDate>Thu, 14 May 2026 17:22:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access</title>
+      <link>https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html</link>
+      <pubDate>Thu, 14 May 2026 17:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Kernel bug Fragnesia allows local root access attacks</title>
+      <link>https://securityaffairs.com/192145/uncategorized/linux-kernel-bug-fragnesia-allows-local-root-access-attacks.html</link>
+      <pubDate>Thu, 14 May 2026 17:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The time of much patching is coming</title>
+      <link>https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/</link>
+      <pubDate>Thu, 14 May 2026 18:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ODNI taps officials to coordinate response to foreign election threats</title>
+      <link>https://therecord.media/odni-taps-officials-to-coordinate-response-to-election-threats</link>
+      <pubDate>Thu, 14 May 2026 18:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds a flaw in Cisco Catalyst SD-WAN  to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/192157/hacking/u-s-cisa-adds-a-flaw-in-cisco-catalyst-sd-wan-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 14 May 2026 18:35:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
