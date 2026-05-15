@@ -5,11 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Siemens Industrial Devices</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-06</link>
-      <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Siemens SIPROTEC 5</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-13</link>
       <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
@@ -303,6 +298,11 @@
       <title>More than $10 million stolen from crypto platform THORChain</title>
       <link>https://therecord.media/more-than-10-million-stolen-crypto-platform-thorchain</link>
       <pubDate>Fri, 15 May 2026 19:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pwn2Own Berlin 2026, Day Two: $385,750 more, Microsoft Exchange falls, and the running total crosses $900K</title>
+      <link>https://securityaffairs.com/192209/security/pwn2own-berlin-2026-day-two-385750-more-microsoft-exchange-falls-and-the-running-total-crosses-900k.html</link>
+      <pubDate>Fri, 15 May 2026 21:53:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
