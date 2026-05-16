@@ -5,11 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Apple’s iPhone Privacy Feature Expands to More Users Worldwide</title>
-      <link>https://www.techrepublic.com/article/news-apple-ios-26-5-limit-precise-location-carriers/</link>
-      <pubDate>Thu, 14 May 2026 14:18:59 +0000</pubDate>
-    </item>
-    <item>
       <title>When configuration becomes a vulnerability: Exploitable misconfigurations in AI apps</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/</link>
       <pubDate>Thu, 14 May 2026 14:20:55 +0000</pubDate>
@@ -33,11 +28,6 @@
       <title>Kazuar: Anatomy of a nation-state botnet</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/</link>
       <pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Broadcom releases VMware Fusion security update for root access bug</title>
-      <link>https://securityaffairs.com/192136/security/broadcom-releases-vmware-fusion-security-update-for-root-access-bug.html</link>
-      <pubDate>Thu, 14 May 2026 15:46:09 +0000</pubDate>
     </item>
     <item>
       <title>Defense in depth for autonomous AI agents</title>
@@ -303,6 +293,16 @@
       <title>Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming</title>
       <link>https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html</link>
       <pubDate>Sat, 16 May 2026 15:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian APT Turla builds long-term access tool with Kazuar Botnet evolution</title>
+      <link>https://securityaffairs.com/192231/apt/russian-apt-turla-builds-long-term-access-tool-with-kazuar-botnet-evolution.html</link>
+      <pubDate>Sat, 16 May 2026 16:48:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/192240/hacking/u-s-cisa-adds-a-flaw-in-microsoft-exchange-server-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Sat, 16 May 2026 17:30:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
