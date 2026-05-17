@@ -5,11 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>When configuration becomes a vulnerability: Exploitable misconfigurations in AI apps</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/</link>
-      <pubDate>Thu, 14 May 2026 14:20:55 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-46300: Fragnesia Linux Kernel Flaw Grants Root via Page Cache Corruption</title>
       <link>https://socprime.com/blog/cve-2026-46300-fragnesia-linux-kernel-flaw/</link>
       <pubDate>Thu, 14 May 2026 14:28:56 +0000</pubDate>
@@ -58,11 +53,6 @@
       <title>Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access</title>
       <link>https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html</link>
       <pubDate>Thu, 14 May 2026 17:45:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Kernel bug Fragnesia allows local root access attacks</title>
-      <link>https://securityaffairs.com/192145/uncategorized/linux-kernel-bug-fragnesia-allows-local-root-access-attacks.html</link>
-      <pubDate>Thu, 14 May 2026 17:57:14 +0000</pubDate>
     </item>
     <item>
       <title>The time of much patching is coming</title>
@@ -303,6 +293,16 @@
       <title>U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/192240/hacking/u-s-cisa-adds-a-flaw-in-microsoft-exchange-server-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Sat, 16 May 2026 17:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canvas hack: is it ever a good idea to pay a ransom, and what happens to the data?</title>
+      <link>https://www.theguardian.com/technology/2026/may/17/canvas-hack-cyber-criminals-data-ransom-paid</link>
+      <pubDate>Sat, 16 May 2026 18:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pwn2Own Berlin 2026, Day Three: DEVCORE Crowned Master of Pwn, $1.298 Million Total</title>
+      <link>https://securityaffairs.com/192250/hacking/pwn2own-berlin-2026-day-three-devcore-crowned-master-of-pwn-1-298-million-total.html</link>
+      <pubDate>Sun, 17 May 2026 00:41:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
