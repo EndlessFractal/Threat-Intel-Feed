@@ -5,56 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More</title>
-      <link>https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html</link>
-      <pubDate>Mon, 18 May 2026 13:50:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interpol Launches Sweeping Cybercrime Crackdown in MENA Region</title>
-      <link>https://www.infosecurity-magazine.com/news/interpol-cybercrime-crackdown-mena/</link>
-      <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What If Your Digital Footprint Could Shrink?</title>
-      <link>https://www.techrepublic.com/article/surfshark-one-incogni-2-year-plan/</link>
-      <pubDate>Mon, 18 May 2026 14:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>April 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/93750/</link>
-      <pubDate>Mon, 18 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to better protect your growing business in an AI-powered world</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/</link>
-      <pubDate>Mon, 18 May 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Banned Nvidia AI Chips Keep Reaching China Despite US Crackdown</title>
-      <link>https://www.techrepublic.com/article/news-nvidia-ai-chip-smuggling-export-controls-apac/</link>
-      <pubDate>Mon, 18 May 2026 16:47:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple’s Siri Revamp May Add Auto-Deleting Chats</title>
-      <link>https://www.techrepublic.com/article/news-apple-siri-revamp-auto-deleting-chats/</link>
-      <pubDate>Mon, 18 May 2026 17:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests</title>
-      <link>https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html</link>
-      <pubDate>Mon, 18 May 2026 17:21:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grafana refuses to pay ransom after codebase theft</title>
-      <link>https://therecord.media/grafana-refuses-to-pay-ransom-codebase-theft</link>
-      <pubDate>Mon, 18 May 2026 17:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grafana confirms GitHub token breach cybercrime group claims the attack</title>
-      <link>https://securityaffairs.com/192347/breaking-news/grafana-confirms-github-token-breach-cybercrime-group-claims-the-attack.html</link>
-      <pubDate>Mon, 18 May 2026 18:54:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Grafana Rejects Ransom Demand After GitHub Breach Exposes Codebase Theft</title>
       <link>https://www.techrepublic.com/article/news-grafana-github-token-codebase-breach/</link>
       <pubDate>Mon, 18 May 2026 19:02:21 +0000</pubDate>
@@ -170,6 +120,11 @@
       <pubDate>Tue, 19 May 2026 11:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Agentic AI Accelerates Software Builds and Mobile App Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/agentic-ai-accelerates-software/</link>
+      <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kieback &amp; Peter DDC Building Controllers</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-05</link>
       <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
@@ -192,11 +147,6 @@
     <item>
       <title>ZKTeco CCTV Cameras</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04</link>
-      <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agentic AI Accelerates Software Builds and Mobile App Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/agentic-ai-accelerates-software/</link>
       <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -228,6 +178,11 @@
       <title>DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability</title>
       <link>https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html</link>
       <pubDate>Tue, 19 May 2026 14:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>After two years, Telegram smishing is back, and account takeovers are here to stay</title>
+      <link>https://asec.ahnlab.com/en/93790/</link>
+      <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Takes Down Fox Tempest for Providing Ransomware-Enabling Signing Tool</title>
@@ -290,7 +245,7 @@
       <pubDate>Wed, 20 May 2026 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories</title>
+      <title>GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos</title>
       <link>https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html</link>
       <pubDate>Wed, 20 May 2026 04:01:15 +0000</pubDate>
     </item>
@@ -303,6 +258,51 @@
       <title>Alleged Huawei zero-day blamed for the 2025 Luxembourg telecom crash</title>
       <link>https://securityaffairs.com/192431/hacking/alleged-huawei-zero-day-blamed-for-the-2025-luxembourg-telecom-crash.html</link>
       <pubDate>Wed, 20 May 2026 05:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>DirtyDecrypt: PoC Released for yet another Linux flaw</title>
+      <link>https://securityaffairs.com/192436/uncategorized/dirtydecrypt-poc-released-for-yet-another-linux-flaw.html</link>
+      <pubDate>Wed, 20 May 2026 07:36:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit</title>
+      <link>https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html</link>
+      <pubDate>Wed, 20 May 2026 08:28:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI warns students and staff that ShinyHunters may come knocking after Canvas breach</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-canvas-breach</link>
+      <pubDate>Wed, 20 May 2026 08:28:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Verizon DBIR: Vulnerability Exploits Overtake Credentials as Top Access Vector</title>
+      <link>https://www.infosecurity-magazine.com/news/verizon-dbir-exploits-top-access/</link>
+      <pubDate>Wed, 20 May 2026 08:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A malicious VS code extension just breached GitHub ‘s internal repositories</title>
+      <link>https://securityaffairs.com/192440/cyber-crime/a-malicious-vs-code-extension-just-breached-github-s-internal-repositories.html</link>
+      <pubDate>Wed, 20 May 2026 08:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>How an image could compromise your Mac: understanding an ExifTool vulnerability (CVE-2026-3102)</title>
+      <link>https://securelist.com/exiftool-compromise-mac/119866/</link>
+      <pubDate>Wed, 20 May 2026 09:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Warn CypherLoc Scareware Has Targeted Millions of Users</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-cypherloc-scareware/</link>
+      <pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tracking TamperedChef Clusters via Certificate and Code Reuse</title>
+      <link>https://unit42.paloaltonetworks.com/tracking-tampered-chef-clusters/</link>
+      <pubDate>Wed, 20 May 2026 10:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Confirms Breach of Internal Repositories Via Malicious VS Code Extension</title>
+      <link>https://www.infosecurity-magazine.com/news/github-confirms-breach-vs-code/</link>
+      <pubDate>Wed, 20 May 2026 10:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
