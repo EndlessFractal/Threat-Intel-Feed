@@ -5,36 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Introducing RAMPART and Clarity: Open source tools to bring safety into Agent development workflow</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/</link>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft issues YellowKey mitigation, no patch yet</title>
-      <link>https://securityaffairs.com/192449/hacking/microsoft-issues-yellowkey-mitigation-no-patch-yet.html</link>
-      <pubDate>Wed, 20 May 2026 15:07:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Malware Campaign Used Hundreds of Fake Apps to Silently Charge Users</title>
-      <link>https://www.infosecurity-magazine.com/news/android-carrier-billing-fraud-four/</link>
-      <pubDate>Wed, 20 May 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake malware-signing service Fox Tempest dismantled by Microsoft</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/05/fake-malware-signing-service-fox-tempest-dismantled-by-microsoft</link>
-      <pubDate>Wed, 20 May 2026 15:33:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing the gaming culture of cultures</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/</link>
-      <pubDate>Wed, 20 May 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development</title>
-      <link>https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html</link>
-      <pubDate>Wed, 20 May 2026 17:06:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/</link>
       <pubDate>Wed, 20 May 2026 17:48:44 +0000</pubDate>
@@ -135,6 +105,11 @@
       <pubDate>Thu, 21 May 2026 11:52:14 +0000</pubDate>
     </item>
     <item>
+      <title>Nine-Year-Old Linux Kernel Flaw Leaks SSH Keys and Password Hashes</title>
+      <link>https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/</link>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ABB Terra AC Wallbox</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05</link>
       <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
@@ -162,11 +137,6 @@
     <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nine-Year-Old Linux Kernel Flaw Leaks SSH Keys and Password Hashes</title>
-      <link>https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/</link>
       <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -298,6 +268,36 @@
       <title>Cross-Platform NPM Stealer, (Fri, May 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/33006</link>
       <pubDate>Fri, 22 May 2026 06:14:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Telecom Provider Hosted Most of the Middle East ’s Active C2 Infrastructure</title>
+      <link>https://securityaffairs.com/192518/hacking/one-telecom-provider-hosted-most-of-the-middle-east-s-active-c2-infrastructure.html</link>
+      <pubDate>Fri, 22 May 2026 07:29:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks</title>
+      <link>https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html</link>
+      <pubDate>Fri, 22 May 2026 08:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload</title>
+      <link>https://securelist.com/cloud-atlas-2026/119895/</link>
+      <pubDate>Fri, 22 May 2026 09:12:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Trend Micro Apex One and Langflow to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/192529/hacking/u-s-cisa-adds-trend-micro-apex-one-and-langflow-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Fri, 22 May 2026 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paved With Intent: ROADtools and Nation-State Tactics in the Cloud</title>
+      <link>https://unit42.paloaltonetworks.com/roadtools-cloud-attacks/</link>
+      <pubDate>Fri, 22 May 2026 10:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Blocked $2.2bn in App Store Fraud in the Last Year</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-blocked-2bn-app-store-fraud/</link>
+      <pubDate>Fri, 22 May 2026 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
