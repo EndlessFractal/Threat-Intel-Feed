@@ -5,21 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>CISA Contractor Exposed Sensitive Credentials in Public GitHub Repository</title>
-      <link>https://www.techrepublic.com/article/news-cisa-contractor-github-credential-leak/</link>
-      <pubDate>Wed, 20 May 2026 14:59:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, May 2026</title>
-      <link>https://asec.ahnlab.com/en/93803/</link>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mini Shai-Hulud Hits Hundreds of npm Packages in AntV Ecosystem</title>
-      <link>https://www.infosecurity-magazine.com/news/antv-npm-mini-shai-hulud-largest/</link>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing RAMPART and Clarity: Open source tools to bring safety into Agent development workflow</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/</link>
       <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
@@ -150,11 +135,6 @@
       <pubDate>Thu, 21 May 2026 11:52:14 +0000</pubDate>
     </item>
     <item>
-      <title>Nine-Year-Old Linux Kernel Flaw Leaks SSH Keys and Password Hashes</title>
-      <link>https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/</link>
-      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ABB Terra AC Wallbox</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05</link>
       <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
@@ -182,6 +162,11 @@
     <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nine-Year-Old Linux Kernel Flaw Leaks SSH Keys and Password Hashes</title>
+      <link>https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/</link>
       <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -298,6 +283,21 @@
       <title>ISC Stormcast For Friday, May 22nd, 2026 https://isc.sans.edu/podcastdetail/9942, (Fri, May 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/33004</link>
       <pubDate>Fri, 22 May 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access</title>
+      <link>https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html</link>
+      <pubDate>Fri, 22 May 2026 05:36:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV</title>
+      <link>https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html</link>
+      <pubDate>Fri, 22 May 2026 05:47:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cross-Platform NPM Stealer, (Fri, May 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/33006</link>
+      <pubDate>Fri, 22 May 2026 06:14:42 +0000</pubDate>
     </item>
     <item>
       <title>CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
