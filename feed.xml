@@ -5,11 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>ABB B&amp;R Automation Runtime</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04</link>
-      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Hitachi Energy GMS600</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01</link>
       <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
@@ -303,6 +298,11 @@
       <title>Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer</title>
       <link>https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html</link>
       <pubDate>Sat, 23 May 2026 09:51:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software</title>
+      <link>https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html</link>
+      <pubDate>Sat, 23 May 2026 11:55:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
