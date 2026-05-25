@@ -5,16 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Cybercriminal VPN Dismantled in Europol Crackdown</title>
-      <link>https://www.infosecurity-magazine.com/news/first-vpn-takedown-europol/</link>
-      <pubDate>Thu, 21 May 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The npm Threat Landscape: Attack Surface and Mitigations (Updated May 21)</title>
-      <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
-      <pubDate>Thu, 21 May 2026 15:30:33 +0000</pubDate>
-    </item>
-    <item>
       <title>What’s new in Microsoft Security: May 2026</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/</link>
       <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
@@ -68,11 +58,6 @@
       <title>Cross-Platform NPM Stealer, (Fri, May 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/33006</link>
       <pubDate>Fri, 22 May 2026 06:14:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Telecom Provider Hosted Most of the Middle East ’s Active C2 Infrastructure</title>
-      <link>https://securityaffairs.com/192518/hacking/one-telecom-provider-hosted-most-of-the-middle-east-s-active-c2-infrastructure.html</link>
-      <pubDate>Fri, 22 May 2026 07:29:37 +0000</pubDate>
     </item>
     <item>
       <title>Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks</title>
@@ -303,6 +288,21 @@
       <title>Wireshark 4.6.6 Released, (Sun, May 24th)</title>
       <link>https://isc.sans.edu/diary/rss/33010</link>
       <pubDate>Sun, 24 May 2026 16:38:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO</title>
+      <link>https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html</link>
+      <pubDate>Mon, 25 May 2026 05:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI director Kash Patel’s brand website taken offline after malware reports</title>
+      <link>https://securityaffairs.com/192613/security/fbi-director-kash-patels-brand-website-taken-offline-after-malware-reports.html</link>
+      <pubDate>Mon, 25 May 2026 06:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (May 18 – May 24)</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-18-may-24</link>
+      <pubDate>Mon, 25 May 2026 07:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
