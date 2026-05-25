@@ -5,31 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>What’s new in Microsoft Security: May 2026</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/</link>
-      <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>macOS Kernel Memory Corruption Exploit</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html</link>
-      <pubDate>Thu, 21 May 2026 16:03:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defenders fall behind, as AI rewrites the rules of a data breach</title>
-      <link>https://www.fortra.com/blog/defenders-fall-behind-ai-rewrites-rules-data-breach</link>
-      <pubDate>Thu, 21 May 2026 17:13:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender vulnerabilities are being exploited in the wild</title>
-      <link>https://www.malwarebytes.com/blog/bugs/2026/05/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild</link>
-      <pubDate>Thu, 21 May 2026 17:36:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>The art of being ungovernable</title>
-      <link>https://blog.talosintelligence.com/the-art-of-being-ungovernable/</link>
-      <pubDate>Thu, 21 May 2026 18:00:14 +0000</pubDate>
-    </item>
-    <item>
       <title>New Verizon Report Reveals the Security Gap Attackers Are Exploiting Most</title>
       <link>https://www.techrepublic.com/article/news-verizon-dbir-vulnerability-exploitation-2026/</link>
       <pubDate>Thu, 21 May 2026 19:45:32 +0000</pubDate>
@@ -68,11 +43,6 @@
       <title>Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload</title>
       <link>https://securelist.com/cloud-atlas-2026/119895/</link>
       <pubDate>Fri, 22 May 2026 09:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Trend Micro Apex One and Langflow to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/192529/hacking/u-s-cisa-adds-trend-micro-apex-one-and-langflow-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Fri, 22 May 2026 09:13:30 +0000</pubDate>
     </item>
     <item>
       <title>Paved With Intent: ROADtools and Nation-State Tactics in the Cloud</title>
@@ -123,11 +93,6 @@
       <title>CVE-2026-9082: Highly Critical Drupal Core SQL Injection Flaw Threatens PostgreSQL Sites</title>
       <link>https://socprime.com/blog/cve-2026-9082-analysis/</link>
       <pubDate>Fri, 22 May 2026 13:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Authorities arrest 23-year-old accused of running the Kimwolf botnet</title>
-      <link>https://securityaffairs.com/192533/cyber-crime/authorities-arrest-23-year-old-accused-of-running-the-kimwolf-botnet.html</link>
-      <pubDate>Fri, 22 May 2026 13:57:49 +0000</pubDate>
     </item>
     <item>
       <title>CISA Security Leak</title>
@@ -303,6 +268,41 @@
       <title>A week in security (May 18 – May 24)</title>
       <link>https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-18-may-24</link>
       <pubDate>Mon, 25 May 2026 07:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dutch authorities dismantle hosting network allegedly used for cyberattacks and disinformation</title>
+      <link>https://securityaffairs.com/192602/intelligence/dutch-authorities-dismantle-hosting-network-allegedly-used-for-cyberattacks-and-disinformation.html</link>
+      <pubDate>Mon, 25 May 2026 08:54:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Streams, Counterfeit Merch and Other Scams: How Fraudsters Target F1 Fans</title>
+      <link>https://www.infosecurity-magazine.com/news/how-fraudsters-target-f1-fans/</link>
+      <pubDate>Mon, 25 May 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Warns 'Kali365' Phishing Kit Hijacks Microsoft 365 OAuth Tokens</title>
+      <link>https://www.infosecurity-magazine.com/news/fbi-kali365-phishing-kit-m365/</link>
+      <pubDate>Mon, 25 May 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms</title>
+      <link>https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html</link>
+      <pubDate>Mon, 25 May 2026 09:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-Click WhatsApp Account Takeover Hits iPhone Users Running iOS 16. No Linked Devices, No Warning</title>
+      <link>https://securityaffairs.com/192627/security/zero-click-whatsapp-account-takeover-hits-iphone-users-running-ios-16-no-linked-devices-no-warning.html</link>
+      <pubDate>Mon, 25 May 2026 10:29:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Alert Firehose Finally Meets Its Match</title>
+      <link>https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html</link>
+      <pubDate>Mon, 25 May 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks</title>
+      <link>https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html</link>
+      <pubDate>Mon, 25 May 2026 12:02:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
