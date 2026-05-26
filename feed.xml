@@ -5,61 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
-      <link>https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev</link>
-      <pubDate>Sat, 23 May 2026 01:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Example of Stack String in High Level Language, (Sat, May 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/33008</link>
-      <pubDate>Sat, 23 May 2026 05:49:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV</title>
-      <link>https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html</link>
-      <pubDate>Sat, 23 May 2026 07:23:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root</title>
-      <link>https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html</link>
-      <pubDate>Sat, 23 May 2026 07:35:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer</title>
-      <link>https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html</link>
-      <pubDate>Sat, 23 May 2026 09:51:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software</title>
-      <link>https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html</link>
-      <pubDate>Sat, 23 May 2026 11:55:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware</title>
-      <link>https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html</link>
-      <pubDate>Sat, 23 May 2026 16:07:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks</title>
-      <link>https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html</link>
-      <pubDate>Sat, 23 May 2026 16:35:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 505</title>
-      <link>https://www.troyhunt.com/weekly-update-505/</link>
-      <pubDate>Sun, 24 May 2026 01:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>How New College Grads Can Succeed in an AI Economy</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/how-new-college-grads-can-succeed-in-an-ai-economy</link>
-      <pubDate>Sun, 24 May 2026 09:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 98</title>
-      <link>https://securityaffairs.com/192598/malware/security-affairs-malware-newsletter-round-98.html</link>
-      <pubDate>Sun, 24 May 2026 12:11:38 +0000</pubDate>
-    </item>
-    <item>
       <title>Wireshark 4.6.6 Released, (Sun, May 24th)</title>
       <link>https://isc.sans.edu/diary/rss/33010</link>
       <pubDate>Sun, 24 May 2026 16:38:21 +0000</pubDate>
@@ -275,6 +220,41 @@
       <pubDate>Tue, 26 May 2026 11:58:00 +0000</pubDate>
     </item>
     <item>
+      <title>ABB Terra AC</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01</link>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB LVS MConfig</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06</link>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB Ability Camera Connect</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-05</link>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eppendorf BioFlo 320</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01</link>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB AbilityTM Zenon Remote Transport Vulnerability</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03</link>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB AC500 V2</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-02</link>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB B&amp;R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04</link>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data</title>
       <link>https://feeds.fortinet.com/~/957300263/0/fortinet/blog/threat-research~Phishing-Campaign-Deploys-JavaScriptDriven-PureLogs-Variant-to-Steal-Sensitive-Data</link>
       <pubDate>Tue, 26 May 2026 13:00:00 +0000</pubDate>
@@ -303,6 +283,26 @@
       <title>Identifying People Using Wi-Fi Routers</title>
       <link>https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html</link>
       <pubDate>Tue, 26 May 2026 15:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries</title>
+      <link>https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html</link>
+      <pubDate>Tue, 26 May 2026 15:48:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-48095: 7-Zip Heap Buffer Overflow Can Lead to Code Execution</title>
+      <link>https://socprime.com/blog/cve-2026-48095-7-zip-heap-overflow-flaw/</link>
+      <pubDate>Tue, 26 May 2026 16:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI warns of Kali365 phishing kit that breaks into Microsoft 365 accounts – no password required</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-kali365-phishing-kit-breaks-microsoft-365-accounts-no-password-required</link>
+      <pubDate>Tue, 26 May 2026 16:24:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hidden Ransomware Economy Running on Exposed Databases</title>
+      <link>https://securityaffairs.com/192711/cyber-crime/the-hidden-ransomware-economy-running-on-exposed-databases.html</link>
+      <pubDate>Tue, 26 May 2026 17:57:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
