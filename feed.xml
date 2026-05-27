@@ -5,36 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Lazarus APT unveils fileless remote access Trojan designed to evade detection</title>
-      <link>https://securityaffairs.com/192666/apt/lazarus-apt-unveils-fileless-remote-access-trojan-designed-to-evade-detection.html</link>
-      <pubDate>Tue, 26 May 2026 08:01:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nimbus Manticore Expanded Attacks With AI-Assisted Malware and Fake Zoom Installers</title>
-      <link>https://securityaffairs.com/192689/apt/nimbus-manticore-expanded-attacks-with-ai-assisted-malware-and-fake-zoom-installers.html</link>
-      <pubDate>Tue, 26 May 2026 09:09:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-Linked Hackers Target US Aviation with Phishing and SEO Poisoning Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/iranian-hackers-us-aviation/</link>
-      <pubDate>Tue, 26 May 2026 09:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks</title>
-      <link>https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html</link>
-      <pubDate>Tue, 26 May 2026 09:13:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 Ways XDR Helps SOCs Act Faster</title>
-      <link>https://www.security.com/product-insights/5-ways-xdr-helps-socs</link>
-      <pubDate>Tue, 26 May 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scammers pretending to be Microsoft had help from US executives</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/05/scammers-pretending-to-be-microsoft-had-help-from-us-executives</link>
-      <pubDate>Tue, 26 May 2026 10:01:25 +0000</pubDate>
-    </item>
-    <item>
       <title>India's CERT-In Sets 12-Hour Patch Deadline for Exposed Flaws</title>
       <link>https://www.infosecurity-magazine.com/news/cert-in-12-hour-patch-deadline-ai/</link>
       <pubDate>Tue, 26 May 2026 10:30:00 +0000</pubDate>
@@ -118,11 +88,6 @@
       <title>BTMOB Android RAT Spreads Through No-Code Builder Tooling</title>
       <link>https://www.infosecurity-magazine.com/news/btmob-android-rat-maas-builder/</link>
       <pubDate>Tue, 26 May 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lithuania investigates theft of 600,000 state registry records by foreign actor</title>
-      <link>https://therecord.media/lithuania-investigates-theft-of-state-records</link>
-      <pubDate>Tue, 26 May 2026 14:14:00 +0000</pubDate>
     </item>
     <item>
       <title>Chinese Threat Actors Ditch Static Phishing Pages for Live Credential Interception</title>
@@ -250,6 +215,11 @@
       <pubDate>Wed, 27 May 2026 11:48:37 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Football Fever Fuels Scam Campaigns Across Email and Social Media</title>
       <link>https://www.bitdefender.com/en-us/blog/labs/football-fever-fuels-scam-campaigns-across-email-and-social-media</link>
       <pubDate>Wed, 27 May 2026 12:56:33 +0000</pubDate>
@@ -303,6 +273,36 @@
       <title>FBI warns extortion hackers are visiting US law firms to steal data</title>
       <link>https://therecord.media/fbi-warns-hackers-visit-law-firms-to-steal-data</link>
       <pubDate>Wed, 27 May 2026 14:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-Eleven Breach: Hackers Claim 600,000 Records Stolen</title>
+      <link>https://www.techrepublic.com/article/news-7-eleven-data-breach-franchise-applicants/</link>
+      <pubDate>Wed, 27 May 2026 15:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rudd orders Cyber Command reviews as Pentagon presses reform agenda</title>
+      <link>https://therecord.media/rudd-orders-cyber-command-reviews-as-pentagon-presses-reform-agenda</link>
+      <pubDate>Wed, 27 May 2026 15:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious npm Package Stole Files From Claude AI User Directory via GitHub</title>
+      <link>https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html</link>
+      <pubDate>Wed, 27 May 2026 15:44:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users</title>
+      <link>https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html</link>
+      <pubDate>Wed, 27 May 2026 16:10:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Next AI Security Failure May Start With a Trusted Assistant</title>
+      <link>https://www.techrepublic.com/article/news-ai-agent-data-layer-security-may-2026-2/</link>
+      <pubDate>Wed, 27 May 2026 17:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Romanian national sentenced to more than 4 years for hacking Oregon government systems</title>
+      <link>https://therecord.media/romanian-national-sentenced-to-over-4-years-oregon-hack</link>
+      <pubDate>Wed, 27 May 2026 18:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
