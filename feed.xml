@@ -5,86 +5,6 @@
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml</link>
     <item>
-      <title>Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal</title>
-      <link>https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html</link>
-      <pubDate>Thu, 28 May 2026 13:53:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cruise giant Carnival confirms data breach affecting nearly 6 million people</title>
-      <link>https://therecord.media/cruise-giant-carnival-confirms-data-breach-affecting-6-million</link>
-      <pubDate>Thu, 28 May 2026 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Gentlemen ransomware: Dissecting a self-propagating Go encryptor</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/</link>
-      <pubDate>Thu, 28 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s $135M Android Privacy Settlement: Who May Be Eligible</title>
-      <link>https://www.techrepublic.com/article/news-google-android-privacy-settlement/</link>
-      <pubDate>Thu, 28 May 2026 15:08:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer</title>
-      <link>https://thehackernews.com/2026/05/threat-actors-exploit-critical.html</link>
-      <pubDate>Thu, 28 May 2026 15:26:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Move Past Typosquatting to Realistic Package Impersonation</title>
-      <link>https://www.infosecurity-magazine.com/news/attackers-beyond-typosquatting/</link>
-      <pubDate>Thu, 28 May 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple May Bring Android-Style Theft Detection to iPhones</title>
-      <link>https://www.techrepublic.com/article/news-apple-iphone-anti-snatching-lock-feature/</link>
-      <pubDate>Thu, 28 May 2026 15:44:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Warns Companies About Ransom Gang’s Fake IT Support Tactics</title>
-      <link>https://www.techrepublic.com/article/news-silent-ransom-group-physical-impersonation-fbi-warning/</link>
-      <pubDate>Thu, 28 May 2026 15:58:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code</title>
-      <link>https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html</link>
-      <pubDate>Thu, 28 May 2026 17:24:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Less panic patching, more precision</title>
-      <link>https://blog.talosintelligence.com/less-panic-patching-more-precision/</link>
-      <pubDate>Thu, 28 May 2026 18:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krispy Kreme Settlement Deadline Nears: Eligible Members Could Claim Up to $3,500</title>
-      <link>https://www.techrepublic.com/article/news-krispy-kreme-data-breach-settlement-claims-deadline/</link>
-      <pubDate>Thu, 28 May 2026 18:49:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis of a Year of Files Uploaded to DShield Sensors, (Wed, May 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/33026</link>
-      <pubDate>Thu, 28 May 2026 19:41:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShinyHunters Alleges 42M Records Stolen from Charter Communications</title>
-      <link>https://www.techrepublic.com/article/news-charter-shinyhunters-cyber-incident/</link>
-      <pubDate>Thu, 28 May 2026 21:12:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, May 29th, 2026 https://isc.sans.edu/podcastdetail/9950, (Fri, May 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/33030</link>
-      <pubDate>Fri, 29 May 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Typosquatted npm packages used to steal cloud and CI/CD secrets</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/</link>
-      <pubDate>Fri, 29 May 2026 03:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels</title>
-      <link>https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html</link>
-      <pubDate>Fri, 29 May 2026 05:57:41 +0000</pubDate>
-    </item>
-    <item>
       <title>What’s in the container? Analyzing vulnerabilities, risks and protection with Kaspersky Container Security and the KIRA AI assistant</title>
       <link>https://securelist.com/container-security-typical-issues/119974/</link>
       <pubDate>Fri, 29 May 2026 07:00:51 +0000</pubDate>
@@ -123,11 +43,6 @@
       <title>Chilling Effects</title>
       <link>https://www.schneier.com/blog/archives/2026/05/chilling-effects.html</link>
       <pubDate>Fri, 29 May 2026 11:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>DIL Observatory: when the World Escalates, the Underground Responds</title>
-      <link>https://securityaffairs.com/192870/security/dil-observatory-when-the-world-escalates-the-underground-responds.html</link>
-      <pubDate>Fri, 29 May 2026 11:20:31 +0000</pubDate>
     </item>
     <item>
       <title>New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks</title>
@@ -185,11 +100,6 @@
       <pubDate>Fri, 29 May 2026 18:07:12 +0000</pubDate>
     </item>
     <item>
-      <title>Meet GREYVIBE, the Russia-Linked Hacking Group Using AI to Target Ukraine and Still Making Rookie Mistakes</title>
-      <link>https://securityaffairs.com/192877/apt/meet-greyvibe-the-russian-linked-hacking-group-using-ai-to-target-ukraine-and-still-making-rookie-mistakes.html</link>
-      <pubDate>Fri, 29 May 2026 18:23:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Friday Squid Blogging: Another Squid</title>
       <link>https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html</link>
       <pubDate>Fri, 29 May 2026 21:05:33 +0000</pubDate>
@@ -203,11 +113,6 @@
       <title>PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation</title>
       <link>https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html</link>
       <pubDate>Sat, 30 May 2026 06:41:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Botnet of 17 Million Devices Dismantled in the Netherlands</title>
-      <link>https://securityaffairs.com/192890/malware/botnet-of-17-million-devices-dismantled-in-the-netherlands.html</link>
-      <pubDate>Sat, 30 May 2026 08:16:15 +0000</pubDate>
     </item>
     <item>
       <title>Signal Phishing Campaign Targets Journalists and Activists to Steal Backup Recovery Keys</title>
@@ -248,6 +153,16 @@
       <title>CVE-2026-0257: Rapid7 Caught Attackers Abusing Forged VPN Cookies Against Multiple Customers</title>
       <link>https://securityaffairs.com/192933/security/cve-2026-0257-rapid7-caught-attackers-abusing-forged-vpn-cookies-against-multiple-customers.html</link>
       <pubDate>Sun, 31 May 2026 17:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Afghan finance officials targeted by suspected Pakistani cyberespionage campaign</title>
+      <link>https://therecord.media/afghan-officials-targeted-by-sidecopy</link>
+      <pubDate>Sun, 31 May 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unknown hacker group targeted Russian maritime universities, diplomats for nearly two years</title>
+      <link>https://therecord.media/unknown-hacking-group-targeting-russia-for-nearly-two-years</link>
+      <pubDate>Sun, 31 May 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Unidentified RAT pushes NetSupport RAT, (Mon, Jun 1st)</title>
@@ -303,6 +218,91 @@
       <title>U.S. CISA adds Palo Alto Networks PAN-OS flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/192951/security/u-s-cisa-adds-palo-alto-networks-pan-os-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Mon, 01 Jun 2026 08:36:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts</title>
+      <link>https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html</link>
+      <pubDate>Mon, 01 Jun 2026 08:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Abuse Shared Content for ChatGPT Phishing Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/attackers-shared-content-chatgpt/</link>
+      <pubDate>Mon, 01 Jun 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack</title>
+      <link>https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html</link>
+      <pubDate>Mon, 01 Jun 2026 09:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>CIFSwitch, a Linux Root Bug Hidden in Plain Sight for 19 Years</title>
+      <link>https://securityaffairs.com/192959/security/a-spacex-security-engineer-used-ai-to-find-a-19-year-old-linux-bug-that-gives-attackers-root.html</link>
+      <pubDate>Mon, 01 Jun 2026 09:55:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Containers on fire: from container escapes to supply chain attacks</title>
+      <link>https://securelist.com/container-attack-vectors/120010/</link>
+      <pubDate>Mon, 01 Jun 2026 10:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>FSB Group Gamaredon Hides Worm in Windows Data Streams</title>
+      <link>https://www.infosecurity-magazine.com/news/gamaredon-worm-ntfs-data-streams/</link>
+      <pubDate>Mon, 01 Jun 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Security Is Having A Moment</title>
+      <link>https://www.security.com/product-insights/data-security-moment</link>
+      <pubDate>Mon, 01 Jun 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools</title>
+      <link>https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html</link>
+      <pubDate>Mon, 01 Jun 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-8732: The WP Maps Pro Flaw That Lets Anyone Create a WordPress Admin Without a Password</title>
+      <link>https://securityaffairs.com/192977/hacking/cve-2026-8732-the-wp-maps-pro-flaw-that-lets-anyone-create-a-wordpress-admin-without-a-password.html</link>
+      <pubDate>Mon, 01 Jun 2026 11:36:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infosecurity Europe: AI SOCs Will Still Need SOC Analysts, Security Vendors Say</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-soc-still-need-analysts/</link>
+      <pubDate>Mon, 01 Jun 2026 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic &amp; Taiwan</title>
+      <link>https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html</link>
+      <pubDate>Mon, 01 Jun 2026 11:54:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft says it will not pursue security researchers after zero-day backlash</title>
+      <link>https://therecord.media/microsoft-says-it-will-not-pursue-security-researchers-disclosure</link>
+      <pubDate>Mon, 01 Jun 2026 12:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Tabletop Exercise to Test How CISOs Respond to Major Supermarket Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-semperis/</link>
+      <pubDate>Mon, 01 Jun 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Operators Keep Business Hours. The Data Proves It</title>
+      <link>https://securityaffairs.com/192969/uncategorized/ransomware-operators-keep-business-hours-the-data-proves-it.html</link>
+      <pubDate>Mon, 01 Jun 2026 13:55:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More</title>
+      <link>https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html</link>
+      <pubDate>Mon, 01 Jun 2026 13:59:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Flowise Flaw Gives Attackers Full Server Control</title>
+      <link>https://www.infosecurity-magazine.com/news/flowise-mcp-rce-poc/</link>
+      <pubDate>Mon, 01 Jun 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake BlueWallet steals passwords, accounts, and crypto from Macs</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-bluewallet-steals-passwords-accounts-and-crypto-from-macs</link>
+      <pubDate>Mon, 01 Jun 2026 14:40:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
