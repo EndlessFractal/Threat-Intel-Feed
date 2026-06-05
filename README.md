@@ -11,7 +11,7 @@ This automated feed retrieves a list of feeds from various sources, consolidates
 
 Just import the following link into your favorite RSS reader!
 
-> https://raw.githubusercontent.com/EndlessFractal/Threat-Intel-Feed/main/feed.xml
+> https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml
 
 ## Sources
 

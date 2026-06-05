@@ -12,7 +12,7 @@ import requests
 
 FEED_TITLE = "EndlessFractal's Threat Intel Feed"
 FEED_DESCRIPTION = "A combined RSS feed of the 60 most recent articles from various sources"
-FEED_LINK = "https://raw.githubusercontent.com/EndlessFractal/hosts/main/feed.xml"
+FEED_LINK = "https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml"
 OUTPUT_FILE = Path("feed.xml")
 URLS_FILE = Path("list.txt")
 
@@ -97,6 +97,8 @@ def create_rss_feed(entries):
     ET.SubElement(channel, 'title').text = FEED_TITLE
     ET.SubElement(channel, 'description').text = FEED_DESCRIPTION
     ET.SubElement(channel, 'link').text = FEED_LINK
+    build_date = format_datetime(datetime.now(timezone.utc))
+    ET.SubElement(channel, 'lastBuildDate').text = build_date
 
     # Keep only the 60 most recent entries
     recent_entries = entries[-MAX_ENTRIES:]
