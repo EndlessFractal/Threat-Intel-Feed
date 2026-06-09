@@ -4,27 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 09 Jun 2026 02:47:54 +0000</lastBuildDate>
-    <item>
-      <title>Malicious Hugging Face Models Could Trigger Remote Code Execution</title>
-      <link>https://www.techrepublic.com/article/news-hugging-face-transformers-rce-flaw/</link>
-      <pubDate>Fri, 05 Jun 2026 18:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks</title>
-      <link>https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html</link>
-      <pubDate>Fri, 05 Jun 2026 18:05:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Warns Agentic AI Will Put New Pressure on Enterprise Networks</title>
-      <link>https://www.techrepublic.com/article/news-cisco-ai-networking-bottleneck/</link>
-      <pubDate>Fri, 05 Jun 2026 20:07:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Upgrades, Security Flaws, and SpaceX’s Record IPO Define the Week in Tech</title>
-      <link>https://www.techrepublic.com/article/ai-upgrades-security-flaws-and-spacexs-record-ipo-define-the-week-in-tech/</link>
-      <pubDate>Fri, 05 Jun 2026 20:48:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 07:42:57 +0000</lastBuildDate>
     <item>
       <title>When Nation-States Stop Caring About Size</title>
       <link>https://www.security.com/expert-perspectives/nation-states-size</link>
@@ -226,6 +206,21 @@
       <pubDate>Mon, 08 Jun 2026 14:17:39 +0000</pubDate>
     </item>
     <item>
+      <title>May 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94028/</link>
+      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Threat Actor Trend Report May 2026</title>
+      <link>https://asec.ahnlab.com/en/94033/</link>
+      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2026 Dark Web Issue Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94034/</link>
+      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>North Korean Hackers Use Fake Coding Tasks to Steal Crypto</title>
       <link>https://www.infosecurity-magazine.com/news/north-korean-hackers-developers/</link>
       <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
@@ -241,13 +236,13 @@
       <pubDate>Mon, 08 Jun 2026 15:21:16 +0000</pubDate>
     </item>
     <item>
-      <title>Threats Rise on a Tide of Global Unrest</title>
-      <link>https://www.security.com/expert-perspectives/threats-rise-global-unrest</link>
+      <title>AI brands as bait: How threat actors are using the AI hype in social engineering</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/</link>
       <pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI brands as bait: How threat actors are using the AI hype in social engineering</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/</link>
+      <title>Threats Rise on a Tide of Global Unrest</title>
+      <link>https://www.security.com/expert-perspectives/threats-rise-global-unrest</link>
       <pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -304,6 +299,11 @@
       <title>ISC Stormcast For Tuesday, June 9th, 2026 https://isc.sans.edu/podcastdetail/9964, (Tue, Jun 9th)</title>
       <link>https://isc.sans.edu/diary/rss/33062</link>
       <pubDate>Tue, 09 Jun 2026 02:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE</title>
+      <link>https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html</link>
+      <pubDate>Tue, 09 Jun 2026 06:26:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
