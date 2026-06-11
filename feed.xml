@@ -4,12 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 11 Jun 2026 17:35:18 +0000</lastBuildDate>
-    <item>
-      <title>🎙️SECURITY.COM The Podcast: The Death of SIEM</title>
-      <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-death-siem</link>
-      <pubDate>Wed, 10 Jun 2026 10:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 20:16:12 +0000</lastBuildDate>
     <item>
       <title>Over a Quarter of Identity Crime Victims Hit by Multiple Incidents, ITRC Data Shows</title>
       <link>https://www.infosecurity-magazine.com/news/quarter-identity-crime-victims/</link>
@@ -81,7 +76,7 @@
       <pubDate>Wed, 10 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE</title>
+      <title>Langflow Vulnerability CVE-2026-5027 Exploited for Unauthenticated RCE</title>
       <link>https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html</link>
       <pubDate>Wed, 10 Jun 2026 15:00:59 +0000</pubDate>
     </item>
@@ -121,14 +116,14 @@
       <pubDate>Wed, 10 Jun 2026 16:27:32 +0000</pubDate>
     </item>
     <item>
-      <title>CISA to require federal agencies to patch some cyber vulnerabilities within 3 days</title>
-      <link>https://therecord.media/cisa-to-require-federal-agencies-to-patch-3-days</link>
-      <pubDate>Wed, 10 Jun 2026 19:53:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Smashing Security podcast #471: This AI worm just rewrote its own rules</title>
       <link>https://grahamcluley.com/smashing-security-podcast-471/</link>
       <pubDate>Wed, 10 Jun 2026 23:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos recognized for endpoint leadership in SE Labs Awards 2026</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bug bounties in the Mythos era</title>
@@ -221,7 +216,7 @@
       <pubDate>Thu, 11 Jun 2026 11:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Data of 2.4 million VRChat users stolen</title>
+      <title>Breach notification filed for VRChat. But VRChat says it never happened</title>
       <link>https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen</link>
       <pubDate>Thu, 11 Jun 2026 11:31:01 +0000</pubDate>
     </item>
@@ -238,6 +233,11 @@
     <item>
       <title>Brickcom Cameras</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-03</link>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -261,11 +261,6 @@
       <pubDate>Thu, 11 Jun 2026 13:26:13 +0000</pubDate>
     </item>
     <item>
-      <title>University of Nottingham confirms cyber incident as Shiny Hunters group claims data theft</title>
-      <link>https://therecord.media/university-of-nottingham-cyber-incident-shiny-hunters</link>
-      <pubDate>Thu, 11 Jun 2026 13:53:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cybercriminals Use Fake AI Guides and Dev Tools to Spread AsyncRAT Malware</title>
       <link>https://www.infosecurity-magazine.com/news/fake-ai-guides-dev-tools-spread/</link>
       <pubDate>Thu, 11 Jun 2026 14:00:00 +0000</pubDate>
@@ -281,29 +276,34 @@
       <pubDate>Thu, 11 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hacker linked to Void Blizzard faces charges over cyberespionage campaign</title>
-      <link>https://therecord.media/hacker-linked-to-void-blizzard-faces-charges</link>
-      <pubDate>Thu, 11 Jun 2026 15:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>British high school sends students home following cyberattack</title>
-      <link>https://therecord.media/british-school-sends-students-home-cyberattack</link>
-      <pubDate>Thu, 11 Jun 2026 15:25:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Google can be liable for false AI Overviews, court rules</title>
       <link>https://www.malwarebytes.com/blog/ai/2026/06/google-can-be-liable-for-false-ai-overviews-court-rules</link>
       <pubDate>Thu, 11 Jun 2026 16:09:13 +0000</pubDate>
     </item>
     <item>
-      <title>Cyber Force not included in Senate defense policy roadmap</title>
-      <link>https://therecord.media/cyber-force-not-included-senate-defense-roadmap</link>
-      <pubDate>Thu, 11 Jun 2026 16:47:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm</title>
       <link>https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html</link>
       <pubDate>Thu, 11 Jun 2026 16:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files</title>
+      <link>https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html</link>
+      <pubDate>Thu, 11 Jun 2026 17:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets</title>
+      <link>https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html</link>
+      <pubDate>Thu, 11 Jun 2026 17:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-10520 Exploited: Ivanti Sentry Gateways Compromised Shortly After Patch Release</title>
+      <link>https://securityaffairs.com/193530/uncategorized/cve-2026-10520-exploited-ivanti-sentry-gateways-compromised-shortly-after-patch-release.html</link>
+      <pubDate>Thu, 11 Jun 2026 17:57:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>A tale of two eras</title>
+      <link>https://blog.talosintelligence.com/a-tale-of-two-eras/</link>
+      <pubDate>Thu, 11 Jun 2026 18:00:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
