@@ -4,27 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 15 Jun 2026 17:09:53 +0000</lastBuildDate>
-    <item>
-      <title>LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html</link>
-      <pubDate>Fri, 12 Jun 2026 09:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 80% of Sports Organizations Targeted by Hackers in the Last Year</title>
-      <link>https://www.infosecurity-magazine.com/news/sports-organizations-targeted-by/</link>
-      <pubDate>Fri, 12 Jun 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rethinking MDR as Attackers and Defenders Embrace AI</title>
-      <link>https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html</link>
-      <pubDate>Fri, 12 Jun 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bernie Sanders’ AI Sovereign Wealth Fund Plan</title>
-      <link>https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html</link>
-      <pubDate>Fri, 12 Jun 2026 11:03:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 20:51:19 +0000</lastBuildDate>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog</link>
@@ -61,11 +41,6 @@
       <pubDate>Fri, 12 Jun 2026 14:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>Bankruptcy admin approves settlement fund of $47 million for 23andMe data breach victims</title>
-      <link>https://therecord.media/bankruptcy-admin-approves-settlement-for-23andme-breach-victims</link>
-      <pubDate>Fri, 12 Jun 2026 17:12:00 +0000</pubDate>
-    </item>
-    <item>
       <title>China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade</title>
       <link>https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html</link>
       <pubDate>Fri, 12 Jun 2026 18:17:55 +0000</pubDate>
@@ -94,11 +69,6 @@
       <title>Friday Squid Blogging: Squid-Inspired Fluid Pump</title>
       <link>https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html</link>
       <pubDate>Fri, 12 Jun 2026 21:05:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-Linked Handala Breached a California Water Utility. It Could Have Done Worse, and It Knows That.</title>
-      <link>https://securityaffairs.com/193565/uncategorized/iran-linked-handala-breached-a-california-water-utility-it-could-have-done-worse-and-it-knows-that.html</link>
-      <pubDate>Fri, 12 Jun 2026 21:34:22 +0000</pubDate>
     </item>
     <item>
       <title>Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered</title>
@@ -241,6 +211,11 @@
       <pubDate>Mon, 15 Jun 2026 11:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/06/15/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Anthropic says US government forced it to disable cybersecurity AI models</title>
       <link>https://therecord.media/anthropic-says-gov-forced-it-to-disable-cyber-ai-models</link>
       <pubDate>Mon, 15 Jun 2026 12:31:00 +0000</pubDate>
@@ -301,9 +276,34 @@
       <pubDate>Mon, 15 Jun 2026 16:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers</title>
+      <link>https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html</link>
+      <pubDate>Mon, 15 Jun 2026 16:39:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Attackers Hijack Popular WordPress Plugins to Deploy Backdoors</title>
       <link>https://www.infosecurity-magazine.com/news/wordpress-plugin-supply-chain/</link>
       <pubDate>Mon, 15 Jun 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maine closes data breach portal to the public after fake reports</title>
+      <link>https://therecord.media/maine-turns-off-breach-portal-fake-reports</link>
+      <pubDate>Mon, 15 Jun 2026 18:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian Sugar Producer Mackay Sugar Reports Cyber Incident</title>
+      <link>https://securityaffairs.com/193657/data-breach/australian-sugar-producer-mackay-sugar-reports-cyber-incident.html</link>
+      <pubDate>Mon, 15 Jun 2026 18:51:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels</title>
+      <link>https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html</link>
+      <pubDate>Mon, 15 Jun 2026 19:32:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside a malicious infrastructure delivering EtherRAT, phishing pages, and malicious software</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-a-malicious-infrastructure-delivering-etherrat-phishing-pages-and-malicious-software</link>
+      <pubDate>Mon, 15 Jun 2026 20:17:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
