@@ -4,71 +4,16 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 15 Jun 2026 03:54:50 +0000</lastBuildDate>
-    <item>
-      <title>VRChat says reported data breach never happened</title>
-      <link>https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen</link>
-      <pubDate>Thu, 11 Jun 2026 11:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yarbo Android/iOS Mobile Application and Cloud Infrastructure</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-01</link>
-      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Naxclow IoT Platform</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-02</link>
-      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brickcom Cameras</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-03</link>
-      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most Cybersecurity Teams Struggle to Find Time for Training on New Cyber Threats</title>
-      <link>https://www.infosecurity-magazine.com/news/cybersecurity-training-time/</link>
-      <pubDate>Thu, 11 Jun 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Weaponize AI Hype to Deliver AsyncRAT</title>
-      <link>https://feeds.fortinet.com/~/957950855/0/fortinet/blog/threat-research~Threat-Actors-Weaponize-AI-Hype-to-Deliver-AsyncRAT</link>
-      <pubDate>Thu, 11 Jun 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories</title>
-      <link>https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html</link>
-      <pubDate>Thu, 11 Jun 2026 13:20:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories</title>
-      <link>https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html</link>
-      <pubDate>Thu, 11 Jun 2026 13:26:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Use Fake AI Guides and Dev Tools to Spread AsyncRAT Malware</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-ai-guides-dev-tools-spread/</link>
-      <pubDate>Thu, 11 Jun 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France’s Tchap Breach: 650,000 Messages, 73,000 Accounts Exposed</title>
-      <link>https://www.techrepublic.com/article/news-tchap-breach-emea-france/</link>
-      <pubDate>Thu, 11 Jun 2026 14:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Orders Agencies to Patch by Risk, Not Severity</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-orders-agencies-to-patch-by/</link>
-      <pubDate>Thu, 11 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 10:21:09 +0000</lastBuildDate>
     <item>
       <title>CISA Warning: LiteLLM Flaw Could Expose Enterprise AI Gateways</title>
       <link>https://www.techrepublic.com/article/news-litellm-cisa-ai-gateway-service-account-governance/</link>
       <pubDate>Thu, 11 Jun 2026 15:24:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>British high school sends students home following cyberattack</title>
+      <link>https://therecord.media/british-school-sends-students-home-cyberattack</link>
+      <pubDate>Thu, 11 Jun 2026 15:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Restricts Claude Fable 5 Access Amid AI Safety Review</title>
@@ -91,6 +36,11 @@
       <pubDate>Thu, 11 Jun 2026 16:09:13 +0000</pubDate>
     </item>
     <item>
+      <title>Cyber Force not included in Senate defense policy roadmap</title>
+      <link>https://therecord.media/cyber-force-not-included-senate-defense-roadmap</link>
+      <pubDate>Thu, 11 Jun 2026 16:47:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm</title>
       <link>https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html</link>
       <pubDate>Thu, 11 Jun 2026 16:50:47 +0000</pubDate>
@@ -106,11 +56,6 @@
       <pubDate>Thu, 11 Jun 2026 17:46:32 +0000</pubDate>
     </item>
     <item>
-      <title>CVE-2026-10520 Exploited: Ivanti Sentry Gateways Compromised Shortly After Patch Release</title>
-      <link>https://securityaffairs.com/193530/hacking/cve-2026-10520-exploited-ivanti-sentry-gateways-compromised-shortly-after-patch-release.html</link>
-      <pubDate>Thu, 11 Jun 2026 17:57:40 +0000</pubDate>
-    </item>
-    <item>
       <title>A tale of two eras</title>
       <link>https://blog.talosintelligence.com/a-tale-of-two-eras/</link>
       <pubDate>Thu, 11 Jun 2026 18:00:49 +0000</pubDate>
@@ -124,11 +69,6 @@
       <title>Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs</title>
       <link>https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html</link>
       <pubDate>Fri, 12 Jun 2026 06:38:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>21,786 Home Cameras, No Password, No Warning</title>
-      <link>https://securityaffairs.com/193536/hacking/21786-home-cameras-no-password-no-warning.html</link>
-      <pubDate>Fri, 12 Jun 2026 08:34:10 +0000</pubDate>
     </item>
     <item>
       <title>INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator</title>
@@ -204,6 +144,21 @@
       <title>Stolen iPhones could soon be worth a lot less to thieves</title>
       <link>https://www.malwarebytes.com/blog/mobile/2026/06/stolen-iphones-could-soon-be-worth-a-lot-less-to-thieves</link>
       <pubDate>Fri, 12 Jun 2026 14:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Korea hits Coupang with record $409 million fine over data breach</title>
+      <link>https://therecord.media/south-korea-data-breach-record-fine-coupang</link>
+      <pubDate>Fri, 12 Jun 2026 15:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major US surveillance program poised to lapse after legislative deadlock</title>
+      <link>https://therecord.media/major-us-surveillance-program-set-to-lapse-702-fisa</link>
+      <pubDate>Fri, 12 Jun 2026 17:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bankruptcy admin approves settlement fund of $47 million for 23andMe data breach victims</title>
+      <link>https://therecord.media/bankruptcy-admin-approves-settlement-for-23andme-breach-victims</link>
+      <pubDate>Fri, 12 Jun 2026 17:12:00 +0000</pubDate>
     </item>
     <item>
       <title>China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade</title>
@@ -304,6 +259,51 @@
       <title>ISC Stormcast For Monday, June 15th, 2026 https://isc.sans.edu/podcastdetail/9972, (Mon, Jun 15th)</title>
       <link>https://isc.sans.edu/diary/rss/33076</link>
       <pubDate>Mon, 15 Jun 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Update 508</title>
+      <link>https://www.troyhunt.com/weekly-update-508/</link>
+      <pubDate>Mon, 15 Jun 2026 04:55:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw</title>
+      <link>https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html</link>
+      <pubDate>Mon, 15 Jun 2026 06:17:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts</title>
+      <link>https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html</link>
+      <pubDate>Mon, 15 Jun 2026 06:30:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infostealers, AI, and a 90% Affiliate Cut Fuel The Gentlemen group’s Rise</title>
+      <link>https://securityaffairs.com/193622/uncategorized/infostealers-ai-and-a-90-affiliate-cut-fuel-the-gentlemen-groups-rise.html</link>
+      <pubDate>Mon, 15 Jun 2026 06:58:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (June 8 – June 14)</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-8-june-14</link>
+      <pubDate>Mon, 15 Jun 2026 07:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evil MSI Background: BASE64 Statistical Analysis, (Mon, Jun 15th)</title>
+      <link>https://isc.sans.edu/diary/rss/33072</link>
+      <pubDate>Mon, 15 Jun 2026 07:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supply Chain Attack Hits Popular WordPress Plugins Through Awesome Motive CDN</title>
+      <link>https://securityaffairs.com/193616/malware/supply-chain-attack-hits-popular-wordpress-plugins-through-awesome-motive-cdn.html</link>
+      <pubDate>Mon, 15 Jun 2026 08:34:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maine Takes Breach Reporting Portal Offline After Fake Entries</title>
+      <link>https://www.infosecurity-magazine.com/news/maine-breach-reporting-portal/</link>
+      <pubDate>Mon, 15 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Government Finds 400+ Vulnerabilities in AI Hackathons</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-government-400-vulnerabilities/</link>
+      <pubDate>Mon, 15 Jun 2026 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
