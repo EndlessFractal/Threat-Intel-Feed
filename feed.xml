@@ -4,17 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 22 Jun 2026 19:22:28 +0000</lastBuildDate>
-    <item>
-      <title>Android 17 Is Live on Pixel, but Samsung and Other Android Users Still Have to Wait</title>
-      <link>https://www.techrepublic.com/article/news-android-17-pixel-rollout/</link>
-      <pubDate>Fri, 19 Jun 2026 12:09:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-42530: Critical NGINX HTTP/3 Flaw Can Trigger DoS and Possible RCE</title>
-      <link>https://socprime.com/blog/cve-2026-42530-critical-nginx-http-3-flaw-can-trigger-dos-and-possible-rce/</link>
-      <pubDate>Fri, 19 Jun 2026 12:15:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 21:59:55 +0000</lastBuildDate>
     <item>
       <title>Police raid malware network tied to Russia's Evil Corp hacker group</title>
       <link>https://therecord.media/socgholish-botnet-disrupted</link>
@@ -79,11 +69,6 @@
       <title>Threat Brief: Mitigating Large-Scale Credential Attacks</title>
       <link>https://unit42.paloaltonetworks.com/large-scale-credential-attacks/</link>
       <pubDate>Sat, 20 Jun 2026 02:05:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Active Exploitation Following FortiBleed Leak</title>
-      <link>https://securityaffairs.com/193902/hacking/cisa-warns-of-active-exploitation-following-fortibleed-leak.html</link>
-      <pubDate>Sat, 20 Jun 2026 08:10:50 +0000</pubDate>
     </item>
     <item>
       <title>FortiBleed Exposes Global Credential-Spraying Operation</title>
@@ -304,6 +289,21 @@
       <title>Microsoft Confirms Windows Recycle Bin Bug Affects All Supported Versions</title>
       <link>https://www.techrepublic.com/article/news-windows-june-update-recycle-bin-file-name-bug/</link>
       <pubDate>Mon, 22 Jun 2026 18:32:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guarding AI memory</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/</link>
+      <pubDate>Mon, 22 Jun 2026 19:07:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Apple Exploit Exposes Millions of iPhones Worldwide, No Software Fix Available</title>
+      <link>https://www.techrepublic.com/article/news-apple-usbliter8-securerom-exploit-june-2026/</link>
+      <pubDate>Mon, 22 Jun 2026 19:48:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp Malware Campaign Hijacks Trust, Installs Legitimate Admin Tools</title>
+      <link>https://securityaffairs.com/194031/malware/whatsapp-malware-campaign-hijacks-trust-installs-legitimate-admin-tools.html</link>
+      <pubDate>Mon, 22 Jun 2026 20:25:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
