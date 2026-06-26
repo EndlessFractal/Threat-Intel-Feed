@@ -4,32 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 26 Jun 2026 14:16:25 +0000</lastBuildDate>
-    <item>
-      <title>Introduction to COM usage by Windows threats</title>
-      <link>https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/</link>
-      <pubDate>Thu, 25 Jun 2026 10:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the 2026 SMB threat landscape: From phishing and scams to fake AI tools</title>
-      <link>https://securelist.com/smb-threat-report-2026/120357/</link>
-      <pubDate>Thu, 25 Jun 2026 10:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>What do Ports Hear When Nobody's Listening? An Assessment of Automated Cybercrime [Guest Diary], (Wed, Jun 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/33104</link>
-      <pubDate>Thu, 25 Jun 2026 10:01:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake domain renewal emails trick website owners into paying scammers</title>
-      <link>https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-domain-renewal-emails-trick-website-owners-into-paying-scammers</link>
-      <pubDate>Thu, 25 Jun 2026 10:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Increase in Ransomware Attacks Targeting Europe, Warns New Report</title>
-      <link>https://www.infosecurity-magazine.com/news/increase-ransomware-europe/</link>
-      <pubDate>Thu, 25 Jun 2026 10:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 17:43:49 +0000</lastBuildDate>
     <item>
       <title>macOS Flaw Lets Standard Users Disable EDR and MDM</title>
       <link>https://www.infosecurity-magazine.com/news/macos-xpc-flaw-disable-edr-mdm/</link>
@@ -91,11 +66,6 @@
       <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Yokogawa FAST/TOOLS and CI Server</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-176-01</link>
-      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>EVoke Systems Charging Station Management System</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-176-02</link>
       <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
@@ -103,6 +73,11 @@
     <item>
       <title>Horner Automation Cscape</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-176-03</link>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yokogawa FAST/TOOLS and CI Server</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-176-01</link>
       <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -261,6 +236,11 @@
       <pubDate>Fri, 26 Jun 2026 11:51:35 +0000</pubDate>
     </item>
     <item>
+      <title>Russian Intelligence Services Continue to Target Commercial Messaging Applications</title>
+      <link>https://www.cisa.gov/resources-tools/resources/russian-intelligence-services-continue-target-commercial-messaging-applications</link>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FCC votes to toughen rules in bid to better protect undersea cables</title>
       <link>https://therecord.media/fcc-votes-to-toughen-rules-undersea-cables</link>
       <pubDate>Fri, 26 Jun 2026 12:10:00 +0000</pubDate>
@@ -286,11 +266,6 @@
       <pubDate>Fri, 26 Jun 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries</title>
-      <link>https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html</link>
-      <pubDate>Fri, 26 Jun 2026 13:00:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Russia used social engineering to breach prominent messaging accounts, Ukraine says</title>
       <link>https://therecord.media/russia-ukraine-social-engineering-messaging-accounts</link>
       <pubDate>Fri, 26 Jun 2026 13:10:00 +0000</pubDate>
@@ -304,6 +279,31 @@
       <title>Russia accuses Apple of ‘political censorship’ after VK apps removed from App Store</title>
       <link>https://therecord.media/russia-accuses-apple-of-political-censorship-after-vk-removal</link>
       <pubDate>Fri, 26 Jun 2026 13:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs</title>
+      <link>https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html</link>
+      <pubDate>Fri, 26 Jun 2026 13:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries</title>
+      <link>https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html</link>
+      <pubDate>Fri, 26 Jun 2026 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️SECURITY.COM The Podcast: The Parasite in the Machine: Unmasking the Speagle Infostealer</title>
+      <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-speagle</link>
+      <pubDate>Fri, 26 Jun 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign</title>
+      <link>https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html</link>
+      <pubDate>Fri, 26 Jun 2026 16:21:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Is Testing Facial Recognition for Police and Military</title>
+      <link>https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html</link>
+      <pubDate>Fri, 26 Jun 2026 16:40:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
