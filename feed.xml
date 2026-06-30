@@ -4,42 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 30 Jun 2026 10:53:45 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards</title>
-      <link>https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html</link>
-      <pubDate>Sat, 27 Jun 2026 12:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hospitality Sector Hit by Phishing Campaign Using Fake Guest Complaint Emails</title>
-      <link>https://securityaffairs.com/194349/uncategorized/hospitality-sector-hit-by-phishing-campaign-using-fake-guest-complaint-emails.html</link>
-      <pubDate>Sat, 27 Jun 2026 15:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New FBI Alert: Russian Intelligence Uses Signal Recovery Keys to Access Messages</title>
-      <link>https://securityaffairs.com/194360/intelligence/new-fbi-alert-russian-intelligence-uses-signal-recovery-keys-to-access-messages.html</link>
-      <pubDate>Sat, 27 Jun 2026 16:08:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials</title>
-      <link>https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html</link>
-      <pubDate>Sat, 27 Jun 2026 17:27:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>YARA-X 1.18.0 and 1.19.0 Release, (Sun, Jun 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/33106</link>
-      <pubDate>Sun, 28 Jun 2026 07:56:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI at Work: Employees Aren’t Waiting for Permission</title>
-      <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/ai-at-work-employees-arent-waiting-for-permission</link>
-      <pubDate>Sun, 28 Jun 2026 09:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 583 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/194372/security/security-affairs-newsletter-round-583-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 28 Jun 2026 15:29:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 14:11:02 +0000</lastBuildDate>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 103</title>
       <link>https://securityaffairs.com/194383/malware/security-affairs-malware-newsletter-round-103.html</link>
@@ -181,6 +146,16 @@
       <pubDate>Mon, 29 Jun 2026 15:20:00 +0000</pubDate>
     </item>
     <item>
+      <title>Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs</title>
+      <link>https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html</link>
+      <pubDate>Mon, 29 Jun 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input</title>
+      <link>https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html</link>
+      <pubDate>Mon, 29 Jun 2026 15:40:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Factoring RSA Keys with Many Zeros</title>
       <link>https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html</link>
       <pubDate>Mon, 29 Jun 2026 16:05:18 +0000</pubDate>
@@ -211,11 +186,6 @@
       <pubDate>Mon, 29 Jun 2026 17:46:35 +0000</pubDate>
     </item>
     <item>
-      <title>Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input</title>
-      <link>https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html</link>
-      <pubDate>Mon, 29 Jun 2026 18:40:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Justices rule that cellphone location histories are protected by the Fourth Amendment</title>
       <link>https://therecord.media/supreme-court-geofencing-ruling-fourth-amendment</link>
       <pubDate>Mon, 29 Jun 2026 18:50:00 +0000</pubDate>
@@ -244,11 +214,6 @@
       <title>Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild</title>
       <link>https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html</link>
       <pubDate>Tue, 30 Jun 2026 05:04:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs</title>
-      <link>https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html</link>
-      <pubDate>Tue, 30 Jun 2026 07:15:07 +0000</pubDate>
     </item>
     <item>
       <title>Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth</title>
@@ -304,6 +269,41 @@
       <title>Hackers Leverage Blockchain to Hit Japan's Hotels Through Booking.com Phishing</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-blockchain-japan-hotels/</link>
       <pubDate>Tue, 30 Jun 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer</title>
+      <link>https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html</link>
+      <pubDate>Tue, 30 Jun 2026 11:18:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>What the Numbers Say About FIFA 2026 Cyber Risk</title>
+      <link>https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html</link>
+      <pubDate>Tue, 30 Jun 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Fixes WebKit Flaws in iOS and macOS, With Help From AI Tools</title>
+      <link>https://securityaffairs.com/194476/security/apple-fixes-webkit-flaws-in-ios-and-macos-with-help-from-ai-tools.html</link>
+      <pubDate>Tue, 30 Jun 2026 11:32:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickFix Now Cybercriminals' Favorite Malware Delivery Technique</title>
+      <link>https://www.infosecurity-magazine.com/news/clickfix-cybercriminals-favorite/</link>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Verifiable Digital Credential Presentment</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/verifiable-digital-credential-presentment</link>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Realities of AI Video Surveillance</title>
+      <link>https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html</link>
+      <pubDate>Tue, 30 Jun 2026 12:05:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>An intelligence budget 'super user' job is now in the hands of Russ Vought</title>
+      <link>https://therecord.media/intelligence-budget-super-user-job-russ-vought-omb</link>
+      <pubDate>Tue, 30 Jun 2026 13:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
