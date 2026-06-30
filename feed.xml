@@ -4,67 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 30 Jun 2026 07:50:40 +0000</lastBuildDate>
-    <item>
-      <title>Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs</title>
-      <link>https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html</link>
-      <pubDate>Fri, 26 Jun 2026 13:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries</title>
-      <link>https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html</link>
-      <pubDate>Fri, 26 Jun 2026 13:57:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎙️SECURITY.COM The Podcast: The Parasite in the Machine: Unmasking the Speagle Infostealer</title>
-      <link>https://www.security.com/expert-perspectives/security-dot-com-podcast-speagle</link>
-      <pubDate>Fri, 26 Jun 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign</title>
-      <link>https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html</link>
-      <pubDate>Fri, 26 Jun 2026 16:21:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Is Testing Facial Recognition for Police and Military</title>
-      <link>https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html</link>
-      <pubDate>Fri, 26 Jun 2026 16:40:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New License Plate Reader Tech Could Track Phones, AirPods, and Smartwatches</title>
-      <link>https://www.techrepublic.com/article/news-leonardo-signaltrace-alpr-device-tracking/</link>
-      <pubDate>Fri, 26 Jun 2026 17:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Claim French Employment Leak Exposes Over 1M Records, Health Data</title>
-      <link>https://www.techrepublic.com/article/news-akaolife-data-claim-emea-france/</link>
-      <pubDate>Fri, 26 Jun 2026 17:14:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks</title>
-      <link>https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html</link>
-      <pubDate>Fri, 26 Jun 2026 18:17:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Brief: Mitigating Large-Scale Credential Attacks</title>
-      <link>https://unit42.paloaltonetworks.com/large-scale-credential-attacks/</link>
-      <pubDate>Fri, 26 Jun 2026 19:05:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys</title>
-      <link>https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html</link>
-      <pubDate>Fri, 26 Jun 2026 19:38:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Chinese Control the Majority of Argentina’s Squid Fleet</title>
-      <link>https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html</link>
-      <pubDate>Fri, 26 Jun 2026 20:57:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>DirtyClone: Fourth Linux Kernel Flaw in Six Weeks Escalates to Root</title>
-      <link>https://securityaffairs.com/194338/uncategorized/dirtyclone-fourth-linux-kernel-flaw-in-six-weeks-escalates-to-root.html</link>
-      <pubDate>Sat, 27 Jun 2026 09:12:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 10:53:45 +0000</lastBuildDate>
     <item>
       <title>OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards</title>
       <link>https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html</link>
@@ -291,6 +231,11 @@
       <pubDate>Mon, 29 Jun 2026 22:48:31 +0000</pubDate>
     </item>
     <item>
+      <title>A double-edged bleeding edge: Classifying AI threats</title>
+      <link>https://www.sophos.com/en-us/blog/a-double-edged-bleeding-edge-classifying-ai-threats</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Tuesday, June 30th, 2026 https://isc.sans.edu/podcastdetail/9988, (Tue, Jun 30th)</title>
       <link>https://isc.sans.edu/diary/rss/33112</link>
       <pubDate>Tue, 30 Jun 2026 02:25:12 +0000</pubDate>
@@ -304,6 +249,61 @@
       <title>Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs</title>
       <link>https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html</link>
       <pubDate>Tue, 30 Jun 2026 07:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth</title>
+      <link>https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html</link>
+      <pubDate>Tue, 30 Jun 2026 07:38:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 300 UK Firms Hit by Ransomware in a Year</title>
+      <link>https://www.infosecurity-magazine.com/news/over-300-uk-firms-hit-ransomware/</link>
+      <pubDate>Tue, 30 Jun 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials</title>
+      <link>https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html</link>
+      <pubDate>Tue, 30 Jun 2026 08:37:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers actively exploit the Oracle E-Business Suite flaw CVE-2026-46817</title>
+      <link>https://securityaffairs.com/194463/security/attackers-actively-exploit-the-oracle-e-business-suite-flaw-cve-2026-46817.html</link>
+      <pubDate>Tue, 30 Jun 2026 09:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks</title>
+      <link>https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html</link>
+      <pubDate>Tue, 30 Jun 2026 09:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Healthcare Sector Records Tenfold Increase in Cyber-Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-healthcare-tenfold-increase/</link>
+      <pubDate>Tue, 30 Jun 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Apple Updates, (Tue, Jun 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/33114</link>
+      <pubDate>Tue, 30 Jun 2026 09:31:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>The BYOVD Epidemic: How Attackers Are Weaponizing Trusted Windows Drivers to Kill Security</title>
+      <link>https://www.security.com/threat-intelligence/byovd-vulnerable-drivers</link>
+      <pubDate>Tue, 30 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ToddyCat: your hidden email assistant. Part 2</title>
+      <link>https://securelist.com/toddycat-apt-umbrij-tool-and-oauth/120251/</link>
+      <pubDate>Tue, 30 Jun 2026 10:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>USB drives carrying China-linked malware infected Japanese military networks for nearly a year</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/usb-drives-carrying-china-linked-malware-infected-japanese-military-networks-for-nearly-a-year</link>
+      <pubDate>Tue, 30 Jun 2026 10:25:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Leverage Blockchain to Hit Japan's Hotels Through Booking.com Phishing</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-blockchain-japan-hotels/</link>
+      <pubDate>Tue, 30 Jun 2026 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
