@@ -4,12 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 02 Jul 2026 02:54:20 +0000</lastBuildDate>
-    <item>
-      <title>RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS</title>
-      <link>https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html</link>
-      <pubDate>Tue, 30 Jun 2026 17:45:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 07:27:29 +0000</lastBuildDate>
     <item>
       <title>Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data</title>
       <link>https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html</link>
@@ -186,7 +181,7 @@
       <pubDate>Wed, 01 Jul 2026 12:50:59 +0000</pubDate>
     </item>
     <item>
-      <title>AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android</title>
+      <title>AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android</title>
       <link>https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html</link>
       <pubDate>Wed, 01 Jul 2026 12:59:19 +0000</pubDate>
     </item>
@@ -304,6 +299,11 @@
       <title>ISC Stormcast For Thursday, July 2nd, 2026 https://isc.sans.edu/podcastdetail/9992, (Thu, Jul 2nd)</title>
       <link>https://isc.sans.edu/diary/rss/33120</link>
       <pubDate>Thu, 02 Jul 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation</title>
+      <link>https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html</link>
+      <pubDate>Thu, 02 Jul 2026 05:46:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
