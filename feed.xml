@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 02 Jul 2026 21:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 23:01:17 +0000</lastBuildDate>
+    <item>
+      <title>US lifts export controls on Anthropic’s frontier cybersecurity AI models</title>
+      <link>https://therecord.media/us-lifts-export-controls-anthropic-cyber-models</link>
+      <pubDate>Wed, 01 Jul 2026 13:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>Brazilian Banking Trojan Ousaban Targets Spain and Portugal</title>
       <link>https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/</link>
@@ -104,11 +109,6 @@
       <title>New BioShocking Attack Tricks AI Browsers Into Leaking Credentials</title>
       <link>https://www.techrepublic.com/article/news-bioshocking-ai-browsers-leak-credentials/</link>
       <pubDate>Wed, 01 Jul 2026 21:58:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #474: Polymarket can predict the future. So how did it miss this hack?</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-474/</link>
-      <pubDate>Wed, 01 Jul 2026 23:12:11 +0000</pubDate>
     </item>
     <item>
       <title>Vect and TeamPCP partner for ransomware campaigns</title>
@@ -266,11 +266,6 @@
       <pubDate>Thu, 02 Jul 2026 16:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Gentlemen ransomware: what you need to know</title>
-      <link>https://www.fortra.com/blog/gentlemen-ransomware-what-you-need-know</link>
-      <pubDate>Thu, 02 Jul 2026 16:50:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Europe Confirms Record €4.1B Penalty Against Google for Android Practices</title>
       <link>https://securityaffairs.com/194663/security/europe-confirms-record-e4-1b-penalty-against-google-for-android-practices.html</link>
       <pubDate>Thu, 02 Jul 2026 17:29:42 +0000</pubDate>
@@ -304,6 +299,11 @@
       <title>Launch of UK's National Cyber Action Plan delayed amid Labour leadership crisis</title>
       <link>https://therecord.media/launch-of-uk-national-cyber-action-plan-delayed</link>
       <pubDate>Thu, 02 Jul 2026 20:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How We Added WebAuthn to a Browser-Based RDP Client</title>
+      <link>https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/</link>
+      <pubDate>Thu, 02 Jul 2026 22:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
