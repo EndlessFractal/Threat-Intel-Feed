@@ -100,8 +100,8 @@ def create_rss_feed(entries):
     build_date = format_datetime(datetime.now(timezone.utc))
     ET.SubElement(channel, 'lastBuildDate').text = build_date
 
-    # Keep only the 60 most recent entries
-    recent_entries = entries[-MAX_ENTRIES:]
+    # Keep only the 60 most recent entries, newest first
+    recent_entries = list(reversed(entries[-MAX_ENTRIES:]))
 
     for entry in recent_entries:
         item = ET.SubElement(channel, 'item')
