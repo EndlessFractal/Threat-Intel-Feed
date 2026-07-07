@@ -4,7 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 07 Jul 2026 19:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:20:35 +0000</lastBuildDate>
     <item>
       <title>Tips to Harden Your Air Gapped Environments</title>
       <link>https://www.security.com/product-insights/tips-harden-your-air-gapped-environments</link>
@@ -108,6 +108,11 @@
     <item>
       <title>Hydro-Québec Le Circuit Electrique charging station backend</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-188-01</link>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,24 +291,19 @@
       <pubDate>Mon, 06 Jul 2026 15:11:53 +0000</pubDate>
     </item>
     <item>
-      <title>Q2 2026 Vulnerability Trends Report</title>
-      <link>https://asec.ahnlab.com/en/94360/</link>
+      <title>Indirect Prompt Injection in Web Content Targets AI Agents</title>
+      <link>https://www.infosecurity-magazine.com/news/indirect-prompt-injection-web/</link>
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Indirect Prompt Injection in Web Content Targets AI Agents</title>
-      <link>https://www.infosecurity-magazine.com/news/indirect-prompt-injection-web/</link>
+      <title>Q2 2026 Vulnerability Trends Report</title>
+      <link>https://asec.ahnlab.com/en/94360/</link>
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Opera GX Flaw Let Sites Auto-Install Mods to Steal Data</title>
       <link>https://www.infosecurity-magazine.com/news/opera-gx-flaw-gx-mods-css/</link>
       <pubDate>Mon, 06 Jul 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RCS and DNS: The NAPTR Record, (Mon, Jul 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/33124</link>
-      <pubDate>Mon, 06 Jul 2026 13:35:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
