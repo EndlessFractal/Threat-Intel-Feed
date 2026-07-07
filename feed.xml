@@ -4,11 +4,31 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 07 Jul 2026 02:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 07:34:12 +0000</lastBuildDate>
+    <item>
+      <title>Januscape: 16-Year-Old Linux KVM Bug Enables Cloud VM Escape Attacks</title>
+      <link>https://securityaffairs.com/194868/security/januscape-16-year-old-linux-kvm-bug-enables-cloud-vm-escape-attacks.html</link>
+      <pubDate>Tue, 07 Jul 2026 07:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA</title>
+      <link>https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html</link>
+      <pubDate>Tue, 07 Jul 2026 05:16:51 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, July 7th, 2026 https://isc.sans.edu/podcastdetail/9996, (Tue, Jul 7th)</title>
       <link>https://isc.sans.edu/diary/rss/33126</link>
       <pubDate>Tue, 07 Jul 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian spy agency reports hacking three criminal groups in 2025</title>
+      <link>https://therecord.media/canada-cse-2025-cyber-operations-ransomware-drugs-extremism</link>
+      <pubDate>Mon, 06 Jul 2026 20:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers vote themselves $20 million in BONK cryptocurrency</title>
+      <link>https://therecord.media/attackers-vote-themselves-20-million-bonk-crypto</link>
+      <pubDate>Mon, 06 Jul 2026 20:35:00 +0000</pubDate>
     </item>
     <item>
       <title>Adobe ColdFusion flaw CVE-2026-48282 now exploited in the wild</title>
@@ -26,6 +46,11 @@
       <pubDate>Mon, 06 Jul 2026 18:34:26 +0000</pubDate>
     </item>
     <item>
+      <title>Major medical device manufacturer notifies nearly 4 million of breach</title>
+      <link>https://therecord.media/medical-device-maker-notifies-nearly-4-million-of-breach</link>
+      <pubDate>Mon, 06 Jul 2026 18:03:00 +0000</pubDate>
+    </item>
+    <item>
       <title>16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems</title>
       <link>https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html</link>
       <pubDate>Mon, 06 Jul 2026 17:37:01 +0000</pubDate>
@@ -34,6 +59,11 @@
       <title>Azure CLI Password Spray Attack Exposes Microsoft 365 MFA Gap</title>
       <link>https://www.techrepublic.com/article/news-azure-cli-mfa-gap/</link>
       <pubDate>Mon, 06 Jul 2026 16:48:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japanese teen arrested over cyberattack that disrupted anime streaming service</title>
+      <link>https://therecord.media/japanese-teen-arrested-over-attack-disrupted-streaming-service</link>
+      <pubDate>Mon, 06 Jul 2026 16:40:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure</title>
@@ -61,6 +91,11 @@
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Q2 2026 Vulnerability Trends Report</title>
+      <link>https://asec.ahnlab.com/en/94360/</link>
+      <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Opera GX Flaw Let Sites Auto-Install Mods to Steal Data</title>
       <link>https://www.infosecurity-magazine.com/news/opera-gx-flaw-gx-mods-css/</link>
       <pubDate>Mon, 06 Jul 2026 14:15:00 +0000</pubDate>
@@ -69,6 +104,11 @@
       <title>RCS and DNS: The NAPTR Record, (Mon, Jul 6th)</title>
       <link>https://isc.sans.edu/diary/rss/33124</link>
       <pubDate>Mon, 06 Jul 2026 13:35:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian media outlets now among 'priority targets' for Russian hackers</title>
+      <link>https://therecord.media/ukraine-media-organizations-priority-hacking-targets-russia</link>
+      <pubDate>Mon, 06 Jul 2026 13:20:00 +0000</pubDate>
     </item>
     <item>
       <title>Hidden Web Prompts Trick AI Agents Into Sending Money</title>
@@ -181,6 +221,11 @@
       <pubDate>Sun, 05 Jul 2026 17:37:07 +0000</pubDate>
     </item>
     <item>
+      <title>Vidar Infostealer Being Spread through Phishing Emails</title>
+      <link>https://asec.ahnlab.com/en/94363/</link>
+      <pubDate>Sun, 05 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Navigating NIST’s New Cybersecurity AI Frontier</title>
       <link>https://www.govtech.com/blogs/lohrmann-on-cybersecurity/navigating-nists-new-cybersecurity-ai-frontier</link>
       <pubDate>Sun, 05 Jul 2026 09:13:00 +0000</pubDate>
@@ -214,11 +259,6 @@
       <title>Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices</title>
       <link>https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html</link>
       <pubDate>Fri, 03 Jul 2026 20:19:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pegasus Used Against MEP Investigating Pegasus, Citizen Lab Finds</title>
-      <link>https://securityaffairs.com/194728/malware/pegasus-used-against-mep-investigating-pegasus-citizen-lab-finds.html</link>
-      <pubDate>Fri, 03 Jul 2026 20:18:32 +0000</pubDate>
     </item>
     <item>
       <title>New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android</title>
@@ -264,46 +304,6 @@
       <title>Warning Over “Industrialized” Cyber-Attacks After Ransomware Gang Partners With TeamPCP</title>
       <link>https://www.infosecurity-magazine.com/news/industrialized-cyberattacks/</link>
       <pubDate>Fri, 03 Jul 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flock Cameras Can Surveil Cars Without License Plates</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html</link>
-      <pubDate>Fri, 03 Jul 2026 11:15:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>European Parliament Member Investigating Spyware Was Hacked With Pegasus</title>
-      <link>https://thehackernews.com/2026/07/european-parliament-member.html</link>
-      <pubDate>Fri, 03 Jul 2026 11:05:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Armored Likho digging a snake pit: inside the covert BusySnake Stealer campaign</title>
-      <link>https://securelist.com/tr/armored-likho-apt-with-busysnake-stealer/120292/</link>
-      <pubDate>Fri, 03 Jul 2026 10:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI, Google Take Down NetNut Proxy Network Used by Cyber Threat Actors</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/</link>
-      <pubDate>Fri, 03 Jul 2026 09:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords</title>
-      <link>https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html</link>
-      <pubDate>Fri, 03 Jul 2026 08:03:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swimming Pools, Pee, and Trying to Delete Your Data From the Internet</title>
-      <link>https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/</link>
-      <pubDate>Fri, 03 Jul 2026 06:52:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>How We Added WebAuthn to a Browser-Based RDP Client</title>
-      <link>https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/</link>
-      <pubDate>Thu, 02 Jul 2026 22:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Seizes NetNut Proxy Platform, Popa Botnet</title>
-      <link>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</link>
-      <pubDate>Thu, 02 Jul 2026 19:27:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
