@@ -4,11 +4,61 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 07 Jul 2026 07:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:51:53 +0000</lastBuildDate>
+    <item>
+      <title>Google Is Suing Chinese Scammers Who Are Using Gemini</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html</link>
+      <pubDate>Tue, 07 Jul 2026 10:43:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat landscape for industrial automation systems. Q1 2026</title>
+      <link>https://securelist.com/industrial-threat-report-q1-2026/120643/</link>
+      <pubDate>Tue, 07 Jul 2026 10:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAT-7810 continues building ORB networks using new malware</title>
+      <link>https://blog.talosintelligence.com/uat-7810/</link>
+      <pubDate>Tue, 07 Jul 2026 10:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Government Launches Cyber Resilience Pledge, Claiming 60+ Signatories</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-gov-launches-cyber-resilience/</link>
+      <pubDate>Tue, 07 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hidden Tenda Router Backdoor Grants Admin Access, No Patch Available</title>
+      <link>https://securityaffairs.com/194878/security/hidden-tenda-router-backdoor-grants-admin-access-no-patch-available.html</link>
+      <pubDate>Tue, 07 Jul 2026 09:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scammers are using AI to sell impossible flowers</title>
+      <link>https://www.malwarebytes.com/blog/scams/2026/07/scammers-are-using-ai-to-sell-impossible-flowers</link>
+      <pubDate>Tue, 07 Jul 2026 09:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities</title>
+      <link>https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html</link>
+      <pubDate>Tue, 07 Jul 2026 09:10:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Generated Malware Powers New Armored Likho APT Campaign</title>
+      <link>https://securityaffairs.com/194854/apt/ai-generated-malware-powers-new-armored-likho-apt-campaign.html</link>
+      <pubDate>Tue, 07 Jul 2026 08:28:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Maximum Severity Adobe ColdFusion Flaw</title>
+      <link>https://www.infosecurity-magazine.com/news/exploit-maximum-severity-adobe/</link>
+      <pubDate>Tue, 07 Jul 2026 08:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>Januscape: 16-Year-Old Linux KVM Bug Enables Cloud VM Escape Attacks</title>
       <link>https://securityaffairs.com/194868/security/januscape-16-year-old-linux-kvm-bug-enables-cloud-vm-escape-attacks.html</link>
       <pubDate>Tue, 07 Jul 2026 07:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware</title>
+      <link>https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html</link>
+      <pubDate>Tue, 07 Jul 2026 06:40:47 +0000</pubDate>
     </item>
     <item>
       <title>BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA</title>
@@ -236,11 +286,6 @@
       <pubDate>Sun, 05 Jul 2026 05:07:31 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. Government Agency Paid $1M to Data Extortion Group Kairos</title>
-      <link>https://securityaffairs.com/194750/security/u-s-government-agency-paid-1m-to-data-extortion-group-kairos.html</link>
-      <pubDate>Sat, 04 Jul 2026 16:53:35 +0000</pubDate>
-    </item>
-    <item>
       <title>U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case</title>
       <link>https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html</link>
       <pubDate>Sat, 04 Jul 2026 12:47:53 +0000</pubDate>
@@ -251,11 +296,6 @@
       <pubDate>Sat, 04 Jul 2026 11:17:24 +0000</pubDate>
     </item>
     <item>
-      <title>FBI: TeamPCP Compromised Dev Tools to Steal Cloud Credentials</title>
-      <link>https://securityaffairs.com/194741/cyber-crime/fbi-teampcp-compromised-dev-tools-to-steal-cloud-credentials.html</link>
-      <pubDate>Sat, 04 Jul 2026 07:55:14 +0000</pubDate>
-    </item>
-    <item>
       <title>Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices</title>
       <link>https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html</link>
       <pubDate>Fri, 03 Jul 2026 20:19:31 +0000</pubDate>
@@ -264,46 +304,6 @@
       <title>New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android</title>
       <link>https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html</link>
       <pubDate>Fri, 03 Jul 2026 19:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Avalon Malware Framework Packs CrownX Ransomware Capabilities</title>
-      <link>https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html</link>
-      <pubDate>Fri, 03 Jul 2026 18:55:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets</title>
-      <link>https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html</link>
-      <pubDate>Fri, 03 Jul 2026 16:07:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer</title>
-      <link>https://thehackernews.com/2026/07/armored-likho-targets-government.html</link>
-      <pubDate>Fri, 03 Jul 2026 13:36:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/07/verified-x-ad-spreads-mac-malware-while-consentfix-steals-microsoft-accounts</link>
-      <pubDate>Fri, 03 Jul 2026 13:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 27</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-27-7/</link>
-      <pubDate>Fri, 03 Jul 2026 13:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation</title>
-      <link>https://www.infosecurity-magazine.com/news/qilin-dominates-ransomware-market/</link>
-      <pubDate>Fri, 03 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Agents Are Creating a New Enterprise Security Gap</title>
-      <link>https://www.techrepublic.com/article/news-ai-agents-enterprise-security-gap/</link>
-      <pubDate>Fri, 03 Jul 2026 11:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warning Over “Industrialized” Cyber-Attacks After Ransomware Gang Partners With TeamPCP</title>
-      <link>https://www.infosecurity-magazine.com/news/industrialized-cyberattacks/</link>
-      <pubDate>Fri, 03 Jul 2026 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
