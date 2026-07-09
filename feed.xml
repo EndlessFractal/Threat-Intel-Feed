@@ -4,7 +4,37 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 09 Jul 2026 07:43:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:50:53 +0000</lastBuildDate>
+    <item>
+      <title>GodDamn Ransomware: Latest Beast Rebrand Uses Malicious Driver to Disable Defenses</title>
+      <link>https://www.security.com/threat-intelligence/goddamn-ransomware-beast-rebrand</link>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turn off this Meta setting before someone generates AI images of you</title>
+      <link>https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you</link>
+      <pubDate>Thu, 09 Jul 2026 09:30:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>New AI Security Charter Backed by Over 70 Cyber Firms</title>
+      <link>https://www.infosecurity-magazine.com/news/crest-ai-security-charter-cyber/</link>
+      <pubDate>Thu, 09 Jul 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges</title>
+      <link>https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html</link>
+      <pubDate>Thu, 09 Jul 2026 08:48:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake VPN and 7-Zip Apps Turn Victims Into Residential Proxy Nodes</title>
+      <link>https://securityaffairs.com/194990/malware/fake-vpn-and-7-zip-apps-turn-victims-into-residential-proxy-nodes.html</link>
+      <pubDate>Thu, 09 Jul 2026 08:29:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Plant Malicious AI Agents in Open Source Tool Repositories</title>
+      <link>https://www.infosecurity-magazine.com/news/cybercriminals-plant-ai-agents/</link>
+      <pubDate>Thu, 09 Jul 2026 07:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images</title>
       <link>https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html</link>
@@ -34,11 +64,6 @@
       <title>_HELP_ME_ESCAPE_FROM_BELARUS_PLEASE_ [Guest Diary], (Tue, Jul 7th)</title>
       <link>https://isc.sans.edu/diary/rss/33130</link>
       <pubDate>Thu, 09 Jul 2026 01:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #475: JadePuffer – the AI that ran a ransomware attack all by itself</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-475/</link>
-      <pubDate>Wed, 08 Jul 2026 23:19:18 +0000</pubDate>
     </item>
     <item>
       <title>Ubiquiti Patches Critical UniFi OS Flaws Allowing Command Injection and Privilege Escalation</title>
@@ -114,6 +139,11 @@
       <title>New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware</title>
       <link>https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html</link>
       <pubDate>Wed, 08 Jul 2026 15:07:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web  Issues Week 2, July 2026</title>
+      <link>https://asec.ahnlab.com/en/94406/</link>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS</title>
@@ -274,36 +304,6 @@
       <title>Tips to Harden Your Air Gapped Environments</title>
       <link>https://www.security.com/product-insights/tips-harden-your-air-gapped-environments</link>
       <pubDate>Tue, 07 Jul 2026 18:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spanish Police Arrest Man Linked to CARR, Z-Pentest, and NoName057(16)</title>
-      <link>https://securityaffairs.com/194894/hacktivism/spanish-police-arrest-man-linked-to-carr-z-pentest-and-noname05716.html</link>
-      <pubDate>Tue, 07 Jul 2026 18:36:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>More Odd DNS Records: NIMLOC, (Tue, Jul 7th)</title>
-      <link>https://isc.sans.edu/diary/rss/33128</link>
-      <pubDate>Tue, 07 Jul 2026 18:09:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the Reddit and Discord false report scam steals accounts</title>
-      <link>https://www.malwarebytes.com/blog/threat-intel/2026/07/how-the-reddit-and-discord-false-report-scam-steals-accounts</link>
-      <pubDate>Tue, 07 Jul 2026 17:45:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service</title>
-      <link>https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html</link>
-      <pubDate>Tue, 07 Jul 2026 17:10:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots</title>
-      <link>https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html</link>
-      <pubDate>Tue, 07 Jul 2026 16:37:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspected Chinese Threat Group Targets Universities via Vulnerable Roundcube Servers</title>
-      <link>https://www.infosecurity-magazine.com/news/china-aligned-cluster-roundcube/</link>
-      <pubDate>Tue, 07 Jul 2026 15:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
