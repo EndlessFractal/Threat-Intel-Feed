@@ -45,8 +45,10 @@ def parse_and_format_rss(url, max_char, posted):
     used_urls = set()
     feed = feedparser.parse(url)
     for entry in feed.entries:
-        title = entry.title
-        link = entry.link
+        title = getattr(entry, "title", None)
+        link = getattr(entry, "link", None)
+        if not title or not link:
+            continue
         if link in posted or link in used_urls:
             continue
         text = f"{title}\n{link}\n\n"
@@ -56,7 +58,8 @@ def parse_and_format_rss(url, max_char, posted):
             curr_len += text_len
             used_urls.add(link)
         else:
-            payloads.append({"content": content})
+            if content:
+                payloads.append({"content": content})
             content = text
             curr_len = text_len
             used_urls.add(link)
@@ -64,11 +67,9 @@ def parse_and_format_rss(url, max_char, posted):
         payloads.append({"content": content})
     return payloads
 
-# Send payloads to each webhook URL with delay
-def send_payload(webhook_urls, payload, delay):
-    time.sleep(delay)
+# Send payload to each webhook URL
+def send_payload(webhook_urls, payload):
     data = json.dumps(payload)
-
     headers = {"Content-Type": "application/json"}
 
     for url in webhook_urls:
@@ -102,8 +103,10 @@ def main():
         print("No new payloads.")
         return
 
-    for payload in payloads:
-        if send_payload(args.webhook_urls, payload, DELAY_BETWEEN_PAYLOADS):
+    for i, payload in enumerate(payloads):
+        if i > 0:
+            time.sleep(DELAY_BETWEEN_PAYLOADS)
+        if send_payload(args.webhook_urls, payload):
             # Record every link found in the payload content
             for line in payload["content"].splitlines():
                 if line.startswith("http"):
