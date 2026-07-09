@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 09 Jul 2026 17:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 19:39:07 +0000</lastBuildDate>
+    <item>
+      <title>WolfSSL, GeoVision, VTK vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/wolfssl-vulnerabilities/</link>
+      <pubDate>Thu, 09 Jul 2026 18:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs</title>
+      <link>https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html</link>
+      <pubDate>Thu, 09 Jul 2026 18:38:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>GodDamn Ransomware Uses PoisonX to Blind Security Software</title>
+      <link>https://securityaffairs.com/195042/malware/goddamn-ransomware-uses-poisonx-to-blind-security-software.html</link>
+      <pubDate>Thu, 09 Jul 2026 18:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware</title>
+      <link>https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html</link>
+      <pubDate>Thu, 09 Jul 2026 18:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Winning 54% of the time</title>
+      <link>https://blog.talosintelligence.com/winning-54-of-the-time/</link>
+      <pubDate>Thu, 09 Jul 2026 18:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk</title>
       <link>https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</link>
@@ -96,11 +121,6 @@
       <pubDate>Thu, 09 Jul 2026 12:26:58 +0000</pubDate>
     </item>
     <item>
-      <title>75% CISOs Fear Executives Don’t Understand Cybersecurity Risks Employees Face</title>
-      <link>https://www.infosecurity-magazine.com/news/cisos-fear-execs-dont-understand/</link>
-      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Schneider Electric Easergy MiCOM Px40 Series</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-190-03</link>
       <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
@@ -113,6 +133,11 @@
     <item>
       <title>Schneider Electric PowerChute Serial Shutdown</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-190-02</link>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>75% CISOs Fear Executives Don’t Understand Cybersecurity Risks Employees Face</title>
+      <link>https://www.infosecurity-magazine.com/news/cisos-fear-execs-dont-understand/</link>
       <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -211,6 +236,11 @@
       <pubDate>Thu, 09 Jul 2026 01:20:02 +0000</pubDate>
     </item>
     <item>
+      <title>RiskX interview video featuring Colin Mahony and Mastercard's Aditi Sawhney</title>
+      <link>https://www.recordedfuture.com/blog/riskx-interview-payment-fraud</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Smashing Security podcast #475: JadePuffer – the AI that ran a ransomware attack all by itself</title>
       <link>https://grahamcluley.com/smashing-security-podcast-475/</link>
       <pubDate>Wed, 08 Jul 2026 23:19:18 +0000</pubDate>
@@ -274,36 +304,6 @@
       <title>Hacker Claims Accenture Breach Exposed Source Code, SSH Keys, and Azure Tokens</title>
       <link>https://www.techrepublic.com/article/news-accenture-breach-cloud-keys/</link>
       <pubDate>Wed, 08 Jul 2026 15:52:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>RedWing Android Spyware Sold as a Service on Telegram</title>
-      <link>https://www.infosecurity-magazine.com/news/redwing-android-spyware-maas/</link>
-      <pubDate>Wed, 08 Jul 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware</title>
-      <link>https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html</link>
-      <pubDate>Wed, 08 Jul 2026 15:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web  Issues Week 2, July 2026</title>
-      <link>https://asec.ahnlab.com/en/94406/</link>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS</title>
-      <link>https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html</link>
-      <pubDate>Wed, 08 Jul 2026 14:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked APT Expands Proxy Network With New Malware</title>
-      <link>https://www.infosecurity-magazine.com/news/uat-7810-china-apt-orb-proxy/</link>
-      <pubDate>Wed, 08 Jul 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 511: Live from my Riad in Marrakech</title>
-      <link>https://www.troyhunt.com/weekly-update-511/</link>
-      <pubDate>Wed, 08 Jul 2026 13:54:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
