@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 14 Jul 2026 20:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 22:54:40 +0000</lastBuildDate>
+    <item>
+      <title>Patch Tuesday security updates for July 2026, the largest update ever. 621 CVEs in one month</title>
+      <link>https://securityaffairs.com/195347/security/patch-tuesday-security-updates-for-july-2026-the-largest-update-ever-621-cves-in-one-month.html</link>
+      <pubDate>Tue, 14 Jul 2026 21:33:05 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities</title>
       <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/</link>
@@ -21,11 +26,6 @@
       <pubDate>Tue, 14 Jul 2026 19:47:53 +0000</pubDate>
     </item>
     <item>
-      <title>US unseals indictment against alleged operators of Russian bulletproof hosting service</title>
-      <link>https://therecord.media/us-unseals-indictment-russians-bulletproof-hosting</link>
-      <pubDate>Tue, 14 Jul 2026 19:26:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Patches a Record 570 Security Flaws</title>
       <link>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</link>
       <pubDate>Tue, 14 Jul 2026 19:22:42 +0000</pubDate>
@@ -39,11 +39,6 @@
       <title>SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data</title>
       <link>https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html</link>
       <pubDate>Tue, 14 Jul 2026 18:17:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Finland issues wanted notice for hacker behind massive psychotherapy data breach</title>
-      <link>https://therecord.media/finland-issues-wanted-notice-for-hacker-vastaamo-breach</link>
-      <pubDate>Tue, 14 Jul 2026 17:28:00 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads</title>
@@ -64,11 +59,6 @@
       <title>US: Pentagon Suspends CMMC Phase II Requirements for Defense Contractors</title>
       <link>https://www.infosecurity-magazine.com/news/us-pentagon-suspends-cmmc-2/</link>
       <pubDate>Tue, 14 Jul 2026 15:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NATO logistics, Ukrainian troops are top subjects of Russian camera hacks, advisory says</title>
-      <link>https://therecord.media/russian-intelligence-compromising-cameras-nato-ukraine-netherlands</link>
-      <pubDate>Tue, 14 Jul 2026 13:55:00 +0000</pubDate>
     </item>
     <item>
       <title>RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata</title>
@@ -226,19 +216,9 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hackers steal Lidl customer data from external service provider</title>
-      <link>https://therecord.media/hackers-steal-lidl-customer-data</link>
-      <pubDate>Mon, 13 Jul 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Defending SaaS-based applications against ShinyHunters OAuth abuse</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/</link>
       <pubDate>Mon, 13 Jul 2026 22:02:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU leaders eye social media ban for children under age 13</title>
-      <link>https://therecord.media/eu-proposed-social-media-ban-kids-under-13</link>
-      <pubDate>Mon, 13 Jul 2026 20:50:00 +0000</pubDate>
     </item>
     <item>
       <title>Lidl Notified Online Shop Customers in Germany, Belgium, and the Netherlands of a Data Breach</title>
@@ -304,6 +284,26 @@
       <title>Fake Bank Apps Let Scammers Control Android Phones in Southeast Asia</title>
       <link>https://www.techrepublic.com/article/news-android-malware-apac-southeast-asia/</link>
       <pubDate>Mon, 13 Jul 2026 14:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email</title>
+      <link>https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html</link>
+      <pubDate>Mon, 13 Jul 2026 13:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ghostcommit attack hides malicious AI instructions in images</title>
+      <link>https://www.malwarebytes.com/blog/ai/2026/07/ghostcommit-attack-hides-malicious-ai-instructions-in-images</link>
+      <pubDate>Mon, 13 Jul 2026 13:18:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft</title>
+      <link>https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html</link>
+      <pubDate>Mon, 13 Jul 2026 13:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Precursor: detecting agentic behavior with continuous client-side signals</title>
+      <link>https://blog.cloudflare.com/introducing-precursor/</link>
+      <pubDate>Mon, 13 Jul 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
