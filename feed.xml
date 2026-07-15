@@ -4,7 +4,37 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 15 Jul 2026 09:58:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:38:37 +0000</lastBuildDate>
+    <item>
+      <title>A Video Screen That Is Also a Camera</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html</link>
+      <pubDate>Wed, 15 Jul 2026 11:04:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution</title>
+      <link>https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html</link>
+      <pubDate>Wed, 15 Jul 2026 10:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds SonicWall and Microsoft flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/195383/security/u-s-cisa-adds-sonicwall-and-microsoft-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 15 Jul 2026 10:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development</title>
+      <link>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</link>
+      <pubDate>Wed, 15 Jul 2026 10:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>OkoBot: new sophisticated malware framework targets cryptocurrency users</title>
+      <link>https://securelist.com/okobot-framework-targets-cryptocurrency-wallets/120660/</link>
+      <pubDate>Wed, 15 Jul 2026 10:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daxin Returns: Stealthy Malware Resurfaces in Taiwan Alongside a New Backdoor</title>
+      <link>https://www.security.com/threat-intelligence/daxin-returns-stupig</link>
+      <pubDate>Wed, 15 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Patches 570 CVEs in Record Patch Tuesday</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-570-cves-patch-tuesday/</link>
@@ -51,6 +81,11 @@
       <pubDate>Wed, 15 Jul 2026 00:35:38 +0000</pubDate>
     </item>
     <item>
+      <title>The State of Ransomware 2026: Payments are dropping but encryption is climbing</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-state-of-ransomware-2026</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Patch Tuesday security updates for July 2026, the largest update ever. 621 CVEs in one month</title>
       <link>https://securityaffairs.com/195347/security/patch-tuesday-security-updates-for-july-2026-the-largest-update-ever-621-cves-in-one-month.html</link>
       <pubDate>Tue, 14 Jul 2026 21:33:05 +0000</pubDate>
@@ -84,11 +119,6 @@
       <title>Microsoft Patch Tuesday July 2026 - The AI Acopolypse is Here , (Tue, Jul 14th)</title>
       <link>https://isc.sans.edu/diary/rss/33154</link>
       <pubDate>Tue, 14 Jul 2026 19:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian Enterprises At Risk as Anthropic Finds Hackers In Claude Code</title>
-      <link>https://www.techrepublic.com/article/apac/</link>
-      <pubDate>Tue, 14 Jul 2026 18:48:15 +0000</pubDate>
     </item>
     <item>
       <title>SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data</title>
@@ -251,6 +281,11 @@
       <pubDate>Tue, 14 Jul 2026 08:02:33 +0000</pubDate>
     </item>
     <item>
+      <title>The ransomware negotiator who was working for the other side</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-negotiator-working-other-side</link>
+      <pubDate>Tue, 14 Jul 2026 07:54:08 +0000</pubDate>
+    </item>
+    <item>
       <title>CrashStealer: New macOS Infostealer Uses Signed Apps to Evade Gatekeeper</title>
       <link>https://securityaffairs.com/195278/malware/crashstealer-new-macos-infostealer-uses-signed-apps-to-evade-gatekeeper.html</link>
       <pubDate>Tue, 14 Jul 2026 07:42:51 +0000</pubDate>
@@ -269,41 +304,6 @@
       <title>Online Protection Is Simple and Effective with Panda Dome for $29.99</title>
       <link>https://www.techrepublic.com/article/panda-dome-antivirus-security-complete/</link>
       <pubDate>Tue, 14 Jul 2026 05:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, July 14th, 2026 https://isc.sans.edu/podcastdetail/10006, (Tue, Jul 14th)</title>
-      <link>https://isc.sans.edu/diary/rss/33152</link>
-      <pubDate>Tue, 14 Jul 2026 02:15:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The FBI Warned About Fake Permit Fees. The Harder Question Is Where the Money Goes. | Recorded Future</title>
-      <link>https://www.recordedfuture.com/blog/fbi-fake-permit-fees</link>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers steal Lidl customer data from external service provider</title>
-      <link>https://therecord.media/hackers-steal-lidl-customer-data</link>
-      <pubDate>Mon, 13 Jul 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defending SaaS-based applications against ShinyHunters OAuth abuse</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/</link>
-      <pubDate>Mon, 13 Jul 2026 22:02:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU leaders eye social media ban for children under age 13</title>
-      <link>https://therecord.media/eu-proposed-social-media-ban-kids-under-13</link>
-      <pubDate>Mon, 13 Jul 2026 20:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lidl Notified Online Shop Customers in Germany, Belgium, and the Netherlands of a Data Breach</title>
-      <link>https://securityaffairs.com/195270/data-breach/lidl-notified-online-shop-customers-in-germany-belgium-and-the-netherlands-of-a-data-breach.html</link>
-      <pubDate>Mon, 13 Jul 2026 19:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds a Cisco IOS flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/195262/security/u-s-cisa-adds-a-cisco-ios-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Mon, 13 Jul 2026 18:05:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
