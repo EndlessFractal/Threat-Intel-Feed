@@ -4,7 +4,37 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 16 Jul 2026 13:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 15:36:23 +0000</lastBuildDate>
+    <item>
+      <title>Phishing Campaign Hides Lua Loader as TrueType Font File</title>
+      <link>https://www.infosecurity-magazine.com/news/phishing-lua-loader-truetype-font/</link>
+      <pubDate>Thu, 16 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protecting Privacy in an AI Era</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html</link>
+      <pubDate>Thu, 16 Jul 2026 14:34:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-42533: Critical NGINX Map Regex Flaw Can Trigger Heap Buffer Overflow and Possible RCE</title>
+      <link>https://socprime.com/blog/cve-2026-42533-analysis/</link>
+      <pubDate>Thu, 16 Jul 2026 14:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The backlash against Flock cameras is spreading</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/07/the-backlash-against-flock-cameras-is-spreading</link>
+      <pubDate>Thu, 16 Jul 2026 13:56:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sandworm hackers have a CAPTCHA trick for Ukrainians</title>
+      <link>https://therecord.media/ukraine-sandworm-hacks-captcha-powershell</link>
+      <pubDate>Thu, 16 Jul 2026 13:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer</title>
+      <link>https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html</link>
+      <pubDate>Thu, 16 Jul 2026 13:33:25 +0000</pubDate>
+    </item>
     <item>
       <title>Single Prompt Enables ChatGPT to Execute Full Cyber-Attack Chain, Researchers Claim</title>
       <link>https://www.infosecurity-magazine.com/news/chatgpt55-to-execute-full/</link>
@@ -14,6 +44,11 @@
       <title>Modular macOS Stealer Uses Kill Loops to Force Password Entry</title>
       <link>https://www.infosecurity-magazine.com/news/clicklock-macos-stealer-clickfix/</link>
       <pubDate>Thu, 16 Jul 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HelloNet campaign — new malicious modules launched through the ViPNet update system</title>
+      <link>https://securelist.com/tr/hellonet-vipnet/120700/</link>
+      <pubDate>Thu, 16 Jul 2026 13:05:56 +0000</pubDate>
     </item>
     <item>
       <title>The TTF Trap: A Global Campaign of a Low-Detection Lua Loader</title>
@@ -206,11 +241,6 @@
       <pubDate>Wed, 15 Jul 2026 17:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>23andMe reaches $18 million settlement with states for massive breach</title>
-      <link>https://therecord.media/genetic-testing-settlement-data-breach</link>
-      <pubDate>Wed, 15 Jul 2026 17:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Chaotic Eclipse Unveils LegacyHive Exploit Affecting Fully Patched Windows Systems</title>
       <link>https://securityaffairs.com/195418/hacking/chaotic-eclipse-unveils-legacyhive-exploit-affecting-fully-patched-windows-systems.html</link>
       <pubDate>Wed, 15 Jul 2026 16:57:55 +0000</pubDate>
@@ -241,13 +271,13 @@
       <pubDate>Wed, 15 Jul 2026 15:30:30 +0000</pubDate>
     </item>
     <item>
-      <title>Phishing Campaign Abuses eCards to Deploy RMM Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/seasonalinvite-phishing-ecards-rmm/</link>
+      <title>Ransom &amp; Dark Web Issues Week 3, July 2026</title>
+      <link>https://asec.ahnlab.com/en/94494/</link>
       <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, July 2026</title>
-      <link>https://asec.ahnlab.com/en/94494/</link>
+      <title>Phishing Campaign Abuses eCards to Deploy RMM Tools</title>
+      <link>https://www.infosecurity-magazine.com/news/seasonalinvite-phishing-ecards-rmm/</link>
       <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -274,36 +304,6 @@
       <title>Compromised Logins Surge as the Most Common Entry Point for Ransomware Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/compromised-logins-ransomware-entry/</link>
       <pubDate>Wed, 15 Jul 2026 12:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2026 Patch Tuesday fixes 622 Microsoft CVEs, including three zero-days</title>
-      <link>https://www.malwarebytes.com/blog/bugs/2026/07/july-2026-patch-tuesday-fixes-622-microsoft-cves-including-three-zero-days</link>
-      <pubDate>Wed, 15 Jul 2026 12:21:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Tests New iMessage Warning for Malicious Messages</title>
-      <link>https://www.techrepublic.com/article/news-ios-26-6-malicious-imessage-warning/</link>
-      <pubDate>Wed, 15 Jul 2026 12:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Progress Restores ShareFile Storage Zones Access After Security Warning</title>
-      <link>https://www.infosecurity-magazine.com/news/progress-restores-sharefile/</link>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/07/15/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Establishing a Coordinated Vulnerability Disclosure Program to Work With Security Researchers</title>
-      <link>https://www.cisa.gov/resources-tools/resources/establishing-coordinated-vulnerability-disclosure-program-work-security-researchers</link>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AsyncAPI npm Supply Chain Attack: Malware Injected Into Packages With 2 Million Weekly Downloads</title>
-      <link>https://securityaffairs.com/195395/security/asyncapi-npm-supply-chain-attack-malware-injected-into-packages-with-2-million-weekly-downloads.html</link>
-      <pubDate>Wed, 15 Jul 2026 11:55:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
