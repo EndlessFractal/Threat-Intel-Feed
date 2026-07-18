@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sat, 18 Jul 2026 13:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 14:47:59 +0000</lastBuildDate>
+    <item>
+      <title>Daxin: 13-Year-Old China-Linked Malware Found Still Active on Manufacturer’s Network</title>
+      <link>https://securityaffairs.com/195577/malware/daxin-13-year-old-china-linked-malware-found-still-active-on-manufacturers-network.html</link>
+      <pubDate>Sat, 18 Jul 2026 14:01:03 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. CISA adds Fortinet FortiSandbox and Microsoft SharePoint flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/195569/security/u-s-cisa-adds-fortinet-fortisandbox-and-microsoft-sharepoint-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
@@ -299,11 +304,6 @@
       <title>Protecting Privacy in an AI Era</title>
       <link>https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html</link>
       <pubDate>Thu, 16 Jul 2026 14:34:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-42533: Critical NGINX Map Regex Flaw Can Trigger Heap Buffer Overflow and Possible RCE</title>
-      <link>https://socprime.com/blog/cve-2026-42533-analysis/</link>
-      <pubDate>Thu, 16 Jul 2026 14:29:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
