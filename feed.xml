@@ -4,7 +4,42 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 20 Jul 2026 06:41:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 10:47:50 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2026-42533: Critical NGINX Bug Could Turn HTTP Requests Into Server Takeovers</title>
+      <link>https://securityaffairs.com/195674/hacking/cve-2026-42533-critical-nginx-bug-could-turn-http-requests-into-server-takeovers.html</link>
+      <pubDate>Mon, 20 Jul 2026 09:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police Chiefs Cite TfL Hack in Push for Cybercrime Risk Orders</title>
+      <link>https://www.infosecurity-magazine.com/news/police-chiefs-tfl-cybercrime-risk/</link>
+      <pubDate>Mon, 20 Jul 2026 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction</title>
+      <link>https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html</link>
+      <pubDate>Mon, 20 Jul 2026 09:10:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs</title>
+      <link>https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html</link>
+      <pubDate>Mon, 20 Jul 2026 09:07:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Turned Into Attackers: Hugging Face Reveals Autonomous Intrusion Campaign</title>
+      <link>https://securityaffairs.com/195658/ai/ai-agents-turned-into-attackers-hugging-face-reveals-autonomous-intrusion-campaign.html</link>
+      <pubDate>Mon, 20 Jul 2026 08:21:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volexity Uncovers Zero-Day Campaign Targeting SonicWall VPN Appliances</title>
+      <link>https://securityaffairs.com/195626/hacking/volexity-uncovers-zero-day-campaign-targeting-sonicwall-vpn-appliances.html</link>
+      <pubDate>Mon, 20 Jul 2026 07:29:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (July 13 – July 19)</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-13-july-19</link>
+      <pubDate>Mon, 20 Jul 2026 07:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent</title>
       <link>https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html</link>
@@ -76,6 +111,11 @@
       <pubDate>Sat, 18 Jul 2026 11:49:16 +0000</pubDate>
     </item>
     <item>
+      <title>Google’s Gemini lets strangers send messages from your locked Android phone</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/googles-gemini-strangers-messages-locked-android-phone</link>
+      <pubDate>Fri, 17 Jul 2026 22:30:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Ernst &amp; Young (EY) Investigates Data Breach Involving Third-Party Support Tickets</title>
       <link>https://securityaffairs.com/195550/data-breach/ernst-young-ey-investigates-data-breach-involving-third-party-support-tickets.html</link>
       <pubDate>Fri, 17 Jul 2026 21:34:26 +0000</pubDate>
@@ -114,11 +154,6 @@
       <title>Critical Zoom Flaw Could Let Attackers Take Over Windows Accounts</title>
       <link>https://www.techrepublic.com/article/news-zoom-windows-account-takeover-vulnerability/</link>
       <pubDate>Fri, 17 Jul 2026 18:17:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>A cyberattack hit Nichirei, one of Japan’s largest food companies</title>
-      <link>https://securityaffairs.com/195543/security/a-cyberattack-hit-nichirei-one-of-japans-largest-food-companies.html</link>
-      <pubDate>Fri, 17 Jul 2026 17:52:06 +0000</pubDate>
     </item>
     <item>
       <title>New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens</title>
@@ -241,11 +276,6 @@
       <pubDate>Fri, 17 Jul 2026 09:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>New Russian Campaign Uses Fake Webex and Zoom Installers to Deploy Starland RAT</title>
-      <link>https://securityaffairs.com/195532/malware/new-russian-campaign-uses-fake-webex-and-zoom-installers-to-deploy-starland-rat.html</link>
-      <pubDate>Fri, 17 Jul 2026 09:08:54 +0000</pubDate>
-    </item>
-    <item>
       <title>The Gentlemen Overtakes Qilin as Most Prolific Ransomware Threat</title>
       <link>https://www.infosecurity-magazine.com/news/the-gentlemen-most-prolific/</link>
       <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
@@ -261,11 +291,6 @@
       <pubDate>Fri, 17 Jul 2026 08:46:45 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. CISA adds KNX Association KNX Protocol Connection Authorization Option 1 and Oracle flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/195516/security/u-s-cisa-adds-knx-association-knx-protocol-connection-authorization-option-1-and-oracle-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Fri, 17 Jul 2026 08:13:15 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV</title>
       <link>https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html</link>
       <pubDate>Fri, 17 Jul 2026 06:42:23 +0000</pubDate>
@@ -279,31 +304,6 @@
       <title>Tracking Advanced Persistent Threat Groups | Recorded Future</title>
       <link>https://www.recordedfuture.com/blog/tracking-advanced-persistent-threats</link>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACR Stealer: Two observed intrusion chains amid increased threat activity</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/</link>
-      <pubDate>Thu, 16 Jul 2026 23:12:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report</title>
-      <link>https://unit42.paloaltonetworks.com/ai-incident-response-report/</link>
-      <pubDate>Thu, 16 Jul 2026 23:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senator calls on Rubio, Blanche to push back against Canadian surveillance legislation</title>
-      <link>https://therecord.media/canada-lawful-access-act-surveillance-wyden-letter</link>
-      <pubDate>Thu, 16 Jul 2026 21:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Begun, the Patch Wars have</title>
-      <link>https://blog.talosintelligence.com/begun-the-patch-wars-have/</link>
-      <pubDate>Thu, 16 Jul 2026 18:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Biggest Data Breaches of 2026 So Far, Ranked by Impact</title>
-      <link>https://www.techrepublic.com/article/news-biggest-data-breaches-2026-ranked-impact/</link>
-      <pubDate>Thu, 16 Jul 2026 17:35:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
