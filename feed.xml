@@ -4,11 +4,61 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 20 Jul 2026 13:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:52:41 +0000</lastBuildDate>
+    <item>
+      <title>Odyssey piracy scams appear within hours of the movie’s release</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/07/the-odyssey-piracy-scams-appear-within-hours-of-the-movies-release</link>
+      <pubDate>Mon, 20 Jul 2026 15:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers were inside South Korea's diplomat training system for 9 months</title>
+      <link>https://therecord.media/south-korea-cyberattack-foreign-ministry</link>
+      <pubDate>Mon, 20 Jul 2026 15:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cruciferra Crypter Uses Process Ghosting to Evade Detection</title>
+      <link>https://www.infosecurity-magazine.com/news/cruciferra-crypter-process-ghosting/</link>
+      <pubDate>Mon, 20 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Romania races to restore land registry after cyberattack disrupts property market</title>
+      <link>https://therecord.media/romania-cyberattack-land-registry</link>
+      <pubDate>Mon, 20 Jul 2026 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050</title>
+      <link>https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html</link>
+      <pubDate>Mon, 20 Jul 2026 14:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Healthcare giant Abbott probes two cyber incidents amid extortion claims</title>
+      <link>https://www.malwarebytes.com/blog/data-breaches/2026/07/healthcare-giant-abbott-probes-two-cyber-incidents-amid-extortion-claims</link>
+      <pubDate>Mon, 20 Jul 2026 14:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>JadePuffer Returns With Ransomware Designed to Wipe AI Models</title>
+      <link>https://www.infosecurity-magazine.com/news/jadepuffer-ai-model-ransomware/</link>
+      <pubDate>Mon, 20 Jul 2026 14:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 Ways to Defend Against LOTL Attacks Now</title>
+      <link>https://www.security.com/product-insights/three-ways-defend-against-lotl-attacks-now</link>
+      <pubDate>Mon, 20 Jul 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Build WordPress Exploit Using OpenAI's GPT</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-wordpress-exploit/</link>
+      <pubDate>Mon, 20 Jul 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More</title>
       <link>https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html</link>
       <pubDate>Mon, 20 Jul 2026 13:32:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dutch Intelligence Warns Russia Uses Hacked IP Cameras for Military Espionage</title>
+      <link>https://securityaffairs.com/195708/intelligence/dutch-intelligence-warns-russia-uses-hacked-ip-cameras-for-military-espionage.html</link>
+      <pubDate>Mon, 20 Jul 2026 13:26:49 +0000</pubDate>
     </item>
     <item>
       <title>The Agentic SOC: Transforming Data into Defensive Velocity</title>
@@ -34,6 +84,11 @@
       <title>On Flock License Plate Tracking Cameras</title>
       <link>https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html</link>
       <pubDate>Mon, 20 Jul 2026 11:03:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Software provider to more than 2,000 US hospitals says hackers stole employee and customer data</title>
+      <link>https://therecord.media/software-provider-for-us-hospitals-customer-data-breach</link>
+      <pubDate>Mon, 20 Jul 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Fake games spread stealers with RenPy Loader, MSBuild and EtherHiding</title>
@@ -101,6 +156,11 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>In code we trust? Why the most trusted software receives the least scrutiny.</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-trusted-code</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution</title>
       <link>https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html</link>
       <pubDate>Sun, 19 Jul 2026 20:42:49 +0000</pubDate>
@@ -149,11 +209,6 @@
       <title>Daxin: 13-Year-Old China-Linked Malware Found Still Active on Manufacturer’s Network</title>
       <link>https://securityaffairs.com/195577/malware/daxin-13-year-old-china-linked-malware-found-still-active-on-manufacturers-network.html</link>
       <pubDate>Sat, 18 Jul 2026 14:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Fortinet FortiSandbox and Microsoft SharePoint flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/195569/security/u-s-cisa-adds-fortinet-fortisandbox-and-microsoft-sharepoint-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Sat, 18 Jul 2026 11:49:16 +0000</pubDate>
     </item>
     <item>
       <title>23andMe Agrees to $18M Settlement With 43 States Over 2023 Data Breach</title>
@@ -246,64 +301,9 @@
       <pubDate>Fri, 17 Jul 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>Hugging Face Says Autonomous AI System Executed Multi-Stage Cyberattack</title>
-      <link>https://www.techrepublic.com/article/news-hugging-face-ai-agent-cyberattack-production-systems/</link>
-      <pubDate>Fri, 17 Jul 2026 13:22:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClickLock Mac Malware Traps Users in a Three-Day Password Loop</title>
-      <link>https://www.techrepublic.com/article/news-clicklock-mac-password-malware/</link>
-      <pubDate>Fri, 17 Jul 2026 12:36:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shark vacuum flaw exposes cameras, home maps and Wi-Fi passwords</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/07/shark-vacuum-flaw-exposes-cameras-home-maps-and-wi-fi-passwords</link>
-      <pubDate>Fri, 17 Jul 2026 12:29:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants</title>
-      <link>https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html</link>
-      <pubDate>Fri, 17 Jul 2026 11:44:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?</title>
-      <link>https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html</link>
-      <pubDate>Fri, 17 Jul 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU Orders Google to Open Android AI Features, Share Search Data With Rivals</title>
-      <link>https://www.techrepublic.com/article/news-eu-google-android-ai-search-data-rules-emea/</link>
-      <pubDate>Fri, 17 Jul 2026 11:08:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Details of Alan Turing’s Voice Encryption System</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html</link>
-      <pubDate>Fri, 17 Jul 2026 11:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man</title>
-      <link>https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html</link>
-      <pubDate>Fri, 17 Jul 2026 10:53:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to use GitHub safely</title>
-      <link>https://www.malwarebytes.com/blog/how-to/2026/07/how-to-use-github-safely</link>
-      <pubDate>Fri, 17 Jul 2026 10:43:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy</title>
-      <link>https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/</link>
-      <pubDate>Fri, 17 Jul 2026 10:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Mandates Urgent Patch for Actively Exploited Critical Fortinet Vulnerabilities</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-urgent-patch-fortinet/</link>
-      <pubDate>Fri, 17 Jul 2026 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Gentlemen Overtakes Qilin as Most Prolific Ransomware Threat</title>
-      <link>https://www.infosecurity-magazine.com/news/the-gentlemen-most-prolific/</link>
-      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+      <title>Dairy company Fairlife suspends production in US after cyber incident</title>
+      <link>https://therecord.media/dairy-company-fairlife-suspends-production-us-cyber-incident</link>
+      <pubDate>Fri, 17 Jul 2026 13:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
