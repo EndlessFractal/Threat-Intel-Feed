@@ -4,7 +4,47 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 20 Jul 2026 10:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:58:04 +0000</lastBuildDate>
+    <item>
+      <title>⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More</title>
+      <link>https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html</link>
+      <pubDate>Mon, 20 Jul 2026 13:32:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Agentic SOC: Transforming Data into Defensive Velocity</title>
+      <link>https://www.sentinelone.com/blog/the-agentic-soc-transforming-data-into-defensive-velocity/</link>
+      <pubDate>Mon, 20 Jul 2026 13:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>New HollowGraph Malware Hijacks Microsoft 365 Calendars for Covert C2 Communications</title>
+      <link>https://www.infosecurity-magazine.com/news/hollowgraph-microsoft-calendars/</link>
+      <pubDate>Mon, 20 Jul 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine</title>
+      <link>https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html</link>
+      <pubDate>Mon, 20 Jul 2026 12:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mythos Didn't Break Your Security Program. Your Exposure Window Could.</title>
+      <link>https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html</link>
+      <pubDate>Mon, 20 Jul 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On Flock License Plate Tracking Cameras</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html</link>
+      <pubDate>Mon, 20 Jul 2026 11:03:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake games spread stealers with RenPy Loader, MSBuild and EtherHiding</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-games-spread-stealers-with-renpy-loader-msbuild-and-etherhiding</link>
+      <pubDate>Mon, 20 Jul 2026 10:59:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical 7-Zip Flaw Allows Code Execution by Opening Crafted XZ-Compressed Files. Update it now!</title>
+      <link>https://securityaffairs.com/195688/security/critical-7-zip-flaw-allows-code-execution-by-opening-crafted-xz-compressed-files-update-it-now.html</link>
+      <pubDate>Mon, 20 Jul 2026 10:56:46 +0000</pubDate>
+    </item>
     <item>
       <title>CVE-2026-42533: Critical NGINX Bug Could Turn HTTP Requests Into Server Takeovers</title>
       <link>https://securityaffairs.com/195674/hacking/cve-2026-42533-critical-nginx-bug-could-turn-http-requests-into-server-takeovers.html</link>
@@ -54,6 +94,11 @@
       <title>ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)</title>
       <link>https://isc.sans.edu/diary/rss/33166</link>
       <pubDate>Mon, 20 Jul 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos joins Anthropic's Project Glasswing</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-joins-anthropics-project-glasswing</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution</title>
@@ -109,16 +154,6 @@
       <title>U.S. CISA adds Fortinet FortiSandbox and Microsoft SharePoint flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/195569/security/u-s-cisa-adds-fortinet-fortisandbox-and-microsoft-sharepoint-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Sat, 18 Jul 2026 11:49:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s Gemini lets strangers send messages from your locked Android phone</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/googles-gemini-strangers-messages-locked-android-phone</link>
-      <pubDate>Fri, 17 Jul 2026 22:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ernst &amp; Young (EY) Investigates Data Breach Involving Third-Party Support Tickets</title>
-      <link>https://securityaffairs.com/195550/data-breach/ernst-young-ey-investigates-data-breach-involving-third-party-support-tickets.html</link>
-      <pubDate>Fri, 17 Jul 2026 21:34:26 +0000</pubDate>
     </item>
     <item>
       <title>23andMe Agrees to $18M Settlement With 43 States Over 2023 Data Breach</title>
@@ -211,19 +246,9 @@
       <pubDate>Fri, 17 Jul 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>Dairy company Fairlife suspends production in US after cyber incident</title>
-      <link>https://therecord.media/dairy-company-fairlife-suspends-production-us-cyber-incident</link>
-      <pubDate>Fri, 17 Jul 2026 13:40:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Hugging Face Says Autonomous AI System Executed Multi-Stage Cyberattack</title>
       <link>https://www.techrepublic.com/article/news-hugging-face-ai-agent-cyberattack-production-systems/</link>
       <pubDate>Fri, 17 Jul 2026 13:22:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zelensky appoints Ukraine's acting security service chief as acting defense minister</title>
-      <link>https://therecord.media/ukraine-acting-defense-minister-yevhenii-khmara</link>
-      <pubDate>Fri, 17 Jul 2026 12:50:00 +0000</pubDate>
     </item>
     <item>
       <title>ClickLock Mac Malware Traps Users in a Three-Day Password Loop</title>
@@ -279,31 +304,6 @@
       <title>The Gentlemen Overtakes Qilin as Most Prolific Ransomware Threat</title>
       <link>https://www.infosecurity-magazine.com/news/the-gentlemen-most-prolific/</link>
       <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files</title>
-      <link>https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html</link>
-      <pubDate>Fri, 17 Jul 2026 08:56:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage</title>
-      <link>https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html</link>
-      <pubDate>Fri, 17 Jul 2026 08:46:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV</title>
-      <link>https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html</link>
-      <pubDate>Fri, 17 Jul 2026 06:42:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, July 17th, 2026 https://isc.sans.edu/podcastdetail/10012, (Fri, Jul 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/33162</link>
-      <pubDate>Fri, 17 Jul 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tracking Advanced Persistent Threat Groups | Recorded Future</title>
-      <link>https://www.recordedfuture.com/blog/tracking-advanced-persistent-threats</link>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
