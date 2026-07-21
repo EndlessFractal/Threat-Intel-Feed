@@ -4,11 +4,22 @@ on:
   schedule:
     - cron: "0 */2 * * *"
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Prevent concurrent Pages deployments
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  update_feed:
+  update_and_deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout code
@@ -48,3 +59,20 @@ jobs:
             git commit -m "RSS Feed Update"
             git push
           fi
+
+      - name: Prepare Pages directory
+        run: |
+          mkdir -p public
+          cp feed.xml public/
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
