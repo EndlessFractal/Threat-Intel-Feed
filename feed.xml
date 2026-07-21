@@ -4,7 +4,52 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 21 Jul 2026 06:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:22:04 +0000</lastBuildDate>
+    <item>
+      <title>Ukraine warns fake CAPTCHAs are being used to make you hack yourself</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/ukraine-fake-captchas-hack-yourself</link>
+      <pubDate>Tue, 21 Jul 2026 09:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI nudify apps spark legal scrutiny of Apple and Google’s profits</title>
+      <link>https://www.malwarebytes.com/blog/privacy/2026/07/ai-nudify-apps-spark-legal-scrutiny-of-apple-and-googles-profits</link>
+      <pubDate>Tue, 21 Jul 2026 09:48:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Hospital Finance Software Provider Craneware Reports Data Theft</title>
+      <link>https://www.infosecurity-magazine.com/news/craneware-reports-data-theft/</link>
+      <pubDate>Tue, 21 Jul 2026 09:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover North Korean 'ClickFake' Campaign Targeting Web3 Pros</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korean-clickfake-campaign/</link>
+      <pubDate>Tue, 21 Jul 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning</title>
+      <link>https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html</link>
+      <pubDate>Tue, 21 Jul 2026 08:59:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Project CAV3RN module abuses Outlook calendar events for C2 and DNS AAAA records for configuration recovery</title>
+      <link>https://securelist.com/project-cav3rn-cyberespionage-framework-using-outlook-and-dns/120757/</link>
+      <pubDate>Tue, 21 Jul 2026 08:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack</title>
+      <link>https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html</link>
+      <pubDate>Tue, 21 Jul 2026 07:34:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Update 513: Clauding The Home Network</title>
+      <link>https://www.troyhunt.com/weekly-update-513/</link>
+      <pubDate>Tue, 21 Jul 2026 07:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution</title>
+      <link>https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html</link>
+      <pubDate>Tue, 21 Jul 2026 06:29:26 +0000</pubDate>
+    </item>
     <item>
       <title>Attackers Exploit Critical ServiceNow RCE Flaw CVE-2026-6875</title>
       <link>https://securityaffairs.com/195723/ai/attackers-exploit-critical-servicenow-rce-flaw-cve-2026-6875.html</link>
@@ -259,51 +304,6 @@
       <title>OpenSSL Fixes HollowByte Memory Exhaustion Bug</title>
       <link>https://securityaffairs.com/195588/hacking/openssl-fixes-hollowbyte-memory-exhaustion-bug.html</link>
       <pubDate>Sat, 18 Jul 2026 18:24:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s Gemini lets strangers send messages from your locked Android phone</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/googles-gemini-strangers-messages-locked-android-phone</link>
-      <pubDate>Fri, 17 Jul 2026 22:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>23andMe Agrees to $18M Settlement With 43 States Over 2023 Data Breach</title>
-      <link>https://www.techrepublic.com/article/news-23andme-18-million-settlement-2023-genetic-data-breach/</link>
-      <pubDate>Fri, 17 Jul 2026 21:31:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code</title>
-      <link>https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html</link>
-      <pubDate>Fri, 17 Jul 2026 21:20:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Squid Washing Up on Cape Cod Beach</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html</link>
-      <pubDate>Fri, 17 Jul 2026 21:01:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft’s ‘Project Perception’ Could Challenge Anthropic’s Mythos in AI Security</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/</link>
-      <pubDate>Fri, 17 Jul 2026 20:23:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests</title>
-      <link>https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html</link>
-      <pubDate>Fri, 17 Jul 2026 20:20:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT</title>
-      <link>https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html</link>
-      <pubDate>Fri, 17 Jul 2026 18:54:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Zoom Flaw Could Let Attackers Take Over Windows Accounts</title>
-      <link>https://www.techrepublic.com/article/news-zoom-windows-account-takeover-vulnerability/</link>
-      <pubDate>Fri, 17 Jul 2026 18:17:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens</title>
-      <link>https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html</link>
-      <pubDate>Fri, 17 Jul 2026 17:12:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
