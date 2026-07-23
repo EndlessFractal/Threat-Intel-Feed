@@ -4,7 +4,37 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 23 Jul 2026 13:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:52:29 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2026-14266: 7-Zip Heap Overflow Flaw Can Lead to Remote Code Execution</title>
+      <link>https://socprime.com/blog/cve-2026-14266-7-zip-code-execution-flaw/</link>
+      <pubDate>Thu, 23 Jul 2026 15:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-64600: RefluXFS Linux Kernel Flaw Can Lead to Root Privilege Escalation</title>
+      <link>https://socprime.com/blog/cve-2026-64600-refluxfs-linux-kernel-flaw-can-lead-to-root-privilege-escalation/</link>
+      <pubDate>Thu, 23 Jul 2026 15:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Email threat landscape: Q2 2026 trends and insights</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/</link>
+      <pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Holds Back Gemini 3.5 Flash Cyber as CodeMender Enters Preview</title>
+      <link>https://www.techrepublic.com/article/news-google-flash-cyber-codemender/</link>
+      <pubDate>Thu, 23 Jul 2026 14:14:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Global Webmail Espionage</title>
+      <link>https://unit42.paloaltonetworks.com/russian-webmail-espionage/</link>
+      <pubDate>Thu, 23 Jul 2026 14:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Copilot Deployments Delayed Over Security Concerns</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-copilot-delayed-over/</link>
+      <pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>When the "Autonomous Attacker" Is Your Own AI Model, (Thu, Jul 23rd)</title>
       <link>https://isc.sans.edu/diary/rss/33180</link>
@@ -16,14 +46,34 @@
       <pubDate>Thu, 23 Jul 2026 13:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files</title>
+      <link>https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html</link>
+      <pubDate>Thu, 23 Jul 2026 13:27:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Major Australian energy supplier confirms customer data compromised</title>
       <link>https://therecord.media/australia-origin-energy-data-breach</link>
       <pubDate>Thu, 23 Jul 2026 13:20:00 +0000</pubDate>
     </item>
     <item>
+      <title>Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge</title>
+      <link>https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html</link>
+      <pubDate>Thu, 23 Jul 2026 13:11:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Mount Here, Read There: Twin Path Traversal CVEs in Kubernetes Storage</title>
       <link>https://www.sentinelone.com/blog/mount-here-read-there-twin-path-traversal-cves-in-kubernetes-storage/</link>
       <pubDate>Thu, 23 Jul 2026 13:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks</title>
+      <link>https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html</link>
+      <pubDate>Thu, 23 Jul 2026 12:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian State-Supported Cyber Actors Conduct Phishing Campaign Targeting Users of Zimbra Collaboration Suite</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-204a</link>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Synthetic Identity Fraud is Coming for Machine Identities</title>
@@ -111,9 +161,9 @@
       <pubDate>Thu, 23 Jul 2026 02:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>Smashing Security podcast #477: How 14 orders of chicken McNuggets helped nail a suspected Russian hacker</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-477/</link>
-      <pubDate>Wed, 22 Jul 2026 23:10:22 +0000</pubDate>
+      <title>TAG-195 Upgrades MaaS Ecosystem with Modular Tools</title>
+      <link>https://www.recordedfuture.com/research/tag-195-evolves-maas-ecosystem</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Swiss train maker Stadler refuses Everest $12 million ransomware demand</title>
@@ -254,56 +304,6 @@
       <title>First-Person Identity Theft Story</title>
       <link>https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html</link>
       <pubDate>Wed, 22 Jul 2026 11:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu snap-confine Vulnerability Enables Local Root Access</title>
-      <link>https://www.infosecurity-magazine.com/news/ubuntu-snap-confine-local-root-cve/</link>
-      <pubDate>Wed, 22 Jul 2026 10:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds DD-WRT, Langflow and WordPress flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/195782/security/u-s-cisa-adds-dd-wrt-langflow-and-wordpress-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 22 Jul 2026 10:45:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s AI Safety Chief Is Out — After Just 90 Days on the Job</title>
-      <link>https://www.techrepublic.com/article/news-trump-ai-safety-chief-chris-fall-resigns-caisi/</link>
-      <pubDate>Wed, 22 Jul 2026 10:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Makes CodeMender Available as Managed AI Security Agent</title>
-      <link>https://www.infosecurity-magazine.com/news/google-codemender-available-ai/</link>
-      <pubDate>Wed, 22 Jul 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>4 Application Control Updates That Help Teams Move Faster</title>
-      <link>https://www.security.com/product-insights/4-application-control-updates-help-teams-move-faster</link>
-      <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI AI models exploited zero-days to reach Hugging Face in benchmark test</title>
-      <link>https://securityaffairs.com/195774/ai/openai-ai-models-exploited-zero-days-to-reach-hugging-face-in-benchmark-test.html</link>
-      <pubDate>Wed, 22 Jul 2026 08:51:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA</title>
-      <link>https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html</link>
-      <pubDate>Wed, 22 Jul 2026 06:38:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library</title>
-      <link>https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html</link>
-      <pubDate>Wed, 22 Jul 2026 06:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents</title>
-      <link>https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html</link>
-      <pubDate>Wed, 22 Jul 2026 04:57:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/33174</link>
-      <pubDate>Wed, 22 Jul 2026 02:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
