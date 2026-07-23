@@ -4,11 +4,21 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 23 Jul 2026 19:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:59:12 +0000</lastBuildDate>
+    <item>
+      <title>U.S. CISA adds Microsoft SharePoint and Check Point SmartConsole flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/195889/security/u-s-cisa-adds-microsoft-sharepoint-and-check-point-smartconsole-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 23 Jul 2026 20:10:46 +0000</pubDate>
+    </item>
     <item>
       <title>Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes</title>
       <link>https://thehackernews.com/2026/07/russian-espionage-group-exploited.html</link>
       <pubDate>Thu, 23 Jul 2026 18:36:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chaos ransomware deploys browser-based msaRAT to evade network detection</title>
+      <link>https://securityaffairs.com/195876/malware/chaos-ransomware-deploys-browser-based-msarat-to-evade-network-detection.html</link>
+      <pubDate>Thu, 23 Jul 2026 18:26:38 +0000</pubDate>
     </item>
     <item>
       <title>Windows 11 Security Cheat Sheet: BitLocker, Passkeys, and Defender Explained</title>
@@ -133,6 +143,11 @@
     <item>
       <title>Russian State-Supported Cyber Actors Conduct Phishing Campaign Targeting Users of Zimbra Collaboration Suite</title>
       <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-204a</link>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation ThinManager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-204-05</link>
       <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -289,21 +304,6 @@
       <title>From Triage Grind to Strategic Operator: The New AI SOC Career Path</title>
       <link>https://www.sentinelone.com/blog/from-triage-grind-to-strategic-operator-the-new-ai-soc-career-path/</link>
       <pubDate>Wed, 22 Jul 2026 15:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>TrickBot Ditches HTTP for DNS Tunneling in Latest Variant</title>
-      <link>https://www.infosecurity-magazine.com/news/trickbot-dns-tunneling-c2/</link>
-      <pubDate>Wed, 22 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 4, July 2026</title>
-      <link>https://asec.ahnlab.com/en/94576/</link>
-      <pubDate>Wed, 22 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France Bans Social Media for Under-15s, Requires Age Checks</title>
-      <link>https://www.techrepublic.com/article/news-france-social-media-ban-age-verification-emea/</link>
-      <pubDate>Wed, 22 Jul 2026 13:53:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
