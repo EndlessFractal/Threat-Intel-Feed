@@ -4,7 +4,22 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 23 Jul 2026 17:17:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:09:43 +0000</lastBuildDate>
+    <item>
+      <title>Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes</title>
+      <link>https://thehackernews.com/2026/07/russian-espionage-group-exploited.html</link>
+      <pubDate>Thu, 23 Jul 2026 18:36:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Security Cheat Sheet: BitLocker, Passkeys, and Defender Explained</title>
+      <link>https://www.techrepublic.com/article/news-windows-11-security-cheat-sheet/</link>
+      <pubDate>Thu, 23 Jul 2026 18:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t swing at everything</title>
+      <link>https://blog.talosintelligence.com/dont-swing-at-everything/</link>
+      <pubDate>Thu, 23 Jul 2026 18:00:46 +0000</pubDate>
+    </item>
     <item>
       <title>International alert spotlights Russia-linked attacks on Zimbra webmail</title>
       <link>https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear</link>
@@ -39,11 +54,6 @@
       <title>Email threat landscape: Q2 2026 trends and insights</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/</link>
       <pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI’s AI “goes rogue” and hacks Hugging Face: what you need to know</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/openais-hacks-hugging-face</link>
-      <pubDate>Thu, 23 Jul 2026 14:18:37 +0000</pubDate>
     </item>
     <item>
       <title>Google Holds Back Gemini 3.5 Flash Cyber as CodeMender Enters Preview</title>
@@ -96,8 +106,38 @@
       <pubDate>Thu, 23 Jul 2026 12:20:23 +0000</pubDate>
     </item>
     <item>
+      <title>Panduit IntraVUE</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-204-04</link>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Johnson Controls C-CURE 9000 and Victor application server</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-204-01</link>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MZ Automation lib60870</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-204-07</link>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MZ Automation libIEC61850</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-204-06</link>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Johnson Controls XAAP Android</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-204-02</link>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Russian State-Supported Cyber Actors Conduct Phishing Campaign Targeting Users of Zimbra Collaboration Suite</title>
       <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-204a</link>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weintek cMT3092X</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-204-03</link>
       <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -191,11 +231,6 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Smashing Security podcast #477: How 14 orders of chicken McNuggets helped nail a suspected Russian hacker</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-477/</link>
-      <pubDate>Wed, 22 Jul 2026 23:10:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Swiss train maker Stadler refuses Everest $12 million ransomware demand</title>
       <link>https://therecord.media/stadler-refuses-everest-ransom-demand</link>
       <pubDate>Wed, 22 Jul 2026 23:00:00 +0000</pubDate>
@@ -269,41 +304,6 @@
       <title>France Bans Social Media for Under-15s, Requires Age Checks</title>
       <link>https://www.techrepublic.com/article/news-france-social-media-ban-age-verification-emea/</link>
       <pubDate>Wed, 22 Jul 2026 13:53:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside a TrickBot Variant Using DNS Tunneling for C2</title>
-      <link>https://feeds.fortinet.com/~/961655441/0/fortinet/blog/threat-research~Inside-a-TrickBot-Variant-Using-DNS-Tunneling-for-C</link>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chick-fil-A loyalty accounts hijacked using stolen passwords</title>
-      <link>https://www.malwarebytes.com/blog/data-breaches/2026/07/chick-fil-a-loyalty-accounts-hijacked-using-stolen-passwords</link>
-      <pubDate>Wed, 22 Jul 2026 12:46:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication</title>
-      <link>https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html</link>
-      <pubDate>Wed, 22 Jul 2026 12:36:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI model autonomously hacked a rival firm, fuelling fears of rogue agents</title>
-      <link>https://mcac.maryland.gov/2026/07/openai-model-autonomously-hacked-a-rival-firm-fuelling-fears-of-rogue-agents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=openai-model-autonomously-hacked-a-rival-firm-fuelling-fears-of-rogue-agents</link>
-      <pubDate>Wed, 22 Jul 2026 12:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Fastest Path to AI Adoption Runs Through Security</title>
-      <link>https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html</link>
-      <pubDate>Wed, 22 Jul 2026 11:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open AI Claims Its AI Models Went Rogue and Hacked Another Company</title>
-      <link>https://www.infosecurity-magazine.com/news/open-ai-hacked-another-company/</link>
-      <pubDate>Wed, 22 Jul 2026 11:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
