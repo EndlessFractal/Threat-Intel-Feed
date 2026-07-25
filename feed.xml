@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sat, 25 Jul 2026 13:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 14:59:08 +0000</lastBuildDate>
+    <item>
+      <title>Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available</title>
+      <link>https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html</link>
+      <pubDate>Sat, 25 Jul 2026 12:52:43 +0000</pubDate>
+    </item>
     <item>
       <title>Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git</title>
       <link>https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html</link>
@@ -299,11 +304,6 @@
       <title>Iranian Hackers Target Siemens and Schneider Industrial Systems, CISA Warns</title>
       <link>https://www.infosecurity-magazine.com/news/iran-hackers-siemen-schneider-ics/</link>
       <pubDate>Thu, 23 Jul 2026 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files</title>
-      <link>https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html</link>
-      <pubDate>Thu, 23 Jul 2026 13:27:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
