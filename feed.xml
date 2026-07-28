@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 28 Jul 2026 13:56:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:04:28 +0000</lastBuildDate>
+    <item>
+      <title>Bugs in Hugging Face Diffusers Bypass Custom Code Safeguard</title>
+      <link>https://www.infosecurity-magazine.com/news/hugging-face-diffusers-trust/</link>
+      <pubDate>Tue, 28 Jul 2026 15:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process</title>
+      <link>https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html</link>
+      <pubDate>Tue, 28 Jul 2026 15:01:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s Bank of Baroda confirms cyber incident after hackers claim data theft</title>
+      <link>https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident</link>
+      <pubDate>Tue, 28 Jul 2026 14:45:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Assisted Bug Hunt Uncovers Linux Kernel 0-Day in net/sched</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-linux-kernel-zero-day-net-sched/</link>
+      <pubDate>Tue, 28 Jul 2026 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login</title>
+      <link>https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html</link>
+      <pubDate>Tue, 28 Jul 2026 14:41:36 +0000</pubDate>
+    </item>
     <item>
       <title>JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach</title>
       <link>https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html</link>
@@ -34,6 +59,46 @@
       <title>Shared Claude chats were searchable on Google</title>
       <link>https://www.malwarebytes.com/blog/privacy/2026/07/shared-claude-chats-were-searchable-on-google</link>
       <pubDate>Tue, 28 Jul 2026 12:33:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>igloohome Smart Lock Mobile Application</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-06</link>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB KNX Update Tool</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-07</link>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-04</link>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Desigo CC</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-01</link>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC S7-PLCSIM Advanced</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-03</link>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CI Fortify – Advice for isolating vital systems</title>
+      <link>https://www.cisa.gov/resources-tools/resources/ci-fortify-advice-isolating-vital-systems</link>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MikroTik RouterOS and Cloud Hosted Router</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-05</link>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Mendix Runtime</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-02</link>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays</title>
@@ -106,11 +171,6 @@
       <pubDate>Tue, 28 Jul 2026 08:00:20 +0000</pubDate>
     </item>
     <item>
-      <title>AutoIT Payload Injector , (Tue, Jul 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/33192</link>
-      <pubDate>Tue, 28 Jul 2026 07:42:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost</title>
       <link>https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html</link>
       <pubDate>Tue, 28 Jul 2026 06:07:22 +0000</pubDate>
@@ -119,11 +179,6 @@
       <title>Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw</title>
       <link>https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html</link>
       <pubDate>Tue, 28 Jul 2026 04:43:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/33190</link>
-      <pubDate>Tue, 28 Jul 2026 02:00:03 +0000</pubDate>
     </item>
     <item>
       <title>Chaos in Teams vishing</title>
@@ -246,64 +301,9 @@
       <pubDate>Mon, 27 Jul 2026 12:37:49 +0000</pubDate>
     </item>
     <item>
-      <title>Hackers used autonomous AI agent to spy on Thailand's finance ministry</title>
-      <link>https://therecord.media/thailand-hackers-ai-finance-ministry</link>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2026/07/27/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SourTrade Malvertising Campaign Secretly Builds Malware in the Browser</title>
-      <link>https://www.infosecurity-magazine.com/news/malvertising-builds-malware-in/</link>
-      <pubDate>Mon, 27 Jul 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab Users Urged to Patch After Research Reveals Critical RCE Chain</title>
-      <link>https://securityaffairs.com/196062/hacking/gitlab-users-urged-to-patch-after-research-reveals-critical-rce-chain.html</link>
-      <pubDate>Mon, 27 Jul 2026 11:20:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>EFF: Most Smart Wearables Still Fall Short on Privacy and Transparency</title>
-      <link>https://securityaffairs.com/196085/security/eff-most-smart-wearables-still-fall-short-on-privacy-and-transparency.html</link>
-      <pubDate>Mon, 27 Jul 2026 11:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cognyte Sells a Mobile Cell Surveillance Van</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html</link>
-      <pubDate>Mon, 27 Jul 2026 11:04:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware</title>
-      <link>https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html</link>
-      <pubDate>Mon, 27 Jul 2026 10:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Java Spring Boot "heapdump" scans, (Mon, Jul 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/33188</link>
-      <pubDate>Mon, 27 Jul 2026 10:04:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Groups Increasingly Deploy EDR Kill Techniques</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-q2-2026-edr-kill/</link>
-      <pubDate>Mon, 27 Jul 2026 10:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments</title>
-      <link>https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html</link>
-      <pubDate>Mon, 27 Jul 2026 08:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption</title>
-      <link>https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html</link>
-      <pubDate>Mon, 27 Jul 2026 08:01:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (July 20 – July 26)</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-20-july-26</link>
-      <pubDate>Mon, 27 Jul 2026 07:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
