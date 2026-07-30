@@ -4,7 +4,57 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 30 Jul 2026 06:23:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:21:01 +0000</lastBuildDate>
+    <item>
+      <title>Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks</title>
+      <link>https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/</link>
+      <pubDate>Thu, 30 Jul 2026 10:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Hat special: Rewind and revisit</title>
+      <link>https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/</link>
+      <pubDate>Thu, 30 Jul 2026 10:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Releases Patches for 370 Vulnerabilities in Chrome 151</title>
+      <link>https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/</link>
+      <pubDate>Thu, 30 Jul 2026 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/196289/security/u-s-cisa-adds-a-cisco-secure-firewall-management-center-fmc-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 30 Jul 2026 09:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Calls on Vendors to Embed ‘Forensic Observability’ in Network Devices</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-calls-device-manufacturers/</link>
+      <pubDate>Thu, 30 Jul 2026 08:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>eSIM Plus and Nicegram Share Belarus-Linked Codebase, Analysis Finds</title>
+      <link>https://securityaffairs.com/196280/security/esim-plus-and-nicegram-share-belarus-linked-codebase-analysis-finds.html</link>
+      <pubDate>Thu, 30 Jul 2026 08:19:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toy Ghouls’ new toy: the GenieLocker ransomware</title>
+      <link>https://securelist.com/genielocker-ransomware-for-windows-linux-and-esxi/120843/</link>
+      <pubDate>Thu, 30 Jul 2026 08:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation</title>
+      <link>https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html</link>
+      <pubDate>Thu, 30 Jul 2026 07:40:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks</title>
+      <link>https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html</link>
+      <pubDate>Thu, 30 Jul 2026 07:28:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet</title>
+      <link>https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html</link>
+      <pubDate>Thu, 30 Jul 2026 06:05:17 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data</title>
       <link>https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html</link>
@@ -24,11 +74,6 @@
       <title>Dealing with AI-Generated Extortion</title>
       <link>https://www.recordedfuture.com/blog/ai-generated-extortion</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #478: This job interview could destroy your company</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-478/</link>
-      <pubDate>Wed, 29 Jul 2026 23:09:41 +0000</pubDate>
     </item>
     <item>
       <title>Apple accused of letting fake crypto app steal $1.8 million</title>
@@ -119,6 +164,11 @@
       <title>Russian-Alligned TA488 Returns With Persistent Outlook Web Access Attack</title>
       <link>https://www.infosecurity-magazine.com/news/ta488-outlook-half-click-owareaper/</link>
       <pubDate>Wed, 29 Jul 2026 15:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 5, July 2026</title>
+      <link>https://asec.ahnlab.com/en/94707/</link>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Joint Cybersecurity Advisory] Operation Double Barrel (The Relationship Between a State-Sponsored Threat Actor and the Gunra Ransomware Group)</title>
@@ -254,56 +304,6 @@
       <title>New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands</title>
       <link>https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html</link>
       <pubDate>Wed, 29 Jul 2026 07:47:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Patches Everything (July 2026), (Wed, Jul 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/33196</link>
-      <pubDate>Wed, 29 Jul 2026 07:32:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates</title>
-      <link>https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html</link>
-      <pubDate>Wed, 29 Jul 2026 07:07:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js</title>
-      <link>https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html</link>
-      <pubDate>Wed, 29 Jul 2026 04:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>FTC sues Hims &amp; Hers for allegedly sharing patient information with third-party platforms</title>
-      <link>https://therecord.media/hims-hers-privacy-lawsuit-ftc</link>
-      <pubDate>Wed, 29 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/33194</link>
-      <pubDate>Wed, 29 Jul 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Measuring LLMs’ Ability to Perform Cryptanalysis</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html</link>
-      <pubDate>Wed, 29 Jul 2026 01:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure by Design in practice: a year of progress on Sophos Firewall</title>
-      <link>https://www.sophos.com/en-us/blog/2607-sbd-update</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>More Than 45,000 Software Flaws Reported as AI Reshapes Cybersecurity</title>
-      <link>https://www.techrepublic.com/article/news-ai-software-vulnerability-surge-cybersecurity-risks/</link>
-      <pubDate>Tue, 28 Jul 2026 20:53:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dysphoria Botnet Uses Blockchain Domains to Hide C2 Infrastructure</title>
-      <link>https://securityaffairs.com/196182/malware/dysphoria-botnet-uses-blockchain-domains-to-hide-c2-infrastructure.html</link>
-      <pubDate>Tue, 28 Jul 2026 19:07:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack</title>
-      <link>https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html</link>
-      <pubDate>Tue, 28 Jul 2026 18:59:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
