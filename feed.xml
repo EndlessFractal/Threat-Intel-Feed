@@ -4,7 +4,47 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 30 Jul 2026 13:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 15:49:04 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2026-20316: Actively Exploited Cisco FMC Flaw Exposes Sensitive Data</title>
+      <link>https://socprime.com/blog/cve-2026-20316-cisco-fmc-zero-day-exploited/</link>
+      <pubDate>Thu, 30 Jul 2026 15:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-66066: Critical Rails Flaw Exposes Server Files via Image Uploads</title>
+      <link>https://socprime.com/blog/cve-2026-66066-critical-rails-flaw-exposes-server-files-via-image-uploads/</link>
+      <pubDate>Thu, 30 Jul 2026 15:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-47876: Critical VMware ESXi VM Escape Flaw Enables Host Code Execution</title>
+      <link>https://socprime.com/blog/cve-2026-47876-analysis/</link>
+      <pubDate>Thu, 30 Jul 2026 14:51:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn</title>
+      <link>https://therecord.media/north-korea-hackers-ransomware</link>
+      <pubDate>Thu, 30 Jul 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hugging Face Deepfake Tests Raise New Risks for AI Procurement</title>
+      <link>https://www.techrepublic.com/article/news-hugging-face-deepfake-vendor-risk/</link>
+      <pubDate>Thu, 30 Jul 2026 13:59:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hims &amp; Hers sued over alleged health data privacy failures</title>
+      <link>https://www.malwarebytes.com/blog/privacy/2026/07/hims-hers-sued-over-alleged-health-data-privacy-failures</link>
+      <pubDate>Thu, 30 Jul 2026 13:58:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database</title>
+      <link>https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html</link>
+      <pubDate>Thu, 30 Jul 2026 13:34:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Automatically Holds Suspicious Actions Runs, but Repository Owners Must Approve Them</title>
+      <link>https://www.techrepublic.com/article/news-github-actions-workflow-hold/</link>
+      <pubDate>Thu, 30 Jul 2026 13:30:13 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean hackers behind major open-source supply chain attacks, Amazon says</title>
       <link>https://therecord.media/north-korea-hackers-amazon-malware</link>
@@ -17,7 +57,7 @@
     </item>
     <item>
       <title>Hidden prompt turns Microsoft Copilot into an AI worm</title>
-      <link>https://www.malwarebytes.com/blog/ai/2026/07/hidden-prompt-can-make-microsoft-copilot-spread-itself-through-your-word-docs</link>
+      <link>https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm</link>
       <pubDate>Thu, 30 Jul 2026 12:58:45 +0000</pubDate>
     </item>
     <item>
@@ -28,6 +68,11 @@
     <item>
       <title>Cyber extortionists steal data from UK Department for Education</title>
       <link>https://therecord.media/united-kingdom-ransomware-education</link>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Source Software: Security Principles and Practices</title>
+      <link>https://www.cisa.gov/resources-tools/resources/open-source-software-security-principles-and-practices</link>
       <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -81,11 +126,6 @@
       <pubDate>Thu, 30 Jul 2026 10:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>North Korea’s elite hackers turned on their own government – and got caught</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/north-korea-hackers-own-government</link>
-      <pubDate>Thu, 30 Jul 2026 09:17:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Releases Patches for 370 Vulnerabilities in Chrome 151</title>
       <link>https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/</link>
       <pubDate>Thu, 30 Jul 2026 09:15:00 +0000</pubDate>
@@ -131,6 +171,11 @@
       <pubDate>Thu, 30 Jul 2026 05:08:39 +0000</pubDate>
     </item>
     <item>
+      <title>The 5 Best VPN Extensions for Chrome</title>
+      <link>https://www.techrepublic.com/article/best-chrome-vpn-extensions/</link>
+      <pubDate>Thu, 30 Jul 2026 05:00:14 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)</title>
       <link>https://isc.sans.edu/diary/rss/33200</link>
       <pubDate>Thu, 30 Jul 2026 02:00:03 +0000</pubDate>
@@ -146,9 +191,9 @@
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Smashing Security podcast #478: This job interview could destroy your company</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-478/</link>
-      <pubDate>Wed, 29 Jul 2026 23:09:41 +0000</pubDate>
+      <title>Iran War’s Secondary Effects Shape 2026 US Violent Extremism</title>
+      <link>https://www.recordedfuture.com/research/iran-violent-extremism-landscape</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apple accused of letting fake crypto app steal $1.8 million</title>
@@ -256,54 +301,9 @@
       <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Laundry Bear’s webmail hackers had more in store after February, report says</title>
-      <link>https://therecord.media/russia-hackers-outlook-webmail-malware</link>
-      <pubDate>Wed, 29 Jul 2026 14:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenAI explains how its AI agent breached Hugging Face</title>
       <link>https://www.malwarebytes.com/blog/news/2026/07/openai-explains-how-its-ai-agent-breached-hugging-face</link>
       <pubDate>Wed, 29 Jul 2026 14:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline</title>
-      <link>https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html</link>
-      <pubDate>Wed, 29 Jul 2026 13:48:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments</title>
-      <link>https://thehackernews.com/2026/07/nine-year-fraud-campaign.html</link>
-      <pubDate>Wed, 29 Jul 2026 13:42:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShinyHunters Claims Ernst &amp; Young Data Breach, Threatens to Leak Stolen Data</title>
-      <link>https://securityaffairs.com/196239/data-breach/shinyhunters-claims-ernst-young-data-breach-threatens-to-leak-stolen-data.html</link>
-      <pubDate>Wed, 29 Jul 2026 13:40:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Broadcom Patches Critical VMware ESXi Vulnerability Enabling Host Code Execution</title>
-      <link>https://securityaffairs.com/196231/security/broadcom-patches-critical-vmware-esxi-vulnerability-enabling-host-code-execution.html</link>
-      <pubDate>Wed, 29 Jul 2026 13:02:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mythos Asks the Right Question. It Doesn't Answer It.</title>
-      <link>https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html</link>
-      <pubDate>Wed, 29 Jul 2026 12:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/07/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 Minimum Elements for a Software Bill of Materials (SBOM)</title>
-      <link>https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom</link>
-      <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser</title>
-      <link>https://thehackernews.com/2026/07/researchers-show-single-malicious.html</link>
-      <pubDate>Wed, 29 Jul 2026 11:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
