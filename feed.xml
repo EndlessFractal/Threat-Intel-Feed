@@ -4,7 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 31 Jul 2026 02:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 06:40:29 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)</title>
       <link>https://isc.sans.edu/diary/rss/33204</link>
@@ -91,8 +91,18 @@
       <pubDate>Thu, 30 Jul 2026 14:51:46 +0000</pubDate>
     </item>
     <item>
+      <title>Cryptominer Abuses Linux PAM to Hide From SOC Analysts</title>
+      <link>https://www.infosecurity-magazine.com/news/xmrig-linux-pam-forensic/</link>
+      <pubDate>Thu, 30 Jul 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn</title>
       <link>https://therecord.media/north-korea-hackers-ransomware</link>
+      <pubDate>Thu, 30 Jul 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AiTM Phishing Becomes Top Initial Access Threat to Law Firms</title>
+      <link>https://www.infosecurity-magazine.com/news/aitm-phishing-top-entry-point-law/</link>
       <pubDate>Thu, 30 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -294,16 +304,6 @@
       <title>FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks</title>
       <link>https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html</link>
       <pubDate>Thu, 30 Jul 2026 07:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet</title>
-      <link>https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html</link>
-      <pubDate>Thu, 30 Jul 2026 06:05:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data</title>
-      <link>https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html</link>
-      <pubDate>Thu, 30 Jul 2026 05:08:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
