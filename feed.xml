@@ -4,7 +4,42 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 31 Jul 2026 06:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 10:34:38 +0000</lastBuildDate>
+    <item>
+      <title>Network Anomaly Detection in KATA</title>
+      <link>https://securelist.com/tr/network-anomaly-detection-in-kata/120892/</link>
+      <pubDate>Fri, 31 Jul 2026 10:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version</title>
+      <link>https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/</link>
+      <pubDate>Fri, 31 Jul 2026 10:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Blames North Korean Group for Axios and Other npm Supply Chain Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/aws-north-korea-axios-npm-supply/</link>
+      <pubDate>Fri, 31 Jul 2026 09:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>zipdump.py: Metadata Encoding, (Fri, Jul 31st)</title>
+      <link>https://isc.sans.edu/diary/rss/33202</link>
+      <pubDate>Fri, 31 Jul 2026 09:22:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Finds Claude Breached Real Companies During Security Evaluations</title>
+      <link>https://securityaffairs.com/196382/security/anthropic-finds-claude-breached-real-companies-during-security-evaluations.html</link>
+      <pubDate>Fri, 31 Jul 2026 08:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Reveals Claude Escaped Testing, Breaching Three Companies</title>
+      <link>https://www.infosecurity-magazine.com/news/anthropic-claude-breached-three/</link>
+      <pubDate>Fri, 31 Jul 2026 08:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SilverFox Targets Japanese Manufacturer With Advanced ValleyRAT Campaign</title>
+      <link>https://securityaffairs.com/196347/apt/silverfox-targets-japanese-manufacturer-with-advanced-valleyrat-campaign.html</link>
+      <pubDate>Fri, 31 Jul 2026 07:18:06 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)</title>
       <link>https://isc.sans.edu/diary/rss/33204</link>
@@ -14,11 +49,6 @@
       <title>Researchers Expose Flying Eagle Criminal Ecosystem Behind Fake Chinese Police App</title>
       <link>https://securityaffairs.com/196369/malware/researchers-expose-flying-eagle-criminal-ecosystem-behind-fake-chinese-police-app.html</link>
       <pubDate>Thu, 30 Jul 2026 22:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM: AI-Enabled Data Breaches Cost Organizations $6 Million on Average</title>
-      <link>https://www.techrepublic.com/article/news-ibm-ai-enabled-data-breach-costs/</link>
-      <pubDate>Thu, 30 Jul 2026 20:32:45 +0000</pubDate>
     </item>
     <item>
       <title>Google Plans Global Rollout of Privacy-Focused Age Signals API</title>
@@ -274,36 +304,6 @@
       <title>Google Releases Patches for 370 Vulnerabilities in Chrome 151</title>
       <link>https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/</link>
       <pubDate>Thu, 30 Jul 2026 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/196289/security/u-s-cisa-adds-a-cisco-secure-firewall-management-center-fmc-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 30 Jul 2026 09:06:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Calls on Vendors to Embed ‘Forensic Observability’ in Network Devices</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-calls-device-manufacturers/</link>
-      <pubDate>Thu, 30 Jul 2026 08:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>eSIM Plus and Nicegram Share Belarus-Linked Codebase, Analysis Finds</title>
-      <link>https://securityaffairs.com/196280/security/esim-plus-and-nicegram-share-belarus-linked-codebase-analysis-finds.html</link>
-      <pubDate>Thu, 30 Jul 2026 08:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toy Ghouls’ new toy: the GenieLocker ransomware</title>
-      <link>https://securelist.com/genielocker-ransomware-for-windows-linux-and-esxi/120843/</link>
-      <pubDate>Thu, 30 Jul 2026 08:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation</title>
-      <link>https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html</link>
-      <pubDate>Thu, 30 Jul 2026 07:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks</title>
-      <link>https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html</link>
-      <pubDate>Thu, 30 Jul 2026 07:28:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
