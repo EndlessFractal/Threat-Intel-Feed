@@ -4,7 +4,22 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sun, 02 Aug 2026 02:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 06:29:14 +0000</lastBuildDate>
+    <item>
+      <title>UK’s state investments agency hit by data breach</title>
+      <link>https://www.theguardian.com/business/2026/aug/02/uk-state-investments-agency-data-breach</link>
+      <pubDate>Sun, 02 Aug 2026 06:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Urges Utilities to Remove Internet-Exposed PLCs After Minnesota Attacks</title>
+      <link>https://securityaffairs.com/196453/ics-scada/cisa-urges-utilities-to-remove-internet-exposed-plcs-after-minnesota-attacks.html</link>
+      <pubDate>Sun, 02 Aug 2026 05:06:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/33208</link>
+      <pubDate>Sun, 02 Aug 2026 04:05:08 +0000</pubDate>
+    </item>
     <item>
       <title>Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes</title>
       <link>https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html</link>
@@ -256,11 +271,6 @@
       <pubDate>Thu, 30 Jul 2026 18:00:35 +0000</pubDate>
     </item>
     <item>
-      <title>Cybercriminals Are Leveraging Autonomous AI Offensive Security Agents</title>
-      <link>https://securityaffairs.com/196331/ai/cybercriminals-are-leveraging-autonomous-ai-offensive-security-agents.html</link>
-      <pubDate>Thu, 30 Jul 2026 17:16:56 +0000</pubDate>
-    </item>
-    <item>
       <title>Read This Before You Buy That TV Streaming Stick</title>
       <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
       <pubDate>Thu, 30 Jul 2026 16:49:00 +0000</pubDate>
@@ -294,16 +304,6 @@
       <title>CVE-2026-66066: Critical Rails Flaw Exposes Server Files via Image Uploads</title>
       <link>https://socprime.com/blog/cve-2026-66066-critical-rails-flaw-exposes-server-files-via-image-uploads/</link>
       <pubDate>Thu, 30 Jul 2026 15:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-47876: Critical VMware ESXi VM Escape Flaw Enables Host Code Execution</title>
-      <link>https://socprime.com/blog/cve-2026-47876-analysis/</link>
-      <pubDate>Thu, 30 Jul 2026 14:51:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cryptominer Abuses Linux PAM to Hide From SOC Analysts</title>
-      <link>https://www.infosecurity-magazine.com/news/xmrig-linux-pam-forensic/</link>
-      <pubDate>Thu, 30 Jul 2026 14:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
