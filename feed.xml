@@ -4,7 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 05 Aug 2026 21:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 22:54:48 +0000</lastBuildDate>
     <item>
       <title>Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says</title>
       <link>https://therecord.media/chinese-hackers-telecoms-house</link>
@@ -31,9 +31,14 @@
       <pubDate>Wed, 05 Aug 2026 18:33:47 +0000</pubDate>
     </item>
     <item>
-      <title>Apple briefly removes Telegram from App Store over reported CSAM violation</title>
+      <title>Apple Briefly Removes Telegram From App Store Over Reported CSAM Violation</title>
       <link>https://www.techrepublic.com/article/news-apple-briefly-removes-telegram-csam/</link>
       <pubDate>Wed, 05 Aug 2026 17:57:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)</title>
+      <link>https://isc.sans.edu/diary/rss/33218</link>
+      <pubDate>Wed, 05 Aug 2026 17:56:15 +0000</pubDate>
     </item>
     <item>
       <title>Apple Challenges UK Demand For Access To Encrypted iCloud Data</title>
@@ -221,8 +226,18 @@
       <pubDate>Wed, 05 Aug 2026 05:47:19 +0000</pubDate>
     </item>
     <item>
+      <title>ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)</title>
+      <link>https://isc.sans.edu/diary/rss/33216</link>
+      <pubDate>Wed, 05 Aug 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Hype vs. Reality: What the Hugging Face Incident Means for AI Safety</title>
       <link>https://www.recordedfuture.com/blog/hugging-face-ai-safety</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos DNS Protection update for GenAI</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-dns-genai</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -289,21 +304,6 @@
       <title>WhatsApp Scam Hijacks Accounts via Linked Devices Feature</title>
       <link>https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/</link>
       <pubDate>Tue, 04 Aug 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>INC Ransomware is Calling Victims – Pressure Tactics Post SonicWall Zero-Day Exploit</title>
-      <link>https://securityaffairs.com/196607/malware/inc-ransomware-is-calling-victims-pressure-tactics-post-sonicwall-zero-day-exploit.html</link>
-      <pubDate>Tue, 04 Aug 2026 13:46:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Input to Impact: Secure AI Where It Runs</title>
-      <link>https://www.sentinelone.com/blog/from-input-to-impact-secure-ai-where-it-runs/</link>
-      <pubDate>Tue, 04 Aug 2026 13:30:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks</title>
-      <link>https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html</link>
-      <pubDate>Tue, 04 Aug 2026 13:30:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
