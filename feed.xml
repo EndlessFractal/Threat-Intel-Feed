@@ -4,7 +4,22 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 05 Aug 2026 19:24:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:03:37 +0000</lastBuildDate>
+    <item>
+      <title>Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says</title>
+      <link>https://therecord.media/chinese-hackers-telecoms-house</link>
+      <pubDate>Wed, 05 Aug 2026 20:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian man pleads guilty to Snowflake hacks that led to 165 breaches</title>
+      <link>https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka</link>
+      <pubDate>Wed, 05 Aug 2026 20:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Deception Emerges in Cyber Tests as Agents Target Real People and Systems</title>
+      <link>https://securityaffairs.com/196695/ai/ai-deception-emerges-in-cyber-tests-as-agents-target-real-people-and-systems.html</link>
+      <pubDate>Wed, 05 Aug 2026 19:39:58 +0000</pubDate>
+    </item>
     <item>
       <title>Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures</title>
       <link>https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html</link>
@@ -19,11 +34,6 @@
       <title>Apple briefly removes Telegram from App Store over reported CSAM violation</title>
       <link>https://www.techrepublic.com/article/news-apple-briefly-removes-telegram-csam/</link>
       <pubDate>Wed, 05 Aug 2026 17:57:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/33218</link>
-      <pubDate>Wed, 05 Aug 2026 17:56:15 +0000</pubDate>
     </item>
     <item>
       <title>Apple Challenges UK Demand For Access To Encrypted iCloud Data</title>
@@ -211,11 +221,6 @@
       <pubDate>Wed, 05 Aug 2026 05:47:19 +0000</pubDate>
     </item>
     <item>
-      <title>ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/33216</link>
-      <pubDate>Wed, 05 Aug 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
       <title>Hype vs. Reality: What the Hugging Face Incident Means for AI Safety</title>
       <link>https://www.recordedfuture.com/blog/hugging-face-ai-safety</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
@@ -229,11 +234,6 @@
       <title>Apple battles it out again with the UK over encrypted iCloud access</title>
       <link>https://www.malwarebytes.com/blog/news/2026/08/apple-battles-it-out-again-with-uk-over-encrypted-icloud-access</link>
       <pubDate>Tue, 04 Aug 2026 20:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI: Cambodian scam centers used ChatGPT to lure Indian nationals, conduct investment fraud</title>
-      <link>https://therecord.media/openai-chatgpt-cambodia-scam-centers-disruption</link>
-      <pubDate>Tue, 04 Aug 2026 20:15:00 +0000</pubDate>
     </item>
     <item>
       <title>SharePoint Flaws Used to Hack Switzerland’s Federal IT Agency</title>
@@ -271,11 +271,6 @@
       <pubDate>Tue, 04 Aug 2026 16:26:23 +0000</pubDate>
     </item>
     <item>
-      <title>Britain’s next war won’t be an away game: Q&amp;A with former head of Defence Intelligence</title>
-      <link>https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine</link>
-      <pubDate>Tue, 04 Aug 2026 16:19:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Things You Won’t Want to Miss at Black Hat USA 2026</title>
       <link>https://www.security.com/expert-perspectives/things-you-wont-want-miss-black-hat-usa-2026</link>
       <pubDate>Tue, 04 Aug 2026 15:45:00 +0000</pubDate>
@@ -304,6 +299,11 @@
       <title>From Input to Impact: Secure AI Where It Runs</title>
       <link>https://www.sentinelone.com/blog/from-input-to-impact-secure-ai-where-it-runs/</link>
       <pubDate>Tue, 04 Aug 2026 13:30:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks</title>
+      <link>https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html</link>
+      <pubDate>Tue, 04 Aug 2026 13:30:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
