@@ -4,11 +4,16 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 05 Aug 2026 02:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:24:05 +0000</lastBuildDate>
     <item>
       <title>ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)</title>
       <link>https://isc.sans.edu/diary/rss/33216</link>
       <pubDate>Wed, 05 Aug 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChainDrop supply chain compromise: Anatomy of a self-propagating worm</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</link>
+      <pubDate>Tue, 04 Aug 2026 23:46:41 +0000</pubDate>
     </item>
     <item>
       <title>Apple battles it out again with the UK over encrypted iCloud access</title>
@@ -236,6 +241,11 @@
       <pubDate>Tue, 04 Aug 2026 09:03:23 +0000</pubDate>
     </item>
     <item>
+      <title>Fake IRS letters target cryptocurrency holders</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-irs-letters-cryptocurrency</link>
+      <pubDate>Tue, 04 Aug 2026 09:02:46 +0000</pubDate>
+    </item>
+    <item>
       <title>UK’s Police National Legal Database Reveals Data Breach</title>
       <link>https://www.infosecurity-magazine.com/news/uks-police-national-legal-database/</link>
       <pubDate>Tue, 04 Aug 2026 08:40:00 +0000</pubDate>
@@ -294,16 +304,6 @@
       <title>Claude Opus 5 Vending Test Shows Profit-Driven AI Risks</title>
       <link>https://www.techrepublic.com/article/news-claude-opus-5-vending-bench-ai-agent-risks/</link>
       <pubDate>Mon, 03 Aug 2026 17:44:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>More on the OpenAI Agent’s Attack on Hugging Face</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html</link>
-      <pubDate>Mon, 03 Aug 2026 17:02:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts</title>
-      <link>https://thehackernews.com/2026/08/google-password-manager-attacks-could.html</link>
-      <pubDate>Mon, 03 Aug 2026 16:24:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
