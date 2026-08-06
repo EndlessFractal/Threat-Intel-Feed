@@ -4,7 +4,72 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 06 Aug 2026 06:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 10:34:28 +0000</lastBuildDate>
+    <item>
+      <title>Canadian Hacker Pleads Guilty Over Snowflake Extortion Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/canadian-hacker-guilty-snowflake/</link>
+      <pubDate>Thu, 06 Aug 2026 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Token Jacking: Cybercriminals Could Be Stealing Your AI Resources</title>
+      <link>https://unit42.paloaltonetworks.com/ai-token-jacking/</link>
+      <pubDate>Thu, 06 Aug 2026 10:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta AI Model Hacked a Company During Testing, Marking Third AI Lab Incident</title>
+      <link>https://securityaffairs.com/196731/security/meta-ai-model-hacked-a-company-during-testing-marking-third-ai-lab-incident.html</link>
+      <pubDate>Thu, 06 Aug 2026 09:32:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access</title>
+      <link>https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html</link>
+      <pubDate>Thu, 06 Aug 2026 09:19:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model</title>
+      <link>https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html</link>
+      <pubDate>Thu, 06 Aug 2026 08:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Group Proposes SAFE Initiative for Agentic Threat Intel Sharing</title>
+      <link>https://www.infosecurity-magazine.com/news/safe-initiative-agentic-threat/</link>
+      <pubDate>Thu, 06 Aug 2026 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds a JetBrains TeamCity flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/196725/security/u-s-cisa-adds-a-jetbrains-teamcity-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 06 Aug 2026 08:22:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells</title>
+      <link>https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html</link>
+      <pubDate>Thu, 06 Aug 2026 08:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>EclecticIQ Intelligence Center 3.8: Built for the way security teams are actually working now</title>
+      <link>https://blog.eclecticiq.com/intelligence-center-3.8</link>
+      <pubDate>Thu, 06 Aug 2026 07:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service</title>
+      <link>https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html</link>
+      <pubDate>Thu, 06 Aug 2026 07:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild</title>
+      <link>https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html</link>
+      <pubDate>Thu, 06 Aug 2026 06:51:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People</title>
+      <link>https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html</link>
+      <pubDate>Thu, 06 Aug 2026 06:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snowflake Hacker Pleads Guilty After Breaching 165 Companies and Stealing Billions of Records</title>
+      <link>https://securityaffairs.com/196714/security/snowflake-hacker-pleads-guilty-after-breaching-165-companies-and-stealing-billions-of-records.html</link>
+      <pubDate>Thu, 06 Aug 2026 05:39:46 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)</title>
       <link>https://isc.sans.edu/diary/rss/33222</link>
@@ -121,6 +186,11 @@
       <pubDate>Wed, 05 Aug 2026 15:14:05 +0000</pubDate>
     </item>
     <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, August 2026</title>
+      <link>https://asec.ahnlab.com/en/94844/</link>
+      <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI’s GPT-5.6 Tests Show Prompt-Injection Gains and Agent Risks</title>
       <link>https://www.techrepublic.com/article/news-gpt-5-6-prompt-injection/</link>
       <pubDate>Wed, 05 Aug 2026 14:48:02 +0000</pubDate>
@@ -234,76 +304,6 @@
       <title>CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited</title>
       <link>https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html</link>
       <pubDate>Wed, 05 Aug 2026 07:40:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>SMOKE#SCREEN Campaign Abuses ScreenConnect to Give Attackers Remote Control Access</title>
-      <link>https://securityaffairs.com/196637/uncategorized/smokescreen-campaign-abuses-screenconnect-to-give-attackers-remote-control-access.html</link>
-      <pubDate>Wed, 05 Aug 2026 05:52:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer</title>
-      <link>https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html</link>
-      <pubDate>Wed, 05 Aug 2026 05:47:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/33216</link>
-      <pubDate>Wed, 05 Aug 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hype vs. Reality: What the Hugging Face Incident Means for AI Safety</title>
-      <link>https://www.recordedfuture.com/blog/hugging-face-ai-safety</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos DNS Protection update for GenAI</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-dns-genai</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChainDrop supply chain compromise: Anatomy of a self-propagating worm</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</link>
-      <pubDate>Tue, 04 Aug 2026 23:46:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple battles it out again with the UK over encrypted iCloud access</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/08/apple-battles-it-out-again-with-uk-over-encrypted-icloud-access</link>
-      <pubDate>Tue, 04 Aug 2026 20:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>SharePoint Flaws Used to Hack Switzerland’s Federal IT Agency</title>
-      <link>https://securityaffairs.com/196625/hacking/sharepoint-flaws-used-to-hack-switzerlands-federal-it-agency.html</link>
-      <pubDate>Tue, 04 Aug 2026 20:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Cyberattacks Against Minnesota Water Systems</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html</link>
-      <pubDate>Tue, 04 Aug 2026 19:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/</link>
-      <pubDate>Tue, 04 Aug 2026 18:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open Secure AI Alliance Expands at Black Hat: What You Should Know</title>
-      <link>https://www.techrepublic.com/article/news-open-secure-ai-alliance-safe-guidelines-black-hat/</link>
-      <pubDate>Tue, 04 Aug 2026 18:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>128 Seconds to disruption: Microsoft Defender stops ransomware at QNET</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/</link>
-      <pubDate>Tue, 04 Aug 2026 17:54:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens</title>
-      <link>https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html</link>
-      <pubDate>Tue, 04 Aug 2026 17:27:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gmail’s New Feature Warns You Before Revealing You Were BCC’d</title>
-      <link>https://www.techrepublic.com/article/news-gmail-bcc-reply-all-warning/</link>
-      <pubDate>Tue, 04 Aug 2026 16:26:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
