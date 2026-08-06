@@ -4,7 +4,77 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 06 Aug 2026 13:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:54:32 +0000</lastBuildDate>
+    <item>
+      <title>ChainDrop: Inside a Self-Propagating npm Worm</title>
+      <link>https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/</link>
+      <pubDate>Thu, 06 Aug 2026 22:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why metaphor may dictate your security strategy</title>
+      <link>https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/</link>
+      <pubDate>Thu, 06 Aug 2026 18:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts</title>
+      <link>https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html</link>
+      <pubDate>Thu, 06 Aug 2026 17:58:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate</title>
+      <link>https://therecord.media/cyberattack-north-carolina-ports</link>
+      <pubDate>Thu, 06 Aug 2026 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs</title>
+      <link>https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html</link>
+      <pubDate>Thu, 06 Aug 2026 17:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian Man Pleads Guilty in Snowflake Extortions</title>
+      <link>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</link>
+      <pubDate>Thu, 06 Aug 2026 17:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exposed SISVISA Database Leaks 102,000 Brazilian Health Surveillance Records</title>
+      <link>https://securityaffairs.com/196766/data-breach/exposed-sisvisa-database-leaks-102000-brazilian-health-surveillance-records.html</link>
+      <pubDate>Thu, 06 Aug 2026 16:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs</title>
+      <link>https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html</link>
+      <pubDate>Thu, 06 Aug 2026 16:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toolkit Hidden Inside Oracle Database Evades Endpoint Tools</title>
+      <link>https://www.infosecurity-magazine.com/news/khunt-toolkit-oracle-database-sql/</link>
+      <pubDate>Thu, 06 Aug 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom Cartel Leader Sentenced to 16 Years in U.S.</title>
+      <link>https://securityaffairs.com/196746/cyber-crime/ransom-cartel-leader-sentenced-to-16-years-in-u-s.html</link>
+      <pubDate>Thu, 06 Aug 2026 15:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories</title>
+      <link>https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html</link>
+      <pubDate>Thu, 06 Aug 2026 15:24:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple WebKit vulnerabilities reveal your IP address, despite Private Relay</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/08/apple-webkit-vulnerabilities-reveal-your-ip-address-despite-private-relay</link>
+      <pubDate>Thu, 06 Aug 2026 14:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>TeamPCP Traced Back to 2020 Cryptojacking Operation</title>
+      <link>https://www.infosecurity-magazine.com/news/teampcp-shadowray-ta-natalstatus/</link>
+      <pubDate>Thu, 06 Aug 2026 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Detection Gap: MITRE ATT&amp;CK T1053.005</title>
+      <link>https://www.security.com/expert-perspectives/detection-gap-mitre-attck-t1053005</link>
+      <pubDate>Thu, 06 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meta Joins OpenAI and Anthropic in Reporting AI Exploit Incident</title>
       <link>https://www.infosecurity-magazine.com/news/meta-ai-exploit-incident/</link>
@@ -21,9 +91,29 @@
       <pubDate>Thu, 06 Aug 2026 12:16:58 +0000</pubDate>
     </item>
     <item>
+      <title>ABB Ability Zenon</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-218-01</link>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Johnson Controls Inc. TL280</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-218-02</link>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medixant RadiAnt DICOM</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-218-01</link>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Violent Physical Crypto Thefts Surge to $30m in Losses</title>
       <link>https://www.infosecurity-magazine.com/news/violent-physical-crypto-thefts/</link>
       <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>At least 12 states report cyberattacks on water systems possibly linked to Iran-backed hackers, sources say</title>
+      <link>https://mcac.maryland.gov/2026/08/at-least-12-states-report-cyberattacks-on-water-systems-possibly-linked-to-iran-backed-hackers-sources-say/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=at-least-12-states-report-cyberattacks-on-water-systems-possibly-linked-to-iran-backed-hackers-sources-say</link>
+      <pubDate>Thu, 06 Aug 2026 11:51:56 +0000</pubDate>
     </item>
     <item>
       <title>CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps</title>
@@ -131,6 +221,16 @@
       <pubDate>Thu, 06 Aug 2026 05:39:46 +0000</pubDate>
     </item>
     <item>
+      <title>Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists</title>
+      <link>https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists</link>
+      <pubDate>Thu, 06 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>State Department says Trump raised cyber scam compound issue with Xi</title>
+      <link>https://therecord.media/trump-xi-southeast-asia-cyber-scam-compounds</link>
+      <pubDate>Thu, 06 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)</title>
       <link>https://isc.sans.edu/diary/rss/33222</link>
       <pubDate>Thu, 06 Aug 2026 02:00:02 +0000</pubDate>
@@ -151,14 +251,14 @@
       <pubDate>Wed, 05 Aug 2026 23:10:20 +0000</pubDate>
     </item>
     <item>
+      <title>Apple Photos Privacy Case Advances, With Up to $32.5 Billion Alleged Exposure</title>
+      <link>https://www.techrepublic.com/article/news-apple-photos-bipa-class-action-appeal/</link>
+      <pubDate>Wed, 05 Aug 2026 22:21:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says</title>
       <link>https://therecord.media/chinese-hackers-telecoms-house</link>
       <pubDate>Wed, 05 Aug 2026 20:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian man pleads guilty to Snowflake hacks that led to 165 breaches</title>
-      <link>https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka</link>
-      <pubDate>Wed, 05 Aug 2026 20:15:00 +0000</pubDate>
     </item>
     <item>
       <title>AI Deception Emerges in Cyber Tests as Agents Target Real People and Systems</title>
@@ -204,106 +304,6 @@
       <title>​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</link>
       <pubDate>Wed, 05 Aug 2026 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brown Health Medical Group-MA Data Breach Exposes Information of 311,000 Individuals</title>
-      <link>https://securityaffairs.com/196681/uncategorized/brown-health-medical-group-ma-data-breach-exposes-information-of-311000-individuals.html</link>
-      <pubDate>Wed, 05 Aug 2026 16:27:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/</link>
-      <pubDate>Wed, 05 Aug 2026 15:48:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt</title>
-      <link>https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html</link>
-      <pubDate>Wed, 05 Aug 2026 15:36:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident</title>
-      <link>https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident</link>
-      <pubDate>Wed, 05 Aug 2026 15:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Open VSX Extensions Harvest Private Repo and CI Data</title>
-      <link>https://www.infosecurity-magazine.com/news/open-vsx-evil-twin-extensions-git/</link>
-      <pubDate>Wed, 05 Aug 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Langflow, Apache Tomcat, and N-able N-central flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/196667/hacking/u-s-cisa-adds-langflow-apache-tomcat-and-n-able-n-central-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Wed, 05 Aug 2026 15:25:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>OnePlus Nord 6 Gets Six Years of Security Updates, Four Android Upgrades</title>
-      <link>https://www.techrepublic.com/article/news-oneplus-nord-6-updates/</link>
-      <pubDate>Wed, 05 Aug 2026 15:15:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports</title>
-      <link>https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html</link>
-      <pubDate>Wed, 05 Aug 2026 15:14:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, August 2026</title>
-      <link>https://asec.ahnlab.com/en/94844/</link>
-      <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI’s GPT-5.6 Tests Show Prompt-Injection Gains and Agent Risks</title>
-      <link>https://www.techrepublic.com/article/news-gpt-5-6-prompt-injection/</link>
-      <pubDate>Wed, 05 Aug 2026 14:48:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paperclip AI Flaws Let Unauthenticated Attackers Run Commands</title>
-      <link>https://www.infosecurity-magazine.com/news/paperclip-ai-vulnerabilities-rce/</link>
-      <pubDate>Wed, 05 Aug 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug</title>
-      <link>https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html</link>
-      <pubDate>Wed, 05 Aug 2026 14:27:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>OVSwrap: 13-Year-Old Linux Kernel Flaw Lets Local Users Become Root</title>
-      <link>https://securityaffairs.com/196657/hacking/ovswrap-13-year-old-linux-kernel-flaw-lets-local-users-become-root.html</link>
-      <pubDate>Wed, 05 Aug 2026 14:24:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents</title>
-      <link>https://therecord.media/iran-cyberattacks-water-treatment</link>
-      <pubDate>Wed, 05 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain</title>
-      <link>https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html</link>
-      <pubDate>Wed, 05 Aug 2026 13:41:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/08/05/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch</title>
-      <link>https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html</link>
-      <pubDate>Wed, 05 Aug 2026 11:43:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk</title>
-      <link>https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html</link>
-      <pubDate>Wed, 05 Aug 2026 11:43:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s synchronized passkeys can be stolen in ‘Pass‑ta‑key’ attacks</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/08/googles-synchronized-passkeys-can-be-stolen-in-pass-ta-key-attacks</link>
-      <pubDate>Wed, 05 Aug 2026 11:11:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup</title>
-      <link>https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html</link>
-      <pubDate>Wed, 05 Aug 2026 11:04:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
