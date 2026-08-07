@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 07 Aug 2026 18:50:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:36:25 +0000</lastBuildDate>
+    <item>
+      <title>Water utilities group partners with DEF CON offshoot for Water Watch Center</title>
+      <link>https://therecord.media/water-watch-center-utilities-def-con-franklin-nrwa</link>
+      <pubDate>Fri, 07 Aug 2026 18:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer</title>
+      <link>https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html</link>
+      <pubDate>Fri, 07 Aug 2026 18:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>11 Reasons Native Telemetry Correlation Matters in XDR</title>
+      <link>https://www.security.com/product-insights/11-reasons-native-telemetry-correlation-matters-xdr</link>
+      <pubDate>Fri, 07 Aug 2026 18:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets</title>
+      <link>https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html</link>
+      <pubDate>Fri, 07 Aug 2026 18:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data</title>
+      <link>https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html</link>
+      <pubDate>Fri, 07 Aug 2026 18:16:13 +0000</pubDate>
+    </item>
     <item>
       <title>US cyber ambassador nominee Cassady confirmed in Senate</title>
       <link>https://therecord.media/adam-cassady-confirmed-senate-cyber-ambassador</link>
@@ -51,11 +76,6 @@
       <pubDate>Fri, 07 Aug 2026 13:36:49 +0000</pubDate>
     </item>
     <item>
-      <title>Levi Strauss says hackers breached employee computers, accessed corporate data</title>
-      <link>https://therecord.media/levis-data-breach-social-engineering</link>
-      <pubDate>Fri, 07 Aug 2026 13:35:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Good, the Bad and the Ugly in Cybersecurity – Week 32</title>
       <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-32-8/</link>
       <pubDate>Fri, 07 Aug 2026 13:00:57 +0000</pubDate>
@@ -64,6 +84,11 @@
       <title>New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP</title>
       <link>https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html</link>
       <pubDate>Fri, 07 Aug 2026 12:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>CPDLC over ATN-B1 Vulnerabilities</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-219-01</link>
+      <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
@@ -156,6 +181,11 @@
       <pubDate>Fri, 07 Aug 2026 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>July 2026 CVE Landscape</title>
+      <link>https://www.recordedfuture.com/blog/july-2026-cve-landscape</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ChainDrop: Inside a Self-Propagating npm Worm</title>
       <link>https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/</link>
       <pubDate>Thu, 06 Aug 2026 22:26:39 +0000</pubDate>
@@ -246,11 +276,6 @@
       <pubDate>Thu, 06 Aug 2026 12:16:58 +0000</pubDate>
     </item>
     <item>
-      <title>ABB Ability Zenon</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-218-01</link>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Johnson Controls Inc. TL280</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-218-02</link>
       <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
@@ -258,6 +283,11 @@
     <item>
       <title>Medixant RadiAnt DICOM</title>
       <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-218-01</link>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB Ability Zenon</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-218-01</link>
       <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -274,36 +304,6 @@
       <title>CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps</title>
       <link>https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html</link>
       <pubDate>Thu, 06 Aug 2026 11:49:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scammers target OnlyFans users with deepfakes</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/08/scammers-target-onlyfans-users-with-deepfakes</link>
-      <pubDate>Thu, 06 Aug 2026 11:38:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses</title>
-      <link>https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html</link>
-      <pubDate>Thu, 06 Aug 2026 11:33:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory</title>
-      <link>https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html</link>
-      <pubDate>Thu, 06 Aug 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adversarial Clothing Designed to Fool Facial Recognition Systems</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html</link>
-      <pubDate>Thu, 06 Aug 2026 11:04:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon and Apple impersonated in “$149.99 unauthorized charge” scam</title>
-      <link>https://www.malwarebytes.com/blog/scams/2026/08/amazon-and-apple-impersonated-in-149-99-unauthorized-charge-scam</link>
-      <pubDate>Thu, 06 Aug 2026 10:55:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic’s Mythos AI used social engineering to target real people</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/08/anthropics-mythos-ai-used-social-engineering-to-target-real-people</link>
-      <pubDate>Thu, 06 Aug 2026 10:45:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
