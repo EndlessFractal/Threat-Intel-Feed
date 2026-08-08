@@ -4,7 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sat, 08 Aug 2026 03:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 04:52:13 +0000</lastBuildDate>
     <item>
       <title>Inside the Modern SOC: The Identity Front Door</title>
       <link>https://unit42.paloaltonetworks.com/soc-identity-front-door/</link>
@@ -136,11 +136,6 @@
       <pubDate>Fri, 07 Aug 2026 10:58:38 +0000</pubDate>
     </item>
     <item>
-      <title>Healthcare and Victim Support Charities Affected by Beacon Cyber Incident</title>
-      <link>https://www.infosecurity-magazine.com/news/healthcare-victim-charities-beacon/</link>
-      <pubDate>Fri, 07 Aug 2026 10:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails</title>
       <link>https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html</link>
       <pubDate>Fri, 07 Aug 2026 10:38:27 +0000</pubDate>
@@ -161,19 +156,9 @@
       <pubDate>Fri, 07 Aug 2026 10:09:54 +0000</pubDate>
     </item>
     <item>
-      <title>Google Links Redact Extortion Group to BlackFile Rebrand</title>
-      <link>https://www.infosecurity-magazine.com/news/redact-extortion-group-blackfile/</link>
-      <pubDate>Fri, 07 Aug 2026 09:40:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access</title>
       <link>https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html</link>
       <pubDate>Fri, 07 Aug 2026 08:52:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Surges in July After Q2 Lull</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-surges-july-q2-lull/</link>
-      <pubDate>Fri, 07 Aug 2026 08:20:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets</title>
@@ -236,11 +221,6 @@
       <pubDate>Thu, 06 Aug 2026 17:13:15 +0000</pubDate>
     </item>
     <item>
-      <title>Canadian Man Pleads Guilty in Snowflake Extortions</title>
-      <link>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</link>
-      <pubDate>Thu, 06 Aug 2026 17:00:56 +0000</pubDate>
-    </item>
-    <item>
       <title>Exposed SISVISA Database Leaks 102,000 Brazilian Health Surveillance Records</title>
       <link>https://securityaffairs.com/196766/data-breach/exposed-sisvisa-database-leaks-102000-brazilian-health-surveillance-records.html</link>
       <pubDate>Thu, 06 Aug 2026 16:44:26 +0000</pubDate>
@@ -254,11 +234,6 @@
       <title>New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs</title>
       <link>https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html</link>
       <pubDate>Thu, 06 Aug 2026 16:17:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toolkit Hidden Inside Oracle Database Evades Endpoint Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/khunt-toolkit-oracle-database-sql/</link>
-      <pubDate>Thu, 06 Aug 2026 15:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransom Cartel Leader Sentenced to 16 Years in U.S.</title>
@@ -276,19 +251,9 @@
       <pubDate>Thu, 06 Aug 2026 14:30:35 +0000</pubDate>
     </item>
     <item>
-      <title>TeamPCP Traced Back to 2020 Cryptojacking Operation</title>
-      <link>https://www.infosecurity-magazine.com/news/teampcp-shadowray-ta-natalstatus/</link>
-      <pubDate>Thu, 06 Aug 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Detection Gap: MITRE ATT&amp;CK T1053.005</title>
       <link>https://www.security.com/expert-perspectives/detection-gap-mitre-attck-t1053005</link>
       <pubDate>Thu, 06 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Joins OpenAI and Anthropic in Reporting AI Exploit Incident</title>
-      <link>https://www.infosecurity-magazine.com/news/meta-ai-exploit-incident/</link>
-      <pubDate>Thu, 06 Aug 2026 13:40:00 +0000</pubDate>
     </item>
     <item>
       <title>Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities</title>
@@ -304,6 +269,41 @@
       <title>Medixant RadiAnt DICOM</title>
       <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-218-01</link>
       <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB Ability Zenon</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-218-01</link>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>At least 12 states report cyberattacks on water systems possibly linked to Iran-backed hackers, sources say</title>
+      <link>https://mcac.maryland.gov/2026/08/at-least-12-states-report-cyberattacks-on-water-systems-possibly-linked-to-iran-backed-hackers-sources-say/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=at-least-12-states-report-cyberattacks-on-water-systems-possibly-linked-to-iran-backed-hackers-sources-say</link>
+      <pubDate>Thu, 06 Aug 2026 11:51:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps</title>
+      <link>https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html</link>
+      <pubDate>Thu, 06 Aug 2026 11:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scammers target OnlyFans users with deepfakes</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/08/scammers-target-onlyfans-users-with-deepfakes</link>
+      <pubDate>Thu, 06 Aug 2026 11:38:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses</title>
+      <link>https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html</link>
+      <pubDate>Thu, 06 Aug 2026 11:33:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory</title>
+      <link>https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html</link>
+      <pubDate>Thu, 06 Aug 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adversarial Clothing Designed to Fool Facial Recognition Systems</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html</link>
+      <pubDate>Thu, 06 Aug 2026 11:04:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
