@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sat, 08 Aug 2026 12:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 14:27:52 +0000</lastBuildDate>
+    <item>
+      <title>Metabase Zero-Day Exploited in the Wild, Exposing Admin Access and Sensitive Data</title>
+      <link>https://securityaffairs.com/196874/hacking/metabase-zero-day-exploited-in-the-wild-exposing-admin-access-and-sensitive-data.html</link>
+      <pubDate>Sat, 08 Aug 2026 11:50:21 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. CISA adds a Progress LoadMaster flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/196863/hacking/u-s-cisa-adds-a-progress-loadmaster-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
@@ -79,6 +84,16 @@
       <title>ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets</title>
       <link>https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html</link>
       <pubDate>Fri, 07 Aug 2026 18:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Ordered to Pay $567M and Overhaul Teen Safety on Facebook, Instagram</title>
+      <link>https://www.techrepublic.com/article/news-meta-567m-teen-safety-ruling/</link>
+      <pubDate>Fri, 07 Aug 2026 18:23:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung’s August Update Patches 56 Security Vulnerabilities Across Galaxy Devices</title>
+      <link>https://www.techrepublic.com/article/news-samsung-august-2026-security-update/</link>
+      <pubDate>Fri, 07 Aug 2026 18:20:08 +0000</pubDate>
     </item>
     <item>
       <title>UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data</title>
@@ -271,6 +286,11 @@
       <pubDate>Thu, 06 Aug 2026 17:13:15 +0000</pubDate>
     </item>
     <item>
+      <title>Canadian Man Pleads Guilty in Snowflake Extortions</title>
+      <link>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</link>
+      <pubDate>Thu, 06 Aug 2026 17:00:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Exposed SISVISA Database Leaks 102,000 Brazilian Health Surveillance Records</title>
       <link>https://securityaffairs.com/196766/data-breach/exposed-sisvisa-database-leaks-102000-brazilian-health-surveillance-records.html</link>
       <pubDate>Thu, 06 Aug 2026 16:44:26 +0000</pubDate>
@@ -284,26 +304,6 @@
       <title>New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs</title>
       <link>https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html</link>
       <pubDate>Thu, 06 Aug 2026 16:17:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toolkit Hidden Inside Oracle Database Evades Endpoint Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/khunt-toolkit-oracle-database-sql/</link>
-      <pubDate>Thu, 06 Aug 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom Cartel Leader Sentenced to 16 Years in U.S.</title>
-      <link>https://securityaffairs.com/196746/cyber-crime/ransom-cartel-leader-sentenced-to-16-years-in-u-s.html</link>
-      <pubDate>Thu, 06 Aug 2026 15:25:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories</title>
-      <link>https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html</link>
-      <pubDate>Thu, 06 Aug 2026 15:24:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple WebKit vulnerabilities reveal your IP address, despite Private Relay</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/08/apple-webkit-vulnerabilities-reveal-your-ip-address-despite-private-relay</link>
-      <pubDate>Thu, 06 Aug 2026 14:30:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
