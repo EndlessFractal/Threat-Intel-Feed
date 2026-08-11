@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 11 Aug 2026 05:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 06:59:39 +0000</lastBuildDate>
+    <item>
+      <title>BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins</title>
+      <link>https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html</link>
+      <pubDate>Tue, 11 Aug 2026 05:48:44 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)</title>
       <link>https://isc.sans.edu/diary/rss/33232</link>
@@ -98,6 +103,21 @@
     <item>
       <title>DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/</link>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 Dark Web Issue Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94918/</link>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 Dark Web Threat Actor Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94917/</link>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94912/</link>
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -284,26 +304,6 @@
       <title>Friday Squid Blogging: Arctic Bobtail Squid Video</title>
       <link>https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html</link>
       <pubDate>Fri, 07 Aug 2026 21:07:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta ordered to pay $942 million over harm to children</title>
-      <link>https://www.malwarebytes.com/blog/uncategorized/2026/08/meta-ordered-to-pay-942-million-over-harm-to-children</link>
-      <pubDate>Fri, 07 Aug 2026 21:04:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer</title>
-      <link>https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html</link>
-      <pubDate>Fri, 07 Aug 2026 18:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>11 Reasons Native Telemetry Correlation Matters in XDR</title>
-      <link>https://www.security.com/product-insights/11-reasons-native-telemetry-correlation-matters-xdr</link>
-      <pubDate>Fri, 07 Aug 2026 18:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets</title>
-      <link>https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html</link>
-      <pubDate>Fri, 07 Aug 2026 18:29:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
