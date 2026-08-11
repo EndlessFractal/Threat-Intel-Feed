@@ -4,7 +4,37 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 11 Aug 2026 16:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:56:40 +0000</lastBuildDate>
+    <item>
+      <title>Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands</title>
+      <link>https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html</link>
+      <pubDate>Tue, 11 Aug 2026 18:36:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/33236</link>
+      <pubDate>Tue, 11 Aug 2026 17:54:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom Patches “Zoomsday” Zero-Click Flaw Enabling Remote Code Execution</title>
+      <link>https://securityaffairs.com/197042/hacking/zoom-patches-zoomsday-zero-click-flaw-enabling-remote-code-execution.html</link>
+      <pubDate>Tue, 11 Aug 2026 17:48:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE</title>
+      <link>https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html</link>
+      <pubDate>Tue, 11 Aug 2026 16:47:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ExfilSquad Targets New Victims, Shares Data via Torrents</title>
+      <link>https://securityaffairs.com/197025/security/exfilsquad-targets-new-victims-shares-data-via-torrents.html</link>
+      <pubDate>Tue, 11 Aug 2026 16:44:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt</title>
+      <link>https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html</link>
+      <pubDate>Tue, 11 Aug 2026 16:35:27 +0000</pubDate>
+    </item>
     <item>
       <title>Valve warns Steam hardware buyers: Expect fake delivery scams</title>
       <link>https://www.malwarebytes.com/blog/data-breaches/2026/08/valve-warns-steam-hardware-buyers-expect-fake-delivery-scams</link>
@@ -274,36 +304,6 @@
       <title>⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors</title>
       <link>https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html</link>
       <pubDate>Mon, 10 Aug 2026 15:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/</link>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2026 Dark Web Issue Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94918/</link>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2026 Dark Web Threat Actor Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94917/</link>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94912/</link>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>77 Counterfeit Open VSX Extensions Collected Developer and CI/CD Data</title>
-      <link>https://www.techrepublic.com/article/news-open-vsx-extension-risk/</link>
-      <pubDate>Mon, 10 Aug 2026 14:52:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Plugins Compromised Without a Single File Change</title>
-      <link>https://www.infosecurity-magazine.com/news/bdthemes-wordpress-poisoned-api/</link>
-      <pubDate>Mon, 10 Aug 2026 14:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
