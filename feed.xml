@@ -4,7 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 12 Aug 2026 18:57:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 20:38:23 +0000</lastBuildDate>
     <item>
       <title>China-Linked Hackers Use AI Agents in Autonomous Attack on Taiwan</title>
       <link>https://securityaffairs.com/197079/apt/china-linked-hackers-use-ai-agents-in-autonomous-attack-on-taiwan.html</link>
@@ -14,6 +14,11 @@
       <title>Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor</title>
       <link>https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html</link>
       <pubDate>Wed, 12 Aug 2026 17:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI: Hackers using social engineering to breach accounts and steal explicit content</title>
+      <link>https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert</link>
+      <pubDate>Wed, 12 Aug 2026 17:28:00 +0000</pubDate>
     </item>
     <item>
       <title>FBI, NCAA Warn Hackers Are Targeting College Athletes’ Private Photos</title>
@@ -66,6 +71,11 @@
       <pubDate>Wed, 12 Aug 2026 13:03:13 +0000</pubDate>
     </item>
     <item>
+      <title>Three intrusions at UK criminal records office went undetected for two years</title>
+      <link>https://therecord.media/uk-criminal-records-office-acro-data-breaches</link>
+      <pubDate>Wed, 12 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CVE-2026-20349: Actively Exploited Cisco ASA and FTD Flaw Enables Remote DoS</title>
       <link>https://socprime.com/blog/cve-2026-20349-actively-exploited-cisco-asa-and-ftd-flaw-enables-remote-dos/</link>
       <pubDate>Wed, 12 Aug 2026 12:55:30 +0000</pubDate>
@@ -76,9 +86,19 @@
       <pubDate>Wed, 12 Aug 2026 12:50:03 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft’s massive Patch Tuesday releases continue as AI reshapes bug discovery</title>
+      <link>https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai</link>
+      <pubDate>Wed, 12 Aug 2026 12:38:00 +0000</pubDate>
+    </item>
+    <item>
       <title>NIST Seeks Public Input on AI-Ready NVD Modernization</title>
       <link>https://www.infosecurity-magazine.com/news/nist-seeks-public-input-ai-nvd/</link>
       <pubDate>Wed, 12 Aug 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign</title>
+      <link>https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug</link>
+      <pubDate>Wed, 12 Aug 2026 12:06:00 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</title>
@@ -191,6 +211,11 @@
       <pubDate>Tue, 11 Aug 2026 20:10:55 +0000</pubDate>
     </item>
     <item>
+      <title>NSA installs DHS lawyer as new general counsel</title>
+      <link>https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel</link>
+      <pubDate>Tue, 11 Aug 2026 20:00:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing</title>
       <link>https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html</link>
       <pubDate>Tue, 11 Aug 2026 19:36:37 +0000</pubDate>
@@ -279,31 +304,6 @@
       <title>OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development</title>
       <link>https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html</link>
       <pubDate>Tue, 11 Aug 2026 13:11:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Love/hate relationship: The AI affair. Young people love AI, but it’s breaking their trust</title>
-      <link>https://www.malwarebytes.com/blog/ai/2026/08/love-hate-relationship-the-ai-affair-young-people-love-ai-but-its-breaking-their-trust</link>
-      <pubDate>Tue, 11 Aug 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices</title>
-      <link>https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html</link>
-      <pubDate>Tue, 11 Aug 2026 12:05:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo</title>
-      <link>https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html</link>
-      <pubDate>Tue, 11 Aug 2026 12:04:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Head Mare APT is exploiting vulnerabilities in an unpatched TrueConf server to deliver PhantomCore and PhantomGraph to video conference participants</title>
-      <link>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</link>
-      <pubDate>Tue, 11 Aug 2026 12:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suisan City, California, Responds to Cyber Incident Amid Wave of US Local Government Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/suisan-cyber-incident-government/</link>
-      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
