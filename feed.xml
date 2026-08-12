@@ -4,7 +4,47 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 12 Aug 2026 12:59:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 14:52:28 +0000</lastBuildDate>
+    <item>
+      <title>WindRelay Malware Pairs With SpyNote RAT in Live-Call Scam</title>
+      <link>https://www.infosecurity-magazine.com/news/windrelay-nfc-relay-spynote-rat/</link>
+      <pubDate>Wed, 12 Aug 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Kernel Process Accounting, (Wed, Aug 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/33240</link>
+      <pubDate>Wed, 12 Aug 2026 14:21:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One</title>
+      <link>https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html</link>
+      <pubDate>Wed, 12 Aug 2026 14:09:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday: Update now to fix 421 flaws, including three zero-days</title>
+      <link>https://www.malwarebytes.com/blog/bugs/2026/08/patch-tuesday-update-now-to-fix-421-flaws-including-three-zero-days</link>
+      <pubDate>Wed, 12 Aug 2026 13:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day</title>
+      <link>https://www.infosecurity-magazine.com/news/lazarus-post-quantum-key-dream-job/</link>
+      <pubDate>Wed, 12 Aug 2026 13:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gunra Ransomware Exploits Fortinet Flaws to Target Critical Infrastructure</title>
+      <link>https://www.infosecurity-magazine.com/news/gunra-ransomware-fortinet-flaws/</link>
+      <pubDate>Wed, 12 Aug 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack Chains: See the Full Story Behind Every Threat</title>
+      <link>https://socprime.com/blog/attack-chains-see-the-full-story-behind-every-threat/</link>
+      <pubDate>Wed, 12 Aug 2026 13:03:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three intrusions at UK criminal records office went undetected for two years</title>
+      <link>https://therecord.media/uk-criminal-records-office-acro-data-breaches</link>
+      <pubDate>Wed, 12 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CVE-2026-20349: Actively Exploited Cisco ASA and FTD Flaw Enables Remote DoS</title>
       <link>https://socprime.com/blog/cve-2026-20349-actively-exploited-cisco-asa-and-ftd-flaw-enables-remote-dos/</link>
@@ -29,6 +69,16 @@
       <title>CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign</title>
       <link>https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug</link>
       <pubDate>Wed, 12 Aug 2026 12:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</title>
+      <link>https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html</link>
+      <pubDate>Wed, 12 Aug 2026 11:47:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise Defenses Recovered at the Edge and Collapsed Inside</title>
+      <link>https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html</link>
+      <pubDate>Wed, 12 Aug 2026 11:41:34 +0000</pubDate>
     </item>
     <item>
       <title>Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws</title>
@@ -89,6 +139,16 @@
       <title>ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access</title>
       <link>https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html</link>
       <pubDate>Wed, 12 Aug 2026 06:41:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>US, South Korea Warn of Growing Gunra Ransomware Threat</title>
+      <link>https://www.techrepublic.com/article/us-south-korea-warn-of-growing-gunra-ransomware-threat/</link>
+      <pubDate>Wed, 12 Aug 2026 06:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom Zero-Click RCE: AI Helped Build an Exploit in Under 24 Hours</title>
+      <link>https://www.techrepublic.com/article/news-zoom-zero-click-rce-zoomsday-ai-exploit/</link>
+      <pubDate>Wed, 12 Aug 2026 06:23:34 +0000</pubDate>
     </item>
     <item>
       <title>Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS</title>
@@ -201,11 +261,6 @@
       <pubDate>Tue, 11 Aug 2026 15:55:11 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe</title>
-      <link>https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate</link>
-      <pubDate>Tue, 11 Aug 2026 15:43:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Six npm Packages Read C2 Addresses From Ethereum Wallet</title>
       <link>https://www.infosecurity-magazine.com/news/npm-packages-ethereum-wallet-c2/</link>
       <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
@@ -249,61 +304,6 @@
       <title>Suisan City, California, Responds to Cyber Incident Amid Wave of US Local Government Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/suisan-cyber-incident-government/</link>
       <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mira Hormone Monitor, Mira Android App</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-223-01</link>
-      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/08/11/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pulsetto Vagus Nerve Stimulator</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-223-02</link>
-      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Johnson Controls C-CURE 9000 and Victor application server (Update A)</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-204-01</link>
-      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>You Can’t Patch Your Way Out of AI</title>
-      <link>https://www.security.com/expert-perspectives/you-cant-patch-your-way-out-ai</link>
-      <pubDate>Tue, 11 Aug 2026 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers</title>
-      <link>https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html</link>
-      <pubDate>Tue, 11 Aug 2026 11:35:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Launches Two-Tier Security Access Program Alongside GPT 5.6 Cyber</title>
-      <link>https://www.infosecurity-magazine.com/news/openai-daybreak-blue-red-gpt-cyber/</link>
-      <pubDate>Tue, 11 Aug 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI for Military Support</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html</link>
-      <pubDate>Tue, 11 Aug 2026 11:18:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11</title>
-      <link>https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html</link>
-      <pubDate>Tue, 11 Aug 2026 10:48:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Logistics Giant Ceva Suffers Data Breach Impacting European Clients</title>
-      <link>https://www.infosecurity-magazine.com/news/logistics-ceva-data-breach/</link>
-      <pubDate>Tue, 11 Aug 2026 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets</title>
-      <link>https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html</link>
-      <pubDate>Tue, 11 Aug 2026 10:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
