@@ -4,7 +4,37 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 12 Aug 2026 10:57:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:59:38 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2026-20349: Actively Exploited Cisco ASA and FTD Flaw Enables Remote DoS</title>
+      <link>https://socprime.com/blog/cve-2026-20349-actively-exploited-cisco-asa-and-ftd-flaw-enables-remote-dos/</link>
+      <pubDate>Wed, 12 Aug 2026 12:55:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-68820: Actively Exploited Windows AFD.sys Zero-Day Enables SYSTEM Privilege Escalation</title>
+      <link>https://socprime.com/blog/cve-2026-68820-actively-exploited-windows/</link>
+      <pubDate>Wed, 12 Aug 2026 12:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft’s massive Patch Tuesday releases continue as AI reshapes bug discovery</title>
+      <link>https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai</link>
+      <pubDate>Wed, 12 Aug 2026 12:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NIST Seeks Public Input on AI-Ready NVD Modernization</title>
+      <link>https://www.infosecurity-magazine.com/news/nist-seeks-public-input-ai-nvd/</link>
+      <pubDate>Wed, 12 Aug 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign</title>
+      <link>https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug</link>
+      <pubDate>Wed, 12 Aug 2026 12:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws</title>
+      <link>https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html</link>
+      <pubDate>Wed, 12 Aug 2026 11:13:03 +0000</pubDate>
+    </item>
     <item>
       <title>Prompt Injections for Defense</title>
       <link>https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html</link>
@@ -74,6 +104,11 @@
       <title>Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities</title>
       <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/</link>
       <pubDate>Tue, 11 Aug 2026 22:21:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Plugs Nearly 400 Security Holes</title>
+      <link>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</link>
+      <pubDate>Tue, 11 Aug 2026 21:28:35 +0000</pubDate>
     </item>
     <item>
       <title>Fake CCleaner installs GhostDesk Chrome spyware</title>
@@ -191,19 +226,9 @@
       <pubDate>Tue, 11 Aug 2026 13:11:23 +0000</pubDate>
     </item>
     <item>
-      <title>Local governments in four states dealing with cyberattacks that have shut down services</title>
-      <link>https://therecord.media/cyberattacks-ransomware-local-governments</link>
-      <pubDate>Tue, 11 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Love/hate relationship: The AI affair. Young people love AI, but it’s breaking their trust</title>
       <link>https://www.malwarebytes.com/blog/ai/2026/08/love-hate-relationship-the-ai-affair-young-people-love-ai-but-its-breaking-their-trust</link>
       <pubDate>Tue, 11 Aug 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kids’ online safety bill faces dim prospects of passage this session despite progress</title>
-      <link>https://therecord.media/kids-online-safety-act-congress</link>
-      <pubDate>Tue, 11 Aug 2026 12:15:00 +0000</pubDate>
     </item>
     <item>
       <title>A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices</title>
@@ -279,31 +304,6 @@
       <title>Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets</title>
       <link>https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html</link>
       <pubDate>Tue, 11 Aug 2026 10:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Project CAV3RN continues: Google Apps Script as C2 relay and DNS-based C2 channel selection</title>
-      <link>https://securelist.com/project-cav3rn-continues/120991/</link>
-      <pubDate>Tue, 11 Aug 2026 10:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimwolf v7: An Evolution of the Kimwolf Botnet</title>
-      <link>https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/</link>
-      <pubDate>Tue, 11 Aug 2026 10:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks</title>
-      <link>https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html</link>
-      <pubDate>Tue, 11 Aug 2026 09:16:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch out for fake TikTok Shops trying to steal your money</title>
-      <link>https://www.malwarebytes.com/blog/scams/2026/08/watch-out-for-fake-tiktok-shops-trying-to-steal-your-money</link>
-      <pubDate>Tue, 11 Aug 2026 09:05:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Pauses Some Development of Astra Model on Security Concerns</title>
-      <link>https://www.infosecurity-magazine.com/news/openai-pauses-development-astra/</link>
-      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
