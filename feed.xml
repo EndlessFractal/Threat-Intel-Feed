@@ -4,7 +4,22 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 13 Aug 2026 14:52:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:53:02 +0000</lastBuildDate>
+    <item>
+      <title>New Mirai variant adds stealth capabilities to notorious botnet code</title>
+      <link>https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code</link>
+      <pubDate>Thu, 13 Aug 2026 15:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exposed AWS Access Key Linked to Data Breach Affecting 1500+ UK Charities</title>
+      <link>https://www.infosecurity-magazine.com/news/exposed-aws-key-data-charities/</link>
+      <pubDate>Thu, 13 Aug 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud Targets 2027 for First Major Post-Quantum Security Milestone</title>
+      <link>https://www.infosecurity-magazine.com/news/google-cloud-post-quantum-roadmap/</link>
+      <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>vCenter Flaw Exploited Just Five Days After Disclosure</title>
       <link>https://www.infosecurity-magazine.com/news/vcenter-cve-2026-59310-exploited/</link>
@@ -19,11 +34,6 @@
       <title>Trump taps cyber firms to go on offensive against criminals</title>
       <link>https://therecord.media/trump-cyber-crime-offensive</link>
       <pubDate>Thu, 13 Aug 2026 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DentaQuest Breach Affects 15 Million in Largest US Health Data Breach Reported in 2026</title>
-      <link>https://www.techrepublic.com/article/news-dentaquest-data-breach-15-million/</link>
-      <pubDate>Thu, 13 Aug 2026 13:14:21 +0000</pubDate>
     </item>
     <item>
       <title>Multi-Functional Linux Botnet “Evooo1Bot”</title>
@@ -44,6 +54,76 @@
       <title>Trump Authorizes Private Sector Participation in Offensive Cyber Operations</title>
       <link>https://www.infosecurity-magazine.com/news/trump-private-offensive-cyber/</link>
       <pubDate>Thu, 13 Aug 2026 12:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy APM Edge Product</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-04</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVEVA Enterprise SCADA</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-01</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Haiwell IoT Cloud HMI Gateway</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-02</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Simcenter Femap</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-11</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Solid Edge</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-12</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANDRITZ HIPASE-250 and 250 SCALA</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-05</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens LOGO! Soft Comfort</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-13</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flow Neuroscience FL-100</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-225-01</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Siveillance Video</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-10</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Johnson Controls Metasys</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-14</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Johnson Controls Inc. Airwall</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-03</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Desigo DXR and PXC Controllers</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-08</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens License Server (SLS)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-07</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Parasolid</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-10-0</link>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New Android malware lets criminals use your bank card in real time</title>
@@ -126,6 +206,11 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Smashing Security podcast #480: This is the AI service you should never sign up to</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-480/</link>
+      <pubDate>Wed, 12 Aug 2026 23:12:28 +0000</pubDate>
+    </item>
+    <item>
       <title>CEVA Logistics Cyberattack Disrupts European Warehouses and Shipments</title>
       <link>https://securityaffairs.com/197086/data-breach/ceva-logistics-cyberattack-disrupts-european-warehouses-and-shipments.html</link>
       <pubDate>Wed, 12 Aug 2026 20:05:35 +0000</pubDate>
@@ -201,11 +286,6 @@
       <pubDate>Wed, 12 Aug 2026 13:03:13 +0000</pubDate>
     </item>
     <item>
-      <title>Three intrusions at UK criminal records office went undetected for two years</title>
-      <link>https://therecord.media/uk-criminal-records-office-acro-data-breaches</link>
-      <pubDate>Wed, 12 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-20349: Actively Exploited Cisco ASA and FTD Flaw Enables Remote DoS</title>
       <link>https://socprime.com/blog/cve-2026-20349-actively-exploited-cisco-asa-and-ftd-flaw-enables-remote-dos/</link>
       <pubDate>Wed, 12 Aug 2026 12:55:30 +0000</pubDate>
@@ -224,86 +304,6 @@
       <title>Shaping the NVD for the Future: We Need Your Feedback on AI-Enabled Vulnerability Management</title>
       <link>https://www.nist.gov/blogs/cybersecurity-insights/shaping-nvd-future-we-need-your-feedback-ai-enabled-vulnerability</link>
       <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</title>
-      <link>https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html</link>
-      <pubDate>Wed, 12 Aug 2026 11:47:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enterprise Defenses Recovered at the Edge and Collapsed Inside</title>
-      <link>https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html</link>
-      <pubDate>Wed, 12 Aug 2026 11:41:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws</title>
-      <link>https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html</link>
-      <pubDate>Wed, 12 Aug 2026 11:13:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prompt Injections for Defense</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html</link>
-      <pubDate>Wed, 12 Aug 2026 09:56:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL</title>
-      <link>https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/</link>
-      <pubDate>Wed, 12 Aug 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access</title>
-      <link>https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html</link>
-      <pubDate>Wed, 12 Aug 2026 09:01:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimwolf v7 Hides DDoS Traffic Behind Chrome Fingerprints and Ethereum</title>
-      <link>https://securityaffairs.com/197070/malware/kimwolf-v7-hides-ddos-traffic-behind-chrome-fingerprints-and-ethereum.html</link>
-      <pubDate>Wed, 12 Aug 2026 08:27:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weekly Update 516: Live From Vietnam</title>
-      <link>https://www.troyhunt.com/weekly-update-516/</link>
-      <pubDate>Wed, 12 Aug 2026 08:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes 400 Flaws on August Patch Tuesday</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-fixes-400-flaws-august/</link>
-      <pubDate>Wed, 12 Aug 2026 08:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShieldBreak: New Windows Zero-Day Bypasses Microsoft’s RoguePlanet Patch</title>
-      <link>https://securityaffairs.com/197063/hacking/shieldbreak-new-windows-zero-day-bypasses-microsofts-rogueplanet-patch.html</link>
-      <pubDate>Wed, 12 Aug 2026 08:07:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations</title>
-      <link>https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html</link>
-      <pubDate>Wed, 12 Aug 2026 08:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code</title>
-      <link>https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html</link>
-      <pubDate>Wed, 12 Aug 2026 07:31:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday for August 2026 Fixed a Zero-Day and Wormable RCE</title>
-      <link>https://securityaffairs.com/197048/security/microsoft-patch-tuesday-for-august-2026-fixed-a-zero-day-and-wormable-rce.html</link>
-      <pubDate>Wed, 12 Aug 2026 06:49:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access</title>
-      <link>https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html</link>
-      <pubDate>Wed, 12 Aug 2026 06:41:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>US, South Korea Warn of Growing Gunra Ransomware Threat</title>
-      <link>https://www.techrepublic.com/article/us-south-korea-warn-of-growing-gunra-ransomware-threat/</link>
-      <pubDate>Wed, 12 Aug 2026 06:39:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoom Zero-Click RCE: AI Helped Build an Exploit in Under 24 Hours</title>
-      <link>https://www.techrepublic.com/article/news-zoom-zero-click-rce-zoomsday-ai-exploit/</link>
-      <pubDate>Wed, 12 Aug 2026 06:23:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
