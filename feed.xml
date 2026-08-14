@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 14 Aug 2026 09:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:54:31 +0000</lastBuildDate>
+    <item>
+      <title>Novel macOS Infostealer AmnesiaStealer Spread via ClickFix</title>
+      <link>https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/</link>
+      <pubDate>Fri, 14 Aug 2026 10:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit</title>
       <link>https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</link>
@@ -299,11 +304,6 @@
       <title>WindRelay Malware Pairs With SpyNote RAT in Live-Call Scam</title>
       <link>https://www.infosecurity-magazine.com/news/windrelay-nfc-relay-spynote-rat/</link>
       <pubDate>Wed, 12 Aug 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Kernel Process Accounting, (Wed, Aug 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/33240</link>
-      <pubDate>Wed, 12 Aug 2026 14:21:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
