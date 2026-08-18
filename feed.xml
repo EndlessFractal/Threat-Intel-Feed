@@ -4,7 +4,27 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 18 Aug 2026 16:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:31:54 +0000</lastBuildDate>
+    <item>
+      <title>More than 200 victims of Medusa ransomware identified over the last year, CISA says</title>
+      <link>https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa</link>
+      <pubDate>Tue, 18 Aug 2026 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Project noRecognition: Teaching AI to Fool Surveillance Cameras</title>
+      <link>https://securityaffairs.com/197465/ai/project-norecognition-teaching-ai-to-fool-surveillance-cameras.html</link>
+      <pubDate>Tue, 18 Aug 2026 17:05:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Berlin cuts two state ministries off government network after security breach</title>
+      <link>https://therecord.media/berlin-cuts-two-state-ministries-off-government-breach</link>
+      <pubDate>Tue, 18 Aug 2026 16:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>University of Texas forced to take systems offline in San Antonio after cyberattack</title>
+      <link>https://therecord.media/university-of-texas-forced-to-take-systems-offline-cyberattack-san-antonio</link>
+      <pubDate>Tue, 18 Aug 2026 16:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>Wiz AI Agent Finds Critical Snowflake GitHub Repo Flaw Advanced Security Missed</title>
       <link>https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/</link>
@@ -49,6 +69,11 @@
       <title>FBI Pegasus Records Expose a Blind Spot in US Spyware Oversight</title>
       <link>https://www.techrepublic.com/article/news-fbi-pegasus-spyware-oversight/</link>
       <pubDate>Tue, 18 Aug 2026 12:05:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/08/18/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Malcolm</title>
@@ -136,6 +161,11 @@
       <pubDate>Tue, 18 Aug 2026 02:00:03 +0000</pubDate>
     </item>
     <item>
+      <title>CopyCop Targets AI Investment in Armenia</title>
+      <link>https://www.recordedfuture.com/blog/copycop-targets-ai-investment</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>PurpleDelta's Fraudulent Employment Operations</title>
       <link>https://www.recordedfuture.com/research/purpledelta-fraudulent-employment-operations</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
@@ -154,11 +184,6 @@
       <title>Apple Patches iOS and macOS, (Mon, Aug 17th)</title>
       <link>https://isc.sans.edu/diary/rss/33254</link>
       <pubDate>Mon, 17 Aug 2026 20:26:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach</title>
-      <link>https://therecord.media/financial-info-leak-debt-consolidator</link>
-      <pubDate>Mon, 17 Aug 2026 20:05:00 +0000</pubDate>
     </item>
     <item>
       <title>Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection</title>
@@ -186,11 +211,6 @@
       <pubDate>Mon, 17 Aug 2026 17:09:53 +0000</pubDate>
     </item>
     <item>
-      <title>SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted</title>
-      <link>https://therecord.media/safepal-crypto-hardware-breach</link>
-      <pubDate>Mon, 17 Aug 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>US Courts To Begin Publishing Spyware Records From 2029</title>
       <link>https://www.techrepublic.com/article/news-us-courts-government-spyware-wiretap-report/</link>
       <pubDate>Mon, 17 Aug 2026 16:47:30 +0000</pubDate>
@@ -199,11 +219,6 @@
       <title>France’s Top Court Blocks Under-15 Social Media Ban</title>
       <link>https://www.techrepublic.com/article/news-france-under-15-social-media-ban-court-emea/</link>
       <pubDate>Mon, 17 Aug 2026 16:39:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Irregular faces criticism over ‘spin’ in AI hacking postmortem</title>
-      <link>https://therecord.media/irregular-ai-hacking-model-blog</link>
-      <pubDate>Mon, 17 Aug 2026 16:15:00 +0000</pubDate>
     </item>
     <item>
       <title>UNISOC Modem Flaw Enables Remote Code Execution via Video Calls</title>
@@ -289,21 +304,6 @@
       <title>Update your Mac: Screen Sharing vulnerability exploited in the wild</title>
       <link>https://www.malwarebytes.com/blog/bugs/2026/08/update-your-mac-screen-sharing-vulnerability-exploited-in-the-wild</link>
       <pubDate>Mon, 17 Aug 2026 10:56:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access</title>
-      <link>https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html</link>
-      <pubDate>Mon, 17 Aug 2026 10:52:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>No Apologies for Symantec CBX</title>
-      <link>https://www.security.com/expert-perspectives/no-apologies-symantec-cbx</link>
-      <pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies</title>
-      <link>https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html</link>
-      <pubDate>Mon, 17 Aug 2026 09:29:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
