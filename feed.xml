@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 19 Aug 2026 18:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:21:41 +0000</lastBuildDate>
+    <item>
+      <title>Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second</title>
+      <link>https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html</link>
+      <pubDate>Wed, 19 Aug 2026 19:02:40 +0000</pubDate>
+    </item>
     <item>
       <title>Electronic health record company CareCloud says 3.7 million people affected by breach</title>
       <link>https://therecord.media/electronic-health-record-company-carecloud-data-breach</link>
@@ -16,6 +21,11 @@
       <pubDate>Wed, 19 Aug 2026 18:08:35 +0000</pubDate>
     </item>
     <item>
+      <title>OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior</title>
+      <link>https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html</link>
+      <pubDate>Wed, 19 Aug 2026 18:06:44 +0000</pubDate>
+    </item>
+    <item>
       <title>NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology</title>
       <link>https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure</link>
       <pubDate>Wed, 19 Aug 2026 17:58:00 +0000</pubDate>
@@ -24,6 +34,11 @@
       <title>Inside Operation CameraSwarm: How One Actor Took Over 14,000 Dahua Cameras</title>
       <link>https://securityaffairs.com/197527/iot/inside-operation-cameraswarm-how-one-actor-took-over-14000-dahua-cameras.html</link>
       <pubDate>Wed, 19 Aug 2026 17:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
+      <pubDate>Wed, 19 Aug 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2026-19478: Critical GitLab GraphQL Flaw Enables Unauthenticated Data Modification</title>
@@ -81,13 +96,18 @@
       <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>OpenAI Tightens AI Safeguards Following Hugging Face Incident</title>
+      <link>https://www.infosecurity-magazine.com/news/openai-tightens-ai-safeguards/</link>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Defending Against an Active Threat to Siemens S7 Series PLCs</title>
       <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a</link>
       <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI Tightens AI Safeguards Following Hugging Face Incident</title>
-      <link>https://www.infosecurity-magazine.com/news/openai-tightens-ai-safeguards/</link>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -169,11 +189,6 @@
       <title>50,000 Stripe Secrets Leaked in Public Code</title>
       <link>https://securityaffairs.com/197504/cyber-crime/50000-stripe-secrets-leaked-in-public-code.html</link>
       <pubDate>Wed, 19 Aug 2026 08:33:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prison for data analyst who tried to extort $2.5 million from his employer</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer</link>
-      <pubDate>Wed, 19 Aug 2026 07:26:50 +0000</pubDate>
     </item>
     <item>
       <title>U.S. CISA adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft IKE flaws to its Known Exploited Vulnerabilities catalog</title>
@@ -289,21 +304,6 @@
       <title>FBI Pegasus Records Expose a Blind Spot in US Spyware Oversight</title>
       <link>https://www.techrepublic.com/article/news-fbi-pegasus-spyware-oversight/</link>
       <pubDate>Tue, 18 Aug 2026 12:05:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/08/18/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Malcolm</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-230-01</link>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Simcenter Nastran</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-230-02</link>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
