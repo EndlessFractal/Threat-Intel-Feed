@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 19 Aug 2026 14:28:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:26:07 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2026-19478: Critical GitLab GraphQL Flaw Enables Unauthenticated Data Modification</title>
+      <link>https://socprime.com/blog/cve-2026-19478-analysis/</link>
+      <pubDate>Wed, 19 Aug 2026 16:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-15748: Critical Forminator WordPress Flaw Enables Unauthenticated RCE</title>
+      <link>https://socprime.com/blog/cve-2026-15748-analysis/</link>
+      <pubDate>Wed, 19 Aug 2026 15:35:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusive: Linux Foundation's Akrites to Go Live in September</title>
+      <link>https://www.infosecurity-magazine.com/news/linux-foundations-akrites-go-live/</link>
+      <pubDate>Wed, 19 Aug 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sideloading on Android: What it is, why it’s risky, and how to do it more safely</title>
+      <link>https://www.malwarebytes.com/blog/how-to/2026/08/sideloading-on-android-what-it-is-why-its-risky-and-how-to-do-it-more-safely</link>
+      <pubDate>Wed, 19 Aug 2026 15:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>MaaS Campaign Combines ClickFix, ErrTraffic and Cruciferra</title>
+      <link>https://www.infosecurity-magazine.com/news/maas-clickfix-errtraffic-cruciferra/</link>
+      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)</title>
       <link>https://isc.sans.edu/diary/rss/33260</link>
@@ -38,6 +63,11 @@
     <item>
       <title>OpenAI Tightens AI Safeguards Following Hugging Face Incident</title>
       <link>https://www.infosecurity-magazine.com/news/openai-tightens-ai-safeguards/</link>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defending Against an Active Threat to Siemens S7 Series PLCs</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a</link>
       <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -146,9 +176,19 @@
       <pubDate>Wed, 19 Aug 2026 02:00:03 +0000</pubDate>
     </item>
     <item>
+      <title>Recorded Future Launches 6 New Capabilities for Third-Party Risk</title>
+      <link>https://www.recordedfuture.com/blog/native-risk-ratings</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Fake AI, real malware: Attackers impersonating AI brands</title>
       <link>https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands</link>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android 17 QPR2 Beta 3: Google Adds Customization and New Scam Defenses</title>
+      <link>https://www.techrepublic.com/article/news-android-17-qpr2-beta-3-scam-protection/</link>
+      <pubDate>Tue, 18 Aug 2026 22:25:43 +0000</pubDate>
     </item>
     <item>
       <title>Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)</title>
@@ -264,46 +304,6 @@
       <title>16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets</title>
       <link>https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html</link>
       <pubDate>Tue, 18 Aug 2026 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Incident Disrupts Student Services at UT San Antonio</title>
-      <link>https://www.infosecurity-magazine.com/news/cyber-incident-ut-san-antonio/</link>
-      <pubDate>Tue, 18 Aug 2026 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Be careful what you put in “anyone with the link” Google Docs</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/08/be-careful-what-you-put-in-anyone-with-the-link-google-docs</link>
-      <pubDate>Tue, 18 Aug 2026 11:15:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLMs and Contextual Integrity</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html</link>
-      <pubDate>Tue, 18 Aug 2026 10:40:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heights Finance data breach: What customers need to know</title>
-      <link>https://www.malwarebytes.com/blog/data-breaches/2026/08/heights-finance-data-breach-what-customers-need-to-know</link>
-      <pubDate>Tue, 18 Aug 2026 10:36:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three-quarters of Ransomware Attacks Target Mid-Market Firms</title>
-      <link>https://www.infosecurity-magazine.com/news/threequarters-ransomware-attacks/</link>
-      <pubDate>Tue, 18 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers</title>
-      <link>https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html</link>
-      <pubDate>Tue, 18 Aug 2026 09:10:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab Patches Critical Unauthenticated GraphQL Vulnerability</title>
-      <link>https://securityaffairs.com/197454/hacking/gitlab-patches-critical-unauthenticated-graphql-vulnerability.html</link>
-      <pubDate>Tue, 18 Aug 2026 08:44:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Legal Regulator Raises AI Misuse Concerns</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/</link>
-      <pubDate>Tue, 18 Aug 2026 08:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
