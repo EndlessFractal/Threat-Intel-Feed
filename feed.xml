@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 19 Aug 2026 22:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:00:13 +0000</lastBuildDate>
+    <item>
+      <title>Smashing Security podcast #481: Never say this to a robot dog</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-481/</link>
+      <pubDate>Wed, 19 Aug 2026 23:10:23 +0000</pubDate>
+    </item>
     <item>
       <title>Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second</title>
       <link>https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html</link>
@@ -191,6 +196,11 @@
       <pubDate>Wed, 19 Aug 2026 08:33:04 +0000</pubDate>
     </item>
     <item>
+      <title>Prison for data analyst who tried to extort $2.5 million from his employer</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer</link>
+      <pubDate>Wed, 19 Aug 2026 07:26:50 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. CISA adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft IKE flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/197490/hacking/u-s-cisa-adds-apple-macos-microsoft-sharepoint-broadcom-vmware-vcenter-and-microsoft-ike-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Wed, 19 Aug 2026 07:19:31 +0000</pubDate>
@@ -294,16 +304,6 @@
       <title>AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files</title>
       <link>https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html</link>
       <pubDate>Tue, 18 Aug 2026 12:38:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks</title>
-      <link>https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html</link>
-      <pubDate>Tue, 18 Aug 2026 12:38:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Pegasus Records Expose a Blind Spot in US Spyware Oversight</title>
-      <link>https://www.techrepublic.com/article/news-fbi-pegasus-spyware-oversight/</link>
-      <pubDate>Tue, 18 Aug 2026 12:05:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
