@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 21 Aug 2026 04:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:38:32 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
+      <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
+      <pubDate>Fri, 21 Aug 2026 06:06:11 +0000</pubDate>
+    </item>
     <item>
       <title>Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)</title>
       <link>https://isc.sans.edu/diary/rss/33272</link>
@@ -61,7 +66,7 @@
       <pubDate>Thu, 20 Aug 2026 17:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More</title>
+      <title>ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More</title>
       <link>https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html</link>
       <pubDate>Thu, 20 Aug 2026 17:23:48 +0000</pubDate>
     </item>
@@ -261,11 +266,6 @@
       <pubDate>Thu, 20 Aug 2026 02:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>Smashing Security podcast #481: Never say this to a robot dog</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-481/</link>
-      <pubDate>Wed, 19 Aug 2026 23:10:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second</title>
       <link>https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html</link>
       <pubDate>Wed, 19 Aug 2026 19:02:40 +0000</pubDate>
@@ -296,14 +296,14 @@
       <pubDate>Wed, 19 Aug 2026 17:35:26 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
-      <pubDate>Wed, 19 Aug 2026 17:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-19478: Critical GitLab GraphQL Flaw Enables Unauthenticated Data Modification</title>
       <link>https://socprime.com/blog/cve-2026-19478-analysis/</link>
       <pubDate>Wed, 19 Aug 2026 16:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-15748: Critical Forminator WordPress Flaw Enables Unauthenticated RCE</title>
+      <link>https://socprime.com/blog/cve-2026-15748-analysis/</link>
+      <pubDate>Wed, 19 Aug 2026 15:35:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
