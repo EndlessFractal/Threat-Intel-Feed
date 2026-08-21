@@ -4,7 +4,27 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 21 Aug 2026 06:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:34:56 +0000</lastBuildDate>
+    <item>
+      <title>The invisible passenger in your car</title>
+      <link>https://securelist.com/android-head-unit-malware/121106/</link>
+      <pubDate>Fri, 21 Aug 2026 08:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Job Ads Requiring AI Skills Double</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/</link>
+      <pubDate>Fri, 21 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cl0p Targets 40+ Organizations Through PTC Windchill Flaw</title>
+      <link>https://securityaffairs.com/197587/cyber-crime/cl0p-targets-40-organizations-through-ptc-windchill-flaw.html</link>
+      <pubDate>Fri, 21 Aug 2026 07:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure</title>
+      <link>https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html</link>
+      <pubDate>Fri, 21 Aug 2026 07:04:25 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
       <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
@@ -94,11 +114,6 @@
       <title>New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data</title>
       <link>https://thehackernews.com/2026/08/new-cryptographic-context-injection.html</link>
       <pubDate>Thu, 20 Aug 2026 14:36:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>JFrog Artifactory Flaws Enable Software Supply Chain Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/jfrog-flaws-software-supply-chain/</link>
-      <pubDate>Thu, 20 Aug 2026 14:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE</title>
@@ -266,6 +281,11 @@
       <pubDate>Thu, 20 Aug 2026 02:00:03 +0000</pubDate>
     </item>
     <item>
+      <title>Smashing Security podcast #481: Never say this to a robot dog</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-481/</link>
+      <pubDate>Wed, 19 Aug 2026 23:10:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second</title>
       <link>https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html</link>
       <pubDate>Wed, 19 Aug 2026 19:02:40 +0000</pubDate>
@@ -284,26 +304,6 @@
       <title>OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior</title>
       <link>https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html</link>
       <pubDate>Wed, 19 Aug 2026 18:06:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology</title>
-      <link>https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure</link>
-      <pubDate>Wed, 19 Aug 2026 17:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside Operation CameraSwarm: How One Actor Took Over 14,000 Dahua Cameras</title>
-      <link>https://securityaffairs.com/197527/iot/inside-operation-cameraswarm-how-one-actor-took-over-14000-dahua-cameras.html</link>
-      <pubDate>Wed, 19 Aug 2026 17:35:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-19478: Critical GitLab GraphQL Flaw Enables Unauthenticated Data Modification</title>
-      <link>https://socprime.com/blog/cve-2026-19478-analysis/</link>
-      <pubDate>Wed, 19 Aug 2026 16:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-15748: Critical Forminator WordPress Flaw Enables Unauthenticated RCE</title>
-      <link>https://socprime.com/blog/cve-2026-15748-analysis/</link>
-      <pubDate>Wed, 19 Aug 2026 15:35:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
