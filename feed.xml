@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 21 Aug 2026 16:28:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 18:30:26 +0000</lastBuildDate>
+    <item>
+      <title>AI Is Learning to Write Genetic Code</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html</link>
+      <pubDate>Fri, 21 Aug 2026 16:51:50 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. Bank says breach claims related to fourth-party incident</title>
       <link>https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident</link>
@@ -116,7 +121,7 @@
       <pubDate>Fri, 21 Aug 2026 07:04:25 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
+      <title>Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution</title>
       <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
       <pubDate>Fri, 21 Aug 2026 06:06:11 +0000</pubDate>
     </item>
@@ -299,11 +304,6 @@
       <title>CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification</title>
       <link>https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html</link>
       <pubDate>Thu, 20 Aug 2026 11:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices</title>
-      <link>https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html</link>
-      <pubDate>Thu, 20 Aug 2026 11:26:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
