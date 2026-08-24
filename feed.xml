@@ -4,7 +4,42 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 24 Aug 2026 10:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:41:04 +0000</lastBuildDate>
+    <item>
+      <title>Hackers infecting Android car systems to build proxy botnet</title>
+      <link>https://therecord.media/android-botnet-china-hackers</link>
+      <pubDate>Mon, 24 Aug 2026 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt</title>
+      <link>https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html</link>
+      <pubDate>Mon, 24 Aug 2026 11:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account</title>
+      <link>https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html</link>
+      <pubDate>Mon, 24 Aug 2026 11:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor</title>
+      <link>https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html</link>
+      <pubDate>Mon, 24 Aug 2026 11:51:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tracking PavinLoader across ClickFix and fake download campaigns</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/08/tracking-pavinloader-across-clickfix-and-fake-download-campaigns</link>
+      <pubDate>Mon, 24 Aug 2026 11:43:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk</title>
+      <link>https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html</link>
+      <pubDate>Mon, 24 Aug 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Criminal Deception in Silicon Valley</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html</link>
+      <pubDate>Mon, 24 Aug 2026 10:38:29 +0000</pubDate>
+    </item>
     <item>
       <title>Wake-Up Call for CNI After Iranian Attack Shuts Down UK Power Plant</title>
       <link>https://www.infosecurity-magazine.com/news/cni-iranian-attack-shuts-uk-power/</link>
@@ -59,6 +94,11 @@
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 111</title>
       <link>https://securityaffairs.com/197743/security/security-affairs-malware-newsletter-round-111.html</link>
       <pubDate>Sun, 23 Aug 2026 17:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 Threat Trend Report on Ransomware</title>
+      <link>https://asec.ahnlab.com/en/95112/</link>
+      <pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Slopsquatting in the Supply Chain: Weaponized AI Hallucinations</title>
@@ -261,49 +301,9 @@
       <pubDate>Thu, 20 Aug 2026 19:59:19 +0000</pubDate>
     </item>
     <item>
-      <title>China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware</title>
-      <link>https://therecord.media/china-cyber-espionage-central-asia</link>
-      <pubDate>Thu, 20 Aug 2026 19:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Amazon’s Order Email Privacy Change Creates a Potential Phishing Trade-Off</title>
       <link>https://www.techrepublic.com/article/news-amazon-order-email-privacy-phishing-trade-off/</link>
       <pubDate>Thu, 20 Aug 2026 18:47:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Cyber missing the Marque?</title>
-      <link>https://blog.talosintelligence.com/is-cyber-missing-the-marque/</link>
-      <pubDate>Thu, 20 Aug 2026 18:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detailed Timeline of OpenAI’s Cyberattack on Hugging Face</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html</link>
-      <pubDate>Thu, 20 Aug 2026 17:44:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More</title>
-      <link>https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html</link>
-      <pubDate>Thu, 20 Aug 2026 17:23:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure</title>
-      <link>https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html</link>
-      <pubDate>Thu, 20 Aug 2026 16:59:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Hotpatching Explained: How Much Does It Really Reduce Reboots?</title>
-      <link>https://www.techrepublic.com/article/news-windows-11-hotpatching-reboots/</link>
-      <pubDate>Thu, 20 Aug 2026 15:22:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-19490: Critical Citrix NetScaler Authentication Bypass Exposes Enterprise Gateways</title>
-      <link>https://socprime.com/blog/cve-2026-19490-analysis/</link>
-      <pubDate>Thu, 20 Aug 2026 15:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT for Teens tackles risky chats and homework shortcuts</title>
-      <link>https://www.malwarebytes.com/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts</link>
-      <pubDate>Thu, 20 Aug 2026 14:44:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
