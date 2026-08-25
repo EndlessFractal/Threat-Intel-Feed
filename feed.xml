@@ -4,7 +4,17 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 25 Aug 2026 18:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:23:27 +0000</lastBuildDate>
+    <item>
+      <title>Employee benefits platform Paylogix says hackers stole financial and health data</title>
+      <link>https://therecord.media/paylogix-cyberattack-akira-ransomware</link>
+      <pubDate>Tue, 25 Aug 2026 18:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches</title>
+      <link>https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html</link>
+      <pubDate>Tue, 25 Aug 2026 18:17:17 +0000</pubDate>
+    </item>
     <item>
       <title>Norway ’s Digital Government Infrastructure Hit by a new DDoS Attack</title>
       <link>https://securityaffairs.com/197826/cyber-warfare-2/norway-s-digital-government-infrastructure-hit-by-a-new-ddos-attack.html</link>
@@ -76,13 +86,48 @@
       <pubDate>Tue, 25 Aug 2026 12:43:51 +0000</pubDate>
     </item>
     <item>
+      <title>Bendix EC80 Brake ECU</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-05</link>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FURUNO FA-50 Class B AIS Transponder</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-07</link>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC IoT2050 Advanced</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-03</link>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoneminder</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-02</link>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PayRange API</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-04</link>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2026/08/25/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Rently Smart Home</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-01</link>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A Tale of Two SOCs: Insights From Two Red Team Assessments</title>
       <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-237a</link>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ebyte NE2-D11</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-06</link>
       <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -196,11 +241,6 @@
       <pubDate>Mon, 24 Aug 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>New Zealand to pursue social media ban for children under 16</title>
-      <link>https://therecord.media/new-zealand-to-pursue-social-media-ban-for-children</link>
-      <pubDate>Mon, 24 Aug 2026 20:36:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Apollo Confirms Data Breach Amid Cyberattacks Targeting Financial Firms</title>
       <link>https://www.techrepublic.com/article/news-apollo-data-breach-financial-firms-social-engineering/</link>
       <pubDate>Mon, 24 Aug 2026 18:00:19 +0000</pubDate>
@@ -236,6 +276,11 @@
       <pubDate>Mon, 24 Aug 2026 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials</link>
+      <pubDate>Mon, 24 Aug 2026 15:00:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Fake Codex Download Uses Google Sites to Deliver macOS Malware</title>
       <link>https://www.infosecurity-magazine.com/news/fake-codex-download-google-sites/</link>
       <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
@@ -259,51 +304,6 @@
       <title>Microsoft Exchange Server SE CU1 Delayed Amid AI-Assisted Security Reviews</title>
       <link>https://www.techrepublic.com/article/news-exchange-server-se-cu1-delay/</link>
       <pubDate>Mon, 24 Aug 2026 14:34:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More</title>
-      <link>https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html</link>
-      <pubDate>Mon, 24 Aug 2026 14:32:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>AliExpress caught using silent audio to fingerprint visitors’ browsers</title>
-      <link>https://www.malwarebytes.com/blog/privacy/2026/08/aliexpress-caught-using-silent-audio-to-fingerprint-visitors-browsers</link>
-      <pubDate>Mon, 24 Aug 2026 14:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT for Teens Adds New Safeguards — but Safety Gaps Remain</title>
-      <link>https://www.techrepublic.com/article/news-chatgpt-teens-safety-gaps/</link>
-      <pubDate>Mon, 24 Aug 2026 13:59:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>ToxicPanda 2.0 can take over your Android phone and banking apps</title>
-      <link>https://www.malwarebytes.com/blog/mobile/2026/08/toxicpanda-2-0-can-take-over-your-android-phone-and-banking-apps</link>
-      <pubDate>Mon, 24 Aug 2026 13:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doubloon Dredger Abuses Notion to Harvest Authentication Tokens</title>
-      <link>https://www.infosecurity-magazine.com/news/doubloon-dredger-notion/</link>
-      <pubDate>Mon, 24 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords</title>
-      <link>https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html</link>
-      <pubDate>Mon, 24 Aug 2026 12:35:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/08/24/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account</title>
-      <link>https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html</link>
-      <pubDate>Mon, 24 Aug 2026 11:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor</title>
-      <link>https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html</link>
-      <pubDate>Mon, 24 Aug 2026 11:51:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
