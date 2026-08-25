@@ -4,7 +4,22 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 25 Aug 2026 06:38:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:36:48 +0000</lastBuildDate>
+    <item>
+      <title>TikTok phishing: How to spot fake login and verification pages</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/08/tiktok-phishing-how-to-spot-fake-login-and-verification-pages</link>
+      <pubDate>Tue, 25 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Minecraft Sites Are Still Spreading WeedHack After C2 Takedown</title>
+      <link>https://securityaffairs.com/197784/malware/fake-minecraft-sites-are-still-spreading-weedhack-after-c2-takedown.html</link>
+      <pubDate>Tue, 25 Aug 2026 07:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data</title>
+      <link>https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html</link>
+      <pubDate>Tue, 25 Aug 2026 06:12:35 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)</title>
       <link>https://isc.sans.edu/diary/rss/33278</link>
@@ -56,6 +71,11 @@
       <pubDate>Mon, 24 Aug 2026 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials</link>
+      <pubDate>Mon, 24 Aug 2026 15:00:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Fake Codex Download Uses Google Sites to Deliver macOS Malware</title>
       <link>https://www.infosecurity-magazine.com/news/fake-codex-download-google-sites/</link>
       <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
@@ -104,6 +124,11 @@
       <title>Doubloon Dredger Abuses Notion to Harvest Authentication Tokens</title>
       <link>https://www.infosecurity-magazine.com/news/doubloon-dredger-notion/</link>
       <pubDate>Mon, 24 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gunra ransomware: what you need to know</title>
+      <link>https://www.fortra.com/blog/gunra-ransomware-what-you-need-know</link>
+      <pubDate>Mon, 24 Aug 2026 12:52:37 +0000</pubDate>
     </item>
     <item>
       <title>WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords</title>
@@ -241,11 +266,6 @@
       <pubDate>Sat, 22 Aug 2026 14:32:41 +0000</pubDate>
     </item>
     <item>
-      <title>Malware Hijacks Android Car Head Units</title>
-      <link>https://securityaffairs.com/197700/hacking/malware-hijacks-android-car-head-units.html</link>
-      <pubDate>Sat, 22 Aug 2026 08:55:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain</title>
       <link>https://unit42.paloaltonetworks.com/sdlc-supply-chain/</link>
       <pubDate>Fri, 21 Aug 2026 23:00:21 +0000</pubDate>
@@ -284,26 +304,6 @@
       <title>Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet</title>
       <link>https://thehackernews.com/2026/08/android-car-malware-spreads-through.html</link>
       <pubDate>Fri, 21 Aug 2026 15:41:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zombie Card: An expired Visa credit card can be used for purchases</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/08/zombie-card-an-expired-visa-credit-card-can-be-used-for-purchases</link>
-      <pubDate>Fri, 21 Aug 2026 14:03:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 34</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-8/</link>
-      <pubDate>Fri, 21 Aug 2026 13:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Tied to Rust Supply Chain Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/north-korean-rust-supply-chain/</link>
-      <pubDate>Fri, 21 Aug 2026 12:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Agent Tesla Malware Variant Boosts Evasion Capabilities</title>
-      <link>https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/</link>
-      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
