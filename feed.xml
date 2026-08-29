@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sat, 29 Aug 2026 01:25:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 08:35:08 +0000</lastBuildDate>
+    <item>
+      <title>TerminalFix campaign deploys a reverse tunnel through multistage intrusion</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</link>
+      <pubDate>Sat, 29 Aug 2026 03:43:27 +0000</pubDate>
+    </item>
     <item>
       <title>Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety</title>
       <link>https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/</link>
@@ -298,11 +303,6 @@
     <item>
       <title>All-Line Equipment Company Fuel-Boss</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-02</link>
-      <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ebyte NA111-M</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-05</link>
       <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
