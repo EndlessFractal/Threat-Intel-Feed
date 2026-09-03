@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 03 Sep 2026 19:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:13:15 +0000</lastBuildDate>
+    <item>
+      <title>Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models</title>
+      <link>https://blog.cloudflare.com/vulnerability-discovery-remediation/</link>
+      <pubDate>Thu, 03 Sep 2026 21:03:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pegasus and NoviSpy Used Against Serbian Protesters</title>
+      <link>https://securityaffairs.com/198377/intelligence/pegasus-and-novispy-used-against-serbian-protesters.html</link>
+      <pubDate>Thu, 03 Sep 2026 20:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Fixed Critical RCE in Nexus 9000 Series Switches</title>
+      <link>https://securityaffairs.com/198366/security/cisco-fixed-critical-rce-in-nexus-9000-series-switches.html</link>
+      <pubDate>Thu, 03 Sep 2026 19:47:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Large group of Serbian opposition, activist figures targeted with spyware</title>
+      <link>https://therecord.media/serbia-spyware-pegasus-europe</link>
+      <pubDate>Thu, 03 Sep 2026 19:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories</title>
+      <link>https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html</link>
+      <pubDate>Thu, 03 Sep 2026 18:02:47 +0000</pubDate>
+    </item>
     <item>
       <title>The story behind the intelligence</title>
       <link>https://blog.talosintelligence.com/the-story-behind-the-intelligence/</link>
@@ -261,13 +286,13 @@
       <pubDate>Wed, 02 Sep 2026 15:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95223/</link>
+      <title>Russian Man Extradited Over Malware Campaign Targeting Freelancers</title>
+      <link>https://www.infosecurity-magazine.com/news/russian-man-extradited-malware/</link>
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Russian Man Extradited Over Malware Campaign Targeting Freelancers</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-man-extradited-malware/</link>
+      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95223/</link>
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -279,31 +304,6 @@
       <title>CVE-2026-82329: Critical JFrog Artifactory Authentication Bypass Exploited in the Wild</title>
       <link>https://socprime.com/blog/cve-2026-82329-analysis/</link>
       <pubDate>Wed, 02 Sep 2026 14:47:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-76658: Critical HPE Fabric Composer Flaw Enables Unauthenticated Remote Code Execution</title>
-      <link>https://socprime.com/blog/cve-2026-76658-analysis/</link>
-      <pubDate>Wed, 02 Sep 2026 14:40:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-81578: Exploited PaperCut Authentication Bypass Chains to Pre-Auth RCE</title>
-      <link>https://socprime.com/blog/cve-2026-81578-analysis/</link>
-      <pubDate>Wed, 02 Sep 2026 14:34:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall Patches Two New Actively Exploited Zero-Days in SMA 1000 VPNs</title>
-      <link>https://securityaffairs.com/198303/security/sonicwall-patches-two-new-actively-exploited-zero-days-in-sma-1000-vpns.html</link>
-      <pubDate>Wed, 02 Sep 2026 14:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code</title>
-      <link>https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html</link>
-      <pubDate>Wed, 02 Sep 2026 14:06:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons</title>
-      <link>https://www.infosecurity-magazine.com/news/gambling-goblin-brazilian/</link>
-      <pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
