@@ -4,7 +4,22 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 04 Sep 2026 17:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:13:19 +0000</lastBuildDate>
+    <item>
+      <title>How to secure edge AI in customer-owned environments</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/</link>
+      <pubDate>Fri, 04 Sep 2026 19:10:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People</title>
+      <link>https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html</link>
+      <pubDate>Fri, 04 Sep 2026 18:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>The hidden work of modernizing Malwarebytes</title>
+      <link>https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes</link>
+      <pubDate>Fri, 04 Sep 2026 17:15:42 +0000</pubDate>
+    </item>
     <item>
       <title>Using a VM to Contain an AI Agent</title>
       <link>https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html</link>
@@ -64,6 +79,11 @@
       <title>X Money rollout linked to password-reset attacks</title>
       <link>https://www.malwarebytes.com/blog/scams/2026/09/x-money-rollout-linked-to-password-reset-attacks</link>
       <pubDate>Fri, 04 Sep 2026 12:29:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/09/04/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Security Vulnerability in a Voting System</title>
@@ -131,6 +151,11 @@
       <pubDate>Fri, 04 Sep 2026 06:47:52 +0000</pubDate>
     </item>
     <item>
+      <title>US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure</title>
+      <link>https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks</link>
+      <pubDate>Fri, 04 Sep 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)</title>
       <link>https://isc.sans.edu/diary/rss/33310</link>
       <pubDate>Fri, 04 Sep 2026 02:00:02 +0000</pubDate>
@@ -159,11 +184,6 @@
       <title>Cisco Fixed Critical RCE in Nexus 9000 Series Switches</title>
       <link>https://securityaffairs.com/198366/security/cisco-fixed-critical-rce-in-nexus-9000-series-switches.html</link>
       <pubDate>Thu, 03 Sep 2026 19:47:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Large group of Serbian opposition, activist figures targeted with spyware</title>
-      <link>https://therecord.media/serbia-spyware-pegasus-europe</link>
-      <pubDate>Thu, 03 Sep 2026 19:30:41 +0000</pubDate>
     </item>
     <item>
       <title>ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories</title>
@@ -231,8 +251,38 @@
       <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pyramid Solutions NetStaX EtherNet/IP Stack</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-07</link>
+      <title>Rockwell Automation 1756-ENBT Module</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-05</link>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tycon Systems TPDIN-Monitor-WEB2 (Update A)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-01</link>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inductive Automation Ignition</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-06</link>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OPCFoundation OPC UA LocalDiscoveryServer (LDS)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-01</link>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products (Update A)</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07</link>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation ControlFLASH</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-03</link>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation ArmorStart LT</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-04</link>
       <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -246,64 +296,14 @@
       <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rockwell Automation ArmorStart LT</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-04</link>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation ControlFLASH</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-03</link>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products (Update A)</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07</link>
+      <title>Pyramid Solutions NetStaX EtherNet/IP Stack</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-07</link>
       <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tycon Systems TPDIN-Monitor-WEB3</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-08</link>
       <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OPCFoundation OPC UA LocalDiscoveryServer (LDS)</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-01</link>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inductive Automation Ignition</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-06</link>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tycon Systems TPDIN-Monitor-WEB2 (Update A)</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-01</link>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation 1756-ENBT Module</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-05</link>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries</title>
-      <link>https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html</link>
-      <pubDate>Thu, 03 Sep 2026 11:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researching Employment Scams</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html</link>
-      <pubDate>Thu, 03 Sep 2026 11:18:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks</title>
-      <link>https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html</link>
-      <pubDate>Thu, 03 Sep 2026 10:43:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means</title>
-      <link>https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html</link>
-      <pubDate>Thu, 03 Sep 2026 10:36:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
