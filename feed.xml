@@ -4,7 +4,72 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 04 Sep 2026 08:26:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:57:56 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2026-85046: Actively Exploited Chrome V8 Zero-Day Enables Code Execution</title>
+      <link>https://socprime.com/blog/cve-2026-85046-analysis/</link>
+      <pubDate>Fri, 04 Sep 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian data centers face new security requirements amid Ukraine's drone threats</title>
+      <link>https://therecord.media/russia-data-centers-ukraine-drone-threats</link>
+      <pubDate>Fri, 04 Sep 2026 13:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>G7 urges organizations to prepare for quantum cyber threats</title>
+      <link>https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats</link>
+      <pubDate>Fri, 04 Sep 2026 12:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>X Money rollout linked to password-reset attacks</title>
+      <link>https://www.malwarebytes.com/blog/scams/2026/09/x-money-rollout-linked-to-password-reset-attacks</link>
+      <pubDate>Fri, 04 Sep 2026 12:29:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Vulnerability in a Voting System</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html</link>
+      <pubDate>Fri, 04 Sep 2026 11:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Use AI Agents in Multi-Country Cyber Campaign</title>
+      <link>https://securityaffairs.com/198417/ai/chinese-hackers-use-ai-agents-in-multi-country-cyber-campaign.html</link>
+      <pubDate>Fri, 04 Sep 2026 11:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html</link>
+      <pubDate>Fri, 04 Sep 2026 10:35:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Pledges $1bn to Bring its AI Cybersecurity Tools to Essential Services</title>
+      <link>https://www.infosecurity-magazine.com/news/openai-pledges-ai-tools-essential/</link>
+      <pubDate>Fri, 04 Sep 2026 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Angry Birds: Toy Ghouls’ new toys</title>
+      <link>https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/</link>
+      <pubDate>Fri, 04 Sep 2026 10:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>G7 Urges Fast-Track on Quantum-Safe Cybersecurity Rules</title>
+      <link>https://www.infosecurity-magazine.com/news/g7-urges-quantum-safe-cyber-rules/</link>
+      <pubDate>Fri, 04 Sep 2026 09:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Free streaming boxes may be routing criminal traffic through your home</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/09/free-streaming-boxes-may-be-routing-criminal-traffic-through-your-home</link>
+      <pubDate>Fri, 04 Sep 2026 09:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws</title>
+      <link>https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html</link>
+      <pubDate>Fri, 04 Sep 2026 08:48:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google fixes the sixth actively exploited Chrome zero-day of 2026</title>
+      <link>https://securityaffairs.com/198405/security/google-fixes-the-sixth-actively-exploited-chrome-zero-day-of-2026.html</link>
+      <pubDate>Fri, 04 Sep 2026 08:24:42 +0000</pubDate>
+    </item>
     <item>
       <title>Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws</title>
       <link>https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html</link>
@@ -29,6 +94,11 @@
       <title>ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)</title>
       <link>https://isc.sans.edu/diary/rss/33310</link>
       <pubDate>Fri, 04 Sep 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recorded Future Announces Automated Signature Creation, Accelerating Vulnerability Prioritization</title>
+      <link>https://www.recordedfuture.com/blog/automated-signature-creation</link>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models</title>
@@ -234,76 +304,6 @@
       <title>2,000 Leaked Documents Reveal How Russia Turns Engineering Students Into GRU Cyber Operators</title>
       <link>https://securityaffairs.com/198332/intelligence/2000-leaked-documents-reveal-how-russia-turns-engineering-students-into-gru-cyber-operators.html</link>
       <pubDate>Thu, 03 Sep 2026 08:12:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon</title>
-      <link>https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html</link>
-      <pubDate>Thu, 03 Sep 2026 06:26:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners</title>
-      <link>https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html</link>
-      <pubDate>Thu, 03 Sep 2026 05:19:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Honeypot-Omaha and batch.py [Guest Diary], (Wed, Sep 2nd)</title>
-      <link>https://isc.sans.edu/diary/rss/33306</link>
-      <pubDate>Thu, 03 Sep 2026 02:02:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)</title>
-      <link>https://isc.sans.edu/diary/rss/33308</link>
-      <pubDate>Thu, 03 Sep 2026 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>H1 2026 Malware Vulnerability Trends</title>
-      <link>https://www.recordedfuture.com/research/h1-2026-malware-vulnerability-trends</link>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #483: This AI helps thieves steal your iPhone</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-483/</link>
-      <pubDate>Wed, 02 Sep 2026 23:10:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Impersonating IT support: how threat actors turn a remote session into enterprise-wide access</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/</link>
-      <pubDate>Wed, 02 Sep 2026 22:51:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Astra Brings Autonomous Zero-Day Exploitation to AI</title>
-      <link>https://securityaffairs.com/198317/ai/openai-astra-brings-autonomous-zero-day-exploitation-to-ai.html</link>
-      <pubDate>Wed, 02 Sep 2026 21:31:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian national facing 20 years for malware campaign that infected 80,000 freelancers</title>
-      <link>https://therecord.media/russian-national-facing-20-years-malware-campaign</link>
-      <pubDate>Wed, 02 Sep 2026 18:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Agents Are Now Emailing Me with Their Security Concerns</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html</link>
-      <pubDate>Wed, 02 Sep 2026 18:28:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs</title>
-      <link>https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html</link>
-      <pubDate>Wed, 02 Sep 2026 18:27:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Health data of more than 9.5 million people leaked from Aesto record system</title>
-      <link>https://therecord.media/health-data-aesto-cyberattack-leak</link>
-      <pubDate>Wed, 02 Sep 2026 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Software Installers Disable Windows Update and Weaken Microsoft Defender</title>
-      <link>https://thehackernews.com/2026/09/fake-software-installers-disable.html</link>
-      <pubDate>Wed, 02 Sep 2026 16:41:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tech support scams look different now. Here’s what to watch for</title>
-      <link>https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for</link>
-      <pubDate>Wed, 02 Sep 2026 15:49:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
