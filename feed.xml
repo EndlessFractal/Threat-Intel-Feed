@@ -4,11 +4,51 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 04 Sep 2026 13:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:27:16 +0000</lastBuildDate>
+    <item>
+      <title>Using a VM to Contain an AI Agent</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html</link>
+      <pubDate>Fri, 04 Sep 2026 16:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters</title>
+      <link>https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html</link>
+      <pubDate>Fri, 04 Sep 2026 15:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>US, Britain to coordinate on scam center takedowns</title>
+      <link>https://therecord.media/scam-compounds-coordination-us-uk-memorandum</link>
+      <pubDate>Fri, 04 Sep 2026 15:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution</title>
+      <link>https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html</link>
+      <pubDate>Fri, 04 Sep 2026 15:20:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic</title>
+      <link>https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html</link>
+      <pubDate>Fri, 04 Sep 2026 14:51:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK account-hack losses surge as new reporting system exposes hidden cases</title>
+      <link>https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes</link>
+      <pubDate>Fri, 04 Sep 2026 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-20212: Critical Cisco Nexus 9000 Flaw Enables Unauthenticated Root RCE</title>
+      <link>https://socprime.com/blog/cve-2026-20212-analysis/</link>
+      <pubDate>Fri, 04 Sep 2026 13:58:16 +0000</pubDate>
+    </item>
     <item>
       <title>CVE-2026-85046: Actively Exploited Chrome V8 Zero-Day Enables Code Execution</title>
       <link>https://socprime.com/blog/cve-2026-85046-analysis/</link>
       <pubDate>Fri, 04 Sep 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL Hit by 12-Year-Old Vulnerability Allowing Server Takeover</title>
+      <link>https://securityaffairs.com/198433/security/postgresql-hit-by-12-year-old-vulnerability-allowing-server-takeover.html</link>
+      <pubDate>Fri, 04 Sep 2026 13:41:39 +0000</pubDate>
     </item>
     <item>
       <title>Russian data centers face new security requirements amid Ukraine's drone threats</title>
@@ -101,6 +141,11 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike Disrupts Sality Botnet After More Than 20 Years</title>
+      <link>https://www.techrepublic.com/article/news-crowdstrike-sality-botnet-disruption/</link>
+      <pubDate>Thu, 03 Sep 2026 21:36:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models</title>
       <link>https://blog.cloudflare.com/vulnerability-discovery-remediation/</link>
       <pubDate>Thu, 03 Sep 2026 21:03:02 +0000</pubDate>
@@ -181,11 +226,6 @@
       <pubDate>Thu, 03 Sep 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>US and Canadian court data exposed in Thomson Reuters breach</title>
-      <link>https://therecord.media/thomson-reuters-cyberattack-data</link>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>US and Canadian Court Records Breached Following Thomson Reuters Incident</title>
       <link>https://www.infosecurity-magazine.com/news/us-canada-court-breach-thomson/</link>
       <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
@@ -264,46 +304,6 @@
       <title>Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means</title>
       <link>https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html</link>
       <pubDate>Thu, 03 Sep 2026 10:36:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America</title>
-      <link>https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/</link>
-      <pubDate>Thu, 03 Sep 2026 10:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Node.js: Old Technique Makes a Comeback</title>
-      <link>https://www.security.com/threat-intelligence/node-js-returns-ransomware</link>
-      <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chaotic Eclipse Releases Crowdstrike Falcon ZeroDay FalconFlank</title>
-      <link>https://securityaffairs.com/198342/hacking/chaotic-eclipse-releases-crowdstrike-falcon-zeroday-falconflank.html</link>
-      <pubDate>Thu, 03 Sep 2026 09:52:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Probes Possible Breach of 153 Million Driver’s Licenses</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-probes-breach-153-million/</link>
-      <pubDate>Thu, 03 Sep 2026 09:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your phone or computer may soon ask how old you are</title>
-      <link>https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are</link>
-      <pubDate>Thu, 03 Sep 2026 08:54:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone</title>
-      <link>https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html</link>
-      <pubDate>Thu, 03 Sep 2026 08:43:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>International Operation Disrupts Sality P2P Botnet</title>
-      <link>https://www.infosecurity-magazine.com/news/international-operation-disrupts/</link>
-      <pubDate>Thu, 03 Sep 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2,000 Leaked Documents Reveal How Russia Turns Engineering Students Into GRU Cyber Operators</title>
-      <link>https://securityaffairs.com/198332/intelligence/2000-leaked-documents-reveal-how-russia-turns-engineering-students-into-gru-cyber-operators.html</link>
-      <pubDate>Thu, 03 Sep 2026 08:12:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
