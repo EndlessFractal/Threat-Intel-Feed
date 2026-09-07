@@ -4,7 +4,27 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 07 Sep 2026 02:41:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:52:42 +0000</lastBuildDate>
+    <item>
+      <title>Researcher Publishes CrowdStrike Privilege Escalation Zero Day</title>
+      <link>https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/</link>
+      <pubDate>Mon, 07 Sep 2026 08:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies</title>
+      <link>https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html</link>
+      <pubDate>Mon, 07 Sep 2026 07:53:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Berlin Ransomware Leak Exposes State Secrets</title>
+      <link>https://securityaffairs.com/198545/cyber-crime/berlin-ransomware-leak-exposes-state-secrets.html</link>
+      <pubDate>Mon, 07 Sep 2026 07:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (August 31 – September 6)</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-august-31-september-6</link>
+      <pubDate>Mon, 07 Sep 2026 07:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>Weekly Update 520: The Unscripted Edition</title>
       <link>https://www.troyhunt.com/weekly-update-520/</link>
@@ -171,11 +191,6 @@
       <pubDate>Fri, 04 Sep 2026 13:51:54 +0000</pubDate>
     </item>
     <item>
-      <title>PostgreSQL Hit by 12-Year-Old Vulnerability Allowing Server Takeover</title>
-      <link>https://securityaffairs.com/198433/security/postgresql-hit-by-12-year-old-vulnerability-allowing-server-takeover.html</link>
-      <pubDate>Fri, 04 Sep 2026 13:41:39 +0000</pubDate>
-    </item>
-    <item>
       <title>Russian data centers face new security requirements amid Ukraine's drone threats</title>
       <link>https://therecord.media/russia-data-centers-ukraine-drone-threats</link>
       <pubDate>Fri, 04 Sep 2026 13:39:00 +0000</pubDate>
@@ -289,21 +304,6 @@
       <title>ASCII smuggling crosses over from AI prompt injection to phishing evasion</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</link>
       <pubDate>Thu, 03 Sep 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root</title>
-      <link>https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html</link>
-      <pubDate>Thu, 03 Sep 2026 15:52:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory</title>
-      <link>https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html</link>
-      <pubDate>Thu, 03 Sep 2026 15:26:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pegasus Zero-Click Exploit Infects Serbian Student Activist's iPhone</title>
-      <link>https://www.infosecurity-magazine.com/news/pegasus-zero-click-exploit/</link>
-      <pubDate>Thu, 03 Sep 2026 15:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
