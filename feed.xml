@@ -4,7 +4,42 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 09 Sep 2026 19:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:13:39 +0000</lastBuildDate>
+    <item>
+      <title>CISA head says agency must change quickly to prevent the 'worst that could happen'</title>
+      <link>https://therecord.media/cisa-hiring-nick-andersen-warning</link>
+      <pubDate>Wed, 09 Sep 2026 21:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-44756: Critical SAP Kernel Flaw Enables Unauthenticated Remote Code Execution</title>
+      <link>https://socprime.com/blog/cve-2026-44756-sap-kernel-rce-vulnerability/</link>
+      <pubDate>Wed, 09 Sep 2026 21:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-85880 and CVE-2026-81963: Microsoft Patches Two Actively Exploited Windows Zero-Days</title>
+      <link>https://socprime.com/blog/cve-2026-85880-and-cve-2026-81963-analysis/</link>
+      <pubDate>Wed, 09 Sep 2026 20:54:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-87491: Chrome V8 Zero-Day Exploited in the Wild Enables Arbitrary Code Execution</title>
+      <link>https://socprime.com/blog/cve-2026-87491-chrome-v8-zero-day-exploited/</link>
+      <pubDate>Wed, 09 Sep 2026 20:49:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>US disrupts Xinbi Guarantee marketplace fueling the cyber scam economy</title>
+      <link>https://therecord.media/us-disrupts-xinbi-guarantee-marketplace-cybercrime</link>
+      <pubDate>Wed, 09 Sep 2026 19:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto</title>
+      <link>https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html</link>
+      <pubDate>Wed, 09 Sep 2026 18:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Agencies Warn Chinese AI Firms Are Extracting Advanced AI Models</title>
+      <link>https://securityaffairs.com/198770/security/us-agencies-warn-chinese-ai-firms-are-extracting-advanced-ai-models.html</link>
+      <pubDate>Wed, 09 Sep 2026 18:20:36 +0000</pubDate>
+    </item>
     <item>
       <title>Grindr settles privacy lawsuit tied to disclosure of users’ HIV statuses for $35 million</title>
       <link>https://therecord.media/grindr-settles-privacy-lawsuit-hiv-status-35-million</link>
@@ -16,9 +51,19 @@
       <pubDate>Wed, 09 Sep 2026 17:46:24 +0000</pubDate>
     </item>
     <item>
+      <title>Passkey-themed social engineering leads to identity and cloud compromise</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/</link>
+      <pubDate>Wed, 09 Sep 2026 17:41:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Electronic health record company says customer data stolen in breach</title>
       <link>https://therecord.media/electronic-health-record-company-says-customer-data-stolen-in-breach</link>
       <pubDate>Wed, 09 Sep 2026 17:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week</title>
+      <link>https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html</link>
+      <pubDate>Wed, 09 Sep 2026 16:34:05 +0000</pubDate>
     </item>
     <item>
       <title>Multiple Chinese hacking groups seen using identical Chrome zero-day exploit</title>
@@ -34,11 +79,6 @@
       <title>Driver’s License Data for Sale</title>
       <link>https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html</link>
       <pubDate>Wed, 09 Sep 2026 16:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI puts its cyber strategy on paper</title>
-      <link>https://therecord.media/fbi-releases-first-public-cybersecurity-strategy</link>
-      <pubDate>Wed, 09 Sep 2026 15:37:00 +0000</pubDate>
     </item>
     <item>
       <title>More than 100,000 fake stores are out to steal your card details</title>
@@ -81,9 +121,9 @@
       <pubDate>Wed, 09 Sep 2026 12:56:17 +0000</pubDate>
     </item>
     <item>
-      <title>Ukraine prosecutor general steps down amid scam call center bribery probe</title>
-      <link>https://therecord.media/ukraine-prosecutor-general-scam-center</link>
-      <pubDate>Wed, 09 Sep 2026 12:15:00 +0000</pubDate>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/09/09/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE</title>
@@ -264,46 +304,6 @@
       <title>ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account</title>
       <link>https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html</link>
       <pubDate>Tue, 08 Sep 2026 14:19:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-75650: Adobe Patches Actively Exploited Magento Zero-Day Used to Deploy Backdoors</title>
-      <link>https://socprime.com/blog/cve-2026-75650-critical-magento-zero-day-rce/</link>
-      <pubDate>Tue, 08 Sep 2026 14:16:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours</title>
-      <link>https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html</link>
-      <pubDate>Tue, 08 Sep 2026 13:48:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grindr Settles UK Data Privacy Claims for £26m</title>
-      <link>https://www.infosecurity-magazine.com/news/grindr-settles-uk-data-privacy/</link>
-      <pubDate>Tue, 08 Sep 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grindr settles HIV status data-sharing lawsuit for $35 million</title>
-      <link>https://www.malwarebytes.com/blog/privacy/2026/09/grindr-settles-hiv-status-data-sharing-lawsuit-for-35-million</link>
-      <pubDate>Tue, 08 Sep 2026 12:51:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>This $30 Tool Helps You Spot Scams Before You Click</title>
-      <link>https://www.techrepublic.com/article/isthisspam-lifetime-subscription/</link>
-      <pubDate>Tue, 08 Sep 2026 12:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Coding Tools Now a Prime Target for Threat Actors, Google Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-coding-tools-threat-actors/</link>
-      <pubDate>Tue, 08 Sep 2026 12:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/09/08/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Based Artificial Intelligence Companies Conducting Industrial-Scale Distillation Campaigns Against U.S. AI Companies</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a</link>
-      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
