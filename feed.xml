@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 09 Sep 2026 02:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:34:30 +0000</lastBuildDate>
+    <item>
+      <title>SAP Patches Maximum Severity “Overpass” Flaw</title>
+      <link>https://www.infosecurity-magazine.com/news/sap-patches-maximum-severity/</link>
+      <pubDate>Wed, 09 Sep 2026 08:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chaotic Eclipse Released ShieldCrash, A PoC For Microsoft Defender Zero-Day</title>
+      <link>https://securityaffairs.com/198726/security/chaotic-eclipse-released-shieldcrash-a-poc-for-microsoft-defender-zero-day.html</link>
+      <pubDate>Wed, 09 Sep 2026 07:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft’s Biggest Patch Tuesday: 974 CVEs, 2 Zero-Days and 20 Wormable Bugs</title>
+      <link>https://securityaffairs.com/198705/security/microsofts-biggest-patch-tuesday-974-cves-2-zero-days-and-20-wormable-bugs.html</link>
+      <pubDate>Wed, 09 Sep 2026 07:03:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days</title>
+      <link>https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html</link>
+      <pubDate>Wed, 09 Sep 2026 04:41:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>N-able N-central Pre-Auth RCE Flaw Exploited in the Wild</title>
+      <link>https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html</link>
+      <pubDate>Wed, 09 Sep 2026 04:27:51 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)</title>
       <link>https://isc.sans.edu/diary/rss/33322</link>
@@ -74,11 +99,6 @@
       <title>Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution</title>
       <link>https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html</link>
       <pubDate>Tue, 08 Sep 2026 16:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The US military just turned off ad tracking on its phones. Maybe you should too</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/us-military-turned-off-ad-tracking-phones</link>
-      <pubDate>Tue, 08 Sep 2026 15:33:07 +0000</pubDate>
     </item>
     <item>
       <title>Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC</title>
@@ -284,26 +304,6 @@
       <title>From Raw Threat Reports to Actionable Defense: AI-Powered Deep Threat Research</title>
       <link>https://socprime.com/blog/from-raw-threat-reports-to-actionable-defense-ai-powered-deep-threat-research/</link>
       <pubDate>Mon, 07 Sep 2026 15:16:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks</title>
-      <link>https://socprime.com/blog/cve-2026-67276-mikrotik-routeros-ssh-zero-day/</link>
-      <pubDate>Mon, 07 Sep 2026 15:06:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More</title>
-      <link>https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html</link>
-      <pubDate>Mon, 07 Sep 2026 14:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Warns Shadow AI Creates New Security Risks</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-warns-shadow-ai-security-risks/</link>
-      <pubDate>Mon, 07 Sep 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chaotic Eclipse Released A PoC For NVIDIA GreenSection Memory Corruption Zero-Day</title>
-      <link>https://securityaffairs.com/198589/hacking/chaotic-eclipse-released-a-poc-for-nvidia-greensection-memory-corruption-zero-day.html</link>
-      <pubDate>Mon, 07 Sep 2026 13:42:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
