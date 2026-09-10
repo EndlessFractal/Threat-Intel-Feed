@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 10 Sep 2026 18:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:13:36 +0000</lastBuildDate>
+    <item>
+      <title>Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023</title>
+      <link>https://therecord.media/treasury-urges-banks-report-cyber-scams</link>
+      <pubDate>Thu, 10 Sep 2026 21:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Accuses Six Chinese AI Firms of Distilling Frontier ModelsUS Accuses Six Chinese AI Firms of Distilling Frontier Models</title>
+      <link>https://www.techrepublic.com/article/news-chinese-ai-model-distillation-apac-china/</link>
+      <pubDate>Thu, 10 Sep 2026 19:47:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA’s ChatGPT Incident Exposes a Bigger AI Governance Problem</title>
+      <link>https://www.techrepublic.com/article/news-cisa-chatgpt-ai-agent-governance-accountability/</link>
+      <pubDate>Thu, 10 Sep 2026 19:13:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Cisco, Google Chromium V8, Fortinet, and Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/198850/security/u-s-cisa-adds-cisco-google-chromium-v8-fortinet-and-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 10 Sep 2026 18:57:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>IDScan confirms breach after hackers offer 153 million driver’s license scans for sale</title>
+      <link>https://therecord.media/idscan-data-breach-notice-drivers-licenses</link>
+      <pubDate>Thu, 10 Sep 2026 18:55:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cyber Command turns to veteran of intelligence agencies for top AI role</title>
       <link>https://therecord.media/cyber-command-ai-leader-ronzelle-green</link>
@@ -101,8 +126,8 @@
       <pubDate>Thu, 10 Sep 2026 12:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>AVEVA Pipeline Integrity Monitor</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-253-01</link>
+      <title>NextGen Healthcare Mirth Connect</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-01</link>
       <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -111,13 +136,18 @@
       <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NextGen Healthcare Mirth Connect</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-01</link>
+      <title>AVEVA Pipeline Integrity Monitor</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-253-01</link>
       <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Orthanc DICOM Server</title>
       <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-02</link>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/09/10/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -206,11 +236,6 @@
       <pubDate>Thu, 10 Sep 2026 05:35:04 +0000</pubDate>
     </item>
     <item>
-      <title>Multiple crypto companies warn customers of phishing emails after alleged provider breach</title>
-      <link>https://therecord.media/trezor-bitbox-cointracking-phishing-crypto-holders</link>
-      <pubDate>Thu, 10 Sep 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Intelligible World of Agents</title>
       <link>https://www.recordedfuture.com/blog/intelligible-world-agents</link>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
@@ -224,11 +249,6 @@
       <title>Threat matrix: Mapping threats across cloud web applications</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/</link>
       <pubDate>Wed, 09 Sep 2026 21:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA head says agency must change quickly to prevent the 'worst that could happen'</title>
-      <link>https://therecord.media/cisa-hiring-nick-andersen-warning</link>
-      <pubDate>Wed, 09 Sep 2026 21:25:00 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2026-44756: Critical SAP Kernel Flaw Enables Unauthenticated Remote Code Execution</title>
@@ -284,26 +304,6 @@
       <title>More than 100,000 fake stores are out to steal your card details</title>
       <link>https://www.malwarebytes.com/blog/scams/2026/09/more-than-100000-fake-stores-are-out-to-steal-your-card-details</link>
       <pubDate>Wed, 09 Sep 2026 15:02:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Build WeChat Zero-Click Worm Hijacking Phones via Calls</title>
-      <link>https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/</link>
-      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 2, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95338/</link>
-      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gigabud Uses Android App Cloning to Evade Fraud Detection</title>
-      <link>https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/</link>
-      <pubDate>Wed, 09 Sep 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA</title>
-      <link>https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html</link>
-      <pubDate>Wed, 09 Sep 2026 14:23:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
