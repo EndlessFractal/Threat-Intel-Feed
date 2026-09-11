@@ -4,7 +4,47 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 11 Sep 2026 08:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:01:08 +0000</lastBuildDate>
+    <item>
+      <title>Hackers Favor US Eastern Business Hours in M365 Phishing Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/</link>
+      <pubDate>Fri, 11 Sep 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic caught Russia-linked spies using Claude in hacking operations</title>
+      <link>https://therecord.media/anthropic-russia-hackers-claude</link>
+      <pubDate>Fri, 11 Sep 2026 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android malware creates a hidden copy of your banking app</title>
+      <link>https://www.malwarebytes.com/blog/mobile/2026/09/android-malware-creates-a-hidden-copy-of-your-banking-app</link>
+      <pubDate>Fri, 11 Sep 2026 12:14:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian hacker gets four years in US prison over Conti ransomware attacks</title>
+      <link>https://therecord.media/conti-ransomware-ukraine-hacker</link>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Critical Vulnerabilities Might Not Be Your Biggest Risk</title>
+      <link>https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html</link>
+      <pubDate>Fri, 11 Sep 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cliff Stoll’s DEF CON Talk</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html</link>
+      <pubDate>Fri, 11 Sep 2026 11:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Exploit Critical Cisco FMC Flaw to deploy Qilin ransomware</title>
+      <link>https://securityaffairs.com/198884/cyber-crime/attackers-exploit-critical-cisco-fmc-flaw-to-deploy-qilin-ransomware.html</link>
+      <pubDate>Fri, 11 Sep 2026 10:14:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Most Organizations Skip Permissions Reviews Before Deploying AI Tools</title>
+      <link>https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/</link>
+      <pubDate>Fri, 11 Sep 2026 09:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors</title>
       <link>https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html</link>
@@ -116,11 +156,6 @@
       <pubDate>Thu, 10 Sep 2026 13:32:28 +0000</pubDate>
     </item>
     <item>
-      <title>Russian e-commerce giant Wildberries says DDoS attack delayed payments to sellers</title>
-      <link>https://therecord.media/russian-e-commerce-giant-wildberries-says-payments-disrupted</link>
-      <pubDate>Thu, 10 Sep 2026 13:31:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MantaxOtax Android Malware Combines Ransomware With Spyware</title>
       <link>https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/</link>
       <pubDate>Thu, 10 Sep 2026 13:00:00 +0000</pubDate>
@@ -134,11 +169,6 @@
       <title>Redtail Payload Analysis [Guest Diary], (Wed, Sep 9th)</title>
       <link>https://isc.sans.edu/diary/rss/33326</link>
       <pubDate>Thu, 10 Sep 2026 12:58:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK appoints new commander of National Cyber Force</title>
-      <link>https://therecord.media/uk-appoints-new-commander-of-national-cyber-force</link>
-      <pubDate>Thu, 10 Sep 2026 12:44:00 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member</title>
@@ -274,36 +304,6 @@
       <title>Smashing Security podcast #484: How websites are tracking you with silence</title>
       <link>https://grahamcluley.com/smashing-security-podcast-484/</link>
       <pubDate>Wed, 09 Sep 2026 23:05:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat matrix: Mapping threats across cloud web applications</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/</link>
-      <pubDate>Wed, 09 Sep 2026 21:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-44756: Critical SAP Kernel Flaw Enables Unauthenticated Remote Code Execution</title>
-      <link>https://socprime.com/blog/cve-2026-44756-sap-kernel-rce-vulnerability/</link>
-      <pubDate>Wed, 09 Sep 2026 21:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-85880 and CVE-2026-81963: Microsoft Patches Two Actively Exploited Windows Zero-Days</title>
-      <link>https://socprime.com/blog/cve-2026-85880-and-cve-2026-81963-analysis/</link>
-      <pubDate>Wed, 09 Sep 2026 20:54:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-87491: Chrome V8 Zero-Day Exploited in the Wild Enables Arbitrary Code Execution</title>
-      <link>https://socprime.com/blog/cve-2026-87491-chrome-v8-zero-day-exploited/</link>
-      <pubDate>Wed, 09 Sep 2026 20:49:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto</title>
-      <link>https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html</link>
-      <pubDate>Wed, 09 Sep 2026 18:26:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Agencies Warn Chinese AI Firms Are Extracting Advanced AI Models</title>
-      <link>https://securityaffairs.com/198770/security/us-agencies-warn-chinese-ai-firms-are-extracting-advanced-ai-models.html</link>
-      <pubDate>Wed, 09 Sep 2026 18:20:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
