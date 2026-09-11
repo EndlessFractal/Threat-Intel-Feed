@@ -4,7 +4,62 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 11 Sep 2026 14:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:56:59 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft sees some new wrinkles in invoice-scam emails</title>
+      <link>https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers</link>
+      <pubDate>Fri, 11 Sep 2026 18:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My Talk at DEF CON</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html</link>
+      <pubDate>Fri, 11 Sep 2026 18:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Supply Chain Has a Security Problem, and Much of It Is Sitting on the Open Internet</title>
+      <link>https://securityaffairs.com/198898/ai/the-ai-supply-chain-has-a-security-problem-and-much-of-it-is-sitting-on-the-open-internet.html</link>
+      <pubDate>Fri, 11 Sep 2026 17:27:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure</title>
+      <link>https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html</link>
+      <pubDate>Fri, 11 Sep 2026 16:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks</title>
+      <link>https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html</link>
+      <pubDate>Fri, 11 Sep 2026 16:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Says Claude Used in Possible Bioweapon Research</title>
+      <link>https://www.techrepublic.com/article/news-anthropic-claude-bioweapon-research/</link>
+      <pubDate>Fri, 11 Sep 2026 16:11:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto customers targeted by scammers after email marketing provider breach</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/09/crypto-customers-targeted-by-scammers-after-email-marketing-provider-breach</link>
+      <pubDate>Fri, 11 Sep 2026 15:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)</title>
+      <link>https://isc.sans.edu/diary/rss/33332</link>
+      <pubDate>Fri, 11 Sep 2026 14:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Used to Automate Exploitation and Data Theft Across Multiple Victims</title>
+      <link>https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html</link>
+      <pubDate>Fri, 11 Sep 2026 14:29:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Gets Access to Anthropic Cyber AI — But Not Its Newest Model</title>
+      <link>https://www.techrepublic.com/article/news-enisa-anthropic-mythos-5-cyber-ai-access-europe-emea/</link>
+      <pubDate>Fri, 11 Sep 2026 14:28:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection</title>
+      <link>https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html</link>
+      <pubDate>Fri, 11 Sep 2026 14:10:20 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Favor US Eastern Business Hours in M365 Phishing Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/</link>
@@ -76,6 +131,11 @@
       <pubDate>Fri, 11 Sep 2026 02:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>“Eye” spy: Cyclops Blink returns with extended capabilities</title>
+      <link>https://www.sophos.com/en-us/blog/-eye-spy-cyclops-blink-returns-with-extended-capabilities</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023</title>
       <link>https://therecord.media/treasury-urges-banks-report-cyber-scams</link>
       <pubDate>Thu, 10 Sep 2026 21:15:00 +0000</pubDate>
@@ -99,11 +159,6 @@
       <title>IDScan confirms breach after hackers offer 153 million driver’s license scans for sale</title>
       <link>https://therecord.media/idscan-data-breach-notice-drivers-licenses</link>
       <pubDate>Thu, 10 Sep 2026 18:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Command turns to veteran of intelligence agencies for top AI role</title>
-      <link>https://therecord.media/cyber-command-ai-leader-ronzelle-green</link>
-      <pubDate>Thu, 10 Sep 2026 18:25:00 +0000</pubDate>
     </item>
     <item>
       <title>We've got one word for it, and it's usually the wrong one</title>
@@ -249,61 +304,6 @@
       <title>The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE</title>
       <link>https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/</link>
       <pubDate>Thu, 10 Sep 2026 10:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Detection Gap: MITRE ATT&amp;CK T1047</title>
-      <link>https://www.security.com/expert-perspectives/detection-gap-mitre-attck-t1047</link>
-      <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copyright scammers get Instagram accounts suspended and demand payment</title>
-      <link>https://www.malwarebytes.com/blog/scams/2026/09/copyright-scammers-get-instagram-accounts-suspended-and-demand-payment</link>
-      <pubDate>Thu, 10 Sep 2026 09:59:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Claude ‘s Sandbox Failure Shows How AI Can Rationalize Real-World Harm</title>
-      <link>https://securityaffairs.com/198814/hacking/a-new-claude-s-sandbox-failure-shows-how-ai-can-rationalize-real-world-harm.html</link>
-      <pubDate>Thu, 10 Sep 2026 09:21:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Reveals Yet Another Cybersecurity Incident</title>
-      <link>https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/</link>
-      <pubDate>Thu, 10 Sep 2026 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Microsoft Windows, N-able N-central, and Adobe flaws to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/198802/hacking/u-s-cisa-adds-microsoft-windows-n-able-n-central-and-adobe-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Thu, 10 Sep 2026 08:06:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>OFAC Sanctions Chinese Scam Platform Xinbi Guarantee</title>
-      <link>https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/</link>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example "sk-1234" Admin Key</title>
-      <link>https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html</link>
-      <pubDate>Thu, 10 Sep 2026 07:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6</title>
-      <link>https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html</link>
-      <pubDate>Thu, 10 Sep 2026 07:04:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four Nation-State Actors Used the Same Chrome Zero-Day Exploit Kit Within 12 Days</title>
-      <link>https://securityaffairs.com/198783/apt/four-nation-state-actors-used-the-same-chrome-zero-day-exploit-kit-within-12-days.html</link>
-      <pubDate>Thu, 10 Sep 2026 05:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Intelligible World of Agents</title>
-      <link>https://www.recordedfuture.com/blog/intelligible-world-agents</link>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smashing Security podcast #484: How websites are tracking you with silence</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-484/</link>
-      <pubDate>Wed, 09 Sep 2026 23:05:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
