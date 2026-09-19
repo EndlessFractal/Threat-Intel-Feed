@@ -4,16 +4,31 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sat, 19 Sep 2026 13:39:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:59:29 +0000</lastBuildDate>
     <item>
-      <title>AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum</title>
-      <link>https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html</link>
-      <pubDate>Sat, 19 Sep 2026 13:01:08 +0000</pubDate>
+      <title>Google Gemini also Broke Out of Its Test Environment</title>
+      <link>https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html</link>
+      <pubDate>Sat, 19 Sep 2026 14:09:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar</title>
+      <link>https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html</link>
+      <pubDate>Sat, 19 Sep 2026 13:28:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Visibility in 2026: The Foundation of Identity Security</title>
+      <link>https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html</link>
+      <pubDate>Sat, 19 Sep 2026 13:28:41 +0000</pubDate>
     </item>
     <item>
       <title>Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws</title>
       <link>https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html</link>
-      <pubDate>Sat, 19 Sep 2026 10:01:10 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 13:28:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum</title>
+      <link>https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html</link>
+      <pubDate>Sat, 19 Sep 2026 13:01:08 +0000</pubDate>
     </item>
     <item>
       <title>SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE</title>
@@ -44,6 +59,21 @@
       <title>HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)</title>
       <link>https://isc.sans.edu/diary/rss/33352</link>
       <pubDate>Sat, 19 Sep 2026 04:51:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Are Using Passkey Updates as a New Microsoft Phishing Hook</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-passkey-phishing-mfa-device-code/</link>
+      <pubDate>Fri, 18 Sep 2026 23:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAE Cyber Chief Says Country Faced 640,000 Cyberattacks in One Day</title>
+      <link>https://www.techrepublic.com/article/news-uae-640000-cyberattacks-deepfakes-ransomware-emea/</link>
+      <pubDate>Fri, 18 Sep 2026 23:30:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Crack Flock Camera, Expose 1.6M Images in 21 Days</title>
+      <link>https://www.techrepublic.com/article/news-flock-camera-hack-1-6m-images/</link>
+      <pubDate>Fri, 18 Sep 2026 21:48:36 +0000</pubDate>
     </item>
     <item>
       <title>Brevo Supply-Chain Attack Infected Over 100,000 Websites</title>
@@ -274,36 +304,6 @@
       <title>From guidance to action: Security fundamentals that materially reduce risk</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/</link>
       <pubDate>Thu, 17 Sep 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s FamousSparrow hackers target Latin America with new backdoor</title>
-      <link>https://therecord.media/china-hackers-latin-america-espionage</link>
-      <pubDate>Thu, 17 Sep 2026 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improving email security outcomes with real-world Microsoft Defender insights</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/</link>
-      <pubDate>Thu, 17 Sep 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files</title>
-      <link>https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html</link>
-      <pubDate>Thu, 17 Sep 2026 15:37:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/33348</link>
-      <pubDate>Thu, 17 Sep 2026 15:06:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>FamousSparrow Swaps SparrowDoor For New SparroWocky Backdoor</title>
-      <link>https://www.infosecurity-magazine.com/news/famoussparrow-sparrowocky-latin/</link>
-      <pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 2026 Threat Trend Report on APT Groups</title>
-      <link>https://asec.ahnlab.com/en/95478/</link>
-      <pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
