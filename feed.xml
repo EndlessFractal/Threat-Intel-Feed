@@ -4,7 +4,37 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 22 Sep 2026 17:54:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:49:50 +0000</lastBuildDate>
+    <item>
+      <title>Canadian regulator opens probe of IDScan for allegedly violating data privacy laws</title>
+      <link>https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach</link>
+      <pubDate>Tue, 22 Sep 2026 19:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Check Point Fixes a New Actively Exploited Critical Security Flaw</title>
+      <link>https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html</link>
+      <pubDate>Tue, 22 Sep 2026 19:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Truth about GET and HTTP Standards, (Tue, Sep 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/33358</link>
+      <pubDate>Tue, 22 Sep 2026 19:06:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks</title>
+      <link>https://thehackernews.com/2026/09/check-point-warns-of-management-server.html</link>
+      <pubDate>Tue, 22 Sep 2026 18:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers</title>
+      <link>https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html</link>
+      <pubDate>Tue, 22 Sep 2026 18:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials</title>
+      <link>https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html</link>
+      <pubDate>Tue, 22 Sep 2026 17:58:15 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises</title>
       <link>https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html</link>
@@ -39,11 +69,6 @@
       <title>Unmasking EvilTokens: Getting to the root of device code phishing</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/</link>
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Truth about GET and HTTP Standards, (Tue, Sep 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/33358</link>
-      <pubDate>Tue, 22 Sep 2026 14:48:38 +0000</pubDate>
     </item>
     <item>
       <title>Chaotic Eclipse Released BigDiskBuster, A PoC For Windows Defender Update DoS Zero-Day</title>
@@ -123,6 +148,11 @@
     <item>
       <title>lwIP (Lightweight IP)</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02</link>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/09/22/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -274,36 +304,6 @@
       <title>Google Fined €403 Million Over GDPR Violations Tied to Location Data</title>
       <link>https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html</link>
       <pubDate>Mon, 21 Sep 2026 16:57:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI plot to scan and destroy books (Lock and Code S07E19)</title>
-      <link>https://www.malwarebytes.com/blog/podcast/2026/09/the-ai-plot-to-scan-and-destroy-books-lock-and-code-s07e19</link>
-      <pubDate>Mon, 21 Sep 2026 16:30:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The fake sites using a cheap toolkit to sell $2,000 AI subscriptions</title>
-      <link>https://www.malwarebytes.com/blog/threat-intel/2026/09/the-fake-sites-using-a-cheap-toolkit-to-sell-2000-ai-subscriptions</link>
-      <pubDate>Mon, 21 Sep 2026 15:38:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Belgian table tennis, gymnastics federations hit by cyberattacks</title>
-      <link>https://therecord.media/belgium-table-tennis-cyberattack</link>
-      <pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Hit with €403m GDPR Fine Over Location Data Practices</title>
-      <link>https://www.infosecurity-magazine.com/news/google-hit-with-403m-gdpr-fine/</link>
-      <pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95519/</link>
-      <pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reverse-Engineering Flock Cameras</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html</link>
-      <pubDate>Mon, 21 Sep 2026 14:37:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
