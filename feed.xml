@@ -4,7 +4,122 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 23 Sep 2026 10:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:00:56 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2026-87902: Critical WordPress Core Flaw Enables Unauthenticated RCE Under Certain Conditions</title>
+      <link>https://socprime.com/blog/cve-2026-87902-critical-wordpress-core-rce-flaw/</link>
+      <pubDate>Wed, 23 Sep 2026 15:48:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-94127: Critical F5 BIG-IP APM Zero-Day Exploited for Remote Code Execution</title>
+      <link>https://socprime.com/blog/cve-2026-94127-analysis/</link>
+      <pubDate>Wed, 23 Sep 2026 15:32:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million</title>
+      <link>https://therecord.media/ransomware-ryuk-sentenced-DOJ</link>
+      <pubDate>Wed, 23 Sep 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-93616: Check Point Management Server Zero-Day Exploited in Targeted Attacks</title>
+      <link>https://socprime.com/blog/cve-2026-93616-check-point-management-server-zero-day-exploited-in-targeted-attacks/</link>
+      <pubDate>Wed, 23 Sep 2026 15:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hundreds of Leaked GitHub App Keys Still Authenticate</title>
+      <link>https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/</link>
+      <pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI investigating alleged ShinyHunters breach of its jobs site</title>
+      <link>https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach</link>
+      <pubDate>Wed, 23 Sep 2026 14:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move</title>
+      <link>https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html</link>
+      <pubDate>Wed, 23 Sep 2026 14:17:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Botnet x47.c Offers AI API Draining, 18 Attack Methods</title>
+      <link>https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/</link>
+      <pubDate>Wed, 23 Sep 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShinyHunters claims FBI breach after alleged PeopleSoft zero-day attack</title>
+      <link>https://securityaffairs.com/199612/cyber-crime/shinyhunters-claims-fbi-breach-after-alleged-peoplesoft-zero-day-attack.html</link>
+      <pubDate>Wed, 23 Sep 2026 13:56:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI</title>
+      <link>https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html</link>
+      <pubDate>Wed, 23 Sep 2026 13:52:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Agentic Skills Marketplace: Curated AI Capabilities for the Modern SOC</title>
+      <link>https://socprime.com/blog/introducing-the-agentic-skills-marketplace-curated-ai-capabilities-for-the-modern-soc/</link>
+      <pubDate>Wed, 23 Sep 2026 12:56:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Latvia arrests suspected hacker for electronics repair company breach</title>
+      <link>https://therecord.media/latvia-hacker-arrest-cyberattack</link>
+      <pubDate>Wed, 23 Sep 2026 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Claude Max giveaway hides a Google account phishing trap</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-claude-max-giveaway-hides-a-google-account-phishing-trap</link>
+      <pubDate>Wed, 23 Sep 2026 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Burnham announces plan for new UK center to fight disinformation</title>
+      <link>https://therecord.media/uk-disinformation-russia-center</link>
+      <pubDate>Wed, 23 Sep 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control</title>
+      <link>https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html</link>
+      <pubDate>Wed, 23 Sep 2026 12:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShinyHunters claims FBI breach was revenge for “false” report</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-claims-fbi-breach-was-revenge-for-false-report</link>
+      <pubDate>Wed, 23 Sep 2026 12:03:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Attacks Reach Record High for 2026</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/</link>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent</title>
+      <link>https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html</link>
+      <pubDate>Wed, 23 Sep 2026 11:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests</title>
+      <link>https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html</link>
+      <pubDate>Wed, 23 Sep 2026 11:47:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape</title>
+      <link>https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html</link>
+      <pubDate>Wed, 23 Sep 2026 11:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research on Models Engaging in Genie-Like Behavior</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html</link>
+      <pubDate>Wed, 23 Sep 2026 11:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>EvilTokens made phishing-as-a-service look easy. Then it got taken down</title>
+      <link>https://securityaffairs.com/199593/cyber-crime/eviltokens-made-phishing-as-a-service-look-easy-then-it-got-taken-down.html</link>
+      <pubDate>Wed, 23 Sep 2026 11:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forgot Your Android PIN? Google Is Testing a New Recovery Option</title>
+      <link>https://www.techrepublic.com/article/news-android-forgotten-pin-google-account-recovery/</link>
+      <pubDate>Wed, 23 Sep 2026 10:13:01 +0000</pubDate>
+    </item>
     <item>
       <title>ShinyHunters Claims FBI Hack Via PeopleSoft Zero Day</title>
       <link>https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/</link>
@@ -61,6 +176,11 @@
       <pubDate>Wed, 23 Sep 2026 00:55:11 +0000</pubDate>
     </item>
     <item>
+      <title>The Lure Isn't The Malware. It's Your Logo.</title>
+      <link>https://www.recordedfuture.com/blog/your-logo-is-the-lure</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Canadian regulator opens probe of IDScan for allegedly violating data privacy laws</title>
       <link>https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach</link>
       <pubDate>Tue, 22 Sep 2026 19:52:00 +0000</pubDate>
@@ -106,11 +226,6 @@
       <pubDate>Tue, 22 Sep 2026 16:14:04 +0000</pubDate>
     </item>
     <item>
-      <title>Two arrested in UK after Microsoft takedown of ‘Eviltokens’ AI-chatbot for cybercriminals</title>
-      <link>https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens</link>
-      <pubDate>Tue, 22 Sep 2026 15:51:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SES Complete Is a Certified Leader in the AV-Comparatives EPR Test</title>
       <link>https://www.security.com/feature-stories/ses-complete-certified-leader-av-comparatives-epr-test</link>
       <pubDate>Tue, 22 Sep 2026 15:45:00 +0000</pubDate>
@@ -144,16 +259,6 @@
       <title>LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)</title>
       <link>https://isc.sans.edu/diary/rss/33348</link>
       <pubDate>Tue, 22 Sep 2026 13:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is set to help cyber attackers much more than defenders, says UK official</title>
-      <link>https://therecord.media/ai-set-to-help-attackers-more-than-defenders</link>
-      <pubDate>Tue, 22 Sep 2026 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia's internet shutdowns disrupt warnings about incoming drone attacks</title>
-      <link>https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks</link>
-      <pubDate>Tue, 22 Sep 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AI Incident Response Readiness Lags Behind AI Adoption, ISACA Finds</title>
@@ -199,111 +304,6 @@
       <title>Siemens SIPLUS and SIMATIC Products</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-04</link>
       <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens WTV676 and WTV776</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-08</link>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>lwIP (Lightweight IP)</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02</link>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/09/22/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenPLC Runtime v3</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-09</link>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Industrial Edge Management</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-06</link>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DORA Year Two: Can Your SOC Actually See the Attack?</title>
-      <link>https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html</link>
-      <pubDate>Tue, 22 Sep 2026 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory</title>
-      <link>https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html</link>
-      <pubDate>Tue, 22 Sep 2026 11:38:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE</title>
-      <link>https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html</link>
-      <pubDate>Tue, 22 Sep 2026 11:17:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra Breaks an Old Enigma Message</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html</link>
-      <pubDate>Tue, 22 Sep 2026 11:02:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta’s Muse AI assistant has a zero-day that can turn it into a Mac backdoor</title>
-      <link>https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor</link>
-      <pubDate>Tue, 22 Sep 2026 10:53:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Drives Surge in Bot and API Threats</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/</link>
-      <pubDate>Tue, 22 Sep 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Public PoC Exposes Critical Veeam Agent Privilege Escalation</title>
-      <link>https://securityaffairs.com/199532/security/public-poc-exposes-critical-veeam-agent-privilege-escalation.html</link>
-      <pubDate>Tue, 22 Sep 2026 10:13:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Closed Quorum: Inside the first reported autonomous AI C2 implant</title>
-      <link>https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/</link>
-      <pubDate>Tue, 22 Sep 2026 10:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing CAIRN: Frontier tracking for AI-integrated malware</title>
-      <link>https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/</link>
-      <pubDate>Tue, 22 Sep 2026 10:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers used Claude to hack OpenAI</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai</link>
-      <pubDate>Tue, 22 Sep 2026 09:51:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal</title>
-      <link>https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html</link>
-      <pubDate>Tue, 22 Sep 2026 09:38:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/update-incident-response/</link>
-      <pubDate>Tue, 22 Sep 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. CISA adds Zyxel flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/199518/hacking/u-s-cisa-adds-zyxel-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Tue, 22 Sep 2026 09:13:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intelligence Center 3.9: More AI provider choice, MITRE ATT&amp;CK v19.1 support, and more</title>
-      <link>https://blog.eclecticiq.com/intelligence-center-3.9</link>
-      <pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing</title>
-      <link>https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html</link>
-      <pubDate>Tue, 22 Sep 2026 07:52:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Contagious Interview: 30,000 devices infected by a fake job interview</title>
-      <link>https://securityaffairs.com/199506/uncategorized/contagious-interview-30000-devices-infected-by-a-fake-job-interview.html</link>
-      <pubDate>Tue, 22 Sep 2026 06:44:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
