@@ -4,7 +4,7 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 24 Sep 2026 22:58:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 03:15:31 +0000</lastBuildDate>
     <item>
       <title>Ryuk Member Karen Vardanyan Sentenced to Two Years in U.S. Prison</title>
       <link>https://securityaffairs.com/199692/cyber-crime/ryuk-member-karen-vardanyan-sentenced-to-two-years-in-u-s-prison.html</link>
@@ -68,6 +68,11 @@
     <item>
       <title>Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/</link>
+      <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers</title>
+      <link>https://blog.cloudflare.com/containers-cross-tenant-vulnerability/</link>
       <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -299,11 +304,6 @@
       <title>MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key</title>
       <link>https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html</link>
       <pubDate>Wed, 23 Sep 2026 16:06:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reimagining the SOC for the agentic era in Microsoft Defender</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/</link>
-      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
