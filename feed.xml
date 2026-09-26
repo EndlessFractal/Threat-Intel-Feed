@@ -4,7 +4,22 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sat, 26 Sep 2026 09:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:02:38 +0000</lastBuildDate>
+    <item>
+      <title>Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link</title>
+      <link>https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html</link>
+      <pubDate>Sat, 26 Sep 2026 09:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild</title>
+      <link>https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html</link>
+      <pubDate>Sat, 26 Sep 2026 08:49:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack</title>
+      <link>https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html</link>
+      <pubDate>Sat, 26 Sep 2026 07:48:33 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. CISA adds WordPress flaw to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
@@ -231,11 +246,6 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kiteworks recommends server shutdown pending possible attack</title>
-      <link>https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ryuk Member Karen Vardanyan Sentenced to Two Years in U.S. Prison</title>
       <link>https://securityaffairs.com/199692/cyber-crime/ryuk-member-karen-vardanyan-sentenced-to-two-years-in-u-s-prison.html</link>
       <pubDate>Thu, 24 Sep 2026 20:50:17 +0000</pubDate>
@@ -294,16 +304,6 @@
       <title>How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers</title>
       <link>https://blog.cloudflare.com/containers-cross-tenant-vulnerability/</link>
       <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Measuring MITRE ATT&amp;CK detection coverage: what the percentage counts and what it hides</title>
-      <link>https://socprime.com/blog/measuring-mitre-attck-detection-coverage-what-the-percentage-counts-and-what-it-hides/</link>
-      <pubDate>Thu, 24 Sep 2026 14:58:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free vs. Curated Detection Rules: What Actually Changes When You Pay</title>
-      <link>https://socprime.com/blog/free-vs-curated-detection-rules-what-actually-changes-when-you-pay/</link>
-      <pubDate>Thu, 24 Sep 2026 14:57:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
