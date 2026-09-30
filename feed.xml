@@ -4,10 +4,60 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 30 Sep 2026 14:33:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:29:55 +0000</lastBuildDate>
+    <item>
+      <title>After reports on suicide deaths, Pentagon puts Cyber Command on notice</title>
+      <link>https://therecord.media/cyber-command-suicide-deaths-pentagon-memo</link>
+      <pubDate>Wed, 30 Sep 2026 19:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WatchGuard fixes critical Fireware OS flaw allowing remote code execution</title>
+      <link>https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html</link>
+      <pubDate>Wed, 30 Sep 2026 19:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation</title>
+      <link>https://therecord.media/google-vulnerabilities-cyberattacks-ai</link>
+      <pubDate>Wed, 30 Sep 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets</title>
+      <link>https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html</link>
+      <pubDate>Wed, 30 Sep 2026 16:46:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks</title>
+      <link>https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html</link>
+      <pubDate>Wed, 30 Sep 2026 16:32:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone Security Warning: Apple Says iOS 26 Flaw May Have Been Exploited</title>
+      <link>https://www.techrepublic.com/article/news-apple-iphone-ios-26-security-flaw-exploited/</link>
+      <pubDate>Wed, 30 Sep 2026 15:49:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers steal protective order and foster care records from Arizona courts</title>
+      <link>https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts</link>
+      <pubDate>Wed, 30 Sep 2026 15:29:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager</title>
+      <link>https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html</link>
+      <pubDate>Wed, 30 Sep 2026 15:24:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures</title>
+      <link>https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html</link>
+      <pubDate>Wed, 30 Sep 2026 15:00:15 +0000</pubDate>
+    </item>
     <item>
       <title>Mobile malware warning from Ukrainian researchers includes iPhone exploit kit</title>
       <link>https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android</link>
+      <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/</link>
       <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -33,6 +83,11 @@
     <item>
       <title>AI Boosts SOC Analyst Capacity but Limits Skill Development</title>
       <link>https://www.infosecurity-magazine.com/news/ai-boosts-soc-analyst-capacity/</link>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/09/30/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -116,8 +171,18 @@
       <pubDate>Wed, 30 Sep 2026 02:00:03 +0000</pubDate>
     </item>
     <item>
+      <title>Recorded Future Debuts Autonomous Defense, Built for Machine-Speed Threats</title>
+      <link>https://www.recordedfuture.com/blog/autonomous-defense-platform</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Sophos Firewall v23 is now in early access</title>
       <link>https://www.sophos.com/en-us/blog/sophos-firewall-v23-early-access</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TerminalFix and Lorem Ipsum Loader enable covert tunneling</title>
+      <link>https://www.sophos.com/en-us/blog/terminalfix-and-lorem-ipsum-loader-enable-covert-tunneling</link>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -134,16 +199,6 @@
       <title>Japanese railway operators Keio Corporation and Tokyo Metro disclose security breaches</title>
       <link>https://securityaffairs.com/200027/data-breach/japanese-railway-operators-keio-corporation-and-tokyo-metro-disclose-security-breaches.html</link>
       <pubDate>Tue, 29 Sep 2026 20:54:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Controversial spyware firm Paragon to go public by end of year</title>
-      <link>https://therecord.media/controversial-spyware-firm-paragon-to-go-public</link>
-      <pubDate>Tue, 29 Sep 2026 20:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI apologizes for agents breaching Australian government websites without authorization</title>
-      <link>https://therecord.media/openai-apologizes-australia-medicare-breach</link>
-      <pubDate>Tue, 29 Sep 2026 19:48:00 +0000</pubDate>
     </item>
     <item>
       <title>French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks</title>
@@ -176,6 +231,11 @@
       <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Beware of Malware infection in Facebook Ads Offering Cryptocurrency Rewards</title>
+      <link>https://asec.ahnlab.com/en/95645/</link>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>August 2026 Threat Trend Report on APT Attacks (South Korea)</title>
       <link>https://asec.ahnlab.com/en/95649/</link>
       <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
@@ -183,11 +243,6 @@
     <item>
       <title>Beware of SMS messages claiming to protect your Pi Coin account—phishing sites are stealing wallets</title>
       <link>https://asec.ahnlab.com/en/95646/</link>
-      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of Malware infection in Facebook Ads Offering Cryptocurrency Rewards</title>
-      <link>https://asec.ahnlab.com/en/95645/</link>
       <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -249,61 +304,6 @@
       <title>Is your domain using post-quantum encryption? Now you can see for yourself</title>
       <link>https://blog.cloudflare.com/post-quantum-visibility/</link>
       <pubDate>Tue, 29 Sep 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account</title>
-      <link>https://blog.cloudflare.com/threat-signals/</link>
-      <pubDate>Tue, 29 Sep 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a post-quantum certificate authority with Merkle Tree Certificates</title>
-      <link>https://blog.cloudflare.com/pq-ca-with-mtcs/</link>
-      <pubDate>Tue, 29 Sep 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a certificate authority for the whole Internet</title>
-      <link>https://blog.cloudflare.com/cloudflare-certificate-authority/</link>
-      <pubDate>Tue, 29 Sep 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using AI to chart a course for our post-quantum migration</title>
-      <link>https://blog.cloudflare.com/ai-driven-cryptography-discovery/</link>
-      <pubDate>Tue, 29 Sep 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta’s Muse sent a Facebook Marketplace buyer to a seller’s home</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/09/metas-muse-sent-a-facebook-marketplace-buyer-to-a-sellers-home</link>
-      <pubDate>Tue, 29 Sep 2026 12:51:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/09/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lantronix G520 Series Cellular Gateway</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01</link>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toptech TMS7 and TopHAT</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02</link>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Viidure Dashcam Android Application</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-07</link>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anjvision YSSD-RTMP-H5</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-05</link>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VIVOTEK Camera Firmware</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03</link>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
