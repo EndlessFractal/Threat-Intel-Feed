@@ -4,7 +4,42 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 06 Oct 2026 01:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:30:26 +0000</lastBuildDate>
+    <item>
+      <title>Ransomware Affiliate Double-Crosses RaaS Operator to Steal Victim Funds</title>
+      <link>https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/</link>
+      <pubDate>Tue, 06 Oct 2026 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dell Urges Customers to Patch Critical DSU Flaw That Can Give Attackers Root Access</title>
+      <link>https://securityaffairs.com/200458/security/dell-urges-customers-to-patch-critical-dsu-flaw-that-can-give-attackers-root-access.html</link>
+      <pubDate>Tue, 06 Oct 2026 07:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products</title>
+      <link>https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html</link>
+      <pubDate>Tue, 06 Oct 2026 06:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach</title>
+      <link>https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html</link>
+      <pubDate>Tue, 06 Oct 2026 06:56:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure</title>
+      <link>https://securityaffairs.com/200450/uncategorized/clingstun-linux-backdoor-abuses-public-stun-infrastructure.html</link>
+      <pubDate>Tue, 06 Oct 2026 06:31:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account</title>
+      <link>https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html</link>
+      <pubDate>Tue, 06 Oct 2026 06:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits</title>
+      <link>https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html</link>
+      <pubDate>Tue, 06 Oct 2026 05:22:55 +0000</pubDate>
+    </item>
     <item>
       <title>Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool</title>
       <link>https://therecord.media/wikimedia-foundation-openai-agents-report</link>
@@ -44,6 +79,11 @@
       <title>Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes</title>
       <link>https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html</link>
       <pubDate>Mon, 05 Oct 2026 16:21:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>St. Lucie County Finds Unpermitted Flock Cameras, Raising Privacy Concerns</title>
+      <link>https://www.techrepublic.com/article/news-st-lucie-county-unpermitted-flock-cameras/</link>
+      <pubDate>Mon, 05 Oct 2026 16:14:33 +0000</pubDate>
     </item>
     <item>
       <title>University of Illinois Chicago affected by ransomware attack on medical school</title>
@@ -201,11 +241,6 @@
       <pubDate>Sun, 04 Oct 2026 14:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group</title>
-      <link>https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html</link>
-      <pubDate>Sun, 04 Oct 2026 13:41:21 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
@@ -224,11 +259,6 @@
       <title>User Agent Strings Curiosities, (Sun, Oct 4th)</title>
       <link>https://isc.sans.edu/diary/rss/33394</link>
       <pubDate>Sun, 04 Oct 2026 07:58:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Affairs newsletter Round 598 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
-      <link>https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html</link>
-      <pubDate>Sun, 04 Oct 2026 07:58:06 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI safety leader quits, warning AI company’s culture is ‘broken’</title>
@@ -274,36 +304,6 @@
       <title>Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing</title>
       <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html</link>
       <pubDate>Fri, 02 Oct 2026 21:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers</title>
-      <link>https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html</link>
-      <pubDate>Fri, 02 Oct 2026 17:33:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign</title>
-      <link>https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html</link>
-      <pubDate>Fri, 02 Oct 2026 17:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes</title>
-      <link>https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html</link>
-      <pubDate>Fri, 02 Oct 2026 17:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unidentified Flock Cameras in Florida</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html</link>
-      <pubDate>Fri, 02 Oct 2026 14:52:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: AI Cuts Post-Compromise Attack Time to Minutes</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/</link>
-      <pubDate>Fri, 02 Oct 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protected Quick Tunnels: simple accountless authentication for your next dev project</title>
-      <link>https://blog.cloudflare.com/protected-quick-tunnels/</link>
-      <pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
