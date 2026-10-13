@@ -4,7 +4,62 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 13 Oct 2026 17:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:15:04 +0000</lastBuildDate>
+    <item>
+      <title>The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk</title>
+      <link>https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/</link>
+      <pubDate>Tue, 13 Oct 2026 22:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue</title>
+      <link>https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas</link>
+      <pubDate>Tue, 13 Oct 2026 20:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/</link>
+      <pubDate>Tue, 13 Oct 2026 20:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide</title>
+      <link>https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint</link>
+      <pubDate>Tue, 13 Oct 2026 20:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)</title>
+      <link>https://isc.sans.edu/diary/rss/33422</link>
+      <pubDate>Tue, 13 Oct 2026 19:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets</title>
+      <link>https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html</link>
+      <pubDate>Tue, 13 Oct 2026 18:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/200887/security/u-s-cisa-adds-ivanti-connect-secure-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Tue, 13 Oct 2026 18:14:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another</title>
+      <link>https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html</link>
+      <pubDate>Tue, 13 Oct 2026 18:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far</title>
+      <link>https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html</link>
+      <pubDate>Tue, 13 Oct 2026 17:33:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft</title>
+      <link>https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html</link>
+      <pubDate>Tue, 13 Oct 2026 17:28:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Transfer Passwords and Passkeys Between Android Password Managers</title>
+      <link>https://www.techrepublic.com/article/news-transfer-passwords-passkeys-android-managers/</link>
+      <pubDate>Tue, 13 Oct 2026 16:19:09 +0000</pubDate>
+    </item>
     <item>
       <title>GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking</title>
       <link>https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html</link>
@@ -46,16 +101,6 @@
       <pubDate>Tue, 13 Oct 2026 13:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers</title>
-      <link>https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos</link>
-      <pubDate>Tue, 13 Oct 2026 13:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ledger says hardware implant in cryptocurrency wallets stole recovery phrases</title>
-      <link>https://therecord.media/ledger-cryptocurrency-wallet-implant-theft</link>
-      <pubDate>Tue, 13 Oct 2026 13:18:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation</title>
       <link>https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html</link>
       <pubDate>Tue, 13 Oct 2026 13:12:32 +0000</pubDate>
@@ -66,13 +111,23 @@
       <pubDate>Tue, 13 Oct 2026 13:00:27 +0000</pubDate>
     </item>
     <item>
+      <title>Make Every Symantec DLP High Speed Discovery Scan Count</title>
+      <link>https://www.security.com/product-insights/make-every-symantec-dlp-high-speed-discovery-scan-count</link>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure</link>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Swann Communications SWIFI-SE2KIC</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-02</link>
       <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Make Every Symantec DLP High Speed Discovery Scan Count</title>
-      <link>https://www.security.com/product-insights/make-every-symantec-dlp-high-speed-discovery-scan-count</link>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -166,9 +221,24 @@
       <pubDate>Tue, 13 Oct 2026 06:00:11 +0000</pubDate>
     </item>
     <item>
+      <title>Top 8 Penetration Testing Tools to Enhance Your Security in 2026</title>
+      <link>https://www.techrepublic.com/article/best-penetration-testing-tools/</link>
+      <pubDate>Tue, 13 Oct 2026 05:00:17 +0000</pubDate>
+    </item>
+    <item>
       <title>ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)</title>
       <link>https://isc.sans.edu/diary/rss/33418</link>
       <pubDate>Tue, 13 Oct 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malware Indicators of Compromise (IoCs) | Recorded Future</title>
+      <link>https://www.recordedfuture.com/blog/malware-indicators-of-compromise</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 CVE Landscape</title>
+      <link>https://www.recordedfuture.com/blog/september-2026-cve-landscape</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Building intent-based access control without reading minds</title>
@@ -234,76 +304,6 @@
       <title>How “123456” became the key to almost 9 million personal records</title>
       <link>https://www.malwarebytes.com/blog/news/2026/10/how-123456-became-the-key-to-almost-9-million-personal-records</link>
       <pubDate>Mon, 12 Oct 2026 12:34:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major French Supermarket Chains Hit by Cyber-Attack, Food Stock Impacted</title>
-      <link>https://www.infosecurity-magazine.com/news/french-supermarket-chains/</link>
-      <pubDate>Mon, 12 Oct 2026 11:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bring Your Own Agent: Your Employees' Assistants Are Already Logged In</title>
-      <link>https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html</link>
-      <pubDate>Mon, 12 Oct 2026 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports</title>
-      <link>https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html</link>
-      <pubDate>Mon, 12 Oct 2026 11:21:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing emails are baiting your AI assistant</title>
-      <link>https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant</link>
-      <pubDate>Mon, 12 Oct 2026 10:54:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch</title>
-      <link>https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html</link>
-      <pubDate>Mon, 12 Oct 2026 10:36:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Net Closes Around ShinyHunters with Another FBI Arrest</title>
-      <link>https://www.infosecurity-magazine.com/news/net-closes-shinyhunters-another/</link>
-      <pubDate>Mon, 12 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CyberXero Used 51 AI Agents to Steal 628,000 Ukrainian Records</title>
-      <link>https://securityaffairs.com/200803/cyber-crime/cyberxero-used-51-ai-agents-to-steal-628000-ukrainian-records.html</link>
-      <pubDate>Mon, 12 Oct 2026 09:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Months-Old Palo Alto VPN Vulnerability Remains a Target for Ransomware Groups</title>
-      <link>https://www.infosecurity-magazine.com/news/palo-alto-vpn-vulnerability-target/</link>
-      <pubDate>Mon, 12 Oct 2026 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE</title>
-      <link>https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html</link>
-      <pubDate>Mon, 12 Oct 2026 09:02:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karaoke Giant Reveals Data Breach Impacting Eight Million</title>
-      <link>https://www.infosecurity-magazine.com/news/karaoke-giant-data-breach-eight/</link>
-      <pubDate>Mon, 12 Oct 2026 08:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records</title>
-      <link>https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html</link>
-      <pubDate>Mon, 12 Oct 2026 07:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week in security (October 5 – October 11)</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-5-october-11</link>
-      <pubDate>Mon, 12 Oct 2026 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6 Leaker Demands $30M Meme Coin Market Cap to Release Full Game</title>
-      <link>https://securityaffairs.com/200780/cyber-crime/gta-6-leaker-demands-30m-meme-coin-market-cap-to-release-full-game.html</link>
-      <pubDate>Mon, 12 Oct 2026 05:43:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/33416</link>
-      <pubDate>Mon, 12 Oct 2026 02:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
