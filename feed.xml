@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 14 Oct 2026 19:56:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:59:36 +0000</lastBuildDate>
+    <item>
+      <title>Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant</title>
+      <link>https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/</link>
+      <pubDate>Wed, 14 Oct 2026 22:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Microsoft Windows Shell flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/200965/hacking/u-s-cisa-adds-microsoft-windows-shell-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 14 Oct 2026 21:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Macedonian police arrest alleged administrator behind OLVX cybercrime market</title>
+      <link>https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia</link>
+      <pubDate>Wed, 14 Oct 2026 21:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brooklyn DA’s office disrupts crypto scam targeting Russian community</title>
+      <link>https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers</link>
+      <pubDate>Wed, 14 Oct 2026 20:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-104935: Ivanti Connect Secure Zero-Day Exploited for Unauthenticated Code Execution</title>
+      <link>https://socprime.com/blog/cve-2026-104935-analysis/</link>
+      <pubDate>Wed, 14 Oct 2026 20:00:38 +0000</pubDate>
+    </item>
     <item>
       <title>CVE-2026-96951: Actively Exploited Windows Shell Zero-Day Bypasses Mark of the Web</title>
       <link>https://socprime.com/blog/cve-2026-96951-analysis/</link>
@@ -96,16 +121,6 @@
       <pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records</title>
-      <link>https://therecord.media/new-ivanti-microsoft-bugs-exploitation</link>
-      <pubDate>Wed, 14 Oct 2026 12:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congressional probe faults Match Group for failing to rein in dating app scams</title>
-      <link>https://therecord.media/congressional-probe-faults-match-group-for-failing-to-stop-dating-app-scams</link>
-      <pubDate>Wed, 14 Oct 2026 12:32:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts</title>
       <link>https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html</link>
       <pubDate>Wed, 14 Oct 2026 12:30:42 +0000</pubDate>
@@ -119,6 +134,11 @@
       <title>Hackers heat French supermarket fridges, sparking fires and spoiling food</title>
       <link>https://mcac.maryland.gov/2026/10/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food</link>
       <pubDate>Wed, 14 Oct 2026 12:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kicking off Cybersecurity Career Week with NIST!</title>
@@ -284,26 +304,6 @@
       <title>Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far</title>
       <link>https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html</link>
       <pubDate>Tue, 13 Oct 2026 17:33:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft</title>
-      <link>https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html</link>
-      <pubDate>Tue, 13 Oct 2026 17:28:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Transfer Passwords and Passkeys Between Android Password Managers</title>
-      <link>https://www.techrepublic.com/article/news-transfer-passwords-passkeys-android-managers/</link>
-      <pubDate>Tue, 13 Oct 2026 16:19:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking</title>
-      <link>https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html</link>
-      <pubDate>Tue, 13 Oct 2026 16:18:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email</title>
-      <link>https://asec.ahnlab.com/en/95840/</link>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
