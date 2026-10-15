@@ -4,11 +4,66 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 15 Oct 2026 14:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:40:08 +0000</lastBuildDate>
+    <item>
+      <title>U.S. CISA adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/201041/security/u-s-cisa-adds-palo-alto-networks-pan-os-ahsay-ahsaycbs-and-cisco-secure-email-gateway-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Thu, 15 Oct 2026 19:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-click spyware infecting devices through online ads, researchers say</title>
+      <link>https://therecord.media/spyware-citizen-lab-advertising</link>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More</title>
+      <link>https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html</link>
+      <pubDate>Thu, 15 Oct 2026 18:49:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silent Lynx: Kazakhstan-Linked Hackers Target Russian Refinery and Government</title>
+      <link>https://securityaffairs.com/201003/apt/silent-lynx-kazakhstan-linked-hackers-target-russian-refinery-and-government.html</link>
+      <pubDate>Thu, 15 Oct 2026 18:33:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Q3 Vulnerability Pulse: Discovery ≠ Exploitation</title>
+      <link>https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/</link>
+      <pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FTC Demands Answers From OpenAI and Anthropic About AI Safety</title>
+      <link>https://www.techrepublic.com/article/news-ftc-subpoenas-openai-anthropic-ai-safety/</link>
+      <pubDate>Thu, 15 Oct 2026 17:26:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Measuring Human Cryptanalysis Effort</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html</link>
+      <pubDate>Thu, 15 Oct 2026 16:24:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads</title>
+      <link>https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html</link>
+      <pubDate>Thu, 15 Oct 2026 16:01:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks</title>
+      <link>https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html</link>
+      <pubDate>Thu, 15 Oct 2026 16:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>German Police Seize Robot After Alleged Groping of 16-Year-Old Girl</title>
+      <link>https://www.techrepublic.com/article/news-germany-police-seize-robot-teen-groping-emea/</link>
+      <pubDate>Thu, 15 Oct 2026 14:37:57 +0000</pubDate>
+    </item>
     <item>
       <title>UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978</title>
       <link>https://therecord.media/uk-legal-aid-cyberattack-data</link>
       <pubDate>Thu, 15 Oct 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AdFection: Beyond the Click: Citizen Lab Exposes Ad-Delivered Spyware Networks</title>
+      <link>https://securityaffairs.com/201015/hacking/adfection-beyond-the-click-citizen-lab-exposes-ad-delivered-spyware-networks.html</link>
+      <pubDate>Thu, 15 Oct 2026 14:21:49 +0000</pubDate>
     </item>
     <item>
       <title>Update Chrome: Google fixes 37 security flaws, including seven critical bugs</title>
@@ -16,9 +71,19 @@
       <pubDate>Thu, 15 Oct 2026 14:15:03 +0000</pubDate>
     </item>
     <item>
+      <title>Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams</title>
+      <link>https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html</link>
+      <pubDate>Thu, 15 Oct 2026 14:11:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Suspected Kazakhstan-linked hackers target governments across former Soviet states</title>
       <link>https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage</link>
       <pubDate>Thu, 15 Oct 2026 13:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Questions OpenAI, Anthropic Over AI Agent Security Incidents</title>
+      <link>https://www.techrepublic.com/article/news-eu-openai-anthropic-ai-act-agent-security-emea/</link>
+      <pubDate>Thu, 15 Oct 2026 13:50:16 +0000</pubDate>
     </item>
     <item>
       <title>France: Internet-Exposed Danfoss Controllers Drop 71% After Cyber-Attack</title>
@@ -54,6 +119,36 @@
       <title>Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules</title>
       <link>https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html</link>
       <pubDate>Thu, 15 Oct 2026 12:07:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Malcolm</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01</link>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eclipse Foundation Eclipse Milo</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-01</link>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guangzhou Juan IoT Technology EseeCloud</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-02</link>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>J4Care dcm4che</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-02</link>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thermo Fisher Torrent Suite Software</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-01</link>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Turn Threat Reports into Behavior Rules in Minutes with AI</title>
@@ -119,6 +214,11 @@
       <title>Cisco Urges Customers to Patch Email Gateway Flaw and Check for Compromise</title>
       <link>https://securityaffairs.com/200985/security/cisco-urges-customers-to-patch-email-gateway-flaw-and-check-for-compromise.html</link>
       <pubDate>Thu, 15 Oct 2026 09:27:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Remote Desktop Fails After Update — Microsoft Points to Security Feature</title>
+      <link>https://www.techrepublic.com/article/news-windows-11-remote-desktop-failures/</link>
+      <pubDate>Thu, 15 Oct 2026 09:13:39 +0000</pubDate>
     </item>
     <item>
       <title>GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories</title>
@@ -191,11 +291,6 @@
       <pubDate>Wed, 14 Oct 2026 21:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Brooklyn DA’s office disrupts crypto scam targeting Russian community</title>
-      <link>https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers</link>
-      <pubDate>Wed, 14 Oct 2026 20:33:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-104935: Ivanti Connect Secure Zero-Day Exploited for Unauthenticated Code Execution</title>
       <link>https://socprime.com/blog/cve-2026-104935-analysis/</link>
       <pubDate>Wed, 14 Oct 2026 20:00:38 +0000</pubDate>
@@ -209,101 +304,6 @@
       <title>Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability</title>
       <link>https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html</link>
       <pubDate>Wed, 14 Oct 2026 18:38:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App</title>
-      <link>https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html</link>
-      <pubDate>Wed, 14 Oct 2026 17:38:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages</title>
-      <link>https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html</link>
-      <pubDate>Wed, 14 Oct 2026 17:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI worms could spread across your smart devices, Anthropic warns</title>
-      <link>https://www.malwarebytes.com/blog/ai/2026/10/ai-worms-could-spread-across-your-smart-devices-anthropic-warns</link>
-      <pubDate>Wed, 14 Oct 2026 16:36:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud</title>
-      <link>https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html</link>
-      <pubDate>Wed, 14 Oct 2026 16:34:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html</link>
-      <pubDate>Wed, 14 Oct 2026 16:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday Fixes 1,413 Flaws: Windows Zero-Day Already Under Attack</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-october-2026-patch-tuesday/</link>
-      <pubDate>Wed, 14 Oct 2026 15:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis of the Infrastructure of ARTEX, a Chinese AI Penetration Testing Tool #4 – The Birth of Copy Cat</title>
-      <link>https://asec.ahnlab.com/en/95875/</link>
-      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Future of AI Cryptanalysis</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html</link>
-      <pubDate>Wed, 14 Oct 2026 14:24:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.K. Sanctions Cryptomus for RU Money Laundering</title>
-      <link>https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</link>
-      <pubDate>Wed, 14 Oct 2026 14:22:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattack on Connected Fridges in France</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html</link>
-      <pubDate>Wed, 14 Oct 2026 14:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday Sets New Record with 1,415 CVEs in October 2026 Updates</title>
-      <link>https://securityaffairs.com/200953/security/microsoft-patch-tuesday-sets-new-record-with-1415-cves-in-october-2026-updates.html</link>
-      <pubDate>Wed, 14 Oct 2026 14:01:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ROMULUS Malware Server Leverages ClickFix to Deliver Multiple Payloads</title>
-      <link>https://www.infosecurity-magazine.com/news/romulus-malware-clickfix-deliver/</link>
-      <pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations</title>
-      <link>https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/</link>
-      <pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/</link>
-      <pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts</title>
-      <link>https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html</link>
-      <pubDate>Wed, 14 Oct 2026 12:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution</title>
-      <link>https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html</link>
-      <pubDate>Wed, 14 Oct 2026 12:13:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers heat French supermarket fridges, sparking fires and spoiling food</title>
-      <link>https://mcac.maryland.gov/2026/10/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food</link>
-      <pubDate>Wed, 14 Oct 2026 12:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kicking off Cybersecurity Career Week with NIST!</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/kicking-cybersecurity-career-week-nist</link>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
