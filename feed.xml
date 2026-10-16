@@ -4,7 +4,12 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 16 Oct 2026 19:15:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:27:34 +0000</lastBuildDate>
+    <item>
+      <title>Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html</link>
+      <pubDate>Fri, 16 Oct 2026 21:06:47 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug</title>
       <link>https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html</link>
@@ -96,13 +101,18 @@
       <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation</title>
-      <link>https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation</link>
+      <title>Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials</title>
+      <link>https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials</link>
       <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials</title>
-      <link>https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials</link>
+      <title>CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support</link>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation</title>
+      <link>https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation</link>
       <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -294,16 +304,6 @@
       <title>Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing</title>
       <link>https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html</link>
       <pubDate>Thu, 15 Oct 2026 12:28:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understand Any Threat Report in Minutes: AI Summaries and Attack Flow in Prime Architect</title>
-      <link>https://socprime.com/blog/understand-any-threat-report-in-minutes-ai-summaries-and-attack-flow-in-prime-architect/</link>
-      <pubDate>Thu, 15 Oct 2026 12:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules</title>
-      <link>https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html</link>
-      <pubDate>Thu, 15 Oct 2026 12:07:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
