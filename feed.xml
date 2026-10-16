@@ -4,7 +4,87 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 16 Oct 2026 08:42:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:29:22 +0000</lastBuildDate>
+    <item>
+      <title>F5 addressed critical RCE flaws in NGINX</title>
+      <link>https://securityaffairs.com/201106/security/f5-addressed-critical-rce-flaws-in-nginx.html</link>
+      <pubDate>Fri, 16 Oct 2026 13:36:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia</title>
+      <link>https://therecord.media/russia-datasuckers-hackers-arrested</link>
+      <pubDate>Fri, 16 Oct 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Baltimore suburb confirms August data breach after ransomware claims</title>
+      <link>https://therecord.media/anne-arundel-county-maryland-confirms-data-breach</link>
+      <pubDate>Fri, 16 Oct 2026 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day</title>
+      <link>https://therecord.media/beyond-trust-cyberattack-china</link>
+      <pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Gangs Increasingly Turn to Threats of Physical Violence to Extort Payments</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-threats-physical/</link>
+      <pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Continuous accountability for Verified bots</title>
+      <link>https://blog.cloudflare.com/verified-bots-accountability/</link>
+      <pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-102764: Critical BeyondTrust Remote Support Zero-Day Exploited by China-Linked Hackers</title>
+      <link>https://socprime.com/blog/cve-2026-102764-beyondtrust-zero-day-exploited/</link>
+      <pubDate>Fri, 16 Oct 2026 12:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-99999: Critical PwnEscape Linux Kernel Flaw Enables Guest-to-Host Escape</title>
+      <link>https://socprime.com/blog/cve-2026-99999-analysis/</link>
+      <pubDate>Fri, 16 Oct 2026 12:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Spray and pray” job applications could make it harder for you to spot a scam</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/10/spray-and-pray-job-applications-could-make-it-harder-for-you-to-spot-a-scam</link>
+      <pubDate>Fri, 16 Oct 2026 11:55:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Decision Models and Their Impact on AI SOC Platforms</title>
+      <link>https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html</link>
+      <pubDate>Fri, 16 Oct 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Atlassian flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/201086/hacking/u-s-cisa-adds-atlassian-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Fri, 16 Oct 2026 11:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backdooring Open-Weight AI Models</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html</link>
+      <pubDate>Fri, 16 Oct 2026 11:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI sued over children safety and data use</title>
+      <link>https://www.malwarebytes.com/blog/ai/2026/10/openai-sued-over-children-safety-and-data-use</link>
+      <pubDate>Fri, 16 Oct 2026 10:51:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Espionage Actor Actively Targeting Critical BeyondTrust Flaw, Google Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/china-actor-beyondtrust-flaw-google/</link>
+      <pubDate>Fri, 16 Oct 2026 10:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PEERSTITCH malware: How Attackers Compromised 500 Firewalls Through FortiManager</title>
+      <link>https://securityaffairs.com/201077/malware/peerstitch-malware-how-attackers-compromised-500-firewalls-through-fortimanager.html</link>
+      <pubDate>Fri, 16 Oct 2026 09:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Incident at BAE Systems Disrupts US Federal Bankruptcy Noticing</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-incident-bae-us-bankruptcy/</link>
+      <pubDate>Fri, 16 Oct 2026 09:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>CenterPoint Energy Data Breach: More Than 1 Million Texans Affected</title>
       <link>https://securityaffairs.com/201054/cyber-crime/centerpoint-energy-data-breach-more-than-1-million-texans-affected.html</link>
@@ -34,6 +114,11 @@
       <title>Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)</title>
       <link>https://isc.sans.edu/diary/rss/33430</link>
       <pubDate>Fri, 16 Oct 2026 00:46:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>TAG-217 Targets South Korean Financial Services with ARTEX</title>
+      <link>https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Panchan's Mining Island [Guest Diary], (Wed, Oct 14th)</title>
@@ -111,11 +196,6 @@
       <pubDate>Thu, 15 Oct 2026 14:37:57 +0000</pubDate>
     </item>
     <item>
-      <title>UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978</title>
-      <link>https://therecord.media/uk-legal-aid-cyberattack-data</link>
-      <pubDate>Thu, 15 Oct 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AdFection: Beyond the Click: Citizen Lab Exposes Ad-Delivered Spyware Networks</title>
       <link>https://securityaffairs.com/201015/hacking/adfection-beyond-the-click-citizen-lab-exposes-ad-delivered-spyware-networks.html</link>
       <pubDate>Thu, 15 Oct 2026 14:21:49 +0000</pubDate>
@@ -129,11 +209,6 @@
       <title>Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams</title>
       <link>https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html</link>
       <pubDate>Thu, 15 Oct 2026 14:11:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspected Kazakhstan-linked hackers target governments across former Soviet states</title>
-      <link>https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage</link>
-      <pubDate>Thu, 15 Oct 2026 13:55:00 +0000</pubDate>
     </item>
     <item>
       <title>EU Questions OpenAI, Anthropic Over AI Agent Security Incidents</title>
@@ -229,81 +304,6 @@
       <title>Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool</title>
       <link>https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/</link>
       <pubDate>Thu, 15 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-76519: Critical Cisco Secure Email Gateway Zero-Day Exploited for Root Access</title>
-      <link>https://socprime.com/blog/cve-2026-76519-analysis/</link>
-      <pubDate>Thu, 15 Oct 2026 11:23:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-0322: Actively Exploited PAN-OS RCE Flaw Enables Root Access</title>
-      <link>https://socprime.com/blog/cve-2026-0322-analysis/</link>
-      <pubDate>Thu, 15 Oct 2026 11:15:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raven AI lets cops find your home from a photo taken inside</title>
-      <link>https://www.malwarebytes.com/blog/privacy/2026/10/raven-ai-lets-cops-find-your-home-from-a-photo-taken-inside</link>
-      <pubDate>Thu, 15 Oct 2026 11:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why AI Confidence Is Not Validation</title>
-      <link>https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html</link>
-      <pubDate>Thu, 15 Oct 2026 11:04:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1</title>
-      <link>https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html</link>
-      <pubDate>Thu, 15 Oct 2026 10:42:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aoki: Infostealer Targets AI Coding Assistant Credentials</title>
-      <link>https://www.security.com/threat-intelligence/aoki-infostealer-ai-targeting</link>
-      <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Disrupts Global Yam Store Network Behind One Billion Phishing Messages</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-yam-store-one-billion/</link>
-      <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Urges Customers to Patch Email Gateway Flaw and Check for Compromise</title>
-      <link>https://securityaffairs.com/200985/security/cisco-urges-customers-to-patch-email-gateway-flaw-and-check-for-compromise.html</link>
-      <pubDate>Thu, 15 Oct 2026 09:27:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Remote Desktop Fails After Update — Microsoft Points to Security Feature</title>
-      <link>https://www.techrepublic.com/article/news-windows-11-remote-desktop-failures/</link>
-      <pubDate>Thu, 15 Oct 2026 09:13:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories</title>
-      <link>https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html</link>
-      <pubDate>Thu, 15 Oct 2026 08:45:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICO Reprimands Met Over Third-Party Data Leak</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/</link>
-      <pubDate>Thu, 15 Oct 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts</title>
-      <link>https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html</link>
-      <pubDate>Thu, 15 Oct 2026 07:07:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches</title>
-      <link>https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html</link>
-      <pubDate>Thu, 15 Oct 2026 06:43:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hirudo Android Trojan Replaces Banking Apps to Steal Credentials</title>
-      <link>https://securityaffairs.com/200970/malware/hirudo-android-trojan-replaces-banking-apps-to-steal-credentials.html</link>
-      <pubDate>Thu, 15 Oct 2026 06:06:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)</title>
-      <link>https://isc.sans.edu/diary/rss/33428</link>
-      <pubDate>Thu, 15 Oct 2026 02:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
