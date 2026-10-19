@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 19 Oct 2026 03:05:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:32:46 +0000</lastBuildDate>
+    <item>
+      <title>Japan’s SiteGuard WAF flaw CVE-2026-106931 is already being exploited</title>
+      <link>https://securityaffairs.com/201258/security/japans-siteguard-waf-flaw-cve-2026-106931-is-already-being-exploited.html</link>
+      <pubDate>Mon, 19 Oct 2026 07:43:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week in security (October 12 – October 18)</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-12-october-18</link>
+      <pubDate>Mon, 19 Oct 2026 07:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Update 526: Building HIBP AI/SI First</title>
+      <link>https://www.troyhunt.com/weekly-update-526/</link>
+      <pubDate>Mon, 19 Oct 2026 06:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers</title>
+      <link>https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html</link>
+      <pubDate>Mon, 19 Oct 2026 06:29:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys</title>
+      <link>https://thehackernews.com/2026/10/opencode-console-breach-may-have.html</link>
+      <pubDate>Mon, 19 Oct 2026 06:07:08 +0000</pubDate>
+    </item>
     <item>
       <title>16-Year-Old Broadcom Wi-Fi Bug Lets Attackers Take Over Routers Without a Password</title>
       <link>https://securityaffairs.com/201268/iot/16-year-old-broadcom-wi-fi-bug-lets-attackers-take-over-routers-without-a-password.html</link>
@@ -134,11 +159,6 @@
       <title>Eiliko robot companion exposes private chats and can be hijacked</title>
       <link>https://www.malwarebytes.com/blog/ai/2026/10/eiliko-robot-companion-exposes-private-chats-and-can-be-hijacked</link>
       <pubDate>Fri, 16 Oct 2026 14:28:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Burger King Japan Data Breach Impacted 11 Million Customers</title>
-      <link>https://securityaffairs.com/201119/security/burger-king-japan-data-breach-impacted-11-million-customers.html</link>
-      <pubDate>Fri, 16 Oct 2026 14:04:38 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract</title>
@@ -284,26 +304,6 @@
       <title>ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More</title>
       <link>https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html</link>
       <pubDate>Thu, 15 Oct 2026 18:49:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Q3 Vulnerability Pulse: Discovery ≠ Exploitation</title>
-      <link>https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/</link>
-      <pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FTC Demands Answers From OpenAI and Anthropic About AI Safety</title>
-      <link>https://www.techrepublic.com/article/news-ftc-subpoenas-openai-anthropic-ai-safety/</link>
-      <pubDate>Thu, 15 Oct 2026 17:26:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Measuring Human Cryptanalysis Effort</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html</link>
-      <pubDate>Thu, 15 Oct 2026 16:24:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads</title>
-      <link>https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html</link>
-      <pubDate>Thu, 15 Oct 2026 16:01:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
