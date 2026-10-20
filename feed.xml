@@ -4,11 +4,46 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 20 Oct 2026 18:17:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:54:21 +0000</lastBuildDate>
+    <item>
+      <title>8 eMudhra certificates are compromised. Here's what you need to know</title>
+      <link>https://blog.cloudflare.com/emudhra-certificate-compromise/</link>
+      <pubDate>Tue, 20 Oct 2026 22:20:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)</title>
+      <link>https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/</link>
+      <pubDate>Tue, 20 Oct 2026 20:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024</title>
+      <link>https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims</link>
+      <pubDate>Tue, 20 Oct 2026 20:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>California warns all public school students of data stolen in contractor breach</title>
+      <link>https://therecord.media/california-warns-all-public-school-students-of-data-breach</link>
+      <pubDate>Tue, 20 Oct 2026 19:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>23andMe successor settles with California for $6 million over cybersecurity failings</title>
+      <link>https://therecord.media/23andme-california-data-breach-settlement</link>
+      <pubDate>Tue, 20 Oct 2026 18:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nikkei data breach affected over 1.8 million records</title>
+      <link>https://securityaffairs.com/201369/data-breach/nikkei-data-breach-affected-over-1-8-million-records.html</link>
+      <pubDate>Tue, 20 Oct 2026 18:00:29 +0000</pubDate>
+    </item>
     <item>
       <title>Nigerian national given 8-year sentence for tax business hacks</title>
       <link>https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks</link>
       <pubDate>Tue, 20 Oct 2026 17:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</title>
+      <link>https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html</link>
+      <pubDate>Tue, 20 Oct 2026 17:09:53 +0000</pubDate>
     </item>
     <item>
       <title>Google Cloud Outage in London Disrupts Revolut Banking Services</title>
@@ -41,19 +76,9 @@
       <pubDate>Tue, 20 Oct 2026 14:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>AOMEI yet to notify customers after hackers hijacked its software updates</title>
-      <link>https://therecord.media/aomei-yet-to-notify-customers-hijack-software</link>
-      <pubDate>Tue, 20 Oct 2026 14:11:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites</title>
       <link>https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html</link>
       <pubDate>Tue, 20 Oct 2026 14:07:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-Putin messages disrupt nationwide school assessments in Russia</title>
-      <link>https://therecord.media/anti-putin-messages-disrupt-russian-education-platform</link>
-      <pubDate>Tue, 20 Oct 2026 14:05:00 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk</title>
@@ -91,8 +116,8 @@
       <pubDate>Tue, 20 Oct 2026 12:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hitachi Energy MicroSCADA X SYS600 Product</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04</link>
+      <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -101,18 +126,23 @@
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>HMS Networks PEAK-System PCAN Windows drivers</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-01</link>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy MicroSCADA X SYS600 Product</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04</link>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Hitachi Energy RTU500 Product</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05</link>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>WAGO OS Linux</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-02</link>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HMS Networks PEAK-System PCAN Windows drivers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-01</link>
+      <title>#StopRansomware: SafePay Ransomware</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a</link>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -164,11 +194,6 @@
       <title>Meta glasses caught recording conversations without wake phrase</title>
       <link>https://www.malwarebytes.com/blog/news/2026/10/meta-says-it-fixed-smart-glasses-unprompted-eavesdropping</link>
       <pubDate>Tue, 20 Oct 2026 10:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defense contractors in two NATO allies hacked in recent Russia-linked campaign</title>
-      <link>https://therecord.media/european-defense-contractors-fancy-bear-espionage</link>
-      <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries</title>
@@ -236,9 +261,9 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)</title>
-      <link>https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/</link>
-      <pubDate>Mon, 19 Oct 2026 22:35:42 +0000</pubDate>
+      <title>Why Incident Response Demand Will Grow Faster than Expected</title>
+      <link>https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Plex2Shell Exploit Used to Turn Vulnerable Plex Servers Into Crypto Miners</title>
@@ -279,31 +304,6 @@
       <title>⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More</title>
       <link>https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html</link>
       <pubDate>Mon, 19 Oct 2026 14:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
-      <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
-      <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Security Stack Knows Who Logged In. But Does It Know What AI Agents Do Next?</title>
-      <link>https://www.techrepublic.com/article/news-ai-agents-enterprise-security-access-controls/</link>
-      <pubDate>Mon, 19 Oct 2026 13:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta wants to scrape your website to train its AI, and you can’t say no</title>
-      <link>https://securityaffairs.com/201300/ai/meta-wants-to-scrape-your-website-to-train-its-ai-and-you-cant-say-no.html</link>
-      <pubDate>Mon, 19 Oct 2026 13:32:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenCode Breach Could Affect OpenAI, Anthropic and Google</title>
-      <link>https://www.infosecurity-magazine.com/news/opencode-breach-openai-anthropic/</link>
-      <pubDate>Mon, 19 Oct 2026 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories</title>
-      <link>https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html</link>
-      <pubDate>Mon, 19 Oct 2026 13:05:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
