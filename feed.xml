@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 21 Oct 2026 03:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:05:01 +0000</lastBuildDate>
+    <item>
+      <title>State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web</title>
+      <link>https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html</link>
+      <pubDate>Wed, 21 Oct 2026 07:44:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws</title>
+      <link>https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html</link>
+      <pubDate>Wed, 21 Oct 2026 07:26:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion</title>
+      <link>https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html</link>
+      <pubDate>Wed, 21 Oct 2026 06:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>NSO Spyware Pegasus Hit a Serbian University Rector Six Days Before Snap Elections</title>
+      <link>https://securityaffairs.com/201389/intelligence/nso-spyware-pegasus-hit-a-serbian-university-rector-six-days-before-snap-elections.html</link>
+      <pubDate>Wed, 21 Oct 2026 05:57:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert</title>
+      <link>https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html</link>
+      <pubDate>Wed, 21 Oct 2026 04:57:50 +0000</pubDate>
+    </item>
     <item>
       <title>Operation FlashHole: Lazarus breaks security, defies control</title>
       <link>https://securelist.com/lazarus-operation-flashhole/121541/</link>
@@ -74,6 +99,21 @@
       <title>There's only so much code: the rise in vulnerability numbers</title>
       <link>https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/</link>
       <pubDate>Tue, 20 Oct 2026 15:31:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>They told me to check my retirement savings balance, but now they’re asking for my password?</title>
+      <link>https://asec.ahnlab.com/en/95940/</link>
+      <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does It Stop When Someone Is Watching? The Suspicious Behavior of a New Type of Infostealer</title>
+      <link>https://asec.ahnlab.com/en/95937/</link>
+      <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, October 2026</title>
+      <link>https://asec.ahnlab.com/en/95933/</link>
+      <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>EU cyber law won’t force fixes for fridge controllers hit in French attack</title>
@@ -264,46 +304,6 @@
       <title>ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)</title>
       <link>https://isc.sans.edu/diary/rss/33436</link>
       <pubDate>Tue, 20 Oct 2026 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRONZE SANDCASTLE deploys modified Meterpreter shells</title>
-      <link>https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</link>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Incident Response Demand Will Grow Faster than Expected</title>
-      <link>https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</link>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plex2Shell Exploit Used to Turn Vulnerable Plex Servers Into Crypto Miners</title>
-      <link>https://securityaffairs.com/201324/hacking/plex2shell-exploit-used-to-turn-vulnerable-plex-servers-into-crypto-miners.html</link>
-      <pubDate>Mon, 19 Oct 2026 18:43:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor</title>
-      <link>https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html</link>
-      <pubDate>Mon, 19 Oct 2026 17:32:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor</title>
-      <link>https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html</link>
-      <pubDate>Mon, 19 Oct 2026 16:28:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Log Analysis: From Raw Events to Detections</title>
-      <link>https://socprime.com/blog/log-analysis-from-raw-events-to-security-detections/</link>
-      <pubDate>Mon, 19 Oct 2026 15:42:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploited Vulnerabilities Typically Take Three Months to Patch, Moody’s Finds</title>
-      <link>https://www.infosecurity-magazine.com/news/exploited-vulnerabilities-three/</link>
-      <pubDate>Mon, 19 Oct 2026 15:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AOMEI Backupper update servers hijacked to push malware: Check your PC</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/10/aomei-backupper-update-servers-hijacked-to-push-malware-check-your-pc</link>
-      <pubDate>Mon, 19 Oct 2026 14:21:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
