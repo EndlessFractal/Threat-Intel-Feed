@@ -4,11 +4,86 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 21 Oct 2026 14:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:53:48 +0000</lastBuildDate>
+    <item>
+      <title>Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity</title>
+      <link>https://therecord.media/utilities-cybersecurity-initiative-accenture</link>
+      <pubDate>Wed, 21 Oct 2026 19:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Reports Two Incidents of AI Agents Disabling Their Own Oversight</title>
+      <link>https://securityaffairs.com/201435/ai/openai-reports-two-incidents-of-ai-agents-disabling-their-own-oversight.html</link>
+      <pubDate>Wed, 21 Oct 2026 19:41:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp’s chatbot was given hidden instructions to not mention privacy regulators</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/10/whatsapp-chatbot-privacy-regulators</link>
+      <pubDate>Wed, 21 Oct 2026 18:49:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Democrat lawmakers say Russia is aiming to undermine party ahead of midterms</title>
+      <link>https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party</link>
+      <pubDate>Wed, 21 Oct 2026 18:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link>
+      <pubDate>Wed, 21 Oct 2026 18:23:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flaw in PHP computer language leads to shutdown of websites around world</title>
+      <link>https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world</link>
+      <pubDate>Wed, 21 Oct 2026 18:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor</title>
+      <link>https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html</link>
+      <pubDate>Wed, 21 Oct 2026 18:01:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024</title>
+      <link>https://therecord.media/php-foundation-statement-critical-vulnerabilities</link>
+      <pubDate>Wed, 21 Oct 2026 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So</title>
+      <link>https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html</link>
+      <pubDate>Wed, 21 Oct 2026 16:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</link>
+      <pubDate>Wed, 21 Oct 2026 16:30:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP2Shell: Why websites are going offline for emergency security updates</title>
+      <link>https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates</link>
+      <pubDate>Wed, 21 Oct 2026 16:14:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
+      <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
+      <pubDate>Wed, 21 Oct 2026 15:26:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)</title>
+      <link>https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/</link>
+      <pubDate>Wed, 21 Oct 2026 15:18:04 +0000</pubDate>
+    </item>
     <item>
       <title>Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)</title>
       <link>https://isc.sans.edu/diary/rss/33440</link>
-      <pubDate>Wed, 21 Oct 2026 14:34:28 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 15:12:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two critical RCEs in PHP core</title>
+      <link>https://blog.talosintelligence.com/two-critical-rces-in-php-core/</link>
+      <pubDate>Wed, 21 Oct 2026 15:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity</title>
+      <link>https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/</link>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hundreds of websites taken offline as concern grows over two PHP vulnerabilities</title>
@@ -26,6 +101,11 @@
       <pubDate>Wed, 21 Oct 2026 14:00:24 +0000</pubDate>
     </item>
     <item>
+      <title>PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge</title>
+      <link>https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html</link>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/symantec-ai-agent-llmjacking/</link>
       <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
@@ -34,11 +114,6 @@
       <title>Cloudflare deploys protections against php2shell vulnerability</title>
       <link>https://blog.cloudflare.com/php-vulnerabilities-waf-protection/</link>
       <pubDate>Wed, 21 Oct 2026 13:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619</title>
-      <link>https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</link>
-      <pubDate>Wed, 21 Oct 2026 13:40:34 +0000</pubDate>
     </item>
     <item>
       <title>Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands</title>
@@ -68,6 +143,11 @@
     <item>
       <title>Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy</title>
       <link>https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/</link>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerabilities in PHP Require Immediate Patching</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching</link>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -216,94 +296,14 @@
       <pubDate>Wed, 21 Oct 2026 02:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)</title>
-      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</link>
+      <title>Web App Owners – You’re on Notice. Your Low-Hanging Fruit Just Got Lower</title>
+      <link>https://www.sophos.com/en-us/blog/web-app-owners-your-low-hanging-fruit-just-got-lower</link>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>8 eMudhra certificates are compromised. Here's what you need to know</title>
-      <link>https://blog.cloudflare.com/emudhra-certificate-compromise/</link>
-      <pubDate>Tue, 20 Oct 2026 22:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)</title>
-      <link>https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/</link>
-      <pubDate>Tue, 20 Oct 2026 20:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024</title>
-      <link>https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims</link>
-      <pubDate>Tue, 20 Oct 2026 20:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California warns all public school students of data stolen in contractor breach</title>
-      <link>https://therecord.media/california-warns-all-public-school-students-of-data-breach</link>
-      <pubDate>Tue, 20 Oct 2026 19:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>23andMe successor settles with California for $6 million over cybersecurity failings</title>
-      <link>https://therecord.media/23andme-california-data-breach-settlement</link>
-      <pubDate>Tue, 20 Oct 2026 18:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nikkei data breach affected over 1.8 million records</title>
-      <link>https://securityaffairs.com/201369/data-breach/nikkei-data-breach-affected-over-1-8-million-records.html</link>
-      <pubDate>Tue, 20 Oct 2026 18:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigerian national given 8-year sentence for tax business hacks</title>
-      <link>https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks</link>
-      <pubDate>Tue, 20 Oct 2026 17:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</title>
-      <link>https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html</link>
-      <pubDate>Tue, 20 Oct 2026 17:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Outage in London Disrupts Revolut Banking Services</title>
-      <link>https://securityaffairs.com/201358/breaking-news/google-cloud-outage-in-london-disrupts-revolut-banking-services.html</link>
-      <pubDate>Tue, 20 Oct 2026 15:45:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html</link>
-      <pubDate>Tue, 20 Oct 2026 15:38:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA</title>
-      <link>https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html</link>
-      <pubDate>Tue, 20 Oct 2026 15:32:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>There's only so much code: the rise in vulnerability numbers</title>
-      <link>https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/</link>
-      <pubDate>Tue, 20 Oct 2026 15:31:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>They told me to check my retirement savings balance, but now they’re asking for my password?</title>
-      <link>https://asec.ahnlab.com/en/95940/</link>
-      <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does It Stop When Someone Is Watching? The Suspicious Behavior of a New Type of Infostealer</title>
-      <link>https://asec.ahnlab.com/en/95937/</link>
-      <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 4, October 2026</title>
-      <link>https://asec.ahnlab.com/en/95933/</link>
-      <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Head of AI Security Roles Surge in Large Organizations</title>
-      <link>https://www.infosecurity-magazine.com/news/head-ai-security-roles/</link>
-      <pubDate>Tue, 20 Oct 2026 14:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites</title>
-      <link>https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html</link>
-      <pubDate>Tue, 20 Oct 2026 14:07:17 +0000</pubDate>
+      <title>Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)</title>
+      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
