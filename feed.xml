@@ -4,7 +4,27 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 21 Oct 2026 19:53:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:59:31 +0000</lastBuildDate>
+    <item>
+      <title>Russian Satellite Makes a Close Approach To A Commercial Radar Satellite Used by Ukraine</title>
+      <link>https://securityaffairs.com/201446/breaking-news/russian-satellite-makes-a-close-approach-to-a-commercial-radar-satellite-used-by-ukraine.html</link>
+      <pubDate>Wed, 21 Oct 2026 21:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)</title>
+      <link>https://isc.sans.edu/diary/rss/33440</link>
+      <pubDate>Wed, 21 Oct 2026 21:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compromised eMudhra intermediate certificates</title>
+      <link>https://blog.talosintelligence.com/compromised-intermediate-certificates/</link>
+      <pubDate>Wed, 21 Oct 2026 20:43:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta on the spot for $25 billion under New Mexico privacy ruling</title>
+      <link>https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case</link>
+      <pubDate>Wed, 21 Oct 2026 20:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity</title>
       <link>https://therecord.media/utilities-cybersecurity-initiative-accenture</link>
@@ -14,6 +34,11 @@
       <title>OpenAI Reports Two Incidents of AI Agents Disabling Their Own Oversight</title>
       <link>https://securityaffairs.com/201435/ai/openai-reports-two-incidents-of-ai-agents-disabling-their-own-oversight.html</link>
       <pubDate>Wed, 21 Oct 2026 19:41:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases</title>
+      <link>https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html</link>
+      <pubDate>Wed, 21 Oct 2026 18:57:34 +0000</pubDate>
     </item>
     <item>
       <title>WhatsApp’s chatbot was given hidden instructions to not mention privacy regulators</title>
@@ -69,11 +94,6 @@
       <title>Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)</title>
       <link>https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/</link>
       <pubDate>Wed, 21 Oct 2026 15:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/33440</link>
-      <pubDate>Wed, 21 Oct 2026 15:12:02 +0000</pubDate>
     </item>
     <item>
       <title>Two critical RCEs in PHP core</title>
@@ -141,13 +161,13 @@
       <pubDate>Wed, 21 Oct 2026 12:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy</title>
-      <link>https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/</link>
+      <title>Critical Vulnerabilities in PHP Require Immediate Patching</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching</link>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Critical Vulnerabilities in PHP Require Immediate Patching</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching</link>
+      <title>Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy</title>
+      <link>https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/</link>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -284,26 +304,6 @@
       <title>NSO Spyware Pegasus Hit a Serbian University Rector Six Days Before Snap Elections</title>
       <link>https://securityaffairs.com/201389/intelligence/nso-spyware-pegasus-hit-a-serbian-university-rector-six-days-before-snap-elections.html</link>
       <pubDate>Wed, 21 Oct 2026 05:57:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation FlashHole: Lazarus breaks security, defies control</title>
-      <link>https://securelist.com/lazarus-operation-flashhole/121541/</link>
-      <pubDate>Wed, 21 Oct 2026 02:07:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/33438</link>
-      <pubDate>Wed, 21 Oct 2026 02:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web App Owners – You’re on Notice. Your Low-Hanging Fruit Just Got Lower</title>
-      <link>https://www.sophos.com/en-us/blog/web-app-owners-your-low-hanging-fruit-just-got-lower</link>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)</title>
-      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</link>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
