@@ -4,7 +4,32 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 22 Oct 2026 03:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:07:39 +0000</lastBuildDate>
+    <item>
+      <title>Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/</link>
+      <pubDate>Thu, 22 Oct 2026 08:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI and CISA Warn of SafePay Ransomware Attacks on 600 Organizations</title>
+      <link>https://securityaffairs.com/201464/cyber-crime/fbi-and-cisa-warn-of-safepay-ransomware-attacks-on-600-organizations.html</link>
+      <pubDate>Thu, 22 Oct 2026 06:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia</title>
+      <link>https://securelist.com/uefi-bootkit-blackx/121539/</link>
+      <pubDate>Thu, 22 Oct 2026 06:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack</title>
+      <link>https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html</link>
+      <pubDate>Thu, 22 Oct 2026 04:21:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is PHP, and how bad is the computer language flaw causing website shutdowns globally?</title>
+      <link>https://www.theguardian.com/technology/2026/oct/22/what-is-php-computer-language-flaw-causing-global-website-shutdowns</link>
+      <pubDate>Thu, 22 Oct 2026 04:21:19 +0000</pubDate>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/33446</link>
@@ -49,6 +74,11 @@
       <title>OpenAI Reports Two Incidents of AI Agents Disabling Their Own Oversight</title>
       <link>https://securityaffairs.com/201435/ai/openai-reports-two-incidents-of-ai-agents-disabling-their-own-oversight.html</link>
       <pubDate>Wed, 21 Oct 2026 19:41:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Website Outages Follow Critical PHP Flaws: What IT Teams Should Know</title>
+      <link>https://www.techrepublic.com/article/news-critical-php-flaws-government-websites-patches-europe-emea/</link>
+      <pubDate>Wed, 21 Oct 2026 19:30:01 +0000</pubDate>
     </item>
     <item>
       <title>Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases</title>
@@ -111,19 +141,19 @@
       <pubDate>Wed, 21 Oct 2026 15:10:53 +0000</pubDate>
     </item>
     <item>
-      <title>New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity</title>
-      <link>https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/</link>
-      <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Analysis of the GitHub “php2shell” Repository: Public PoCs and Defense Tools That Spread Immediately After the Disclosure of the PHP Vulnerability</title>
       <link>https://asec.ahnlab.com/en/95944/</link>
       <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hundreds of websites taken offline as concern grows over two PHP vulnerabilities</title>
-      <link>https://therecord.media/php-script-vulnerabilities-warnings</link>
-      <pubDate>Wed, 21 Oct 2026 14:17:00 +0000</pubDate>
+      <title>New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity</title>
+      <link>https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/</link>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian hackers teamed up to wipe data at Ukrainian grain firm</title>
+      <link>https://therecord.media/ukraine-hackers-russia-grain-sandworm</link>
+      <pubDate>Wed, 21 Oct 2026 14:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing full transaction detection for Cloudflare WAF</title>
@@ -176,13 +206,13 @@
       <pubDate>Wed, 21 Oct 2026 12:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy</title>
-      <link>https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/</link>
+      <title>Critical Vulnerabilities in PHP Require Immediate Patching</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching</link>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Critical Vulnerabilities in PHP Require Immediate Patching</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching</link>
+      <title>Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy</title>
+      <link>https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/</link>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -274,36 +304,6 @@
       <title>Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers</title>
       <link>https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/</link>
       <pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert</title>
-      <link>https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html</link>
-      <pubDate>Wed, 21 Oct 2026 09:05:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Children’s Data Stolen After Ransomware Attack Compromises ‘Password1’ Account</title>
-      <link>https://www.infosecurity-magazine.com/news/children-data-stolen-password1/</link>
-      <pubDate>Wed, 21 Oct 2026 09:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Can Now Do More in Chrome, but There’s a Security Trade-Off</title>
-      <link>https://www.techrepublic.com/article/news-openai-chatgpt-chrome-browser-integration-privacy/</link>
-      <pubDate>Wed, 21 Oct 2026 09:04:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites</title>
-      <link>https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html</link>
-      <pubDate>Wed, 21 Oct 2026 09:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases</title>
-      <link>https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html</link>
-      <pubDate>Wed, 21 Oct 2026 08:04:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web</title>
-      <link>https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html</link>
-      <pubDate>Wed, 21 Oct 2026 07:44:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
