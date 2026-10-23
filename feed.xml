@@ -4,7 +4,42 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 23 Oct 2026 14:38:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:44:46 +0000</lastBuildDate>
+    <item>
+      <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</link>
+      <pubDate>Fri, 23 Oct 2026 19:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
+      <link>https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html</link>
+      <pubDate>Fri, 23 Oct 2026 18:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</link>
+      <pubDate>Fri, 23 Oct 2026 18:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP Warns of New Code Execution Flaw Days After PHP2Shell Patches</title>
+      <link>https://securityaffairs.com/201595/security/php-warns-of-new-code-execution-flaw-days-after-php2shell-patches.html</link>
+      <pubDate>Fri, 23 Oct 2026 18:07:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
+      <link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
+      <pubDate>Fri, 23 Oct 2026 17:54:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions</title>
+      <link>https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</link>
+      <pubDate>Fri, 23 Oct 2026 17:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>FCC bans two devices with surveillance chips linked to Huawei</title>
+      <link>https://therecord.media/fcc-bans-devices-huawei-surveillance-chips</link>
+      <pubDate>Fri, 23 Oct 2026 17:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</title>
       <link>https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</link>
@@ -46,6 +81,16 @@
       <pubDate>Fri, 23 Oct 2026 12:48:59 +0000</pubDate>
     </item>
     <item>
+      <title>Hacker leaks 281 GB of data from Germany’s far-right AfD party</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd</link>
+      <pubDate>Fri, 23 Oct 2026 12:29:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Gaming Giant Capcom Confirms Data Breach Exposed Users’ Personal Information</title>
       <link>https://www.infosecurity-magazine.com/news/capcom-confirms-data-breach/</link>
       <pubDate>Fri, 23 Oct 2026 11:45:00 +0000</pubDate>
@@ -56,12 +101,12 @@
       <pubDate>Fri, 23 Oct 2026 11:42:24 +0000</pubDate>
     </item>
     <item>
-      <title>PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches</title>
+      <title>PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches</title>
       <link>https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html</link>
       <pubDate>Fri, 23 Oct 2026 11:25:43 +0000</pubDate>
     </item>
     <item>
-      <title>Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
+      <title>Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
       <link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
       <pubDate>Fri, 23 Oct 2026 11:11:23 +0000</pubDate>
     </item>
@@ -126,6 +171,16 @@
       <pubDate>Fri, 23 Oct 2026 06:08:00 +0000</pubDate>
     </item>
     <item>
+      <title>Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits</title>
+      <link>https://therecord.media/php-php2shell-exploitation-attempts-pocs</link>
+      <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is “SIEM-less” really what it sounds like?</title>
+      <link>https://www.sophos.com/en-us/blog/is-siem-less-really-what-it-sounds-like</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Toronto crime tips org freezes operations after details of data breach come to light</title>
       <link>https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach</link>
       <pubDate>Thu, 22 Oct 2026 20:52:00 +0000</pubDate>
@@ -149,11 +204,6 @@
       <title>Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks</title>
       <link>https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html</link>
       <pubDate>Thu, 22 Oct 2026 19:05:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian tech company eMudhra announces withdrawal from certificate business after security incident</title>
-      <link>https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident</link>
-      <pubDate>Thu, 22 Oct 2026 18:46:00 +0000</pubDate>
     </item>
     <item>
       <title>Signal Vulnerability Could Keep Calls Alive After Users Hang Up</title>
@@ -221,11 +271,6 @@
       <pubDate>Thu, 22 Oct 2026 16:39:57 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents</title>
-      <link>https://therecord.media/china-cyber-connectwise-ai</link>
-      <pubDate>Thu, 22 Oct 2026 16:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations</title>
       <link>https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html</link>
       <pubDate>Thu, 22 Oct 2026 16:12:31 +0000</pubDate>
@@ -259,51 +304,6 @@
       <title>Scammers are finding new ways to target your phone. Here are 5 ways to protect yourself</title>
       <link>https://www.malwarebytes.com/blog/scams/2026/10/scammers-are-finding-new-ways-to-target-your-phone-here-are-5-ways-to-protect-yourself</link>
       <pubDate>Thu, 22 Oct 2026 14:14:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU Regulators to Investigate Booking.com Over Scam Risks</title>
-      <link>https://www.infosecurity-magazine.com/news/eu-bookingcom-scam-risks/</link>
-      <pubDate>Thu, 22 Oct 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The internet has broken – again. Shouldn’t the tech firms that make billions from it pay to fix it? | Chris Stokel-Walker</title>
-      <link>https://www.theguardian.com/commentisfree/2026/oct/22/website-shutdowns-ai-human-inaction-developers</link>
-      <pubDate>Thu, 22 Oct 2026 13:46:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown</title>
-      <link>https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html</link>
-      <pubDate>Thu, 22 Oct 2026 13:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where to Find Sysmon Logs on Windows and How to Export Them</title>
-      <link>https://socprime.com/blog/where-to-find-sysmon-logs-on-windows-and-how-to-export-them/</link>
-      <pubDate>Thu, 22 Oct 2026 13:28:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Serious PHP Vulnerabilities Released and Patched</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html</link>
-      <pubDate>Thu, 22 Oct 2026 13:26:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Hacking Group Found Hosting C2 Infrastructure in the US</title>
-      <link>https://www.infosecurity-magazine.com/news/iranian-hacking-group-hosting-c2/</link>
-      <pubDate>Thu, 22 Oct 2026 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Localizing compliance at scale: achieving South Korea’s ISMS certification</title>
-      <link>https://blog.cloudflare.com/k-isms/</link>
-      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Enable and Export PowerShell Script Block Logs</title>
-      <link>https://socprime.com/blog/how-to-enable-and-export-powershell-script-block-logs/</link>
-      <pubDate>Thu, 22 Oct 2026 12:40:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-110264: Critical GitLab RCE Flaw Affects 12 Years of Releases</title>
-      <link>https://socprime.com/blog/cve-2026-110264-analysis/</link>
-      <pubDate>Thu, 22 Oct 2026 12:09:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
