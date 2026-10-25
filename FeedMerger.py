@@ -1,11 +1,11 @@
 import concurrent.futures
-from datetime import datetime, timezone
-from email.utils import format_datetime
 import html
-from pathlib import Path
 import time
-from xml.dom import minidom
 import xml.etree.ElementTree as ET
+from datetime import UTC, datetime
+from email.utils import format_datetime
+from pathlib import Path
+from xml.dom import minidom
 
 import feedparser
 import requests
@@ -29,13 +29,13 @@ def _get_parsed_datetime(entry):
     for field in ('published_parsed', 'updated_parsed'):
         parsed = getattr(entry, field, None)
         if parsed:
-            return datetime(*parsed[:6], tzinfo=timezone.utc)
+            return datetime(*parsed[:6], tzinfo=UTC)
     return None
 
 # Return UTC datetime for sorting (published_parsed > updated_parsed > min date)
 def get_sort_key(entry):
     dt = _get_parsed_datetime(entry)
-    return dt if dt is not None else datetime.min.replace(tzinfo=timezone.utc)
+    return dt if dt is not None else datetime.min.replace(tzinfo=UTC)
 
  # Fetch a single RSS feed with retries.
 def fetch_feed(url):
@@ -97,7 +97,7 @@ def create_rss_feed(entries):
     ET.SubElement(channel, 'title').text = FEED_TITLE
     ET.SubElement(channel, 'description').text = FEED_DESCRIPTION
     ET.SubElement(channel, 'link').text = FEED_LINK
-    build_date = format_datetime(datetime.now(timezone.utc))
+    build_date = format_datetime(datetime.now(UTC))
     ET.SubElement(channel, 'lastBuildDate').text = build_date
 
     # Keep only the 60 most recent entries, newest first
