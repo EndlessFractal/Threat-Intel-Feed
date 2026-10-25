@@ -82,4 +82,4 @@ Feeds that fail to fetch (timeouts, HTTP errors, etc.) are retried automatically
 
 ## License & support
 
-Licensed under [GPL-3.0](LICENSE). Issues and PRs are welcome via GitHub.
+Licensed under [GPL-3.0](LICENSE). Issues are welcome via GitHub.
