@@ -4,7 +4,57 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 26 Oct 2026 16:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:14:47 +0000</lastBuildDate>
+    <item>
+      <title>Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang</title>
+      <link>https://blog.cloudflare.com/kv-cache-exposure-remediation/</link>
+      <pubDate>Mon, 26 Oct 2026 22:01:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines</title>
+      <link>https://therecord.media/texas-sues-openai-deceiving-customers</link>
+      <pubDate>Mon, 26 Oct 2026 21:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Magento Campaign Infects 953 Online Stores Across Five Domains</title>
+      <link>https://securityaffairs.com/201795/malware/magento-campaign-infects-953-online-stores-across-five-domains.html</link>
+      <pubDate>Mon, 26 Oct 2026 20:41:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento</title>
+      <link>https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html</link>
+      <pubDate>Mon, 26 Oct 2026 18:12:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw</title>
+      <link>https://thehackernews.com/2026/10/php-issues-second-windows-security.html</link>
+      <pubDate>Mon, 26 Oct 2026 17:45:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Serbian autocrat loses election following widespread reports of digital repression</title>
+      <link>https://therecord.media/serbia-election-spyware-vucic</link>
+      <pubDate>Mon, 26 Oct 2026 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored</title>
+      <link>https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse</link>
+      <pubDate>Mon, 26 Oct 2026 16:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds</title>
+      <link>https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams</link>
+      <pubDate>Mon, 26 Oct 2026 16:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Export Google Cloud Audit Logs</title>
+      <link>https://socprime.com/blog/how-to-logtotal/how-to-export-google-cloud-audit-logs/</link>
+      <pubDate>Mon, 26 Oct 2026 16:35:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Export Okta System Logs</title>
+      <link>https://socprime.com/blog/how-to-export-okta-system-logs/</link>
+      <pubDate>Mon, 26 Oct 2026 16:27:29 +0000</pubDate>
+    </item>
     <item>
       <title>Where to Find Nginx and Apache Access Logs</title>
       <link>https://socprime.com/blog/where-to-find-nginx-and-apache-access-logs/</link>
@@ -24,6 +74,11 @@
       <title>CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/</link>
       <pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware</title>
+      <link>https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html</link>
+      <pubDate>Mon, 26 Oct 2026 15:52:40 +0000</pubDate>
     </item>
     <item>
       <title>7 SECURITY.COM The Podcast Moments That Still Haunt Us</title>
@@ -79,11 +134,6 @@
       <title>Researchers Uncover Rentable Android Spyware uCreater Targeting WeChat and Telegram</title>
       <link>https://securityaffairs.com/201764/malware/researchers-uncover-rentable-android-spyware-ucreater-targeting-wechat-and-telegram.html</link>
       <pubDate>Mon, 26 Oct 2026 12:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Popular AI tool LiteLLM says unrevoked key allowed hackers to target users</title>
-      <link>https://therecord.media/litellm-hackers-ai-malware</link>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes</title>
@@ -226,11 +276,6 @@
       <pubDate>Sat, 24 Oct 2026 18:58:38 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. CISA adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog</title>
-      <link>https://securityaffairs.com/201652/security/u-s-cisa-adds-collabora-online-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
-      <pubDate>Sat, 24 Oct 2026 16:53:59 +0000</pubDate>
-    </item>
-    <item>
       <title>Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
       <link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
       <pubDate>Sat, 24 Oct 2026 11:09:29 +0000</pubDate>
@@ -259,51 +304,6 @@
       <title>Friday Squid Blogging: Increasing Squid Populations</title>
       <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html</link>
       <pubDate>Fri, 23 Oct 2026 21:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Reliable)? php2shell exploitability, (Fri, Oct 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/33452</link>
-      <pubDate>Fri, 23 Oct 2026 20:04:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)</title>
-      <link>https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</link>
-      <pubDate>Fri, 23 Oct 2026 19:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
-      <link>https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html</link>
-      <pubDate>Fri, 23 Oct 2026 18:50:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</link>
-      <pubDate>Fri, 23 Oct 2026 18:12:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
-      <link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
-      <pubDate>Fri, 23 Oct 2026 17:54:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions</title>
-      <link>https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</link>
-      <pubDate>Fri, 23 Oct 2026 17:50:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>FCC bans two devices with surveillance chips linked to Huawei</title>
-      <link>https://therecord.media/fcc-bans-devices-huawei-surveillance-chips</link>
-      <pubDate>Fri, 23 Oct 2026 17:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity - Week 43 (2026)</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-8</link>
-      <pubDate>Fri, 23 Oct 2026 17:18:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</title>
-      <link>https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</link>
-      <pubDate>Fri, 23 Oct 2026 13:50:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
