@@ -4,7 +4,17 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Mon, 26 Oct 2026 22:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 03:33:04 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/33462</link>
+      <pubDate>Tue, 27 Oct 2026 02:55:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches for October 2026, (Mon, Oct 26th)</title>
+      <link>https://isc.sans.edu/diary/rss/33458</link>
+      <pubDate>Tue, 27 Oct 2026 02:09:55 +0000</pubDate>
+    </item>
     <item>
       <title>Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang</title>
       <link>https://blog.cloudflare.com/kv-cache-exposure-remediation/</link>
@@ -134,6 +144,11 @@
       <title>Researchers Uncover Rentable Android Spyware uCreater Targeting WeChat and Telegram</title>
       <link>https://securityaffairs.com/201764/malware/researchers-uncover-rentable-android-spyware-ucreater-targeting-wechat-and-telegram.html</link>
       <pubDate>Mon, 26 Oct 2026 12:11:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes</title>
@@ -289,21 +304,6 @@
       <title>Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads</title>
       <link>https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html</link>
       <pubDate>Sat, 24 Oct 2026 10:36:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet</title>
-      <link>https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html</link>
-      <pubDate>Sat, 24 Oct 2026 09:04:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud</title>
-      <link>https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html</link>
-      <pubDate>Sat, 24 Oct 2026 06:25:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Increasing Squid Populations</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html</link>
-      <pubDate>Fri, 23 Oct 2026 21:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
