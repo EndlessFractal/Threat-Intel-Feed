@@ -4,11 +4,36 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 28 Oct 2026 20:44:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 01:29:53 +0000</lastBuildDate>
+    <item>
+      <title>Yet Another ClickFix Campaign, (Wed, Oct 28th)</title>
+      <link>https://isc.sans.edu/diary/rss/33466</link>
+      <pubDate>Thu, 29 Oct 2026 00:42:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #490: How Jared Kushner’s iPhone was allegedly hacked twice</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-490/</link>
+      <pubDate>Thu, 29 Oct 2026 00:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN</title>
+      <link>https://blog.talosintelligence.com/uat-11473-keydrift/</link>
+      <pubDate>Wed, 28 Oct 2026 21:32:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Court strikes down West Virginia law barring disclosure of public officials’ personal data</title>
+      <link>https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court</link>
+      <pubDate>Wed, 28 Oct 2026 20:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Japan Airlines warns of data breach as country grapples with multiple cyber incidents</title>
       <link>https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents</link>
       <pubDate>Wed, 28 Oct 2026 20:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hive and Nefilim Ransomware Affiliate Gets 70 Months In Jail</title>
+      <link>https://securityaffairs.com/201960/cyber-crime/hive-and-nefilim-ransomware-affiliate-gets-70-months-in-jail.html</link>
+      <pubDate>Wed, 28 Oct 2026 20:19:06 +0000</pubDate>
     </item>
     <item>
       <title>Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns</title>
@@ -46,11 +71,6 @@
       <pubDate>Wed, 28 Oct 2026 16:23:34 +0000</pubDate>
     </item>
     <item>
-      <title>Yet Another ClickFix Campaign, (Wed, Oct 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/33466</link>
-      <pubDate>Wed, 28 Oct 2026 16:07:03 +0000</pubDate>
-    </item>
-    <item>
       <title>PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network</title>
       <link>https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html</link>
       <pubDate>Wed, 28 Oct 2026 16:02:45 +0000</pubDate>
@@ -64,11 +84,6 @@
       <title>Japan’s GMO Internet Urges Customers to Disconnect PCs</title>
       <link>https://www.infosecurity-magazine.com/news/japan-gmo-internet-disconnect/</link>
       <pubDate>Wed, 28 Oct 2026 15:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK to look at making software companies liable for cyber breaches</title>
-      <link>https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches</link>
-      <pubDate>Wed, 28 Oct 2026 15:37:00 +0000</pubDate>
     </item>
     <item>
       <title>Faster Every Time: Scaling Enterprise DLP Discovery</title>
@@ -266,6 +281,11 @@
       <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Weak Link Identified by AI: October 2026, When the Outer Contact Point Collapsed</title>
+      <link>https://asec.ahnlab.com/en/96188/</link>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>September 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/96183/</link>
       <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
@@ -284,26 +304,6 @@
       <title>How to Export Google Workspace Audit Logs</title>
       <link>https://socprime.com/blog/how-to-export-google-workspace-audit-logs/</link>
       <pubDate>Tue, 27 Oct 2026 14:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where to Find Windows DNS Server Logs</title>
-      <link>https://socprime.com/blog/where-to-find-windows-dns-server-logs/</link>
-      <pubDate>Tue, 27 Oct 2026 14:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption</title>
-      <link>https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html</link>
-      <pubDate>Tue, 27 Oct 2026 13:59:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads</title>
-      <link>https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html</link>
-      <pubDate>Tue, 27 Oct 2026 13:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Cloudflare PHP Capture the Flag challenge</title>
-      <link>https://blog.cloudflare.com/php-ctf/</link>
-      <pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
