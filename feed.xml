@@ -4,7 +4,22 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sat, 31 Oct 2026 01:24:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:57:11 +0000</lastBuildDate>
+    <item>
+      <title>A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats</title>
+      <link>https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</link>
+      <pubDate>Sat, 31 Oct 2026 05:33:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%</title>
+      <link>https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html</link>
+      <pubDate>Sat, 31 Oct 2026 04:56:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/</link>
+      <pubDate>Sat, 31 Oct 2026 01:02:57 +0000</pubDate>
+    </item>
     <item>
       <title>Yoba Malware Hides a Crypto Miner Behind Legitimate OpenAI and Anthropic Binaries</title>
       <link>https://securityaffairs.com/202149/malware/yoba-malware-hides-a-crypto-miner-behind-legitimate-openai-and-anthropic-binaries.html</link>
@@ -161,6 +176,11 @@
       <pubDate>Fri, 30 Oct 2026 10:40:45 +0000</pubDate>
     </item>
     <item>
+      <title>Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data</link>
+      <pubDate>Fri, 30 Oct 2026 10:33:50 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Export Logs from Elasticsearch and Kibana</title>
       <link>https://socprime.com/blog/how-to-export-logs-from-elasticsearch-and-kibana/</link>
       <pubDate>Fri, 30 Oct 2026 10:14:23 +0000</pubDate>
@@ -261,6 +281,11 @@
       <pubDate>Thu, 29 Oct 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>BYOD cyberattack diverts ambulances and cancels classes at University of New Mexico health center</title>
+      <link>https://www.fortra.com/blog/byod-cyberattack-diverts-ambulances-and-cancels-classes-university-new-mexico-health-center</link>
+      <pubDate>Thu, 29 Oct 2026 17:01:24 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. CISA adds Linux Kernel and Broadcom VMWare ESX  flaws to its Known Exploited Vulnerabilities catalog</title>
       <link>https://securityaffairs.com/202050/hacking/u-s-cisa-adds-linux-kernel-and-broadcom-vmware-esx-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
       <pubDate>Thu, 29 Oct 2026 16:05:56 +0000</pubDate>
@@ -279,31 +304,6 @@
       <title>Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions</title>
       <link>https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html</link>
       <pubDate>Thu, 29 Oct 2026 15:57:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners</title>
-      <link>https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html</link>
-      <pubDate>Thu, 29 Oct 2026 15:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 2026 Threat Trend Report on APT Attacks (South Korea)</title>
-      <link>https://asec.ahnlab.com/en/96295/</link>
-      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIK C2 Malware Can Use Victims’ OpenAI Keys for AI Queries</title>
-      <link>https://www.infosecurity-magazine.com/news/nik-c2-malware-victims-openai-keys/</link>
-      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Firefox extensions impersonate popular crypto wallets</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/10/malicious-firefox-extensions-impersonate-popular-crypto-wallets</link>
-      <pubDate>Thu, 29 Oct 2026 14:06:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>CREST Urges Whole-Ecosystem Approach to Financial Cyber Resilience</title>
-      <link>https://www.infosecurity-magazine.com/news/crest-financial-cyber-resilience/</link>
-      <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
