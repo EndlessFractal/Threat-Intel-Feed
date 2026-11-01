@@ -4,7 +4,17 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sun, 01 Nov 2026 18:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:19:32 +0000</lastBuildDate>
+    <item>
+      <title>FBI Blames North Korea for $6 Billion Binance Crypto Theft</title>
+      <link>https://securityaffairs.com/202221/apt/fbi-blames-north-korea-for-6-billion-binance-crypto-theft.html</link>
+      <pubDate>Sun, 01 Nov 2026 19:23:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 6</title>
+      <link>https://securityaffairs.com/202216/ai/security-affairs-ai-cybersecurity-newsletter-round-6.html</link>
+      <pubDate>Sun, 01 Nov 2026 18:02:24 +0000</pubDate>
+    </item>
     <item>
       <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 121</title>
       <link>https://securityaffairs.com/202209/malware/security-affairs-malware-newsletter-round-121.html</link>
@@ -226,11 +236,6 @@
       <pubDate>Fri, 30 Oct 2026 12:21:56 +0000</pubDate>
     </item>
     <item>
-      <title>How to prioritize remediation after a pentest: a practitioner workflow</title>
-      <link>https://securityaffairs.com/202110/hacking/how-to-prioritize-remediation-after-a-pentest-a-practitioner-workflow.html</link>
-      <pubDate>Fri, 30 Oct 2026 12:06:39 +0000</pubDate>
-    </item>
-    <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
@@ -281,6 +286,11 @@
       <pubDate>Fri, 30 Oct 2026 10:14:23 +0000</pubDate>
     </item>
     <item>
+      <title>Filter generation in practice: from algorithms to LLMs</title>
+      <link>https://securelist.com/practical-filter-generation/121697/</link>
+      <pubDate>Fri, 30 Oct 2026 10:00:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Taking DLP to the Cloud Edge with Kubernetes</title>
       <link>https://www.security.com/product-insights/taking-dlp-cloud-edge-kubernetes</link>
       <pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
@@ -294,16 +304,6 @@
       <title>How to Export Logs from Microsoft Sentinel</title>
       <link>https://socprime.com/blog/how-to-export-logs-from-microsoft-sentinel/</link>
       <pubDate>Fri, 30 Oct 2026 09:35:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Export Advanced Hunting Results from Microsoft Defender XDR</title>
-      <link>https://socprime.com/blog/how-to-export-advanced-hunting-results-from-microsoft-defender-xdr/</link>
-      <pubDate>Fri, 30 Oct 2026 09:26:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Export Logs from Google SecOps (Chronicle)</title>
-      <link>https://socprime.com/blog/how-to-export-logs-from-google-secops-chronicle/</link>
-      <pubDate>Fri, 30 Oct 2026 09:09:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
