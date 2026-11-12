@@ -4,16 +4,46 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 11 Nov 2026 21:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:40:08 +0000</lastBuildDate>
+    <item>
+      <title>ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/33512</link>
+      <pubDate>Thu, 12 Nov 2026 02:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #492: How hackers turned Russian cars into pumpkins</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-492/</link>
+      <pubDate>Thu, 12 Nov 2026 00:32:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know</title>
+      <link>https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/</link>
+      <pubDate>Wed, 11 Nov 2026 23:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Pentest Tool AntiFox Abused To Steal AWS Credentials</title>
+      <link>https://securityaffairs.com/202880/hacking/ai-pentest-tool-antifox-abused-to-steal-aws-credentials.html</link>
+      <pubDate>Wed, 11 Nov 2026 21:31:32 +0000</pubDate>
+    </item>
     <item>
       <title>WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data</title>
       <link>https://securityaffairs.com/202869/data-breach/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data.html</link>
       <pubDate>Wed, 11 Nov 2026 20:47:36 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Patches 1,235 Security Flaws: Outlook Zero-Day Already Under Attack</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-november-2026-patch-tuesday/</link>
+      <pubDate>Wed, 11 Nov 2026 19:55:23 +0000</pubDate>
+    </item>
+    <item>
       <title>The global socket: how threat actors are weaponizing GSocket for stealthy C2</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/</link>
       <pubDate>Wed, 11 Nov 2026 19:49:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ring Introduces Drone and Rover Cameras for Homes and Businesses</title>
+      <link>https://www.techrepublic.com/article/news-ring-drone-rover-cam-security-cameras/</link>
+      <pubDate>Wed, 11 Nov 2026 19:28:13 +0000</pubDate>
     </item>
     <item>
       <title>Vanderbilt restores systems after cyberattack as hackers claim data theft</title>
@@ -216,13 +246,18 @@
       <pubDate>Wed, 11 Nov 2026 01:41:17 +0000</pubDate>
     </item>
     <item>
-      <title>AI Is Both Target and Tool for Threat Actors</title>
-      <link>https://www.recordedfuture.com/research/ai-cyber-threat-trends-2026</link>
+      <title>Your training data is boring: Anomaly detection with LLMs</title>
+      <link>https://www.sophos.com/en-us/blog/your-training-data-is-boring-anomaly-detection-with-llms</link>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Your training data is boring: Anomaly detection with LLMs</title>
-      <link>https://www.sophos.com/en-us/blog/your-training-data-is-boring-anomaly-detection-with-llms</link>
+      <title>Malicious ScreenConnect deployments observed</title>
+      <link>https://www.sophos.com/en-us/blog/malicious-screenconnect-deployments-observed</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Is Both Target and Tool for Threat Actors</title>
+      <link>https://www.recordedfuture.com/research/ai-cyber-threat-trends-2026</link>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -269,41 +304,6 @@
       <title>SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users</title>
       <link>https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html</link>
       <pubDate>Tue, 10 Nov 2026 19:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access</title>
-      <link>https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html</link>
-      <pubDate>Tue, 10 Nov 2026 18:12:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem</title>
-      <link>https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html</link>
-      <pubDate>Tue, 10 Nov 2026 17:43:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Expands Incident Reporting Form While CIRCIA Mandate Waits</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/</link>
-      <pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian hackers turned up the heat on French supermarket freezers, says France</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france</link>
-      <pubDate>Tue, 10 Nov 2026 16:05:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor</title>
-      <link>https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html</link>
-      <pubDate>Tue, 10 Nov 2026 16:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America</title>
-      <link>https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html</link>
-      <pubDate>Tue, 10 Nov 2026 15:58:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOS Sandbox Escape Is Public, and Apple Hasn’t Confirmed a Fix</title>
-      <link>https://securityaffairs.com/202788/hacking/ios-sandbox-escape-is-public-and-apple-hasnt-confirmed-a-fix.html</link>
-      <pubDate>Tue, 10 Nov 2026 15:46:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
