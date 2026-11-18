@@ -4,16 +4,81 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 17 Nov 2026 17:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:27:38 +0000</lastBuildDate>
     <item>
-      <title>Uber says nearly 150,000 impacted by third-party breach</title>
-      <link>https://therecord.media/uber-says-150000-impacted-third-party-breach</link>
-      <pubDate>Wed, 18 Nov 2026 01:20:00 +0000</pubDate>
+      <title>Defending Against Java4Shell: Vulnerability in OpenJDK Enables RCE on AVX-512 CPUs</title>
+      <link>https://www.sentinelone.com/blog/java4shell-vulnerability-in-openjdk-enables-rce-on-avx-512-cpus/</link>
+      <pubDate>Tue, 17 Nov 2026 22:19:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Website management platform Optimizely confirms hackers put malicious code into customer sites</title>
+      <link>https://therecord.media/optimizely-malicious-code-customer-sites</link>
+      <pubDate>Tue, 17 Nov 2026 21:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Services Disrupted as NSA Network Goes Down and Equinor Faces Cyberattack</title>
+      <link>https://securityaffairs.com/203354/security/apple-outages-add-to-growing-concerns-over-technology-service-disruptions.html</link>
+      <pubDate>Tue, 17 Nov 2026 20:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us</title>
+      <link>https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/</link>
+      <pubDate>Tue, 17 Nov 2026 20:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>National Security Agency network for internal communications goes down</title>
+      <link>https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down</link>
+      <pubDate>Tue, 17 Nov 2026 20:35:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quad9’s withdrawal from France: A canary in the coal mine</title>
+      <link>https://blog.cloudflare.com/quad9-withdrawal-from-france/</link>
+      <pubDate>Tue, 17 Nov 2026 20:24:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses</title>
+      <link>https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html</link>
+      <pubDate>Tue, 17 Nov 2026 19:34:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fireworks AI Breach Exposes Uber Data and Highlights Supply Chain Risks</title>
+      <link>https://securityaffairs.com/203339/data-breach/fireworks-ai-breach-exposes-uber-data-and-highlights-supply-chain-risks.html</link>
+      <pubDate>Tue, 17 Nov 2026 19:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kazakh ransomware hacking suspect extradited from Italy</title>
+      <link>https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx</link>
+      <pubDate>Tue, 17 Nov 2026 19:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese state group developing automated attack tool for cyber espionage, Google says</title>
+      <link>https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage</link>
+      <pubDate>Tue, 17 Nov 2026 18:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI lost control of AI agents over 80 times, California alleges</title>
+      <link>https://www.malwarebytes.com/blog/ai/2026/11/openai-lost-control-of-ai-agents-over-80-times-california-alleges</link>
+      <pubDate>Tue, 17 Nov 2026 18:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security for the agentic era, powered by Microsoft Perception</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/</link>
+      <pubDate>Tue, 17 Nov 2026 18:14:00 +0000</pubDate>
     </item>
     <item>
       <title>California fines Hertz $1.5 million for breaking state data privacy law</title>
       <link>https://therecord.media/california-fines-hertz-state-data-privacy-law</link>
       <pubDate>Tue, 17 Nov 2026 17:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Police Facial Recognition Failures Expose Risks for Business AI</title>
+      <link>https://www.techrepublic.com/article/news-police-facial-recognition-business-ai-emea-uk/</link>
+      <pubDate>Tue, 17 Nov 2026 16:52:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Protects the Platform: Why Cloud Backup Needs a Rethink</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-365-cloud-backup-data-recovery/</link>
+      <pubDate>Tue, 17 Nov 2026 16:22:07 +0000</pubDate>
     </item>
     <item>
       <title>NSA Net, agency’s classified internal network, faces unspecified disruptions</title>
@@ -26,8 +91,23 @@
       <pubDate>Tue, 17 Nov 2026 15:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges</title>
+      <link>https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html</link>
+      <pubDate>Tue, 17 Nov 2026 15:17:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers</title>
+      <link>https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html</link>
+      <pubDate>Tue, 17 Nov 2026 15:17:28 +0000</pubDate>
+    </item>
+    <item>
       <title>The risks of device code authentication for AI coding agents</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/</link>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenJDK Java Vulnerability Patch Recommendation (CVE-2026-114938)</title>
+      <link>https://asec.ahnlab.com/en/96615/</link>
       <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -41,14 +121,14 @@
       <pubDate>Tue, 17 Nov 2026 14:39:55 +0000</pubDate>
     </item>
     <item>
-      <title>Autistic teen hacker pleads guilty to leak of Grand Theft Auto VI footage</title>
-      <link>https://therecord.media/autistic-teen-hacker-guilty-plea-britain-gta6-leak</link>
-      <pubDate>Tue, 17 Nov 2026 14:09:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Autonomous Cyberattacks: New Trends and How to Prepare for It</title>
       <link>https://socprime.com/blog/autonomous-cyberattacks-new-trends-and-how-to-prepare-for-it/</link>
       <pubDate>Tue, 17 Nov 2026 14:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI’s New Detection Tool Could Cut Child Abuse Image Reviews by 48%</title>
+      <link>https://www.techrepublic.com/article/news-openai-ai-child-abuse-image-detection-tool/</link>
+      <pubDate>Tue, 17 Nov 2026 14:05:48 +0000</pubDate>
     </item>
     <item>
       <title>ARTEX Detection: Hunting the AI Pentest Framework Turned Attack Platform</title>
@@ -101,38 +181,13 @@
       <pubDate>Tue, 17 Nov 2026 12:05:43 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens Simcenter Femap</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10</link>
+      <title>Siemens meta-iot2050</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11</link>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens ROS#</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIMATIC</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Industrial Automation Software Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Industrial Software Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dorsett Controls InfoScan</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM APE1808</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07</link>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog</link>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -141,8 +196,33 @@
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siemens meta-iot2050</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11</link>
+      <title>Siemens RUGGEDCOM APE1808</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07</link>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Industrial Automation Software Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03</link>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08</link>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Simcenter Femap</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10</link>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Industrial Software Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04</link>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Java Vulnerability Requires Immediate Patching</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching</link>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -153,6 +233,16 @@
     <item>
       <title>Siemens Mendix Studio Pro</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05</link>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dorsett Controls InfoScan</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01</link>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens ROS#</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06</link>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -214,96 +304,6 @@
       <title>Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns</title>
       <link>https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/</link>
       <pubDate>Tue, 17 Nov 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany: Greiz Hospital Reopens Emergency Room After Ransom Attack</title>
-      <link>https://securityaffairs.com/203279/cyber-crime/germany-greiz-hospital-reopens-emergency-room-after-ransom-attack.html</link>
-      <pubDate>Tue, 17 Nov 2026 08:20:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 2</title>
-      <link>https://securelist.com/operation-shadowcloud-graphdoor/122005/</link>
-      <pubDate>Tue, 17 Nov 2026 08:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1</title>
-      <link>https://securelist.com/operation-shadowcloud-gitdoor/122004/</link>
-      <pubDate>Tue, 17 Nov 2026 08:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors</title>
-      <link>https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html</link>
-      <pubDate>Tue, 17 Nov 2026 07:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems</title>
-      <link>https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html</link>
-      <pubDate>Tue, 17 Nov 2026 06:29:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners</title>
-      <link>https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html</link>
-      <pubDate>Tue, 17 Nov 2026 05:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/33524</link>
-      <pubDate>Tue, 17 Nov 2026 02:05:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/</link>
-      <pubDate>Tue, 17 Nov 2026 00:08:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is Threat Intelligence Worth? 142 Security Teams Did the Math.</title>
-      <link>https://www.recordedfuture.com/blog/threat-intelligence-roi</link>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments</title>
-      <link>https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/</link>
-      <pubDate>Mon, 16 Nov 2026 23:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness</title>
-      <link>https://therecord.media/california-sues-openai-hugging-face</link>
-      <pubDate>Mon, 16 Nov 2026 21:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Banks Struggle With Outages Amid Wider Technology Disruptions</title>
-      <link>https://securityaffairs.com/203272/security/u-s-banks-struggle-with-outages-amid-wider-technology-disruptions.html</link>
-      <pubDate>Mon, 16 Nov 2026 21:38:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google GTIG Warns AI Agents Automate Exploits, Steal Credentials and Scale Cybercrime</title>
-      <link>https://securityaffairs.com/203260/hacking/google-gtig-warns-ai-agents-automate-exploits-steal-credentials-and-scale-cybercrime.html</link>
-      <pubDate>Mon, 16 Nov 2026 19:42:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Typosquatters Target New Brand Domains Within 24 Hours of Registration</title>
-      <link>https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/</link>
-      <pubDate>Mon, 16 Nov 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Poste Subsidiary Maileva Breach Exposes 22 Million People</title>
-      <link>https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/</link>
-      <pubDate>Mon, 16 Nov 2026 15:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 2026: Major APT Group Trends</title>
-      <link>https://asec.ahnlab.com/en/96569/</link>
-      <pubDate>Mon, 16 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cognitive warfare: the new battlefield is the human mind</title>
-      <link>https://securityaffairs.com/203250/cyber-warfare-2/cognitive-warfare-the-new-battlefield-is-the-human-mind.html</link>
-      <pubDate>Mon, 16 Nov 2026 14:50:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches</title>
-      <link>https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html</link>
-      <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
