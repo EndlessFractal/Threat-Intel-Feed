@@ -4,7 +4,62 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Wed, 18 Nov 2026 00:27:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:40:55 +0000</lastBuildDate>
+    <item>
+      <title>Watchdog Warns UK Government Is Falling Short on Risk Management</title>
+      <link>https://www.infosecurity-magazine.com/news/watchdog-government-risk/</link>
+      <pubDate>Wed, 18 Nov 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. CISA adds Perforce Puppet Enterprise flaw to its Known Exploited Vulnerabilities catalog</title>
+      <link>https://securityaffairs.com/203377/hacking/u-s-cisa-adds-perforce-puppet-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog.html</link>
+      <pubDate>Wed, 18 Nov 2026 08:41:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting</title>
+      <link>https://securelist.com/auditteam-opsagent-forced-audit/122031/</link>
+      <pubDate>Wed, 18 Nov 2026 07:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials</title>
+      <link>https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html</link>
+      <pubDate>Wed, 18 Nov 2026 06:45:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio</title>
+      <link>https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio</link>
+      <pubDate>Wed, 18 Nov 2026 06:26:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization</title>
+      <link>https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html</link>
+      <pubDate>Wed, 18 Nov 2026 05:58:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More</title>
+      <link>https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html</link>
+      <pubDate>Wed, 18 Nov 2026 04:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Used Optimizely to A/B Test Malware on Top Websites</title>
+      <link>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</link>
+      <pubDate>Wed, 18 Nov 2026 02:52:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/33528</link>
+      <pubDate>Wed, 18 Nov 2026 02:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-114938: Critical vulnerability in OpenJDK JAVA</title>
+      <link>https://blog.talosintelligence.com/java4shell/</link>
+      <pubDate>Wed, 18 Nov 2026 01:53:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500</title>
+      <link>https://therecord.media/cisa-issues-java4shell-alert</link>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Defending Against Java4Shell: Vulnerability in OpenJDK Enables RCE on AVX-512 CPUs</title>
       <link>https://www.sentinelone.com/blog/java4shell-vulnerability-in-openjdk-enables-rce-on-avx-512-cpus/</link>
@@ -81,11 +136,6 @@
       <pubDate>Tue, 17 Nov 2026 16:22:07 +0000</pubDate>
     </item>
     <item>
-      <title>NSA Net, agency’s classified internal network, faces unspecified disruptions</title>
-      <link>https://therecord.media/nsa-net-disruptions</link>
-      <pubDate>Tue, 17 Nov 2026 16:21:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Anthropic Cuts Disclosure Deadline to 30 Days For Serious Bugs</title>
       <link>https://www.infosecurity-magazine.com/news/anthropic-disclosure-deadline-30/</link>
       <pubDate>Tue, 17 Nov 2026 15:30:00 +0000</pubDate>
@@ -103,6 +153,11 @@
     <item>
       <title>The risks of device code authentication for AI coding agents</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/</link>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, November 2026</title>
+      <link>https://asec.ahnlab.com/en/96624/</link>
       <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -249,61 +304,6 @@
       <title>Facebook may have access to your entire photo gallery</title>
       <link>https://www.malwarebytes.com/blog/mobile/2026/11/facebook-may-have-access-to-your-entire-photo-gallery</link>
       <pubDate>Tue, 17 Nov 2026 11:34:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Holiday shopping in a world of fakes: How AI is changing the game</title>
-      <link>https://www.malwarebytes.com/blog/threat-intel/2026/11/holiday-shopping-in-a-world-of-fakes-how-ai-is-changing-the-game</link>
-      <pubDate>Tue, 17 Nov 2026 11:29:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels</title>
-      <link>https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html</link>
-      <pubDate>Tue, 17 Nov 2026 11:20:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks</title>
-      <link>https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html</link>
-      <pubDate>Tue, 17 Nov 2026 11:07:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok Build Apps Left Sensitive Data Open to Anyone With a Link</title>
-      <link>https://www.techrepublic.com/article/news-grok-build-apps-sensitive-data-exposure/</link>
-      <pubDate>Tue, 17 Nov 2026 11:07:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Pick the Target, AI Does the Rest: Cyber Predictions for 2027</title>
-      <link>https://www.security.com/threat-intelligence/cyber-ai-predictions-2027</link>
-      <pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A phishing page interested in MX records, (Tue, Nov 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/33526</link>
-      <pubDate>Tue, 17 Nov 2026 10:56:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infoblox Confirms Supply Chain Breach After Attackers Access Sensitive Data</title>
-      <link>https://securityaffairs.com/203309/data-breach/infoblox-confirms-supply-chain-breach-after-attackers-access-sensitive-data.html</link>
-      <pubDate>Tue, 17 Nov 2026 10:54:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 365 Outage: What Went Wrong and Why Businesses Should Care</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-outlook-teams-outage-cause-network-failure/</link>
-      <pubDate>Tue, 17 Nov 2026 10:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICO Issues GTA 6 Scam Warning as Release Date Nears</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-gta-6-scam-warning-release/</link>
-      <pubDate>Tue, 17 Nov 2026 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OPTIMJACK: BBC, CNN and Zoom Among Targets of Optimizely Script Hijacking</title>
-      <link>https://securityaffairs.com/203289/malware/optimjack-bbc-cnn-and-zoom-among-targets-of-optimizely-script-hijacking.html</link>
-      <pubDate>Tue, 17 Nov 2026 09:38:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/</link>
-      <pubDate>Tue, 17 Nov 2026 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
