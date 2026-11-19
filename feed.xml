@@ -4,7 +4,47 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Thu, 19 Nov 2026 01:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:49:35 +0000</lastBuildDate>
+    <item>
+      <title>nginx2root:AI Discovers Five Critical nginx Flaws and a Path to Root</title>
+      <link>https://securityaffairs.com/203440/hacking/nginx2rootai-discovers-five-critical-nginx-flaws-and-a-path-to-root.html</link>
+      <pubDate>Thu, 19 Nov 2026 09:21:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rakuten Securities Breach Could Impact 15 Million Customers</title>
+      <link>https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/</link>
+      <pubDate>Thu, 19 Nov 2026 09:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE</title>
+      <link>https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html</link>
+      <pubDate>Thu, 19 Nov 2026 08:42:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle</title>
+      <link>https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html</link>
+      <pubDate>Thu, 19 Nov 2026 08:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19</title>
+      <link>https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html</link>
+      <pubDate>Thu, 19 Nov 2026 04:33:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)</title>
+      <link>https://isc.sans.edu/diary/rss/33536</link>
+      <pubDate>Thu, 19 Nov 2026 02:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI [Guest Diary], (Wed, Nov 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/33534</link>
+      <pubDate>Thu, 19 Nov 2026 01:53:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smashing Security podcast #493: Why your AI model could be a sleeper agent</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-493/</link>
+      <pubDate>Thu, 19 Nov 2026 00:14:52 +0000</pubDate>
+    </item>
     <item>
       <title>Outage or attack? Don’t let social media fill in the gaps</title>
       <link>https://www.malwarebytes.com/blog/ai/2026/11/outage-or-attack-dont-let-social-media-fill-in-the-gaps</link>
@@ -34,6 +74,11 @@
       <title>Java4Shell, NGINX2Shell and more: Why we are not at "Yellow", (Wed, Nov 18th)</title>
       <link>https://isc.sans.edu/diary/rss/33532</link>
       <pubDate>Wed, 18 Nov 2026 19:54:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2026 Tech Outages Timeline: What Went Wrong at Microsoft, AWS, and More</title>
+      <link>https://www.techrepublic.com/article/news-november-2026-tech-outages-timeline/</link>
+      <pubDate>Wed, 18 Nov 2026 19:30:35 +0000</pubDate>
     </item>
     <item>
       <title>Lawmakers call on White House to develop defensive AI cyber systems</title>
@@ -259,51 +304,6 @@
       <title>Every Detail Matters: From DFIR Intake to Investigative Context</title>
       <link>https://www.sophos.com/en-us/blog/every-detail-matters-from-dfir-intake-to-investigative-context</link>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defending Against Java4Shell: Vulnerability in OpenJDK Enables RCE on AVX-512 CPUs</title>
-      <link>https://www.sentinelone.com/blog/java4shell-vulnerability-in-openjdk-enables-rce-on-avx-512-cpus/</link>
-      <pubDate>Tue, 17 Nov 2026 22:19:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Services Disrupted as NSA Network Goes Down and Equinor Faces Cyberattack</title>
-      <link>https://securityaffairs.com/203354/security/apple-outages-add-to-growing-concerns-over-technology-service-disruptions.html</link>
-      <pubDate>Tue, 17 Nov 2026 20:52:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us</title>
-      <link>https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/</link>
-      <pubDate>Tue, 17 Nov 2026 20:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>National Security Agency network for internal communications goes down</title>
-      <link>https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down</link>
-      <pubDate>Tue, 17 Nov 2026 20:35:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quad9’s withdrawal from France: A canary in the coal mine</title>
-      <link>https://blog.cloudflare.com/quad9-withdrawal-from-france/</link>
-      <pubDate>Tue, 17 Nov 2026 20:24:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses</title>
-      <link>https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html</link>
-      <pubDate>Tue, 17 Nov 2026 19:34:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fireworks AI Breach Exposes Uber Data and Highlights Supply Chain Risks</title>
-      <link>https://securityaffairs.com/203339/data-breach/fireworks-ai-breach-exposes-uber-data-and-highlights-supply-chain-risks.html</link>
-      <pubDate>Tue, 17 Nov 2026 19:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI lost control of AI agents over 80 times, California alleges</title>
-      <link>https://www.malwarebytes.com/blog/ai/2026/11/openai-lost-control-of-ai-agents-over-80-times-california-alleges</link>
-      <pubDate>Tue, 17 Nov 2026 18:29:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security for the agentic era, powered by Microsoft Perception</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/</link>
-      <pubDate>Tue, 17 Nov 2026 18:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
