@@ -4,7 +4,42 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Fri, 20 Nov 2026 01:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:36:18 +0000</lastBuildDate>
+    <item>
+      <title>Hunt.io Uncovers Russian-Speaking Credential Theft Operation Targeting US Banks and Government Accounts</title>
+      <link>https://securityaffairs.com/203554/cyber-crime/hunt-io-uncovers-russian-speaking-credential-theft-operation-targeting-us-banks-and-government-accounts.html</link>
+      <pubDate>Fri, 20 Nov 2026 09:03:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain</title>
+      <link>https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/</link>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs</title>
+      <link>https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html</link>
+      <pubDate>Fri, 20 Nov 2026 07:11:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data</title>
+      <link>https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</link>
+      <pubDate>Fri, 20 Nov 2026 06:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It</title>
+      <link>https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html</link>
+      <pubDate>Fri, 20 Nov 2026 05:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)</title>
+      <link>https://isc.sans.edu/diary/rss/33538</link>
+      <pubDate>Fri, 20 Nov 2026 02:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them</title>
+      <link>https://blog.cloudflare.com/nginx2root/</link>
+      <pubDate>Fri, 20 Nov 2026 01:58:29 +0000</pubDate>
+    </item>
     <item>
       <title>Chaotic Eclipse Releases FastUnlock, a New Windows Zero-Day Vulnerability</title>
       <link>https://securityaffairs.com/203537/hacking/chaotic-eclipse-releases-fastunlock-a-new-windows-zero-day-vulnerability.html</link>
@@ -86,7 +121,7 @@
       <pubDate>Thu, 19 Nov 2026 15:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication</title>
+      <title>Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication</title>
       <link>https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html</link>
       <pubDate>Thu, 19 Nov 2026 15:11:06 +0000</pubDate>
     </item>
@@ -94,6 +129,21 @@
       <title>European Commission Cyberattack: ARTEX AI Tool Suspected in Prolonged Disruption</title>
       <link>https://securityaffairs.com/203483/hacking/european-commission-cyberattack-artex-ai-tool-suspected-in-prolonged-disruption.html</link>
       <pubDate>Thu, 19 Nov 2026 15:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/96698/</link>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>It hasn’t even been that long since PHP2Shell was disclosed—and now another PHP vulnerability?</title>
+      <link>https://asec.ahnlab.com/en/96690/</link>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java4Shell: JDK Vulnerability Exploiting a Flaw in High-Speed Base64 Processing Logic (CVE-2026-114938)</title>
+      <link>https://asec.ahnlab.com/en/96686/</link>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline</title>
@@ -196,7 +246,7 @@
       <pubDate>Thu, 19 Nov 2026 09:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE</title>
+      <title>Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth</title>
       <link>https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html</link>
       <pubDate>Thu, 19 Nov 2026 08:42:11 +0000</pubDate>
     </item>
@@ -254,56 +304,6 @@
       <title>Apache Roller RCE Flaw CVE-2026-129448 Under Active Attack</title>
       <link>https://securityaffairs.com/203419/security/apache-roller-rce-flaw-cve-2026-129448-under-active-attack.html</link>
       <pubDate>Wed, 18 Nov 2026 20:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Java4Shell, NGINX2Shell and more: Why we are not at "Yellow", (Wed, Nov 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/33532</link>
-      <pubDate>Wed, 18 Nov 2026 19:54:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>November 2026 Tech Outages Timeline: What Went Wrong at Microsoft, AWS, and More</title>
-      <link>https://www.techrepublic.com/article/news-november-2026-tech-outages-timeline/</link>
-      <pubDate>Wed, 18 Nov 2026 19:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers</title>
-      <link>https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html</link>
-      <pubDate>Wed, 18 Nov 2026 18:31:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE</title>
-      <link>https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html</link>
-      <pubDate>Wed, 18 Nov 2026 18:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required</title>
-      <link>https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html</link>
-      <pubDate>Wed, 18 Nov 2026 17:10:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five Critical Vulnerabilities Found in World's Most Widely Used Open-Source Web Server</title>
-      <link>https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/</link>
-      <pubDate>Wed, 18 Nov 2026 16:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most SecOps Leaders Are Changing the L1 Role as Agent Use Grows</title>
-      <link>https://www.infosecurity-magazine.com/news/secops-changing-l1-role-as-agent/</link>
-      <pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)</title>
-      <link>https://blog.cloudflare.com/java4shell-waf-protection/</link>
-      <pubDate>Wed, 18 Nov 2026 14:52:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio</title>
-      <link>https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio</link>
-      <pubDate>Wed, 18 Nov 2026 14:46:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scattered Spider Member Gets Six Years for Phishing and SIM-Swapping Attacks</title>
-      <link>https://securityaffairs.com/203408/cyber-crime/scattered-spider-member-gets-six-years-for-phishing-and-sim-swapping-attacks.html</link>
-      <pubDate>Wed, 18 Nov 2026 14:46:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
