@@ -4,7 +4,27 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Sun, 22 Nov 2026 13:58:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 20:37:36 +0000</lastBuildDate>
+    <item>
+      <title>A brief history of syslog timestamps, (Sun, Nov 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/33530</link>
+      <pubDate>Sun, 22 Nov 2026 18:40:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Signal Is Blocking AI Agents From Reading Your Screen</title>
+      <link>https://securityaffairs.com/203742/ai/signal-is-blocking-ai-agents-from-reading-your-screen.html</link>
+      <pubDate>Sun, 22 Nov 2026 18:01:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 9</title>
+      <link>https://securityaffairs.com/203725/ai/security-affairs-ai-cybersecurity-newsletter-round-9.html</link>
+      <pubDate>Sun, 22 Nov 2026 14:31:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 123</title>
+      <link>https://securityaffairs.com/203714/malware/security-affairs-malware-newsletter-round-123-2.html</link>
+      <pubDate>Sun, 22 Nov 2026 13:56:43 +0000</pubDate>
+    </item>
     <item>
       <title>Security Affairs newsletter Round 605 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
       <link>https://securityaffairs.com/203701/breaking-news/security-affairs-newsletter-round-605-by-pierluigi-paganini-international-edition.html</link>
@@ -124,6 +144,11 @@
       <title>Container Store restores systems after cyberattack</title>
       <link>https://therecord.media/container-store-restores-systems-cyberattack</link>
       <pubDate>Fri, 20 Nov 2026 19:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>n0n extortion gang leaks data of JPMorgan Chase, Visa, and Mastercard customers</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/n0n-extortion-leaks-data-jpmorgan-chase-visa-mastercard</link>
+      <pubDate>Fri, 20 Nov 2026 18:57:38 +0000</pubDate>
     </item>
     <item>
       <title>UK operation wards off risk of cyber-attack on supermarket fridges and freezers</title>
@@ -256,11 +281,6 @@
       <pubDate>Fri, 20 Nov 2026 11:39:11 +0000</pubDate>
     </item>
     <item>
-      <title>Trump’s First Move After the Outages: Fire the Cyber Director</title>
-      <link>https://securityaffairs.com/203581/intelligence/trumps-first-move-after-the-outages-fire-the-cyber-director.html</link>
-      <pubDate>Fri, 20 Nov 2026 11:23:45 +0000</pubDate>
-    </item>
-    <item>
       <title>SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws</title>
       <link>https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html</link>
       <pubDate>Fri, 20 Nov 2026 10:38:22 +0000</pubDate>
@@ -276,11 +296,6 @@
       <pubDate>Fri, 20 Nov 2026 09:38:15 +0000</pubDate>
     </item>
     <item>
-      <title>Hunt.io Uncovers Russian-Speaking Credential Theft Operation Targeting US Banks and Government Accounts</title>
-      <link>https://securityaffairs.com/203554/cyber-crime/hunt-io-uncovers-russian-speaking-credential-theft-operation-targeting-us-banks-and-government-accounts.html</link>
-      <pubDate>Fri, 20 Nov 2026 09:03:11 +0000</pubDate>
-    </item>
-    <item>
       <title>Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain</title>
       <link>https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/</link>
       <pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
@@ -289,21 +304,6 @@
       <title>ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs</title>
       <link>https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html</link>
       <pubDate>Fri, 20 Nov 2026 07:11:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It</title>
-      <link>https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html</link>
-      <pubDate>Fri, 20 Nov 2026 05:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/33538</link>
-      <pubDate>Fri, 20 Nov 2026 02:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them</title>
-      <link>https://blog.cloudflare.com/nginx2root/</link>
-      <pubDate>Fri, 20 Nov 2026 01:58:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
