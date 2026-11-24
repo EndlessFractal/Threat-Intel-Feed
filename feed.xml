@@ -4,10 +4,70 @@
     <title>EndlessFractal's Threat Intel Feed</title>
     <description>A combined RSS feed of the 60 most recent articles from various sources</description>
     <link>https://endlessfractal.github.io/Threat-Intel-Feed/feed.xml</link>
-    <lastBuildDate>Tue, 24 Nov 2026 01:33:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:57:28 +0000</lastBuildDate>
+    <item>
+      <title>Researchers planted secrets in AI prompts. Attackers found them</title>
+      <link>https://www.malwarebytes.com/blog/ai/2026/11/researchers-planted-secrets-in-ai-prompts-attackers-found-them</link>
+      <pubDate>Tue, 24 Nov 2026 11:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets</title>
+      <link>https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html</link>
+      <pubDate>Tue, 24 Nov 2026 10:44:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>LaLiga Says Football Fans’ Personal Data Stolen</title>
+      <link>https://www.infosecurity-magazine.com/news/la-liga-says-football-fans/</link>
+      <pubDate>Tue, 24 Nov 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Find a New AI Attack Path: Agent Instructions</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/</link>
+      <pubDate>Tue, 24 Nov 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login</title>
+      <link>https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html</link>
+      <pubDate>Tue, 24 Nov 2026 08:34:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers May Have Breached FBI Database Used by Police Nationwide</title>
+      <link>https://securityaffairs.com/203865/cyber-crime/hackers-may-have-breached-fbi-database-used-by-police-nationwide.html</link>
+      <pubDate>Tue, 24 Nov 2026 07:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching</title>
+      <link>https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html</link>
+      <pubDate>Tue, 24 Nov 2026 06:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day</title>
+      <link>https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html</link>
+      <pubDate>Tue, 24 Nov 2026 06:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)</title>
+      <link>https://isc.sans.edu/diary/rss/33550</link>
+      <pubDate>Tue, 24 Nov 2026 02:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)</title>
+      <link>https://isc.sans.edu/diary/rss/33552</link>
+      <pubDate>Tue, 24 Nov 2026 02:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers breach Austrian Foreign Ministry website, access diplomats' contact details</title>
       <link>https://therecord.media/austrian-foreign-ministry-says-website-hacked</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day</title>
+      <link>https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data</title>
+      <link>https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident</link>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -31,19 +91,9 @@
       <pubDate>Mon, 23 Nov 2026 17:45:15 +0000</pubDate>
     </item>
     <item>
-      <title>CrowdStrike to purchase Zscaler for $43.9 billion</title>
-      <link>https://therecord.media/crowdstrike-zscaler</link>
-      <pubDate>Mon, 23 Nov 2026 17:14:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Bots Hide Behind AI Agent Names to Hunt for Secrets</title>
       <link>https://www.infosecurity-magazine.com/news/secrethunting-trafficai-agent/</link>
       <pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi</title>
-      <link>https://therecord.media/norway-microsoft-cyberattack-equinor</link>
-      <pubDate>Mon, 23 Nov 2026 15:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Muse AI got nosy and started making things up, Meta insiders say</title>
@@ -251,59 +301,9 @@
       <pubDate>Sun, 22 Nov 2026 05:03:41 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberattack on Austrian Foreign Ministry Exposes Diplomatic Staff Data</title>
-      <link>https://securityaffairs.com/203680/hacking/cyberattack-on-austrian-foreign-ministry-exposes-diplomatic-staff-data.html</link>
-      <pubDate>Sat, 21 Nov 2026 18:22:52 +0000</pubDate>
-    </item>
-    <item>
       <title>A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats</title>
       <link>https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html</link>
       <pubDate>Sat, 21 Nov 2026 11:53:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys</title>
-      <link>https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html</link>
-      <pubDate>Sat, 21 Nov 2026 11:05:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access</title>
-      <link>https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html</link>
-      <pubDate>Sat, 21 Nov 2026 11:03:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS</title>
-      <link>https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html</link>
-      <pubDate>Sat, 21 Nov 2026 08:49:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge</title>
-      <link>https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html</link>
-      <pubDate>Sat, 21 Nov 2026 08:49:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</title>
-      <link>https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</link>
-      <pubDate>Sat, 21 Nov 2026 00:36:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6 PC Scam Kit Listed for $200: How to Spot the Scam</title>
-      <link>https://www.techrepublic.com/article/news-gta-6-pc-download-scam-kit/</link>
-      <pubDate>Fri, 20 Nov 2026 22:39:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: The Largest Squid Ever Filmed</title>
-      <link>https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html</link>
-      <pubDate>Fri, 20 Nov 2026 22:04:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dialing for Data: Inside the Com’s High-Profile Heists</title>
-      <link>https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/</link>
-      <pubDate>Fri, 20 Nov 2026 22:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)</title>
-      <link>https://blog.cloudflare.com/ruby2shell-waf-protection/</link>
-      <pubDate>Fri, 20 Nov 2026 20:24:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
